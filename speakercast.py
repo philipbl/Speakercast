@@ -150,6 +150,7 @@ def _get_talk_info(talk, package, year, month):
     speaker = _clean_speaker(talk['secondary_title_component'])
     talk_url = talk['web_url']
     preview = _get_preview(talk, package)
+    talk_html = package.html(uri=talk['uri'])
 
     # Get time information
     date = (year, month)
@@ -172,6 +173,7 @@ def _get_talk_info(talk, package, year, month):
             'uri': talk['uri'],
             'url': talk_url,
             'preview': preview,
+            'html': talk_html,
             'audio_url': audio_url,
             'audio_size': audio_size}
 
@@ -217,8 +219,7 @@ def _feed_version(version=None):
 
 def _create_feed(speaker, talks, file_name):
     LOGGER.info("Creating feed for %s", speaker)
-    now = datetime.now()
-    now = now.replace(tzinfo=pytz.timezone('US/Mountain'))
+    updated = talks[0]['time']
 
     fg = FeedGenerator()
     fg.load_extension('podcast')
@@ -230,7 +231,7 @@ def _create_feed(speaker, talks, file_name):
     fg.description(f'General Conference talks by {speaker}.')
     fg.author({'name':'Philip Lundrigan', 'email':'philiplundrigan@gmail.com'})
     fg.generator('Speakercast')
-    fg.pubDate(now)
+    fg.pubDate(updated)
     fg.podcast.itunes_category('Religion & Spirituality', 'Christianity')
 
     for talk in talks:
@@ -238,6 +239,7 @@ def _create_feed(speaker, talks, file_name):
         fe.id('http://lernfunk.de/media/654321/1/file.mp3')
         fe.title(talk['title'])
         fe.description(talk['preview'])
+        fe.content(talk['html'], type='CDATA')
         fe.enclosure(talk['audio_url'], str(talk['audio_size']), 'audio/mpeg')
         fe.id(talk['uri'])
         fe.link(href=talk['url'])
