@@ -10,6 +10,7 @@ import json
 import os
 import queue
 import sqlite3
+import urllib.parse
 
 from feedgen.feed import FeedGenerator
 from gospellibrary.catalogs import CatalogDB, current_catalog_version
@@ -224,7 +225,7 @@ def _create_feed(speaker, talks, file_name):
     fg.language('en')
     fg.title(f'Talks By {speaker}')
     fg.link(href='http://philip.lundrigan.org/Speakercast/')
-    fg.image(url=f'http://philip.lundrigan.org/Speakercast/covers/{speaker}.jpg',
+    fg.image(url=f'http://philip.lundrigan.org/Speakercast/covers/{urllib.parse.quote(speaker)}.jpg',
              title=f'General Conference talks by {speaker}.')
     fg.description(f'General Conference talks by {speaker}.')
     fg.author({'name':'Philip Lundrigan', 'email':'philiplundrigan@gmail.com'})
