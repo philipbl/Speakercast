@@ -1,8 +1,4 @@
-Flask==0.10.1
-gunicorn==19.3.0
-itsdangerous==0.24
-Jinja2==2.7.3
-lxml==3.4.2
-MarkupSafe==0.23
-PyRSS2Gen==1.1
-Werkzeug==0.10.4
+feedgen==0.5.1
+https://github.com/CrossWaterBridge/python-gospel-library/archive/master.zip
+pytz==2017.2
+requests==2.13.0

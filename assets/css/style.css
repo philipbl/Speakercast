@@ -1,0 +1,247 @@
+/* colors: http://www.colourlovers.com/palette/3840327/Shh_its_a_secret */
+/*
+Preach my gospel:
+  blue: 0A588E;
+  orange: CA5617;
+  red: C92429;
+*/
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 300;
+  src: local("Lato Light"), local("Lato-Light"), url(https://fonts.gstatic.com/s/lato/v11/0DeoTBMnW4sOpD0Zb8OQSALUuEpTyoUstqEm5AMlJo4.ttf) format("truetype");
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: local("Lato Regular"), local("Lato-Regular"), url(https://fonts.gstatic.com/s/lato/v11/1EqTbJWOZQBfhZ0e3RL9uvesZW2xOQ-xsNqO47m55DA.ttf) format("truetype");
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 700;
+  src: local("Lato Bold"), local("Lato-Bold"), url(https://fonts.gstatic.com/s/lato/v11/MZ1aViPqjfvZwVD_tzjjkwLUuEpTyoUstqEm5AMlJo4.ttf) format("truetype");
+}
+::selection {
+  background: rgba(10, 88, 142, 0.4);
+  /* WebKit/Blink Browsers */
+}
+
+::-moz-selection {
+  background: rgba(10, 88, 142, 0.4);
+  /* Gecko Browsers */
+}
+
+[ng\:cloak], [ng-cloak], .ng-cloak {
+  display: none !important;
+}
+
+.btn {
+  background: transparent;
+}
+
+body {
+  color: #666;
+  font-family: 'Lato', sans-serif;
+}
+
+.intro-section {
+  padding: 20px 0;
+  color: white;
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
+  text-align: center;
+  background: #008080 url("../images/concrete_seamless_teal.png");
+}
+@media (min-width: 767px) {
+  .intro-section {
+    padding: 80px 0;
+  }
+}
+
+.logo {
+  font-size: 50px;
+  /*font-family: 'Pacifico', cursive;*/
+}
+@media (min-width: 768px) {
+  .logo {
+    font-size: 100px;
+  }
+}
+
+.about-section {
+  padding: 30px 0;
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.feed-section {
+  background: white;
+}
+.feed-section .container {
+  padding-bottom: 20px;
+}
+
+.speaker-link {
+  font-size: 16px;
+  line-height: 25px;
+}
+
+.panel-orange {
+  border-color: #E8A32E;
+}
+.panel-orange > .panel-heading {
+  background-image: -webkit-linear-gradient(top, #E8A32E 0, #E8A32E 100%);
+  background-image: -o-linear-gradient(top, #E8A32E 0, #E8A32E 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#E8A32E), to(#E8A32E));
+  background-image: linear-gradient(to bottom, #E8A32E 0, #E8A32E 100%);
+  color: #fff;
+  background-color: #E8A32E;
+  border-color: #E8A32E;
+}
+
+.panel-red {
+  border-color: #C92429;
+}
+.panel-red > .panel-heading {
+  background-image: -webkit-linear-gradient(top, #C92429 0, #C92429 100%);
+  background-image: -o-linear-gradient(top, #C92429 0, #C92429 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#C92429), to(#C92429));
+  background-image: linear-gradient(to bottom, #C92429 0, #C92429 100%);
+  color: #fff;
+  background-color: #C92429;
+  border-color: #C92429;
+}
+
+.panel-blue {
+  border-color: #0A588E;
+}
+.panel-blue > .panel-heading {
+  background-image: -webkit-linear-gradient(top, #0A588E 0, #0A588E 100%);
+  background-image: -o-linear-gradient(top, #0A588E 0, #0A588E 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#0A588E), to(#0A588E));
+  background-image: linear-gradient(to bottom, #0A588E 0, #0A588E 100%);
+  color: #fff;
+  background-color: #0A588E;
+  border-color: #0A588E;
+}
+
+.box {
+  padding: 2px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+.selected-panel.affix {
+  top: 10px;
+  width: 100%;
+  margin-bottom: 5px;
+  z-index: 10;
+}
+@media (max-width: 767px) {
+  .selected-panel.affix {
+    top: inherit;
+    bottom: 0;
+    padding-right: 30px;
+  }
+}
+@media (min-width: 768px) {
+  .selected-panel.affix {
+    width: 220px;
+  }
+}
+@media (min-width: 992px) {
+  .selected-panel.affix {
+    width: 294px;
+  }
+}
+
+.selected-panel.affix-bottom {
+  position: absolute;
+  width: 100%;
+}
+@media (min-width: 768px) {
+  .selected-panel.affix-bottom {
+    width: 220px;
+  }
+}
+@media (min-width: 992px) {
+  .selected-panel.affix-bottom {
+    width: 294px;
+  }
+}
+
+.sortable-container {
+  margin-top: 8px;
+}
+
+.sortable {
+  margin: 0 5px;
+}
+
+.selected-speakers {
+  margin: 0 0 10px 0;
+}
+
+.feed-link-close {
+  margin: 0 6px;
+}
+
+.wrap {
+  white-space: pre-wrap;
+  /* CSS3 */
+  white-space: -moz-pre-wrap;
+  /* Firefox */
+  white-space: -pre-wrap;
+  /* Opera <7 */
+  white-space: -o-pre-wrap;
+  /* Opera 7 */
+  word-wrap: break-word;
+  /* IE */
+}
+
+.first-presidency {
+  margin-bottom: 25px;
+}
+
+.checkbox {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.checkbox + .checkbox {
+  margin-top: 0px;
+}
+
+.speaker-controls {
+  margin-bottom: 10px;
+}
+
+section.triangle {
+  position: relative;
+}
+section.triangle::after {
+  position: absolute;
+  content: '';
+  pointer-events: none;
+  bottom: -20px;
+  background: inherit;
+  left: 50%;
+  width: 50px;
+  height: 50px;
+  -webkit-transform: translateX(-50%) rotate(45deg);
+  transform: translateX(-50%) rotate(45deg);
+}
+
+.footer-section {
+  padding: 40px 0 10px 0;
+  color: white;
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
+  text-align: center;
+  background: #008080 url("../images/concrete_seamless_teal.png");
+}
+@media (min-width: 767px) {
+  .footer-section {
+    padding: 80px 0 40px 0;
+  }
+}

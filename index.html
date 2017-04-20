@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en" ng-app="speakercastApp">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/css/style.css">
+
+  <script src="assets/js/angular.min.js"></script>
+  <script src="assets/js/controller.js"></script>
+  <title>Speakercast</title>
+</head>
+<body ng-controller="SpeakerController" bs-breakpoint>
+  <div>
+    <section class="intro-section triangle" id="intro-section">
+      <div class="container">
+          <span class="logo">Speakercast</span>
+          <p class="lead subtitle">A podcast for your favorite speakers</p>
+      </div>
+    </section>
+
+    <section class="about-section">
+      <div class="container">
+        <div class="row">
+
+        </div>
+      </div>
+    </section>
+
+    <section class="feed-section triangle" id="feed-section">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12">
+            <div class="panel-group" id="accordion" role="tablist">
+              <div class="panel panel-orange">
+                <div class="panel-heading" role="tab">
+                  <h4 class="panel-title">Current Apostles</h4>
+                </div>
+                <div class="" role="tabpanel">
+                  <div class="panel-body ng-cloak">
+                    <div class="row first-presidency">
+                      <div class="col-md-4 col-sm-6 checkbox" ng-repeat="speaker in first_presidency | orderBy:'index'">
+                        <a href="feeds/{{speaker.name}}.rss" class="speaker-link">{{speaker.name}} <span class="badge">{{speaker.count}}</span></a>
+                      </div>
+                    </div>
+                    <div class="row twelve-apostles">
+                      <div class="col-md-4 col-sm-6 checkbox" ng-repeat="speaker in twelve_apostles | orderBy:'index'" my-repeat-directive>
+                        <a href="feeds/{{speaker.name}}.rss" class="speaker-link">{{speaker.name}} <span class="badge">{{speaker.count}}</span></a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="panel panel-orange" id="last-panel">
+                <div class="panel-heading" role="tab">
+                  <h4 class="panel-title">All General Conference Speakers</h4>
+                </div>
+                <div role="tabpanel" aria-labelledby="headingTwo">
+                  <div class="panel-body ng-cloak">
+                    <div class="row speaker-controls">
+                      <div class="col-sm-6 speaker-search">
+                        <form>
+                          <input type="text" id="speaker-search" class="form-control" ng-model="searchText" onkeydown="onkeypressed(event, this);" placeholder="Search Speaker Name">
+                        </form>
+                      </div>
+                      <div class="col-sm-6 sortable-container">
+                        <span>Sort by:</span><a href class="sortable" ng-click="sortBy(getLastName, false)">Alphabetically</a>|<a href class="sortable" ng-click="sortBy('count', true)">Number of talks</a>
+                      </div>
+                    </div>
+                    <div class="row">
+                      <div class="col-md-4 col-sm-6" ng-repeat="speaker in speakers | filter:searchText">
+                        <a href="feeds/{{speaker.name}}.rss" class="speaker-link">{{speaker.name}} <span class="badge">{{speaker.count}}</span></a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="footer-section" id="footer-section">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12">
+            <p>Created by Philip Lundrigan</p>
+            <p>View on <a href="https://github.com/philipbl/SpeakerCast">Github</a></p>
+            <p>This site is not affiliated with The Church of Jesus Christ of Latter-day Saints</p>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+</body>
+</html>

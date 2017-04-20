@@ -1,3 +1,5 @@
 .DS_Store
-*.rss
-*.xml
+db
+mongod.conf
+.python-version
+env
