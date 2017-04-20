@@ -223,7 +223,9 @@ def _create_feed(speaker, talks, file_name):
     fg.load_extension('podcast')
     fg.language('en')
     fg.title(f'Talks By {speaker}')
-    fg.link(href='http://speakercast.net/')
+    fg.link(href='http://philip.lundrigan.org/Speakercast/')
+    fg.image(url=f'http://philip.lundrigan.org/Speakercast/covers/{speaker}.jpg',
+             title=f'General Conference talks by {speaker}.')
     fg.description(f'General Conference talks by {speaker}.')
     fg.author({'name':'Philip Lundrigan', 'email':'philiplundrigan@gmail.com'})
     fg.generator('Speakercast')
