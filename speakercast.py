@@ -249,7 +249,8 @@ def _create_feed(speaker, talks, file_name):
 def _create_cover(speaker, file_name):
     LOGGER.info("Creating cover for %s", speaker)
     text = f'Talks By\n{speaker}'
-    spacing = 80
+    font_size = 120
+    spacing = font_size / 2
 
     img = Image.open(os.path.join("assets", "images", "cover.jpg"))
     img = img.convert('RGBA')
@@ -257,11 +258,19 @@ def _create_cover(speaker, file_name):
     layer = Image.new('RGBA', img.size, (0,0,0,0))
 
     draw = ImageDraw.Draw(layer)
-    font = ImageFont.truetype(os.path.join("assets", "Montserrat-Regular.ttf"), 160)
+    font = ImageFont.truetype(os.path.join("assets", "Montserrat-Regular.ttf"), font_size)
 
     # Keep adding newlines until text fits
+    original_text = text
     size = draw.multiline_textsize(text, font=font, spacing=spacing)
     while size[0] > img.size[0]:
+        if ' ' not in text:
+            # There is no more spaces to convert to new lines.
+            # Make the font smaller and try again
+            font_size -= 5
+            font = ImageFont.truetype(os.path.join("assets", "Montserrat-Regular.ttf"), font_size)
+            text = original_text
+
         text = '\n'.join(text.rsplit(' ', 1))
         size = draw.multiline_textsize(text, font=font, spacing=spacing)
 
