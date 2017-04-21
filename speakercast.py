@@ -232,6 +232,7 @@ def _create_feed(speaker, talks, file_name):
     fg.author({'name':'Philip Lundrigan', 'email':'philiplundrigan@gmail.com'})
     fg.generator('Speakercast')
     fg.pubDate(updated)
+    fg.lastBuildDate(updated)
     fg.podcast.itunes_category('Religion & Spirituality', 'Christianity')
 
     for talk in talks:
