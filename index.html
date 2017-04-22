@@ -24,7 +24,7 @@
     <section class="about-section">
       <div class="container">
         <div class="row">
-
+          <p class="lead subtitle">Speakercast allows you to listen to all of the talks from your favorite General Conference speakers. Click on a name to create a personalized podcast with their talks.</p>
         </div>
       </div>
     </section>
@@ -42,12 +42,12 @@
                   <div class="panel-body ng-cloak">
                     <div class="row first-presidency">
                       <div class="col-md-4 col-sm-6 checkbox" ng-repeat="speaker in first_presidency | orderBy:'index'">
-                        <a href="feeds/{{speaker.name}}.rss" class="speaker-link">{{speaker.name}} <span class="badge">{{speaker.count}}</span></a>
+                        <a href class="speaker-link" ng-click="feed(speaker.name)">{{speaker.name}} <span class="badge">{{speaker.count}}</span></a>
                       </div>
                     </div>
                     <div class="row twelve-apostles">
-                      <div class="col-md-4 col-sm-6 checkbox" ng-repeat="speaker in twelve_apostles | orderBy:'index'" my-repeat-directive>
-                        <a href="feeds/{{speaker.name}}.rss" class="speaker-link">{{speaker.name}} <span class="badge">{{speaker.count}}</span></a>
+                      <div class="col-md-4 col-sm-6" ng-repeat="speaker in twelve_apostles | orderBy:'index'" my-repeat-directive>
+                        <a href class="speaker-link" ng-click="feed(speaker.name)">{{speaker.name}} <span class="badge">{{speaker.count}}</span></a>
                       </div>
                     </div>
                   </div>
@@ -71,7 +71,7 @@
                     </div>
                     <div class="row">
                       <div class="col-md-4 col-sm-6" ng-repeat="speaker in speakers | filter:searchText">
-                        <a href="feeds/{{speaker.name}}.rss" class="speaker-link">{{speaker.name}} <span class="badge">{{speaker.count}}</span></a>
+                        <a href ng-click="feed(speaker.name)" class="speaker-link">{{speaker.name}} <span class="badge">{{speaker.count}}</span></a>
                       </div>
                     </div>
                   </div>
@@ -93,6 +93,38 @@
         </div>
       </div>
     </section>
+    <div id="feed-modal" class="modal fade" tabindex="-1" role="dialog">
+      <div class="modal-dialog feed-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            <h4 class="modal-title">Subscribe</h4>
+          </div>
+          <div class="modal-body">
+            <p>Subscribe using the following apps:</p>
+            <p><img src="assets/images/castro.svg" alt="Castro" class="app-icon"><a href="{{castroLink}}">Castro</a></p>
+            <p><img src="assets/images/downcast.svg" alt="Downcast" class="app-icon"><a href="{{downcastLink}}">Downcast</a></p>
+            <p><img src="assets/images/itunes.jpg" alt="iTunes" class="app-icon"><a href="{{itunesLink}}">iTunes</a></p>
+            <p><img src="assets/images/podcasts.png" alt="Podcasts" class="app-icon"><a href="{{podcastsLink}}">Podcasts</a></p>
+            <p><img src="assets/images/overcast.svg" alt="Overcast" class="app-icon"><a href="{{overcastLink}}">Overcast</a></p>
+            <p>Or use this link to subscribe:</p>
+            <div class="input-group">
+              <input type="text" class="form-control" id="copy-input" value="{{link}}">
+              <span class="input-group-btn">
+                <button class="btn btn-default copy-button" type="button" data-clipboard-target="#copy-input"><img class="clippy" src="assets/images/clippy.svg" width="13" alt="Copy to clipboard"></button>
+              </span>
+            </div>
+          </div>
+        </div><!-- /.modal-content -->
+      </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
   </div>
+
+  <script src="assets/js/jquery-2.1.4.min.js"></script>
+  <script src="assets/js/bootstrap.min.js"></script>
+  <script src="assets/js/clipboard.min.js"></script>
+  <script type="text/javascript">
+    new Clipboard('.copy-button');
+  </script>
 </body>
 </html>

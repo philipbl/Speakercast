@@ -70,7 +70,7 @@ body {
 }
 
 .about-section {
-  padding: 30px 0;
+  padding: 60px 30px 30px 30px;
   text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
   text-align: center;
 }
@@ -231,6 +231,15 @@ section.triangle::after {
   height: 50px;
   -webkit-transform: translateX(-50%) rotate(45deg);
   transform: translateX(-50%) rotate(45deg);
+}
+
+.feed-dialog {
+  width: 400px;
+}
+
+.app-icon {
+  width: 60px;
+  margin-right: 10px;
 }
 
 .footer-section {
