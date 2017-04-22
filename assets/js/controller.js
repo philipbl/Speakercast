@@ -7,7 +7,7 @@ speakercastApp.config( [
   '$compileProvider',
   function( $compileProvider )
   {
-      $compileProvider.aHrefSanitizationWhitelist(/^\s*(https?|ftp|itpc|mailto|overcast|castro|downcast|instacast|pcast|chrome-extension):/);
+      $compileProvider.aHrefSanitizationWhitelist(/^\s*(https?|ftp|itpc|mailto|overcast|castro|downcast|pktc|instacast|pcast|chrome-extension):/);
       // Angular before v1.2 uses $compileProvider.urlSanitizationWhitelist(...)
   }
 ]);
@@ -54,6 +54,7 @@ speakercastApp.controller('SpeakerController', ['$scope', '$http', 'orderByFilte
       $scope.downcastLink = "downcast://" + url;
       $scope.itunesLink = "itpc://" + url;
       $scope.podcastsLink = "pcast://" + url;
+      $scope.pocketcastsLink = "pktc://subscribe/" + url;
       $scope.overcastLink = "overcast://x-callback-url/add?url=" + url;
       $scope.link = "http://" + url;
 
