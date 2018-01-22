@@ -1,7 +1,7 @@
 var speakercastApp = angular.module('speakercastApp', []);
 
-var first_presidency_names = ["Thomas S. Monson", "Henry B. Eyring", "Dieter F. Uchtdorf"];
-var twelve_apostles_names = ["Russell M. Nelson", "Dallin H. Oaks", "M. Russell Ballard", "Robert D. Hales", "Jeffrey R. Holland", "David A. Bednar", "Quentin L. Cook", "D. Todd Christofferson", "Neil L. Andersen", "Ronald A. Rasband", "Gary E. Stevenson", "Dale G. Renlund"];
+var first_presidency_names = ["Russell M. Nelson", "Dallin H. Oaks", "Henry B. Eyring"];
+var twelve_apostles_names = ["M. Russell Ballard", "Robert D. Hales", "Jeffrey R. Holland", "Dieter F. Uchtdorf", "David A. Bednar", "Quentin L. Cook", "D. Todd Christofferson", "Neil L. Andersen", "Ronald A. Rasband", "Gary E. Stevenson", "Dale G. Renlund"];
 
 speakercastApp.config( [
   '$compileProvider',
