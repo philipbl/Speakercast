@@ -704,3 +704,34 @@ def test_generate_feeds_prunes_a_departed_speaker(tmp_path, monkeypatch, talks):
     assert not (feeds / "Old Name.rss").exists()
     assert not (covers / "Old Name.jpg").exists()
     assert (feeds / "Test Speaker.rss").exists()
+
+
+def test_partial_run_does_not_prune_the_back_catalogue(tmp_path, monkeypatch, talks):
+    """`--start 2026-04` must not delete every feed outside that range."""
+    feeds, covers = tmp_path / "feeds", tmp_path / "covers"
+    feeds.mkdir()
+    covers.mkdir()
+    (feeds / "Historic Speaker.rss").write_text("<rss/>")
+    (covers / "Historic Speaker.jpg").write_bytes(b"")
+
+    monkeypatch.setattr(sc, "collect_talks", lambda *a, **k: {"Test Speaker": talks})
+    monkeypatch.setattr(sc, "ASSET_DIR", tmp_path)
+
+    sc.generate_feeds(start=(2026, 4), feed_dir=feeds, cover_dir=covers)
+
+    assert (feeds / "Historic Speaker.rss").exists()
+    assert (covers / "Historic Speaker.jpg").exists()
+
+
+def test_bounded_end_also_skips_pruning(tmp_path, monkeypatch, talks):
+    feeds, covers = tmp_path / "feeds", tmp_path / "covers"
+    feeds.mkdir()
+    covers.mkdir()
+    (feeds / "Historic Speaker.rss").write_text("<rss/>")
+
+    monkeypatch.setattr(sc, "collect_talks", lambda *a, **k: {"Test Speaker": talks})
+    monkeypatch.setattr(sc, "ASSET_DIR", tmp_path)
+
+    sc.generate_feeds(end=(2000, 4), feed_dir=feeds, cover_dir=covers)
+
+    assert (feeds / "Historic Speaker.rss").exists()

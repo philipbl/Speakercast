@@ -531,11 +531,16 @@ def generate_feeds(
         if not cover.exists():
             build_cover(speaker, cover)
 
-    stale = prune_stale(set(speakers), feed_dir, ".rss") + prune_stale(
-        set(speakers), cover_dir, ".jpg"
-    )
-    if stale:
-        LOGGER.info("Removed %d stale files", len(stale))
+    # Only a full run knows the complete speaker list. Pruning after a partial
+    # one ("--start 2026-04") would delete the entire back catalogue.
+    if tuple(start) == FIRST_CONFERENCE and end is None:
+        stale = prune_stale(set(speakers), feed_dir, ".rss") + prune_stale(
+            set(speakers), cover_dir, ".jpg"
+        )
+        if stale:
+            LOGGER.info("Removed %d stale files", len(stale))
+    else:
+        LOGGER.info("Partial run (%s..%s); skipping prune of stale feeds", start, end)
 
     write_index(speakers, ASSET_DIR / "data.json")
     LOGGER.info("Done: %d speakers, %d talks", len(speakers), sum(map(len, speakers.values())))
