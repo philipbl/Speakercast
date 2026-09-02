@@ -33,14 +33,18 @@ uv run speakercast
 Useful flags:
 
 ```bash
-uv run speakercast --start 2024-04          # only recent conferences
 uv run speakercast --workers 12             # more concurrency
 uv run speakercast --refresh                # ignore the on-disk cache
+uv run speakercast --start 2026-04          # development only, see below
 ```
 
 Fetched conferences are cached in `.cache/` (gitignored). Past conferences never change, so only
-the most recent one is refetched on each run — a warm cache turns a full rebuild into a handful of
-requests.
+the most recent one is refetched on each run — a warm cache turns a full rebuild into about thirty
+seconds, which is why normal operation is always a full run.
+
+`--start` / `--end` exist for development against a small slice of history. A bounded run only
+knows about the speakers in that range, so it rewrites those speakers' feeds with just the in-range
+talks and skips pruning entirely. Don't commit the output of one.
 
 ## Tests
 
