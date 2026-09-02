@@ -1,77 +1,76 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Talks By W. Don Ladd</title>
-    <link>http://philip.lundrigan.org/Speakercast/</link>
+    <link>https://philip.lundrigan.org/Speakercast/</link>
     <description>General Conference talks by W. Don Ladd.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Speakercast</generator>
     <image>
-      <url>http://philip.lundrigan.org/Speakercast/covers/W.%20Don%20Ladd.jpg</url>
+      <url>https://philip.lundrigan.org/Speakercast/covers/W.%20Don%20Ladd.jpg</url>
       <title>General Conference talks by W. Don Ladd.</title>
-      <link>http://philip.lundrigan.org/Speakercast/</link>
+      <link>https://philip.lundrigan.org/Speakercast/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Oct 1994 14:00:00 -0700</lastBuildDate>
-    <pubDate>Sat, 01 Oct 1994 14:00:00 -0700</pubDate>
+    <lastBuildDate>Sat, 01 Oct 1994 14:00:00 -0600</lastBuildDate>
+    <pubDate>Sat, 01 Oct 1994 14:00:00 -0600</pubDate>
+    <itunes:author>W. Don Ladd</itunes:author>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
+    <itunes:image href="https://philip.lundrigan.org/Speakercast/covers/W.%20Don%20Ladd.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>General Conference talks by W. Don Ladd.</itunes:summary>
     <item>
       <title>“Make Thee an Ark”</title>
-      <link>http://www.lds.org/general-conference/1994/10/make-thee-an-ark?lang=eng</link>
-      <description>“There are … so many kinds of voices in the world,” said the Apostle Paul to the Corinthians two thousand years ago (). They seemed to be troubled by the same conflicting messages we hear today, and it can be frightening when you consider how fragile</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/1994/10/make-thee-an-ark" schema-version="1" doc-id="general-conference_94911_000_013" doc-version="2" hash="exsoBA">
-  
-  <div class="heading" uri="/general-conference/1994/10/make-thee-an-ark.head">
-    <h1 class="title" pid="l2vMpZEWBU-MNZ4Qh-qJ3Q" hash="FEkydg">“Make Thee an Ark”</h1>
-    <p class="authorName" pid="XNlV8hOzakGuRA6LT99gTw" hash="lhQ5Jw">W. Don Ladd</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/1994/10/make-thee-an-ark.t1">
-      <img src="ensignlp.nfo-o-2006.jpg" alt="Elder W. Don Ladd" pid="7b_g8sdSwUqoXwNijsSWSw" hash="W36zPQ" />
-      <p class="para" uri="/general-conference/1994/10/make-thee-an-ark.p1" pid="NUzFwS6X8kWZI8HbDJrf6w" hash="EFLNJw">“There are … so many kinds of voices in the world,” said the Apostle Paul to the Corinthians two thousand years ago (<a href="/scriptures/nt/1-cor/14.10" class="scriptureRef">1 Cor. 14:10</a>). They seemed to be troubled by the same conflicting messages we hear today, and it can be frightening when you consider how fragile and fickle the fabric of our society really is.</p>
-      <p class="para" uri="/general-conference/1994/10/make-thee-an-ark.p2" pid="_cIKpkmqSkWUNhuXPkj9lg" hash="jQW_pA">There have always been strident sounds and discordant voices, and our day is no exception. Every day in the newspapers, over television, in movies and magazines, we are bombarded with violence and immorality clothed in the enticing voices of permissiveness.</p>
-      <p class="para" uri="/general-conference/1994/10/make-thee-an-ark.p3" pid="8AhOPO7GXEq-rMzUNyERKw" hash="37PAOg">In His sermon on the mount, the Master admonished, “Take therefore no thought for the morrow: for the morrow shall take thought for the things of itself. Sufficient unto the day is the evil thereof” (<a href="/scriptures/nt/matt/6.34" class="scriptureRef">Matt. 6:34</a>).</p>
-      <p class="para" uri="/general-conference/1994/10/make-thee-an-ark.p4" pid="tIQNtFQdbEexP3L0iJDauA" hash="WRYyWQ">Sufficient, indeed, is the evil thereof unto this day in which we live. There seems to be a rising tide of evil, a flood of iniquity spreading throughout the world. Crime and violence are increasing at an alarming rate. Fear openly stalks our streets and invades our homes.</p>
-      <p class="para" uri="/general-conference/1994/10/make-thee-an-ark.p5" pid="BUeXsCUFZU6iNUESWg-MpA" hash="lWrV0w">It has been said that you can tell the ideals of a nation by its advertisements, and many of the ones I see do not speak well of us. Someone said there was a time when movies were rated on how good they were, not on who was allowed to see them.</p>
-      <p class="para" uri="/general-conference/1994/10/make-thee-an-ark.p6" pid="d5JDvVPse0i9Pd-to8D82g" hash="9kY9Kg">According to the Book of Mormon, the devil “seeketh that all men might be miserable like unto himself” (<a href="/scriptures/bofm/2-ne/2.27" class="scriptureRef">2 Ne. 2:27</a>). The evidence of his handiwork is certainly about us. Elder Richard L. Evans once said, “If we don’t change direction, we will arrive at where we are going” (<span class="emphasis">Richard Evans’ Quote Book,</span> Salt Lake City: Publishers Press, 1971, p. 244).</p>
-      <p class="para" uri="/general-conference/1994/10/make-thee-an-ark.p7" pid="WDogdIXR80K5RBZeEb438A" hash="a8UpgQ">It is not in idleness that our prophets admonish again and again to strengthen ourselves and our families—to hold family home evenings, to read and study the scriptures, to have daily personal and family prayers, and, to quote our prophet, Howard W. Hunter, to “treat each other with more kindness, more courtesy, more humility and patience and forgiveness” (<span class="emphasis">Ensign,</span> July 1994, p. 4).</p>
-      <p class="para" uri="/general-conference/1994/10/make-thee-an-ark.p8" pid="zpEc2oEyeECM0oqjKQH0vA" hash="oQyPCQ">The immoral influences of the world are especially destructive to children. But our children, like ourselves, aren’t going to live in a vacuum. They never have and they never will. In all their growing and developing, we can do much to help them, to protect them, and to guide them. But we cannot isolate them from the influences of their own time and generation. There will be times when other voices are in their ears, when other hands are on their shoulders, and when they are away from home.</p>
-      <p class="para" uri="/general-conference/1994/10/make-thee-an-ark.p9" pid="UxLL2BX0-0a20GlKeDI6Ew" hash="bGVRjw">We would do well, then, while ours is still the strongest influence in their lives, to give them a sure set of standards and a firm foundation of safe and sound principles.</p>
-      <p class="para" uri="/general-conference/1994/10/make-thee-an-ark.p10" pid="N-RgyK1SfUSzCzv7W9WhZg" hash="LEOFsg">The Lord said to Noah, “Make thee an ark” and “with thee will I establish my covenant” (<a href="/scriptures/ot/gen/6.14,18" class="scriptureRef">Gen. 6:14, 18</a>).</p>
-      <p class="para" uri="/general-conference/1994/10/make-thee-an-ark.p11" pid="0a08kldCiEqQXxQJF1QRdw" hash="mqVbwQ">“And Noah did according unto all that the Lord commanded him. …</p>
-      <p class="para" uri="/general-conference/1994/10/make-thee-an-ark.p12" pid="3wcTckovyUigjTVYBixD_Q" hash="CS4xFw">“And Noah only remained alive, and they that were with him in the ark” (<a href="/scriptures/ot/gen/7.5,23" class="scriptureRef">Gen. 7:5, 23</a>).</p>
-      <p class="para" uri="/general-conference/1994/10/make-thee-an-ark.p13" pid="Ci3PInmduEWItGM7gKZM8g" hash="wAaS2w">We all need to build a personal ark, to fortify ourselves against this rising tide of evil, to protect ourselves and our families against the floodwaters of iniquity around us. And we shouldn’t wait until it starts raining, but prepare in advance. This has been the message of all the prophets in this dispensation, including President Hunter, as well as the prophets of old.</p>
-      <p class="para" uri="/general-conference/1994/10/make-thee-an-ark.p14" pid="6Gvxcf45gE6Z_YmpTjjTCQ" hash="UZYQ7g">Unfortunately we don’t always heed the clear warnings of our prophets. We coast complacently along until calamity strikes, and then we panic.</p>
-      <p class="para" uri="/general-conference/1994/10/make-thee-an-ark.p15" pid="cqpJ0dvv0kuiwcCQOphZDQ" hash="0uXgxA">When it starts raining, it is too late to begin building the ark. However, we do need to listen to the Lord’s spokesmen. We need to calmly continue to move ahead and to prepare for what will surely come. We need not panic or fear, for if we are prepared, spiritually and temporally, we and our families will survive any flood. Our arks will float on a sea of faith if our works have been steadily and surely preparing for the future.</p>
-      <p class="para" uri="/general-conference/1994/10/make-thee-an-ark.p16" pid="xwJbWN7sBkm-JgY_RSG2cA" hash="s4SpPg">The key is to accept the invitation of our prophet, whom we sustained this morning, “to live with ever more attention to the life and example of the Lord Jesus Christ, especially the love and hope and compassion He displayed” (<span class="emphasis">Ensign,</span> July 1994, p. 4).</p>
-      <p class="para" uri="/general-conference/1994/10/make-thee-an-ark.p17" pid="wEiv_SjaX0a33dwS2cfrYQ" hash="qlpZbQ">The most important thing we can do—young or old—is develop a personal relationship with Jesus Christ. If we do, we will always be comfortable with ourselves. Any questions of self-esteem and self-worth will diminish, and we will have a quiet confidence that will see us through any trial. And the Savior’s promise to us is “Fear not, little children, for you are mine, and I have overcome the world” (<a href="/scriptures/dc-testament/dc/50.41" class="scriptureRef">D&amp;C 50:41</a>).</p>
-      <p class="para" uri="/general-conference/1994/10/make-thee-an-ark.p18" pid="ATQFdWADn0iVMOhlak-APA" hash="TpoxYQ">Whatever the anxiety or fear or frustration, we have only to remember the Lord’s comforting words to the Prophet Joseph Smith in the Liberty Jail: “My son, peace be unto thy soul” (<a href="/scriptures/dc-testament/dc/121.7" class="scriptureRef">D&amp;C 121:7</a>). To each of us, He will always be there to say, “My son, my daughter, my child, peace be unto thy soul.”</p>
-      <p class="para" uri="/general-conference/1994/10/make-thee-an-ark.p19" pid="vykBv5ljhEKNMI-4sHmwMw" hash="5JkVAw">And in return we should pledge, as did the poet George Herbert:</p>
-      <div class="poetry" uri="/general-conference/1994/10/make-thee-an-ark.f2">
-        <div class="stanza">
-          <p class="line" pid="IlCqd3M8K0-Wj4Fl73huUw" hash="oZoiUw">
-            <span class="emphasis">Sev’n whole dayes, not one in seven,</span>
-          </p>
-          <p class="line" pid="Ofp3vU0gSEuoRvA3sMOEag" hash="ZD2Cmg">
-            <span class="emphasis">I will praise thee. … </span>
-          </p>
-          <p class="line" pid="1yP_N8SpBkSSUcbs000NeQ" hash="E9J7sQ">
-            <span class="emphasis">Ev’n eternitie is too short</span>
-          </p>
-          <p class="line" pid="QvFiRxk0b0Sgm3tNNp7NYQ" hash="gBfpSA">
-            <span class="emphasis">To extoll thee.</span>
-          </p>
-        </div>
-      </div>
-      <p class="para" uri="/general-conference/1994/10/make-thee-an-ark.p20" pid="4ejKNRkWoU6fXv8ZShXdIQ" hash="W6HX7A">My brothers and sisters, I bear you my witness that Jesus is the Christ, that He indeed overcame the world through His atonement, and that He will always be there to comfort us if we will follow His example and do the will of the Father. And I do so in the name of Jesus Christ, amen.</p>
-    </div>
-  </div>
-</div>]]></content:encoded>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/1994/10/make-thee-an-ark?lang=eng</link>
+      <description><![CDATA[<header>
+<span class="page-break" data-page="28"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/275ba2e3f8df6bc33952b584306cc61a8cea179a/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/275ba2e3f8df6bc33952b584306cc61a8cea179a/full/%21192%2C/0/default" data-video-title="Make Thee an Ark" data-video-description="Elder W. Don Ladd delivers a message titled &quot;Make Thee an Ark.&quot;" data-video-id="2245797618001" data-ip="Download and Streaming                            " data-duration="411344" data-assetId="728631146f311d853253e04f25b1687c6e136a25" data-ref-id="728631146f311d853253e04f25b1687c6e136a25" data-duration-string="6:51" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/2245797618001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="480" data-height="360" data-file-size="21688691"/><source src="https://assets.churchofjesuschrist.org/728631146f311d853253e04f25b1687c6e136a25-360p-en.mp4" type="video/mp4" data-width="480" data-height="360" data-file-size="21688691"/></video><h1 data-aid="28794710" id="title1">“Make Thee an Ark”</h1>
+<div class="byline">
+<p class="author-name" data-aid="28794711" id="p1">By Elder W. Don Ladd</p>
+<p class="author-role" data-aid="150150774" id="author2">Of the Seventy</p>
+<div class="image-cropper"><img alt="Elder W. Don Ladd" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/58cf77b15410bea640b0ade48ac235e7e37e6bbc/full/%21100%2C/0/default" data-assetId="58cf77b15410bea640b0ade48ac235e7e37e6bbc" srcset="https://www.churchofjesuschrist.org/imgs/58cf77b15410bea640b0ade48ac235e7e37e6bbc/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/58cf77b15410bea640b0ade48ac235e7e37e6bbc/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/58cf77b15410bea640b0ade48ac235e7e37e6bbc/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/58cf77b15410bea640b0ade48ac235e7e37e6bbc/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/58cf77b15410bea640b0ade48ac235e7e37e6bbc/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/58cf77b15410bea640b0ade48ac235e7e37e6bbc/full/%21500%2C/0/default 500w" data-img-id="58cf77b15410bea640b0ade48ac235e7e37e6bbc" data-missing-asset="false" data-width="100" data-height="133" data-aspect-ratio="0.7518796992481203" data-public-title="Ladd, W. Don. 1994"/></div>
+</div>
+</header>
+<div class="body-block">
+<p data-aid="28794712" id="p2">“There are … so many kinds of voices in the world,” said the Apostle Paul to the Corinthians two thousand years ago (<a class="scripture-ref" href="/study/scriptures/nt/1-cor/14?lang=eng&amp;id=p10#p10">1 Cor. 14:10</a>). They seemed to be troubled by the same conflicting messages we hear today, and it can be frightening when you consider how fragile and fickle the fabric of our society really is.</p>
+<p data-aid="28794713" id="p3">There have always been strident sounds and discordant voices, and our day is no exception. Every day in the newspapers, over television, in movies and magazines we are bombarded with violence and immorality clothed in the enticing voices of permissiveness.</p>
+<p data-aid="28794714" id="p4">In His sermon on the mount, the Master admonished, “Take therefore no thought for the morrow: for the morrow shall take thought for the things of itself. Sufficient unto the day is the evil thereof” (<a class="scripture-ref" href="/study/scriptures/nt/matt/6?lang=eng&amp;id=p34#p34">Matt. 6:34</a>).</p>
+<p data-aid="28794715" id="p5">Sufficient indeed is the evil thereof unto this day in which we live. There seems to be a rising tide of evil, a flood of iniquity spreading throughout the world. Crime and violence are increasing at an alarming rate. Fear openly stalks our streets and invades our homes.</p>
+<p data-aid="28794716" id="p6">It has been said that you can tell the ideals of a nation by its advertisements, and many of the ones I see do not speak well of us. Someone said there was a time when movies were rated on how good they were, not on who was allowed to see them.</p>
+<p data-aid="28794717" id="p7">According to the Book of Mormon, the devil “seeketh that all men might be miserable like unto himself” (<a class="scripture-ref" href="/study/scriptures/bofm/2-ne/2?lang=eng&amp;id=p27#p27">2 Ne. 2:27</a>). The evidence of his handiwork is certainly around us. Elder Richard L. Evans once said, “If we don’t change direction, we will arrive at where we are going” (<em>Richard Evans’ Quote Book</em> [Salt Lake City: Publishers Press, 1971], p. 244).</p>
+<p data-aid="28794718" id="p8">It is not in idleness that our prophets admonish again and again to strengthen ourselves and our families—to hold family home evenings, to read and study the scriptures, to have daily personal and family prayers, and, to quote our prophet, Howard W. Hunter, to “treat each other with more kindness, more courtesy, more humility and patience and forgiveness” (quoted in <em>Ensign,</em> July 1994, p. 4).</p>
+<p data-aid="28794719" id="p9">The immoral influences of the world are especially destructive to children. But our children, like ourselves, aren’t going to live in a vacuum. They never have and they never will. In all their growing and developing, we can do much to help them, to protect them, and to guide them. But we cannot isolate them from the influences of their own time and generation. There will be times when other voices are in their ears, when other <span class="page-break" data-page="29"></span>hands are on their shoulders, and when they are away from home.</p>
+<p data-aid="28794720" id="p10">We would do well, then, while ours is still the strongest influence in their lives, to give them a sure set of standards and a firm foundation of safe and sound principles.</p>
+<p data-aid="28794721" id="p11">The Lord said to Noah, “Make thee an ark” and “with thee will I establish my covenant” (<a class="scripture-ref" href="/study/scriptures/ot/gen/6?lang=eng&amp;id=p14%2Cp18#p14">Gen. 6:14, 18</a>).</p>
+<p data-aid="28794722" id="p12">“And Noah did according unto all that the Lord commanded him. …</p>
+<p data-aid="28794723" id="p13">“… And Noah only remained alive, and they that were with him in the ark” (<a class="scripture-ref" href="/study/scriptures/ot/gen/7?lang=eng&amp;id=p5%2Cp23#p5">Gen. 7:5, 23</a>).</p>
+<p data-aid="28794724" id="p14">We all need to build a personal ark, to fortify ourselves against this rising tide of evil, to protect ourselves and our families against the floodwaters of iniquity around us. And we shouldn’t wait until it starts raining, but prepare in advance. This has been the message of all the prophets in this dispensation, including President Hunter, as well as the prophets of old.</p>
+<p data-aid="28794725" id="p15">Unfortunately we don’t always heed the clear warnings of our prophets. We coast complacently along until calamity strikes, and then we panic.</p>
+<p data-aid="28794726" id="p16">When it starts raining, it is too late to begin building the ark. However, we do need to listen to the Lord’s spokesmen. We need to calmly continue to move ahead and to prepare for what will surely come. We need not panic or fear, for if we are prepared, spiritually and temporally, we and our families will survive any flood. Our arks will float on a sea of faith if our works have been steadily and surely preparing for the future.</p>
+<p data-aid="28794727" id="p17">The key is to accept the invitation of our prophet, whom we sustained this morning, “to live with ever more attention to the life and example of the Lord Jesus Christ, especially the love and hope and compassion He displayed” (quoted in <em>Ensign,</em> July 1994, p. 4).</p>
+<p data-aid="28794728" id="p18">The most important thing we can do—young or old—is develop a personal relationship with Jesus Christ. If we do, we will always be comfortable with ourselves. Any questions of self-esteem and self-worth will diminish, and we will have a quiet confidence that will see us through any trial. And the Savior’s promise to us is “Fear not, little children, for you are mine, and I have overcome the world” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/50?lang=eng&amp;id=p41#p41">D&amp;C 50:41</a>).</p>
+<p data-aid="28794729" id="p19">Whatever the anxiety or fear or frustration, we have only to remember the Lord’s comforting words to the Prophet Joseph Smith in the Liberty Jail: “My son, peace be unto thy soul” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/121?lang=eng&amp;id=p7#p7">D&amp;C 121:7</a>). To each of us, He will always be there to say, “My son, my daughter, my child, peace be unto thy soul.”</p>
+<p data-aid="28794730" id="p20">And in return we should pledge, as did the poet George Herbert:</p>
+<div class="poetry">
+<div class="stanza">
+<p class="line" data-aid="28794731" id="p21">Sev’n whole dayes, not one in seven,</p>
+<p class="line" data-aid="28794732" id="p22">I will praise thee. …</p>
+<p class="line" data-aid="28794733" id="p23">Ev’n eternitie is too short</p>
+<p class="line" data-aid="28794734" id="p24">To extoll thee.</p>
+</div>
+<div class="citation-info">
+<p data-aid="150150776" id="p26">[“Praise (II),” lines 17–18, 27–28]</p>
+</div>
+</div>
+<p data-aid="28794735" id="p25">My brothers and sisters, I bear you my witness that Jesus is the Christ, that He indeed overcame the world through His atonement, and that He will always be there to comfort us if we will follow His example and do the will of the Father. And I do so in the name of Jesus Christ, amen.</p>
+</div>]]></description>
       <guid isPermaLink="false">/general-conference/1994/10/make-thee-an-ark</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/october-1994-general-conference/1994-10-2050-elder-w-don-ladd-64k-eng.mp3" length="3303609" type="audio/mpeg"/>
-      <pubDate>Sat, 01 Oct 1994 14:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/4171f4ae32ea11ec89b6eeeeac1e02ba99c76e08-64k-en.mp3" length="3454295" type="audio/mpeg"/>
+      <pubDate>Sat, 01 Oct 1994 14:00:00 -0600</pubDate>
+      <itunes:author>W. Don Ladd</itunes:author>
     </item>
   </channel>
 </rss>

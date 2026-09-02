@@ -1,101 +1,137 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Talks By Eran A. Call</title>
-    <link>http://philip.lundrigan.org/Speakercast/</link>
+    <link>https://philip.lundrigan.org/Speakercast/</link>
     <description>General Conference talks by Eran A. Call.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Speakercast</generator>
     <image>
-      <url>http://philip.lundrigan.org/Speakercast/covers/Eran%20A.%20Call.jpg</url>
+      <url>https://philip.lundrigan.org/Speakercast/covers/Eran%20A.%20Call.jpg</url>
       <title>General Conference talks by Eran A. Call.</title>
-      <link>http://philip.lundrigan.org/Speakercast/</link>
+      <link>https://philip.lundrigan.org/Speakercast/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 04 Oct 1997 14:00:00 -0700</lastBuildDate>
-    <pubDate>Sat, 04 Oct 1997 14:00:00 -0700</pubDate>
+    <lastBuildDate>Sat, 04 Oct 1997 14:00:00 -0600</lastBuildDate>
+    <pubDate>Sat, 04 Oct 1997 14:00:00 -0600</pubDate>
+    <itunes:author>Eran A. Call</itunes:author>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
+    <itunes:image href="https://philip.lundrigan.org/Speakercast/covers/Eran%20A.%20Call.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>General Conference talks by Eran A. Call.</itunes:summary>
     <item>
       <title>The Home: A Refuge and Sanctuary</title>
-      <link>http://www.lds.org/general-conference/1997/10/the-home-a-refuge-and-sanctuary?lang=eng</link>
-      <description>May [The Family: A Proclamation to the World] become the guideline and standard by which we live in our homes and raise our children.</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/1997/10/the-home-a-refuge-and-sanctuary" schema-version="1" doc-id="general-conference_97911_000_014" doc-version="2" hash="cPGIlQ">
-  
-  <div class="heading" uri="/general-conference/1997/10/the-home-a-refuge-and-sanctuary.head">
-    <h1 class="title" pid="1RpYxXJ7lkm0PyYZp_3OpQ" hash="oROK2g">The Home:</h1>
-    <p class="subtitle" pid="Cfz9Xf3iu0GkRruffr4z0g" hash="dCXmcg">A Refuge and Sanctuary</p>
-    <p class="authorName" pid="46h4CYszLUm3OiE1VojMZw" hash="0lrgbA">Eran A. Call</p>
-    <p class="kicker" pid="TNnEEyPO-UOfebG-9OU6aw" hash="XNGRMQ">May [The Family: A Proclamation to the World] become the guideline and standard by which we live in our homes and raise our children.</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/1997/10/the-home-a-refuge-and-sanctuary.t1">
-      <img src="ensignlp.nfo-o-1e5c.jpg" alt="Elder Eran A. Call" pid="EpuXiNiHF0yY3fTvqHDNeQ" hash="Lbi9Uw" />
-      <p class="para" uri="/general-conference/1997/10/the-home-a-refuge-and-sanctuary.p1" pid="eU3ga9fwUEChvH6eMCSSPQ" hash="4w32zw">I humbly pray that the Spirit of truth might be with us that we might understand one another, be edified, and rejoice together.<span class="noteMarker" ref="f_1">1</span></p>
-      <p class="para" uri="/general-conference/1997/10/the-home-a-refuge-and-sanctuary.p2" pid="z832tEEHpk2053-UcjXrQg" hash="QpXpyg">As Nephi, I, too, was “born of goodly parents; therefore I was taught somewhat in all the learning of my father” and have been “highly favored of the Lord in all my days.”<span class="noteMarker" ref="f_2">2</span></p>
-      <p class="para" uri="/general-conference/1997/10/the-home-a-refuge-and-sanctuary.p3" pid="PgvQTNe3zUaj9PwRsANPKQ" hash="-qVRZQ">My father was a marvelous example of faith, integrity, and commitment to the gospel. My mother died when I was seven, but in my tender youth she taught me the truths of the gospel. She was a woman of great faith; because of her faith and prayers and a miraculous healing, I have sight in my left eye today. Father was out of town. I severely burned the pupil of my eye with a hot metal lid lifter from our wood-burning stove. Mother exercised her faith and prayed fervently to Heavenly Father as she held me lovingly in her arms. Her prayers were heard and my eye was healed. I am very grateful to have been raised in a loving home by goodly parents.</p>
-      <p class="para" uri="/general-conference/1997/10/the-home-a-refuge-and-sanctuary.p4" pid="6yEt10-uskqc3FBP86RQ1A" hash="ZkI8Xw">The home is being threatened and challenged more today than ever before. Today less than half of the children born in the United States, and in many countries in the world, will spend their entire childhood in an intact family.<span class="noteMarker" ref="f_3">3</span> Infidelity, divorce, abortion, and abandoned homes are on the increase. The father is rapidly losing his traditional role as caregiver, breadwinner, protector, moral educator, and head of the family.</p>
-      <p class="para" uri="/general-conference/1997/10/the-home-a-refuge-and-sanctuary.p5" pid="5j8SN_pxE0uIPuS5KWo0Mw" hash="uIz2Mw">During 1960 to 1990, a 30-year period, births outside of marriage in the United States increased 500 percent and divorce increased 400 percent.<span class="noteMarker" ref="f_4">4</span> As Church members, we are not free from these sinful practices.</p>
-      <p class="para" uri="/general-conference/1997/10/the-home-a-refuge-and-sanctuary.p6" pid="OX2QLWo3LUKOJ1QWjZfB9Q" hash="5oBZ1w">The home and the family are the fundamental unit of society: as the homes are and families are, so will be the community, the city, the state, and the nation. There is no public morality without private virtue. I repeat, there is no public morality without private virtue. As Latter-day Saints, we have been given much and much is expected of us. We have been taught what is right and true. Let us, therefore, be “doers of the word, … not hearers only,”<span class="noteMarker" ref="f_5">5</span> deceiving ourselves.</p>
-      <div class="figure" uri="/general-conference/1997/10/the-home-a-refuge-and-sanctuary.f2">
-	<p pid="eVpGWW8HfEy_zSxPUcSRiA" hash="MYdgLw">As husbands, wives, and parents, how can we avoid the pitfalls and temptations of the troubled world we live in? I offer a few time-tested and proven ways that we can be doers, and not hearers only:</p>
-	<ul class="bullet">
-	  <li pid="lRPCVgU-LkuBJQqmVL6qdw" hash="ad0hMg">
-          <span class="label">•</span>
-          <p pid="hIWbt2UyO0q4SgskYJAqAA" hash="P6OK6Q">Parents and family members should love, honor, and respect each other.</p>
-        </li>
-	  <li pid="HCUbgmy890Sch3btHGoiqg" hash="NckFCg">
-          <span class="label">•</span>
-          <p pid="jibmI9MHDkePoDpXMTDVJA" hash="3w3SSg">Attend Church meetings together regularly.</p>
-        </li>
-	  <li pid="lvlQZuzLGEqe4qY-_bkiwQ" hash="UOS6TA">
-          <span class="label">•</span>
-          <p pid="ckOEZEfX9UOhWZidlyAOrA" hash="QPWJ4Q">Read the scriptures and pray together daily.</p>
-        </li>
-	  <li pid="5sMfPbVjxEGGjU3hhBn-uA" hash="bkCvSw">
-          <span class="label">•</span>
-          <p pid="3xdnitIpjEGVXsyb4-1RJw" hash="LYsQDg">Hold family home evening and have fun together.</p>
-        </li>
-	  <li pid="65TtpdOpf0O8PLOvZS1FAw" hash="b6yk3Q">
-          <span class="label">•</span>
-          <p pid="Hy0jvlAsOUa8FQws7EnchQ" hash="lUxwPQ">Live lives of virtue and integrity so you can sleep at night, knowing you have done your best with a conscience void of offense to anyone. A virtuous life is built step by step, brick by brick. Beware of small sins that erode integrity.</p>
-        </li>
-	  <li pid="Z7ezCEOtzka2EJt36T6b4w" hash="7DNZ0A">
-          <span class="label">•</span>
-          <p pid="rADB4Mo84USJxVbHTHT2Xg" hash="2ZMz6Q">Communicate, talk, take time for each other. A teenager comes home from a date and seems to be concerned—what a marvelous opportunity for loving parents to listen and help.</p>
-        </li>
-	  <li pid="ya7_8PL40EaQ7yXGC6ixWA" hash="WuSogA">
-          <span class="label">•</span>
-          <p pid="CEl1zhnkBUyvGhPRC8MArQ" hash="e5Fidw">Faithfully pay your tithes and offerings.</p>
-        </li>
-	  <li pid="28f29SGeQU-QWvkxxt9ztw" hash="3AImKw">
-          <span class="label">•</span>
-          <p pid="vknRI83D2kuaUy4afXIuYA" hash="ulpsrQ">Avoid unnecessary debt.</p>
-        </li>
-	  <li pid="T6V-6ammPUiIkPURTCqU9A" hash="_7R-gQ">
-          <span class="label">•</span>
-          <p pid="5E9jd-ZaeU-JEC8iLJ-9Kw" hash="m8hUEg">Never make major purchases nor decisions without prayer and mutual agreement as equal partners as husband and wife.</p>
-        </li>
-	</ul>
-      </div>
-      <p class="para" uri="/general-conference/1997/10/the-home-a-refuge-and-sanctuary.p7" pid="00G9mwuGwEKOjaBIKv0TNA" hash="eyFGxA">We have been taught by ancient and modern prophets that “the establishment of a home is not only a privilege, but marriage and proper training of children is a duty of the highest order.”<span class="noteMarker" ref="f_6">6</span></p>
-      <p class="para" uri="/general-conference/1997/10/the-home-a-refuge-and-sanctuary.p8" pid="F6e5Ar_fhU6hLftINpYxUQ" hash="M6NDMA">The prophets of Israel taught, “Ye shall teach your children [the commandments] when thou sittest in thine house.”<span class="noteMarker" ref="f_7">7</span></p>
-      <p class="para" uri="/general-conference/1997/10/the-home-a-refuge-and-sanctuary.p9" pid="b_tSJZJvwUOFMNwY3g12bg" hash="g1XTYw">Isaiah taught, “All thy children shall be taught of the Lord, and great shall be the peace of thy children.”<span class="noteMarker" ref="f_8">8</span></p>
-      <p class="para" uri="/general-conference/1997/10/the-home-a-refuge-and-sanctuary.p10" pid="g-qfTfeIQkWQKRgTGm-fcQ" hash="9jry-Q">“I give unto you a commandment, to teach your children.”<span class="noteMarker" ref="f_9">9</span></p>
-      <p class="para" uri="/general-conference/1997/10/the-home-a-refuge-and-sanctuary.p11" pid="axPnE86AlkK35O-AWVAfDg" hash="B9G8OA">Lehi did exhort his family with all the love of a tender parent.<span class="noteMarker" ref="f_10">10</span></p>
-      <p class="para" uri="/general-conference/1997/10/the-home-a-refuge-and-sanctuary.p12" pid="KlmHTaiNsUyiNMX5xNU_PQ" hash="yYHGTA">President Harold B. Lee said, “The greatest of the Lord’s work you brethren will ever do as fathers will be within the walls of your own home.”<span class="noteMarker" ref="f_11">11</span></p>
-      <p class="para" uri="/general-conference/1997/10/the-home-a-refuge-and-sanctuary.p13" pid="4Qb5ImuSbkOQbMEiBrZRgg" hash="WzKn_A">We should always remember President David O. McKay’s warning from this pulpit 33 years ago: “No other success can compensate for failure in the home. The poorest shack in which love prevails over a united family is of greater value to God and future humanity than any other riches. In such a home God can work miracles and will work miracles.”<span class="noteMarker" ref="f_12">12</span></p>
-      <p class="para" uri="/general-conference/1997/10/the-home-a-refuge-and-sanctuary.p14" pid="AvQGczKGy060BTxbsJAdQQ" hash="HEJQ1Q">The First Presidency and Quorum of the Twelve Apostles, whom we sustain as prophets, seers, and revelators, two years ago solemnly proclaimed to the world our beliefs concerning marriage, parents, and the family. I challenge each of you to read, study, and live by this inspired proclamation. May it become the guideline and standard by which we live in our homes and raise our children.</p>
-      <p class="para" uri="/general-conference/1997/10/the-home-a-refuge-and-sanctuary.p15" pid="pxFv7xEyxUK_M1TSL8mvzQ" hash="x7ta-Q">Our homes can be, and should be, a refuge and a sanctuary from the troubled world we live in; may they become such by striving daily to keep sacred the holy covenants we have made.</p>
-      <p class="para" uri="/general-conference/1997/10/the-home-a-refuge-and-sanctuary.p16" pid="_ThcO2XK-E-S-8tPsoeqXQ" hash="i97qHA">May we join with John of old who said, “I have no greater joy than to hear that my children walk in truth,”<span class="noteMarker" ref="f_13">13</span> I humbly pray in the name of Jesus Christ, amen.</p>
-    </div>
-  </div>
-  
-</div>]]></content:encoded>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/1997/10/the-home-a-refuge-and-sanctuary?lang=eng</link>
+      <description><![CDATA[<header>
+<span class="page-break" data-page="28"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/9793e898212aaac9cae3f1730ca0c067047106a9/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/9793e898212aaac9cae3f1730ca0c067047106a9/full/%21192%2C/0/default" data-video-title="The Home: A Refuge and Sanctuary" data-video-description="May [The Family: A Proclamation to the World] become the guideline and standard by which we live in our homes and raise our children." data-video-id="6389224904112" data-ip="Download &amp; Streaming" data-duration="413146" data-assetId="07a63987e63288b9af0d50b30c3c682dec3d1027" data-ref-id="07a63987e63288b9af0d50b30c3c682dec3d1027" data-duration-string="6:53" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6389224904112.m3u8" type="application/vnd.apple.mpegurl" data-width="480" data-height="360" data-file-size="21199286"/><source src="https://assets.churchofjesuschrist.org/07a63987e63288b9af0d50b30c3c682dec3d1027-360p-en.mp4" type="video/mp4" data-width="480" data-height="360" data-file-size="21199286"/></video><h1 data-aid="28804633" id="title1">The Home: A Refuge and Sanctuary</h1>
+<!--<p class="subtitle" data-aid="28804634" id="subtitle1">A Refuge and Sanctuary</p>-->
+<div class="byline">
+<p class="author-name" data-aid="28804635" id="p1">By Elder Eran A. Call</p>
+<p class="author-role" data-aid="150154549" id="author2">Of the Seventy</p>
+<div class="image-cropper"><img alt="Elder Eran A. Call" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/b5zjjar6e81wn6nr7siqgz4jmwl6594xdw5vngpe/full/%21100%2C/0/default" data-assetId="b5zjjar6e81wn6nr7siqgz4jmwl6594xdw5vngpe" srcset="https://www.churchofjesuschrist.org/imgs/b5zjjar6e81wn6nr7siqgz4jmwl6594xdw5vngpe/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/b5zjjar6e81wn6nr7siqgz4jmwl6594xdw5vngpe/full/%21100%2C/0/default 100w" data-img-id="b5zjjar6e81wn6nr7siqgz4jmwl6594xdw5vngpe" data-missing-asset="false" data-width="100" data-height="135" data-aspect-ratio="0.7407407407407407" data-public-title="Eran A. Call" data-public-description="Eran A. Call"/></div>
+</div>
+<p class="kicker" data-aid="28804636" id="kicker1">May [The Family: A Proclamation to the World] become the guideline and standard by which we live in our homes and raise our children.</p>
+</header>
+<div class="body-block">
+<p data-aid="28804637" id="p2">I humbly pray that the Spirit of truth might be with us that we might understand one another, be edified, and rejoice together.<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a></p>
+<p data-aid="28804638" id="p3">As Nephi, I, too, was “born of goodly parents; therefore I was taught somewhat in all the learning of my father” and have been “highly favored of the Lord in all my days.”<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a></p>
+<p data-aid="28804639" id="p4">My father was a marvelous example of faith, integrity, and commitment to the gospel. My mother died when I was seven, but in my tender youth she taught me the truths of the gospel. She was a woman of great faith; because of her faith and prayers and a miraculous healing, I have sight in my left eye today. Father was out of town. I severely burned the pupil of my eye with a hot metal lid lifter from our wood-burning stove. Mother exercised her faith and prayed fervently to Heavenly Father as she held me lovingly in her arms. Her prayers were heard and my eye was healed. I am very grateful to have been raised in a loving home by goodly parents.</p>
+<p data-aid="28804640" id="p5">The home is being threatened and challenged more today than ever before. Today less than half of the children born in the United States, and in many countries in the world, will spend their entire childhood in an intact family.<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a> Infidelity, divorce, abortion, and abandoned homes are on the increase. The father is rapidly losing his traditional role as caregiver, breadwinner, protector, moral educator, and head of the family.</p>
+<p data-aid="28804641" id="p6">During 1960 to 1990, a 30-year period, births outside of marriage in the United States increased 500 percent and divorce increased 400 percent.<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a> As Church members, we are not free from these sinful practices.</p>
+<p data-aid="28804642" id="p7">The home and the family are the fundamental unit of society: as the homes are and families are, so will be the community, the city, the state, and the nation. There is no public morality without private virtue. I repeat, there is no public morality without private virtue. As Latter-day Saints, we have been given much and much is expected of us. We have been taught what is right and true. Let us, therefore, be “doers of the word, … not hearers only,”<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a> deceiving ourselves.</p>
+<p data-aid="28804643" id="p8">As husbands, wives, and parents, how can we avoid the pitfalls and temptations of the troubled world <span class="page-break" data-page="29"></span>we live in? I offer a few time-tested and proven ways that we can be doers, and not hearers only:</p>
+<ul class="bullet">
+<li>
+<p data-aid="28804644" id="p9">Parents and family members should love, honor, and respect each other.</p>
+</li>
+<li>
+<p data-aid="28804645" id="p10">Attend Church meetings together regularly.</p>
+</li>
+<li>
+<p data-aid="28804646" id="p11">Read the scriptures and pray together daily.</p>
+</li>
+<li>
+<p data-aid="28804647" id="p12">Hold family home evening and have fun together.</p>
+</li>
+<li>
+<p data-aid="28804648" id="p13">Live lives of virtue and integrity so you can sleep at night, knowing you have done your best with a conscience void of offense to anyone. A virtuous life is built step by step, brick by brick. Beware of small sins that erode integrity.</p>
+</li>
+<li>
+<p data-aid="28804649" id="p14">Communicate, talk, take time for each other. A teenager comes home from a date and seems to be concerned—what a marvelous opportunity for loving parents to listen and help.</p>
+</li>
+<li>
+<p data-aid="28804650" id="p15">Faithfully pay your tithes and offerings.</p>
+</li>
+<li>
+<p data-aid="28804651" id="p16">Avoid unnecessary debt.</p>
+</li>
+<li>
+<p data-aid="28804652" id="p17">Never make major purchases nor decisions without prayer and mutual agreement as equal partners as husband and wife.</p>
+</li>
+</ul>
+<p data-aid="28804653" id="p18">We have been taught by ancient and modern prophets that “the establishment of a home is not only a privilege, but marriage and … proper training of children is a duty of the highest order.”<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a></p>
+<p data-aid="28804654" id="p19">The prophets of Israel taught, “Ye shall teach … your children [the commandments] when thou sittest in thine house.”<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a></p>
+<p data-aid="28804655" id="p20">Isaiah taught, “All thy children shall be taught of the Lord, and great shall be the peace of thy children.”<a class="note-ref" href="#note8"><sup class="marker" data-value="8"></sup></a></p>
+<p data-aid="28804656" id="p21">“I give unto you a commandment, to teach … your children.”<a class="note-ref" href="#note9"><sup class="marker" data-value="9"></sup></a></p>
+<p data-aid="28804657" id="p22">Lehi did exhort his family with all the love of a tender parent.<a class="note-ref" href="#note10"><sup class="marker" data-value="10"></sup></a></p>
+<p data-aid="28804658" id="p23">President Harold B. Lee said, “The greatest of the Lord’s work you brethren will ever do as fathers will be within the walls of your own home.”<a class="note-ref" href="#note11"><sup class="marker" data-value="11"></sup></a></p>
+<p data-aid="28804659" id="p24">We should always remember President David O. McKay’s warning from this pulpit 33 years ago: “No other success can compensate for failure in the home. The poorest shack in which love prevails over a united family is of greater value to God and future humanity than any other riches. In such a home God can work miracles and will work miracles.”<a class="note-ref" href="#note12"><sup class="marker" data-value="12"></sup></a></p>
+<p data-aid="28804660" id="p25">The First Presidency and Quorum of the Twelve Apostles, whom we sustain as prophets, seers, and revelators, two years ago solemnly proclaimed to the world our beliefs concerning marriage, parents, and the family. I challenge each of you to read, study, and live by this inspired proclamation. May it become the guideline and standard by which we live in our homes and raise our children.</p>
+<p data-aid="28804661" id="p26">Our homes can be, and should be, a refuge and a sanctuary from the troubled world we live in; may we make them such by striving daily to keep sacred the holy covenants we have made.</p>
+<p data-aid="28804662" id="p27">May we join with John of old who said, “I have no greater joy than to hear that my children walk in truth,”<a class="note-ref" href="#note13"><sup class="marker" data-value="13"></sup></a> I humbly pray in the name of Jesus Christ, amen.</p>
+</div>
+<footer class="notes">
+<p class="title" data-aid="150154550" id="notetitle1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="28804663" id="note1_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/50?lang=eng&amp;id=p22#p22">D&amp;C 50:22</a>.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="28804664" id="note2_p1"><a class="scripture-ref" href="/study/scriptures/bofm/1-ne/1?lang=eng&amp;id=p1#p1">1 Ne. 1:1</a>.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="28804665" id="note3_p1">Barbara Dafoe Whitehead, “Dan Quayle Was Right,” <em>Atlantic Monthly,</em> Apr. 1993, 47.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="28804666" id="note4_p1">See David Blankenhorn, <em>Fatherless America: Confronting Our Most Urgent Social Problem</em> (1995), cited in Alexander B. Morrison, <em>Zion: A Light in the Darkness</em> (1997), 15.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="28804667" id="note5_p1">See <a class="scripture-ref" href="/study/scriptures/nt/james/1?lang=eng&amp;id=p22#p22">James 1:22</a>.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="28804668" id="note6_p1">Ezra Taft Benson, <em>The Teachings of Ezra Taft Benson</em> (1988), 496.</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="28804669" id="note7_p1"><a class="scripture-ref" href="/study/scriptures/ot/deut/11?lang=eng&amp;id=p19#p19">Deut. 11:19</a>.</p>
+</li>
+<li data-marker="8." id="note8" data-full-marker="8.">
+<p data-aid="28804670" id="note8_p1"><a class="scripture-ref" href="/study/scriptures/ot/isa/54?lang=eng&amp;id=p13#p13">Isa. 54:13</a>.</p>
+</li>
+<li data-marker="9." id="note9" data-full-marker="9.">
+<p data-aid="28804671" id="note9_p1"><a class="scripture-ref" href="/study/scriptures/pgp/moses/6?lang=eng&amp;id=p58#p58">Moses 6:58</a>.</p>
+</li>
+<li data-marker="10." id="note10" data-full-marker="10.">
+<p data-aid="28804672" id="note10_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/1-ne/8?lang=eng&amp;id=p37#p37">1 Ne. 8:37</a>.</p>
+</li>
+<li data-marker="11." id="note11" data-full-marker="11.">
+<p data-aid="28804673" id="note11_p1">In Conference Report, Apr. 1973, <a class="cross-ref" href="/study/general-conference/1973/04/follow-the-leadership-of-the-church?lang=eng&amp;id=p36#p36">130</a>.</p>
+</li>
+<li data-marker="12." id="note12" data-full-marker="12.">
+<p data-aid="28804674" id="note12_p1">Quoting J. E. McCulloch, <em>Home: The Savior of Civilization</em> (1924), 42; in Conference Report, Apr. 1964, 5.</p>
+</li>
+<li data-marker="13." id="note13" data-full-marker="13.">
+<p data-aid="28804675" id="note13_p1"><a class="scripture-ref" href="/study/scriptures/nt/3-jn/1?lang=eng&amp;id=p4#p4">3 Jn. 1:4</a>.</p>
+</li>
+</ol>
+</footer>]]></description>
       <guid isPermaLink="false">/general-conference/1997/10/the-home-a-refuge-and-sanctuary</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/october-1997-general-conference/1997-10-2050-elder-eran-a-call-64k-eng.mp3" length="3300739" type="audio/mpeg"/>
-      <pubDate>Sat, 04 Oct 1997 14:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/88649f5732e611ec89b6eeeeac1e02babb222094-64k-en.mp3" length="3450318" type="audio/mpeg"/>
+      <pubDate>Sat, 04 Oct 1997 14:00:00 -0600</pubDate>
+      <itunes:author>Eran A. Call</itunes:author>
     </item>
   </channel>
 </rss>

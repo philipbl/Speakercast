@@ -1,0 +1,72 @@
+name: Update feeds
+
+# General conference is the first weekend of April and October, and audio for
+# the talks lands over the days that follow. Run daily through the first half
+# of each of those months and commit whatever is new.
+on:
+  schedule:
+    - cron: "0 15 1-16 4,10 *"
+  workflow_dispatch:
+    inputs:
+      refresh:
+        description: "Ignore the cache and refetch every conference"
+        type: boolean
+        default: false
+
+concurrency:
+  group: update-feeds
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    name: Regenerate feeds
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: astral-sh/setup-uv@v7
+        with:
+          enable-cache: true
+          python-version: "3.13"
+
+      - name: Install
+        run: uv sync
+
+      # Past conferences never change, so a warm cache turns a full rebuild
+      # into a handful of requests for the conference that just happened.
+      - name: Restore talk cache
+        uses: actions/cache@v4
+        with:
+          path: .cache
+          key: talks-${{ github.run_id }}
+          restore-keys: talks-
+
+      - name: Generate feeds and covers
+        run: uv run speakercast --workers 12 ${{ inputs.refresh && '--refresh' || '' }}
+
+      - name: Commit
+        run: |
+          if git diff --quiet -- feeds covers assets/data.json; then
+            echo "No new talks."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add feeds covers assets/data.json
+          git commit -m "Update feeds for $(date -u '+%B %Y') general conference"
+          git push
+
+      - name: Summarize
+        if: always()
+        run: |
+          {
+            echo "### Speakercast"
+            echo ""
+            echo "- Feeds: $(ls feeds | wc -l)"
+            echo "- Covers: $(ls covers | wc -l)"
+          } >> "$GITHUB_STEP_SUMMARY"

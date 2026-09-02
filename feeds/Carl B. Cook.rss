@@ -1,135 +1,509 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Talks By Carl B. Cook</title>
-    <link>http://philip.lundrigan.org/Speakercast/</link>
+    <link>https://philip.lundrigan.org/Speakercast/</link>
     <description>General Conference talks by Carl B. Cook.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Speakercast</generator>
     <image>
-      <url>http://philip.lundrigan.org/Speakercast/covers/Carl%20B.%20Cook.jpg</url>
+      <url>https://philip.lundrigan.org/Speakercast/covers/Carl%20B.%20Cook.jpg</url>
       <title>General Conference talks by Carl B. Cook.</title>
-      <link>http://philip.lundrigan.org/Speakercast/</link>
+      <link>https://philip.lundrigan.org/Speakercast/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Oct 2011 14:00:00 -0700</lastBuildDate>
-    <pubDate>Sat, 01 Oct 2011 14:00:00 -0700</pubDate>
+    <lastBuildDate>Sat, 01 Apr 2023 10:00:00 -0600</lastBuildDate>
+    <pubDate>Sat, 01 Apr 2023 10:00:00 -0600</pubDate>
+    <itunes:author>Carl B. Cook</itunes:author>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
+    <itunes:image href="https://philip.lundrigan.org/Speakercast/covers/Carl%20B.%20Cook.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>General Conference talks by Carl B. Cook.</itunes:summary>
     <item>
       <title>It Is Better to Look Up</title>
-      <link>http://www.lds.org/general-conference/2011/10/it-is-better-to-look-up?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2011/10/it-is-better-to-look-up?lang=eng</link>
       <description>If we, like President Monson, exercise our faith and look to God for help, we will not be overwhelmed with the burdens of life.</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/2011/10/it-is-better-to-look-up" schema-version="1" doc-id="general-conference_PD50029123_000_2050" doc-version="2" hash="y8PCcw"><div class="heading" uri="/general-conference/2011/10/it-is-better-to-look-up.head1"><h1 class="title" pid="4BeCoBJBsk2j_rT7bmhNYw" hash="ZjoKaQ">It Is Better to Look Up</h1><p class="authorName" guid="8d4f1588-d112-4b41-ab38-ef32a3cca25f" pid="MUcuwVDUbE-Btws6HokDnw" hash="04BLOQ">Carl B. Cook</p><p class="kicker" pid="dZVbhbaSRUeBVZx_g-Im5w" hash="Au2NFA">If we, like President Monson, exercise our faith and look to God for help, we will not be overwhelmed with the burdens of life.</p></div><div class="bodyBlock" guid="d2bc2c5a-1126-4027-8e7c-5b2bf9fa64b7">
-    <div class="topic" uri="/general-conference/2011/10/it-is-better-to-look-up.t1">
-      <p class="para" uri="/general-conference/2011/10/it-is-better-to-look-up.p1" guid="f2aefc4b-0443-4e9f-8e9a-8565d7633e2b" pid="m3IAu6U7ZUeSi_WAgAyzSg" hash="A1BNWQ">
-        <span class="pageBreak" page-number="33"></span>At the end of a particularly tiring day toward the end of my first week as a General Authority, my briefcase was overloaded and my mind was preoccupied with the question “How can I possibly do this?” I left the office of the Seventy and entered the elevator of the Church Administration Building. As the elevator descended, my head was down and I stared blankly at the floor.</p>
-      <p class="para" uri="/general-conference/2011/10/it-is-better-to-look-up.p2" guid="e0f720e4-30e3-4fa9-be91-643c5f66fcb3" pid="VjsQ5a2aLE2Pmlyc8WLqmQ" hash="LH-B_g">The door opened and someone entered, but I didn’t look up. As the door closed, I heard someone ask, “What are you looking at down there?” I recognized that voice—it was President Thomas S. Monson.</p>
-      <p class="para" uri="/general-conference/2011/10/it-is-better-to-look-up.p3" guid="66f13613-cf2a-4cd9-882e-6ad5f311b437" pid="LVa4FlVYF0S7g0niUZt0kQ" hash="DDgD7A">I quickly looked up and responded, “Oh, nothing.” (I’m sure that clever response inspired confidence in my abilities!)</p>
-      <p class="para" uri="/general-conference/2011/10/it-is-better-to-look-up.p4" guid="3b8e4334-db4b-4b39-80f0-4503398f0f55" pid="WUIAVxx3F0yZo-ZslcBzYg" hash="Ye2brw">But he had seen my subdued countenance and my heavy briefcase. He smiled and lovingly suggested, while pointing heavenward, “It is better to look up!” As we traveled down one more level, he cheerfully explained that he was on his way to the temple. When he bid me farewell, his parting glance spoke again to my heart, “Now, remember, it is better to look up.”</p>
-      <p class="para" uri="/general-conference/2011/10/it-is-better-to-look-up.p5" guid="5c5ea976-ac90-494a-b3b1-52223b3ea6d6" pid="bfJJj-w390-eAUR2KfJEMg" hash="F_l9fA">As we parted, the words of a scripture came to mind: “Believe in God; believe that he is … ; believe that he has all wisdom, and all power, both in heaven and in earth.”<span class="noteMarker" ref="f_1">1</span> As I thought of Heavenly Father and Jesus Christ’s power, my heart found the comfort I had sought in vain from the floor of that descending elevator.</p>
-      <p class="para" uri="/general-conference/2011/10/it-is-better-to-look-up.p6" guid="a95dcd65-2d84-4bc2-b361-723910334d89" pid="aSzoHa9feUCqxxyRnu8DhQ" hash="clg9XA">Since then I have pondered this experience and the role of prophets. I was burdened and my head was down. As the prophet spoke, I looked to him. He redirected my focus to look up to God, where I could be healed and strengthened through Christ’s Atonement. That is what prophets do for us. They lead us to God.<span class="noteMarker" ref="f_2">2</span></p>
-      <p class="para" uri="/general-conference/2011/10/it-is-better-to-look-up.p7" guid="59ab4881-d07d-4205-92eb-3f1342024eb4" pid="yb2gP91sxk2ldLBaAXhPJw" hash="JZLIwQ">I testify that President Monson is not only a prophet, seer, and revelator; he is also a wonderful example of living the principle of looking up. Of all people, he could feel weighed down by his responsibilities. Instead, he exercises great faith and is filled with optimism, wisdom, and love for others. His attitude is one of “can do” and “will do.” He trusts the Lord and relies on Him for strength, and the Lord blesses him.</p>
-      <p class="para" uri="/general-conference/2011/10/it-is-better-to-look-up.p8" guid="8c3cd6f3-9f61-4c3e-b591-91e5e29c03c7" pid="LJup0Vp95EiMHvY_4Qc5wA" hash="k8eoQQ">Experience has taught me that if we, like President Monson, exercise our faith and look to God for help, we will not be overwhelmed with the burdens of life. We will not feel incapable <span class="pageBreak" page-number="34"></span>of doing what we are called to do or need to do. We will be strengthened, and our lives will be filled with peace and joy.<span class="noteMarker" ref="f_3">3</span> We will come to realize that most of what we worry about is not of eternal significance—and if it is, the Lord will help us. But we must have the faith to look up and the courage to follow His direction.</p>
-      <p class="para" uri="/general-conference/2011/10/it-is-better-to-look-up.p9" guid="a77b951d-cbfe-4f61-80b4-e806033fb0c9" pid="pbS9DV0gOEaEHS24ABByIw" hash="7he9NA">Why is it a challenge to consistently look up in our lives? Perhaps we lack the faith that such a simple act can solve our problems. For example, when the children of Israel were bitten by poisonous serpents, Moses was commanded to raise up a brass serpent on a pole. The brass serpent represented Christ. Those who looked up at the serpent, as admonished by the prophet, were healed.<span class="noteMarker" ref="f_4">4</span> But many others failed to look up, and they perished.<span class="noteMarker" ref="f_5">5</span></p>
-      <p class="para" uri="/general-conference/2011/10/it-is-better-to-look-up.p10" guid="3abdd776-a9e2-4c8f-b5d9-bd2c1dc1b725" pid="-WJuK7xRlkCEbe_Qw3ENNg" hash="1Ft9Hg">Alma agreed that the reason the Israelites did not look to the serpent was that they did not believe doing so would heal them. Alma’s words are relevant to us today:</p>
-      <p class="para" uri="/general-conference/2011/10/it-is-better-to-look-up.p11" guid="806e4d1a-eeec-4877-96e5-da5170414cc6" pid="tBNzXnF4PEiL1RNQi110iA" hash="BZEJLA">“O my brethren, if ye could be healed by merely casting about your eyes that ye might be healed, would ye not behold quickly, or would ye rather harden your hearts in unbelief, and be slothful … ?</p>
-      <p class="para" uri="/general-conference/2011/10/it-is-better-to-look-up.p12" guid="9e61c1c4-0647-4765-a407-f27258c9cef2" pid="fXcsQ5epUUCp0tauqYYPMA" hash="eMbDCg">“If so, wo shall come upon you; but if not so, then cast about your eyes and begin to believe in the Son of God, that he will come to redeem his people, and that he shall suffer and die to atone for [our] sins; and that he shall rise again from the dead.”<span class="noteMarker" ref="f_6">6</span></p>
-      <p class="para" uri="/general-conference/2011/10/it-is-better-to-look-up.p13" guid="de0d9de7-9d52-425b-bab7-d6138d5e7141" pid="vPMivMuWjUGICprLgrUQ-w" hash="3tlarg">President Monson’s encouragement to look up is a metaphor for remembering Christ. As we remember Him and trust in His power, we receive strength through His Atonement. It is the means whereby we can be relieved of our anxieties, our burdens, and our suffering. It is the means whereby we can be forgiven and healed from the pain of our sins. It is the means whereby we can receive the faith and strength to endure all things.<span class="noteMarker" ref="f_7">7</span></p>
-      <p class="para" uri="/general-conference/2011/10/it-is-better-to-look-up.p14" guid="29ac40d5-471a-4fd6-b00f-c42c733fc83a" pid="QCN-du4cBEK5Z-f_XwYQng" hash="hsN_1Q">Recently Sister Cook and I attended a women’s conference in South Africa. After we listened to some inspiring messages on applying the Atonement in our lives, the stake Relief Society president invited everyone outside. We were each given a helium balloon. She explained that our balloon represented whatever burden, trial, or hardship was holding us back in our lives. On the count of three, we released our balloons, or our “burdens.” As we looked up and watched our burdens float away, there was an audible “Ahhhh.” That simple act of releasing our balloons provided a marvelous reminder of the indescribable joy that comes from looking up and thinking of Christ.</p>
-      <p class="para" uri="/general-conference/2011/10/it-is-better-to-look-up.p15" guid="f09dffc4-bec9-4004-a294-75e47c77eb99" pid="tSS4PBc58UCDbBcAXOI-ng" hash="va4h2Q">Unlike releasing a helium balloon, spiritually looking up is not a one-time experience. We learn from the sacrament prayer that we are to always remember Him and to keep His commandments, that we may have His Spirit to be with us every day to guide us.<span class="noteMarker" ref="f_8">8</span></p>
-      <p class="para" uri="/general-conference/2011/10/it-is-better-to-look-up.p16" guid="1b58206a-d009-4f16-a9e7-d5899016d646" pid="-8Q7GeHjAUGPd_K3Yt-isg" hash="SotzjA">When the children of Israel were wandering in the wilderness, the Lord guided their journey each day as they looked to Him for direction. In Exodus we read, “And the Lord went before them by day in a pillar of a cloud, to lead them the way; and by night in a pillar of fire, to give them light.”<span class="noteMarker" ref="f_9">9</span> His leading was constant, and I give you my humble witness that the Lord can do the same for us.</p>
-      <p class="para" uri="/general-conference/2011/10/it-is-better-to-look-up.p17" guid="d9b81919-f98d-4b0a-9a7d-84c582efeba3" pid="6HUU1s2NxkGGWz9VZAZXbA" hash="y-UTiw">So how will He lead us today? Through prophets, apostles, and priesthood leaders and through feelings that come after we pour out our hearts and souls to Heavenly Father in prayer. He leads us as we forsake the things of the world, repent, and change. He leads us as we keep His commandments and try to be more <span class="pageBreak" page-number="35"></span>like Him. And He leads us through the Holy Ghost.<span class="noteMarker" ref="f_10">10</span></p>
-      <p class="para" uri="/general-conference/2011/10/it-is-better-to-look-up.p18" guid="ea868d47-7d0b-4504-ae7c-9ddd032fb8fe" pid="Q9Xxphe-IUiioV_LL48BbA" hash="rBgaFQ">In order to be guided in life’s journey and have the constant companionship of the Holy Ghost, we must have a “hearing ear” and a “seeing eye,” both directed upward.<span class="noteMarker" ref="f_11">11</span> We must act on the direction we receive. We must look up and step up. And as we do, I know we will cheer up, for God wants us to be happy.</p>
-      <p class="para" uri="/general-conference/2011/10/it-is-better-to-look-up.p19" guid="52c6b9db-ebdc-46dc-a9e9-cf8c5656bdf1" pid="XYwSzhCNJ0yy1jxZ9fCBEQ" hash="CDUxmg">We are Heavenly Father’s children. He wants to be a part of our lives, to bless us, and to help us. He will heal our wounds, dry our tears, and help us along our path to return to His presence. As we look to Him, He will lead us.</p>
-      <div class="poetry" uri="/general-conference/2011/10/it-is-better-to-look-up.f1" guid="a3939486-367e-4b69-a508-aa4cc44a1612">
-        <div class="stanza">
-          <p class="line" pid="nqL3GbLnw0WG05fq-Cv_QA" hash="6bTh5g">
-            <span class="emphasis">The Lord is my light; then why should I fear?</span>
-          </p>
-          <p class="line" pid="2Rbp2EjveU-DKDuSltNYlw" hash="PNPmLA">
-            <span class="emphasis">By day and by night his presence is near. …</span>
-          </p>
-          <p class="line" pid="oEq9WH_F-UW0oNDTku991Q" hash="Vq6_vg">
-            <span class="emphasis">He is my joy and my song.</span>
-          </p>
-          <p class="line" pid="28hsXu96eUubPyEZDC-N8w" hash="XWVF8w">
-            <span class="emphasis">By day and by night he leads … me along.</span>
-            <span class="noteMarker" ref="f_12">12</span>
-          </p>
-        </div>
-      </div>
-      <p class="para" uri="/general-conference/2011/10/it-is-better-to-look-up.p20" guid="1218530a-6ad6-4e09-9d24-f5ee247e8003" pid="VMBvWDel8EmOgf1TnbE2tA" hash="eXCOUQ">I bear testimony that sins are forgiven and burdens are lightened as we look to Christ. “Let us remember him, … and not hang down our heads,”<span class="noteMarker" ref="f_13">13</span> for, as President Monson said, “It is better to look up.”</p>
-      <p class="para" uri="/general-conference/2011/10/it-is-better-to-look-up.p21" guid="1b7d484f-76de-49c8-9bf8-493918ae46ef" pid="EEayKuZHxkG0bNaH7XohDw" hash="cI16Lg">I testify that Jesus is our Savior and Redeemer in the name of Jesus Christ, amen.</p>
-    </div>
-  </div></div>]]></content:encoded>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="33"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/06ec78d85a015bfc85262f5ae22347929a5cd9a5/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/06ec78d85a015bfc85262f5ae22347929a5cd9a5/full/%21192%2C/0/default" data-video-title="It Is Better to Look Up" data-video-description="If we, like President Monson, exercise our faith and look to God for help, we will not be overwhelmed with the burdens of life." data-video-id="1412331036001" data-ip="Download and Streaming                            " data-duration="519051" data-assetId="77e017f446950f3d4b3fd5dc9f8308a95611edeb" data-ref-id="77e017f446950f3d4b3fd5dc9f8308a95611edeb" data-duration-string="8:39" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/1412331036001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="196234453"/><source src="https://assets.churchofjesuschrist.org/77e017f446950f3d4b3fd5dc9f8308a95611edeb-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="26272978"/><source src="https://assets.churchofjesuschrist.org/77e017f446950f3d4b3fd5dc9f8308a95611edeb-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="57049087"/><source src="https://assets.churchofjesuschrist.org/77e017f446950f3d4b3fd5dc9f8308a95611edeb-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="196234453"/></video><h1 data-aid="28851709" id="title1">It Is Better to Look Up</h1>
+<div class="byline">
+<p class="author-name" data-aid="28851710" id="p1">By Elder Carl B. Cook</p>
+<p class="author-role" data-aid="28851711" id="p2">Of the Seventy</p>
+<div class="image-cropper"><img alt="Elder Carl B. Cook" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/5029a2250f8011ec9244eeeeac1e5646e80ba731/full/%21100%2C/0/default" data-assetId="5029a2250f8011ec9244eeeeac1e5646e80ba731" srcset="https://www.churchofjesuschrist.org/imgs/5029a2250f8011ec9244eeeeac1e5646e80ba731/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/5029a2250f8011ec9244eeeeac1e5646e80ba731/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/5029a2250f8011ec9244eeeeac1e5646e80ba731/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/5029a2250f8011ec9244eeeeac1e5646e80ba731/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/5029a2250f8011ec9244eeeeac1e5646e80ba731/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/5029a2250f8011ec9244eeeeac1e5646e80ba731/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/5029a2250f8011ec9244eeeeac1e5646e80ba731/full/%21640%2C/0/default 640w" data-img-id="5029a2250f8011ec9244eeeeac1e5646e80ba731" data-missing-asset="false" data-width="100" data-height="120" data-aspect-ratio="0.8333333333333334" data-public-title="Cook, Carl B." data-public-description="Former Official portrait of Elder Carl B. Cook.  Replaced March 2017."/></div>
+</div>
+<p class="kicker" data-aid="28851712" id="kicker1">If we, like President Monson, exercise our faith and look to God for help, we will not be overwhelmed with the burdens of life.</p>
+</header>
+<div class="body-block">
+<p data-aid="28851713" id="p3">At the end of a particularly tiring day toward the end of my first week as a General Authority, my briefcase was overloaded and my mind was preoccupied with the question “How can I possibly do this?” I left the office of the Seventy and entered the elevator of the Church Administration Building. As the elevator descended, my head was down and I stared blankly at the floor.</p>
+<p data-aid="28851714" id="p4">The door opened and someone entered, but I didn’t look up. As the door closed, I heard someone ask, “What are you looking at down there?” I recognized that voice—it was President Thomas S. Monson.</p>
+<p data-aid="28851715" id="p5">I quickly looked up and responded, “Oh, nothing.” (I’m sure that clever response inspired confidence in my abilities!)</p>
+<p data-aid="28851716" id="p6">But he had seen my subdued countenance and my heavy briefcase. He smiled and lovingly suggested, while pointing heavenward, “It is better to look up!” As we traveled down one more level, he cheerfully explained that he was on his way to the temple. When he bid me farewell, his parting glance spoke again to my heart, “Now, remember, it is better to look up.”</p>
+<p data-aid="28851717" id="p7">As we parted, the words of a scripture came to mind: “Believe in God; believe that he is … ; believe that he has all wisdom, and all power, both in heaven and in earth.”<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a> As I thought of Heavenly Father and Jesus Christ’s power, my heart found the comfort I had sought in vain from the floor of that descending elevator.</p>
+<p data-aid="28851718" id="p8">Since then I have pondered this experience and the role of prophets. I was burdened and my head was down. As the prophet spoke, I looked to him. He redirected my focus to look up to God, where I could be healed and strengthened through Christ’s Atonement. That is what prophets do for us. They lead us to God.<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a></p>
+<p data-aid="28851719" id="p9">I testify that President Monson is not only a prophet, seer, and revelator; he is also a wonderful example of living the principle of looking up. Of all people, he could feel weighed down by his responsibilities. Instead, he exercises great faith and is filled with optimism, wisdom, and love for others. His attitude is one of “can do” and “will do.” He trusts the Lord and relies on Him for strength, and the Lord blesses him.</p>
+<p data-aid="28851720" id="p10">Experience has taught me that if we, like President Monson, exercise our faith and look to God for help, we will not be overwhelmed with the burdens of life. We will not feel incapable <span class="page-break" data-page="34"></span>of doing what we are called to do or need to do. We will be strengthened, and our lives will be filled with peace and joy.<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a> We will come to realize that most of what we worry about is not of eternal significance—and if it is, the Lord will help us. But we must have the faith to look up and the courage to follow His direction.</p>
+<p data-aid="28851721" id="p11">Why is it a challenge to consistently look up in our lives? Perhaps we lack the faith that such a simple act can solve our problems. For example, when the children of Israel were bitten by poisonous serpents, Moses was commanded to raise up a brass serpent on a pole. The brass serpent represented Christ. Those who looked up at the serpent, as admonished by the prophet, were healed.<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a> But many others failed to look up, and they perished.<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a></p>
+<p data-aid="28851722" id="p12">Alma agreed that the reason the Israelites did not look to the serpent was that they did not believe doing so would heal them. Alma’s words are relevant to us today:</p>
+<p data-aid="28851723" id="p13">“O my brethren, if ye could be healed by merely casting about your eyes that ye might be healed, would ye not behold quickly, or would ye rather harden your hearts in unbelief, and be slothful … ?</p>
+<p data-aid="28851724" id="p14">“If so, wo shall come upon you; but if not so, then cast about your eyes and begin to believe in the Son of God, that he will come to redeem his people, and that he shall suffer and die to atone for [our] sins; and that he shall rise again from the dead.”<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a></p>
+<p data-aid="28851725" id="p15">President Monson’s encouragement to look up is a metaphor for remembering Christ. As we remember Him and trust in His power, we receive strength through His Atonement. It is the means whereby we can be relieved of our anxieties, our burdens, and our suffering. It is the means whereby we can be forgiven and healed from the pain of our sins. It is the means whereby we can receive the faith and strength to endure all things.<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a></p>
+<p data-aid="28851726" id="p16">Recently Sister Cook and I attended a women’s conference in South Africa. After we listened to some inspiring messages on applying the Atonement in our lives, the stake Relief Society president invited everyone outside. We were each given a helium balloon. She explained that our balloon represented whatever burden, trial, or hardship was holding us back in our lives. On the count of three, we released our balloons, or our “burdens.” As we looked up and watched our burdens float away, there was an audible “Ahhhh.” That simple act of releasing our balloons provided a marvelous reminder of the indescribable joy that comes from looking up and thinking of Christ.</p>
+<p data-aid="28851727" id="p17">Unlike releasing a helium balloon, spiritually looking up is not a one-time experience. We learn from the sacrament prayer that we are to always remember Him and to keep His commandments, that we may have His Spirit to be with us every day to guide us.<a class="note-ref" href="#note8"><sup class="marker" data-value="8"></sup></a></p>
+<p data-aid="28851728" id="p18">When the children of Israel were wandering in the wilderness, the Lord guided their journey each day as they looked to Him for direction. In Exodus we read, “And the Lord went before them by day in a pillar of a cloud, to lead them the way; and by night in a pillar of fire, to give them light.”<a class="note-ref" href="#note9"><sup class="marker" data-value="9"></sup></a> His leading was constant, and I give you my humble witness that the Lord can do the same for us.</p>
+<p data-aid="28851729" id="p19">So how will He lead us today? Through prophets, apostles, and priesthood leaders and through feelings that come after we pour out our hearts and souls to Heavenly Father in prayer. He leads us as we forsake the things of the world, repent, and change. He leads us as we keep His commandments and try to be more <span class="page-break" data-page="35"></span>like Him. And He leads us through the Holy Ghost.<a class="note-ref" href="#note10"><sup class="marker" data-value="10"></sup></a></p>
+<p data-aid="28851730" id="p20">In order to be guided in life’s journey and have the constant companionship of the Holy Ghost, we must have a “hearing ear” and a “seeing eye,” both directed upward.<a class="note-ref" href="#note11"><sup class="marker" data-value="11"></sup></a> We must act on the direction we receive. We must look up and step up. And as we do, I know we will cheer up, for God wants us to be happy.</p>
+<p data-aid="28851731" id="p21">We are Heavenly Father’s children. He wants to be a part of our lives, to bless us, and to help us. He will heal our wounds, dry our tears, and help us along our path to return to His presence. As we look to Him, He will lead us.</p>
+<div class="poetry">
+<div class="stanza">
+<p class="line" data-aid="28851732" id="p22">The Lord is my light; then why should I fear?</p>
+<p class="line" data-aid="28851733" id="p23">By day and by night his presence is near. …</p>
+<p class="line" data-aid="28851734" id="p24">He is my joy and my song.</p>
+<p class="line" data-aid="28851735" id="p25">By day and by night</p>
+<p class="line" data-aid="164889849" id="p28">He leads … me along.<a class="note-ref" href="#note12"><sup class="marker" data-value="12"></sup></a></p>
+</div>
+</div>
+<p data-aid="28851736" id="p26">I bear testimony that sins are forgiven and burdens are lightened as we look to Christ. “Let us remember him, … and not hang down our heads,”<a class="note-ref" href="#note13"><sup class="marker" data-value="13"></sup></a> for, as President Monson said, “It is better to look up.”</p>
+<p data-aid="28851737" id="p27">I testify that Jesus is our Savior and Redeemer in the name of Jesus Christ, amen.</p>
+</div>
+<footer class="notes">
+<p class="title" data-aid="150606148" id="notetitle1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="28851738" id="note1_p1"><a class="scripture-ref" href="/study/scriptures/bofm/mosiah/4?lang=eng&amp;id=p9#p9">Mosiah 4:9</a>.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="28851739" id="note2_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/2-ne/25?lang=eng&amp;id=p23%2Cp26#p23">2 Nephi 25:23, 26</a>.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="28851740" id="note3_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/mosiah/24?lang=eng&amp;id=p15#p15">Mosiah 24:15</a>.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="28851741" id="note4_p1">See <a class="scripture-ref" href="/study/scriptures/ot/num/21?lang=eng&amp;id=p8-p9#p8">Numbers 21:8–9</a>.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="28851742" id="note5_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/1-ne/17?lang=eng&amp;id=p41#p41">1 Nephi 17:41</a>.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="28851743" id="note6_p1"><a class="scripture-ref" href="/study/scriptures/bofm/alma/33?lang=eng&amp;id=p21-p22#p21">Alma 33:21–22</a>; see also <a class="scripture-ref" href="/study/scriptures/bofm/alma/33?lang=eng&amp;id=p19-p20#p19">verses 19–20</a>.</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="28851744" id="note7_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/alma/36?lang=eng&amp;id=p3%2Cp17-p21#p3">Alma 36:3, 17–21</a>; <a class="scripture-ref" href="/study/scriptures/bofm/3-ne/9?lang=eng&amp;id=p13#p13">3 Nephi 9:13</a>.</p>
+</li>
+<li data-marker="8." id="note8" data-full-marker="8.">
+<p data-aid="28851745" id="note8_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/20?lang=eng&amp;id=p77#p77">Doctrine and Covenants 20:77</a>.</p>
+</li>
+<li data-marker="9." id="note9" data-full-marker="9.">
+<p data-aid="28851746" id="note9_p1"><a class="scripture-ref" href="/study/scriptures/ot/ex/13?lang=eng&amp;id=p21#p21">Exodus 13:21</a>.</p>
+</li>
+<li data-marker="10." id="note10" data-full-marker="10.">
+<p data-aid="28851747" id="note10_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/2-ne/9?lang=eng&amp;id=p52#p52">2 Nephi 9:52</a>; <a class="scripture-ref" href="/study/scriptures/bofm/2-ne/31?lang=eng&amp;id=p13#p13">31:13</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/121?lang=eng&amp;id=p46#p46">Doctrine and Covenants 121:46</a>.</p>
+</li>
+<li data-marker="11." id="note11" data-full-marker="11.">
+<p data-aid="28851748" id="note11_p1"><a class="scripture-ref" href="/study/scriptures/ot/prov/20?lang=eng&amp;id=p12#p12">Proverbs 20:12</a>.</p>
+</li>
+<li data-marker="12." id="note12" data-full-marker="12.">
+<p data-aid="28851749" id="note12_p1">“The Lord Is My Light,” <em>Hymns,</em> no. 89.</p>
+</li>
+<li data-marker="13." id="note13" data-full-marker="13.">
+<p data-aid="28851750" id="note13_p1"><a class="scripture-ref" href="/study/scriptures/bofm/2-ne/10?lang=eng&amp;id=p20#p20">2 Nephi 10:20</a>.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/2011/10/it-is-better-to-look-up</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/october-2011-general-conference/2011-10-2050-elder-carl-b-cook-64k-eng.mp3" length="4147405" type="audio/mpeg"/>
-      <pubDate>Sat, 01 Oct 2011 14:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/d31805c132dc11ecbcf7eeeeac1e744e7c9cd256-64k-en.mp3" length="4413826" type="audio/mpeg"/>
+      <pubDate>Sat, 01 Oct 2011 14:00:00 -0600</pubDate>
+      <itunes:author>Carl B. Cook</itunes:author>
     </item>
     <item>
       <title>Serve</title>
-      <link>http://www.lds.org/general-conference/2016/10/serve?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2016/10/serve?lang=eng</link>
       <description>Elder Cook teaches that although Church callings can be challenging, we are blessed as we serve with faith and dedication.</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/2016/10/serve" dup-conf="false" dup-mag="false" schema-version="1" doc-id="general-conference_PD60001311_000_63cook" doc-version="1" hash="xMVS9g">
-		
-		<div class="heading" uri="/general-conference/2016/10/serve.head1">
-			<h1 class="title" pid="lDKmX_5U2kabHK2VZQObZA" hash="oPIHYA">Serve</h1>
-			<div class="byline">
-				<p class="para" uri="/general-conference/2016/10/serve.p2" pid="shR2q4RslUGlbOwiTN20sQ" hash="qsAI6g1">By Elder Carl B. Cook</p>
-				<p class="para" uri="/general-conference/2016/10/serve.p3" pid="6YJIktzL4kmuN82JTH5J6Q" hash="sSmk3g">Of the Seventy</p>
-			</div>
-			<p class="kicker" pid="MJyBCJNxLUG89TNqSnYB9g" hash="tPXCZg">Every member is needed, and every member needs an opportunity to serve.</p>
-		<p class="authorName" pid="NQh01mND20qNl1rXvFhIAQ" hash="qsAI6g">By Elder Carl B. Cook</p></div>
-		<div class="bodyBlock">
-			<p class="para" uri="/general-conference/2016/10/serve.p5" pid="LcdJSSdO2kidfbBaFu3iyQ" hash="-TkBHg">As a boy I enjoyed working with my Uncle Lyman and Aunt Dorothy on their farm. Uncle Lyman usually led our projects, and Aunt Dorothy often assisted and drove the old Dodge truck. I remember the rush of adrenaline when we got bogged down in the mud or tried to climb a steep hill: Uncle Lyman would yell, “Put ’er in compound, Dorothy!” That’s when I started to pray. Somehow, with the Lord’s help and after some grinding of gears, Aunt Dorothy found compound. With all wheels locked in and churning, the truck lunged forward and our work continued.</p>
-			<p class="para" uri="/general-conference/2016/10/serve.p6" pid="fqRJoJmd_k60V34F3Jalzw" hash="OcV0Ww">“Putting it in compound” refers to shifting into a special gear in which a number of gears are arranged to work together to generate more torque.<span class="noteMarker" ref="f_1">1</span> A compound gear, along with four-wheel drive, allows you to gear down, power up, and move.</p>
-			<a href="gl://image/?pid=ES7Kqb8A_E2zX2MwwMRA1A"><img xmlns="" xmlns:xi="http://www.w3.org/2001/XInclude" src="https://edge.ldscdn.org/mobile/images/1814613/638e2dabc5fe44628e053334b8214e72/200x129.jpg" data-multi-src="true" data-src-50x32="https://edge.ldscdn.org/mobile/images/1814613/638e2dabc5fe44628e053334b8214e72/50x32.jpg" data-src-100x64="https://edge.ldscdn.org/mobile/images/1814613/638e2dabc5fe44628e053334b8214e72/100x64.jpg" data-src-200x129="https://edge.ldscdn.org/mobile/images/1814613/638e2dabc5fe44628e053334b8214e72/200x129.jpg" data-src-320x206="https://edge.ldscdn.org/mobile/images/1814613/638e2dabc5fe44628e053334b8214e72/320x206.jpg" data-src-460x296="https://edge.ldscdn.org/mobile/images/1814613/638e2dabc5fe44628e053334b8214e72/460x296.jpg" data-src-640x412="https://edge.ldscdn.org/mobile/images/1814613/638e2dabc5fe44628e053334b8214e72/640x412.jpg" data-src-1024x660="https://edge.ldscdn.org/mobile/images/1814613/638e2dabc5fe44628e053334b8214e72/1024x660.jpg" data-src-2048x1321="https://edge.ldscdn.org/mobile/images/1814613/638e2dabc5fe44628e053334b8214e72/2048x1321.jpg" data-src-2790x1800="https://edge.ldscdn.org/mobile/images/1814613/638e2dabc5fe44628e053334b8214e72/2790x1800.jpg" altText="Compound gears" pid="ES7Kqb8A_E2zX2MwwMRA1A" hash="vr5e7w"></img></a>
-			<p class="para" uri="/general-conference/2016/10/serve.p7" pid="GHxTU2Y_LEO9uE_6xXq5KA" hash="SK-iMQ">I like to think of each of us as part of a compound gear as we serve together in the Church—in wards and branches, in quorums and auxiliaries. Just as gears combine to provide greater power in compound, we have greater power when we join together. As we unite to serve one another, we accomplish much more together than we could on our own. It is thrilling to be engaged and unified as we serve and assist in the Lord’s work.</p>
-			<div class="topic" uri="/general-conference/2016/10/serve.t1">
-				<h2 pid="yDVYp6uVgEWLat_LhmSmIA" hash="eQRBKA">Serving Is a Blessing</h2>
-				<p class="para" uri="/general-conference/2016/10/serve.p9" pid="xlJAKHtU8k6MQbdBbYjhlQ" hash="fbGhCw">The opportunity to serve is one of the great blessings of membership in the Church.<span class="noteMarker" ref="f_2">2</span> The Lord has said, “If thou lovest me thou shalt serve me,”<span class="noteMarker" ref="f_3">3</span> and we serve Him by serving others.<span class="noteMarker" ref="f_4">4</span></p>
-				<p class="para" uri="/general-conference/2016/10/serve.p10" pid="DIkixyVGR0-7dWCpCr6v9w" hash="7hij5A">As we serve, we draw closer to God.<span class="noteMarker" ref="f_5">5</span> We come to know Him in ways that we otherwise might not. Our faith in Him increases. Our problems are put into perspective. Life becomes more satisfying. Our love for others increases, as well as our desire to serve. Through this blessed process, we become more like God, and we are better prepared to return to Him.<span class="noteMarker" ref="f_6">6</span></p>
-				<p class="para" uri="/general-conference/2016/10/serve.p11" pid="F9yWKdIR0U-lJIfD-WD2TA" hash="hamXEQ">As President Marion G. Romney taught: “Service is not something we endure on this earth so we can earn the right to live in the celestial kingdom. Service is the very fiber of which an exalted life in the celestial kingdom is made.”<span class="noteMarker" ref="f_7">7</span></p>
-			</div>
-			<div class="topic" uri="/general-conference/2016/10/serve.t2">
-				<h2 pid="m6YP9CAZg0-0X-zIOiG2QQ" hash="8RWqEQ">Serving Can Be Challenging</h2>
-				<p class="para" uri="/general-conference/2016/10/serve.p13" pid="9Ta8MSvF6UyFR01VqZiMiw" hash="_ZKApA">Serving in the Church, however, can be challenging if we are asked to do something that frightens us, if we grow weary of serving, or if we are called to do something that we do not initially find appealing.</p>
-				<p class="para" uri="/general-conference/2016/10/serve.p14" pid="AMdcRnALM0ign8T2fSpoSw" hash="uqXpww">Recently I received a new assignment. I had been serving in the Africa Southeast Area. It was thrilling to serve where the Church is relatively young and being established, and we loved the Saints. Then I was called to return to Church headquarters, and to be honest, I was less than enthusiastic. A change in assignment brought some unknowns.</p>
-				<p class="para" uri="/general-conference/2016/10/serve.p15" pid="3pNAp1KHDkSpSD9uRwm_mg" hash="ZnXjpQ">One night after contemplating the upcoming change, I dreamed about my great-great-grandfather Joseph Skeen. I knew from his journal that when he and his wife, Maria, moved to Nauvoo, he desired to serve, so he sought out the Prophet Joseph Smith and asked how he could help. The Prophet sent him to work on the prairie and told him to do the best he could, so he did. He worked on the Smiths’ farm.<span class="noteMarker" ref="f_8">8</span></p>
-				<p class="para" uri="/general-conference/2016/10/serve.p16" pid="dM_no7OJ20KdvTG70lq0Fg" hash="sjdBsw">I pondered the privilege that Joseph Skeen had in receiving his assignment that way. Suddenly I realized that I have the same privilege, as we all do. All Church callings come from God—through His appointed servants.<span class="noteMarker" ref="f_9">9</span></p>
-				<p class="para" uri="/general-conference/2016/10/serve.p17" pid="tg6zBrA_0kaz7pMm6Mb9yQ" hash="fm-PVw">I felt a distinct spiritual confirmation that my new assignment was inspired. It is important that we make that connection—that our callings literally come to us from God through our priesthood leaders. After this experience, my attitude changed, and I was filled with a deep desire to serve. I am grateful for the blessing of repentance and for my changed heart. I love my new assignment.</p>
-				<p class="para" uri="/general-conference/2016/10/serve.p18" pid="uftn7XS-dUmifOZk36phVw" hash="d3ZbXg">Even if we think that our Church calling was simply our priesthood leader’s idea or that it came to us because no one else would accept it, we will be blessed as we serve. But when we recognize God’s hand in our calling and serve with all our hearts, additional power comes into our service, and we become true servants of Jesus Christ.</p>
-			</div>
-			<div class="topic" uri="/general-conference/2016/10/serve.t3">
-				<h2 pid="ins4cDp9iUuUp6eyIW4DdA" hash="Q0PdIw">Serving Requires Faith</h2>
-				<p class="para" uri="/general-conference/2016/10/serve.p20" pid="0BtOt-0WrkGwS_saFuQIuA" hash="XPSNRw">Fulfilling callings requires faith. Shortly after Joseph began working on the farm, he and Maria became very sick. They had no money and were among strangers. It was a difficult time for them. In his journal, Joseph wrote, “We worked along [and] hung on to the Church with what little faith we had, though the devil tried to destroy us and turn us back.”<span class="noteMarker" ref="f_10">10</span></p>
-				<p class="para" uri="/general-conference/2016/10/serve.p21" pid="RQrsyMaewE-DIRNpD4kz2Q" hash="Qelfgg">I, along with hundreds of other descendants, will be eternally grateful that Joseph and Maria did not turn back. Blessings come as we persevere in our callings and responsibilities and hang on with all the faith we have.</p>
-				<p class="para" uri="/general-conference/2016/10/serve.p22" pid="5EkGjl05TEGH9Vx2arFcPA" hash="JzRkUQ">I know a wonderful Gospel Doctrine teacher who lifts class members as she teaches, but that wasn’t always the case. After joining the Church, she received a calling to teach in Primary. She felt she had no teaching skills, but because she knew the importance of serving, she accepted. Fear quickly overcame her, and she stopped attending so she wouldn’t have to teach. Thankfully, her home teacher noticed her absence, visited her, and invited her back. The bishop and ward members assisted her. Eventually, with increased faith, she began teaching children. As she applied principles now taught in <span class="emphasis">Teaching in the Savior’s Way,</span> the Lord blessed her efforts and she became a gifted teacher.<span class="noteMarker" ref="f_11">11</span></p>
-				<p class="para" uri="/general-conference/2016/10/serve.p23" pid="ZnxgSGhudkehj3Hi3V0YYQ" hash="l7bGuw">The natural man or woman in all of us is inclined to allow us to excuse ourselves from serving for reasons such as “I am not ready to serve; I have more to learn,” “I’m tired and need a break,” “I’m too old—it’s someone else’s turn,” or “I am simply too busy.”</p>
-				<p class="para" uri="/general-conference/2016/10/serve.p24" pid="W8q0WoPn7kqTs_7bZoK6fA" hash="hjGoAQ">Brothers and sisters, accepting and fulfilling a calling is an act of faith. We can trust in what our prophet, President Thomas S. Monson, repeatedly teaches: “Whom the Lord calls, the Lord qualifies” and “When we are on the Lord’s errand, we are entitled to the Lord’s help.”<span class="noteMarker" ref="f_12">12</span> Whether we are overwhelmed or underwhelmed, whether we are scared to death or bored to death, the Lord wants us to gear down, power up, and serve.</p>
-				<p class="para" uri="/general-conference/2016/10/serve.p25" pid="gmuPvZjRMUG9a4O4MPma_w" hash="_inLVg">I see no signs that President Monson and his associates in the First Presidency and the Quorum of the Twelve are too busy or too tired. They exemplify in an inspiring way the power that comes into our lives as we exercise faith, accept assignments, and fulfill them with commitment and dedication. They “put [their shoulders] to the wheel”<span class="noteMarker" ref="f_13">13</span> many years ago, and they continue to push forward, onward, and upward.</p>
-				<p class="para" uri="/general-conference/2016/10/serve.p26" pid="wW3oiyAmTUGbQhPix0PYQA" hash="pwF4OA">Yes, they serve in important callings, but <span class="emphasis">every</span> calling or assignment is important. President Gordon B. Hinckley, a previous prophet and President of the Church, said: “We are all in this great endeavor together. … Your obligation is as serious in your sphere of responsibility as is my obligation in my sphere. No calling in this church is small or of little consequence.”<span class="noteMarker" ref="f_14">14</span> Every calling is important.<span class="noteMarker" ref="f_15">15</span></p>
-			</div>
-			<div class="topic" uri="/general-conference/2016/10/serve.t4">
-				<h2 pid="1KOgm6Q1wUmrX9VwmYdi9Q" hash="JN9fZg">Let Us Serve</h2>
-				<p class="para" uri="/general-conference/2016/10/serve.p28" pid="WMGOKdIS9EG9NNg5X_LgcQ" hash="CEblVQ">Let us rise up in faith, “put [our shoulders] to the wheel,” and move this “worthy work along.”<span class="noteMarker" ref="f_16">16</span> Let’s “put it in compound,” along with faithful Aunt Dorothy. As brothers and sisters, let’s serve.</p>
-				<p class="para" uri="/general-conference/2016/10/serve.p29" pid="b5hBdc9-J0yodnwoBTlLmw" hash="pyCiIg">If you want to make your bishop’s or branch president’s day, ask him the questions “How can I help?” “Where would the Lord have me serve?” As he prays and considers your personal, family, and employment responsibilities, he will be inspired to extend an appropriate calling. As you are set apart, you will receive a priesthood blessing to help you succeed. You <span class="emphasis">will</span> be blessed! Every member is needed, and every member needs an opportunity to serve.<span class="noteMarker" ref="f_17">17</span></p>
-			</div>
-			<div class="topic" uri="/general-conference/2016/10/serve.t5">
-				<h2 pid="67hYZiprG0OXZBECP0ocsg" hash="Jo_jNw">Jesus Christ Is Our Exemplar</h2>
-				<p class="para" uri="/general-conference/2016/10/serve.p31" pid="ZvEz7sFtDEilKoJjUqKg5g" hash="1Q-TiQ">Jesus Christ, our great Exemplar, gave His life to His Father’s work. In the Grand Council before this world was organized, Jesus, chosen and anointed from the beginning, volunteered, “Here am I, send me.”<span class="noteMarker" ref="f_18">18</span> In so doing, He literally became the servant of us all. Through Jesus Christ and the power we receive through His Atonement, we can also serve. He will help us.<span class="noteMarker" ref="f_19">19</span></p>
-				<p class="para" uri="/general-conference/2016/10/serve.p32" pid="LSwriFEmnE-pzFRAEQ2fgA" hash="JCiEfA">I extend my heartfelt love to those of you who may not currently be able to serve in the Church in traditional ways because of personal circumstances but who live your life in a spirit of service. I pray that you will be blessed in your efforts. I also express appreciation to those who magnify callings week in and week out, as well as those who soon will be accepting calls to serve. All contributions and sacrifices are valued, especially by Him whom we serve. All who serve will receive God’s grace.<span class="noteMarker" ref="f_20">20</span></p>
-				<p class="para" uri="/general-conference/2016/10/serve.p33" pid="fdE2hFu2Rk6TiTQu5i5MBQ" hash="oiPrtQ">Whatever our age or circumstance, let service be our “watchcry.”<span class="noteMarker" ref="f_21">21</span> Serve in your calling. Serve a mission. Serve your mother. Serve a stranger. Serve your neighbor. Just serve.</p>
-				<p class="para" uri="/general-conference/2016/10/serve.p34" pid="3Nm1QImHmUm5qsBaaCd5wg" hash="V_aQnQ">May the Lord bless each of us in our efforts to serve and become true followers of Jesus Christ.<span class="noteMarker" ref="f_22">22</span> I testify that He lives and directs this work. In the name of Jesus Christ, amen.</p>
-			</div>
-		</div>
-		
-	</div>]]></content:encoded>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="110"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/8572c486f6a3b1156d10b230399041d8e0d88157/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/8572c486f6a3b1156d10b230399041d8e0d88157/full/%21192%2C/0/default" data-video-title="Serve" data-video-description="Elder Cook teaches that although Church callings can be challenging, we are blessed as we serve with faith and dedication." data-video-id="5152469078001" data-ip="Download and Streaming                            " data-duration="658858" data-assetId="aa67e881ffbf79bfe416912d10bfe44e0beaa11e" data-ref-id="aa67e881ffbf79bfe416912d10bfe44e0beaa11e" data-duration-string="10:58" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/5152469078001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="148259251"/><source src="https://assets.churchofjesuschrist.org/aa67e881ffbf79bfe416912d10bfe44e0beaa11e-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="34461089"/><source src="https://assets.churchofjesuschrist.org/aa67e881ffbf79bfe416912d10bfe44e0beaa11e-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="58753531"/><source src="https://assets.churchofjesuschrist.org/aa67e881ffbf79bfe416912d10bfe44e0beaa11e-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="148259251"/></video><h1 data-aid="129957080" id="title1">Serve</h1>
+<div class="byline">
+<p class="author-name" data-aid="129957081" id="p1">By Elder Carl B. Cook</p>
+<p class="author-role" data-aid="129957082" id="p2">Of the Seventy</p>
+<div class="image-cropper"><img alt="Elder Carl B. Cook" class="headshot" data-deprecate-web-url="carl-cook-first-quorum-seventy_1255508.jpg" id="img2" src="https://www.churchofjesuschrist.org/imgs/9b27ee385c039b64c026fd91834bea69b77f4bb4/full/%21100%2C/0/default" data-assetId="9b27ee385c039b64c026fd91834bea69b77f4bb4" srcset="https://www.churchofjesuschrist.org/imgs/9b27ee385c039b64c026fd91834bea69b77f4bb4/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/9b27ee385c039b64c026fd91834bea69b77f4bb4/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/9b27ee385c039b64c026fd91834bea69b77f4bb4/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/9b27ee385c039b64c026fd91834bea69b77f4bb4/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/9b27ee385c039b64c026fd91834bea69b77f4bb4/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/9b27ee385c039b64c026fd91834bea69b77f4bb4/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/9b27ee385c039b64c026fd91834bea69b77f4bb4/full/%21640%2C/0/default 640w" data-img-id="9b27ee385c039b64c026fd91834bea69b77f4bb4" data-missing-asset="false" data-width="100" data-height="139" data-aspect-ratio="0.7194244604316546" data-public-title="Cook, Carl B." data-public-description="Official portrait of Elder Carl B. Cook of the First Quorum of the Seventy, April 2011.  Formerly serving in the Fifth Quorum of the Seventy.   Sustained to the First Quorum at April 2011 general conference."/></div>
+</div>
+<p class="kicker" data-aid="129957083" id="kicker1">Every member is needed, and every member needs an opportunity to serve.</p>
+</header>
+<div class="body-block">
+<p data-aid="129957084" id="p3">As a boy I enjoyed working with my Uncle Lyman and Aunt Dorothy on their farm. Uncle Lyman usually led our projects, and Aunt Dorothy often assisted and drove the old Dodge truck. I remember the rush of adrenaline when we got bogged down in the mud or tried to climb a steep hill: Uncle Lyman would yell, “Put ’er in compound, Dorothy!” That’s when I started to pray. Somehow, with the Lord’s help and after some grinding of gears, Aunt Dorothy found compound. With all wheels locked in and churning, the truck lunged forward and our work continued.</p>
+<p data-aid="129957085" id="p4">“Putting it in compound” refers to shifting into a special gear in which a number of gears are arranged to work together to generate more torque.<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a> A compound gear, along with four-wheel drive, allows you to gear down, power up, and move.</p>
+<img alt="Compound gears" id="img1" src="https://www.churchofjesuschrist.org/imgs/ed92318919f01924ef1e0d0497dfe4dbcacfc1ce/full/%21500%2C/0/default" data-assetId="ed92318919f01924ef1e0d0497dfe4dbcacfc1ce" srcset="https://www.churchofjesuschrist.org/imgs/ed92318919f01924ef1e0d0497dfe4dbcacfc1ce/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/ed92318919f01924ef1e0d0497dfe4dbcacfc1ce/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/ed92318919f01924ef1e0d0497dfe4dbcacfc1ce/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/ed92318919f01924ef1e0d0497dfe4dbcacfc1ce/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/ed92318919f01924ef1e0d0497dfe4dbcacfc1ce/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/ed92318919f01924ef1e0d0497dfe4dbcacfc1ce/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/ed92318919f01924ef1e0d0497dfe4dbcacfc1ce/full/%21640%2C/0/default 640w" data-img-id="ed92318919f01924ef1e0d0497dfe4dbcacfc1ce" data-missing-asset="false" data-width="500" data-height="322" data-aspect-ratio="1.5527950310559007" data-public-title="Gears" data-public-description="Screen capture from gear animation."/>
+<p data-aid="129957086" id="p5">I like to think of each of us as part of a compound gear as we serve together in the Church—in wards and branches, in quorums and auxiliaries. Just as gears combine to provide greater power in compound, we have greater power when we join together. As we unite to serve one another, we accomplish much more together than we could on our own. It is thrilling to be engaged and unified as we serve and assist in the Lord’s work.</p>
+<section>
+<header>
+<h2 data-aid="129957087" id="title2">Serving Is a Blessing</h2>
+</header>
+<p data-aid="129957088" id="p6">The opportunity to serve is one of the great blessings of membership in the Church.<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a> The Lord has said, “If thou lovest me thou shalt serve me,”<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a> and we serve Him by serving others.<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a></p>
+<p data-aid="129957089" id="p7">As we serve, we draw closer to God.<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a> We come to know Him in ways that we otherwise might not. Our faith in Him increases. Our problems are put into perspective. Life becomes more satisfying. Our love for others increases, as well as our desire to serve. Through this blessed process, we become more like God, and we are better prepared to return to Him.<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a></p>
+<p data-aid="129957090" id="p8">As President Marion G. Romney taught: “Service is not something we endure on this earth so we can earn the right to live in the celestial kingdom. Service is the very fiber of which an exalted life in the celestial kingdom is made.”<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a></p>
+</section>
+<section>
+<header>
+<h2 data-aid="129957091" id="title3">Serving Can Be Challenging</h2>
+</header>
+<p data-aid="129957092" id="p9">Serving in the Church, however, can be challenging if we are asked to do something that frightens us, if we grow weary of serving, or if we are called to do something that we do not initially find appealing.</p>
+<p data-aid="129957093" id="p10">Recently I received a new assignment. I had been serving in the Africa Southeast Area. It was thrilling to serve where the Church is relatively young <span class="page-break" data-page="111"></span>and being established, and we loved the Saints. Then I was called to return to Church headquarters, and to be honest, I was less than enthusiastic. A change in assignment brought some unknowns.</p>
+<p data-aid="129957094" id="p11">One night after contemplating the upcoming change, I dreamed about my great-great-grandfather Joseph Skeen. I knew from his journal that when he and his wife, Maria, moved to Nauvoo, he desired to serve, so he sought out the Prophet Joseph Smith and asked how he could help. The Prophet sent him to work on the prairie and told him to do the best he could, so he did. He worked on the Smiths’ farm.<a class="note-ref" href="#note8"><sup class="marker" data-value="8"></sup></a></p>
+<p data-aid="129957095" id="p12">I pondered the privilege that Joseph Skeen had in receiving his assignment that way. Suddenly I realized that I have the same privilege, as we all do. All Church callings come from God—through His appointed servants.<a class="note-ref" href="#note9"><sup class="marker" data-value="9"></sup></a></p>
+<p data-aid="129957096" id="p13">I felt a distinct spiritual confirmation that my new assignment was inspired. It is important that we make that connection—that our callings literally come to us from God through our priesthood leaders. After this experience, my attitude changed, and I was filled with a deep desire to serve. I am grateful for the blessing of repentance and for my changed heart. I love my new assignment.</p>
+<p data-aid="129957097" id="p14">Even if we think that our Church calling was simply our priesthood leader’s idea or that it came to us because no one else would accept it, we will be blessed as we serve. But when we recognize God’s hand in our calling and serve with all our hearts, additional power comes into our service, and we become true servants of Jesus Christ.</p>
+</section>
+<section>
+<header>
+<h2 data-aid="129957098" id="title4">Serving Requires Faith</h2>
+</header>
+<p data-aid="129957099" id="p15">Fulfilling callings requires faith. Shortly after Joseph began working on the farm, he and Maria became very sick. They had no money and were among strangers. It was a difficult time for them. In his journal, Joseph wrote, “We worked along [and] hung on to the Church with what little faith we had, though the devil tried to destroy us and turn us back.”<a class="note-ref" href="#note10"><sup class="marker" data-value="10"></sup></a></p>
+<p data-aid="129957100" id="p16">I, along with hundreds of other descendants, will be eternally grateful that Joseph and Maria did not turn back. Blessings come as we persevere in our callings and responsibilities and hang on with all the faith we have.</p>
+<p data-aid="129957101" id="p17">I know a wonderful Gospel Doctrine teacher who lifts class members as she teaches, but that wasn’t always the case. After joining the Church, she received a calling to teach in Primary. She felt she had no teaching skills, but because she knew the importance of serving, she accepted. Fear quickly overcame her, and she stopped attending so she wouldn’t have to teach. Thankfully, her home teacher noticed her absence, visited her, and invited her back. The bishop and ward members assisted her. Eventually, with increased faith, she began teaching children. As she applied principles now taught in <em>Teaching in the Savior’s Way,</em> the Lord blessed her efforts and she became a gifted teacher.<a class="note-ref" href="#note11"><sup class="marker" data-value="11"></sup></a></p>
+<p data-aid="129957102" id="p18">The natural man or woman in all of us is inclined to allow us to excuse ourselves from serving for reasons such as “I am not ready to serve; I have more to learn,” “I’m tired and need a break,” “I’m too old—it’s someone else’s turn,” or “I am simply too busy.”</p>
+<p data-aid="129957103" id="p19">Brothers and sisters, accepting and fulfilling a calling is an act of faith. We can trust in what our prophet, President Thomas S. Monson, repeatedly teaches: “Whom the Lord calls, the Lord qualifies” and “When we are on the Lord’s errand, we are entitled to the Lord’s help.”<a class="note-ref" href="#note12"><sup class="marker" data-value="12"></sup></a> Whether we are overwhelmed or underwhelmed, whether we are scared to death or bored to death, the Lord wants us to gear down, power up, and serve.</p>
+<p data-aid="129957104" id="p20">I see no signs that President Monson and his associates in the First Presidency and the Quorum of the Twelve are too busy or too tired. They exemplify in an inspiring way the power that comes into our lives as we exercise faith, accept assignments, and fulfill them with commitment and <span class="page-break" data-page="112"></span>dedication. They “put [their shoulders] to the wheel”<a class="note-ref" href="#note13"><sup class="marker" data-value="13"></sup></a> many years ago, and they continue to push forward, onward, and upward.</p>
+<p data-aid="129957105" id="p21">Yes, they serve in important callings, but <em>every</em> calling or assignment is important. President Gordon B. Hinckley, a previous prophet and President of the Church, said: “We are all in this great endeavor together. … Your obligation is as serious in your sphere of responsibility as is my obligation in my sphere. No calling in this church is small or of little consequence.”<a class="note-ref" href="#note14"><sup class="marker" data-value="14"></sup></a> Every calling is important.<a class="note-ref" href="#note15"><sup class="marker" data-value="15"></sup></a></p>
+</section>
+<section>
+<header>
+<h2 data-aid="129957106" id="title5">Let Us Serve</h2>
+</header>
+<p data-aid="129957107" id="p22">Let us rise up in faith, “put [our shoulders] to the wheel,” and move this “worthy work along.”<a class="note-ref" href="#note16"><sup class="marker" data-value="16"></sup></a> Let’s “put it in compound,” along with faithful Aunt Dorothy. As brothers and sisters, let’s serve.</p>
+<p data-aid="129957108" id="p23">If you want to make your bishop’s or branch president’s day, ask him the questions “How can I help?” “Where would the Lord have me serve?” As he prays and considers your personal, family, and employment responsibilities, he will be inspired to extend an appropriate calling. As you are set apart, you will receive a priesthood blessing to help you succeed. You <em>will</em> be blessed! Every member is needed, and every member needs an opportunity to serve.<a class="note-ref" href="#note17"><sup class="marker" data-value="17"></sup></a></p>
+</section>
+<section>
+<header>
+<h2 data-aid="129957109" id="title6">Jesus Christ Is Our Exemplar</h2>
+</header>
+<p data-aid="129957110" id="p24">Jesus Christ, our great Exemplar, gave His life to His Father’s work. In the Grand Council before this world was organized, Jesus, chosen and anointed from the beginning, volunteered, “Here am I, send me.”<a class="note-ref" href="#note18"><sup class="marker" data-value="18"></sup></a> In so doing, He literally became the servant of us all. Through Jesus Christ and the power we receive through His Atonement, we can also serve. He will help us.<a class="note-ref" href="#note19"><sup class="marker" data-value="19"></sup></a></p>
+<p data-aid="129957111" id="p25">I extend my heartfelt love to those of you who may not currently be able to serve in the Church in traditional ways because of personal circumstances but who live your life in a spirit of service. I pray that you will be blessed in your efforts. I also express appreciation to those who magnify callings week in and week out, as well as those who soon will be accepting calls to serve. All contributions and sacrifices are valued, especially by Him whom we serve. All who serve will receive God’s grace.<a class="note-ref" href="#note20"><sup class="marker" data-value="20"></sup></a></p>
+<p data-aid="129957112" id="p26">Whatever our age or circumstance, let service be our “watchcry.”<a class="note-ref" href="#note21"><sup class="marker" data-value="21"></sup></a> Serve in your calling. Serve a mission. Serve your mother. Serve a stranger. Serve your neighbor. Just serve.</p>
+<p data-aid="129957113" id="p27">May the Lord bless each of us in our efforts to serve and become true followers of Jesus Christ.<a class="note-ref" href="#note22"><sup class="marker" data-value="22"></sup></a> I testify that He lives and directs this work. In the name of Jesus Christ, amen.</p>
+</section>
+</div>
+<footer class="notes">
+<p class="title" data-aid="129957114" id="notetitle1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="129957115" id="note1_p1">See “Compound Gears,” technologystudent.com/gears1/gears3.htm; “Compound Gear Reduction,” curriculum.vexrobotics.com.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="129957116" id="note2_p1">See <em>Preach My Gospel: A Guide to Missionary Service</em> (2004), 87.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="129957117" id="note3_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/42?lang=eng&amp;id=p29#p29">Doctrine and Covenants 42:29</a>; see also <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/59?lang=eng&amp;id=p5#p5">Doctrine and Covenants 59:5</a>.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="129957118" id="note4_p1">See <a class="scripture-ref" href="/study/scriptures/nt/matt/25?lang=eng&amp;id=p40#p40">Matthew 25:40</a>; <a class="scripture-ref" href="/study/scriptures/bofm/mosiah/2?lang=eng&amp;id=p17#p17">Mosiah 2:17</a>.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="129957119" id="note5_p1">See <a class="scripture-ref" href="/study/scriptures/nt/john/12?lang=eng&amp;id=p26#p26">John 12:26</a>.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="129957120" id="note6_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/81?lang=eng&amp;id=p4-p6#p4">Doctrine and Covenants 81:4–6</a>.</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="129957121" id="note7_p1">Marion G. Romney, “<a class="cross-ref" href="/study/general-conference/1982/10/the-celestial-nature-of-self-reliance?lang=eng">The Celestial Nature of Self-Reliance</a>,” <em>Ensign,</em> Nov. 1982, 93.</p>
+</li>
+<li data-marker="8." id="note8" data-full-marker="8.">
+<p data-aid="129957122" id="note8_p1">See Joseph Skeen, reminiscences and diary, 7, Church History Library, Salt Lake City; see also <em>Journal and History of Joseph Skeen,</em> ed. Greg S. Montgomery and Mark R. Montgomery (1996), 23.</p>
+</li>
+<li data-marker="9." id="note9" data-full-marker="9.">
+<p data-aid="129957123" id="note9_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/1?lang=eng&amp;id=p38#p38">Doctrine and Covenants 1:38</a>; <a class="scripture-ref" href="/study/scriptures/pgp/a-of-f/1?lang=eng&amp;id=p5#p5">Articles of Faith 1:5</a>.</p>
+</li>
+<li data-marker="10." id="note10" data-full-marker="10.">
+<p data-aid="129957124" id="note10_p1">Skeen, reminiscences and diary, 8, spelling and punctuation standardized; see also <em>Journal and History of Joseph Skeen,</em> 23; <a class="scripture-ref" href="/study/scriptures/nt/luke/22?lang=eng&amp;id=p31#p31">Luke 22:31</a>; <a class="scripture-ref" href="/study/scriptures/bofm/2-ne/28?lang=eng&amp;id=p19-p24#p19">2 Nephi 28:19–24</a>; <a class="scripture-ref" href="/study/scriptures/bofm/alma/30?lang=eng&amp;id=p60#p60">Alma 30:60</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/10?lang=eng&amp;id=p22-p27#p22">Doctrine and Covenants 10:22–27</a>.</p>
+</li>
+<li data-marker="11." id="note11" data-full-marker="11.">
+<p data-aid="129957125" id="note11_p1">See <em>Teaching in the Savior’s Way</em> (2016), 37–38; <em>Handbook 2: Administering the Church</em> (2010), 5.3, 5.5.4.</p>
+</li>
+<li data-marker="12." id="note12" data-full-marker="12.">
+<p data-aid="129957126" id="note12_p1">Thomas S. Monson, “<a class="cross-ref" href="/study/general-conference/1996/04/duty-calls?lang=eng">Duty Calls</a>,” <em>Ensign,</em> May 1996, 44.</p>
+</li>
+<li data-marker="13." id="note13" data-full-marker="13.">
+<p data-aid="129957127" id="note13_p1">“Put Your Shoulder to the Wheel,” <em>Hymns,</em> no. 252.</p>
+</li>
+<li data-marker="14." id="note14" data-full-marker="14.">
+<p data-aid="129957128" id="note14_p1">Gordon B. Hinckley, “<a class="cross-ref" href="/study/general-conference/1995/04/this-is-the-work-of-the-master?lang=eng">This Is the Work of the Master</a>,” <em>Ensign,</em> May 1995, 71.</p>
+<p data-aid="129957129" id="note14_p2">President Hinckley also said: “You have as great an opportunity for satisfaction in the performance of your duty as I do in mine. The progress of this work will be determined by our joint efforts. Whatever your calling, it is as fraught with the same kind of opportunity to accomplish good as is mine. What is really important is that this is the work of the Master. Our work is to go about doing good as did He” (“<a class="cross-ref" href="/study/general-conference/1995/04/this-is-the-work-of-the-master?lang=eng">This Is the Work of the Master</a>,” 71).</p>
+<p data-aid="129957130" id="note14_p3">President Thomas S. Monson said: “How does one magnify a calling? Simply by performing the service that pertains to it” (“<a class="cross-ref" href="/study/general-conference/1996/04/duty-calls?lang=eng">Duty Calls</a>,” 43).</p>
+</li>
+<li data-marker="15." id="note15" data-full-marker="15.">
+<p data-aid="129957131" id="note15_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/alma/37?lang=eng&amp;id=p6#p6">Alma 37:6</a>.</p>
+</li>
+<li data-marker="16." id="note16" data-full-marker="16.">
+<p data-aid="129957132" id="note16_p1">“Put Your Shoulder to the Wheel,” <em>Hymns,</em> no. 252.</p>
+</li>
+<li data-marker="17." id="note17" data-full-marker="17.">
+<p data-aid="129957133" id="note17_p1">See <em>Handbook 2,</em> 3.3.1, 3.3.3, 19.1.1, 19.4. “Through the service of men and women and boys and girls, God’s work is done” (<em>Gospel Principles</em> [2009], 163).</p>
+</li>
+<li data-marker="18." id="note18" data-full-marker="18.">
+<p data-aid="129957134" id="note18_p1"><a class="scripture-ref" href="/study/scriptures/pgp/abr/3?lang=eng&amp;id=p27#p27">Abraham 3:27</a>.</p>
+</li>
+<li data-marker="19." id="note19" data-full-marker="19.">
+<p data-aid="129957135" id="note19_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/76?lang=eng&amp;id=p5#p5">Doctrine and Covenants 76:5</a>.</p>
+</li>
+<li data-marker="20." id="note20" data-full-marker="20.">
+<p data-aid="129957136" id="note20_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/mosiah/18?lang=eng&amp;id=p26#p26">Mosiah 18:26</a>.</p>
+</li>
+<li data-marker="21." id="note21" data-full-marker="21.">
+<p data-aid="129957137" id="note21_p1">“They, the Builders of the Nation,” <em>Hymns,</em> no. 36.</p>
+</li>
+<li data-marker="22." id="note22" data-full-marker="22.">
+<p data-aid="129957138" id="note22_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/moro/7?lang=eng&amp;id=p48#p48">Moroni 7:48</a>.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/2016/10/serve</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/october-2016-general-conference/2016-10-5030-carl-b-cook-64k-eng.mp3" length="5313249" type="audio/mpeg"/>
-      <pubDate>Sun, 02 Oct 2016 14:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/b4983663077b11ec86fceeeeac1ed7dc63a43c8e-64k-en.mp3" length="5577284" type="audio/mpeg"/>
+      <pubDate>Sun, 02 Oct 2016 14:00:00 -0600</pubDate>
+      <itunes:author>Carl B. Cook</itunes:author>
+    </item>
+    <item>
+      <title>The Quorum: A Place of Belonging</title>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2019/04/32cook?lang=eng</link>
+      <description>Elder Carl B. Cook shares the story of how a branch in Botswana grew thanks to a group of young priesthood holders and invites other priesthood holders to be united with the Lord in their priesthood quorums.</description>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="51"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/1168a7bd42c7f920932f2c1d4c3a31ed9bd1a3ae/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/1168a7bd42c7f920932f2c1d4c3a31ed9bd1a3ae/full/%21192%2C/0/default" data-video-title="The Quorum: A Place of Belonging" data-video-description="Elder Carl B. Cook shares the story of how a branch in Botswana grew thanks to a group of young priesthood holders and invites other priesthood holders to be united with the Lord in their priesthood quorums." data-video-id="6023492840001" data-ip="Download and Streaming                            " data-duration="659266" data-assetId="DA65803AE2708E7C2384B2C2665CEE26319888F3" data-ref-id="DA65803AE2708E7C2384B2C2665CEE26319888F3" data-asset-aliasId="da65803ae2708e7c2384b2c2665cee26319888f3" data-duration-string="10:59" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6023492840001.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="144669031"/><source src="https://assets.churchofjesuschrist.org/DA65803AE2708E7C2384B2C2665CEE26319888F3-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="36722557"/><source src="https://assets.churchofjesuschrist.org/DA65803AE2708E7C2384B2C2665CEE26319888F3-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="68126195"/><source src="https://assets.churchofjesuschrist.org/DA65803AE2708E7C2384B2C2665CEE26319888F3-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="144669031"/></video><h1 data-aid="139771636" id="title1">The Quorum: A Place of Belonging</h1>
+<div class="byline">
+<p class="author-name" data-aid="139771638" id="author1">By Elder Carl B. Cook</p>
+<p class="author-role" data-aid="139771640" id="author2">Of the Presidency of the Seventy</p>
+</div>
+<p class="kicker" data-aid="139771642" id="kicker1">The Lord would have you establish a strong quorum. As He gathers His children, they need a place to belong and grow.</p>
+</header>
+<div class="body-block">
+<p data-aid="139771644" id="p1">In 2010, Andre Sebako was a young man seeking for truth. Though he had never offered a heartfelt prayer before, he decided to try. Shortly afterward he met the missionaries. They gave him a pass-along card with a picture of the Book of Mormon. Andre felt something and asked if the missionaries would sell him the book. They said he could have the book for free if he would come to church.<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a></p>
+<p data-aid="139771646" id="p2">Andre attended the then-recently created Mochudi Branch in Botswana, Africa, alone. But the branch was a loving, tight-knit group consisting of about 40 members.<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a> They welcomed Andre with open arms. He received the missionary lessons and was baptized. It was wonderful!</p>
+<p data-aid="139771648" id="p3">But then what? How would Andre stay active? Who would help him progress along the covenant path? One answer to that question is his priesthood quorum!<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a></p>
+<p data-aid="139771650" id="p4">Every priesthood holder, regardless of his situation, benefits from a strong quorum. My young brothers who hold the Aaronic Priesthood, the Lord would have you establish a strong quorum, a place of belonging for each and every young man, a place where the Lord’s Spirit is present, a place where all quorum members are welcome and valued. As the Lord gathers His children, they need a place to belong and grow.</p>
+<p data-aid="139771652" id="p5">Each of you quorum presidency members lead the way as you seek inspiration<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a> and develop love and brotherhood among all quorum members. You give special attention to those who are new members, who are less active, or who have special needs.<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a> With priesthood power, you build a strong quorum.<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a> And a strong, united quorum makes all the difference in the life of a young man.</p>
+<p data-aid="139771654" id="p6">When the Church announced the new home-centered focus on gospel learning,<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a> some thought of members like Andre and asked, “What about the young people who come from a family situation where the gospel is not studied and where there is not an environment of learning and living the gospel at home? Will they be left behind?”</p>
+<p data-aid="139771656" id="p7">No! No one can be left behind! The Lord loves each young man and each young woman. We, as priesthood holders, are the Lord’s hands. We are the Church support to home-centered efforts. When there is limited support at home, priesthood quorums and other leaders and friends watch over and support each individual and family as needed.</p>
+<p data-aid="139771658" id="p8">I have seen it work. I have experienced it. When I was six, my parents divorced and my father left my mother <span class="page-break" data-page="52"></span>with five young children. My mother began working to provide for us. She needed a second job for a period of time, as well as additional education. There was little time for her to nurture. But grandparents, uncles, aunts, bishops, and home teachers stepped up to help my angel mother.</p>
+<p data-aid="139771660" id="p9">And I had a quorum. I am so grateful for my friends—my brothers—who loved and supported me. My quorum was a place of belonging. Some may have considered me a long shot and an underdog because of my family situation. Maybe I was. But priesthood quorums changed those odds. My quorum rallied around me and blessed my life immeasurably.</p>
+<p data-aid="139771662" id="p10">There are long shots and underdogs all around us. Perhaps we all are in one way or another. But each of us here has a quorum, a place where we can both receive strength and provide strength. The quorum is “all for one and one for all.”<a class="note-ref" href="#note8"><sup class="marker" data-value="8"></sup></a> It is a place where we instruct each other, serve others, and build unity and brotherhood as we serve God.<a class="note-ref" href="#note9"><sup class="marker" data-value="9"></sup></a> It is a place where miracles happen.</p>
+<p data-aid="139771698" id="p11">I would like to tell you about some of the miracles that occurred in Andre’s quorum in Mochudi. As I share this example, watch for principles that strengthen every priesthood quorum that applies them.</p>
+<p data-aid="139771703" id="p12">After Andre was baptized, he accompanied the missionaries as they taught four other young men, who were also baptized. Now there were five young men. They began strengthening each other and the branch.</p>
+<p data-aid="139771708" id="p13">A sixth young man, Thuso, was baptized. Thuso shared the gospel with three of his friends, and soon there were nine.</p>
+<p data-aid="139771712" id="p14">Disciples of Jesus Christ are often gathered this way—a few at a time, as invited by their friends. Anciently, when Andrew found the Savior, he went quickly to his brother Simon and “brought him to Jesus.”<a class="note-ref" href="#note10"><sup class="marker" data-value="10"></sup></a> Similarly, soon after Philip became a follower of Christ, he invited his friend Nathanael to “come and see.”<a class="note-ref" href="#note11"><sup class="marker" data-value="11"></sup></a></p>
+<p data-aid="139771716" id="p15">In Mochudi, a 10th young man soon joined the Church. The missionaries found the 11th. And the 12th young man was baptized after seeing the gospel’s effect on his friends.</p>
+<p data-aid="139771719" id="p16">Members of the Mochudi Branch were thrilled. These young men “were converted unto the Lord, and … united unto the church.”<a class="note-ref" href="#note12"><sup class="marker" data-value="12"></sup></a></p>
+<p data-aid="139771723" id="p17">The Book of Mormon played a significant role in their conversion.<a class="note-ref" href="#note13"><sup class="marker" data-value="13"></sup></a> Thuso remembers, “I began reading the Book of Mormon … every time I was free, at home, at school, everywhere.”<a class="note-ref" href="#note14"><sup class="marker" data-value="14"></sup></a></p>
+<p data-aid="139771727" id="p19">Oratile was drawn to the gospel because of the example of his friends. He explains: “[They] seemed to change in the snap of a finger. … I thought it had … to do with the little … book they started carrying around … school. I could see what good men they had become. … [I] wanted to change too.”<a class="note-ref" href="#note15"><sup class="marker" data-value="15"></sup></a></p>
+<img alt="Mochudi Branch" id="img1" src="https://www.churchofjesuschrist.org/imgs/962b7474340a694937deb2c2788e9bb737bf7c19/full/%21500%2C/0/default" data-assetId="962b7474340a694937deb2c2788e9bb737bf7c19" srcset="https://www.churchofjesuschrist.org/imgs/962b7474340a694937deb2c2788e9bb737bf7c19/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/962b7474340a694937deb2c2788e9bb737bf7c19/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/962b7474340a694937deb2c2788e9bb737bf7c19/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/962b7474340a694937deb2c2788e9bb737bf7c19/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/962b7474340a694937deb2c2788e9bb737bf7c19/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/962b7474340a694937deb2c2788e9bb737bf7c19/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/962b7474340a694937deb2c2788e9bb737bf7c19/full/%21640%2C/0/default 640w" data-img-id="962b7474340a694937deb2c2788e9bb737bf7c19" data-missing-asset="false" data-width="500" data-height="322" data-aspect-ratio="1.5527950310559007" data-public-title="Ghana" data-public-description="Church Members gathered together in Ghana."/>
+<p data-aid="139771730" id="p20">All 12 young men were gathered and baptized within two years of each other. Each was the only member of the Church in his family. But they were supported by their Church family, including President Rakwela,<a class="note-ref" href="#note16"><sup class="marker" data-value="16"></sup></a> their branch president; Elder and Sister Taylor,<a class="note-ref" href="#note17"><sup class="marker" data-value="17"></sup></a> a senior missionary couple; and other branch members.</p>
+<p data-aid="139771734" id="p21">Brother Junior,<a class="note-ref" href="#note18"><sup class="marker" data-value="18"></sup></a> a quorum leader, invited the young men to his home on Sunday afternoons and mentored them. The young men studied the scriptures together and held regular home evenings.</p>
+<img alt="Visiting members" id="img2" src="https://www.churchofjesuschrist.org/imgs/b022326579026f99520a33c4226c6a9ddb188003/full/%21500%2C/0/default" data-assetId="b022326579026f99520a33c4226c6a9ddb188003" srcset="https://www.churchofjesuschrist.org/imgs/b022326579026f99520a33c4226c6a9ddb188003/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/b022326579026f99520a33c4226c6a9ddb188003/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/b022326579026f99520a33c4226c6a9ddb188003/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/b022326579026f99520a33c4226c6a9ddb188003/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/b022326579026f99520a33c4226c6a9ddb188003/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/b022326579026f99520a33c4226c6a9ddb188003/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/b022326579026f99520a33c4226c6a9ddb188003/full/%21640%2C/0/default 640w" data-img-id="b022326579026f99520a33c4226c6a9ddb188003" data-missing-asset="false" data-width="500" data-height="322" data-aspect-ratio="1.5527950310559007" data-public-title="Ghana" data-public-description="Church members and missionaries gathered together in Ghana."/>
+<p data-aid="139771738" id="p22">Brother Junior took them to visit members, people being taught by the missionaries, and anyone else who needed a visit. All 12 young men piled into the back of Brother Junior’s truck. He dropped them off at homes in companionships of two or three and picked them up later.</p>
+<p data-aid="139771743" id="p23">Even though the young men were just learning about the gospel and didn’t feel they knew much, Brother Junior told them to share one or two things they did know with the people they visited. These young priesthood holders taught, prayed, and helped watch over the Church.<a class="note-ref" href="#note19"><sup class="marker" data-value="19"></sup></a> They fulfilled their priesthood responsibilities and experienced the joy of serving.</p>
+<img alt="Band of Brothers" id="img3" src="https://www.churchofjesuschrist.org/imgs/0b9d52ddeb40648b16c7f41e17305d9306e98e28/full/%21500%2C/0/default" data-assetId="0b9d52ddeb40648b16c7f41e17305d9306e98e28" srcset="https://www.churchofjesuschrist.org/imgs/0b9d52ddeb40648b16c7f41e17305d9306e98e28/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/0b9d52ddeb40648b16c7f41e17305d9306e98e28/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/0b9d52ddeb40648b16c7f41e17305d9306e98e28/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/0b9d52ddeb40648b16c7f41e17305d9306e98e28/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/0b9d52ddeb40648b16c7f41e17305d9306e98e28/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/0b9d52ddeb40648b16c7f41e17305d9306e98e28/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/0b9d52ddeb40648b16c7f41e17305d9306e98e28/full/%21640%2C/0/default 640w" data-img-id="0b9d52ddeb40648b16c7f41e17305d9306e98e28" data-missing-asset="false" data-width="500" data-height="322" data-aspect-ratio="1.5527950310559007" data-public-title="Ghana: Young Men" data-public-description="A large group of young men stand together. They are dressed in white shirts and ties."/>
+<p data-aid="139771747" id="p24">Andre said, “We played together, laughed together, cried together, and became a brotherhood.”<a class="note-ref" href="#note20"><sup class="marker" data-value="20"></sup></a> In fact, they call themselves “the Band of Brothers.”</p>
+<p data-aid="139771749" id="p25">Together they set a goal that they would all serve missions. Since they were the only Church members in their families, they had many obstacles to overcome, but they helped each other through them.</p>
+<span class="page-break" data-page="53"></span>
+<p data-aid="139771756" id="p26">One by one, the young men received mission calls. Those who left first wrote letters home to those still preparing, sharing experiences and encouraging them to serve. Eleven of the young men served missions.</p>
+<p data-aid="139773761" id="p27">These young men shared the gospel with their families. Mothers, sisters, brothers, friends, as well as people they taught on their missions, were converted and baptized. Miracles occurred and countless lives were blessed.</p>
+<p data-aid="139773769" id="p28">I can hear some of you thinking that perhaps such a miracle could happen only in a place like Africa, a fertile field where the gathering of Israel is hastening. However, I testify that the principles applied in the Mochudi Branch are true anywhere. Wherever you are, your quorum can grow through activation and sharing the gospel. When even one disciple reaches out to a friend, one can become two. Two can become four. Four can become eight. And eight can become twelve. Branches can become wards.</p>
+<img alt="Mochudi Ward" id="img4" src="https://www.churchofjesuschrist.org/imgs/c95260beacc2d0783cd86e8facb95b564710abe1/full/%21500%2C/0/default" data-assetId="c95260beacc2d0783cd86e8facb95b564710abe1" srcset="https://www.churchofjesuschrist.org/imgs/c95260beacc2d0783cd86e8facb95b564710abe1/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/c95260beacc2d0783cd86e8facb95b564710abe1/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/c95260beacc2d0783cd86e8facb95b564710abe1/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/c95260beacc2d0783cd86e8facb95b564710abe1/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/c95260beacc2d0783cd86e8facb95b564710abe1/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/c95260beacc2d0783cd86e8facb95b564710abe1/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/c95260beacc2d0783cd86e8facb95b564710abe1/full/%21640%2C/0/default 640w" data-img-id="c95260beacc2d0783cd86e8facb95b564710abe1" data-missing-asset="false" data-width="500" data-height="322" data-aspect-ratio="1.5527950310559007" data-public-title="Ghana: Church Members" data-public-description="A large group of church members pose for a picture together outside their chapel in Ghana."/>
+<p data-aid="139773778" id="p29">The Savior taught, “Where two or three [or more] are gathered together in my name, … behold, there will I be in the midst of them.”<a class="note-ref" href="#note21"><sup class="marker" data-value="21"></sup></a> Heavenly Father is preparing the minds and hearts of people all around us. We can follow promptings, extend a hand of fellowship, share truth, invite others to read the Book of Mormon, and love and support them as they come to know our Savior.</p>
+<p data-aid="139773785" id="p30">It has been almost 10 years since the Mochudi Band of Brothers started their journey together, and they are still a band of brothers.</p>
+<p data-aid="139773791" id="p31">Katlego said, “We may be separated by distance but we are still there for each other.”<a class="note-ref" href="#note22"><sup class="marker" data-value="22"></sup></a></p>
+<p data-aid="139773797" id="p32">It is my prayer that we will accept the Lord’s invitation to be united with Him in our priesthood quorums so that each quorum might be a place of belonging, a place of gathering, a place that grows.</p>
+<p data-aid="139773801" id="p33">Jesus Christ is our Savior, and this is His work. I so testify in the name of Jesus Christ, amen.</p>
+</div>
+<footer class="notes">
+<p class="title" data-aid="139773808" id="note_title1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="139773816" id="note1_p1">See Mark and Shirley Taylor, comp., <cite>The Band of Brothers</cite> (Mochudi Branch conversion stories and testimonies, 2012–13), 4, Church History Library, Salt Lake City.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="139773825" id="note2_p1">Personal correspondence, Letanang Andre Sebako, Band of Brothers resource files, 2011–19, Church History Library, Salt Lake City.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="139773834" id="note3_p1">President Boyd K. Packer said: “When a man holds the priesthood, he belongs to something bigger than himself. It is something outside himself to which he can make a complete commitment” (“<a class="cross-ref" href="/study/ensign/1980/11/the-circle-of-sisters?lang=eng">The Circle of Sisters</a>,” <cite>Ensign,</cite> Nov. 1980, 109–10).</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="139773840" id="note4_p1">President Russell M. Nelson explained how to seek revelation and then stated, “As you repeat this process day after day, month after month, year after year, you will ‘grow into the principle of revelation’” (“<a class="cross-ref" href="/study/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=eng">Revelation for the Church, Revelation for Our Lives</a>,” <cite>Ensign</cite> or <cite>Liahona,</cite> May 2018, 95; see also <cite><a class="cross-ref" href="/study/manual/teachings-joseph-smith/chapter-10?lang=eng">Teachings of Presidents of the Church: Joseph Smith</a></cite> [2007], 132).</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="139773848" id="note5_p1">See <cite>Handbook 2: Administering the Church</cite> (2010), <a class="cross-ref" href="/study/manual/handbook-2-administering-the-church/aaronic-priesthood?lang=eng&amp;id=p8#p8">8.3.2</a>.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="139773853" id="note6_p1">Others help also, including bishopric members and advisers. Elder Ronald A. Rasband noted that one of the benefits of the restructuring of the Melchizedek Priesthood quorums, announced on March 31, 2018, is to “allow the bishop to delegate more responsibilities to the elders quorum and Relief Society presidents so that the bishop and his counselors can focus on their primary duties—particularly presiding over the young women and the young men who bear the Aaronic Priesthood” (“<a class="cross-ref" href="/study/general-conference/2018/04/behold-a-royal-army?lang=eng">Behold! A Royal Army</a>,” <cite>Ensign</cite> or <cite>Liahona,</cite> May 2018, 59). Angels will also help. Aaronic Priesthood holders hold the keys of the ministering of angels (see <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/13?lang=eng&amp;id=p1#p1">Doctrine and Covenants 13:1</a>; see also Dale G. Renlund and Ruth Lybbert Renlund, <cite>The Melchizedek Priesthood</cite> [2018], 26). Elder Jeffrey R. Holland said: “Usually [ministering angels] are <i>not</i> seen. Sometimes they are. But seen or unseen they are <i>always</i> near. Sometimes their assignments are very grand and have significance for the whole world. Sometimes the messages are more private. Occasionally the angelic purpose is to warn. But most often it is to comfort, to provide some form of merciful attention, guidance in difficult times” (“<a class="cross-ref" href="/study/general-conference/2008/10/the-ministry-of-angels?lang=eng">The Ministry of Angels</a>,” <cite>Ensign</cite> or <cite>Liahona,</cite> Nov. 2008, 29). If you desire such help, you can “ask, and ye shall receive” (<a class="scripture-ref" href="/study/scriptures/nt/john/16?lang=eng&amp;id=p24#p24">John 16:24</a>).</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="139773860" id="note7_p1">See Russell M. Nelson, “<a class="cross-ref" href="/study/general-conference/2018/10/opening-remarks?lang=eng">Opening Remarks</a>,” <cite>Ensign</cite> or <cite>Liahona,</cite> Nov. 2018, 7–8.</p>
+</li>
+<li data-marker="8." id="note8" data-full-marker="8.">
+<p data-aid="139773866" id="note8_p1">See Alexandre Dumas, <cite>The Three Musketeers</cite> (1844).</p>
+</li>
+<li data-marker="9." id="note9" data-full-marker="9.">
+<p data-aid="139773872" id="note9_p1">See <cite>Handbook 2,</cite> <a class="cross-ref" href="/study/manual/handbook-2-administering-the-church/aaronic-priesthood?lang=eng&amp;id=title_number4#title_number4">8.1.2</a>.</p>
+</li>
+<li data-marker="10." id="note10" data-full-marker="10.">
+<p data-aid="139773882" id="note10_p1">See <a class="scripture-ref" href="/study/scriptures/nt/john/1?lang=eng&amp;id=p40-p42#p40">John 1:40–42</a>.</p>
+</li>
+<li data-marker="11." id="note11" data-full-marker="11.">
+<p data-aid="139773888" id="note11_p1">See <a class="scripture-ref" href="/study/scriptures/nt/john/1?lang=eng&amp;id=p43-p46#p43">John 1:43–46</a>.</p>
+</li>
+<li data-marker="12." id="note12" data-full-marker="12.">
+<p data-aid="139773894" id="note12_p1"><a class="scripture-ref" href="/study/scriptures/bofm/3-ne/28?lang=eng&amp;id=p23#p23">3 Nephi 28:23</a>.</p>
+</li>
+<li data-marker="13." id="note13" data-full-marker="13.">
+<p data-aid="139773899" id="note13_p1">See D. Todd Christofferson, “The Power of the Book of Mormon” (address given at the seminar for new mission presidents, June 27, 2017).</p>
+</li>
+<li data-marker="14." id="note14" data-full-marker="14.">
+<p data-aid="139773905" id="note14_p1">Thuso Molefe, in Taylor, <cite>The Band of Brothers,</cite> 22.</p>
+</li>
+<li data-marker="15." id="note15" data-full-marker="15.">
+<p data-aid="139773915" id="note15_p1">Oratile Molosankwa, in Taylor, <cite>The Band of Brothers,</cite> 31–32.</p>
+</li>
+<li data-marker="16." id="note16" data-full-marker="16.">
+<p data-aid="139773923" id="note16_p1">Lucas Rakwela, Mochudi, Botswana.</p>
+</li>
+<li data-marker="17." id="note17" data-full-marker="17.">
+<p data-aid="139773930" id="note17_p1">Mark and Shirley Taylor, Idaho, USA.</p>
+</li>
+<li data-marker="18." id="note18" data-full-marker="18.">
+<p data-aid="139773934" id="note18_p1">Cilvester Junior Kgosiemang, Mochudi, Botswana.</p>
+</li>
+<li data-marker="19." id="note19" data-full-marker="19.">
+<p data-aid="139773939" id="note19_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/20?lang=eng&amp;id=p46-p47%2Cp53-p54#p46">Doctrine and Covenants 20:46–47, 53–54</a>.</p>
+</li>
+<li data-marker="20." id="note20" data-full-marker="20.">
+<p data-aid="139773944" id="note20_p1">Personal correspondence, Letanang Andre Sebako, Band of Brothers resource files.</p>
+</li>
+<li data-marker="21." id="note21" data-full-marker="21.">
+<p data-aid="139773951" id="note21_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/6?lang=eng&amp;id=p32#p32">Doctrine and Covenants 6:32</a>.</p>
+</li>
+<li data-marker="22." id="note22" data-full-marker="22.">
+<p data-aid="139773956" id="note22_p1">Katlego Mongole, in “Band of Brothers 2nd Generation” (unpublished compilation), 21.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
+      <guid isPermaLink="false">/general-conference/2019/04/32cook</guid>
+      <enclosure url="https://assets.churchofjesuschrist.org/d84f9a8232df11ec95e0eeeeac1ece45059ce9fd-64k-en.mp3" length="5487656" type="audio/mpeg"/>
+      <pubDate>Sat, 06 Apr 2019 18:00:00 -0600</pubDate>
+      <itunes:author>Carl B. Cook</itunes:author>
+    </item>
+    <item>
+      <title>Just Keep Going—with Faith</title>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2023/04/13cook?lang=eng</link>
+      <description>Elder Cook teaches us that we can overcome discouragement and receive great blessings if we will just keep going—with faith in Jesus Christ.</description>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="13"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/16a5978a11993df08fb214cb7127effa2882e990/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/16a5978a11993df08fb214cb7127effa2882e990/full/%21192%2C/0/default" data-video-title="Just Keep Going—with Faith" data-video-description="Elder Cook teaches us that we can overcome discouragement and receive great blessings if we will just keep going—with faith in Jesus Christ." data-video-id="6323793644112" data-ip="Download and Streaming                            " data-duration="664530" data-assetId="ec67f83cd0b811ed9471eeeeac1e7deb4aee8669" data-ref-id="00EECE2BBA157A0AA3953C66B2517F7FC18CD61A" data-duration-string="11:04" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6323793644112/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="154478409"/><source src="https://assets.churchofjesuschrist.org/ec67f83cd0b811ed9471eeeeac1e7deb4aee8669-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="33400592"/><source src="https://assets.churchofjesuschrist.org/ec67f83cd0b811ed9471eeeeac1e7deb4aee8669-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="59530712"/><source src="https://assets.churchofjesuschrist.org/ec67f83cd0b811ed9471eeeeac1e7deb4aee8669-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="154478409"/></video><h1 data-aid="154443613" id="title1">Just Keep Going—with Faith</h1>
+<div class="byline">
+<p class="author-name" data-aid="154443616" id="author1">By Elder Carl B. Cook</p>
+<p class="author-role" data-aid="154443621" id="author2">Of the Presidency of the Seventy</p>
+</div>
+<p class="kicker" data-aid="154443624" id="kicker1">Exercising faith in our Savior, Jesus Christ, helps us overcome discouragement no matter what obstacles we encounter.</p>
+</header>
+<div class="body-block">
+<p data-aid="154443628" id="p1">Elder George A. Smith, an Apostle, received counsel from the Prophet Joseph Smith at a time of great difficulty: “He told me I should never get discouraged, whatever difficulties might surround me. If I was sunk in the lowest pit of Nova Scotia and all the Rocky Mountains piled on top of me, I ought not to be discouraged but hang on, exercise faith, and keep up good courage and I should come out on the top of the heap at last.”<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a></p>
+<p data-aid="154443632" id="p2">How could the Prophet Joseph say that—to someone who was suffering? Because he knew it was true. He lived it. Joseph repeatedly experienced severe difficulties in his life. However, as he exercised faith in Jesus Christ and His Atonement and just kept going, he overcame seemingly insurmountable obstacles.<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a></p>
+<p data-aid="154443636" id="p3">Today I would like to renew Joseph’s plea not to let discouragement overwhelm us when we face disappointment, painful experiences, our own inadequacies, or other challenges.</p>
+<p data-aid="154443640" id="p4">When I say discouragement, I’m not talking about the more debilitating challenges of clinical depression, anxiety disorders, or other illnesses that require special treatment.<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a> I’m just talking about plain old discouragement that comes with the ups and downs of life.</p>
+<p data-aid="154443644" id="p5">I am inspired by my heroes who just keep going—with faith—no matter what.<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a> In the Book of Mormon, we read of Zoram, the servant of Laban. When Nephi obtained the brass plates, Zoram was faced with the choice to follow Nephi and his brothers into the wilderness or possibly lose his life.</p>
+<p data-aid="154443648" id="p6">What a choice! Zoram’s first inclination was to run, but Nephi held him and made an oath that if he would go with them, he would be free and have a place with their family. Zoram took courage and went with them.<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a></p>
+<p data-aid="154443652" id="p7">Zoram suffered many afflictions in his new life, yet he pressed forward with faith. We have no indication that Zoram clung to his past or harbored resentment toward God or others.<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a> He was a true friend to Nephi, a prophet, and he and his seed dwelt in freedom and prosperity in the promised land. What had been a huge obstacle in Zoram’s path eventually led to rich blessings, due to his faithfulness and willingness to just keep going—with faith.<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a></p>
+<p data-aid="154443656" id="p8">Recently I listened to a courageous sister share how she persevered through difficulties.<a class="note-ref" href="#note8"><sup class="marker" data-value="8"></sup></a> She had some challenges, and one Sunday she was sitting in Relief Society, listening to a teacher who she thought lived a picture-perfect life—totally different from her own. She was tired and discouraged. She felt like she didn’t measure up—or even belong—so she got up and left, planning to never return to church again. Walking to her car, <span class="page-break" data-page="14"></span>she felt a distinct impression: “Go into the chapel and listen to the sacrament meeting speaker.” She questioned the prompting but felt it again strongly, so she went into the meeting.</p>
+<p data-aid="154443660" id="p9">The message was exactly what she needed. She felt the Spirit. She knew the Lord wanted her to stay with Him, to be His disciple, and to attend church, so she did.</p>
+<p data-aid="154443665" id="p10">Do you know what she was grateful for? That she didn’t give up. She just kept going—with faith in Jesus Christ, even when it stretched her, and she and her family are being abundantly blessed as she presses forward.</p>
+<p data-aid="154443671" id="p11">The God of heaven and earth will help us overcome discouragement and whatever obstacles we encounter if we look to Him, follow the promptings of the Holy Ghost,<a class="note-ref" href="#note9"><sup class="marker" data-value="9"></sup></a> and just keep going—with faith.</p>
+<p data-aid="154443676" id="p12">Thankfully, when we are weak or incapable, the Lord can strengthen our faith. He can increase our capacity beyond our own. I have experienced that. More than 20 years ago, I was unexpectedly called as an Area Seventy, and I felt very inadequate. Following my training assignments, I was to preside at my first stake conference.<a class="note-ref" href="#note10"><sup class="marker" data-value="10"></sup></a> The stake president and I meticulously planned every detail. Shortly before the conference, President Boyd K. Packer, then–Acting President of the Quorum of the Twelve Apostles, called to see if he could accompany me. I was surprised and, of course, agreed. I asked how he would like to proceed since he would preside. He suggested that we undo the plans and prepare to follow the Spirit. Thankfully, I still had 10 days to study, pray, and prepare.</p>
+<p data-aid="154443681" id="p13">With an open agenda, we were on the stand 20 minutes before the leadership meeting began. I leaned over to the stake president and whispered, “This is a wonderful stake.”</p>
+<p data-aid="154443686" id="p14">President Packer elbowed me gently and said, “No talking.”</p>
+<p data-aid="154443691" id="p15">I stopped talking, and his general conference talk “Reverence Invites Revelation”<a class="note-ref" href="#note11"><sup class="marker" data-value="11"></sup></a> came to mind. I observed that President Packer was writing down scripture references. The Spirit confirmed to me that he was receiving impressions for the meeting. My learning experience had just begun.</p>
+<p data-aid="154443696" id="p16">President Packer spoke for the first 15 minutes and emphasized the importance of conducting all meetings as guided by the Holy Spirit.<a class="note-ref" href="#note12"><sup class="marker" data-value="12"></sup></a> He then said, “We will now hear from Elder Cook.”</p>
+<p data-aid="154443701" id="p17">On my way to the pulpit, I asked how long he would like me to take and if there was a topic he would like me to address. He said, “Take 15 minutes and carry on as you feel inspired.” I took about 14 minutes and shared everything I had on my mind.</p>
+<p data-aid="154443706" id="p18">President Packer stood again and spoke for another 15 minutes. He shared this scripture:</p>
+<p data-aid="154443711" id="p19">“Speak the thoughts that I shall put into your hearts, and you shall not be confounded before men;</p>
+<p data-aid="154443716" id="p20">“For it shall be given you … in the very moment, what ye shall say.”<a class="note-ref" href="#note13"><sup class="marker" data-value="13"></sup></a></p>
+<p data-aid="154443721" id="p21">Then he said, “We will now hear from Elder Cook.”</p>
+<p data-aid="154443726" id="p22">I was shocked. I had never considered the possibility that I would be asked to speak twice in one meeting. I didn’t have anything in mind to say. Praying fervently and relying on the Lord for help, somehow, I was blessed with a thought, a scripture, and I was able to speak for another 15 minutes. I sat down totally exhausted.</p>
+<p data-aid="154443731" id="p23">President Packer spoke again for 15 minutes about following the Spirit and shared Paul’s teachings that we should not speak “words which man’s wisdom teacheth, but which the Holy Ghost teacheth.”<a class="note-ref" href="#note14"><sup class="marker" data-value="14"></sup></a> As you can imagine, I was overwhelmed when he was impressed to say for the third time, “We will now hear from Elder Cook.”</p>
+<p data-aid="154443736" id="p24">I was empty. I had nothing. I knew it was time to exercise more faith. Slowly, I made my way to the pulpit, pleading to God for help. As I stepped up to the microphone, the Lord <span class="page-break" data-page="15"></span>miraculously blessed me to somehow give another 15-minute message.<a class="note-ref" href="#note15"><sup class="marker" data-value="15"></sup></a></p>
+<p data-aid="154443741" id="p25">The meeting finally ended, but I quickly realized that the adult session would start in one hour. Oh, no! Like Zoram, I sincerely wanted to run, but just as Nephi caught him, I knew President Packer would catch me. The adult meeting followed the very same pattern. I spoke three more times. The next day during the general session, I spoke once.</p>
+<p data-aid="154443747" id="p26">After the conference, President Packer said with affection, “Let’s do it again sometime.” I love President Boyd K. Packer and appreciate all that I learned.</p>
+<p data-aid="154443752" id="p27">Do you know what I am grateful for? That I didn’t give up—or resist. If I had given in to my desperate desire to escape from those meetings, I would have missed an opportunity to increase my faith and receive a rich outpouring of love and support from my Heavenly Father. I learned of His mercy, the miraculous enabling power of Jesus Christ and His Atonement, and the powerful influence of the Holy Ghost. In spite of my weakness,<a class="note-ref" href="#note16"><sup class="marker" data-value="16"></sup></a> I learned that I can serve; I can contribute when the Lord is by my side if I just keep going—with faith.</p>
+<p data-aid="154443758" id="p28">Regardless of the size, scope, and seriousness of the challenges we face in life, we all have times when we feel like stopping, leaving, escaping, or possibly giving up. But exercising faith in our Savior, Jesus Christ, helps us overcome discouragement no matter what obstacles we encounter.</p>
+<p data-aid="154443764" id="p29">Just as the Savior finished the work He was given to do, He has the power to help us finish the work we have been given.<a class="note-ref" href="#note17"><sup class="marker" data-value="17"></sup></a> We can be blessed to move forward along the covenant path, no matter how rocky it becomes, and eventually receive eternal life.<a class="note-ref" href="#note18"><sup class="marker" data-value="18"></sup></a></p>
+<p data-aid="154443770" id="p30">As the Prophet Joseph Smith said, “Stand fast, ye Saints of God, hold on a little while longer, and the storm of life will be past, and you will be rewarded by that God whose servants you are.”<a class="note-ref" href="#note19"><sup class="marker" data-value="19"></sup></a> In the name of Jesus Christ, amen.</p>
+</div>
+<footer class="notes">
+<p class="title" data-aid="154443776" id="note_title1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="154443782" id="note1_p1">George A. Smith, in <cite><a class="cross-ref" href="/study/manual/teachings-joseph-smith/chapter-19?lang=eng&amp;id=p34#p34">Teachings of Presidents of the Church: Joseph Smith</a></cite> (2011), 235.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="154443788" id="note2_p1">See <cite><a class="cross-ref" href="/study/manual/teachings-joseph-smith/chapter-19?lang=eng">Teachings: Joseph Smith</a></cite>, 227–36.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="154443793" id="note3_p1">When I speak of discouragement, I am not suggesting that to “just keep going with faith in Christ” is the only effort needed for people experiencing clinical depression, anxiety disorders, or other illnesses. For these friends, family members, and others listening, I echo the counsel of our Church leaders to please seek medical, psychological, and spiritual care while trusting in the Lord. My heart goes out to each of you wrestling with these unique challenges. We sincerely pray for you.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="154443798" id="note4_p1">Some of my heroes in the scriptures include Caleb (see <a class="scripture-ref" href="/study/scriptures/ot/num/14?lang=eng&amp;id=p6-p9%2C24#p6">Numbers 14:6–9, 24</a>), Job (see <a class="scripture-ref" href="/study/scriptures/ot/job/19?lang=eng&amp;id=p25-p26#p25">Job 19:25–26</a>), and Nephi (see <a class="scripture-ref" href="/study/scriptures/bofm/1-ne/3?lang=eng&amp;id=p7#p7">1 Nephi 3:7</a>), in addition to my modern-day heroes.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="154443803" id="note5_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/1-ne/4?lang=eng&amp;id=p20%2C30-p35%2C38#p20">1 Nephi 4:20, 30–35, 38</a>.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="154443808" id="note6_p1">See Dale G. Renlund, “<a class="cross-ref" href="/study/general-conference/2021/04/25renlund?lang=eng">Infuriating Unfairness</a>,” <cite>Liahona</cite>, May 2021, 41–45.</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="154443814" id="note7_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/2-ne/1?lang=eng&amp;id=p30-p32#p30">2 Nephi 1:30–32</a>. “Although [Zoram] had to endure a little rough handling, the trap he was caught in was the very situation through which God had determined to bless him. Though he had to give up his homeland, God was preparing a better one” (David B. Paxman, “<a href="https://speeches.byu.edu/talks/david-b-paxman/zoram-and-i-getting-our-stories-straight">Zoram and I: Getting Our Stories Straight</a>” [Brigham Young University devotional, July 27, 2010], 8, speeches.byu.edu).</p>
+</li>
+<li data-marker="8." id="note8" data-full-marker="8.">
+<p data-aid="154443819" id="note8_p1">I heard this sister’s testimony in a ward in the Riverdale Utah Stake on December 11, 2022. The experience she shared occurred in a previous ward.</p>
+</li>
+<li data-marker="9." id="note9" data-full-marker="9.">
+<p data-aid="154443826" id="note9_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/11?lang=eng&amp;id=p12-p13#p12">Doctrine and Covenants 11:12–13</a>.</p>
+</li>
+<li data-marker="10." id="note10" data-full-marker="10.">
+<p data-aid="154443831" id="note10_p1">My assignment was in the Benson Utah Stake on November 3–4, 2001. President Jerry Toombs was the stake president.</p>
+</li>
+<li data-marker="11." id="note11" data-full-marker="11.">
+<p data-aid="154443836" id="note11_p1">See Boyd K. Packer, “<a class="cross-ref" href="/study/general-conference/1991/10/reverence-invites-revelation?lang=eng">Reverence Invites Revelation</a>,” <cite>Ensign</cite>, Nov. 1991, 21–23.</p>
+</li>
+<li data-marker="12." id="note12" data-full-marker="12.">
+<p data-aid="154443843" id="note12_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/46?lang=eng&amp;id=p2#p2">Doctrine and Covenants 46:2</a>.</p>
+</li>
+<li data-marker="13." id="note13" data-full-marker="13.">
+<p data-aid="154443849" id="note13_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/100?lang=eng&amp;id=p5-p6#p5">Doctrine and Covenants 100:5–6</a>; see also <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/100?lang=eng&amp;id=p7-p8#p7">verses 7–8</a>.</p>
+</li>
+<li data-marker="14." id="note14" data-full-marker="14.">
+<p data-aid="154443855" id="note14_p1"><a class="scripture-ref" href="/study/scriptures/nt/1-cor/2?lang=eng&amp;id=p13#p13">1 Corinthians 2:13</a>.</p>
+</li>
+<li data-marker="15." id="note15" data-full-marker="15.">
+<p data-aid="154443860" id="note15_p1">President Russell M. Nelson has said, “When you spiritually stretch beyond anything you have ever done before, then [the Savior’s] power will flow into you” (“<a class="cross-ref" href="/study/general-conference/2017/04/drawing-the-power-of-jesus-christ-into-our-lives?lang=eng&amp;id=p30#p30">Drawing the Power of Jesus Christ into Our Lives</a>,” <cite>Ensign</cite> or <cite>Liahona</cite>, May 2017, 42).</p>
+</li>
+<li data-marker="16." id="note16" data-full-marker="16.">
+<p data-aid="154443866" id="note16_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/ether/12?lang=eng&amp;id=p27#p27">Ether 12:27</a>.</p>
+</li>
+<li data-marker="17." id="note17" data-full-marker="17.">
+<p data-aid="154443871" id="note17_p1">See <a class="scripture-ref" href="/study/scriptures/nt/john/17?lang=eng&amp;id=p4#p4">John 17:4</a>.</p>
+</li>
+<li data-marker="18." id="note18" data-full-marker="18.">
+<p data-aid="154443876" id="note18_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/2-ne/31?lang=eng&amp;id=p20#p20">2 Nephi 31:20</a>; <a class="scripture-ref" href="/study/scriptures/bofm/mosiah/2?lang=eng&amp;id=p41#p41">Mosiah 2:41</a>; <a class="scripture-ref" href="/study/scriptures/bofm/alma/36?lang=eng&amp;id=p3#p3">Alma 36:3</a>.</p>
+</li>
+<li data-marker="19." id="note19" data-full-marker="19.">
+<p data-aid="154443881" id="note19_p1"><cite><a class="cross-ref" href="/study/manual/teachings-joseph-smith/chapter-19?lang=eng&amp;id=p33#p33">Teachings: Joseph Smith</a></cite>, 235.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
+      <guid isPermaLink="false">/general-conference/2023/04/13cook</guid>
+      <enclosure url="https://assets.churchofjesuschrist.org/c62291f1d0d111ed87d2eeeeac1eaa5b1206ad88-32k-en.mp3" length="2954334" type="audio/mpeg"/>
+      <pubDate>Sat, 01 Apr 2023 10:00:00 -0600</pubDate>
+      <itunes:author>Carl B. Cook</itunes:author>
     </item>
   </channel>
 </rss>

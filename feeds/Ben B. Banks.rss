@@ -1,363 +1,309 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Talks By Ben B. Banks</title>
-    <link>http://philip.lundrigan.org/Speakercast/</link>
+    <link>https://philip.lundrigan.org/Speakercast/</link>
     <description>General Conference talks by Ben B. Banks.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Speakercast</generator>
     <image>
-      <url>http://philip.lundrigan.org/Speakercast/covers/Ben%20B.%20Banks.jpg</url>
+      <url>https://philip.lundrigan.org/Speakercast/covers/Ben%20B.%20Banks.jpg</url>
       <title>General Conference talks by Ben B. Banks.</title>
-      <link>http://philip.lundrigan.org/Speakercast/</link>
+      <link>https://philip.lundrigan.org/Speakercast/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 30 Sep 1989 18:00:00 -0700</lastBuildDate>
-    <pubDate>Sat, 30 Sep 1989 18:00:00 -0700</pubDate>
+    <lastBuildDate>Sat, 06 Apr 2002 18:00:00 -0700</lastBuildDate>
+    <pubDate>Sat, 06 Apr 2002 18:00:00 -0700</pubDate>
+    <itunes:author>Ben B. Banks</itunes:author>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
+    <itunes:image href="https://philip.lundrigan.org/Speakercast/covers/Ben%20B.%20Banks.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>General Conference talks by Ben B. Banks.</itunes:summary>
     <item>
       <title>The Value of Preparation</title>
-      <link>http://www.lds.org/general-conference/1989/10/the-value-of-preparation?lang=eng</link>
-      <description>I would like to address my remarks this evening to you young men of the Aaronic and Melchizedek priesthoods who are planning on or contemplating serving a mission, and to those young men of the Aaronic or Melchizedek priesthoods who perhaps might be </description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/1989/10/the-value-of-preparation" schema-version="1" doc-id="general-conference_03245_000_018" doc-version="2" hash="Xiu-Cw">
-  
-  <div class="heading" uri="/general-conference/1989/10/the-value-of-preparation.head">
-    <h1 class="title" pid="pRfUb7gp2kqtKg-UQEkEvg" hash="R09RTg">The Value of Preparation</h1>
-    <p class="authorName" pid="jbJV1UFlvkqB9bQJkIttcQ" hash="8r4xZA">Ben B. Banks</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/1989/10/the-value-of-preparation.t1">
-      <img src="ensignlp.nfo-o-1f96.jpg" alt="Elder Ben B. Banks" pid="0GSSbt7F8UaXQCMImycBmQ" hash="N5JqlQ" />
-      <p class="para" uri="/general-conference/1989/10/the-value-of-preparation.p1" pid="JJccYiWezkSZGh-f6IGN2w" hash="-D84jA">I would like to address my remarks this evening to you young men of the Aaronic and Melchizedek priesthoods who are planning on or contemplating serving a mission, and to those young men of the Aaronic or Melchizedek priesthoods who perhaps might be struggling as to whether or not they want to serve a mission.</p>
-      <p class="para" uri="/general-conference/1989/10/the-value-of-preparation.p2" pid="DpKah9BKQ0OABnLQouSgjw" hash="li_M8Q">I would like to share with you the following story. Nine years ago this spring, my son Ben came to me and said, “Dad, we are going to hold our family reunion this summer at Flaming Gorge recreation area” (a distance of 220 miles east of Salt Lake City). “Why don’t you, myself, and any of the boys in our family that would like to leave a few days early, ride our bikes to Flaming Gorge, and meet the rest of the family there?”</p>
-      <p class="para" uri="/general-conference/1989/10/the-value-of-preparation.p3" pid="UA7Yl6B080KY0W1ALZrPkg" hash="T_H-yA">I said, “That sounds great, but we only have one motorcycle!”</p>
-      <p class="para" uri="/general-conference/1989/10/the-value-of-preparation.p4" pid="9jxQMtFJq0CdL26AuKF08g" hash="yL__Mg">Ben said, “No, Dad, you misunderstand. I mean pedal bicycles.” I thought he was kidding. He said, “I will outline and prepare a training schedule for us. We’ll get up early Saturday mornings and for three hours we’ll go out and ride over the courses I will outline, so that when the time comes we will be prepared to go.”</p>
-      <p class="para" uri="/general-conference/1989/10/the-value-of-preparation.p5" pid="fryRx7yTckedwzpcYHPzew" hash="H1_gQQ">I said, “Okay,” not really knowing what I was in for. I didn’t own a bicycle and knew I would have to use my daughter’s old, heavy, ten-speed bicycle with what seemed like bent wheels and a seat that was terribly hard. I also knew that getting up early on Saturday mornings was not one of my favorite things. But knowing that some of my sons wanted me to go with them, I said, “Okay.”</p>
-      <p class="para" uri="/general-conference/1989/10/the-value-of-preparation.p6" pid="ooo4Rt4qW0GabOkjnPGjmg" hash="yokh_w">As the time for training and preparation came, I found all kinds of excuses not to go on the training rides. However, one Saturday I rode with them to the top of Parleys Canyon and back. It was hard, but I thought I would be okay. Little did I know!</p>
-      <p class="para" uri="/general-conference/1989/10/the-value-of-preparation.p7" pid="8Djou21RwUqr7YO9-ScogA" hash="6D68fQ">The time for the trip came. I joined my boys the second day of the trip, as I had meetings the first day. The journey that second day took us from Heber City to Roosevelt (approximately one hundred miles).</p>
-      <p class="para" uri="/general-conference/1989/10/the-value-of-preparation.p8" pid="MbhbU-aPfkmjridskgBMOg" hash="lTykGg">As we checked into the motel that evening, I called my wife at home and told her I had never hurt so bad in my life. Every muscle, bone, and fiber in my body hurt from my head to my feet. I implored her, “When you come tomorrow with the rest of the family, please bring all the ointment and lotion you can find.”</p>
-      <p class="para" uri="/general-conference/1989/10/the-value-of-preparation.p9" pid="dHieogRAD0q0xbhSxy2_zA" hash="01oiwA">She said, “Honey, you sound terrible.”</p>
-      <p class="para" uri="/general-conference/1989/10/the-value-of-preparation.p10" pid="wPoUEKEnR0GP52Tg9kieZA" hash="Qo4p0Q">I told her, “I look and feel worse than I sound.”</p>
-      <p class="para" uri="/general-conference/1989/10/the-value-of-preparation.p11" pid="D1Z1OE3aQESj9miDPcPjFA" hash="4MLisA">The next day I hated to see the dawn come, knowing what it would be like to sit on that hard seat and pedal all day once again to reach our destination—especially the stretch from Vernal to Flaming Gorge, which would include approximately thirty-six-plus miles with grades up to 9 percent and ninety-degree-plus temperatures. Needless to say, for me the whole trip was a very trying and arduous task. But for my sons, who spent a lot of time waiting at the top of the hills for their slow, unprepared dad, it was exciting, fun, and rewarding.</p>
-      <p class="para" uri="/general-conference/1989/10/the-value-of-preparation.p12" pid="2-F_t5lJeECltR6uI0Q9cw" hash="bDkHZQ">That evening as we arrived at our destination, I came to an easy, yet profound recognition of how poorly prepared I was for what should have been a great experience with my sons, but was not because I did not take the time to properly prepare. I resolved that night that I would never again be that unprepared. I went home and bought bicycles for myself and my two youngest sons, and started training and preparing so that by the time the next summer came, my sons and I could ride our bikes to Lake Powell, a distance of three hundred miles, which we did. The next year we cycled to St. George, and every year thereafter, we rode our bikes to Lake Powell until our mission call to Scotland two years ago.</p>
-      <p class="para" uri="/general-conference/1989/10/the-value-of-preparation.p13" pid="7C-BfDdAVkyDe_NBPQuizA" hash="nihULQ">If it is important to prepare for a bike ride, my young friends, why is it then so much more important for you in this life to prepare to serve as missionaries? Why? Because of the eternal significance of a mission in your life and in the lives of others. We learn of the responsibility we have to preach the gospel when Jesus said: “Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost.” (<a href="/scriptures/nt/matt/28.19" class="scriptureRef">Matt. 28:19</a>.) Paul to the Corinthians counseled, “For though I preach the gospel, I have nothing to glory of: for necessity is laid upon me; yea, woe is unto me, if I preach not the gospel!” (<a href="/scriptures/nt/1-cor/9.16" class="scriptureRef">1 Cor. 9:16</a>.)</p>
-      <p class="para" uri="/general-conference/1989/10/the-value-of-preparation.p14" pid="FBTikFY360Om2C5Bww4jNg" hash="BlCNAA">I plead with you, my young friends, to never be “ashamed of the gospel of Christ.” (<a href="/scriptures/nt/rom/1.16" class="scriptureRef">Rom. 1:16</a>.) Prepare yourselves and make yourselves worthy to receive a mission call. Live clean, pure lives. Study the scriptures—not just read, but study the scriptures—especially the Book of Mormon, as President Benson has counseled us to do. Be strong enough to live the Word of Wisdom and follow the counsel of your parents and priesthood leaders.</p>
-      <p class="para" uri="/general-conference/1989/10/the-value-of-preparation.p15" pid="fLS1Vfg_eEW8VLFoStUIgg" hash="PVGFmA">I know you young men are growing up in a challenging world with all kinds of peer pressure. You may even be struggling with the decision of going on a mission because of your educational and vocational desires, or because of a budding musical or athletic career, or a serious girlfriend you may find hard to leave. I understand, because I have seven sons, as well as a son-in-law, who have had to make similar decisions. Yet each has made that decision to serve.</p>
-      <p class="para" uri="/general-conference/1989/10/the-value-of-preparation.p16" pid="BCsDmp1eFUaQrUqhhRmbLA" hash="EVF-jA">If you wonder or struggle as to what will be of most worth to you, listen to the direction given by the Lord: “For many times you have desired of me to know that which would be of the most worth unto you. … “And now, behold, I say unto you, that the thing which will be of the most worth unto you will be to declare repentance unto this people, that you may bring souls unto me, that you may rest with them in the kingdom of my Father.” (<a href="/scriptures/dc-testament/dc/15.4,6" class="scriptureRef">D&amp;C 15:4, 6</a>.)</p>
-      <p class="para" uri="/general-conference/1989/10/the-value-of-preparation.p17" pid="-MD-IFbo-0anvuYhXb6ofg" hash="U1lFKA">I promise you young men that if you will commit and prepare to serve a mission, it will be the most rewarding and exciting experience of your lives. Yes, there will be many and varied experiences—yes, even humorous experiences, like the elder who shared with me how he and his companion got on the bus, and as they sat down, in the seat in front of them was a grandfather with a young grandson who was having a temper tantrum. Missionaries being as ingenious as they are, these two elders decided they would see what they could do to quiet the little boy down and help the grandfather.</p>
-      <p class="para" uri="/general-conference/1989/10/the-value-of-preparation.p18" pid="MxOCSLxbDkKBZXQEu5QaDg" hash="yd2z_w">The boy had a baseball cap on. The elders proceeded to take the cap off his head and made a gesture like they threw it out of the window, but instead they quickly hid it under their seat. They then told the boy, as he felt his head, that if he wished hard enough he could wish it back on his head. The boy looked at his grandpa wondering what was going on, and as he did, the elders quickly put the cap back on his head. The boy immediately felt the cap on his head, took it off, looked at it again, and then proceeded to throw it out the window, saying, “Do it again, Grandpa!” I think the elders got off at the next stop.</p>
-      <p class="para" uri="/general-conference/1989/10/the-value-of-preparation.p19" pid="3iZMCn3pW0yNqM6yZNinIw" hash="Wwfx0w">Yes, you may have many humorous experiences on your mission, but those experiences which will be the most joyful and rewarding to you, and which will be with you throughout eternity, will be the times when the Spirit will work through you to touch the lives of others, such as Sister Ciardo from Sardinia, Italy, who joined the Church and came to Scotland on a mission. As Sister Ciardo left for her mission, her mother would hardly speak to her and her father said she would never be welcome back home again. But the faith of this young lady brought forth a miracle.</p>
-      <p class="para" uri="/general-conference/1989/10/the-value-of-preparation.p20" pid="KiFMN44WZ02XyKUAguy_aA" hash="ty4PwA">Approximately a year after Sister Ciardo had been on her mission, she came to see me one day with tears running down her face. She had a letter in hand from her mother. I, too, had tears come to my eyes as I read the letter telling her daughter she had been baptized and that her father was attending church and was going to listen to the discussions.</p>
-      <p class="para" uri="/general-conference/1989/10/the-value-of-preparation.p21" pid="hBkxSl9HbUiDdlJ67fr57g" hash="vQ7aiA">I think of a Tony Ridden and a Tracy McFall from Scotland who were baptized a couple of years ago, coming from backgrounds that you would never have thought this possible. Yet both stood and spoke just a few months ago at their own missionary farewells with tears in their eyes, expressing love and gratitude for the elders who brought the gospel into their lives.</p>
-      <p class="para" uri="/general-conference/1989/10/the-value-of-preparation.p22" pid="o0N1xgaZBkiwA2pfmbHkaA" hash="tHampQ">Just how important is a Sister Ciardo, a Tony Ridden, a Tracy McFall, and many others just like them? The Lord gives us the answer to that question: “Remember the worth of souls is great in the sight of God;</p>
-      <p class="para" uri="/general-conference/1989/10/the-value-of-preparation.p23" pid="g3vla3yRfE6kaEzFRGngbw" hash="VeRt5Q">“For, behold, the Lord your Redeemer suffered death in the flesh; wherefore he suffered the pain of all men, that all men might repent and come unto him. …</p>
-      <p class="para" uri="/general-conference/1989/10/the-value-of-preparation.p24" pid="0zmnZbw4M0eq2bvSnk8aMg" hash="xdgxeg">“Wherefore, you are called to cry repentance unto this people.</p>
-      <p class="para" uri="/general-conference/1989/10/the-value-of-preparation.p25" pid="pJQdY2-3QUiq9CFT64eKSQ" hash="vrV20Q">“And if it so be that you should labor all your days in crying repentance unto this people, and bring, save it be one soul unto me, how great shall be your joy with him in the kingdom of my Father!” (<a href="/scriptures/dc-testament/dc/18.10-11,14-15" class="scriptureRef">D&amp;C 18:10–11, 14–15</a>.)</p>
-      <p class="para" uri="/general-conference/1989/10/the-value-of-preparation.p26" pid="wMajKJ14p0Cxo3xrZpbODQ" hash="kDLKmQ">O youth of noble birthright, I bear witness to you this night that if you will commit, prepare, and with a willing heart go forth to serve Jesus Christ and preach his gospel, great will be your blessings and reward. Listen to the words of our Savior:</p>
-      <p class="para" uri="/general-conference/1989/10/the-value-of-preparation.p27" pid="E9BpJUDFMUy8UZ0VgiLOsA" hash="dwwCkQ">“Ye are blessed, for the testimony which ye have borne is recorded in heaven for the angels to look upon; and they rejoice over you, and your sins are forgiven you.” (<a href="/scriptures/dc-testament/dc/62.3" class="scriptureRef">D&amp;C 62:3</a>.)</p>
-      <p class="para" uri="/general-conference/1989/10/the-value-of-preparation.p28" pid="F_EplxtQdES9fdaQK6KfjA" hash="Wg4F_Q">“Ye are a chosen generation, a royal priesthood.” (<a href="/scriptures/nt/1-pet/2.9" class="scriptureRef">1 Pet. 2:9</a>.)</p>
-      <p class="para" uri="/general-conference/1989/10/the-value-of-preparation.p29" pid="i-b61JGm4UKpxVkPJcDKjg" hash="It8-3A">Stay on the Lord’s side and you will find eternal joy and fulfillment. I bear my witness to you that Jesus is the Christ, the Son of God. This is His church. President Ezra Taft Benson is our living prophet, in the name of Jesus Christ, amen.</p>
-    </div>
-  </div>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/1989/10/the-value-of-preparation?lang=eng</link>
+      <description>I would like to address my remarks this evening to you young men of the Aaronic and Melchizedek priesthoods who are planning on or contemplating serving a mission, and to those young men of the Aaronic or Melchizedek priesthoods who perhaps might be struggling as to whether or not they want to serve a mission.</description>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="40"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/b03072c8ff56c0410ab6860f08e35e7b0bb6fc03/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/b03072c8ff56c0410ab6860f08e35e7b0bb6fc03/full/%21192%2C/0/default" data-video-title="The Value of Preparation" data-video-description="Elder Benjamin B. Banks delivers a message titled &quot;The Value of Preparation.&quot;" data-video-id="2255437889001" data-ip="Download and Streaming                            " data-duration="677376" data-assetId="4da292a00b019c7e99bb8d00a0c1c34d20ec2b35" data-ref-id="4da292a00b019c7e99bb8d00a0c1c34d20ec2b35" data-duration-string="11:17" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/2255437889001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="480" data-height="360" data-file-size="33511506"/><source src="https://assets.churchofjesuschrist.org/4da292a00b019c7e99bb8d00a0c1c34d20ec2b35-360p-en.mp4" type="video/mp4" data-width="480" data-height="360" data-file-size="33511506"/></video><h1 data-aid="28780220" id="title1">The Value of Preparation</h1>
+<div class="byline">
+<p class="author-name" data-aid="28780221" id="p1">By Elder Ben B. Banks</p>
+<p class="author-role" data-aid="28780222" id="p2">Of the Second Quorum of the Seventy</p>
+<div class="image-cropper"><img alt="Elder Ben B. Banks" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/111ujvwrr4m3765lpk1ldmhnpb5pmook55x6io5h/full/%21100%2C/0/default" data-assetId="111ujvwrr4m3765lpk1ldmhnpb5pmook55x6io5h" srcset="https://www.churchofjesuschrist.org/imgs/111ujvwrr4m3765lpk1ldmhnpb5pmook55x6io5h/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/111ujvwrr4m3765lpk1ldmhnpb5pmook55x6io5h/full/%21100%2C/0/default 100w" data-img-id="111ujvwrr4m3765lpk1ldmhnpb5pmook55x6io5h" data-missing-asset="false" data-width="100" data-height="133" data-aspect-ratio="0.7518796992481203" data-public-title="Ben B. Banks" data-public-description="Ben B. Banks"/></div>
+</div>
+</header>
+<div class="body-block">
+<p data-aid="28780223" id="p3">I would like to address my remarks this evening to you young men of the Aaronic and Melchizedek priesthoods who are planning on or contemplating serving a mission, and to those young men of the Aaronic or Melchizedek priesthoods who perhaps might be struggling as to whether or not they want to serve a mission.</p>
+<p data-aid="28780224" id="p4">I would like to share with you the following story. Nine years ago this spring, my son Ben came to me and said, “Dad, we are going to hold our family reunion this summer at Flaming Gorge recreation area” (a distance of 220 miles east of Salt Lake City). “Why don’t you, myself, and any of the boys in our family that would like to leave a few days early, ride our bikes to Flaming Gorge, and meet the rest of the family there?”</p>
+<p data-aid="28780225" id="p5">I said, “That sounds great, but we only have one motorcycle!”</p>
+<p data-aid="28780226" id="p6">Ben said, “No, Dad, you misunderstand. I mean pedal bicycles.” I thought he was kidding. He said, “I will outline and prepare a training schedule for us. We’ll get up early Saturday mornings and for three hours we’ll go out and ride over the courses I will outline, so that when the time comes we will be prepared to go.”</p>
+<p data-aid="28780227" id="p7">I said, “Okay,” not really knowing what I was in for. I didn’t own a bicycle and knew I would have to use my daughter’s old, heavy, ten-speed bicycle with what seemed like bent wheels and a seat that was terribly hard. I also knew that getting up early on Saturday mornings was not one of my favorite things. But knowing that some of my sons wanted me to go with them, I said, “Okay.”</p>
+<p data-aid="28780228" id="p8">As the time for training and preparation came, I found all kinds of excuses not to go on the training rides. However, one Saturday I rode with them to the top of Parleys Canyon and back. It was hard, but I thought I would be okay. Little did I know!</p>
+<p data-aid="28780229" id="p9">The time for the trip came. I joined my boys the second day of the trip, as I had meetings the first day. The journey that second day took us from Heber City to Roosevelt (approximately one hundred miles).</p>
+<p data-aid="28780230" id="p10">As we checked into the motel that evening, I called my wife at home and told her I had never hurt so bad in my life. Every muscle, bone, and fiber in my body hurt from my head to my feet. I implored her, “When you come tomorrow with the rest of the family, please bring all the ointment and lotion you can find.”</p>
+<span class="page-break" data-page="41"></span>
+<p data-aid="28780231" id="p11">She said, “Honey, you sound terrible.”</p>
+<p data-aid="28780232" id="p12">I told her, “I look and feel worse than I sound.”</p>
+<p data-aid="28780233" id="p13">The next day I hated to see the dawn come, knowing what it would be like to sit on that hard seat and pedal all day once again to reach our destination—especially the stretch from Vernal to Flaming Gorge, which would include approximately thirty-six-plus miles with grades up to 9 percent and ninety-degree-plus temperatures. Needless to say, for me the whole trip was a very trying and arduous task. But for my sons, who spent a lot of time waiting at the top of the hills for their slow, unprepared dad, it was exciting, fun, and rewarding.</p>
+<p data-aid="28780234" id="p14">That evening as we arrived at our destination, I came to an easy, yet profound recognition of how poorly prepared I was for what should have been a great experience with my sons, but was not because I did not take the time to properly prepare. I resolved that night that I would never again be that unprepared. I went home and bought bicycles for myself and my two youngest sons, and started training and preparing so that by the time the next summer came, my sons and I could ride our bikes to Lake Powell, a distance of three hundred miles, which we did. The next year we cycled to St. George, and every year thereafter, we rode our bikes to Lake Powell until our mission call to Scotland two years ago.</p>
+<p data-aid="28780235" id="p15">If it is important to prepare for a bike ride, my young friends, why is it then so much more important for you in this life to prepare to serve as missionaries? Why? Because of the eternal significance of a mission in your life and in the lives of others. We learn of the responsibility we have to preach the gospel when Jesus said: “Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost.” (<a class="scripture-ref" href="/study/scriptures/nt/matt/28?lang=eng&amp;id=p19#p19">Matt. 28:19</a>.) Paul to the Corinthians counseled, “For though I preach the gospel, I have nothing to glory of: for necessity is laid upon me; yea, woe is unto me, if I preach not the gospel!” (<a class="scripture-ref" href="/study/scriptures/nt/1-cor/9?lang=eng&amp;id=p16#p16">1 Cor. 9:16</a>.)</p>
+<p data-aid="28780236" id="p16">I plead with you, my young friends, to never be “ashamed of the gospel of Christ.” (<a class="scripture-ref" href="/study/scriptures/nt/rom/1?lang=eng&amp;id=p16#p16">Rom. 1:16</a>.) Prepare yourselves and make yourselves worthy to receive a mission call. Live clean, pure lives. Study the scriptures—not just read, but study the scriptures—especially the Book of Mormon, as President Benson has counseled us to do. Be strong enough to live the Word of Wisdom and follow the counsel of your parents and priesthood leaders.</p>
+<p data-aid="28780237" id="p17">I know you young men are growing up in a challenging world with all kinds of peer pressure. You may even be struggling with the decision of going on a mission because of your educational and vocational desires, or because of a budding musical or athletic career, or a serious girlfriend you may find hard to leave. I understand, because I have seven sons, as well as a son-in-law, who have had to make similar decisions. Yet each has made that decision to serve.</p>
+<p data-aid="28780238" id="p18">If you wonder or struggle as to what will be of most worth to you, listen to the direction given by the Lord: “For many times you have desired of me to know that which would be of the most worth unto you. … And now, behold, I say unto you, that the thing which will be of the most worth unto you will be to declare repentance unto this people, that you may bring souls unto me, that you may rest with them in the kingdom of my Father.” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/15?lang=eng&amp;id=p4%2Cp6#p4">D&amp;C 15:4, 6</a>.)</p>
+<p data-aid="28780239" id="p19">I promise you young men that if you will commit and prepare to serve a mission, it will be the most rewarding and exciting experience of your lives. Yes, there will be many and varied experiences—yes, even humorous experiences, like the elder who shared with me how he and his companion got on the bus, and as they sat down, in the seat in front of them was a grandfather with a young grandson who was having a temper tantrum. Missionaries being as ingenious as they are, these two elders decided they would see what they could do to quiet the little boy down and help the grandfather.</p>
+<p data-aid="28780240" id="p20">The boy had a baseball cap on. The elders proceeded to take the cap off his head and made a gesture like they threw it out of the window, but instead they quickly hid it under their seat. They then told the boy, as he felt his head, that if he wished hard enough he could wish it back on his head. The boy looked at his grandpa, wondering what was going on, and as he did, the elders quickly put the cap back on his head. The boy immediately felt the cap on his head, took it off, looked at it again, and then proceeded to throw it out the window, saying, “Do it again, Grandpa!” I think the elders got off at the next stop.</p>
+<p data-aid="28780241" id="p21">Yes, you may have many humorous experiences on your mission, but those experiences which will be the most joyful and rewarding to you, and which will be with you throughout eternity, will be the times when the Spirit will work through you to touch the lives of others, such as Sister Ciardo from Sardinia, Italy, who joined the Church and came to Scotland on a mission. As Sister Ciardo left for her mission, her mother would hardly speak to her and her father said she would never be welcome back home again. But the faith of this young lady brought forth a miracle.</p>
+<p data-aid="28780242" id="p22">Approximately a year after Sister Ciardo had been on her mission, <span class="page-break" data-page="42"></span>she came to see me one day with tears running down her face. She had a letter in hand from her mother. I, too, had tears come to my eyes as I read the letter telling her daughter she had been baptized and that her father was attending church and was going to listen to the discussions.</p>
+<p data-aid="28780243" id="p23">I think of a Tony Ridden and a Tracy McFall from Scotland who were baptized a couple of years ago, coming from backgrounds that you would never have thought this possible. Yet both stood and spoke just a few months ago at their own missionary farewells with tears in their eyes, expressing love and gratitude for the elders who brought the gospel into their lives.</p>
+<p data-aid="28780244" id="p24">Just how important is a Sister Ciardo, a Tony Ridden, a Tracy McFall, and many others just like them? The Lord gives us the answer to that question: “Remember the worth of souls is great in the sight of God;</p>
+<p data-aid="28780245" id="p25">“For, behold, the Lord your Redeemer suffered death in the flesh; wherefore he suffered the pain of all men, that all men might repent and come unto him. …</p>
+<p data-aid="28780246" id="p26">“Wherefore, you are called to cry repentance unto this people.</p>
+<p data-aid="28780247" id="p27">“And if it so be that you should labor all your days in crying repentance unto this people, and bring, save it be one soul unto me, how great shall be your joy with him in the kingdom of my Father!” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/18?lang=eng&amp;id=p10-p11%2Cp14-p15#p10">D&amp;C 18:10–11, 14–15</a>.)</p>
+<p data-aid="28780248" id="p28">O youth of noble birthright, I bear witness to you this night that if you will commit, prepare, and with a willing heart go forth to serve Jesus Christ and preach his gospel, great will be your blessings and reward. Listen to the words of our Savior:</p>
+<p data-aid="28780249" id="p29">“Ye are blessed, for the testimony which ye have borne is recorded in heaven for the angels to look upon; and they rejoice over you, and your sins are forgiven you.” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/62?lang=eng&amp;id=p3#p3">D&amp;C 62:3</a>.)</p>
+<p data-aid="28780250" id="p30">“Ye are a chosen generation, a royal priesthood.” (<a class="scripture-ref" href="/study/scriptures/nt/1-pet/2?lang=eng&amp;id=p9#p9">1 Pet. 2:9</a>.)</p>
+<p data-aid="28780251" id="p31">Stay on the Lord’s side and you will find eternal joy and fulfillment. I bear my witness to you that Jesus is the Christ, the Son of God. This is His church. President Ezra Taft Benson is our living prophet, in the name of Jesus Christ, amen.</p>
 </div>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/1989/10/the-value-of-preparation</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/october-1989-general-conference/1989-10-3030-elder-benjamin-b-banks-64k-eng.mp3" length="5439278" type="audio/mpeg"/>
-      <pubDate>Sat, 30 Sep 1989 18:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/cba1cd5f32e711ec95e0eeeeac1ece45780e56b5-64k-en.mp3" length="5592189" type="audio/mpeg"/>
+      <pubDate>Sat, 30 Sep 1989 18:00:00 -0600</pubDate>
+      <itunes:author>Ben B. Banks</itunes:author>
     </item>
     <item>
       <title>Take Time for Your Children</title>
-      <link>http://www.lds.org/general-conference/1993/10/take-time-for-your-children?lang=eng</link>
-      <description>Speaking to the inhabitants of Zion, the Lord said, “They shall … teach their children to pray, and to walk uprightly before the Lord” ().</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/1993/10/take-time-for-your-children" schema-version="1" doc-id="general-conference_93911_000_013" doc-version="2" hash="i5UCVw">
-  
-  <div class="heading" uri="/general-conference/1993/10/take-time-for-your-children.head">
-    <h1 class="title" pid="MS52jkEZAEG8TFtOpxW_Ng" hash="DsQ8Rg">Take Time for Your Children</h1>
-    <p class="authorName" pid="a5AMBuGdM0iyj1FuDqa-5Q" hash="8r4xZA">Ben B. Banks</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/1993/10/take-time-for-your-children.t1">
-      <img src="ensignlp.nfo-o-1f96.jpg" alt="Elder Ben B. Banks" pid="47yF6Z_OakmwesoMeMxC6A" hash="N5JqlQ" />
-      <p class="para" uri="/general-conference/1993/10/take-time-for-your-children.p1" pid="vXB4DDVct0WRFodQ0veYfQ" hash="qMw8AA">Speaking to the inhabitants of Zion, the Lord said, “They shall … teach their children to pray, and to walk uprightly before the Lord” (<a href="/scriptures/dc-testament/dc/68.28" class="scriptureRef">D&amp;C 68:28</a>).</p>
-      <p class="para" uri="/general-conference/1993/10/take-time-for-your-children.p2" pid="uBZdKvMbf0GVaU2ekyzVXg" hash="cmVeRQ">Early one Saturday morning while serving as stake president, I received a phone call from Bishop Nelson asking for help. He said the Janzen family from his ward, while on a family outing in the mountains, had lost their seven-year-old son, Mathew. Darkness had brought the search to a halt Friday evening. But within a short period of time Saturday morning, over a hundred brothers and sisters from the stake drove to the rescue site to join the search. After several hours of combing the trails, roads, and backwoods, little Mathew was finally found. Can you imagine the joy as he was swept into the arms of his mother and father? I listened through tears of grateful parents as they asked, “What happened?” Then this reply: “I took the wrong turn and got lost. When it got dark I tried to build a shelter and sleep, but it was so cold I couldn’t. I knelt down on a rock and prayed five times last night and again this morning. You taught me if I was ever lost, if I would pray to Heavenly Father and stay on the trail, I would find you. Heavenly Father did answer my prayers.”</p>
-      <p class="para" uri="/general-conference/1993/10/take-time-for-your-children.p3" pid="JCtF_SEheEue_n_6MwwWxQ" hash="SMzdYw">Elder Richard L. Evans stated, “We ‘shall not pass again this way’—and in these swift-passing scenes and seasons there seems to come—insistently, almost above all else—this compelling cry: Take time for your children. More and more, professional people are telling us that children are shaped and molded at a very early age” (<span class="emphasis">Improvement Era,</span> Nov. 1970, p. 125).</p>
-      <p class="para" uri="/general-conference/1993/10/take-time-for-your-children.p4" pid="O8d8wK4oCEqtA0FtO9N4aQ" hash="Io-VMQ">In the fast-paced life that most of us lead, the simple concern of parents finding sufficient time to do the things they want to do is often a big problem. As a general rule, all parents have a desire to be good parents and are aware that within the home environment children are provided the best opportunity to be taught gospel principles and gospel understanding. The risen Lord, while visiting the Nephites, referred to the words of Isaiah, “And all thy children shall be taught of the Lord; and great shall be the peace of thy children” (<a href="/scriptures/bofm/3-ne/22.13" class="scriptureRef">3 Ne. 22:13</a>).</p>
-      <p class="para" uri="/general-conference/1993/10/take-time-for-your-children.p5" pid="6KwWeRUYWEaBb-UezNFt2g" hash="BhSKCA">A few weeks ago, while attending a stake conference in the Philippines, where I currently live, I listened to eleven-year-old Joseph stand at the pulpit with childlike faith and express the following: “My sister got a toothache. I told her, ‘Get Dad to give you a blessing.’ He did, and it went away. My parents taught me to pray when I was a child. I said things that were funny, but I know Heavenly Father heard me. We always read the scriptures when I was young. I didn’t understand then, but I do now.”</p>
-      <p class="para" uri="/general-conference/1993/10/take-time-for-your-children.p6" pid="BzoVDWLyRUO6H7FCsjCwYg" hash="yr_Jwg">We cannot overemphasize the importance of parenthood and the family. Some Latter-day Saint families are what we refer to as the “traditional family,” consisting of parents and children all together in a permanent relationship, with both mother and father sharing in the responsibility of caring for children. Others have witnessed the loss of one of the parents and become one of the many single-parent families. I am one who grew up in a single-parent home. My father lost his life as a result of a construction accident when I was two years old, leaving my mother with seven children to raise. Even in single-parent families, the family continues on, for families are forever. Perhaps few human challenges are greater than that of being good parents. Yes, even with the best intentions, conscientious, good parents sometimes experience feelings of despair, failure, and hurt when children do not make right choices and turn out the way we would like. Even in those circumstances it is so important for parents to love, pray for, and never give up hope for a son or daughter who may have strayed or brought disappointment. Elder Howard W. Hunter stated: “The responsibilities of parenthood are of the greatest importance. The results of our efforts will have eternal consequences for us and the boys and girls we raise. Anyone who becomes a parent is under strict obligation to protect and love his children and assist them to return to their Heavenly Father” (<span class="emphasis">Ensign,</span> Nov. 1983, p. 65).</p>
-      <p class="para" uri="/general-conference/1993/10/take-time-for-your-children.p7" pid="oImIGt2LKkGZ0ZB1VSyq7g" hash="2_DaqQ">Parents should be the master teachers of their children. The Church will assist parents in their teaching and training, but only assist. The Church cannot be a substitute for parental responsibility. Elder Richard L. Evans said the home “is also the source of our personal lives, and in a sense the determiner of our everlasting lives. And so our plea is for parents to take the time it takes to draw near to the children God has given them. Let there be love at home. Let there be tenderness and teaching and caring for and not a shifting of responsibility onto others. God grant that we may never be too busy to do the things that matter most, for ‘Home makes the man’” (<span class="emphasis">Richard Evans’ Quote Book,</span> Salt Lake City: Publishers Press, 1971, p. 21).</p>
-      <p class="para" uri="/general-conference/1993/10/take-time-for-your-children.p8" pid="1L6MObVzbEy2zSgH-afhEQ" hash="bzG3wg">As we bear this great responsibility of parenthood, may I share with you, in the spirit of trying to be helpful, a few thoughts that parents might use to strengthen their families against worldly temptations and to bring the love, unity, and success that all desire.</p>
-      <div class="figure" uri="/general-conference/1993/10/take-time-for-your-children.f2">
-	<ol class="number">
-	  <li pid="xwBvCQgayUaTXF5Or6LhCg" hash="89cXxQ">
-          <span class="label">1.</span>
-          <p pid="a-Up31GDW02nXN-FEAG1rQ" hash="V95yqw">
-            <span class="strong">Start early.</span> “Columnist Sydney Harris was once asked by an anxious parent, ‘How can I get my 16-year-old son to mind me?’ He answered simply, ‘Shrink him down to six months and start over, differently.’</p>
-        </li>
-	  <li pid="j5oWlmpqGECcPsJUWewqjw" hash="92HbiQ">
-          <span class="label">2.</span>
-          <p pid="34BD9YG-rE60qlvmuHs6xg" hash="pcWGqA">
-            <span class="strong">Effective communication.</span> Parents should spend a great deal of time listening, not just telling. This listening should be done with an open mind and heart. When children feel they can talk freely about their feelings, problems, and successes, wonderful relationships develop between parents and children.</p>
-        </li>
-	  <li pid="pIMjfdmT1UaGM5eaf89j-g" hash="WcPX6g">
-          <span class="label">3.</span>
-          <p pid="NAJAybgGS0uzscFH6MxfuA" hash="kr0yyg">
-            <span class="strong">Enthrone love and unity. </span>It is important to make your children aware of your love and feelings. This can be done by a hundred little acts and gestures, such as tucking children into bed at night after listening to their prayers, offering a comforting arm or ear even though he or she may not be hurt very badly. Encourage children to support each other through attendance at ball games and concerts where a family member is participating.</p>
-        </li>
-	  <li pid="4WsWsAHbZkG65BCZGBJNwQ" hash="QS46AQ">
-          <span class="label">4.</span>
-          <p pid="lDjrKE0Tr0GNQjHzsfXzTA" hash="3B3Z2w">
-            <span class="strong">Do things together.</span> Vacations and recreational activities, also family work projects, give parents a good opportunity to teach the importance of developing a good work ethic. Doing things together gives a child and parent an opportunity to share their attention in a common objective.</p>
-        </li>
-	  <li pid="pRFYiFYSOUG1ABGW0Ms9dg" hash="ElUrag">
-          <span class="label">5.</span>
-          <p pid="qyHbONijHkS9BeNYPX2nmg" hash="ak4iKw">
-            <span class="strong">Provide opportunities to learn how to be independent and responsible.</span> Teach children how to make their own decisions, even if it involves their failing once in a while. We need to help children come to an understanding such as Lehi taught, “knowing good from evil; to act for themselves and not to be acted upon” (<a href="/scriptures/bofm/2-ne/2.26" class="scriptureRef">2 Ne. 2:26</a>).</p>
-        </li>
-	  <li pid="NrKwC3B6IUWCUO7xCtCWpg" hash="7iK3Ew">
-          <span class="label">6.</span>
-          <p pid="gea5ZWGGfUuCdF-Aed1sqQ" hash="8zS57g">
-            <span class="strong">Discipline with love. </span>“‘Discipline’ and ‘punishment’ are not synonymous. Punishment suggests hurting, paying someone back for a wrong committed. Discipline implies an action directed toward a goal … of helping the recipient to improve himself” (William E. Homan, “How to Be a Better Parent,” <span class="emphasis">Reader’s Digest,</span> Oct. 1969, pp. 187–91). Discipline should always be with love.</p>
-        </li>
-	  <li pid="Ylh6PFeulEGrfbnsaTEJLQ" hash="hLt3eA">
-          <span class="label">7.</span>
-          <p pid="papyWniI8ESaWhAE4YwXPg" hash="xTtyag">
-            <span class="strong">Service.</span> In his great farewell address, King Benjamin taught, “When ye are in the service of your fellow beings ye are only in the service of your God” (<a href="/scriptures/bofm/mosiah/2.17" class="scriptureRef">Mosiah 2:17</a>). There are few rewards in life that bring greater feelings of satisfaction, joy, and peace than when one gives meaningful service to a fellow being standing in need.</p>
-        </li>
-	  <li pid="BydqCLtQ3E2MNmeO6dGQVw" hash="RTR4HA">
-          <span class="label">8.</span>
-          <p pid="VfjCwVHOsEqSz0LmmWie_w" hash="urdZFg">
-            <span class="strong">The last and most important is to establish a “house of God.”</span> The instruction the Lord gave the Prophet Joseph Smith in the 88th section of the Doctrine and Covenants referred to building a temple. Yet this verse of scripture also beautifully describes the type of home we ought to have:</p>
-        </li>
-	</ol>
-      </div>
-      <p class="para" uri="/general-conference/1993/10/take-time-for-your-children.p9" pid="qSCZh3-Ij06V6J8wbT73cA" hash="iQwBAQ">It is not easy for children to stay clean and pure in today’s world. There are times when it becomes hard for them to tell right from wrong. We need to teach our children, as Alma taught his son Corianton, “Wickedness never was happiness” (<a href="/scriptures/bofm/alma/41.10" class="scriptureRef">Alma 41:10</a>). Teach them to stay on the Lord’s side of the line. Hold family home evening regularly. Hold family prayer twice a day, if possible. Teach them to love the scriptures and how to experience the sweet answer to individual prayer. Teach them to understand and recognize how the Holy Ghost communicates with us and how it comes as promptings, thoughts, impressions, and feelings. Teach the sacred significance of the atoning sacrifice of our Savior Jesus Christ.</p>
-      <p class="para" uri="/general-conference/1993/10/take-time-for-your-children.p10" pid="eQ49wcwGGE-i3H2V6lWahQ" hash="0i3A7w">Elder Boyd K. Packer has said, “Teach our young people to bear testimony—to bear testimony that Jesus is the Christ, that Joseph Smith is a prophet of God, that the Book of Mormon is true, that we lived before we came here, that Christ died to redeem us, and that he is the Son of God” (<span class="emphasis">Let Not Your Heart Be Troubled,</span> Salt Lake City: Bookcraft, 1991, p. 154).</p>
-      <p class="para" uri="/general-conference/1993/10/take-time-for-your-children.p11" pid="PFfqfHGa3ki770XaYfCkxA" hash="x6aN-w">Yes, “the best thing to spend on your children is your time” (Arnold Glasow, in <span class="emphasis">Richard Evans’ Quote Book,</span> p. 18).</p>
-      <p class="para" uri="/general-conference/1993/10/take-time-for-your-children.p12" pid="VpfxRKd9LEKE-QuBywCqKw" hash="q80y7Q">That all who are parents might be successful in convincing their children that true joy and happiness come from living the gospel of Jesus Christ, and that parents might find joy and fulfillment in their efforts and sacred role, is my prayer, in the name of Jesus Christ, amen.</p>
-    </div>
-  </div>
-</div>]]></content:encoded>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/1993/10/take-time-for-your-children?lang=eng</link>
+      <description><![CDATA[<header>
+<span class="page-break" data-page="28"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/e59197667c08013c2b3cf00ef3ba8d4f2edca329/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/e59197667c08013c2b3cf00ef3ba8d4f2edca329/full/%21192%2C/0/default" data-video-title="Take Time for Your Children" data-video-description="Elder Ben B. Banks delivers a message titled &quot;Take Time for Your Children.&quot;" data-video-id="2255396812001" data-ip="Download and Streaming                            " data-duration="698000" data-assetId="7d0fb02121c21ba735e9fb51e3497f28c35c87f9" data-ref-id="7d0fb02121c21ba735e9fb51e3497f28c35c87f9" data-duration-string="11:38" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/2255396812001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="480" data-height="360" data-file-size="37289544"/><source src="https://assets.churchofjesuschrist.org/7d0fb02121c21ba735e9fb51e3497f28c35c87f9-360p-en.mp4" type="video/mp4" data-width="480" data-height="360" data-file-size="37289544"/></video><h1 data-aid="28792337" id="title1">Take Time for Your Children</h1>
+<div class="byline">
+<p class="author-name" data-aid="28792338" id="p1">By Elder Ben B. Banks</p>
+<p class="author-role" data-aid="28792339" id="p2">Of the Seventy</p>
+<div class="image-cropper"><img alt="Elder Ben B. Banks" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/111ujvwrr4m3765lpk1ldmhnpb5pmook55x6io5h/full/%21100%2C/0/default" data-assetId="111ujvwrr4m3765lpk1ldmhnpb5pmook55x6io5h" srcset="https://www.churchofjesuschrist.org/imgs/111ujvwrr4m3765lpk1ldmhnpb5pmook55x6io5h/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/111ujvwrr4m3765lpk1ldmhnpb5pmook55x6io5h/full/%21100%2C/0/default 100w" data-img-id="111ujvwrr4m3765lpk1ldmhnpb5pmook55x6io5h" data-missing-asset="false" data-width="100" data-height="133" data-aspect-ratio="0.7518796992481203" data-public-title="Ben B. Banks" data-public-description="Ben B. Banks"/></div>
+</div>
+</header>
+<div class="body-block">
+<p data-aid="28792340" id="p3">Speaking to the inhabitants of Zion, the Lord said, “They shall … teach their children to pray, and to walk uprightly before the Lord” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/68?lang=eng&amp;id=p28#p28">D&amp;C 68:28</a>).</p>
+<p data-aid="28792341" id="p4">Early one Saturday morning while serving as stake president, I received a phone call from Bishop Nelson asking for help. He said the Janzen family from his ward, while on a family outing in the mountains, had lost their seven-year-old son, Mathew. Darkness had brought the search to a halt Friday evening. But within a short period of time Saturday morning, over a hundred brothers and sisters from the stake drove to the rescue site to join the search. After several hours of combing the trails, roads, and backwoods, they finally found little Mathew. Can you imagine the joy as he was swept into the arms of his mother and father? I listened through tears of grateful parents as they asked, “What happened?” Then this reply: “I took the wrong turn and got lost. When it got dark I tried to build a shelter and sleep, but it was so cold I couldn’t. I knelt down on a rock and prayed five times last night and again this morning. You taught me if I was ever lost, if I would pray to Heavenly Father and stay on the trail, I would find you. Heavenly Father did answer my prayers.”</p>
+<p data-aid="28792342" id="p5">Elder Richard L. Evans stated: “We ‘shall not pass again this way’—and in these swift-passing scenes and seasons there seems to come—insistently, almost above all else—this compelling cry: Take time for your children. More and more, professional people are telling us that children are shaped and molded at a very early age” (“Take Time for Your Children,” <em>Improvement Era,</em> Nov. 1970, p. 125).</p>
+<p data-aid="28792343" id="p6">In the fast-paced life that most of us lead, the simple concern of parents finding sufficient time to do the things they want to do is often a big problem. As a general rule, all parents have a desire to be good parents and are aware that within the home environment children are provided the best opportunity to be taught gospel principles and gospel understanding. The risen Lord, while visiting the Nephites, referred to the words of Isaiah, “And all thy children shall be taught of the Lord; and great shall be the peace of thy children” (<a class="scripture-ref" href="/study/scriptures/bofm/3-ne/22?lang=eng&amp;id=p13#p13">3 Ne. 22:13</a>).</p>
+<p data-aid="28792344" id="p7">A few weeks ago, while attending a stake conference in the Philippines, <span class="page-break" data-page="29"></span>where I currently live, I listened to eleven-year-old Joseph stand at the pulpit with childlike faith and express the following: “My sister got a toothache. I told her, ‘Get Dad to give you a blessing.’ He did, and it went away. My parents taught me to pray when I was a child. I said things that were funny, but I know Heavenly Father heard me. We always read the scriptures when I was young. I didn’t understand then, but I do now.”</p>
+<p data-aid="28792345" id="p8">We cannot overemphasize the importance of parenthood and the family. Some Latter-day Saint families are what we refer to as the “traditional family,” consisting of parents and children all together in a permanent relationship, with both mother and father sharing in the responsibility of caring for children. Others have witnessed the loss of one of the parents and become one of the many single-parent families. I am one who grew up in a single-parent home. My father lost his life as a result of a construction accident when I was two years old, leaving my mother with seven children to raise. Even in single-parent families, the family continues on, for families are forever. Perhaps few human challenges are greater than that of being good parents. Yes, even with the best intentions, conscientious, good parents sometimes experience feelings of despair, failure, and hurt when children do not make right choices and turn out the way we would like. Even in those circumstances it is so important for parents to love, pray for, and never give up hope for a son or daughter who may have strayed or brought disappointment. Elder Howard W. Hunter stated: “The responsibilities of parenthood are of the greatest importance. The results of our efforts will have eternal consequences for us and the boys and girls we raise. Anyone who becomes a parent is under strict obligation to protect and love his children and assist them to return to their Heavenly Father” (in Conference Report, Oct. 1983, <a class="cross-ref" href="/study/general-conference/1983/10/parents-concern-for-children?lang=eng&amp;id=p19#p19">p. 93</a>; or <em>Ensign,</em> Nov. 1983, p. 65).</p>
+<p data-aid="28792346" id="p9">Parents should be the master teachers of their children. The Church will assist parents in their teaching and training—but only assist. The Church cannot be a substitute for parental responsibility. Elder Richard L. Evans said the home “is also the source of our personal lives, and in a sense the determiner of our everlasting lives. And so our plea is for parents to take the time it takes to draw near to the children God has given them. Let there be love at home. Let there be tenderness and teaching and caring for and not a shifting of responsibility onto others. God grant that we may never be too busy to do the things that matter most, for ‘Home makes the man’” (in <em>Richard Evans’ Quote Book</em> [Salt Lake City: Publishers Press, 1971], p. 21).</p>
+<p data-aid="28792347" id="p10">As we bear this great responsibility of parenthood, may I share with you, in the spirit of trying to be helpful, a few thoughts that parents might use to strengthen their families against worldly temptations and to bring the love, unity, and success that all desire.</p>
+<ol class="decimal" start="1">
+<li data-marker="1.">
+<p data-aid="28792348" id="p11"><em>Start early.</em> “Columnist Sydney Harris was once asked by an anxious parent, ‘How can I get my 16-year-old son to mind me?’ He answered simply, ‘Shrink him down to six months and start over, differently.’</p>
+<p data-aid="147893997" id="p23">“This may not be encouraging advice to those with problem teenagers, but to those just starting on the adventure of parenthood, it may serve as a reminder that love and training cannot be postponed” (Jon M. Taylor, “Fortify Your Children against Temptation,” <em>Ensign,</em> Oct. 1972, p. 9). In a revelation given through the Prophet Joseph Smith, the Lord explained that all children are innocent before God because of the redemption of Christ (see <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/93?lang=eng&amp;id=p38#p38">D&amp;C 93:38</a>). He further said, “But I have commanded you to bring up your children in light and truth” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/93?lang=eng&amp;id=p40#p40">D&amp;C 93:40</a>).</p>
+</li>
+<li data-marker="2.">
+<p data-aid="28792349" id="p12"><em>Communicate effectively.</em> Parents should spend a great deal of time listening, not just telling. This listening should be done with an open mind and heart. When children feel they can talk freely about their feelings, problems, and successes, wonderful relationships develop between parents and children.</p>
+</li>
+<li data-marker="3.">
+<p data-aid="28792350" id="p13"><em>Enthrone love and unity.</em> It is important to make your children aware of your love and feelings. This can be done by a hundred little acts and gestures, such as tucking children into bed at night after listening to their prayers, offering a comforting arm or ear even though he or she may not be hurt very badly. Encourage children to support each other through attendance at ball games and concerts where a family member is participating.</p>
+</li>
+<li data-marker="4.">
+<p data-aid="28792351" id="p14"><em>Do things together.</em> Vacations and recreational activities, also family work projects, give parents a good opportunity to teach the importance of developing a good work ethic. Doing things together gives a child and parent an opportunity to share their attention in a common objective.</p>
+</li>
+<li data-marker="5.">
+<p data-aid="28792352" id="p15"><em>Provide opportunities to learn how to be independent and responsible.</em> Teach children how to make their own decisions, even if it involves their failing once in a while. We need to help children come to an understanding such as Lehi taught, “knowing good from evil; to act for themselves and not to be acted upon” (<a class="scripture-ref" href="/study/scriptures/bofm/2-ne/2?lang=eng&amp;id=p26#p26">2 Ne. 2:26</a>).</p>
+</li>
+<li data-marker="6.">
+<p data-aid="28792353" id="p16"><em>Discipline with love.</em> “‘Discipline’ and ‘punishment’ are not synonymous. Punishment suggests hurting, paying someone back for a wrong committed. Discipline implies an action directed toward a goal … of helping the recipient to improve himself” (William E. Homan, “How to Be a Better Parent,” <em>Reader’s Digest,</em> Oct. 1969, p. 188). Discipline should always be with love.</p>
+</li>
+<li data-marker="7.">
+<p data-aid="28792354" id="p17"><em>Service.</em> In his great farewell address, King Benjamin taught, “When ye are in the service of your fellow beings ye are only in the service of your God” (<a class="scripture-ref" href="/study/scriptures/bofm/mosiah/2?lang=eng&amp;id=p17#p17">Mosiah 2:17</a>). There are few rewards in life that bring greater feelings of satisfaction, <span class="page-break" data-page="30"></span>joy, and peace than when one gives meaningful service to a fellow being standing in need.</p>
+</li>
+<li data-marker="8.">
+<p data-aid="28792355" id="p18"><em>The last and most important is to establish a “house of God.”</em> The instruction the Lord gave the Prophet Joseph Smith in the 88th section of the Doctrine and Covenants referred to building a temple. Yet this verse of scripture also beautifully describes the type of home we ought to have:</p>
+<p data-aid="147893998" id="p24">“Organize yourselves; prepare every needful thing; and establish a house, even a house of prayer, a house of fasting, a house of faith, a house of learning, a house of glory, a house of order, a house of God” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/88?lang=eng&amp;id=p119#p119">D&amp;C 88:119</a>).</p>
+</li>
+</ol>
+<p data-aid="28792356" id="p19">It is not easy for children to stay clean and pure in today’s world. There are times when it becomes hard for them to tell right from wrong. We need to teach our children, as Alma taught his son Corianton, “Wickedness never was happiness” (<a class="scripture-ref" href="/study/scriptures/bofm/alma/41?lang=eng&amp;id=p10#p10">Alma 41:10</a>). Teach them to stay on the Lord’s side of the line. Hold family home evening regularly. Hold family prayer twice a day, if possible. Teach them to love the scriptures and how to experience the sweet answer to individual prayer. Teach them to understand and recognize how the Holy Ghost communicates with us through promptings, thoughts, impressions, and feelings. Teach the sacred significance of the atoning sacrifice of our Savior, Jesus Christ.</p>
+<p data-aid="28792357" id="p20">Elder Boyd K. Packer has said, “Teach our young people to bear testimony—to bear testimony that Jesus is the Christ, that Joseph Smith is a prophet of God, that the Book of Mormon is true, that we lived before we came here, that Christ died to redeem us, and that he is the Son of God” (<em>Let Not Your Heart Be Troubled</em> [Salt Lake City: Bookcraft, 1991], p. 154).</p>
+<p data-aid="28792358" id="p21">Yes, “the best thing to spend on children is your time” (Arnold Glasow, in <em>Richard Evans’ Quote Book,</em> p. 18).</p>
+<p data-aid="28792359" id="p22">That all who are parents might be successful in convincing their children that true joy and happiness come from living the gospel of Jesus Christ, and that parents might find joy and fulfillment in their efforts and sacred role, is my prayer, in the name of Jesus Christ, amen.</p>
+</div>]]></description>
       <guid isPermaLink="false">/general-conference/1993/10/take-time-for-your-children</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/october-1993-general-conference/1993-10-2040-elder-ben-b-banks-64k-eng.mp3" length="5597864" type="audio/mpeg"/>
-      <pubDate>Sat, 02 Oct 1993 14:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/7602db0a32e711ec89b6eeeeac1e02ba4931f0cb-32k-en.mp3" length="3006673" type="audio/mpeg"/>
+      <pubDate>Sat, 02 Oct 1993 14:00:00 -0600</pubDate>
+      <itunes:author>Ben B. Banks</itunes:author>
     </item>
     <item>
       <title>“Feed My Sheep”</title>
-      <link>http://www.lds.org/general-conference/1999/10/feed-my-sheep?lang=eng</link>
-      <description>I believe that every active member of the Church knows a lost sheep who needs the attention and love of a caring shepherd.</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/1999/10/feed-my-sheep" schema-version="1" doc-id="general-conference_99265_000_005" doc-version="2" hash="uSs79Q">
-  
-  <div class="heading" uri="/general-conference/1999/10/feed-my-sheep.head">
-    <h1 class="title" pid="Sm8TlkCB9UGDX17HrQKwcA" hash="pjx3IA">“Feed My Sheep”</h1>
-    <p class="authorName" pid="UBeTbNxhf0KctQd_mcs9EA" hash="8r4xZA">Ben B. Banks</p>
-    <p class="kicker" pid="mCHmNNOf3ESunsaDafdgnw" hash="a4n5hA">I believe that every active member of the Church knows a lost sheep who needs the attention and love of a caring shepherd.</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/1999/10/feed-my-sheep.t1">
-      <img src="ensignlp.nfo-o-ed3.jpg" alt="Elder Ben B. Banks" pid="H0y_XoyJ30OGxFQAFcjUXA" hash="ZsYhbQ" />
-      <p class="para" uri="/general-conference/1999/10/feed-my-sheep.p1" pid="5v59IQxQW0GCBnhRMWsYOQ" hash="gB-TRQ">Several years ago my wife, Susan, and I had the opportunity to tour the New Zealand Christchurch Mission with President and Sister Melvin Tagg. President Tagg suggested as part of the mission tour we include a preparation day and take a bus trip to see the beautiful Milford Sound. Part of the trip involved stopping at several beautiful scenic sites along the way. At one of those stops, as we walked back to the bus, I became curious about a group of passengers standing in a circle on the road taking photographs. As I peered over the people, I saw in the circle a frightened little baby lamb on wobbly legs. It appeared to be no more than a few hours old. I have seen a lot of sheep in my life since my father-in-law was in the sheep business. Consequently, I had no interest in taking a photograph of a solitary lamb, so I boarded the bus and waited.</p>
-      <p class="para" uri="/general-conference/1999/10/feed-my-sheep.p2" pid="dTXKOSbQ3ECppRuQW3_m9Q" hash="_BeSiQ">After all the passengers finally boarded the bus, the driver picked up the frightened little lamb in his arms, held it tenderly against his chest, and brought it on the bus. He sat down, closed the door, picked up his microphone, and said to us: “Undoubtedly a band of sheep has gone through here this morning, and this little lamb has strayed. Perhaps if we take it with us, we might find the band of sheep farther up the road and return this baby lamb to its mother.”</p>
-      <p class="para" uri="/general-conference/1999/10/feed-my-sheep.p3" pid="jfbkr6bg5EmPh_bkgrUedQ" hash="8k_JDw">We drove through several kilometers of beautiful forests and finally came to a beautiful meadow of tall, flowing grass. Sure enough, there in the meadow was a band of sheep feeding. The bus driver stopped the bus and excused himself. We all thought he would put the lamb down on the side of the road and come back, but he didn’t. With the lamb in his arms, he carefully and quietly walked out through the grass toward the band of sheep. When he got as close as he could without disturbing them, he gently put the lamb down and then remained in the field to make sure the baby lamb returned to the fold.</p>
-      <p class="para" uri="/general-conference/1999/10/feed-my-sheep.p4" pid="pKqKUwfJ70yCISklRsO_4g" hash="iiTPhw">As he returned to the bus, he once again picked up his microphone and said, “Oh, can’t you hear that mother sheep saying, ‘Oh, thank you, thank you, thank you for bringing my lost lamb back home to me!’”</p>
-      <p class="para" uri="/general-conference/1999/10/feed-my-sheep.p5" pid="fEAbC8d6r0meAoCzgmrT-w" hash="5tdwRg">As I think of this wonderful teaching moment provided by the bus driver, my thoughts turn to the parable the Lord gave us of the lost sheep:</p>
-      <p class="para" uri="/general-conference/1999/10/feed-my-sheep.p6" pid="g9wbjcLGKE6_JTc2Az4TNQ" hash="rpCw4Q">“Then drew near unto him all the publicans and sinners for to hear him.</p>
-      <p class="para" uri="/general-conference/1999/10/feed-my-sheep.p7" pid="hjBRn6MHxkezkKMSCvRyQQ" hash="uGu2ng">“And the Pharisees and scribes murmured, saying, This man receiveth sinners, and eateth with them.</p>
-      <p class="para" uri="/general-conference/1999/10/feed-my-sheep.p8" pid="aVyh7r3KlU23VMNmpIgLVQ" hash="vrgJuQ">“And he spake this parable unto them, saying,</p>
-      <p class="para" uri="/general-conference/1999/10/feed-my-sheep.p9" pid="7LfpinkaQ06E2eh9uP91Sw" hash="DUMZIw">“What man of you, having an hundred sheep, if he lose one of them, doth not leave the ninety and nine in the wilderness, and go after that which is lost, until he find it?</p>
-      <p class="para" uri="/general-conference/1999/10/feed-my-sheep.p10" pid="p-6ZdfAcnki__sd0fjfr6A" hash="EGEJwA">“And when he hath found it, he layeth it on his shoulders, rejoicing.</p>
-      <p class="para" uri="/general-conference/1999/10/feed-my-sheep.p11" pid="InoNhVm9sEaeYlBi_ig2vA" hash="ggfK2g">“And when he cometh home, he calleth together his friends and neighbours, saying unto them, Rejoice with me; for I have found my sheep which was lost.</p>
-      <p class="para" uri="/general-conference/1999/10/feed-my-sheep.p12" pid="fHM3BiTa4ke9RIRbNT_vNg" hash="79OxKA">“I say unto you, that likewise joy shall be in heaven over one sinner that repenteth, more than over ninety and nine just persons, which need no repentance” (<a href="/scriptures/nt/luke/15.1-7" class="scriptureRef">Luke 15:1–7</a>).</p>
-      <p class="para" uri="/general-conference/1999/10/feed-my-sheep.p13" pid="7y2IPp6L4kayz4q7dtDErA" hash="ZNCK_w">Our prophet today, President Gordon B. Hinckley, likewise shares with us his concern about lost sheep:</p>
-      <p class="para" uri="/general-conference/1999/10/feed-my-sheep.p14" pid="yBrZ8yXPZU-9qky6kMJQ4Q" hash="I3g9wg">“There are so many young people who wander aimlessly and walk the tragic trail of drugs, gangs, immorality, and the whole brood of ills that accompany these things. There are widows who long for friendly voices and that spirit of anxious concern which speaks of love. There are those who were once warm in the faith, but whose faith has grown cold. Many of them wish to come back but do not know quite how to do it. They need friendly hands reaching out to them. With a little effort, many of them can be brought back to feast again at the table of the Lord.</p>
-      <p class="para" uri="/general-conference/1999/10/feed-my-sheep.p15" pid="GEKRO02lxUaiq_vxYbl-EQ" hash="3cdbkw">“My brethren and sisters, I would hope, I would pray, that each of us … would resolve to seek those who need help, who are in desperate and difficult circumstances, and lift them in the spirit of love into the embrace of the Church, where strong hands and loving hearts will warm them, comfort them, sustain them, and put them on the way of happy and productive lives” (“Reach with a Rescuing Hand,” <span class="emphasis">Ensign,</span> Nov. 1996, 86).</p>
-      <p class="para" uri="/general-conference/1999/10/feed-my-sheep.p16" pid="CZJJ37IWQkSV1JTg_QsOIw" hash="vVXgGw">In light of our prophet’s concern, might we ask ourselves, “Why is it that some who were once warm in the faith have grown cold in the faith?”</p>
-      <p class="para" uri="/general-conference/1999/10/feed-my-sheep.p17" pid="V9oPUXsRXUGihQp1LxHdtA" hash="EoLzuw">If we are to succeed in the prophetic mandate to perfect the Saints, we must also succeed in our efforts to strengthen those who have grown cold in their faith. To begin this endeavor, it would be well for us to know the feelings and reasons why they do not attend meetings and participate in the fellowship of the Saints.</p>
-      <p class="para" uri="/general-conference/1999/10/feed-my-sheep.p18" pid="QHd4FWcfLku8V9LYHUtBMA" hash="R-ZwZQ">Most active members believe that less-active members behave differently because they don’t believe the Church’s doctrine. A study by the Church’s Research Information Division does not support this assumption. It shows that almost all less-active members interviewed believe that God exists, that Jesus is the Christ, that Joseph Smith was a prophet, and that the Church is true.</p>
-      <div class="figure" uri="/general-conference/1999/10/feed-my-sheep.f2">
-	<p pid="bp9n21DrUUGt_XneMijhzg" hash="ZXmnXw">As part of another study, a group of active members who previously had been less active were asked why they did not attend church. The most common reasons given were:</p>
-	<ul class="bullet">
-	  <li pid="IPqdrTO5xEmrJeqCJngEFQ" hash="dDaxQQ">
-          <span class="label">•</span>
-          <p pid="6lsiJAUE-kSDSYVu7nfkQA" hash="uxNo3g">Feelings of unworthiness.</p>
-        </li>
-	  <li pid="TxjPKwOQEUaAYeTotuXXRw" hash="AIveXg">
-          <span class="label">•</span>
-          <p pid="cJkWH6P4C0u6prsBLK4DqA" hash="kccw5g">Personal or family problems.</p>
-        </li>
-	  <li pid="0da4F88gZkujtmewTYSomw" hash="CPz0ng">
-          <span class="label">•</span>
-          <p pid="9-1aE_NFEUqx6mC0-eY6Zg" hash="Al-Qyg">Parents or spouse were less active.</p>
-        </li>
-	  <li pid="HuLBAzqsz0-SmEx0lsCP1w" hash="_9tRpA">
-          <span class="label">•</span>
-          <p pid="rBJEaesrk0Gksy2QA-0hLg" hash="2wQgBw">Teenage rebelliousness or laziness.</p>
-        </li>
-	  <li pid="Q6ePZagIIkuIoa_77rqB2Q" hash="c005dg">
-          <span class="label">•</span>
-          <p pid="brEGT7rf5EG7gXmuuIgF9A" hash="xylQ5g">Conflicts with work schedules.</p>
-        </li>
-	  <li pid="qndXdmUFakefVGDFRdt7eA" hash="xUeIOg">
-          <span class="label">•</span>
-          <p pid="M9wd2MW3kk6-mvcwd7nL6Q" hash="RC1pEg">Church too far away, lacked transportation.</p>
-        </li>
-	</ul>
-      </div>
-      <div class="figure" uri="/general-conference/1999/10/feed-my-sheep.f3">
-	<p pid="hL0KlkTttEO_x2sYyUZhEA" hash="I9HDOw">They were then asked what had influenced them to return to activity in the Church. The most common answers were:</p>
-	<ul class="bullet">
-	  <li pid="If4dmlTagUSfEY0jcshZfA" hash="YZ-T6w">
-          <span class="label">•</span>
-          <p pid="HJg-6jL-DEuGNpknXABJFQ" hash="31zy3A">Faced with crisis in life.</p>
-        </li>
-	  <li pid="tnEX5CefikWlzBkni1_oiA" hash="NWPT5A">
-          <span class="label">•</span>
-          <p pid="qw5dvkNgaESl83kQGRNohA" hash="EBYXkA">Overcame personal problems.</p>
-        </li>
-	  <li pid="p_lfBkO7ekCpd653v-ZNVg" hash="2J4jnw">
-          <span class="label">•</span>
-          <p pid="KtIgDmbxqkCE7F4Rqcu_rg" hash="ecyY0Q">The example of a spouse or girlfriend/boyfriend.</p>
-        </li>
-	  <li pid="SAnZJLpQKEacIrmTrSHSww" hash="c-5b5w">
-          <span class="label">•</span>
-          <p pid="or_3UK_wqES2VDndwSBUSg" hash="X1aq2w">Influence of family members.</p>
-        </li>
-	  <li pid="n731sytnzEqXkobxCCCJOA" hash="wORWKg">
-          <span class="label">•</span>
-          <p pid="_QjFuD7ilEqJCdZYW5bHhA" hash="WKG5Dw">Wanted the gospel influence for family.</p>
-        </li>
-	  <li pid="aKUrFtApUUek2AZB5d3rKQ" hash="B_zwiA">
-          <span class="label">•</span>
-          <p pid="cAKPbG44IEGAnwJzg7H3gQ" hash="4FKRAA">Fellowshipping from ward members, moved to a new ward where people cared about them.</p>
-        </li>
-	</ul>
-      </div>
-      <p class="para" uri="/general-conference/1999/10/feed-my-sheep.p19" pid="wb0WOxsxFk6C5LBHpD_SkA" hash="mfrPtg">(See Research Information Division comparison, Sept. 1999.)</p>
-      <p class="para" uri="/general-conference/1999/10/feed-my-sheep.p20" pid="jMlJTGr7aUmPwNxxBSlVIg" hash="a4n5hA1">I believe that every active member of the Church knows a lost sheep who needs the attention and love of a caring shepherd.</p>
-      <p class="para" uri="/general-conference/1999/10/feed-my-sheep.p21" pid="cDp71MmYg0SFDXJwuJh4bA" hash="NTQ_QA">President Hinckley has told us what every new convert needs to remain active in the Church: a friend, a responsibility, and continued nourishing by the good word of God. The lost sheep need the exact same care and concern to help them back to the fold.</p>
-      <p class="para" uri="/general-conference/1999/10/feed-my-sheep.p22" pid="DxReYTV7l0uQI5wfxZiZIg" hash="-FtMrA">I am acquainted with a family who lost a son on a camping trip. When initial efforts failed to find him, the call for help went out, and hundreds responded to the call until the boy was safely back in the arms of his mother and father. I plead this morning that we will all have that same kind of genuine care and love to do all we can to bring back those precious sons and daughters who are lost to Church activity.</p>
-      <p class="para" uri="/general-conference/1999/10/feed-my-sheep.p23" pid="FaVxqBVCpEKAhKnuNLloZw" hash="MQcLzQ">The challenge before us is great. It will require us to exercise increased faith, energy, and commitment if we are to reach these brothers and sisters. But we must do it. The Lord is counting on us to do it.</p>
-      <p class="para" uri="/general-conference/1999/10/feed-my-sheep.p24" pid="3b0MV-2FmEqVhSyHuoGX2w" hash="T6bzEg">We must remember that change occurs slowly. We all need to have patience, offer fellowship and friendship, learn to listen and love, and be careful not to judge.</p>
-      <p class="para" uri="/general-conference/1999/10/feed-my-sheep.p25" pid="jbeLtVeSH0OK6-z4vZHjyg" hash="6fbWfQ">In every ward and branch there are good, honest men and women. Many don’t know how to come back to church. There are good fathers and mothers among them. Many have one thing in common: they are not the spiritual leaders in their homes. When men and women of faith visit these individuals and become their friends and love them and teach them the gospel, I believe they and their families will come back.</p>
-      <p class="para" uri="/general-conference/1999/10/feed-my-sheep.p26" pid="NyRnJkEgwkCEs-jJyIqHAQ" hash="rAwAYg">For the next few minutes I would like to talk to those who have wandered away from the fold. I am hopeful this morning that perhaps a few of you who are not fully active in the Church may be listening to this session of conference. You have in many instances formed new associations and no longer keep Church standards. Many of your children tread in your paths and follow your example. Children are not only largely dependent on their parents for physical and emotional support but for spiritual support as well.</p>
-      <div class="poetry" uri="/general-conference/1999/10/feed-my-sheep.f4">
-        <div class="stanza">
-          <p class="line" pid="qNnxa0DdJEW4UlfCsnPwag" hash="BAvGZA">
-            <span class="emphasis">Twas a sheep not a lamb that strayed away</span>
-          </p>
-          <p class="line" pid="qgrSNHWzHkKSIdqg-DWhSQ" hash="F526Iw">
-            <span class="emphasis">In the parable Jesus told,</span>
-          </p>
-          <p class="line" pid="Hlrj2tEj1k25ITYeeRhfpA" hash="Y2Lcsg">
-            <span class="emphasis">A grown-up sheep that strayed away</span>
-          </p>
-          <p class="line" pid="uDad1FXyuE6p8X6LY3E1HA" hash="u8wjfw">
-            <span class="emphasis">From the ninety and nine in the fold.</span>
-          </p>
-        </div>
-        <div class="stanza">
-          <p class="line" pid="d7VI2CrowU6fSG3iXQDhuQ" hash="Ae5wTg">
-            <span class="emphasis">And why for the sheep should we seek</span>
-          </p>
-          <p class="line" pid="7VflmvVio0irdkIorBKyJw" hash="0dLgaw">
-            <span class="emphasis">And earnestly hope and pray?</span>
-          </p>
-          <p class="line" pid="Vkj_fLWQvESfy8kBqHXnpg" hash="aGVUiw">
-            <span class="emphasis">Because there is danger when sheep go wrong;</span>
-          </p>
-          <p class="line" pid="BMPJjyISD0OPtKy6d5WaTQ" hash="nCmKFA">
-            <span class="emphasis">They lead the lambs astray.</span>
-          </p>
-        </div>
-        <div class="stanza">
-          <p class="line" pid="z2MNSLNiykqOxhhO1mQe0A" hash="jhF92Q">
-            <span class="emphasis">Lambs will follow the sheep, you know,</span>
-          </p>
-          <p class="line" pid="ir8uR0mLFECi-DR-xJnLEQ" hash="1RHe9A">
-            <span class="emphasis">Wherever the sheep may stray.</span>
-          </p>
-          <p class="line" pid="e-Vl44fEc0WsJvPbAd399Q" hash="dvcNNw">
-            <span class="emphasis">When sheep go wrong, it won’t take long</span>
-          </p>
-          <p class="line" pid="7zLEeRuLMkW_x0FZMrZf6g" hash="dMOz8A">
-            <span class="emphasis">Til the lambs are as wrong as they.</span>
-          </p>
-        </div>
-        <div class="stanza">
-          <p class="line" pid="MCzq5V0Zx0aCEjblELgXlA" hash="YHAldg">
-            <span class="emphasis">And so with the sheep we earnestly plead</span>
-          </p>
-          <p class="line" pid="ZfcKCHXY6kGHCQ9tmSgYyA" hash="xNMuaA">
-            <span class="emphasis">For the sake of the lambs today,</span>
-          </p>
-          <p class="line" pid="fAyf8CKl50alhxv7c2_3mQ" hash="EF-0Pw">
-            <span class="emphasis">For when sheep are lost, what a terrible cost</span>
-          </p>
-          <p class="line" pid="RZbRr7lxskK8OEaaRO4SYg" hash="lrYZZg">
-            <span class="emphasis">The lambs will have to pay!</span>
-          </p>
-        </div>
-      </div>
-      <p class="para" uri="/general-conference/1999/10/feed-my-sheep.p27" pid="jtQv-1-oMEW1do4-ZAVqRQ" hash="Zc5xZA">The Lord said, “My sheep hear my voice” (<a href="/scriptures/nt/john/10.27" class="scriptureRef">John 10:27</a>). Likewise, your children respond to your voice. No one can effectively take your place as father and mother. The story is told of “the six-year-old who got lost from his mother in a large supermarket [and] began to call frantically, ‘Martha, Martha.’ When the mother was found and they were reunited, she said, ‘Honey, you should not call me Martha; I am “Mother” to you,’ to which the little fellow rejoined, ‘Yes, I know, but the store was full of mothers and I wanted mine’” (Spencer W. Kimball, <span class="emphasis">Faith Precedes the Miracle</span> [1972], 117).</p>
-      <p class="para" uri="/general-conference/1999/10/feed-my-sheep.p28" pid="Lhby7EYoOUiiwfEl9G1ntg" hash="MxUc-A">What a blessing it would be to your family if you would harmonize your life with the gospel. The decision to change your life and return to activity and come unto Christ is the most important decision you could make in this life.</p>
-      <p class="para" uri="/general-conference/1999/10/feed-my-sheep.p29" pid="lmw1IYJIPkuBZhvT3JnXxw" hash="_UAWXA">In conclusion, a final word to those who shepherd the flock. The Savior Himself in a revelation to the Prophet Joseph Smith tells us in very personal terms how valuable each soul is:</p>
-      <p class="para" uri="/general-conference/1999/10/feed-my-sheep.p30" pid="YV37ptQLhUCnoL-AuVPG5A" hash="q4aTzw">“Remember the worth of souls is great in the sight of God;</p>
-      <p class="para" uri="/general-conference/1999/10/feed-my-sheep.p31" pid="NdKSqR5Am0CbdNgH71_fbg" hash="ACNDug">“For, behold, the Lord your Redeemer suffered death in the flesh; wherefore he suffered the pain of all men, that all men might repent and come unto him.</p>
-      <p class="para" uri="/general-conference/1999/10/feed-my-sheep.p32" pid="hvt5yn49OUeOUZsOv8mH_g" hash="YbpMog">“And he hath risen again from the dead, that he might bring all men unto him, on conditions of repentance.</p>
-      <p class="para" uri="/general-conference/1999/10/feed-my-sheep.p33" pid="zBGgpBcWhkimFArsIHEBpw" hash="59I36A">“And how great is his joy in the soul that repenteth!</p>
-      <p class="para" uri="/general-conference/1999/10/feed-my-sheep.p34" pid="S1Ekh5byFECPtRfPhwNa7A" hash="xdgxeg">“Wherefore, you are called to cry repentance unto this people.</p>
-      <p class="para" uri="/general-conference/1999/10/feed-my-sheep.p35" pid="i88AzJfiJ0uuu5uGul1b3A" hash="rEiSpQ">“And if it so be that you should labor all your days in crying repentance unto this people, and bring, save it be one soul unto me, how great shall be your joy with him in the kingdom of my Father!” (<a href="/scriptures/dc-testament/dc/18.10-15" class="scriptureRef">D&amp;C 18:10–15</a>).</p>
-      <p class="para" uri="/general-conference/1999/10/feed-my-sheep.p36" pid="qUV1WOu7RkyaH7zLI1WKmw" hash="t3NqLw">The Good Shepherd willingly gave His life for His sheep, for you and me, yes, for all of us, that we might live eternally with our Father in Heaven. I pray that we will all follow the admonition our Savior Jesus Christ gave to Peter three times: “Feed my lambs. … Feed my sheep. … Feed my sheep” (<a href="/scriptures/nt/john/21.15-17" class="scriptureRef">John 21:15–17</a>). In the name of Jesus Christ, amen.</p>
-    </div>
-  </div>
-</div>]]></content:encoded>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/1999/10/feed-my-sheep?lang=eng</link>
+      <description><![CDATA[<header>
+<span class="page-break" data-page="9"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/968c4ee5f996695e91b1daa5b6703377aea9a16b/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/968c4ee5f996695e91b1daa5b6703377aea9a16b/full/%21192%2C/0/default" data-video-title="Feed My Sheep" data-video-description="I believe that every active member of the Church knows a lost sheep who needs the attention and love of a caring shepherd." data-video-id="2245735330001" data-ip="Download and Streaming                            " data-duration="679412" data-assetId="a92cdce2abaeba2d900f077fa36e69c038dd3606" data-ref-id="a92cdce2abaeba2d900f077fa36e69c038dd3606" data-duration-string="11:19" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/2245735330001.m3u8" type="application/vnd.apple.mpegurl" data-width="480" data-height="360" data-file-size="31195941"/><source src="https://assets.churchofjesuschrist.org/a92cdce2abaeba2d900f077fa36e69c038dd3606-360p-en.mp4" type="video/mp4" data-width="480" data-height="360" data-file-size="31195941"/></video><h1 data-aid="28810285" id="title1">“Feed My Sheep”</h1>
+<div class="byline">
+<p class="author-name" data-aid="28810286" id="p1">By Elder Ben B. Banks</p>
+<p class="author-role" data-aid="28810287" id="p2">Of the Presidency of the Seventy</p>
+<div class="image-cropper"><img alt="Elder Ben B. Banks" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/b7b041685bda1ac2115cf2e637e164c5c7fc6750/full/%21100%2C/0/default" data-assetId="b7b041685bda1ac2115cf2e637e164c5c7fc6750" srcset="https://www.churchofjesuschrist.org/imgs/b7b041685bda1ac2115cf2e637e164c5c7fc6750/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/b7b041685bda1ac2115cf2e637e164c5c7fc6750/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/b7b041685bda1ac2115cf2e637e164c5c7fc6750/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/b7b041685bda1ac2115cf2e637e164c5c7fc6750/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/b7b041685bda1ac2115cf2e637e164c5c7fc6750/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/b7b041685bda1ac2115cf2e637e164c5c7fc6750/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/b7b041685bda1ac2115cf2e637e164c5c7fc6750/full/%21640%2C/0/default 640w" data-img-id="b7b041685bda1ac2115cf2e637e164c5c7fc6750" data-missing-asset="false" data-width="100" data-height="120" data-aspect-ratio="0.8333333333333334" data-public-title="Banks, Ben B." data-public-description="Official Portrait of Elder Ben B. Banks."/></div>
+</div>
+<p class="kicker" data-aid="28810288" id="kicker1">I believe that every active member of the Church knows a lost sheep who needs the attention and love of a caring shepherd.</p>
+</header>
+<div class="body-block">
+<p data-aid="28810289" id="p3">Several years ago my wife, Susan, and I had the opportunity to tour the New Zealand Christchurch Mission with President and Sister Melvin Tagg. President Tagg suggested that as part of the mission tour we include a preparation day and take a bus trip to see the beautiful Milford Sound. Part of the trip involved stopping at several beautiful scenic sites along the way. At one of those stops, as we walked back to the bus, I became curious about a group of passengers standing in a circle on the road taking photographs. As I peered over the people, I saw in the circle a frightened little baby lamb on wobbly legs. It appeared to be no more than a few hours old. I have seen a lot of sheep in my life, since my father-in-law was in the sheep business. Consequently, I had no interest in taking a photograph of a solitary lamb, so I boarded the bus and waited.</p>
+<p data-aid="28810290" id="p4">After all the passengers finally boarded the bus, the driver picked up the frightened little lamb in his arms, held it tenderly against his chest, and brought it on the bus. He sat down, closed the door, picked up his microphone, and said to us, “Undoubtedly a band of sheep has gone through here this morning, and this little lamb has strayed. Perhaps if we take it with us, we might find the band of sheep farther up the road and return this baby lamb to its mother.”</p>
+<p data-aid="28810291" id="p5">We drove through several kilometers of beautiful forests and finally came to a beautiful meadow of tall, flowing grass. Sure enough, there in the meadow was a band of sheep feeding. The bus driver stopped the bus and excused himself. We all thought he would put the lamb down on the side of the road and come back, but he didn’t. With the lamb in his arms, he carefully and quietly walked out through the grass toward the band of sheep. When he got as close as he could without disturbing them, he gently put the lamb down and then remained in the field to make sure the baby lamb returned to the fold.</p>
+<p data-aid="28810292" id="p6">As he returned to the bus, he once again picked up his microphone and said, “Oh, can’t you hear that mother sheep saying, ‘Oh, thank you, thank you, thank you for bringing my lost lamb back home to me!’”</p>
+<p data-aid="28810293" id="p7">As I think of this wonderful teaching moment provided by the bus driver, my thoughts turn to the parable the Lord gave us of the lost sheep:</p>
+<p data-aid="28810294" id="p8">“Then drew near unto him all the publicans and sinners for to hear him.</p>
+<p data-aid="28810295" id="p9">“And the Pharisees and scribes murmured, saying, This man receiveth sinners, and eateth with them.</p>
+<p data-aid="28810296" id="p10">“And he spake this parable unto them, saying,</p>
+<p data-aid="28810297" id="p11">“What man of you, having an hundred sheep, if he lose one of them, doth not leave the ninety and nine in the wilderness, and go after that which is lost, until he find it?</p>
+<p data-aid="28810298" id="p12">“And when he hath found it, he layeth it on his shoulders, rejoicing.</p>
+<p data-aid="28810299" id="p13">“And when he cometh home, he calleth together his friends and neighbours, saying unto them, Rejoice with me; for I have found my sheep which was lost.</p>
+<p data-aid="28810300" id="p14">“I say unto you, that likewise joy shall be in heaven over one sinner that repenteth, more than over ninety and nine just persons, which need no repentance” (<a class="scripture-ref" href="/study/scriptures/nt/luke/15?lang=eng&amp;id=p1-p7#p1">Luke 15:1–7</a>).</p>
+<p data-aid="28810301" id="p15">Our prophet today, President Gordon B. Hinckley, likewise shares with us his concern about lost sheep:</p>
+<p data-aid="28810302" id="p16">“There are so many young people who wander aimlessly and walk the tragic trail of drugs, gangs, immorality, and the whole brood of ills that accompany these things. There are widows who long for friendly voices and that spirit of anxious concern which speaks of love. There are those who were once warm in the faith, but whose faith has grown cold. Many of them wish to come back but do not know quite how to do it. They need friendly hands reaching out to them. With a little effort, many of them can be brought back to feast again at the table of the Lord.</p>
+<p data-aid="28810303" id="p17">“My brethren and sisters, I would hope, I would pray, that each of us … would resolve to seek those who need help, who are in desperate and difficult circumstances, and lift them in the spirit of love into the embrace of the Church, where strong hands and loving hearts will warm them, comfort them, sustain them, and put them on the way of happy and <span class="page-break" data-page="10"></span>productive lives” (in Conference Report, Oct. 1996, <a class="cross-ref" href="/study/general-conference/1996/10/reach-with-a-rescuing-hand?lang=eng&amp;id=p26-p27#p26">118</a>; or <em>Ensign,</em> Nov. 1996, 86).</p>
+<p data-aid="28810304" id="p18">In light of our prophet’s concern, might we ask ourselves, “Why is it that some who were once warm in the faith have grown cold in the faith?”</p>
+<p data-aid="28810305" id="p19">If we are to succeed in the prophetic mandate to perfect the Saints, we must also succeed in our efforts to strengthen those who have grown cold in their faith. To begin this endeavor, it would be well for us to know the feelings and reasons why they do not attend meetings and participate in the fellowship of the Saints.</p>
+<p data-aid="28810306" id="p20">Most active members believe that less-active members behave differently because they don’t believe the Church’s doctrine. A study by the Church’s Research Information Division does not support this assumption. It shows that almost all less-active members interviewed believe that God exists, that Jesus is the Christ, that Joseph Smith was a prophet, and that the Church is true.</p>
+<p data-aid="28810307" id="p21">As part of another study, a group of active members who previously had been less active were asked why they did not attend church. The most common reasons given were:</p>
+<ul class="bullet">
+<li>
+<p data-aid="28810308" id="p22">Feelings of unworthiness.</p>
+</li>
+<li>
+<p data-aid="28810309" id="p23">Personal or family problems.</p>
+</li>
+<li>
+<p data-aid="28810310" id="p24">Parents or spouse were less active.</p>
+</li>
+<li>
+<p data-aid="28810311" id="p25">Teenage rebelliousness or laziness.</p>
+</li>
+<li>
+<p data-aid="28810312" id="p26">Conflicts with work schedules.</p>
+</li>
+<li>
+<p data-aid="28810313" id="p27">Church too far away, lacked transportation.</p>
+</li>
+</ul>
+<p data-aid="28810314" id="p28">They were then asked what had influenced them to return to activity in the Church. The most common answers were:</p>
+<ul class="bullet">
+<li>
+<p data-aid="28810315" id="p29">Faced with crisis in life.</p>
+</li>
+<li>
+<p data-aid="28810316" id="p30">Overcame personal problems.</p>
+</li>
+<li>
+<p data-aid="28810317" id="p31">The example of a spouse, girlfriend, or boyfriend.</p>
+</li>
+<li>
+<p data-aid="28810318" id="p32">Influence of family members.</p>
+</li>
+<li>
+<p data-aid="28810319" id="p33">Wanted the gospel influence for family.</p>
+</li>
+<li>
+<p data-aid="28810320" id="p34">Fellowshipping from ward members, moved to a new ward where people cared about them.</p>
+</li>
+</ul>
+<p data-aid="28810321" id="p35">(See Research Information Division comparison, Sept. 1999.)</p>
+<p data-aid="28810322" id="p36">I believe that every active member of the Church knows a lost sheep who needs the attention and love of a caring shepherd.</p>
+<p data-aid="28810323" id="p37">President Hinckley has told us what every new convert needs to remain active in the Church: a friend, a responsibility, and continued nourishing by the good word of God. The lost sheep need the exact same care and concern to help them back to the fold.</p>
+<p data-aid="28810324" id="p38">I am acquainted with a family who lost a son on a camping trip. When initial efforts failed to find him, the call for help went out, and hundreds responded to the call until the boy was safely back in the arms of his mother and father. I plead this morning that we will all have that same kind of genuine care and love to do all we can to bring back those precious sons and daughters who are lost to Church activity.</p>
+<p data-aid="28810325" id="p39">The challenge before us is great. It will require us to exercise increased faith, energy, and commitment if we are to reach these brothers and sisters. But we must do it. The Lord is counting on us to do it.</p>
+<p data-aid="28810326" id="p40">We must remember that change occurs slowly. We all need to have patience, offer fellowship and friendship, learn to listen and love, and be careful not to judge.</p>
+<p data-aid="28810327" id="p41">In every ward and branch there are good, honest men and women. Many don’t know how to come back to church. There are good fathers and mothers among them. Many have one thing in common: they are not the spiritual leaders in their homes. When men and women of faith visit these individuals and become their friends and love them and teach them the gospel, I believe they and their families will come back.</p>
+<p data-aid="28810328" id="p42">For the next few minutes I would like to talk to those who have wandered away from the fold. I am hopeful this morning that perhaps a few of you who are not fully active in the Church may be listening to this session of conference. You have in many instances formed new associations and no longer keep Church standards. Many of your children tread in your paths and follow your example. Children are not only largely dependent on their parents for physical and emotional support but for spiritual support as well.</p>
+<div class="poetry">
+<div class="stanza">
+<p class="line" data-aid="28810329" id="p43">Twas a sheep not a lamb that strayed away</p>
+<p class="line" data-aid="28810330" id="p44">In the parable Jesus told,</p>
+<p class="line" data-aid="28810331" id="p45">A grown-up sheep that strayed away</p>
+<p class="line" data-aid="28810332" id="p46">From the ninety and nine in the fold.</p>
+</div>
+<div class="stanza">
+<p class="line" data-aid="28810333" id="p47">And why for the sheep should we seek</p>
+<p class="line" data-aid="28810334" id="p48">And earnestly hope and pray?</p>
+<p class="line" data-aid="28810335" id="p49">Because there is danger when sheep go wrong;</p>
+<p class="line" data-aid="28810336" id="p50">They lead the lambs astray.</p>
+</div>
+<div class="stanza">
+<p class="line" data-aid="28810337" id="p51">Lambs will follow the sheep, you know,</p>
+<p class="line" data-aid="28810338" id="p52">Wherever the sheep may stray.</p>
+<p class="line" data-aid="28810339" id="p53">When sheep go wrong, it won’t take long</p>
+<p class="line" data-aid="28810340" id="p54">Til the lambs are as wrong as they.</p>
+</div>
+<div class="stanza">
+<p class="line" data-aid="28810341" id="p55">And so with the sheep we earnestly plead</p>
+<p class="line" data-aid="28810342" id="p56">For the sake of the lambs today,</p>
+<p class="line" data-aid="28810343" id="p57">For when sheep are lost, what a terrible cost</p>
+<p class="line" data-aid="28810344" id="p58">The lambs will have to pay!</p>
+</div>
+<div class="citation-info">
+<p data-aid="150154652" id="p69">[“The Echo,” C. C. Miller, quoted in Hugh B. Brown, <em>The Abundant Life</em> (1965), 166–67]</p>
+</div>
+</div>
+<p data-aid="28810345" id="p59">The Lord said, “My sheep hear my voice” (<a class="scripture-ref" href="/study/scriptures/nt/john/10?lang=eng&amp;id=p27#p27">John 10:27</a>). Likewise, your children respond to your voice. <span class="page-break" data-page="11"></span>No one can effectively take your place as father and mother. The story is told of “the six-year-old who got lost from his mother in a large supermarket [and] began to call frantically, ‘Martha, Martha.’ When the mother was found and they were reunited, she said, ‘Honey, you should not call me Martha; I am “Mother” to you,’ to which the little fellow rejoined, ‘Yes, I know, but the store was full of mothers and I wanted mine’” (Spencer W. Kimball, <em>Faith Precedes the Miracle</em> [1972], 117).</p>
+<p data-aid="28810346" id="p60">What a blessing it would be to your family if you would harmonize your life with the gospel. The decision to change your life and return to activity and come unto Christ is the most important decision you could make in this life.</p>
+<p data-aid="28810347" id="p61">In conclusion, a final word to those who shepherd the flock. The Savior Himself in a revelation to the Prophet Joseph Smith tells us in very personal terms how valuable each soul is:</p>
+<p data-aid="28810348" id="p62">“Remember the worth of souls is great in the sight of God;</p>
+<p data-aid="28810349" id="p63">“For, behold, the Lord your Redeemer suffered death in the flesh; wherefore he suffered the pain of all men, that all men might repent and come unto him.</p>
+<p data-aid="28810350" id="p64">“And he hath risen again from the dead, that he might bring all men unto him, on conditions of repentance.</p>
+<p data-aid="28810351" id="p65">“And how great is his joy in the soul that repenteth!</p>
+<p data-aid="28810352" id="p66">“Wherefore, you are called to cry repentance unto this people.</p>
+<p data-aid="28810353" id="p67">“And if it so be that you should labor all your days in crying repentance unto this people, and bring, save it be one soul unto me, how great shall be your joy with him in the kingdom of my Father!” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/18?lang=eng&amp;id=p10-p15#p10">D&amp;C 18:10–15</a>).</p>
+<p data-aid="28810354" id="p68">The Good Shepherd willingly gave His life for His sheep, for you and me—yes, for all of us, that we might live eternally with our Father in Heaven. I pray that we will all follow the admonition our Savior Jesus Christ gave to Peter three times: “Feed my lambs. … Feed my sheep. … Feed my sheep” (<a class="scripture-ref" href="/study/scriptures/nt/john/21?lang=eng&amp;id=p15-p17#p15">John 21:15–17</a>). In the name of Jesus Christ, amen.</p>
+</div>]]></description>
       <guid isPermaLink="false">/general-conference/1999/10/feed-my-sheep</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/october-1999-general-conference/1999-10-1030-elder-ben-b-banks-64k-eng.mp3" length="5441669" type="audio/mpeg"/>
-      <pubDate>Sat, 02 Oct 1999 10:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/dac8bb0d32d911ec95e0eeeeac1ece45407b72d6-64k-en.mp3" length="5562655" type="audio/mpeg"/>
+      <pubDate>Sat, 02 Oct 1999 10:00:00 -0600</pubDate>
+      <itunes:author>Ben B. Banks</itunes:author>
     </item>
     <item>
       <title>This Road We Call Life</title>
-      <link>http://www.lds.org/general-conference/2002/04/this-road-we-call-life?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2002/04/this-road-we-call-life?lang=eng</link>
       <description>As you stay on the right path, the reward at the end of life’s journey is well worth the moments of adversity you experience along the way.</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/2002/04/this-road-we-call-life" schema-version="1" doc-id="general-conference_PD10029598_000_018" doc-version="2" hash="JE56uA">
-  
-  <div class="heading" uri="/general-conference/2002/04/this-road-we-call-life.head">
-    <h1 class="title" pid="v-PICROTpkqXxEI5oUDUFQ" hash="oUP3Jw">This Road We Call Life</h1>
-    <p class="authorName" pid="oHv2iVXsBkCSPwR9nxgLvw" hash="8r4xZA">Ben B. Banks</p>
-    <p class="kicker" pid="rRXowShKV0O1yvI2OS1GSA" hash="JztF1Q">As you stay on the right path, the reward at the end of life’s journey is well worth the moments of adversity you experience along the way.</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/2002/04/this-road-we-call-life.t1">
-      <img src="ensignlp.nfo-o-ed3.jpg" alt="Elder Ben B. Banks" pid="8d77SkpJdEem21F8u_566Q" hash="ZsYhbQ" />
-      <p class="para" uri="/general-conference/2002/04/this-road-we-call-life.p1" pid="mNjBk3MwhEyEOzTaNLd-HQ" hash="VgFaaQ">Brethren, I am delighted to be with you this evening. I too want to speak specifically with the young men of the Aaronic Priesthood. I love you and care very much about you.</p>
-      <p class="para" uri="/general-conference/2002/04/this-road-we-call-life.p2" pid="x6gHDC_IK0OZ272r1Xt8ew" hash="KE2Qzg">In the new <span class="emphasis">For the Strength of Youth</span> booklet, the First Presidency says to you: “Our beloved young men … we have great confidence in you. You are choice spirits who have come forth in this day when the responsibilities and opportunities, as well as the temptations, are the greatest. You are at the beginning of your journey through this mortal life. Your Heavenly Father wants your life to be joyful and to lead you back into His presence. The decisions you make now will determine much of what will follow during your life and throughout eternity” ([pamphlet, 2001], 2).</p>
-      <p class="para" uri="/general-conference/2002/04/this-road-we-call-life.p3" pid="meu4kBY9bEK6VqED6M13fQ" hash="1oB_0Q">I hope in some small way this evening that you can learn from my nearly 70 years of traveling this road we call life. Your parents or grandparents may have already told you this: “The older you get, the quicker time seems to pass.” It is as though one minute you are 12 with your whole life in front of you, and the next minute you are nearly 70 with an expanding waistline in front of you!</p>
-      <p class="para" uri="/general-conference/2002/04/this-road-we-call-life.p4" pid="_t-34y2K2Ui_3mD56DPQOw" hash="WHX8wQ">It is hard to believe it was nearly 13 years ago when I last spoke in general priesthood meeting. At that time I told the brethren about a journey I made by bicycle with my sons and drew from that experience the importance of preparing well for the journey of life.</p>
-      <p class="para" uri="/general-conference/2002/04/this-road-we-call-life.p5" pid="pLzI5IkRgE-Lyf00iixLpQ" hash="38GwOQ">Today I want to tell you about other journeys I have made and share the lessons I have learned from them.</p>
-      <p class="para" uri="/general-conference/2002/04/this-road-we-call-life.p6" pid="v5q1O0IhTk6QynevTws-Zw" hash="7QHneg">Recently, some members of my family determined it would be fun to bicycle from Bozeman, Montana, to Jackson Hole, Wyoming, in the United States. This 225-mile journey would take us three days, and we would cross the Continental Divide on three occasions. We determined that traveling through the mountain passes with good weather would be a wonderful experience that would help us appreciate God’s creations.</p>
-      <p class="para" uri="/general-conference/2002/04/this-road-we-call-life.p7" pid="jskaFTTumEeNcG6Z5Ht12Q" hash="_zsExA">After careful planning and preparation, two of my sons and my only daughter and I set out on the first day to cycle to our overnight stop in Big Sky, Montana. The morning was perfect, and we expected a delightful journey. However, as we traveled along, dark clouds gathered and brought rain, which eventually became sleet and hail and made us extremely cold and wet and miserable. As we concluded day one of our journey and reached our overnight destination, I was reminded that life can be just like that day. Fortunately, we had prepared for all types of weather conditions; had we not done so, it would have been difficult to complete our journey that first day. At each stage of life’s journey, we should set out full of hope and optimism, but we should be prepared nonetheless to face opposition or hardship at some point.</p>
-      <p class="para" uri="/general-conference/2002/04/this-road-we-call-life.p8" pid="I5S-fKmlckG6ne7RvwaH-Q" hash="lVYCKQ">The patterns you establish in your youth may accompany you throughout the rest of your mortal life. By making the right choices now, you will be able to take the path that will help you endure the coldest and bleakest moments later.</p>
-      <p class="para" uri="/general-conference/2002/04/this-road-we-call-life.p9" pid="dHadAUrsMEC1oNOcLIwDRg" hash="z3L4nw">For example, if you are in the habit of using foul language, the longer you use it, the harder it is to change and stop using it. Better now to choose a different road, one that leads to cleanliness in thought and word and action so that you can enjoy the companionship of the Holy Ghost. Imagine the difficulty of serving a mission and having bad language pop into your mind when you need to have the Spirit with you as your constant companion. If using bad language is a problem for you, now is the time to change.</p>
-      <p class="para" uri="/general-conference/2002/04/this-road-we-call-life.p10" pid="p3CHFcIpGkimDhIrGTW_gg" hash="BU1Ysg">On day two of our trip, we headed to West Yellowstone. Everything was as it should be—the bicycles were running smoothly, our legs rested, as we progressed toward our second destination. It was then that I realized if we are not careful when everything is going just right in life, there can be a temptation to forget our Heavenly Father and give credit to ourselves for our happy state. Don’t make that mistake.</p>
-      <p class="para" uri="/general-conference/2002/04/this-road-we-call-life.p11" pid="lbILalgE_kqvbzyvKgo4CA" hash="AFl7QQ">The Prophet Joseph Smith taught, “Happiness is the object and design of our existence; and will be the end thereof, if we pursue the path that leads to it; and this path is virtue, uprightness, faithfulness, holiness, and keeping all the commandments of God” (<span class="emphasis">Teachings of the Prophet Joseph Smith,</span> sel. Joseph Fielding Smith [1976], 255–56).</p>
-      <p class="para" uri="/general-conference/2002/04/this-road-we-call-life.p12" pid="PohcYmmsC02UHVurAzBD8w" hash="PbYdRQ">The Book of Mormon is replete with accounts of those who were blessed by the Lord and then became boastful of their accomplishments. Eventually in their pride they left the correct path and lost all they had as they fell away from the truth. Make sure you don’t become like the Nephites of old; always remember the true source of your blessings.</p>
-      <p class="para" uri="/general-conference/2002/04/this-road-we-call-life.p13" pid="aRiH9bAXMUSuxcwRLkm3pA" hash="7xZXtQ">On day three of our journey, I learned that even though we may have some uphill struggles in our lives, our attitude will determine how we face them. On that day we crossed the Continental Divide three times, rising from an elevation of 4,800 feet to 8,300 feet. Climbing steep mountain passes on a bike requires the right attitude to get to the right altitude. It’s the same with life. By setting worthwhile goals and keeping your eyes fixed on them, you will learn self-discipline and accomplish much. Yes, there were times when climbing the steep mountain grades was as much as I could bear, but I didn’t give up, because I was fixed in my purpose.</p>
-      <p class="para" uri="/general-conference/2002/04/this-road-we-call-life.p14" pid="CPVpR-VmK0WHZ4Ws11RYQA" hash="y-iRGA">Young men of the Aaronic Priesthood, I urge you to set goals for yourselves, such as completing seminary, serving an honorable mission, graduating from college, and being worthy of a temple marriage. At your age these may seem like very big goals, but if you start climbing now you will be so much better prepared to accomplish them.</p>
-      <p class="para" uri="/general-conference/2002/04/this-road-we-call-life.p15" pid="lYDiAflym0aOpo2cY49TWg" hash="ZushxA">Two years ago Elder Richard G. Scott of the Quorum of the Twelve Apostles and I had the opportunity to go on a canoe trip into the Quetico wilderness area in Ontario, Canada, portaging from lake to lake. As we reached the halfway point across one of the larger lakes, the weather turned very bad, and the once tranquil water turned angry and perilous, tossing our little canoe to and fro.</p>
-      <p class="para" uri="/general-conference/2002/04/this-road-we-call-life.p16" pid="q5L4ll-qMEuSBb1IwmERig" hash="etOq6w">We had a decision to make. Do we try to reach our planned destination, or do we head for the nearest island and wait for the storm to pass? The answer seems obvious now, but at the time it was not an easy decision to make. By carrying on, we might arrive at our planned campsite. By delaying our journey, we would arrive very late and may have to travel in the dark. As we pondered the options, we had the impression to head to the nearest island quickly. As we did so, a much worse-than-anticipated storm rolled by us. Had we elected to continue canoeing, we would have put our lives in great peril.</p>
-      <p class="para" uri="/general-conference/2002/04/this-road-we-call-life.p17" pid="T8UREbJsKES_XCWZg6gp8Q" hash="lopMCQ">Here in mortality we are called upon to make serious decisions, the outcome of which can have a lasting effect upon our spiritual future. I encourage you to always be worthy to seek for the Spirit to help you always choose the right.</p>
-      <p class="para" uri="/general-conference/2002/04/this-road-we-call-life.p18" pid="jkFFEFmhFkanffeCWhL3MA" hash="cjoIMg">In the Book of Mormon, Nephi tells us: “Then are ye in this strait and narrow path which leads to eternal life; yea, ye have entered in by the gate; ye have done according to the commandments of the Father and the Son; and ye have received the Holy Ghost” (<a href="/scriptures/bofm/2-ne/31.18" class="scriptureRef">2 Ne. 31:18</a>).</p>
-      <p class="para" uri="/general-conference/2002/04/this-road-we-call-life.p19" pid="Es5RyR0b10m0yOarCXa6Sg" hash="oJq_Nw">As our family concluded the 225-mile bicycle journey, we learned that no matter how difficult things can become on this road we call life, great happiness is waiting for those who keep the commandments and endure to the end.</p>
-      <p class="para" uri="/general-conference/2002/04/this-road-we-call-life.p20" pid="knsFa7SFO0i5ddLoIUzE4A" hash="1BBLkg">Young men of the Aaronic Priesthood, you have a responsibility to remain firmly focused on your eternal destination. Yes, life’s journeys can have many ups and downs. Yes, there will be days when you will feel the going is tough. But as you stay on the right path, the reward at the end of life’s journey is well worth the moments of adversity you experience along the way.</p>
-      <p class="para" uri="/general-conference/2002/04/this-road-we-call-life.p21" pid="VnEZ2bH3wkCsi2PuA2vkmw" hash="UZOevQ">Again, from the <span class="emphasis">For the Strength of Youth </span>booklet, the First Presidency writes: “May you keep your minds and bodies clean from the sins of the world so you can do the great work that lies before you. We pray that you will be worthy to carry on the responsibilities of building the kingdom of God and preparing the world for the Second Coming of the Savior” (page 3).</p>
-      <p class="para" uri="/general-conference/2002/04/this-road-we-call-life.p22" pid="nP1g4Y5i-UKqlnpO_6LaKg" hash="dgPvfw">My young friends, please know the importance of being wise by following the counsel of our prophets, and happiness will be yours throughout life’s journey.</p>
-      <p class="para" uri="/general-conference/2002/04/this-road-we-call-life.p23" pid="EhtFhtIqdkiUeQLihbUXlw" hash="B6PpLg">Of this I so testify in the name of Jesus Christ, amen.</p>
-    </div>
-  </div>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="42"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/60f58a21b6a4bef57e101ee8089e89ce730593aa/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/60f58a21b6a4bef57e101ee8089e89ce730593aa/full/%21192%2C/0/default" data-video-title="This Road We Call Life" data-video-description="As you stay on the right path, the reward at the end of life’s journey is well worth the moments of adversity you experience along the way." data-video-id="6004131329001" data-ip="Download and Streaming                            " data-duration="645000" data-assetId="78390e40edb7884d420be835719914bd3f3535b4" data-ref-id="78390e40edb7884d420be835719914bd3f3535b4" data-duration-string="10:45" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6004131329001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="131012707"/><source src="https://assets.churchofjesuschrist.org/78390e40edb7884d420be835719914bd3f3535b4-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="24403105"/><source src="https://assets.churchofjesuschrist.org/78390e40edb7884d420be835719914bd3f3535b4-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="46888804"/><source src="https://assets.churchofjesuschrist.org/78390e40edb7884d420be835719914bd3f3535b4-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="131012707"/></video><h1 data-aid="28819654" id="title1">This Road We Call Life</h1>
+<div class="byline">
+<p class="author-name" data-aid="28819655" id="p1">By Elder Ben B. Banks</p>
+<p class="author-role" data-aid="28819656" id="p2">Of the Presidency of the Seventy</p>
+<div class="image-cropper"><img alt="Elder Ben B. Banks" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/b7b041685bda1ac2115cf2e637e164c5c7fc6750/full/%21100%2C/0/default" data-assetId="b7b041685bda1ac2115cf2e637e164c5c7fc6750" srcset="https://www.churchofjesuschrist.org/imgs/b7b041685bda1ac2115cf2e637e164c5c7fc6750/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/b7b041685bda1ac2115cf2e637e164c5c7fc6750/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/b7b041685bda1ac2115cf2e637e164c5c7fc6750/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/b7b041685bda1ac2115cf2e637e164c5c7fc6750/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/b7b041685bda1ac2115cf2e637e164c5c7fc6750/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/b7b041685bda1ac2115cf2e637e164c5c7fc6750/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/b7b041685bda1ac2115cf2e637e164c5c7fc6750/full/%21640%2C/0/default 640w" data-img-id="b7b041685bda1ac2115cf2e637e164c5c7fc6750" data-missing-asset="false" data-width="100" data-height="120" data-aspect-ratio="0.8333333333333334" data-public-title="Banks, Ben B." data-public-description="Official Portrait of Elder Ben B. Banks."/></div>
+</div>
+<p class="kicker" data-aid="28819657" id="kicker1">As you stay on the right path, the reward at the end of life’s journey is well worth the moments of adversity you experience along the way.</p>
+</header>
+<div class="body-block">
+<p data-aid="28819658" id="p3">Brethren, I am delighted to be with you this evening. I too want to speak specifically with the young men of the Aaronic Priesthood. I love you and care very much about you.</p>
+<p data-aid="28819659" id="p4">In the new <em>For the Strength of Youth</em> booklet, the First Presidency says to you: “Our beloved young men … , we have great confidence in you. You are choice spirits who have come forth in this day when the responsibilities and opportunities, as well as the temptations, are the greatest. You are at the beginning of your journey through this mortal life. Your Heavenly Father wants your life to be joyful and to lead you back into His presence. The decisions you make now will determine much of what will follow during your life and throughout eternity” (page 2).</p>
+<p data-aid="28819660" id="p5">I hope in some small way this evening that you can learn from my nearly 70 years of traveling this road we call life. Your parents or grandparents may have already told you this: “The older you get, the quicker time seems to pass.” It is as though one minute you are 12 with your whole life in front of you, and the next minute you are nearly 70 with an expanding waistline in front of you!</p>
+<p data-aid="28819661" id="p6">It is hard to believe it was nearly 13 years ago when I last spoke in general priesthood meeting. At that time I told the brethren about a journey I made by bicycle with my sons and drew from that experience the importance of preparing well for the journey of life.</p>
+<p data-aid="28819662" id="p7">Today I want to tell you about other journeys I have made and share the lessons I have learned from them.</p>
+<p data-aid="28819663" id="p8">Recently, some members of my family determined it would be fun to bicycle from Bozeman, Montana, to Jackson Hole, Wyoming, in the United States. This 225-mile journey would take us three days, and we would cross the Continental Divide on three occasions. We determined that traveling through the mountain passes with good weather would be a wonderful experience that would help us appreciate God’s creations.</p>
+<p data-aid="28819664" id="p9">After careful planning and preparation, two of my sons and my only daughter and I set out on the first day to cycle to our overnight stop in Big Sky, Montana. The morning was perfect, and we expected a delightful journey. However, as we traveled along, dark clouds gathered and brought rain, which eventually became sleet and hail and made us extremely cold and wet and miserable. As we concluded day one of our journey and reached our overnight destination, I was reminded that life can be just like that day. Fortunately, we had prepared for all types of weather conditions; had we not done so, it would have been difficult to complete our journey that first day. At each stage of life’s journey, we should set out full of hope and optimism, but we should be prepared nonetheless to face opposition or hardship at some point.</p>
+<p data-aid="28819665" id="p10">The patterns you establish in your youth may accompany you throughout the rest of your mortal life. By making the right choices now, you will be able to take the path that will help you endure the coldest and bleakest moments later.</p>
+<p data-aid="28819666" id="p11">For example, if you are in the habit of using foul language, the longer you use it, the harder it is to change and stop using it. Better now to choose a different road, one that leads to cleanliness in thought and word and action so that you can enjoy the companionship of the Holy Ghost. Imagine the difficulty of serving a mission and having bad language pop into your mind when you need to have the Spirit with you as your constant companion. If using bad language is a problem for you, now is the time to change.</p>
+<p data-aid="28819667" id="p12">On day two of our trip, we headed to West Yellowstone. Everything was as it should be—the bicycles were running smoothly and our legs were rested as we progressed toward our second destination. It was then that I realized if we are not careful when everything is going just right in life, there can be a temptation to forget our Heavenly Father and give credit to ourselves for our happy state. Don’t make that mistake.</p>
+<p data-aid="28819668" id="p13">The Prophet Joseph Smith taught, “Happiness is the object and design of our existence; and will be the end thereof, if we pursue the path that <span class="page-break" data-page="43"></span>leads to it; and this path is virtue, uprightness, faithfulness, holiness, and keeping all the commandments of God” (<em>Teachings of the Prophet Joseph Smith,</em> sel. Joseph Fielding Smith [1976], 255–56).</p>
+<p data-aid="28819669" id="p14">The Book of Mormon is replete with accounts of those who were blessed by the Lord and then became boastful of their accomplishments. Eventually in their pride they left the correct path and lost all they had as they fell away from the truth. Make sure you don’t become like the Nephites of old; always remember the true source of your blessings.</p>
+<p data-aid="28819670" id="p15">On day three of our journey, I learned that even though we may have some uphill struggles in our lives, our attitude will determine how we face them. On that day we crossed the Continental Divide three times, rising from an elevation of 4,800 feet to 8,300 feet. Climbing steep mountain passes on a bike requires the right attitude to get to the right altitude. It’s the same with life. By setting worthwhile goals and keeping your eyes fixed on them, you will learn self-discipline and accomplish much. Yes, there were times when climbing the steep mountain grades was as much as I could bear, but I didn’t give up, because I was fixed in my purpose.</p>
+<p data-aid="28819671" id="p16">Young men of the Aaronic Priesthood, I urge you to set goals for yourselves, such as completing seminary, serving an honorable mission, graduating from college, and being worthy of a temple marriage. At your age these may seem like very big goals, but if you start climbing now you will be so much better prepared to accomplish them.</p>
+<p data-aid="28819672" id="p17">Two years ago Elder Richard G. Scott of the Quorum of the Twelve Apostles and I had the opportunity to go on a canoe trip into the Quetico wilderness area in Ontario, Canada, portaging from lake to lake. As we reached the halfway point across one of the larger lakes, the weather turned very bad, and the once tranquil water turned angry and perilous, tossing our little canoe to and fro.</p>
+<p data-aid="28819673" id="p18">We had a decision to make. Do we try to reach our planned destination, or do we head for the nearest island and wait for the storm to pass? The answer seems obvious now, but at the time it was not an easy decision to make. By carrying on, we might arrive at our planned campsite. By delaying our journey, we would arrive very late and may have to travel in the dark. As we pondered the options, we had the impression to head to the nearest island quickly. As we did so, a much worse-than-anticipated storm rolled by us. Had we elected to continue canoeing, we would have put our lives in great peril.</p>
+<p data-aid="28819674" id="p19">Here in mortality we are called upon to make serious decisions, the outcome of which can have a lasting effect upon our spiritual future. I encourage you to always be worthy to seek for the Spirit to help you always choose the right.</p>
+<p data-aid="28819675" id="p20">In the Book of Mormon, Nephi tells us: “Then are ye in this strait and narrow path which leads to eternal life; yea, ye have entered in by the gate; ye have done according to the commandments of the Father and the Son; and ye have received the Holy Ghost” (<a class="scripture-ref" href="/study/scriptures/bofm/2-ne/31?lang=eng&amp;id=p18#p18">2 Ne. 31:18</a>).</p>
+<p data-aid="28819676" id="p21">As our family concluded the 225-mile bicycle journey, we learned that no matter how difficult things can become on this road we call life, great happiness is waiting for those who keep the commandments and endure to the end.</p>
+<p data-aid="28819677" id="p22">Young men of the Aaronic Priesthood, you have a responsibility to remain firmly focused on your eternal destination. Yes, life’s journeys can have many ups and downs. Yes, there will be days when you will feel the going is tough. But as you stay on the right path, the reward at the end of life’s journey is well worth the moments of adversity you experience along the way.</p>
+<p data-aid="28819678" id="p23">Again, from the <em>For the Strength of Youth</em> booklet, the First Presidency writes: “May you keep your minds and bodies clean from the sins of the world so you can do the great work that lies before you. We pray that you will be worthy to carry on the responsibilities of building the kingdom of God and preparing the world for the Second Coming of the Savior” (page 3).</p>
+<p data-aid="28819679" id="p24">My young friends, please know the importance of being wise by following the counsel of our prophets, and happiness will be yours throughout life’s journey.</p>
+<p data-aid="28819680" id="p25">Of this I so testify in the name of Jesus Christ, amen.</p>
 </div>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/2002/04/this-road-we-call-life</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/april-2002-general-conference/2002-04-3020-elder-ben-b-banks-64k-eng.mp3" length="5168878" type="audio/mpeg"/>
+      <enclosure url="https://assets.churchofjesuschrist.org/74b239e332ea11ec89b6eeeeac1e02ba245ef215-64k-en.mp3" length="5336348" type="audio/mpeg"/>
       <pubDate>Sat, 06 Apr 2002 18:00:00 -0700</pubDate>
+      <itunes:author>Ben B. Banks</itunes:author>
     </item>
   </channel>
 </rss>

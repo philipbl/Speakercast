@@ -1,48 +1,52 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Talks By Andrea Allen</title>
-    <link>http://philip.lundrigan.org/Speakercast/</link>
+    <link>https://philip.lundrigan.org/Speakercast/</link>
     <description>General Conference talks by Andrea Allen.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Speakercast</generator>
     <image>
-      <url>http://philip.lundrigan.org/Speakercast/covers/Andrea%20Allen.jpg</url>
+      <url>https://philip.lundrigan.org/Speakercast/covers/Andrea%20Allen.jpg</url>
       <title>General Conference talks by Andrea Allen.</title>
-      <link>http://philip.lundrigan.org/Speakercast/</link>
+      <link>https://philip.lundrigan.org/Speakercast/</link>
     </image>
     <language>en</language>
     <lastBuildDate>Sat, 25 Mar 1995 18:00:00 -0700</lastBuildDate>
     <pubDate>Sat, 25 Mar 1995 18:00:00 -0700</pubDate>
+    <itunes:author>Andrea Allen</itunes:author>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
+    <itunes:image href="https://philip.lundrigan.org/Speakercast/covers/Andrea%20Allen.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>General Conference talks by Andrea Allen.</itunes:summary>
     <item>
       <title>Trust in the Lord</title>
-      <link>http://www.lds.org/general-conference/1995/04/trust-in-the-lord?lang=eng</link>
-      <description>A friend of mine is having a difficult time in her life. Earlier this year she was struggling, and I didn’t know how to help her. In my prayers I asked my Heavenly Father to bless her and to help me to be her friend. One day she became angry with me,</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/1995/04/trust-in-the-lord" schema-version="1" doc-id="general-conference_95905_000_041" doc-version="2" hash="mPGE4Q">
-  
-  <div class="heading" uri="/general-conference/1995/04/trust-in-the-lord.head">
-    <h1 class="title" pid="yrEpb9ada0-DfiHfgySKeQ" hash="fH9BGQ">Trust in the Lord</h1>
-    <p class="authorName" pid="GsiLS4c5WkuIOXkY45uNdQ" hash="lHGA1g">Andrea Allen</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/1995/04/trust-in-the-lord.t1">
-      <p class="para" uri="/general-conference/1995/04/trust-in-the-lord.p1" pid="__U59UubjUWOyBLR3KgYFg" hash="vPS7eg">A friend of mine is having a difficult time in her life. Earlier this year she was struggling, and I didn’t know how to help her. In my prayers I asked my Heavenly Father to bless her and to help me to be her friend. One day she became angry with me, and I did not understand. I didn’t know how to react. I didn’t want to say something wrong that might ruin our friendship, especially because this was a time when I felt she needed me. But after she became angry with me, I thought it would be too hard. I was considering giving up because I was discouraged.</p>
-      <p class="para" uri="/general-conference/1995/04/trust-in-the-lord.p2" pid="gsQM429H2EGHVZ-ebq0fxg" hash="ewxYtA">One afternoon in seminary I came across a scripture in Mosiah that said: “And now, if God, who has created you, on whom you are dependent for your lives and for all that ye have and are, doth grant unto you whatsoever ye ask that is right, in faith, believing that ye shall receive, O then, how ye ought to impart of the substance that ye have one to another” (<a href="/scriptures/bofm/mosiah/4.21" class="scriptureRef">Mosiah 4:21</a>).</p>
-      <p class="para" uri="/general-conference/1995/04/trust-in-the-lord.p3" pid="cyXGtz9D6k2cwm4VU-QFMw" hash="-e_Arg">I knew then that she needed and still needs of the <span class="emphasis">substance I can impart:</span> my friendship and my testimony. I decided then that I would not give up on my friend. I talk to her every day, remember her in my prayers, and have faith that something positive will come from my efforts. I am so grateful that I prayed and received this guidance through the scriptures.</p>
-      <p class="para" uri="/general-conference/1995/04/trust-in-the-lord.p4" pid="5hUk0-mqcke2J0JhPOQKew" hash="G78hpA">As young women, we are faced with challenges, choices, and difficult situations. Many times we think we are strong enough to handle them by ourselves. We aren’t strong enough, not by ourselves at least. But if we seek with real intent and with all of our heart for help and answers, we will receive guidance and direction from the Lord. We need to allow the Lord to help us. We must trust in him and do <span class="emphasis">his will.</span> After we have done his will, we will find true joy and happiness. We will know that what we have done is right.</p>
-      <p class="para" uri="/general-conference/1995/04/trust-in-the-lord.p5" pid="gAgNruaBu0qRDmjOZVLEVA" hash="_L0abw">If you would turn in your scriptures to Proverbs, chapter 3, verses 5 to 6, we can read together and learn that Heavenly Father wants us to trust him:</p>
-      <p class="para" uri="/general-conference/1995/04/trust-in-the-lord.p6" pid="P3SRmvbS6EeVVVNTGPlvKQ" hash="FVxn3Q">“Trust in the Lord with all thine heart; and lean not unto thine own understanding.</p>
-      <p class="para" uri="/general-conference/1995/04/trust-in-the-lord.p7" pid="U8fBHMHNfkKIi8GxZ_DvCg" hash="PrSfHQ">“In all thy ways acknowledge him, and he shall direct thy paths.” [<a href="/scriptures/ot/prov/3.5-6" class="scriptureRef">Prov. 3:5–6</a>]</p>
-      <p class="para" uri="/general-conference/1995/04/trust-in-the-lord.p8" pid="OcfXl9nD5UOKMkkzzav9_w" hash="ZBBOQg">I have a testimony of the scriptures. I know that if we “trust in the Lord” and read the scriptures prayerfully, we will receive direction and guidance as to what we should do in any troubling circumstance. I know that as we follow this direction, we will feel of the Savior’s love for us. In the name of Jesus Christ, amen.</p>
-    </div>
-  </div>
-</div>]]></content:encoded>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/1995/04/trust-in-the-lord?lang=eng</link>
+      <description><![CDATA[<header>
+<span class="page-break" data-page="94"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/461e71efb504097f2f5e2041f7a77798e7c475e3/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/461e71efb504097f2f5e2041f7a77798e7c475e3/full/%21192%2C/0/default" data-video-title="Trust in the Lord" data-video-description="Andrea Allen delivers a message titled &quot;Trust in the Lord.&quot;" data-video-id="6004835199001" data-ip="Download and Streaming                            " data-duration="176209" data-assetId="c13e62be5d7177a51b6f2edc8e8f80dd7a6bd650" data-ref-id="c13e62be5d7177a51b6f2edc8e8f80dd7a6bd650" data-duration-string="2:56" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6004835199001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="480" data-height="360" data-file-size="8999901"/><source src="https://assets.churchofjesuschrist.org/c13e62be5d7177a51b6f2edc8e8f80dd7a6bd650-360p-en.mp4" type="video/mp4" data-width="480" data-height="360" data-file-size="8999901"/></video><h1 data-aid="28797149" id="title1">Trust in the Lord</h1>
+<div class="byline">
+<p class="author-name" data-aid="28797150" id="p1">By Andrea Allen</p>
+<p class="author-role" data-aid="150151302" id="author2">Forest Hills Ward, Brigham City Utah Stake</p>
+</div>
+</header>
+<div class="body-block">
+<p data-aid="28797151" id="p2">A friend of mine is having a difficult time in her life. Earlier this year she was struggling, and I didn’t know how to help her. In my prayers I asked my Heavenly Father to bless her and to help me to be her friend. One day she became angry with me, and I did not understand. I didn’t know how to react. I didn’t want to say something wrong that might ruin our friendship, especially because this was a time when I felt she needed me. But after she became angry with me, I thought it would be too hard. I was considering giving up because I was discouraged.</p>
+<p data-aid="28797152" id="p3">One afternoon in seminary I came across a scripture in Mosiah that said: “And now, if God, who has created you, on whom you are dependent for your lives and for all that ye have and are, doth grant unto you whatsoever ye ask that is right, in faith, believing that ye shall receive, O then, how ye ought to impart of the substance that ye have one to another” (<a class="scripture-ref" href="/study/scriptures/bofm/mosiah/4?lang=eng&amp;id=p21#p21">Mosiah 4:21</a>).</p>
+<p data-aid="28797153" id="p4">I knew then that she needed and still needs of the <em>substance I can impart:</em> my friendship and my testimony. I decided then that I would not give up on my friend. I talk to her every day, remember her in my prayers, and have faith that something positive will come from my efforts. I am so grateful that I prayed and received this guidance through the scriptures.</p>
+<p data-aid="28797154" id="p5">As young women, we are faced with challenges, choices, and difficult situations. Many times we think we are strong enough to handle them by ourselves. We aren’t strong enough, not by ourselves at least. But if we seek with real intent and with all of our heart for help and answers, we will receive guidance and direction from the Lord. We need to allow the Lord to help us. We must trust in him and do <em>his will.</em> After we have done his will, we will find true joy and happiness. We will know that what we have done is right.</p>
+<p data-aid="28797155" id="p6">If you would turn in your scriptures to Proverbs, chapter 3, verses 5 to 6, we can read together and learn that Heavenly Father wants us to trust him:</p>
+<p data-aid="28797156" id="p7">“Trust in the Lord with all thine heart; and lean not unto thine own understanding.</p>
+<p data-aid="28797157" id="p8">“In all thy ways acknowledge him, and he shall direct thy paths.” [<a class="scripture-ref" href="/study/scriptures/ot/prov/3?lang=eng&amp;id=p5-p6#p5">Prov. 3:5–6</a>]</p>
+<p data-aid="28797158" id="p9">I have a testimony of the scriptures. I know that if we “trust in the Lord” and read the scriptures prayerfully, we will receive direction and guidance as to what we should do in any troubling circumstance. I know that as we follow this direction, we will feel of the Savior’s love for us. In the name of Jesus Christ, amen.</p>
+</div>]]></description>
       <guid isPermaLink="false">/general-conference/1995/04/trust-in-the-lord</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-young-women-meeting/1995-general-young-women-meeting/1995-03-0050-andrea-allen-64k-eng.mp3" length="1428797" type="audio/mpeg"/>
+      <enclosure url="https://assets.churchofjesuschrist.org/4FC9112A2A8E5204E82F67702274F8E58151B8D5-64k-en.mp3" length="1577010" type="audio/mpeg"/>
       <pubDate>Sat, 25 Mar 1995 18:00:00 -0700</pubDate>
+      <itunes:author>Andrea Allen</itunes:author>
     </item>
   </channel>
 </rss>

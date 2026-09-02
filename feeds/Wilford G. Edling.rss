@@ -1,448 +1,569 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Talks By Wilford G. Edling</title>
-    <link>http://philip.lundrigan.org/Speakercast/</link>
+    <link>https://philip.lundrigan.org/Speakercast/</link>
     <description>General Conference talks by Wilford G. Edling.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Speakercast</generator>
     <image>
-      <url>http://philip.lundrigan.org/Speakercast/covers/Wilford%20G.%20Edling.jpg</url>
+      <url>https://philip.lundrigan.org/Speakercast/covers/Wilford%20G.%20Edling.jpg</url>
       <title>General Conference talks by Wilford G. Edling.</title>
-      <link>http://philip.lundrigan.org/Speakercast/</link>
+      <link>https://philip.lundrigan.org/Speakercast/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 02 Apr 1977 10:00:00 -0700</lastBuildDate>
-    <pubDate>Sat, 02 Apr 1977 10:00:00 -0700</pubDate>
+    <lastBuildDate>Sat, 06 Apr 1991 14:00:00 -0700</lastBuildDate>
+    <pubDate>Sat, 06 Apr 1991 14:00:00 -0700</pubDate>
+    <itunes:author>Wilford G. Edling</itunes:author>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
+    <itunes:image href="https://philip.lundrigan.org/Speakercast/covers/Wilford%20G.%20Edling.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>General Conference talks by Wilford G. Edling.</itunes:summary>
     <item>
       <title>Church Finance Committee Report</title>
-      <link>http://www.lds.org/general-conference/1977/04/church-finance-committee-report?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/1977/04/church-finance-committee-report?lang=eng</link>
       <description>To the First Presidency of The Church of Jesus Christ of Latter-day Saints:</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/1977/04/church-finance-committee-report" schema-version="1" doc-id="general-conference_03083_000_005" doc-version="3" hash="11CD3A"><div class="heading" uri="/general-conference/1977/04/church-finance-committee-report.head1"><h1 class="title" pid="c-r052Bbe0ix1wElfCWaQQ" hash="igg1cg">Church Finance Committee Report</h1><p class="authorName" pid="wBRsj0S2Lkic2A9Xni3OkQ" hash="9QL6Og">Wilford G. Edling</p><p class="kicker" pid="AdBGDRr_2Eyngw1hXrnP2w" hash="0QbxOQ">To the First Presidency of The Church of Jesus Christ of Latter-day Saints:</p></div><div class="bodyBlock">
-    <div class="topic" uri="/general-conference/1977/04/church-finance-committee-report.t1">
-      <p class="para" uri="/general-conference/1977/04/church-finance-committee-report.p1" pid="I6AsrKKuLUmvda737vLwSA" hash="L_wgCw">We have reviewed the annual financial report of the Church for the year ended December 31, 1976, and operations for the period September 1, 1975, to December 31, 1975. The fiscal accounting period of the Church was changed in 1975 from a year ending August 31 to the calendar year. The financial statements and operations reviewed by the committee include the general funds of the Church and of other controlled organizations, the accounts of which are maintained by the Financial Department of the Church. We have also examined the budgeting, accounting, and auditing procedures employed, and the manner in which funds received and expenditures are controlled. We determined that expenditures of general Church funds were authorized by the First Presidency and by budgetary procedures. The budget is authorized by the Council on Disposition of the Tithes comprised of the First Presidency, the Council of the Twelve, and the Presiding Bishopric. The Committee on Expenditures, in weekly meetings, administers the expenditure of funds under the budget.</p>
-      <p class="para" uri="/general-conference/1977/04/church-finance-committee-report.p2" pid="V4oqCO6CmEKsaGiN4J3sCA" hash="iJ20Zg">Modern accounting technology and equipment are employed by the Financial Department and other departments in keeping abreast of rapid Church expansion and changing methods of electronic data processing. The Finance Committee and the Law Department are conjointly giving continuous attention to matters relating to taxation of churches by the federal government, by states, and by foreign governments.</p>
-      <p class="para" uri="/general-conference/1977/04/church-finance-committee-report.p3" pid="v3CbTcUgeUWrnXMT9EeP4w" hash="faChDg">The Auditing Department, which is independent of all other departments, regularly conducts a program of auditing the organizations referred to above, including the missions, on a worldwide basis. The extent and scope of its operations in safeguarding the resources of the Church are increasing commensurate with the growth and widening activities of the Church. The audit of local funds of wards and stakes is assigned to stake auditors. Incorporated businesses, owned or controlled by the Church, for which accounts are not maintained in the Financial Department, are audited by professional auditing firms or by governmental regulatory agencies.</p>
-      <p class="para" uri="/general-conference/1977/04/church-finance-committee-report.p4" pid="3YLpVyaXKU27Q2s_IUeXoA" hash="cMYUWA">Based on our review of the annual financial report and other accounting data, and our study of the accounting and auditing methods by which financial operations are controlled, together with continuing discussions with personnel of the Financial, Auditing, and Law Departments, we are of the opinion that the general funds of the Church, received and expended during the sixteen-month period September 1, 1975, to December 31, 1976, have been properly accounted for in accordance with procedures outlined herein.</p>
-      <p class="para" uri="/general-conference/1977/04/church-finance-committee-report.closing">
-        <p class="closing">Respectfully submitted,</p>
-        <p class="closing">CHURCH FINANCE COMMITTEE</p>
-        <p class="signature">Warren E. Pugh</p>
-      </p>
-    </div>
-  </div></div>]]></content:encoded>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="10"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/0dfe34bfba71a00caf646243d0280ea5ecb3ecd3/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/0dfe34bfba71a00caf646243d0280ea5ecb3ecd3/full/%21192%2C/0/default" data-video-title="Church Finance Committee Report" data-video-description="Church Finance Committee Report" data-video-id="2255478874001" data-ip="Download and Streaming                            " data-duration="215000" data-assetId="34657f3f18160f188637e7a1ec52514795cc3728" data-ref-id="34657f3f18160f188637e7a1ec52514795cc3728" data-duration-string="3:35" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/2255478874001.m3u8" type="application/vnd.apple.mpegurl" data-width="480" data-height="360" data-file-size="9380155"/><source src="https://assets.churchofjesuschrist.org/34657f3f18160f188637e7a1ec52514795cc3728-360p-en.mp4" type="video/mp4" data-width="480" data-height="360" data-file-size="9380155"/></video><h1 data-aid="28739991" id="title1">Church Finance Committee Report</h1>
+<div class="byline">
+<p class="author-name" data-aid="28739992" id="p1">Presented by Wilford G. Edling</p>
+<p class="author-role" data-aid="149202325" id="p7">Chairman, Church Finance Committee</p>
+</div>
+</header>
+<div class="body-block">
+<div class="opening-block">
+<div class="addressee">
+<p data-aid="28739993" id="kicker1">To the First Presidency of The Church of Jesus Christ of Latter-day Saints:</p>
+</div>
+</div>
+<p data-aid="28739994" id="p2">We have reviewed the annual financial report of the Church for the year ended December 31, 1976, and operations for the period September 1, 1975, to December 31, 1975. The fiscal accounting period of the Church was changed in 1975 from a year ending August 31 to the calendar year. The financial statements and operations reviewed by the committee include the general funds of the Church and of other controlled organizations, the accounts of which are maintained by the Financial Department of the Church. We have also examined the budgeting, accounting, and auditing procedures employed, and the manner in which funds received and expenditures are controlled. We determined that expenditures of general Church funds were authorized by the First Presidency and by budgetary procedures. The budget is authorized by the Council on Disposition of the Tithes comprised of the First Presidency, the Council of the Twelve, and the Presiding Bishopric. The Committee on Expenditures, in weekly meetings, administers the expenditure of funds under the budget.</p>
+<p data-aid="28739995" id="p3">Modern accounting technology and equipment are employed by the Financial Department and other departments in keeping abreast of rapid Church expansion and changing methods of electronic data processing. The Finance Committee and the Law Department are conjointly giving continuous attention to matters relating to taxation of churches by the federal government, by states, and by foreign governments.</p>
+<p data-aid="28739996" id="p4">The Auditing Department, which is independent of all other departments, regularly conducts a program of auditing the organizations referred to above, including the missions, on a worldwide basis. The extent and scope of its operations in safeguarding the resources of the Church are increasing commensurate with the growth and widening activities of the Church. The audit of local funds of wards and stakes is assigned to stake auditors. Incorporated businesses, owned or controlled by the Church, for which accounts are not maintained in the Financial Department, are audited by professional auditing firms or by governmental regulatory agencies.</p>
+<p data-aid="28739997" id="p5">Based on our review of the annual financial report and other accounting data, and our study of the accounting and auditing methods by which financial operations are controlled, together with continuing discussions with personnel of the Financial, Auditing, and Law Departments, we are of the opinion that the general funds of the Church, received and expended during the sixteen-month period September 1, 1975, to December 31, 1976, have been properly accounted for in accordance with procedures outlined herein.</p>
+<div class="closing-block">
+<p class="closing" data-aid="28739998" id="closing1">Respectfully submitted,</p>
+<p class="closing" data-aid="28739999" id="closing2">CHURCH FINANCE COMMITTEE</p>
+<p class="signature" data-aid="149202326" id="p8">Wilford G. Edling</p>
+<p class="signature" data-aid="149202327" id="p9">Harold H. Bennett</p>
+<p class="signature" data-aid="149202328" id="p10">Weston E. Hamilton</p>
+<p class="signature" data-aid="149202329" id="p11">David M. Kennedy</p>
+<p class="signature" data-aid="28740000" id="p6">Warren E. Pugh</p>
+</div>
+</div>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/1977/04/church-finance-committee-report</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/april-1977-general-conference/1977-04-1030-church-finance-committee-report-64k-eng.mp3" length="1742773" type="audio/mpeg"/>
+      <enclosure url="https://assets.churchofjesuschrist.org/2ccf411332eb11ec8aafeeeeac1e5e3618fec821-64k-en.mp3" length="2144026" type="audio/mpeg"/>
       <pubDate>Sat, 02 Apr 1977 10:00:00 -0700</pubDate>
+      <itunes:author>Wilford G. Edling</itunes:author>
     </item>
     <item>
       <title>Church Finance Committee Report</title>
-      <link>http://www.lds.org/general-conference/1978/04/church-finance-committee-report?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/1978/04/church-finance-committee-report?lang=eng</link>
       <description>To the First Presidency of The Church of Jesus Christ of Latter-day Saints</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/1978/04/church-finance-committee-report" schema-version="1" doc-id="general-conference_03096_000_010" doc-version="2" hash="vbIv5A">
-  
-  <div class="heading" uri="/general-conference/1978/04/church-finance-committee-report.head">
-    <h1 class="title" pid="od3Wf1JzU0avPhLEfrtxJg" hash="igg1cg">Church Finance Committee Report</h1>
-    <p class="authorName" pid="DGlaohhUe0ms1ZK5D4JQag" hash="9QL6Og">Wilford G. Edling</p>
-    <p class="kicker" pid="swVJZk7fS0SALJHcxVKgKA" hash="0QbxOQ">To the First Presidency of The Church of Jesus Christ of Latter-day Saints</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/1978/04/church-finance-committee-report.t1">
-      <p class="para" uri="/general-conference/1978/04/church-finance-committee-report.p1" pid="wd4LndiNrkCdW6XL29M7IA" hash="xa4rcg">We have reviewed the annual financial report of the Church as of December 31, 1977, and operations for the year then ended. The financial statements and operations reviewed by the committee include the general funds of the Church and of other controlled organizations, the accounts of which are maintained by the Financial Department of the Church. We have also examined the budgeting, accounting, and auditing procedures employed, and the manner in which funds received and expenditures are controlled. We determined that expenditures of general Church funds were authorized by the First Presidency and by budgetary procedures. The budget is authorized by the Council on Disposition of the Tithes comprised of the First Presidency, the Council of the Twelve, and the Presiding Bishopric. The Committee on Expenditures, in weekly meetings, administers the expenditure of funds under the budget.</p>
-      <p class="para" uri="/general-conference/1978/04/church-finance-committee-report.p2" pid="pumcGx3gOkWrZ16OW311Ww" hash="YT85JA">Modern accounting technology and equipment are employed by the Financial and other departments in keeping abreast of rapid Church expansion and changing methods of electronic data processing. The Committee and the Law Department are conjointly giving continuous attention to matters relating to taxation of churches by the federal government, the states, and by foreign governments.</p>
-      <p class="para" uri="/general-conference/1978/04/church-finance-committee-report.p3" pid="GllOGOPyC0ah65Uz7k8ngw" hash="ecu_Lw">The Auditing Department, which is independent of all other departments, is engaged on a continuous basis in performing operational as well as financial audits of all Church departments and other Church-controlled organizations, the accounts of which are maintained in the Financial Department. These services also include the missions, financial centers, and departmental activities conducted in foreign countries. The Auditing Department is also responsible for conducting audits of the computer systems employed by the Church. The extent and scope of its operations in safeguarding the resources of the Church are increasing commensurate with the growth and widening activities of the Church. The audit of local funds of wards and stakes is assigned to stake auditors. Incorporated businesses, owned or controlled by the Church, for which accounts are not maintained in the Financial Department, are audited by professional auditing firms or by governmental regulatory agencies.</p>
-      <p class="para" uri="/general-conference/1978/04/church-finance-committee-report.p4" pid="fDonq_kYGU6Y6OCPriC5mQ" hash="b_bFlA">Based on our review of the annual financial report and other accounting data, and our study of the accounting and auditing methods by which financial operations are controlled, together with continuing discussions with personnel of the Financial, Auditing, and Law departments, we are of the opinion that the general funds of the Church, received and expended during the year 1977, have been properly accounted for in accordance with established procedures as outlined herein.</p>
-      <p class="para" uri="/general-conference/1978/04/church-finance-committee-report.closing">
-        <p class="closing">Respectfully submitted,</p>
-        <p class="closing">CHURCH FINANCE COMMITTEE</p>
-        <p class="signature">Warren E. Pugh</p>
-      </p>
-    </div>
-  </div>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="18"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/9b04568890264042c62d6faaf76ea2a2202dee6e/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/9b04568890264042c62d6faaf76ea2a2202dee6e/full/%21192%2C/0/default" data-video-title="Church Finance Committee Report" data-video-description="Church Finance Committee Report" data-video-id="2255468818001" data-ip="Download and Streaming                            " data-duration="217000" data-assetId="b08d160b17a6cd7e14dc1ba66e9a1619d16976c1" data-ref-id="b08d160b17a6cd7e14dc1ba66e9a1619d16976c1" data-duration-string="3:37" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/2255468818001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="480" data-height="360" data-file-size="14790753"/><source src="https://assets.churchofjesuschrist.org/b08d160b17a6cd7e14dc1ba66e9a1619d16976c1-360p-en.mp4" type="video/mp4" data-width="480" data-height="360" data-file-size="14790753"/></video><h1 data-aid="28743647" id="title1">Church Finance Committee Report</h1>
+<div class="byline">
+<p class="author-name" data-aid="28743648" id="p1">Presented by Wilford G. Edling</p>
+<p class="author-role" data-aid="149936726" id="p6">Chairman, Church Finance Committee</p>
+</div>
+</header>
+<div class="body-block">
+<div class="opening-block">
+<div class="addressee">
+<p data-aid="28743649" id="kicker1">To the First Presidency of The Church of Jesus Christ of Latter-day Saints:</p>
+</div>
+</div>
+<p data-aid="28743650" id="p2">We have reviewed the annual financial report of the Church as of December 31, 1977, and operations for the year then ended. The financial statements and operations reviewed by the committee include the general funds of the Church and of other controlled organizations, the accounts of which are maintained by the Financial Department of the Church. We have also examined the budgeting, accounting, and auditing procedures employed, and the manner in which funds received and expenditures are controlled. We determined that expenditures of general Church funds were authorized by the First Presidency and by budgetary procedures. The budget is authorized by the Council on Disposition of the Tithes comprised of the First Presidency, the Council of the Twelve, and the Presiding Bishopric. The Committee on Expenditures, in weekly meetings, administers the expenditure of funds under the budget.</p>
+<p data-aid="28743651" id="p3">Modern accounting technology and equipment are employed by the Financial and other departments in keeping abreast of rapid Church expansion and changing methods of electronic data processing. The Committee and the Law Department are conjointly giving continuous attention to matters relating to taxation of churches by the federal government, the states, and by foreign governments.</p>
+<p data-aid="28743652" id="p4">The Auditing Department, which is independent of all other departments, is engaged on a continuous basis in performing operational as well as financial audits of all Church departments and other Church-controlled organizations, the accounts of which are maintained in the Financial Department. These services also include the missions, financial centers, and departmental activities conducted in foreign countries. The Auditing Department is also responsible for conducting audits of the computer systems employed by the Church. The extent and scope of its operations in safeguarding the resources of the Church are increasing commensurate with the growth and widening activities of the Church. The audit of local funds of wards and stakes is assigned to stake auditors. Incorporated businesses, owned or controlled by the Church, for which accounts are not maintained in the Financial Department, are audited by professional auditing firms or by governmental regulatory agencies.</p>
+<p data-aid="28743653" id="p5">Based on our review of the annual financial report and other accounting data, and our study of the accounting and auditing methods by which financial operations are controlled, together with continuing discussions with personnel of the Financial, Auditing, and Law departments, we are of the opinion that the general funds of the Church, received and expended during the year 1977, have been properly accounted for in accordance with established procedures as outlined herein.</p>
+<div class="closing-block">
+<p class="closing" data-aid="28743654" id="closing1">Respectfully submitted,</p>
+<p class="closing" data-aid="28743655" id="closing2">CHURCH FINANCE COMMITTEE</p>
+<p class="signature" data-aid="149936727" id="p7">Wilford G. Edling</p>
+<p class="signature" data-aid="149936728" id="p8">Harold H. Bennett</p>
+<p class="signature" data-aid="149936729" id="p9">Weston E. Hamilton</p>
+<p class="signature" data-aid="149936730" id="p10">David M. Kennedy</p>
+<p class="signature" data-aid="28743656" id="p11">Warren E. Pugh</p>
+</div>
 </div>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/1978/04/church-finance-committee-report</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/april-1978-general-conference/1978-04-2020-church-finance-committee-report-64k-eng.mp3" length="1762463" type="audio/mpeg"/>
+      <enclosure url="https://assets.churchofjesuschrist.org/2069b1cb32cb11eca4deeeeeac1e54b6ef0ec4d1-64k-en.mp3" length="2276742" type="audio/mpeg"/>
       <pubDate>Sat, 01 Apr 1978 14:00:00 -0700</pubDate>
+      <itunes:author>Wilford G. Edling</itunes:author>
     </item>
     <item>
       <title>Church Finance Committee Report</title>
-      <link>http://www.lds.org/general-conference/1979/04/church-finance-committee-report?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/1979/04/church-finance-committee-report?lang=eng</link>
       <description>To the Presidency of The Church of Jesus Christ of Latter-day Saints</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/1979/04/church-finance-committee-report" dup-conf="false" dup-mag="false" schema-version="1" doc-id="general-conference_03109_000_009" doc-version="2" hash="BB7vwA"><div class="heading" uri="/general-conference/1979/04/church-finance-committee-report.head1"><h1 class="title" pid="YzGHr7rKckqOYw_IXBMAVw" hash="igg1cg">Church Finance Committee Report</h1><p class="authorName" guid="65abe8c0-8c90-447f-9633-0f94073afcd9" pid="UWX1ummwv0OeykZmLkZlUw" hash="9QL6Og">Wilford G. Edling</p><p class="kicker" pid="Vz0Q5mFIqUCqlhsdQKshIA" hash="ELkAcA">To the Presidency of The Church of Jesus Christ of Latter-day Saints</p></div><div class="bodyBlock" guid="2e967443-5e2b-4b41-af42-eb266dd51f55">
-    <div class="topic" uri="/general-conference/1979/04/church-finance-committee-report.t1">
-      <p class="para" uri="/general-conference/1979/04/church-finance-committee-report.p" pid="lCBN6k5l70Gq0mb-ereitQ" hash="F1kJ_A">We have reviewed the annual financial report of the Church as of December 31, 1978, and operations for the year then ended. The financial statements and operations reviewed by the Committee include the general funds of the Church and of other controlled organizations, the accounts of which are maintained by the Financial Department of the Church. We have also examined the budgeting, accounting, and auditing procedures employed, and the manner in which funds are received and expenditures are controlled. We determined that expenditures of general Church funds were authorized by the First Presidency and by budgetary procedures. The budget is authorized by the Council on Disposition of Tithes, comprised of the First Presidency, the Council of the Twelve, and the Presiding Bishopric. The Committee on Expenditures, in weekly meetings, administers the expenditure of funds under the budget.</p>
-      <p class="para" uri="/general-conference/1979/04/church-finance-committee-report.p" pid="1_Il50NV3Uiuk2QXgdcENw" hash="YT85JA">Modern accounting technology and equipment are employed by the Financial and other departments in keeping abreast of rapid Church expansion and changing methods of electronic data processing. The Committee and the Law Department are conjointly giving continuous attention to matters relating to taxation of churches by the federal government, the states, and by foreign governments.</p>
-      <p class="para" uri="/general-conference/1979/04/church-finance-committee-report.p" pid="8UgPihu5cU2D5UIk-FAHfw" hash="sL6vnQ">The Auditing Department, which is independent of all other departments, functions in the three-fold capacity of performing financial audits, operational audits, and audits of computer systems employed by the Church. These services are conducted on a continuous basis and include all Church departments, other Church-controlled organizations (the accounts of which are maintained in the Financial Department), and worldwide operations including missions, financial centers, and departmental activities conducted in foreign countries. The extent and scope of the Auditing Department in safeguarding the resources of the Church are increasing commensurate with the growth and widening activities of the Church. The audit of local funds of wards and stakes is assigned to stake auditors. Incorporated businesses, owned or controlled by the Church, for which accounts are not maintained in the Financial Department, are audited by professional auditing firms or by governmental regulatory agencies.</p>
-      <p class="para" uri="/general-conference/1979/04/church-finance-committee-report.p" pid="QDiWinPBYk-AwOqGhfg3Qg" hash="iuFx4w">Based on our review of the annual financial report and other accounting data, and our study of the accounting and auditing methods by which financial operations are controlled, together with continuing discussions with personnel of the Financial, Auditing and Law departments, we are of the opinion that the general funds of the Church, received and expended during the year 1978, have been properly accounted for in accordance with established procedures outlined herein.</p>
-      <p class="para" uri="/general-conference/1979/04/church-finance-committee-report.closing">
-        <p class="closing">Respectfully submitted,</p>
-        <p class="closing">CHURCH FINANCE COMMITTEE</p>
-        <p class="signature">Warren E. Pugh</p>
-      </p>
-    </div>
-  </div></div>]]></content:encoded>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="18"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/0b558bd321920b786bdf7638ff962e1d2386c589/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/0b558bd321920b786bdf7638ff962e1d2386c589/full/%21192%2C/0/default" data-video-title="Church Finance Committee Report" data-video-description="Church Finance Committee Report" data-video-id="6389239201112" data-ip="Download &amp; Streaming" data-duration="227727" data-assetId="3b3c4d45c4e8785d19ce45049b3de30fff3bff5e" data-ref-id="3b3c4d45c4e8785d19ce45049b3de30fff3bff5e" data-duration-string="3:47" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6389239201112.m3u8" type="application/vnd.apple.mpegurl" data-width="480" data-height="360" data-file-size="11400565"/><source src="https://assets.churchofjesuschrist.org/3b3c4d45c4e8785d19ce45049b3de30fff3bff5e-360p-en.mp4" type="video/mp4" data-width="480" data-height="360" data-file-size="11400565"/></video><h1 data-aid="28747439" id="title1">Church Finance Committee Report</h1>
+<div class="byline">
+<p class="author-name" data-aid="28747440" id="p1">Presented by Wilford G. Edling</p>
+<p class="author-role" data-aid="149936985" id="p6">Chairman, Church Finance Committee</p>
+</div>
+</header>
+<div class="body-block">
+<div class="opening-block">
+<div class="addressee">
+<p data-aid="28747441" id="kicker1">To the Presidency of The Church of Jesus Christ of Latter-day Saints:</p>
+</div>
+</div>
+<p data-aid="28747442" id="p2">We have reviewed the annual financial report of the Church as of December 31, 1978, and operations for the year then ended. The financial statements <span class="page-break" data-page="19"></span>and operations reviewed by the Committee include the general funds of the Church and of other controlled organizations, the accounts of which are maintained by the Financial Department of the Church. We have also examined the budgeting, accounting, and auditing procedures employed, and the manner in which funds are received and expenditures are controlled. We determined that expenditures of general Church funds were authorized by the First Presidency and by budgetary procedures. The budget is authorized by the Council on Disposition of Tithes, comprised of the First Presidency, the Council of the Twelve, and the Presiding Bishopric. The Committee on Expenditures, in weekly meetings, administers the expenditure of funds under the budget.</p>
+<p data-aid="28747443" id="p3">Modern accounting technology and equipment are employed by the Financial and other departments in keeping abreast of rapid Church expansion and changing methods of electronic data processing. The Committee and the Law Department are conjointly giving continuous attention to matters relating to taxation of churches by the federal government, the states, and by foreign governments.</p>
+<p data-aid="28747444" id="p4">The Auditing Department, which is independent of all other departments, functions in the three-fold capacity of performing financial audits, operational audits, and audits of computer systems employed by the Church. These services are conducted on a continuous basis and include all Church departments, other Church-controlled organizations (the accounts of which are maintained in the Financial Department), and worldwide operations including missions, financial centers, and departmental activities conducted in foreign countries. The extent and scope of the Auditing Department in safeguarding the resources of the Church are increasing commensurate with the growth and widening activities of the Church. The audit of local funds of wards and stakes is assigned to stake auditors. Incorporated businesses, owned or controlled by the Church, for which accounts are not maintained in the Financial Department, are audited by professional auditing firms or by governmental regulatory agencies.</p>
+<p data-aid="28747445" id="p5">Based on our review of the annual financial report and other accounting data, and our study of the accounting and auditing methods by which financial operations are controlled, together with continuing discussions with personnel of the Financial, Auditing and Law departments, we are of the opinion that the general funds of the Church, received and expended during the year 1978, have been properly accounted for in accordance with established procedures outlined herein.</p>
+<div class="closing-block">
+<p class="closing" data-aid="28747446" id="closing1">Respectfully submitted,</p>
+<p class="closing" data-aid="28747447" id="closing2">CHURCH FINANCE COMMITTEE</p>
+<p class="signature" data-aid="149936986" id="p7">Wilford G. Edling</p>
+<p class="signature" data-aid="149936987" id="p8">Harold H. Bennett</p>
+<p class="signature" data-aid="149936988" id="p9">Weston E. Hamilton</p>
+<p class="signature" data-aid="149936989" id="p10">David M. Kennedy</p>
+<p class="signature" data-aid="28747448" id="p11">Warren E. Pugh</p>
+</div>
+</div>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/1979/04/church-finance-committee-report</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/april-1979-general-conference/1979-04-2020-church-finance-committee-report-64k-eng.mp3" length="3612102" type="audio/mpeg"/>
+      <enclosure url="https://assets.churchofjesuschrist.org/96c7c2ee32db11ec8193eeeeac1ebf62afe947ab-128k-en.mp3" length="4034552" type="audio/mpeg"/>
       <pubDate>Sat, 31 Mar 1979 14:00:00 -0700</pubDate>
+      <itunes:author>Wilford G. Edling</itunes:author>
     </item>
     <item>
       <title>Church Finance Committee Report</title>
-      <link>http://www.lds.org/general-conference/1980/04/church-finance-committee-report?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/1980/04/church-finance-committee-report?lang=eng</link>
       <description>To the First Presidency of The Church of Jesus Christ of Latter-day Saints</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/1980/04/church-finance-committee-report" schema-version="1" doc-id="general-conference_03122_000_008" doc-version="2" hash="L8VoWg">
-  
-  <div class="heading" uri="/general-conference/1980/04/church-finance-committee-report.head">
-    <h1 class="title" pid="YFIGxo-u1Um_wPQqjMrrNQ" hash="igg1cg">Church Finance Committee Report</h1>
-    <p class="authorName" pid="kByatggVoEazj5Dg4Ssw7w" hash="9QL6Og">Wilford G. Edling</p>
-    <p class="kicker" pid="gTwgmNnsX0OXHyQXp_4mvg" hash="0QbxOQ">To the First Presidency of The Church of Jesus Christ of Latter-day Saints</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/1980/04/church-finance-committee-report.t1">
-      <p class="para" uri="/general-conference/1980/04/church-finance-committee-report.p1" pid="R95EJEkFF0SB0Hrss8aZBA" hash="mDe_DA">We have reviewed the annual financial report of the Church as of December 31, 1979, and the operations for the year then ended. Financial statements and operations reviewed by the committee include the general funds of the Church and other controlled organizations, the accounts of which are maintained by the Financial Department of the Church. We have also examined the budgeting, accounting, and auditing procedures employed, and the manner in which funds are received and expenditures are controlled. We determined that expenditures of general Church funds were authorized by the First Presidency and by budgetary procedures. The budget is authorized by the Council on Disposition of the Tithes, comprised of the First Presidency, the Council of the Twelve, and the Presiding Bishopric. The Committee on Expenditures, in weekly meetings, administers the expenditure of funds under the budget.</p>
-      <p class="para" uri="/general-conference/1980/04/church-finance-committee-report.p2" pid="PTfz8B3d6ESWaZSKtiH9nw" hash="1vsrNQ">Modern accounting technology and equipment are employed by the Financial Department and other departments in keeping abreast of rapid Church expansion and changing methods of electronic data processing. The Finance Committee and the Law Department are conjointly giving continuous attention to matters relating to taxation of churches by the federal government, by states, and foreign governments.</p>
-      <p class="para" uri="/general-conference/1980/04/church-finance-committee-report.p3" pid="hSXjpSKiE0CHVS-1k5kSDg" hash="5WKIcg">The Auditing Department, which is independent of all other departments, functions in the three-fold capacity of performing financial audits, operational audits, and audits of the computer systems employed by the Church. These services are conducted on a continuous basis and include all Church departments, other Church-controlled organizations (the accounts of which are maintained in the Financial Department of the Church), and worldwide operations including missions, financial centers, and departmental activities conducted in foreign lands. The extent and scope of the Auditing Department in safeguarding the resources of the Church are increasing commensurate with the growth and widening activities of the Church. The audit of local funds of wards and stakes is assigned to stake auditors. Incorporated businesses owned or controlled by the Church, for which accounts are not maintained in the Financial Department, are audited by professional auditing firms or by governmental regulatory agencies.</p>
-      <p class="para" uri="/general-conference/1980/04/church-finance-committee-report.p4" pid="g_bsHr2CAU-VVCo5H_9NWw" hash="ax59fw">Based on our review of the annual financial report and other accounting data, and our study of the accounting and auditing methods by which financial operations are controlled, together with continuing discussions with personnel of the Financial, Auditing, and Law departments, we are of the opinion that the general funds of the Church received and expended during the year 1979 have been properly accounted for in accordance with established procedures as outlined herein.</p>
-      <p class="para" uri="/general-conference/1980/04/church-finance-committee-report.closing">
-        <p class="closing">Respectfully submitted,</p>
-        <p class="closing">CHURCH FINANCE COMMITTEE</p>
-        <p class="signature">Warren E. Pugh</p>
-      </p>
-    </div>
-  </div>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="19"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/29e3063a8fed600e7b2d0f380e4bfb3f2b43dfdc/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/29e3063a8fed600e7b2d0f380e4bfb3f2b43dfdc/full/%21192%2C/0/default" data-video-title="Church Finance Committee Report" data-video-description="Church Finance Committee Report" data-video-id="6004039732001" data-ip="Download and Streaming                            " data-duration="212000" data-assetId="38b549c24f03dade87b47926a6c97be2ba47d1d1" data-ref-id="38b549c24f03dade87b47926a6c97be2ba47d1d1" data-duration-string="3:32" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6004039732001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="480" data-height="360" data-file-size="10957129"/><source src="https://assets.churchofjesuschrist.org/38b549c24f03dade87b47926a6c97be2ba47d1d1-360p-en.mp4" type="video/mp4" data-width="480" data-height="360" data-file-size="10957129"/></video><h1 data-aid="28750959" id="title1">Church Finance Committee Report</h1>
+<div class="byline">
+<p class="author-name" data-aid="28750960" id="p1">Presented by Wilford G. Edling</p>
+<p class="author-role" data-aid="149937749" id="p6">Chairman, Church Finance Committee</p>
+</div>
+</header>
+<div class="body-block">
+<div class="opening-block">
+<div class="addressee">
+<p data-aid="28750961" id="kicker1">To the First Presidency of The Church of Jesus Christ of Latter-day Saints:</p>
+</div>
+</div>
+<p data-aid="28750962" id="p2">We have reviewed the annual financial report of the Church as of December 31, 1979, and the operations for the year then ended. Financial statements and operations reviewed by the committee include the general funds of the Church and other controlled organizations, the accounts of which are maintained by the Financial Department of the Church. We have also examined the budgeting, accounting, and auditing procedures employed, and the manner in which funds are received and expenditures are controlled. We determined that expenditures of general Church funds were authorized by the First Presidency and by budgetary procedures. The budget is authorized by the Council on Disposition of the Tithes, comprised of the First Presidency, the Council of the Twelve, and the Presiding Bishopric. The Committee on Expenditures, in weekly meetings, administers the expenditure of funds under the budget.</p>
+<p data-aid="28750963" id="p3">Modern accounting technology and equipment are employed by the Financial Department and other departments in keeping abreast of rapid Church expansion and changing methods of electronic data processing. The Finance Committee and the Law Department are conjointly giving continuous attention to matters relating to taxation of churches by the federal government, by states, and foreign governments.</p>
+<p data-aid="28750964" id="p4">The Auditing Department, which is independent of all other departments, functions in the three-fold capacity of performing financial audits, operational audits, and audits of the computer systems employed by the Church. These services are conducted on a continuous basis and include all Church departments, other Church-controlled organizations (the accounts of which are maintained in the Financial Department of the Church), and worldwide operations including missions, financial centers, and departmental activities conducted in foreign lands. The extent and scope of the Auditing Department in safeguarding the resources of the Church are increasing commensurate with the growth and widening activities of the Church. The audit of local funds of wards and stakes is assigned to stake auditors. Incorporated businesses owned or controlled by the Church, for which accounts are not maintained in the Financial Department, are audited by professional auditing firms or by governmental regulatory agencies.</p>
+<p data-aid="28750965" id="p5">Based on our review of the annual financial report and other accounting data, and our study of the accounting and auditing methods by which financial operations are controlled, together with continuing discussions with personnel of the Financial, Auditing, and Law departments, we are of the opinion that the general funds of the Church received and expended during the year 1979 have been properly accounted for in accordance with established procedures as outlined herein.</p>
+<div class="closing-block">
+<p class="closing" data-aid="28750966" id="closing1">Respectfully submitted,</p>
+<p class="closing" data-aid="28750967" id="closing2">CHURCH FINANCE COMMITTEE</p>
+<p class="signature" data-aid="149937751" id="p7">Wilford G. Edling</p>
+<p class="signature" data-aid="149937752" id="p8">Harold H. Bennett</p>
+<p class="signature" data-aid="149937754" id="p9">Weston E. Hamilton</p>
+<p class="signature" data-aid="149937755" id="p10">David M. Kennedy</p>
+<p class="signature" data-aid="28750968" id="p11">Warren E. Pugh</p>
+</div>
 </div>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/1980/04/church-finance-committee-report</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/april-1980-general-conference/1980-04-2010-church-finance-committee-report-64k-eng.mp3" length="1725159" type="audio/mpeg"/>
-      <pubDate>Sat, 05 Apr 1980 10:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/1a730dc332d211eca4deeeeeac1e54b6ed41d8c5-64k-en.mp3" length="2016028" type="audio/mpeg"/>
+      <pubDate>Sat, 05 Apr 1980 14:00:00 -0700</pubDate>
+      <itunes:author>Wilford G. Edling</itunes:author>
     </item>
     <item>
       <title>Church Audit Committee Report</title>
-      <link>http://www.lds.org/general-conference/1981/04/church-audit-committee-report?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/1981/04/church-audit-committee-report?lang=eng</link>
       <description>To the First Presidency of The Church of Jesus Christ of Latter-day Saints</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/1981/04/church-audit-committee-report" schema-version="1" doc-id="general-conference_03135_000_009" doc-version="2" hash="C9U1lQ">
-  
-  <div class="heading" uri="/general-conference/1981/04/church-audit-committee-report.head">
-    <h1 class="title" pid="unb3Q116JESFBMejrad4xQ" hash="ama5nA">Church Audit Committee Report</h1>
-    <p class="authorName" pid="8FJZnzJW_E6irsk0fjbyAw" hash="9QL6Og">Wilford G. Edling</p>
-    <p class="kicker" pid="NB9QyYCJFEuHrCCDFlHltg" hash="0QbxOQ">To the First Presidency of The Church of Jesus Christ of Latter-day Saints</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/1981/04/church-audit-committee-report.t1">
-      <p class="para" uri="/general-conference/1981/04/church-audit-committee-report.p1" pid="9d_59RBdrE6NfYiSotZzXg" hash="8tuY2w">We have reviewed the annual financial report of the Church as of December 31, 1980, and the operations for the year then ended. The financial statements and operation reviewed by the committee include the general funds of the Church and of other controlled organizations, the accounts of which are maintained by the Financial Department of the Church. We have also examined the budgeting, accounting, and auditing procedures employed, and the manner in which funds are received and expenditures are controlled. We determined that expenditures of general Church funds were authorized by the First Presidency and by budgetary procedures. The budget is authorized by the Council on Disposition of the Tithes, comprised of the First Presidency, the Council for the Twelve, and the Presiding Bishopric. The Budget and Appropriations Committee, in weekly meetings, administers the expenditure of funds under the budget.</p>
-      <p class="para" uri="/general-conference/1981/04/church-audit-committee-report.p2" pid="6CAUIPtfLkG2FcebG83XCA" hash="hCMv4g">Modern accounting technology and equipment are employed by the Financial Department and other departments in keeping abreast of rapid Church expansion and changing methods of electronic data processing. The committee and the Law Department are conjointly giving continuous attention to matters relating to taxation of churches by the federal government, the states, and foreign governments.</p>
-      <p class="para" uri="/general-conference/1981/04/church-audit-committee-report.p3" pid="gFLa0ajiQUu-21PrxTUdyw" hash="qAUQPA">The Auditing Department, which is independent of all other departments, functions in the three-fold capacity of performing financial audits, operational audits, and audits of the computer systems employed by the Church. These services are conducted on a continuous basis and include all Church departments, other Church-controlled organizations (the accounts of which are maintained in the Financial Department), and worldwide operations, including missions, financial centers, and departmental activities conducted in foreign countries. The extent and scope of the Auditing Department in safeguarding the resources of the Church are increasing commensurate with the growth and the widening activities of the Church. The audit of local funds of wards and stakes is assigned to stake auditors. Incorporated businesses owned or controlled by the Church, for which accounts are not maintained in the Financial Department, are audited by professional auditing firms or by governmental regulatory agencies.</p>
-      <p class="para" uri="/general-conference/1981/04/church-audit-committee-report.p4" pid="mrutgUmHL0Sx9ob3OngkbA" hash="8r1QGA">Based on our review of the annual financial report and other accounting data, and our study of the accounting and auditing methods by which financial operations are controlled, together with continuing discussions with personnel of the Financial, Auditing, and Law departments, we are of the opinion that the general funds of the Church received and expended during the year 1980 have been properly accounted for in accordance with established procedures which are outlined herein.</p>
-      <p class="para" uri="/general-conference/1981/04/church-audit-committee-report.closing">
-        <p class="closing">Respectfully submitted,</p>
-        <p class="closing">Church Audit Committee</p>
-        <p class="signature">Ted E. Davis</p>
-      </p>
-    </div>
-  </div>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="18"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/0fb1435d6f4eec44a2f12aecad9611dd9e4a451a/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/0fb1435d6f4eec44a2f12aecad9611dd9e4a451a/full/%21192%2C/0/default" data-video-title="Church Audit Committee Report" data-video-description="Church Audit Committee Report" data-video-id="2255449853001" data-ip="Download and Streaming                            " data-duration="220320" data-assetId="7b45465166d90bce7d705c20abf3faa83f142c59" data-ref-id="7b45465166d90bce7d705c20abf3faa83f142c59" data-duration-string="3:40" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/2255449853001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="480" data-height="360" data-file-size="12319298"/><source src="https://assets.churchofjesuschrist.org/7b45465166d90bce7d705c20abf3faa83f142c59-360p-en.mp4" type="video/mp4" data-width="480" data-height="360" data-file-size="12319298"/></video><h1 data-aid="28754027" id="title1">Church Audit Committee Report</h1>
+<div class="byline">
+<p class="author-name" data-aid="28754028" id="p1">Presented by Wilford G. Edling</p>
+<p class="author-role" data-aid="150021996" id="p6">Chairman, Church Audit Committee</p>
+</div>
+</header>
+<div class="body-block">
+<div class="opening-block">
+<div class="addressee">
+<p data-aid="28754029" id="kicker1">To the First Presidency of The Church of Jesus Christ of Latter-day Saints:</p>
+</div>
+</div>
+<p data-aid="28754030" id="p2">We have reviewed the annual financial report of the Church as of December 31, 1980, and the operations for the year then ended. The financial statements and operation reviewed by the committee include the general funds of the Church and of other controlled organizations, the accounts of which are maintained by the Financial Department of the Church. We have also examined the budgeting, accounting, and auditing procedures employed, and the manner in which funds are received and expenditures are controlled. We determined that expenditures of general Church funds were authorized by the First Presidency and by budgetary procedures. The budget is authorized by the Council on Disposition of the Tithes, comprised of the First Presidency, the Council for the Twelve, and the Presiding Bishopric. The Budget and Appropriations Committee, in weekly meetings, administers the expenditure of funds under the budget.</p>
+<p data-aid="28754031" id="p3">Modern accounting technology and equipment are employed by the Financial Department and other departments in keeping abreast of rapid Church expansion and changing methods of electronic data processing. The committee and the Law Department are conjointly giving continuous attention to matters relating to taxation of churches by the federal government, the states, and foreign governments.</p>
+<p data-aid="28754032" id="p4">The Auditing Department, which is independent of all other departments, functions in the three-fold capacity of performing financial audits, operational audits, and audits of the computer systems employed by the Church. These services are conducted on a continuous basis and include all Church departments, other Church-controlled organizations (the accounts of which are maintained in the Financial Department), and worldwide operations, including missions, financial centers, and departmental activities conducted in foreign countries. The extent and scope of the Auditing Department in safeguarding the resources of the Church are increasing commensurate with the growth and the widening activities of the Church. The audit of local funds of wards and stakes is assigned to stake auditors. Incorporated businesses owned or controlled by the Church, for which accounts are not maintained in the Financial Department, are audited by professional auditing firms or by governmental regulatory agencies.</p>
+<p data-aid="28754033" id="p5">Based on our review of the annual financial report and other accounting data, and our study of the accounting and auditing methods by which financial operations are controlled, together with continuing discussions with personnel of the Financial, Auditing, and Law departments, we are of the opinion that the general funds of the Church received and expended during the year 1980 have been properly accounted for in accordance with established procedures which are outlined herein.</p>
+<div class="closing-block">
+<p class="closing" data-aid="28754034" id="closing1">Respectfully submitted,</p>
+<p class="closing" data-aid="28754035" id="closing2">Church Audit Committee</p>
+<p class="signature" data-aid="150021997" id="p7">Wilford G. Edling</p>
+<p class="signature" data-aid="150021998" id="p8">David M. Kennedy</p>
+<p class="signature" data-aid="150021999" id="p9">Warren E. Pugh</p>
+<p class="signature" data-aid="150022000" id="p10">Merrill J. Bateman</p>
+<p class="signature" data-aid="28754036" id="p11">Ted E. Davis</p>
+</div>
 </div>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/1981/04/church-audit-committee-report</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/april-1981-general-conference/1981-04-2010-church-audit-committee-report-64k-eng.mp3" length="1784457" type="audio/mpeg"/>
+      <enclosure url="https://assets.churchofjesuschrist.org/17ddb08d32f011ec95e0eeeeac1ece4559884787-32k-en.mp3" length="1424181" type="audio/mpeg"/>
       <pubDate>Sat, 04 Apr 1981 14:00:00 -0700</pubDate>
+      <itunes:author>Wilford G. Edling</itunes:author>
     </item>
     <item>
       <title>Church Audit Committee Report</title>
-      <link>http://www.lds.org/general-conference/1982/04/church-audit-committee-report?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/1982/04/church-audit-committee-report?lang=eng</link>
       <description>To the First Presidency of The Church of Jesus Christ of Latter-day Saints</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/1982/04/church-audit-committee-report" schema-version="1" doc-id="general-conference_03148_000_008" doc-version="2" hash="5FwBmw">
-  
-  <div class="heading" uri="/general-conference/1982/04/church-audit-committee-report.head">
-    <h1 class="title" pid="0tgt5KZTiEmyFBwg6Kjx5Q" hash="ama5nA">Church Audit Committee Report</h1>
-    <p class="authorName" pid="gvO6SxwzXUidXdPJodC8jw" hash="9QL6Og">Wilford G. Edling</p>
-    <p class="kicker" pid="Eqe_X3_88EmDmMP5wmDSlQ" hash="0QbxOQ">To the First Presidency of The Church of Jesus Christ of Latter-day Saints</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/1982/04/church-audit-committee-report.t1">
-      <p class="para" uri="/general-conference/1982/04/church-audit-committee-report.p1" pid="0w-M4152EUy4y1l1AVG7ow" hash="nK2CBg">We have reviewed the annual financial report of the Church as of 31 December 1981 and the operations for the year then ended. The financial statements and operations reviewed by the committee include the general funds of the Church and of other controlled organizations, the accounts of which are maintained by the Finance and Records Department of the Church. We have also examined the budgeting, accounting, and auditing procedures employed and the manner in which funds are received and expenditures are controlled. We determined that expenditures of general Church funds were authorized by the First Presidency and by budgetary procedures. The budget is authorized by the Council on Disposition of Tithes, composed of the First Presidency, the Council of the Twelve, and the Presiding Bishopric. The Budget and Appropriations Committee, in weekly meetings, administers the expenditure of funds under the budget.</p>
-      <p class="para" uri="/general-conference/1982/04/church-audit-committee-report.p2" pid="sWANyihygUS8H6dsH29qsQ" hash="vPWbOg">Modern accounting technology and equipment are employed by the Finance and Records Department and other departments in keeping abreast of the rapid Church expansion and changing methods of electronic data processing. The committee and the Church legal representatives are conjointly giving continuous attention to matters relating to taxation of churches by the federal government, the states, and by foreign governments.</p>
-      <p class="para" uri="/general-conference/1982/04/church-audit-committee-report.p3" pid="nvbEC0JruUavNNBIC900gw" hash="LIyJ-w">The Auditing Department, which is independent of all other departments, functions in the threefold capacity of performing financial audits, operational audits, and audits of computer systems employed by the Church. These services are conducted on a continuous basis and include all Church departments, other Church-controlled organizations (the accounts of which are maintained in the Finance and Records Department), and worldwide operations, including missions, financial centers, and departmental activities conducted in foreign countries. The extent and scope of the Auditing Department in safeguarding the resources of the Church are increasing commensurate with the growth and widening activities of the Church. The audit of local funds of wards and stakes is assigned to stake auditors. Incorporated businesses owned or controlled by the Church, for which accounts are not maintained in the Finance and Records Department, are audited by professional auditing firms or by governmental regulatory agencies.</p>
-      <p class="para" uri="/general-conference/1982/04/church-audit-committee-report.p4" pid="Xq77BmBrGUS83tiSnR1Rfw" hash="TKqHig">Based on our review of the annual financial report and other accounting data, and our study of the accounting and auditing methods by which financial operations are controlled, together with continuing discussions with personnel of the Finance and Records Department, the Auditing Department, and Church legal representatives, we are of the opinion that the general funds of the Church received and expended during the year 1981 have been properly accounted for in accordance with established procedures outlined herein.</p>
-      <p class="para" uri="/general-conference/1982/04/church-audit-committee-report.closing">
-        <p class="closing">Respectfully submitted,</p>
-        <p class="closing">Church Audit Committee</p>
-        <p class="signature">Ted E. Davis</p>
-      </p>
-    </div>
-  </div>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="17"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/44202d027bbd098ff16974dafd4b70cdaf705d9d/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/44202d027bbd098ff16974dafd4b70cdaf705d9d/full/%21192%2C/0/default" data-video-title="Church Audit Committee Report" data-video-description="Church Audit Committee Report" data-video-id="2255449837001" data-ip="Download and Streaming                            " data-duration="214781" data-assetId="c6b08eb32df7a8c980ddb6ba853a1481bfa68462" data-ref-id="c6b08eb32df7a8c980ddb6ba853a1481bfa68462" data-duration-string="3:34" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/2255449837001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="480" data-height="360" data-file-size="11422544"/><source src="https://assets.churchofjesuschrist.org/c6b08eb32df7a8c980ddb6ba853a1481bfa68462-360p-en.mp4" type="video/mp4" data-width="480" data-height="360" data-file-size="11422544"/></video><h1 data-aid="28757409" id="title1">Church Audit Committee Report</h1>
+<div class="byline">
+<p class="author-name" data-aid="28757410" id="p1">Presented by Wilford G. Edling</p>
+<p class="author-role" data-aid="150022116" id="p6">Chairman, Church Audit Committee</p>
+</div>
+</header>
+<div class="body-block">
+<div class="opening-block">
+<div class="addressee">
+<p data-aid="28757411" id="kicker1">To the First Presidency of The Church of Jesus Christ of Latter-day Saints:</p>
+</div>
+</div>
+<p data-aid="28757412" id="p2">We have reviewed the annual financial report of the Church as of 31 December 1981 and the operations for the year then ended. The financial statements and operations reviewed by the committee include the general funds of the Church and of other controlled organizations, the accounts of which are maintained by the Finance and Records Department of the Church. We have also examined the budgeting, accounting, and auditing procedures employed and the manner in which funds are received and expenditures are controlled. We determined that expenditures of general Church funds were authorized by the First Presidency and by budgetary procedures. The budget is authorized by the Council on Disposition of Tithes, composed of the First Presidency, the Council of the Twelve, and the Presiding Bishopric. The Budget and Appropriations Committee, in weekly meetings, administers the expenditure of funds under the budget.</p>
+<p data-aid="28757413" id="p3">Modern accounting technology and equipment are employed by the Finance and Records Department and other departments in keeping abreast of the rapid Church expansion and changing methods of electronic data processing. The committee and the Church legal representatives are conjointly giving continuous attention to matters relating to taxation of churches by the federal government, the states, and by foreign governments.</p>
+<p data-aid="28757414" id="p4">The Auditing Department, which is independent of all other departments, functions in the threefold capacity of performing financial audits, operational audits, and audits of computer systems employed by the Church. These services are conducted on a continuous basis and include all Church departments, other Church-controlled organizations (the accounts of which are maintained in the Finance and Records Department), and worldwide operations, including missions, financial centers, and departmental activities conducted in foreign countries. The extent and scope of the Auditing Department in safeguarding the resources of the Church are increasing commensurate with the growth and widening activities of the Church. The audit of local funds of wards and stakes is assigned to stake auditors. Incorporated businesses owned or controlled by the Church, for which accounts are not maintained in the Finance and Records Department, are audited by professional auditing firms or by governmental regulatory agencies.</p>
+<p data-aid="28757415" id="p5">Based on our review of the annual financial report and other accounting data, and our study of the accounting and auditing methods by which financial operations are controlled, together with continuing discussions with personnel of the Finance and Records Department, the Auditing Department, and Church legal representatives, we are of the opinion that the general funds of the Church received and expended during the year 1981 have been properly accounted for in accordance with established procedures outlined herein.</p>
+<div class="closing-block">
+<p class="closing" data-aid="28757416" id="closing1">Respectfully submitted,</p>
+<p class="closing" data-aid="28757417" id="closing2">Church Audit Committee</p>
+<p class="signature" data-aid="150022117" id="p7">Wilford G. Edling</p>
+<p class="signature" data-aid="150022118" id="p8">David M. Kennedy</p>
+<p class="signature" data-aid="150022119" id="p9">Warren E. Pugh</p>
+<p class="signature" data-aid="150022120" id="p10">Merrill J. Bateman</p>
+<p class="signature" data-aid="28757418" id="p11">Ted E. Davis</p>
+</div>
 </div>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/1982/04/church-audit-committee-report</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/april-1982-general-conference/1982-04-2010-church-audit-committee-report-64k-eng.mp3" length="1715938" type="audio/mpeg"/>
+      <enclosure url="https://assets.churchofjesuschrist.org/8634687132e811ec95e0eeeeac1ece45dd3bd6fa-64k-en.mp3" length="1916616" type="audio/mpeg"/>
       <pubDate>Sat, 03 Apr 1982 14:00:00 -0700</pubDate>
+      <itunes:author>Wilford G. Edling</itunes:author>
     </item>
     <item>
       <title>Church Audit Committee Report</title>
-      <link>http://www.lds.org/general-conference/1983/04/church-audit-committee-report?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/1983/04/church-audit-committee-report?lang=eng</link>
       <description>To the First Presidency of The Church of Jesus Christ of Latter-day Saints</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/1983/04/church-audit-committee-report" schema-version="1" doc-id="general-conference_03161_000_009" doc-version="2" hash="zIfYkQ">
-  
-  <div class="heading" uri="/general-conference/1983/04/church-audit-committee-report.head">
-    <h1 class="title" pid="jGHCUq_EwUqZ2IsjUmQwHw" hash="ama5nA">Church Audit Committee Report</h1>
-    <p class="authorName" pid="GHL_lRH2kEW5LomHyx9BKQ" hash="9QL6Og">Wilford G. Edling</p>
-    <p class="kicker" pid="F_6qwZd1A0iaIyEPc3vQfA" hash="0QbxOQ">To the First Presidency of The Church of Jesus Christ of Latter-day Saints</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/1983/04/church-audit-committee-report.t1">
-      <p class="para" uri="/general-conference/1983/04/church-audit-committee-report.p1" pid="zC3-gVfHckig1lzYJfsRzQ" hash="ahPnpQ">We have reviewed the annual financial report of the Church as of 31 December 1982 and operations for the year then ended. The financial statements and operations reviewed by the committee include the general funds of the Church and of other controlled organizations, the accounts of which are maintained by the Finance and Records Department of the Church. We have also examined the budgeting, accounting, and auditing procedures employed and the manner in which funds are received and expenditures are controlled. We determined that expenditures of general Church funds were authorized by the First Presidency and by budgetary procedures. The budget is authorized by the Council on Disposition of Tithes, comprised of the First Presidency, the Council of the Twelve, and the Presiding Bishopric. The Budget and Appropriations Committee, in weekly meetings, administers the expenditure of funds under the budget.</p>
-      <p class="para" uri="/general-conference/1983/04/church-audit-committee-report.p2" pid="1_cEhoreg0O-39JHMSXf6w" hash="rHF6sw">Modern accounting technology and equipment are employed by the Finance and Records and other departments in keeping abreast of rapid Church expansion and changing methods of electronic data processing.</p>
-      <p class="para" uri="/general-conference/1983/04/church-audit-committee-report.p3" pid="T-9xWoNGRkGnKCanTWD3bw" hash="LIyJ-w">The Auditing Department, which is independent of all other departments, functions in the threefold capacity of performing financial audits, operational audits, and audits of computer systems employed by the Church. These services are conducted on a continuous basis and include all Church departments, other Church-controlled organizations (the accounts of which are maintained in the Finance and Records Department), and worldwide operations, including missions, financial centers, and departmental activities conducted in foreign countries. The extent and scope of the Auditing Department in safeguarding the resources of the Church are increasing commensurate with the growth and widening activities of the Church. The audit of local funds of wards and stakes is assigned to stake auditors. Incorporated businesses owned or controlled by the Church, for which accounts are not maintained in the Finance and Records Department, are audited by professional auditing firms or by governmental regulatory agencies.</p>
-      <p class="para" uri="/general-conference/1983/04/church-audit-committee-report.p4" pid="1xuL6RP-oUqBJfEnIwZ0qg" hash="SgotoQ">Based on our review of the annual financial report and other accounting data, and our study of the accounting and auditing methods by which financial operations are controlled, together with continuing discussions with personnel of the Finance and Records Department, the Auditing Department, and Church legal representatives, we are of the opinion that the general funds of the Church received and expended during the year 1982 have been properly accounted for in accordance with the established procedures outlined herein.</p>
-      <p class="para" uri="/general-conference/1983/04/church-audit-committee-report.closing">
-        <p class="closing">Respectfully submitted,</p>
-        <p class="closing">CHURCH AUDIT COMMITTEE</p>
-        <p class="signature">Ted E. Davis</p>
-      </p>
-    </div>
-  </div>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="19"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/47316bb6b732c4f6f6dbc85bb6081e20afe1f5bf/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/47316bb6b732c4f6f6dbc85bb6081e20afe1f5bf/full/%21192%2C/0/default" data-video-title="Church Audit Committee Report" data-video-description="Church Audit Committee Report" data-video-id="2255455063001" data-ip="Download and Streaming                            " data-duration="203937" data-assetId="deca73960600393b9489356f75833c81db298b97" data-ref-id="deca73960600393b9489356f75833c81db298b97" data-duration-string="3:23" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/2255455063001.m3u8" type="application/vnd.apple.mpegurl" data-width="480" data-height="360" data-file-size="11545497"/><source src="https://assets.churchofjesuschrist.org/deca73960600393b9489356f75833c81db298b97-360p-en.mp4" type="video/mp4" data-width="480" data-height="360" data-file-size="11545497"/></video><h1 data-aid="28760886" id="title1">Church Audit Committee Report</h1>
+<div class="byline">
+<p class="author-name" data-aid="28760887" id="p1">Presented by Wilford G. Edling</p>
+<p class="author-role" data-aid="150025407" id="p6">Chairman, Church Audit Committee</p>
+</div>
+</header>
+<div class="body-block">
+<div class="opening-block">
+<div class="addressee">
+<p data-aid="28760888" id="kicker1">To the First Presidency of The Church of Jesus Christ of Latter-day Saints:</p>
+</div>
+</div>
+<p data-aid="28760889" id="p2">We have reviewed the annual financial report of the Church as of 31 December 1982 and operations for the year then ended. The financial statements and operations reviewed by the committee include the general funds of the Church and of other controlled organizations, the accounts of which are maintained by the Finance and Records Department of the Church. We have also examined the budgeting, accounting, and auditing procedures employed and the manner in which funds are received and expenditures are controlled. We determined that expenditures of general Church funds were authorized by the First Presidency and by budgetary procedures. The budget is authorized by the Council on Disposition of Tithes, comprised of the First Presidency, the Council of the Twelve, and the Presiding Bishopric. The Budget and Appropriations Committee, in weekly meetings, administers the expenditure of funds under the budget.</p>
+<p data-aid="28760890" id="p3">Modern accounting technology and equipment are employed by the Finance and Records and other departments in keeping abreast of rapid Church expansion and changing methods of electronic data processing.</p>
+<p data-aid="28760891" id="p4">The Auditing Department, which is independent of all other departments, functions in the threefold capacity of performing financial audits, operational audits, and audits of computer systems employed by the Church. These services are conducted on a continuous basis and include all Church departments, other Church-controlled organizations (the accounts of which are maintained in the Finance and Records Department), and worldwide operations, including missions, financial centers, and departmental activities conducted in foreign countries. The extent and scope of the Auditing Department in safeguarding the resources of the Church are increasing commensurate with the growth and widening activities of the Church. The audit of local funds of wards and stakes is assigned to stake auditors. Incorporated businesses owned or controlled by the Church, for which accounts are not maintained in the Finance and Records Department, are audited by professional auditing firms or by governmental regulatory agencies.</p>
+<p data-aid="28760892" id="p5">Based on our review of the annual financial report and other accounting data, and our study of the accounting and auditing methods by which financial operations are controlled, together with continuing discussions with personnel of the Finance and Records Department, the Auditing Department, and Church legal representatives, we are of the opinion that the general funds of the Church received and expended during the year 1982 have been properly accounted for in accordance with the established procedures outlined herein.</p>
+<div class="closing-block">
+<p class="closing" data-aid="28760893" id="closing1">Respectfully submitted,</p>
+<p class="closing" data-aid="28760894" id="closing2">CHURCH AUDIT COMMITTEE</p>
+<p class="signature" data-aid="150025408" id="p7">Wilford G. Edling</p>
+<p class="signature" data-aid="150025409" id="p8">David M. Kennedy</p>
+<p class="signature" data-aid="150025410" id="p9">Warren E. Pugh</p>
+<p class="signature" data-aid="150025411" id="p10">Merrill J. Bateman</p>
+<p class="signature" data-aid="28760895" id="p11">Ted E. Davis</p>
+</div>
 </div>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/1983/04/church-audit-committee-report</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/april-1983-general-conference/1983-04-2010-church-audit-committee-report-64k-eng.mp3" length="1653246" type="audio/mpeg"/>
+      <enclosure url="https://assets.churchofjesuschrist.org/40b665e832df11eca29deeeeac1e03f949c0afd5-64k-en.mp3" length="2104479" type="audio/mpeg"/>
       <pubDate>Sat, 02 Apr 1983 14:00:00 -0700</pubDate>
+      <itunes:author>Wilford G. Edling</itunes:author>
     </item>
     <item>
       <title>The Church Audit Committee Report</title>
-      <link>http://www.lds.org/general-conference/1984/04/the-church-audit-committee-report?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/1984/04/the-church-audit-committee-report?lang=eng</link>
       <description>To the First Presidency of The Church of Jesus Christ of Latter-day Saints</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/1984/04/the-church-audit-committee-report" schema-version="1" doc-id="general-conference_03174_000_009" doc-version="2" hash="VIEqwQ">
-  
-  <div class="heading" uri="/general-conference/1984/04/the-church-audit-committee-report.head">
-    <h1 class="title" pid="2ecBYfEnaE-GN82HWqWHkQ" hash="dXyfag">The Church Audit Committee Report</h1>
-    <p class="authorName" pid="p6ZvxNmOT0SeLyoXczA_1w" hash="9QL6Og">Wilford G. Edling</p>
-    <p class="kicker" pid="RpNUd6MmaEaBjXD75YIkag" hash="0QbxOQ">To the First Presidency of The Church of Jesus Christ of Latter-day Saints</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/1984/04/the-church-audit-committee-report.t1">
-      <p class="para" uri="/general-conference/1984/04/the-church-audit-committee-report.p1" pid="4fDkaq4tCU2td5aTDlnCpQ" hash="KaUOBQ">We have reviewed the annual financial report of the Church as of 31 December 1983 and operations for the year then ended. The financial statements and operations reviewed by the committee include the general funds of the Church and of other controlled organizations, the accounts of which are maintained by the Finance and Records Department of the Church. We have also examined the budgeting, accounting, and auditing procedures employed and the manner in which funds are received and expenditures are controlled. We determined that expenditures of general Church funds were authorized by the First Presidency and by budgetary procedures. The budget is authorized by the Council on Disposition of Tithes, comprised of the First Presidency, the Council of the Twelve, and the Presiding Bishopric. The Budget and Appropriations Committee, in weekly meetings, administers the expenditure of funds under the budget.</p>
-      <p class="para" uri="/general-conference/1984/04/the-church-audit-committee-report.p2" pid="uDaNWQvEQESreDWa3CLr6A" hash="bkZR_Q">Modern accounting technology and equipment are employed by the Finance and Records Department and other departments in keeping abreast of rapid Church expansion and changing methods of electronic data processing.</p>
-      <p class="para" uri="/general-conference/1984/04/the-church-audit-committee-report.p3" pid="RlS4rKafgUSEMQT1qMmpLg" hash="1_gscA">The Auditing Department, which is independent of all other departments, functions in the threefold capacity of performing financial audits, operational audits, and audits of computer systems employed by the Church. These services are conducted on a continual basis and include all Church departments, other Church-controlled organizations (the accounts of which are maintained in the Finance and Records Department), and worldwide operations including missions, administrative offices, and departmental activities conducted in foreign countries. The extent and scope of the Auditing Department in safeguarding the resources of the Church are expanding to encompass the growth and widening activities of the Church. The audit of local funds of wards and stakes is assigned to stake auditors, the reports of which are now reviewed by the Church Auditing Department. Incorporated businesses owned or controlled by the Church, for which accounts are not maintained in the Finance and Records Department, are audited by professional auditing firms or by government regulatory agencies.</p>
-      <p class="para" uri="/general-conference/1984/04/the-church-audit-committee-report.p4" pid="NfnS6VUqGkOUFsh_aa_Xhg" hash="CRrqaA">Based on our review of the annual financial report and other accounting data, and our study of the accounting and auditing methods by which financial operations are controlled, together with continuing discussions with personnel of the Finance and Records Department, the Auditing Department, and Church legal representatives, we are of the opinion that the general funds of the Church received and expended during the year 1983 have been properly accounted for in accordance with the established procedures outlined herein.</p>
-      <p class="para" uri="/general-conference/1984/04/the-church-audit-committee-report.closing">
-        <p class="closing">Respectfully submitted,</p>
-        <p class="closing">Church Audit Committee</p>
-        <p class="signature">Ted E. Davis</p>
-      </p>
-    </div>
-  </div>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="19"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/635D6845FE8FF2B5369BEBD7015C31CEAABCAB03/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/635D6845FE8FF2B5369BEBD7015C31CEAABCAB03/full/%21192%2C/0/default" data-video-title="The Church Audit Committee Report" data-video-description="The Church Audit Committee Report" data-video-id="2255449804001" data-ip="Download and Streaming                            " data-duration="235602" data-assetId="0fce19057615e99c04f9fa3218adcd61df62e11a" data-ref-id="0fce19057615e99c04f9fa3218adcd61df62e11a" data-duration-string="3:55" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/2255449804001.m3u8" type="application/vnd.apple.mpegurl" data-width="480" data-height="360" data-file-size="14876237"/><source src="https://assets.churchofjesuschrist.org/0fce19057615e99c04f9fa3218adcd61df62e11a-360p-en.mp4" type="video/mp4" data-width="480" data-height="360" data-file-size="14876237"/></video><h1 data-aid="28764490" id="title1">The Church Audit Committee Report</h1>
+<div class="byline">
+<p class="author-name" data-aid="28764491" id="p1">Presented by Wilford G. Edling</p>
+<p class="author-role" data-aid="150024713" id="p6">Chairman, Church Audit Committee</p>
+</div>
+<p class="kicker" data-aid="28764492" id="kicker1">To the First Presidency of The Church of Jesus Christ of Latter-day Saints</p>
+</header>
+<div class="body-block">
+<p data-aid="28764493" id="p2">We have reviewed the annual financial report of the Church as of 31 December 1983 and operations for the year then ended. The financial statements and operations reviewed by the committee include the general funds of the Church and of other controlled organizations, the accounts of which are maintained by the Finance and Records Department of the Church. We have also examined the budgeting, accounting, and auditing procedures employed and the manner in which funds are received and expenditures are controlled. We determined that expenditures of general Church funds were authorized by the First Presidency and by budgetary procedures. The budget is authorized by the Council on Disposition of Tithes, comprised of the First Presidency, the Council of the Twelve, and the Presiding Bishopric. The Budget and Appropriations Committee, in weekly meetings, administers the expenditure of funds under the budget.</p>
+<p data-aid="28764494" id="p3">Modern accounting technology and equipment are employed by the Finance and Records Department and other departments in keeping abreast of rapid Church expansion and changing methods of electronic data processing.</p>
+<p data-aid="28764495" id="p4">The Auditing Department, which is independent of all other departments, functions in the threefold capacity of performing financial audits, operational audits, and audits of computer systems employed by the Church. These services are conducted on a continual basis and include all Church departments, other Church-controlled organizations (the accounts of which are maintained in the Finance and Records Department), and worldwide operations including missions, administrative offices, and departmental activities conducted in foreign countries. The extent and scope of the Auditing Department in safeguarding the resources of the Church are expanding to encompass the growth and widening activities of the Church. The audit of local funds of wards and stakes is assigned to stake auditors, the reports of which are now reviewed by the Church Auditing Department. Incorporated businesses owned or controlled by the Church, for which accounts are not maintained in the Finance and Records Department, are audited by professional auditing firms or by government regulatory agencies.</p>
+<p data-aid="28764496" id="p5">Based on our review of the annual financial report and other accounting data, and our study of the accounting and auditing methods by which financial operations are controlled, together with continuing discussions with personnel of the Finance and Records Department, the Auditing Department, and Church legal representatives, we are of the opinion that the general funds of the Church received and expended during the year 1983 have been properly accounted for in accordance with the established procedures outlined herein.</p>
+<div class="closing-block">
+<p class="closing" data-aid="28764497" id="closing1">Respectfully submitted,</p>
+<p class="closing" data-aid="28764498" id="closing2">Church Audit Committee</p>
+<p class="signature" data-aid="150024715" id="p7">Wilford G. Edling</p>
+<p class="signature" data-aid="150024717" id="p8">David M. Kennedy</p>
+<p class="signature" data-aid="150024719" id="p9">Warren E. Pugh</p>
+<p class="signature" data-aid="150024722" id="p10">Merrill J. Bateman</p>
+<p class="signature" data-aid="28764499" id="p11">Ted E. Davis</p>
+</div>
 </div>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/1984/04/the-church-audit-committee-report</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/april-1984-general-conference/1984-04-2010-the-church-audit-committee-report-64k-eng.mp3" length="1906503" type="audio/mpeg"/>
+      <enclosure url="https://assets.churchofjesuschrist.org/01cd480932cc11ecb890eeeeac1e0eb4f36551af-64k-en.mp3" length="2279789" type="audio/mpeg"/>
       <pubDate>Sat, 31 Mar 1984 14:00:00 -0700</pubDate>
+      <itunes:author>Wilford G. Edling</itunes:author>
     </item>
     <item>
       <title>The Church Audit Committee Report</title>
-      <link>http://www.lds.org/general-conference/1985/04/the-church-audit-committee-report?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/1985/04/the-church-audit-committee-report?lang=eng</link>
       <description>To the First Presidency of The Church of Jesus Christ of Latter-day Saints</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/1985/04/the-church-audit-committee-report" schema-version="1" doc-id="general-conference_03187_000_009" doc-version="2" hash="DhfwCQ">
-  
-  <div class="heading" uri="/general-conference/1985/04/the-church-audit-committee-report.head">
-    <h1 class="title" pid="V6jR9YbGS0abd-81ZMOelQ" hash="dXyfag">The Church Audit Committee Report</h1>
-    <p class="authorName" pid="jDvpI-CIcU63Pt1V5MP3jw" hash="9QL6Og">Wilford G. Edling</p>
-    <p class="kicker" pid="sEfLGGUoWEqc3ECaj97guQ" hash="0QbxOQ">To the First Presidency of The Church of Jesus Christ of Latter-day Saints</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/1985/04/the-church-audit-committee-report.t1">
-      <p class="para" uri="/general-conference/1985/04/the-church-audit-committee-report.p1" pid="VIUcuiavs0uZF2L4jlL35Q" hash="MnSHJQ">We have reviewed the annual financial report of the Church as of 31 December 1984 and operations for the year then ended. The financial statements and operations reviewed by the committee include the general funds of the Church and of other controlled organizations, the accounts of which are maintained by the Finance and Records Department of the Church. We have also examined the budgeting, accounting, and auditing procedures employed and the manner in which funds are received and expenditures are controlled. We determined that expenditures of general Church funds were authorized by the First Presidency and by budgetary procedures. The budget is authorized by the Council on Disposition of Tithes, composed of the First Presidency, the Council of the Twelve, and the Presiding Bishopric. The Budget and Appropriations Committee, in weekly meetings, administers the expenditure of funds under the budget.</p>
-      <p class="para" uri="/general-conference/1985/04/the-church-audit-committee-report.p2" pid="7tiU7uh_dE-3my4RResu2Q" hash="bkZR_Q">Modern accounting technology and equipment are employed by the Finance and Records Department and other departments in keeping abreast of rapid Church expansion and changing methods of electronic data processing.</p>
-      <p class="para" uri="/general-conference/1985/04/the-church-audit-committee-report.p3" pid="NXmfbWmNuUi6hUW1OFKGXQ" hash="rBBAWA">The Auditing Department, which is independent of all other departments, functions in the threefold capacity of performing financial audits, operational audits, and audits of computer systems employed by the Church. These services are conducted on a continual basis for all Church departments and other Church-controlled organizations, the accounts of which are maintained under the direction of the Finance and Records Department. These comprise worldwide operations including missions, schools, administrative offices, and departmental activities conducted in foreign countries. The extent and scope of the Auditing Department services in safeguarding the resources of the Church are expanding to encompass the growth and widening activities of the Church. The audits of local funds of wards and stakes are performed by stake auditors, the reports of which are reviewed by the Church Auditing Department. Incorporated businesses owned or controlled by the Church, for which accounts are not maintained in the Finance and Records Department, are audited by the Auditing Department, professional auditing firms, or governmental regulatory agencies.</p>
-      <p class="para" uri="/general-conference/1985/04/the-church-audit-committee-report.p4" pid="lzp-mvMz90SRQMuD1xw7Kg" hash="_q7WEg">Based on our review of the annual financial report and other accounting data, and our study of the accounting and auditing methods by which financial operations are controlled, together with continuing discussions with personnel of the Finance and Records Department and Auditing departments, and Church legal representatives, we are of the opinion that the general funds of the Church received and expended during the year 1984 have been properly accounted for in accordance with established procedures outlined herein.</p>
-      <p class="para" uri="/general-conference/1985/04/the-church-audit-committee-report.closing">
-        <p class="closing">Respectfully submitted,</p>
-        <p class="closing">CHURCH AUDIT COMMITTEE</p>
-        <p class="signature">Ted E. Davis</p>
-      </p>
-    </div>
-  </div>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="19"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/F53602996B920A3D6CB89A4EE5A2160F2B0147C2/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/F53602996B920A3D6CB89A4EE5A2160F2B0147C2/full/%21192%2C/0/default" data-video-title="The Church Audit Committee Report" data-video-description="The Church Audit Committee Report" data-video-id="2255437952001" data-ip="Download and Streaming                            " data-duration="223000" data-assetId="626907e9c1a2b9b991679d80200ed8ec455b0c67" data-ref-id="626907e9c1a2b9b991679d80200ed8ec455b0c67" data-duration-string="3:43" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/2255437952001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="480" data-height="360" data-file-size="12338775"/><source src="https://assets.churchofjesuschrist.org/626907e9c1a2b9b991679d80200ed8ec455b0c67-360p-en.mp4" type="video/mp4" data-width="480" data-height="360" data-file-size="12338775"/></video><h1 data-aid="28767119" id="title1">The Church Audit Committee Report</h1>
+<div class="byline">
+<p class="author-name" data-aid="28767120" id="p1">Presented by Wilford G. Edling</p>
+<p class="author-role" data-aid="150026617" id="p6">Chairman, Church Audit Committee</p>
+</div>
+<p class="kicker" data-aid="28767121" id="kicker1">To the First Presidency of The Church of Jesus Christ of Latter-day Saints</p>
+</header>
+<div class="body-block">
+<p data-aid="28767122" id="p2">We have reviewed the annual financial report of the Church as of 31 December 1984 and operations for the year then ended. The financial statements and operations reviewed by the committee include the general funds of the Church and of other controlled organizations, the accounts of which are maintained by the Finance and Records Department of the Church. We have also examined the budgeting, accounting, and auditing procedures employed and the manner in which funds are received and expenditures are controlled. We determined that expenditures of general Church funds were authorized by the First Presidency and by budgetary procedures. The budget is authorized by the Council on Disposition of Tithes, composed of the First Presidency, the Council of the Twelve, and the Presiding Bishopric. The Budget and Appropriations Committee, in weekly meetings, administers the expenditure of funds under the budget.</p>
+<p data-aid="28767123" id="p3">Modern accounting technology and equipment are employed by the Finance and Records Department and other departments in keeping abreast of rapid Church expansion and changing methods of electronic data processing.</p>
+<p data-aid="28767124" id="p4">The Auditing Department, which is independent of all other departments, functions in the threefold capacity of performing financial audits, operational audits, and audits of computer systems employed by the Church. These services are conducted on a continual basis for all Church departments and other Church-controlled organizations, the accounts of which are maintained under the direction of the Finance and Records Department. These comprise worldwide operations including missions, schools, administrative offices, and departmental activities conducted in foreign countries. The extent and scope of the Auditing Department services in safeguarding the resources of the Church are expanding to encompass the growth and widening activities of the Church. The audits of local funds of wards and stakes are performed by stake auditors, the reports of which are reviewed by the Church Auditing Department. Incorporated businesses owned or controlled by the Church, for which accounts are not maintained in the Finance and Records Department, are audited by the Auditing Department, professional auditing firms, or governmental regulatory agencies.</p>
+<p data-aid="28767125" id="p5">Based on our review of the annual financial report and other accounting data, and our study of the accounting and auditing methods by which financial operations are controlled, together with continuing discussions with personnel of the Finance and Records Department and Auditing departments, and Church legal representatives, we are of the opinion that the general funds of the Church received and expended during the year 1984 have been properly accounted for in accordance with established procedures outlined herein.</p>
+<div class="closing-block">
+<p class="closing" data-aid="28767126" id="closing1">Respectfully submitted,</p>
+<p class="closing" data-aid="28767127" id="closing2">Church Audit Committee</p>
+<p class="signature" data-aid="150026618" id="p7">Wilford G. Edling</p>
+<p class="signature" data-aid="150026620" id="p8">David M. Kennedy</p>
+<p class="signature" data-aid="150026622" id="p9">Warren E. Pugh</p>
+<p class="signature" data-aid="150026623" id="p10">Merrill J. Bateman</p>
+<p class="signature" data-aid="28767128" id="p11">Ted E. Davis</p>
+</div>
 </div>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/1985/04/the-church-audit-committee-report</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/april-1985-general-conference/1985-04-2010-the-church-audit-committee-report-64k-eng.mp3" length="1807807" type="audio/mpeg"/>
+      <enclosure url="https://assets.churchofjesuschrist.org/c8a9dba432d111ec83ebeeeeac1e20b3e72f5bda-32k-en.mp3" length="1338973" type="audio/mpeg"/>
       <pubDate>Sat, 06 Apr 1985 14:00:00 -0700</pubDate>
+      <itunes:author>Wilford G. Edling</itunes:author>
     </item>
     <item>
       <title>The Church Audit Committee Report</title>
-      <link>http://www.lds.org/general-conference/1986/04/the-church-audit-committee-report?lang=eng</link>
-      <description>We have reviewed the annual financial report of the Church as of 31 December 1985 and the operations for the year then ended. The financial statements and operations reviewed by the committee include the general funds of the Church and of other contr</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/1986/04/the-church-audit-committee-report" schema-version="1" doc-id="general-conference_03200_000_008" doc-version="2" hash="GDL4kA">
-  
-  <div class="heading" uri="/general-conference/1986/04/the-church-audit-committee-report.head">
-    <h1 class="title" pid="ynLmqLEWa0KdjgiO5_TIeg" hash="dXyfag">The Church Audit Committee Report</h1>
-    <p class="authorName" pid="rEmReRt2QkKb8x4NIZkR-w" hash="9QL6Og">Wilford G. Edling</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/1986/04/the-church-audit-committee-report.t1">
-      <p class="para" uri="/general-conference/1986/04/the-church-audit-committee-report.p1" pid="L0w6C1k3KkydtxY07cc7Qw" hash="Ris-Jw">We have reviewed the annual financial report of the Church as of 31 December 1985 and the operations for the year then ended. The financial statements and operations reviewed by the committee include the general funds of the Church and of other controlled organizations, the accounts of which are maintained by the Finance and Records Department of the Church. We have also examined the budgeting, accounting, and auditing procedures employed and the manner in which funds are received and expenditures are controlled. We determined that expenditures of general Church funds were authorized by the First Presidency and by budgetary procedures. The budget is authorized by the Council on Disposition of Tithes, composed of the First Presidency, the Council of the Twelve, and the Presiding Bishopric. The Appropriations Committee, in weekly meetings, administers major expenditures under the budget.</p>
-      <p class="para" uri="/general-conference/1986/04/the-church-audit-committee-report.p2" pid="KrC1c1GO6k6CeOE5C06iFg" hash="bkZR_Q">Modern accounting technology and equipment are employed by the Finance and Records Department and other departments in keeping abreast of rapid Church expansion and changing methods of electronic data processing.</p>
-      <p class="para" uri="/general-conference/1986/04/the-church-audit-committee-report.p3" pid="ojupy2lN5UyKVXy4RE5sJA" hash="JNF2Jg">The Auditing Department, which is independent of all other departments, functions in the threefold capacity of performing financial audits, operational audits, and audits of the computer systems employed by the Church. These services are performed on a continuing basis for Church departments and other Church-controlled organizations, the accounts of which are maintained by or under the direction of the Finance and Records Department. These comprise worldwide operations including missions, schools, administrative offices, and departmental activities. The extent and scope of the Auditing Department services in safeguarding the resources of the Church are expanding to encompass the growth and widening activities of the Church. The audits of local funds of wards and stakes are performed by stake auditors, the reports of which are reviewed by the Church Auditing Department. Incorporated businesses owned or controlled by the Church, for which accounts are not maintained in the Finance and Records Department, are audited by an internal staff of certified public accountants, independent professional auditing firms, or government regulatory agencies.</p>
-      <p class="para" uri="/general-conference/1986/04/the-church-audit-committee-report.p4" pid="EIc6hNIqO0mJefH_-cjTVQ" hash="FwTiWQ">Based on our review of the annual financial report and other data, and our study of the accounting and auditing methods by which financial operations are controlled, together with continuing discussions with personnel of the Finance and Records and Auditing departments and Church legal representatives, we are of the opinion that the general funds of the Church, received and expended during the year 1985, have been properly accounted for in accordance with established procedures outlined herein.</p>
-      <p class="para" uri="/general-conference/1986/04/the-church-audit-committee-report.closing">
-        <p class="closing">Respectfully submitted,</p>
-        <p class="closing">CHURCH AUDIT COMMITTEE</p>
-        <p class="signature">Ted E. Davis</p>
-      </p>
-    </div>
-  </div>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/1986/04/the-church-audit-committee-report?lang=eng</link>
+      <description>We have reviewed the annual financial report of the Church as of 31 December 1985 and the operations for the year then ended. The financial statements and operations reviewed by the committee include the general funds of the Church and of other controlled organizations, the accounts of which are maintained by the Finance and Records Department of the Church. We have also examined the budgeting, accounting, and auditing procedures employed and the manner in which funds are received and expenditures are controlled. We determined that expenditures of general Church funds were authorized by the First Presidency and by budgetary procedures. The budget is authorized by the Council on Disposition of Tithes, composed of the First Presidency, the Council of the Twelve, and the Presiding Bishopric. The Appropriations Committee, in weekly meetings, administers major expenditures under the budget.</description>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="18"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/76357d6d692f78a82b82065d888d165f77715bcf/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/76357d6d692f78a82b82065d888d165f77715bcf/full/%21192%2C/0/default" data-video-title="The Church Audit Committee Report" data-video-description="The Church Audit Committee Report" data-video-id="2255434000001" data-ip="Download and Streaming                            " data-duration="209075" data-assetId="3345411bbe8afaaa6714a47017e4c8adc7a69495" data-ref-id="3345411bbe8afaaa6714a47017e4c8adc7a69495" data-duration-string="3:29" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/2255434000001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="480" data-height="360" data-file-size="11143858"/><source src="https://assets.churchofjesuschrist.org/3345411bbe8afaaa6714a47017e4c8adc7a69495-360p-en.mp4" type="video/mp4" data-width="480" data-height="360" data-file-size="11143858"/></video><h1 data-aid="28769879" id="title1">The Church Audit Committee Report</h1>
+<div class="byline">
+<p class="author-name" data-aid="28769880" id="p1">Presented by Wilford G. Edling</p>
+<p class="author-role" data-aid="150026673" id="p6">Chairman, Church Audit Committee</p>
+</div>
+</header>
+<div class="body-block">
+<p data-aid="28769881" id="p2">We have reviewed the annual financial report of the Church as of 31 December 1985 and the operations for the year then ended. The financial statements and operations reviewed by the committee include the general funds of the Church and of other controlled organizations, the accounts of which are maintained by the Finance and Records Department of the Church. We have also examined the budgeting, accounting, and auditing procedures employed and the manner in which funds are received and expenditures are controlled. We determined that expenditures of general Church funds were authorized by the First Presidency and by budgetary procedures. The budget is authorized by the Council on Disposition of Tithes, composed of the First Presidency, the Council of the Twelve, and the Presiding Bishopric. The Appropriations Committee, in weekly meetings, administers major expenditures under the budget.</p>
+<p data-aid="28769882" id="p3">Modern accounting technology and equipment are employed by the Finance and Records Department and other departments in keeping abreast of rapid Church expansion and changing methods of electronic data processing.</p>
+<p data-aid="28769883" id="p4">The Auditing Department, which is independent of all other departments, functions in the threefold capacity of performing financial audits, operational audits, and audits of the computer systems employed by the Church. These services are performed on a continuing basis for Church departments and other Church-controlled organizations, the accounts of which are maintained by or under the direction of the Finance and Records Department. These comprise worldwide operations including missions, schools, administrative offices, and departmental activities. The extent and scope of the Auditing Department services in safeguarding the resources of the Church are expanding to encompass the growth and widening activities of the Church. The audits of local funds of wards and stakes are performed by stake auditors, the reports of which are reviewed by the Church Auditing Department. Incorporated businesses owned or controlled by the Church, for which accounts are not maintained in the Finance and Records Department, are audited by an internal staff of certified public accountants, independent professional auditing firms, or government regulatory agencies.</p>
+<p data-aid="28769884" id="p5">Based on our review of the annual financial report and other data, and our study of the accounting and auditing methods by which financial operations are controlled, together with continuing discussions with personnel of the Finance and Records and Auditing departments and Church legal representatives, we are of the opinion that the general funds of the Church, received and expended during the year 1985, have been properly accounted for in accordance with established procedures outlined herein.</p>
+<div class="closing-block">
+<p class="closing" data-aid="28769885" id="closing1">Respectfully submitted,</p>
+<p class="closing" data-aid="28769886" id="closing2">Church Audit Committee</p>
+<p class="signature" data-aid="150026675" id="p7">Wilford G. Edling</p>
+<p class="signature" data-aid="150026676" id="p8">David M. Kennedy</p>
+<p class="signature" data-aid="150026677" id="p9">Warren E. Pugh</p>
+<p class="signature" data-aid="150026678" id="p10">Merrill J. Bateman</p>
+<p class="signature" data-aid="28769887" id="p11">Ted E. Davis</p>
+</div>
 </div>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/1986/04/the-church-audit-committee-report</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/april-1986-general-conference/1986-04-2010-the-church-audit-committee-report-64k-eng.mp3" length="1691101" type="audio/mpeg"/>
+      <enclosure url="https://assets.churchofjesuschrist.org/a5a30f2332dc11ec8193eeeeac1ebf624bd244b7-64k-en.mp3" length="2061222" type="audio/mpeg"/>
       <pubDate>Sat, 05 Apr 1986 14:00:00 -0700</pubDate>
+      <itunes:author>Wilford G. Edling</itunes:author>
     </item>
     <item>
       <title>The Church Audit Committee Report</title>
-      <link>http://www.lds.org/general-conference/1987/04/the-church-audit-committee-report?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/1987/04/the-church-audit-committee-report?lang=eng</link>
       <description>To the First Presidency of The Church of Jesus Christ of Latter-day Saints</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/1987/04/the-church-audit-committee-report" schema-version="1" doc-id="general-conference_03213_000_009" doc-version="2" hash="-9K9xQ">
-  
-  <div class="heading" uri="/general-conference/1987/04/the-church-audit-committee-report.head">
-    <h1 class="title" pid="HQ6eT7hxpkiEdcolf6fIMQ" hash="dXyfag">The Church Audit Committee Report</h1>
-    <p class="authorName" pid="9kz4pPqb902zvWSEOiv1HQ" hash="9QL6Og">Wilford G. Edling</p>
-    <p class="kicker" pid="qaPggnzbj0m2-_WeBihkmQ" hash="0QbxOQ">To the First Presidency of The Church of Jesus Christ of Latter-day Saints</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/1987/04/the-church-audit-committee-report.t1">
-      <p class="para" uri="/general-conference/1987/04/the-church-audit-committee-report.p1" pid="3trSGD6vbkmpA7wPrSzGpQ" hash="H5KjJA">For the purpose of evaluating the adequacy of controls over receipts and expenditures of the general funds of the Church and its controlled organizations, we have reviewed the system of budgeting, accounting, and auditing, and the related financial statements of the Church for the year ended December 31, 1986, and the manner in which funds are received and expenditures are controlled.</p>
-      <p class="para" uri="/general-conference/1987/04/the-church-audit-committee-report.p2" pid="aBgfIylTg0SKe_WCIbWc5A" hash="c0dasQ">Expenditures of general Church funds for the year were authorized by the First Presidency and were made in compliance with budgetary procedures. The budget is authorized by the Council on Disposition of Tithes, composed of the First Presidency, the Council of the Twelve, and the Presiding Bishopric. The Appropriations Committee, in weekly meetings, administers major expenditures under the budget.</p>
-      <p class="para" uri="/general-conference/1987/04/the-church-audit-committee-report.p3" pid="rTrqg2c8qUO6ibbKJwvrfQ" hash="CUsqmQ">The general fund accounts of the Church are maintained by its Finance and Records Department, which uses modern accounting technology and equipment to keep abreast of the rapidly expanding and varied activities of the Church.</p>
-      <p class="para" uri="/general-conference/1987/04/the-church-audit-committee-report.p4" pid="GJDuLgcnw02PiAaKKlwGZw" hash="eMSlLQ">The Auditing Department, which is independent of all other departments, performs financial audits, operational audits, and audits of computer systems employed by the Church. These auditing services are performed on a continuing basis for Church departments and other Church-controlled organizations engaged in worldwide operations, including missions, schools, administrative offices, and departmental activities. The extent and scope of the Auditing Department services in safeguarding the resources of the Church are expanding to encompass the growth and widening activities of the Church.</p>
-      <p class="para" uri="/general-conference/1987/04/the-church-audit-committee-report.p5" pid="mvjK2nQY9kidhJ3z3GpkDw" hash="CDkbEg">The audits of local funds of wards and stakes are performed by stake auditors. The audit procedures are established and the audit reports are reviewed by the Church Auditing Department. Incorporated businesses owned or controlled by the Church for which accounts are not maintained in the Finance and Records Department are audited by the Church’s internal staff of certified public accountants, by independent professional auditing firms, or by government regulatory agencies.</p>
-      <p class="para" uri="/general-conference/1987/04/the-church-audit-committee-report.p6" pid="kNDUhDZVx0akr_olqKtlXw" hash="O4apsg">Based on our review of the system of financial controls within the Church, together with continuing discussions with personnel of the Finance and Records and Auditing departments, and the Office of Church Legal Counsel, we are of the opinion that budgeting, accounting, and auditing controls are adequate for Church needs and purposes, and that in all material respects the general funds of the Church received and expended during the year ended December 31, 1986, have been controlled and accounted for in accordance with established Church policy and procedures.</p>
-      <p class="para" uri="/general-conference/1987/04/the-church-audit-committee-report.closing">
-        <p class="closing">Respectfully submitted,</p>
-        <p class="closing">Church Audit Committee</p>
-        <p class="signature">Ted E. Davis</p>
-      </p>
-    </div>
-  </div>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="20"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/936b81288446edd9a629bbad723f7c162b782f1b/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/936b81288446edd9a629bbad723f7c162b782f1b/full/%21192%2C/0/default" data-video-title="The Church Audit Committee Report" data-video-description="The Church Audit Committee Report" data-video-id="6389201561112" data-ip="Download &amp; Streaming" data-duration="220000" data-assetId="028522f2b714ce156c57372b6a850b677aaf1049" data-ref-id="028522f2b714ce156c57372b6a850b677aaf1049" data-duration-string="3:40" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6389201561112.m3u8" type="application/vnd.apple.mpegurl" data-width="480" data-height="360" data-file-size="11842918"/><source src="https://assets.churchofjesuschrist.org/028522f2b714ce156c57372b6a850b677aaf1049-360p-en.mp4" type="video/mp4" data-width="480" data-height="360" data-file-size="11842918"/></video><h1 data-aid="28772783" id="title1">The Church Audit Committee Report</h1>
+<div class="byline">
+<p class="author-name" data-aid="28772784" id="p1">Presented by Wilford G. Edling</p>
+<p class="author-role" data-aid="150028693" id="p8">Chairman, Church Audit Committee</p>
+</div>
+<p class="kicker" data-aid="28772785" id="kicker1">To the First Presidency of The Church of Jesus Christ of Latter-day Saints</p>
+</header>
+<div class="body-block">
+<p data-aid="28772786" id="p2">For the purpose of evaluating the adequacy of controls over receipts and expenditures of the general funds of the Church and its controlled organizations, we have reviewed the system of budgeting, accounting, and auditing, and the related financial statements of the Church for the year ended December 31, 1986, and the manner in which funds are received and expenditures are controlled.</p>
+<p data-aid="28772787" id="p3">Expenditures of general Church funds for the year were authorized by the First Presidency and were made in compliance with budgetary procedures. The budget is authorized by the Council on Disposition of Tithes, composed of the First Presidency, the Council of the Twelve, and the Presiding Bishopric. The Appropriations Committee, in weekly meetings, administers major expenditures under the budget.</p>
+<p data-aid="28772788" id="p4">The general fund accounts of the Church are maintained by its Finance and Records Department, which uses modern accounting technology and equipment to keep abreast of the rapidly expanding and varied activities of the Church.</p>
+<p data-aid="28772789" id="p5">The Auditing Department, which is independent of all other departments, performs financial audits, operational audits, and audits of computer systems employed by the Church. These auditing services are performed on a continuing basis for Church departments and other Church-controlled organizations engaged in worldwide operations, including missions, schools, administrative offices, and departmental activities. The extent and scope of the Auditing Department services in safeguarding the resources of the Church are expanding to encompass the growth and widening activities of the Church.</p>
+<p data-aid="28772790" id="p6">The audits of local funds of wards and stakes are performed by stake auditors. The audit procedures are established and the audit reports are reviewed by the Church Auditing Department. Incorporated businesses owned or controlled by the Church for which accounts are not maintained in the Finance and Records Department are audited by the Church’s internal staff of certified public accountants, by independent professional auditing firms, or by government regulatory agencies.</p>
+<p data-aid="28772791" id="p7">Based on our review of the system of financial controls within the Church, together with continuing discussions with personnel of the Finance and Records and Auditing departments, and the Office of Church Legal Counsel, we are of the opinion that budgeting, accounting, and auditing controls are adequate for Church needs and purposes, and that in all material respects the general funds of the Church received and expended during the year ended December 31, 1986, have been controlled and accounted for in accordance with established Church policy and procedures.</p>
+<div class="closing-block">
+<p class="closing" data-aid="28772792" id="closing1">Respectfully submitted,</p>
+<p class="closing" data-aid="28772793" id="closing2">Church Audit Committee</p>
+<p class="signature" data-aid="150028694" id="p9">Wilford G. Edling</p>
+<p class="signature" data-aid="150028695" id="p10">David M. Kennedy</p>
+<p class="signature" data-aid="150028696" id="p11">Warren E. Pugh</p>
+<p class="signature" data-aid="150028697" id="p12">Merrill J. Bateman</p>
+<p class="signature" data-aid="28772794" id="p13">Ted E. Davis</p>
+</div>
 </div>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/1987/04/the-church-audit-committee-report</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/april-1987-general-conference/1987-04-2020-the-church-audit-committee-report-64k-eng.mp3" length="1797442" type="audio/mpeg"/>
+      <enclosure url="https://assets.churchofjesuschrist.org/f1033c6132da11ec89b6eeeeac1e02bae9bbaf86-64k-en.mp3" length="2175924" type="audio/mpeg"/>
       <pubDate>Sat, 04 Apr 1987 14:00:00 -0700</pubDate>
+      <itunes:author>Wilford G. Edling</itunes:author>
     </item>
     <item>
       <title>The Church Audit Committee Report</title>
-      <link>http://www.lds.org/general-conference/1988/04/the-church-audit-committee-report?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/1988/04/the-church-audit-committee-report?lang=eng</link>
       <description>To the First Presidency of The Church of Jesus Christ of Latter-day Saints</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/1988/04/the-church-audit-committee-report" schema-version="1" doc-id="general-conference_03226_000_009" doc-version="2" hash="a_0PPQ">
-  
-  <div class="heading" uri="/general-conference/1988/04/the-church-audit-committee-report.head">
-    <h1 class="title" pid="s-botDIfgUWKL_pVoWqPPw" hash="dXyfag">The Church Audit Committee Report</h1>
-    <p class="authorName" pid="fxVirEoI50us1lunD1Epaw" hash="9QL6Og">Wilford G. Edling</p>
-    <p class="kicker" pid="s1L3ijU3W0mP4jLn9awZeg" hash="0QbxOQ">To the First Presidency of The Church of Jesus Christ of Latter-day Saints</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/1988/04/the-church-audit-committee-report.t1">
-      <p class="para" uri="/general-conference/1988/04/the-church-audit-committee-report.p1" pid="_hqLCofN-023zdzS-ZzNBA" hash="ncYvdg">For the purpose of evaluating the adequacy of controls over receipts and expenditures of the general funds of the Church and its controlled organizations, we have reviewed the system of budgeting, accounting, and auditing, and the related financial statements of the Church for the year ended December 31, 1987, and the manner in which funds are received and expenditures are controlled.</p>
-      <p class="para" uri="/general-conference/1988/04/the-church-audit-committee-report.p2" pid="vxKSK3sczEifeVjAfbXXtw" hash="c0dasQ">Expenditures of general Church funds for the year were authorized by the First Presidency and were made in compliance with budgetary procedures. The budget is authorized by the Council on Disposition of Tithes composed of the First Presidency, the Council of the Twelve, and the Presiding Bishopric. The Appropriations Committee, in weekly meetings, administers major expenditures under the budget.</p>
-      <p class="para" uri="/general-conference/1988/04/the-church-audit-committee-report.p3" pid="aFNlBjtQbEGnO2HjKJcPBg" hash="CUsqmQ">The general fund accounts of the Church are maintained by its Finance and Records Department, which uses modern accounting technology and equipment to keep abreast of the rapidly expanding and varied activities of the Church.</p>
-      <p class="para" uri="/general-conference/1988/04/the-church-audit-committee-report.p4" pid="mEwFuwArs0K-3Ob7QP5P3g" hash="UePpmw">The Auditing Department, which is comprised of a staff of certified public accountants and similarly qualified auditors, and which is independent of all other departments, performs financial audits, operational audits, and audits of computer systems employed by the Church. These auditing services are performed on a continuing basis for Church departments and other Church-controlled organizations engaged in worldwide operations, including missions, schools, administrative offices, and departmental activities. The extent and scope of the Auditing Department services in safeguarding the resources of the Church are expanding to encompass the growth and widening activities of the Church.</p>
-      <p class="para" uri="/general-conference/1988/04/the-church-audit-committee-report.p5" pid="3NUcwQRgOUyp51XtEArnMw" hash="Tas_pA">The audits of local funds of wards and stakes are performed by stake auditors. The audit procedures are established and the audit reports are reviewed by the Church Auditing Department. Incorporated businesses owned or controlled by the Church for which accounts are not maintained in the Finance and Records Department are audited by the Church’s internal auditors, independent professional auditing firms, or government regulatory agencies.</p>
-      <p class="para" uri="/general-conference/1988/04/the-church-audit-committee-report.p6" pid="n83nXcsqik6CcACGhiQv5Q" hash="vCTuqw">Based on our review of the system of financial controls within the Church, together with continuing discussions with personnel of the Finance and Records and Auditing departments, we are of the opinion that budgeting, accounting, and auditing controls are adequate for Church needs and purposes, and that in all material respects the general funds of the Church received and expended during the year ended December 31, 1987, have been controlled and accounted for in accordance with established Church policy and procedures.</p>
-      <p class="para" uri="/general-conference/1988/04/the-church-audit-committee-report.closing">
-        <p class="closing">Respectfully submitted,</p>
-        <p class="closing">Church Audit Committee</p>
-        <p class="signature">Ted E. Davis</p>
-      </p>
-    </div>
-  </div>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="19"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/a921c214f2be404f787527bc87cf70f717878647/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/a921c214f2be404f787527bc87cf70f717878647/full/%21192%2C/0/default" data-video-title="The Church Audit Committee Report" data-video-description="The Church Audit Committee Report." data-video-id="2255426230001" data-ip="Download and Streaming                            " data-duration="231000" data-assetId="f1b78bafdcdbd29d4829363b0e1dd62cac95cab9" data-ref-id="f1b78bafdcdbd29d4829363b0e1dd62cac95cab9" data-duration-string="3:51" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/2255426230001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="480" data-height="360" data-file-size="12196101"/><source src="https://assets.churchofjesuschrist.org/f1b78bafdcdbd29d4829363b0e1dd62cac95cab9-360p-en.mp4" type="video/mp4" data-width="480" data-height="360" data-file-size="12196101"/></video><h1 data-aid="28775601" id="title1">The Church Audit Committee Report</h1>
+<div class="byline">
+<p class="author-name" data-aid="28775602" id="p1">Presented by Wilford G. Edling</p>
+<p class="author-role" data-aid="150028753" id="p8">Chairman, Church Audit Committee</p>
+</div>
+<p class="kicker" data-aid="28775603" id="kicker1">To the First Presidency of The Church of Jesus Christ of Latter-day Saints</p>
+</header>
+<div class="body-block">
+<p data-aid="28775604" id="p2">For the purpose of evaluating the adequacy of controls over receipts and expenditures of the general funds of the Church and its controlled organizations, we have reviewed the system of budgeting, accounting, and auditing, and the related financial statements of the Church for the year ended December 31, 1987, and the manner in which funds are received and expenditures are controlled.</p>
+<p data-aid="28775605" id="p3">Expenditures of general Church funds for the year were authorized by the First Presidency and were made in compliance with budgetary procedures. The budget is authorized by the Council on Disposition of Tithes composed of the First Presidency, the Council of the Twelve, and the Presiding Bishopric. The Appropriations Committee, in weekly meetings, administers major expenditures under the budget.</p>
+<p data-aid="28775606" id="p4">The general fund accounts of the Church are maintained by its Finance and Records Department, which uses modern accounting technology and equipment to keep abreast of the rapidly expanding and varied activities of the Church.</p>
+<p data-aid="28775607" id="p5">The Auditing Department, which is comprised of a staff of certified public accountants and similarly qualified auditors, and which is independent of all other departments, performs financial audits, operational audits, and audits of computer systems employed by the Church. These auditing services are performed on a continuing basis for Church departments and other Church-controlled organizations engaged in worldwide operations, including missions, schools, administrative offices, and departmental activities. The extent and scope of the Auditing Department services in safeguarding the resources of the Church are expanding to encompass the growth and widening activities of the Church.</p>
+<p data-aid="28775608" id="p6">The audits of local funds of wards and stakes are performed by stake auditors. The audit procedures are established and the audit reports are reviewed by the Church Auditing Department. Incorporated businesses owned or controlled by the Church for which accounts are not maintained in the Finance and Records Department are audited by the Church’s internal auditors, independent professional auditing firms, or government regulatory agencies.</p>
+<p data-aid="28775609" id="p7">Based on our review of the system of financial controls within the Church, together with continuing discussions with personnel of the Finance and Records and Auditing departments, we are of the opinion that budgeting, accounting, and auditing controls are adequate for Church needs and purposes, and that in all material respects the general funds of the Church received and expended during the year ended December 31, 1987, have been controlled and accounted for in accordance with established Church policy and procedures.</p>
+<div class="closing-block">
+<p class="closing" data-aid="28775610" id="closing1">Respectfully submitted,</p>
+<p class="closing" data-aid="28775611" id="closing2">Church Audit Committee</p>
+<p class="signature" data-aid="150028754" id="p9">Wilford G. Edling</p>
+<p class="signature" data-aid="150028755" id="p10">David M. Kennedy</p>
+<p class="signature" data-aid="150028757" id="p11">Warren E. Pugh</p>
+<p class="signature" data-aid="150028758" id="p12">Merrill J. Bateman</p>
+<p class="signature" data-aid="28775612" id="p13">Ted E. Davis</p>
+</div>
 </div>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/1988/04/the-church-audit-committee-report</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/april-1988-general-conference/1988-04-2020-the-church-audit-committee-report-64k-eng.mp3" length="1888963" type="audio/mpeg"/>
+      <enclosure url="https://assets.churchofjesuschrist.org/85015c5732ee11ec83ebeeeeac1e20b3b5aad19e-64k-en.mp3" length="2243708" type="audio/mpeg"/>
       <pubDate>Sat, 02 Apr 1988 14:00:00 -0700</pubDate>
+      <itunes:author>Wilford G. Edling</itunes:author>
     </item>
     <item>
       <title>The Church Audit Committee Report</title>
-      <link>http://www.lds.org/general-conference/1989/04/the-church-audit-committee-report?lang=eng</link>
-      <description>For the purpose of evaluating the adequacy of controls over receipts and expenditures of the general funds of the Church and its controlled organizations, we have reviewed the system of budgeting, accounting, and auditing, and the related financial s</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/1989/04/the-church-audit-committee-report" schema-version="1" doc-id="general-conference_03239_000_009" doc-version="2" hash="2Q3CzQ">
-  
-  <div class="heading" uri="/general-conference/1989/04/the-church-audit-committee-report.head">
-    <h1 class="title" pid="afX1Xooem0S19MoUC7mj2A" hash="dXyfag">The Church Audit Committee Report</h1>
-    <p class="authorName" pid="IRMDiJOhMkm0Ac_UDz-ABg" hash="9QL6Og">Wilford G. Edling</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/1989/04/the-church-audit-committee-report.t1">
-      <p class="para" uri="/general-conference/1989/04/the-church-audit-committee-report.p1" pid="vrBKVizfdkWrXpF6jQAgMg" hash="gcEK6Q">For the purpose of evaluating the adequacy of controls over receipts and expenditures of the general funds of the Church and its controlled organizations, we have reviewed the system of budgeting, accounting, and auditing, and the related financial statements of the Church for the year ended December 31, 1988, and the manner in which funds are received and expenditures are controlled.</p>
-      <p class="para" uri="/general-conference/1989/04/the-church-audit-committee-report.p2" pid="kNf600xehE-VIPfYAUnRJw" hash="283gEg">The expenditures of general Church funds for the year were authorized by the Council on the Disposition of Tithes, composed of the First Presidency, the Council of the Twelve, and the Presiding Bishopric, as prescribed under revelation of the Lord. The Appropriations Committee, in weekly meetings, administers major expenditures under the budget.</p>
-      <p class="para" uri="/general-conference/1989/04/the-church-audit-committee-report.p3" pid="4VIhsxD6qU6U1UnqaG5ijg" hash="CUsqmQ">The general fund accounts of the Church are maintained by its Finance and Records Department, which uses modern accounting technology and equipment to keep abreast of the rapidly expanding and varied activities of the Church.</p>
-      <p class="para" uri="/general-conference/1989/04/the-church-audit-committee-report.p4" pid="ZsisQFKghU68MPDRcCUe-g" hash="INXHjQ">The Auditing Department, which consists of a staff of certified public accountants and similarly qualified auditors, is independent of all other departments and performs financial audits, operational audits, and audits of the computer systems employed by the Church. These auditing services are performed on a continuing basis for Church departments and other Church-controlled organizations engaged in worldwide operations, including missions, schools, administrative offices, and departmental activities.</p>
-      <p class="para" uri="/general-conference/1989/04/the-church-audit-committee-report.p5" pid="Ij8wonSa2Um5cMPL7BkeOQ" hash="Tas_pA">The audits of local funds of wards and stakes are performed by stake auditors. The audit procedures are established and the audit reports are reviewed by the Church Auditing Department. Incorporated businesses owned or controlled by the Church for which accounts are not maintained in the Finance and Records Department are audited by the Church’s internal auditors, independent professional auditing firms, or government regulatory agencies.</p>
-      <p class="para" uri="/general-conference/1989/04/the-church-audit-committee-report.p6" pid="pn3XmuvebkGzl1b-EbVpFQ" hash="hjeNKw">Based on our review of the system of financial controls within the Church, together with continuing discussions with personnel of the Finance and Records and the Auditing departments, we are of the opinion that budgeting, accounting, and auditing controls are adequate for Church needs and purposes, and that in all material respects the general funds of the Church received and expended during the year ended December 31, 1988, have been controlled and accounted for in accordance with established Church policy and procedures.</p>
-      <p class="para" uri="/general-conference/1989/04/the-church-audit-committee-report.p7" pid="G4itGX611kCyJFJkjy3nBw" hash="X9KSUQ">Respectfully submitted,</p>
-      <p class="para" uri="/general-conference/1989/04/the-church-audit-committee-report.closing">
-        <p class="closing">Church Audit Committee</p>
-        <p class="signature">id="15"&gt;Ted E. Davis</p>
-      </p>
-    </div>
-  </div>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/1989/04/the-church-audit-committee-report?lang=eng</link>
+      <description>For the purpose of evaluating the adequacy of controls over receipts and expenditures of the general funds of the Church and its controlled organizations, we have reviewed the system of budgeting, accounting, and auditing, and the related financial statements of the Church for the year ended December 31, 1988, and the manner in which funds are received and expenditures are controlled.</description>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="18"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/56b095b09c1694a3006ec94dda1ec254b50995c3/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/56b095b09c1694a3006ec94dda1ec254b50995c3/full/%21192%2C/0/default" data-video-title="The Church Audit Committee Report" data-video-description="The Church Audit Committee Report" data-video-id="2255426207001" data-ip="Download and Streaming                            " data-duration="200133" data-assetId="138b45c64f9d56db64a1da7ad9cd4c343886f2a6" data-ref-id="138b45c64f9d56db64a1da7ad9cd4c343886f2a6" data-duration-string="3:20" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/2255426207001.m3u8" type="application/vnd.apple.mpegurl" data-width="480" data-height="360" data-file-size="15317429"/><source src="https://assets.churchofjesuschrist.org/138b45c64f9d56db64a1da7ad9cd4c343886f2a6-360p-en.mp4" type="video/mp4" data-width="480" data-height="360" data-file-size="15317429"/></video><h1 data-aid="28778560" id="title1">The Church Audit Committee Report</h1>
+<div class="byline">
+<p class="author-name" data-aid="28778561" id="p1">Presented by Wilford G. Edling</p>
+<p class="author-role" data-aid="150029225" id="p9">Chairman, Church Audit Committee</p>
+</div>
+</header>
+<div class="body-block">
+<p data-aid="28778562" id="p2">For the purpose of evaluating the adequacy of controls over receipts and expenditures of the general funds of the Church and its controlled organizations, we have reviewed the system of budgeting, accounting, and auditing, and the related financial statements of the Church for the year ended December 31, 1988, and the manner in which funds are received and expenditures are controlled.</p>
+<p data-aid="28778563" id="p3">The expenditures of general Church funds for the year were authorized by the Council on the Disposition of Tithes, composed of the First Presidency, the Council of the Twelve, and the Presiding Bishopric, as prescribed by revelation from the Lord. The Appropriations Committee, in weekly meetings, administers major expenditures under the budget.</p>
+<p data-aid="28778564" id="p4">The general fund accounts of the Church are maintained by its Finance and Records Department, which uses modern accounting technology and equipment to keep abreast of the rapidly expanding and varied activities of the Church.</p>
+<p data-aid="28778565" id="p5">The Auditing Department, which consists of a staff of certified public accountants and similarly qualified auditors, is independent of all other departments and performs financial audits, operational audits, and audits of the computer systems employed by the Church. These auditing services are performed on a continuing basis for Church departments and other <span class="page-break" data-page="19"></span>Church-controlled organizations engaged in worldwide operations, including missions, schools, administrative offices, and departmental activities.</p>
+<p data-aid="28778566" id="p6">The audits of local funds of wards and stakes are performed by stake auditors. The audit procedures are established and the audit reports are reviewed by the Church Auditing Department. Incorporated businesses owned or controlled by the Church for which accounts are not maintained in the Finance and Records Department are audited by the Church’s internal auditors, independent professional auditing firms, or government regulatory agencies.</p>
+<p data-aid="28778567" id="p7">Based on our review of the system of financial controls within the Church, together with continuing discussions with personnel of the Finance and Records and the Auditing departments, we are of the opinion that budgeting, accounting, and auditing controls are adequate for Church needs and purposes, and that in all material respects the general funds of the Church received and expended during the year ended December 31, 1988, have been controlled and accounted for in accordance with established Church policy and procedures.</p>
+<p data-aid="28778568" id="p8">Respectfully submitted,</p>
+<div class="closing-block">
+<p class="closing" data-aid="28778569" id="closing1">Church Audit Committee</p>
+<p class="signature" data-aid="145965041" id="p10">Wilford G. Edling</p>
+<p class="signature" data-aid="145965042" id="p11">David M. Kennedy</p>
+<p class="signature" data-aid="145965043" id="p12">Warren E. Pugh</p>
+<p class="signature" data-aid="145965044" id="p13">Merrill J. Bateman</p>
+<p class="signature" data-aid="28778570" id="p14">Ted E. Davis</p>
+</div>
 </div>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/1989/04/the-church-audit-committee-report</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/april-1989-general-conference/1989-04-2020-the-church-audit-committee-report-64k-eng.mp3" length="1620769" type="audio/mpeg"/>
+      <enclosure url="https://assets.churchofjesuschrist.org/50eb9a5632cb11ecbd0feeeeac1efb1dabdbf290-64k-en.mp3" length="2166906" type="audio/mpeg"/>
       <pubDate>Sat, 01 Apr 1989 14:00:00 -0700</pubDate>
+      <itunes:author>Wilford G. Edling</itunes:author>
     </item>
     <item>
       <title>The Church Audit Committee Report</title>
-      <link>http://www.lds.org/general-conference/1990/04/the-church-audit-committee-report?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/1990/04/the-church-audit-committee-report?lang=eng</link>
       <description>To the First Presidency of The Church of Jesus Christ of Latter-day Saints</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/1990/04/the-church-audit-committee-report" schema-version="1" doc-id="general-conference_90905_000_011" doc-version="2" hash="wChaOA">
-  
-  <div class="heading" uri="/general-conference/1990/04/the-church-audit-committee-report.head">
-    <h1 class="title" pid="vx3JJrLZ206fdF-akc4CtA" hash="dXyfag">The Church Audit Committee Report</h1>
-    <p class="authorName" pid="8v3nTCP52USEsvvxo1GQug" hash="9QL6Og">Wilford G. Edling</p>
-    <p class="kicker" pid="qpnv6-Jdjk6YVOpCmCv_jg" hash="0QbxOQ">To the First Presidency of The Church of Jesus Christ of Latter-day Saints</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/1990/04/the-church-audit-committee-report.t1">
-      <p class="para" uri="/general-conference/1990/04/the-church-audit-committee-report.p1" pid="Bz-5DAVTXUeCbYCsAG6rsQ" hash="IjB06A">For the purpose of evaluating the adequacy of controls over receipts and expenditures of the general funds of the Church and its controlled organizations, we have reviewed the system of budgeting, accounting, and auditing, and the related financial statements of the Church for the year ended December 31, 1989, and the manner in which the funds are received and the expenditures are controlled.</p>
-      <p class="para" uri="/general-conference/1990/04/the-church-audit-committee-report.p2" pid="gMeXQmLfnUm2zZ_kzmf-Rw" hash="R_BuOA">Expenditures of general Church funds for the year were authorized by the Council on Disposition of Tithes, composed of the First Presidency, the Council of the Twelve, and the Presiding Bishopric, as prescribed under revelation of the Lord. The Appropriations Committee, in weekly meetings, administers major expenditures under the budget.</p>
-      <p class="para" uri="/general-conference/1990/04/the-church-audit-committee-report.p3" pid="IWooyMxFikeQ7AkBkLovEg" hash="CUsqmQ">The general fund accounts of the Church are maintained by its Finance and Records Department, which uses modern accounting technology and equipment to keep abreast of the rapidly expanding and varied activities of the Church.</p>
-      <p class="para" uri="/general-conference/1990/04/the-church-audit-committee-report.p4" pid="JQi_hjNuAEmeEaFa3EEIRQ" hash="5Cx8JQ">The Auditing Department, which is comprised of a staff of certified public accountants and similarly qualified auditors, is independent of all other departments and performs financial audits, operational audits, and audits of the computer systems employed by the Church. These auditing services are performed on a continuing basis for the Church departments and other controlled organizations of the Church engaged in worldwide operations, including missions, schools, administrative offices, and departmental activities.</p>
-      <p class="para" uri="/general-conference/1990/04/the-church-audit-committee-report.p5" pid="s8VbUWZ71Uu7-GAdXBf_BA" hash="Tas_pA">The audits of local funds of wards and stakes are performed by stake auditors. The audit procedures are established and the audit reports are reviewed by the Church Auditing Department. Incorporated businesses owned or controlled by the Church for which accounts are not maintained in the Finance and Records Department are audited by the Church’s internal auditors, independent professional auditing firms, or government regulatory agencies.</p>
-      <p class="para" uri="/general-conference/1990/04/the-church-audit-committee-report.p6" pid="YDNDkX_rME2QsXrSHlq17A" hash="K1PYsw">Based on our review of the system of financial controls within the Church, together with continuing discussions with personnel of the Finance and Records and the Auditing departments, we are of the opinion that budgeting, accounting, and auditing controls are adequate for Church needs and purposes, and that in all material respects the general funds of the Church received and expended during the year ended December 31, 1989, have been controlled and accounted for in accordance with established Church policy and procedures.</p>
-      <p class="para" uri="/general-conference/1990/04/the-church-audit-committee-report.closing">
-        <p class="closing">Respectfully submitted,</p>
-        <p class="closing">Church Audit Committee</p>
-        <p class="signature">Ted E. Davis</p>
-      </p>
-    </div>
-  </div>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="22"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/713e5d03a2fa52196923dc5ef24df74f44da9d52/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/713e5d03a2fa52196923dc5ef24df74f44da9d52/full/%21192%2C/0/default" data-video-title="The Church Audit Committee Report" data-video-description="The Church Audit Committee Report." data-video-id="2255426170001" data-ip="Download and Streaming                            " data-duration="203536" data-assetId="1a61306c3aafa625f9bc725a77411587f1692e25" data-ref-id="1a61306c3aafa625f9bc725a77411587f1692e25" data-duration-string="3:23" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/2255426170001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="480" data-height="360" data-file-size="10958478"/><source src="https://assets.churchofjesuschrist.org/1a61306c3aafa625f9bc725a77411587f1692e25-360p-en.mp4" type="video/mp4" data-width="480" data-height="360" data-file-size="10958478"/></video><h1 data-aid="28781642" id="title1">The Church Audit Committee Report</h1>
+<div class="byline">
+<p class="author-name" data-aid="28781643" id="p1">Presented by Wilford G. Edling</p>
+<p class="author-role" data-aid="150029497" id="p8">Chairman, Church Audit Committee</p>
+</div>
+<p class="kicker" data-aid="28781644" id="kicker1">To the First Presidency of The Church of Jesus Christ of Latter-day Saints</p>
+</header>
+<div class="body-block">
+<p data-aid="28781645" id="p2">For the purpose of evaluating the adequacy of controls over receipts and expenditures of the general funds of the Church and its controlled organizations, we have reviewed the system of budgeting, accounting, and auditing, and the related financial statements of the Church for the year ended December 31, 1989, and the manner in which funds are received and expenditures are controlled.</p>
+<p data-aid="28781646" id="p3">Expenditures of general Church funds for the year were authorized by the Council on Disposition of Tithes, composed of the First Presidency, the Council of the Twelve, and the Presiding Bishopric, as prescribed under revelation of the Lord. The Appropriations Committee, in weekly meetings, administers major expenditures under the budget.</p>
+<p data-aid="28781647" id="p4">The general fund accounts of the Church are maintained by its Finance and Records Department, which uses modern accounting technology and equipment to keep abreast of the rapidly expanding and varied activities of the Church.</p>
+<p data-aid="28781648" id="p5">The Auditing Department, which is composed of a staff of certified public accountants and similarly qualified auditors, is independent of all other departments and performs financial audits, operational audits, and audits of the computer systems employed by the Church. These auditing services are performed on a continuing basis for the Church departments and other controlled organizations of the Church engaged in worldwide operations, including missions, schools, administrative offices, and departmental activities.</p>
+<p data-aid="28781649" id="p6">The audits of local funds of wards and stakes are performed by stake auditors. The audit procedures are established and the audit reports are reviewed by the Church Auditing Department. Incorporated businesses owned or controlled by the Church for which accounts are not maintained in the Finance and Records Department are audited by the Church’s internal auditors, independent professional auditing firms, or government regulatory agencies.</p>
+<p data-aid="28781650" id="p7">Based on our review of the system of financial controls within the Church, together with continuing discussions with personnel of the Finance and Records and the Auditing departments, we are of the opinion that budgeting, accounting, and auditing controls are adequate for Church needs and purposes, and that in all material respects the general funds of the Church received and expended during the year ended December 31, 1989, have been controlled and accounted for in accordance with established Church policy and procedures.</p>
+<div class="closing-block">
+<p class="closing" data-aid="28781651" id="closing1">Respectfully submitted,</p>
+<p class="closing" data-aid="28781652" id="closing2">Church Audit Committee</p>
+<p class="signature" data-aid="150029498" id="p9">Wilford G. Edling</p>
+<p class="signature" data-aid="150029499" id="p10">David M. Kennedy</p>
+<p class="signature" data-aid="150029500" id="p11">Warren E. Pugh</p>
+<p class="signature" data-aid="150029501" id="p12">Merrill J. Bateman</p>
+<p class="signature" data-aid="28781653" id="p13">Ted E. Davis</p>
+</div>
 </div>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/1990/04/the-church-audit-committee-report</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/april-1990-general-conference/1990-04-2020-the-church-audit-committee-report-64k-eng.mp3" length="1650134" type="audio/mpeg"/>
+      <enclosure url="https://assets.churchofjesuschrist.org/cb05799a32d411ec83ebeeeeac1e20b33b93b536-64k-en.mp3" length="2130748" type="audio/mpeg"/>
       <pubDate>Sat, 31 Mar 1990 14:00:00 -0700</pubDate>
+      <itunes:author>Wilford G. Edling</itunes:author>
     </item>
     <item>
       <title>The Church Audit Committee Report</title>
-      <link>http://www.lds.org/general-conference/1991/04/the-church-audit-committee-report?lang=eng</link>
-      <description>To the First Presidency of The Church of Jesus Christ of Latter-day Saints</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/1991/04/the-church-audit-committee-report" schema-version="1" doc-id="general-conference_91905_000_011" doc-version="2" hash="5NE1yA">
-  
-  <div class="heading" uri="/general-conference/1991/04/the-church-audit-committee-report.head">
-    <h1 class="title" pid="BFvLsynwck2ZC6aoCeI0dw" hash="dXyfag">The Church Audit Committee Report</h1>
-    <p class="authorName" pid="YADNH6fVykCPqIZLCUpx3Q" hash="9QL6Og">Wilford G. Edling</p>
-    <p class="kicker" pid="lPr4RGy0nUKzDCKa0itkTA" hash="0QbxOQ">To the First Presidency of The Church of Jesus Christ of Latter-day Saints</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/1991/04/the-church-audit-committee-report.t1">
-      <p class="para" uri="/general-conference/1991/04/the-church-audit-committee-report.p1" pid="QkJBtNqc5UWPyoUrsxkYMA" hash="p5hscw">For the purpose of evaluating the adequacy of controls over receipts and expenditures of the general funds of the Church and its controlled organizations, we have reviewed the system of budgeting, accounting, and auditing, and the related financial statements of the Church for the year ended 31 December 1990, and the manner in which the funds are received and the expenditures are controlled.</p>
-      <p class="para" uri="/general-conference/1991/04/the-church-audit-committee-report.p2" pid="3Ch9a2J-4U-8KVxzbZgkug" hash="0CRHRg">Expenditures of general Church funds for the year were authorized by the Council on the Disposition of Tithes, composed of the First Presidency, the Council of the Twelve, and the Presiding Bishopric, as prescribed under revelation of the Lord. The Appropriations Committee, in weekly meetings, administers major expenditures under the budget.</p>
-      <p class="para" uri="/general-conference/1991/04/the-church-audit-committee-report.p3" pid="WoIdTajIdU6TbBPjJW2wWw" hash="CUsqmQ">The general fund accounts of the Church are maintained by its Finance and Records Department, which uses modern accounting technology and equipment to keep abreast of the rapidly expanding and varied activities of the Church.</p>
-      <p class="para" uri="/general-conference/1991/04/the-church-audit-committee-report.p4" pid="gBqEt64lZUC6O9LvePFIJQ" hash="O-H11g">The Auditing Department, which is comprised of a staff of certified public accountants and similarly qualified auditors, is independent of all other departments and performs financial audits, operational audits, and audits of the computer systems employed by the Church. These auditing services are performed on a continuing basis for the Church departments and other Church-controlled organizations engaged in worldwide operations, including missions, schools, administrative offices, and departmental activities.</p>
-      <p class="para" uri="/general-conference/1991/04/the-church-audit-committee-report.p5" pid="EI2VWNpitkGmZDHLluizfQ" hash="1UUAqQ">The audits of the local funds of wards and stakes are performed by stake auditors. The audit procedures are established and the audit reports are reviewed by the Church Auditing Department. Incorporated businesses owned or controlled by the Church for which accounts are not maintained in the Finance and Records Department are audited by the Church’s internal auditors, independent professional auditing firms, or government regulatory agencies.</p>
-      <p class="para" uri="/general-conference/1991/04/the-church-audit-committee-report.p6" pid="JPuDoXgPFkGv-AWpl_AeFg" hash="lNe9hg">Based on our review of the system of financial controls within the Church, together with continuing discussions with personnel of the Finance and Records and Auditing departments, we are of the opinion that budgeting, accounting, and auditing controls are adequate for Church needs and purposes, and that in all material respects the general funds of the Church received and expended during the year ended 31 December 1990 have been controlled and accounted for in accordance with established Church policy and procedures.</p>
-      <p class="para" uri="/general-conference/1991/04/the-church-audit-committee-report.closing">
-        <p class="closing">Respectfully submitted,</p>
-        <p class="closing">CHURCH AUDIT COMMITTEE</p>
-        <p class="signature">Ted E. Davis</p>
-      </p>
-    </div>
-  </div>
-</div>]]></content:encoded>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/1991/04/the-church-audit-committee-report?lang=eng</link>
+      <description><![CDATA[<header>
+<span class="page-break" data-page="21"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/d415458daaa17aa241ed35522690e9cc7d929bd3/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/d415458daaa17aa241ed35522690e9cc7d929bd3/full/%21192%2C/0/default" data-video-title="The Church Audit Committee Report" data-video-description="The Church Audit Committee Report." data-video-id="2255416314001" data-ip="Download and Streaming                            " data-duration="205000" data-assetId="17405d2df68e3b6a177deaedaacbe5a73a17c0d9" data-ref-id="17405d2df68e3b6a177deaedaacbe5a73a17c0d9" data-duration-string="3:25" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/2255416314001.m3u8" type="application/vnd.apple.mpegurl" data-width="480" data-height="360" data-file-size="11833348"/><source src="https://assets.churchofjesuschrist.org/17405d2df68e3b6a177deaedaacbe5a73a17c0d9-360p-en.mp4" type="video/mp4" data-width="480" data-height="360" data-file-size="11833348"/></video><h1 data-aid="28784535" id="title1">The Church Audit Committee Report</h1>
+<div class="byline">
+<p class="author-name" data-aid="28784536" id="p1">Presented by Wilford G. Edling</p>
+<p class="author-role" data-aid="150151021" id="p9">Chairman, Church Audit Committee</p>
+</div>
+<p class="kicker" data-aid="28784537" id="kicker1">To the First Presidency of The Church of Jesus Christ of Latter-day Saints</p>
+</header>
+<div class="body-block">
+<p data-aid="28784538" id="p2">For the purpose of evaluating the adequacy of controls over receipts and expenditures of the general funds of the Church and its controlled organizations, we have reviewed the system of budgeting, accounting, and auditing, and the related financial statements of the Church for the year ended 31 December 1990, and the manner in which the funds are received and the expenditures are controlled.</p>
+<p data-aid="28784539" id="p3">Expenditures of general Church funds for the year were authorized by the Council on the Disposition of Tithes, composed of the First Presidency, the Council of the Twelve, and the Presiding Bishopric, as prescribed under revelation of the Lord. The Appropriations Committee, in weekly meetings, administers major expenditures under the budget.</p>
+<p data-aid="28784540" id="p4">The general fund accounts of the Church are maintained by its Finance and Records Department, which uses modern accounting technology and equipment to keep abreast of the rapidly expanding and varied activities of the Church.</p>
+<p data-aid="28784541" id="p5">The Auditing Department, which is composed of a staff of certified public accountants and similarly qualified auditors, is independent of all other departments and performs financial audits, operational audits, and audits of the computer systems employed by the Church. These auditing services are performed on a continuing basis for the Church departments and other Church-controlled organizations engaged in worldwide operations, including missions, schools, administrative offices, and departmental activities.</p>
+<p data-aid="28784542" id="p6">The audits of the local funds of wards and stakes are performed by stake auditors. The audit procedures are established and the audit reports are reviewed by the Church Auditing Department. Incorporated businesses owned or controlled by the Church for which accounts are not maintained in the Finance and Records Department are audited by the Church’s internal auditors, independent professional auditing firms, or government regulatory agencies.</p>
+<p data-aid="28784543" id="p7">Based on our review of the system of financial controls within the Church, together with continuing discussions with personnel of the Finance and Records and Auditing departments, we are of the opinion that budgeting, accounting, and auditing controls are adequate for Church needs and purposes, and that in all material respects the general funds of the Church received and expended during the year ended 31 December 1990 have been controlled and accounted for in accordance with established Church policy and procedures.</p>
+<div class="closing-block">
+<p class="closing" data-aid="28784544" id="closing1">Respectfully submitted,</p>
+<p class="closing" data-aid="28784545" id="closing2">Church Audit Committee</p>
+<p class="signature" data-aid="150151022" id="p10">Wilford G. Edling</p>
+<p class="signature" data-aid="150151023" id="p11">David M. Kennedy</p>
+<p class="signature" data-aid="150151024" id="p12">Merrill J. Bateman</p>
+<p class="signature" data-aid="28784546" id="p8">Ted E. Davis</p>
+</div>
+</div>]]></description>
       <guid isPermaLink="false">/general-conference/1991/04/the-church-audit-committee-report</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/april-1991-general-conference/1991-04-2010-the-church-audit-committee-report-64k-eng.mp3" length="1674833" type="audio/mpeg"/>
+      <enclosure url="https://assets.churchofjesuschrist.org/80abb5e132dc11ec8aafeeeeac1e5e365baa1f4e-64k-en.mp3" length="2191203" type="audio/mpeg"/>
       <pubDate>Sat, 06 Apr 1991 14:00:00 -0700</pubDate>
+      <itunes:author>Wilford G. Edling</itunes:author>
     </item>
   </channel>
 </rss>

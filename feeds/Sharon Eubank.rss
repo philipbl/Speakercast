@@ -1,91 +1,587 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Talks By Sharon Eubank</title>
-    <link>http://philip.lundrigan.org/Speakercast/</link>
+    <link>https://philip.lundrigan.org/Speakercast/</link>
     <description>General Conference talks by Sharon Eubank.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Speakercast</generator>
     <image>
-      <url>http://philip.lundrigan.org/Speakercast/covers/Sharon%20Eubank.jpg</url>
+      <url>https://philip.lundrigan.org/Speakercast/covers/Sharon%20Eubank.jpg</url>
       <title>General Conference talks by Sharon Eubank.</title>
-      <link>http://philip.lundrigan.org/Speakercast/</link>
+      <link>https://philip.lundrigan.org/Speakercast/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 23 Sep 2017 18:00:00 -0700</lastBuildDate>
-    <pubDate>Sat, 23 Sep 2017 18:00:00 -0700</pubDate>
+    <lastBuildDate>Sat, 02 Oct 2021 18:00:00 -0600</lastBuildDate>
+    <pubDate>Sat, 02 Oct 2021 18:00:00 -0600</pubDate>
+    <itunes:author>Sharon Eubank</itunes:author>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
+    <itunes:image href="https://philip.lundrigan.org/Speakercast/covers/Sharon%20Eubank.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>General Conference talks by Sharon Eubank.</itunes:summary>
     <item>
       <title>Turn On Your Light</title>
-      <link>http://www.lds.org/general-conference/2017/10/turn-on-your-light?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2017/10/turn-on-your-light?lang=eng</link>
       <description>Sister Eubank encourages Latter-day Saint women to follow the charge given by President Spencer W. Kimball to be righteous, articulate, different, and distinct.</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/2017/10/turn-on-your-light" dup-conf="false" dup-mag="false" schema-version="1" doc-id="general-conference_PD60003502_000_11eubank" doc-version="1" hash="q-Kb7A">
-		
-		<div class="heading" uri="/general-conference/2017/10/turn-on-your-light.head1">
-			<h1 class="title" pid="8TTmBlP8-Eu1GHpQQcMNqw" hash="Ws6_dg">Turn On Your Light</h1>
-			<div class="byline">
-				<p class="para" uri="/general-conference/2017/10/turn-on-your-light.p2" pid="HGpaudFdCU6PopAfPDEvAw" hash="uWlFCA1">By Sharon Eubank</p>
-				<p class="para" uri="/general-conference/2017/10/turn-on-your-light.p3" pid="IUrrEPiV0U-dRWvncL2FzQ" hash="M_AOFA">First Counselor in the Relief Society General Presidency</p>
-			</div>
-			<p class="kicker" pid="eeMkHxALyEGlnicitYyCAQ" hash="7t5IEg">The prophets are calling on us, my sisters. Will you be righteous? Will you articulate your faith? Will you turn on your light?</p>
-		<p class="authorName" pid="W21TVFzRLE6INfYvkhZS2w" hash="uWlFCA">By Sharon Eubank</p></div>
-		<div class="bodyBlock">
-			<p class="para" uri="/general-conference/2017/10/turn-on-your-light.p5" pid="XChZ8Pa-QE24e2hTycj6oA" hash="YTVdHw">You might not know this, but President Monson and I are twins. On the very day I was born—in the very hour—in Northern California, the 36-year-old Thomas S. Monson was sustained as the newest Apostle. I love my special, personal link to the prophet of God, President Monson.</p>
-			<p class="para" uri="/general-conference/2017/10/turn-on-your-light.p6" pid="MexRvGqc90iiQvV7xBRFzQ" hash="mi-2CQ">The prophets are speaking about women.<span class="noteMarker" ref="f_1">1</span> You will hear some of their words in this meeting. For my text I am going back almost 40 years to a remarkable prophecy written by President Spencer W. Kimball. September 1979 was only the second time the women of the global Church had met in their own general meeting. President Kimball had prepared his talk, but when the day of the conference came, he was in the hospital. So instead, he asked his wife, Camilla Eyring Kimball, to read his remarks on his behalf.<span class="noteMarker" ref="f_2">2</span></p>
-			<a href="gl://image/?pid=mZGtQJJc6EW5TiJrkzyhAw"><img xmlns="" xmlns:xi="http://www.w3.org/2001/XInclude" src="https://edge.ldscdn.org/mobile/images/1972186/09f23bd5fcb34254ba5b9e949eb1bbef/200x129.jpg" data-multi-src="true" data-src-50x32="https://edge.ldscdn.org/mobile/images/1972186/09f23bd5fcb34254ba5b9e949eb1bbef/50x32.jpg" data-src-100x64="https://edge.ldscdn.org/mobile/images/1972186/09f23bd5fcb34254ba5b9e949eb1bbef/100x64.jpg" data-src-200x129="https://edge.ldscdn.org/mobile/images/1972186/09f23bd5fcb34254ba5b9e949eb1bbef/200x129.jpg" data-src-320x206="https://edge.ldscdn.org/mobile/images/1972186/09f23bd5fcb34254ba5b9e949eb1bbef/320x206.jpg" data-src-460x296="https://edge.ldscdn.org/mobile/images/1972186/09f23bd5fcb34254ba5b9e949eb1bbef/460x296.jpg" data-src-640x412="https://edge.ldscdn.org/mobile/images/1972186/09f23bd5fcb34254ba5b9e949eb1bbef/640x412.jpg" data-src-1024x660="https://edge.ldscdn.org/mobile/images/1972186/09f23bd5fcb34254ba5b9e949eb1bbef/1024x660.jpg" data-src-2048x1321="https://edge.ldscdn.org/mobile/images/1972186/09f23bd5fcb34254ba5b9e949eb1bbef/2048x1321.jpg" data-src-2790x1800="https://edge.ldscdn.org/mobile/images/1972186/09f23bd5fcb34254ba5b9e949eb1bbef/2790x1800.jpg" altText="Sister Camilla Kimball speaking at the pulpit" pid="mZGtQJJc6EW5TiJrkzyhAw" hash="AAAAAA2"></img></a>
-			<p class="para" uri="/general-conference/2017/10/turn-on-your-light.p7" pid="SWT6sXm05EWbY2ZLjIBflg" hash="mRZRXA">Sister Kimball read the prophet’s words, which emphasized the influence of LDS women on the good women of the world prior to the Second Coming of the Savior. Near the end, there was an electrifying charge to the women of the Church that we have been talking about ever since.</p>
-			<p class="para" uri="/general-conference/2017/10/turn-on-your-light.p8" pid="4IcdOZ6Jp0mZ9PUcAVcdFw" hash="pDR7RA">Let me quote a little of what President Kimball said:</p>
-			<p class="para" uri="/general-conference/2017/10/turn-on-your-light.p9" pid="uvZtm6l3O0mklD3Q0YkPlw" hash="oJmxMA">“Finally, my dear sisters, may I suggest to you something that has not been said before or at least in quite this way. Much of the major growth that is coming to the Church in the last days will come because many of the good women of the world … will be drawn to the Church in large numbers. This will happen to the degree that the women of the Church reflect righteousness and articulateness in their lives and to the degree that the women of the Church are seen as distinct and different—in happy ways—from the women of the world.</p>
-			<p class="para" uri="/general-conference/2017/10/turn-on-your-light.p10" pid="Vv0w1Yv2IEeZPgTLt-WHTw" hash="KLXg5g">“Among the real heroines in the world who will come into the Church are women who are more concerned with being righteous than with being selfish. These real heroines have true humility, which places a higher value on integrity than on visibility. …</p>
-			<p class="para" uri="/general-conference/2017/10/turn-on-your-light.p11" pid="gy8LcvnHAkOhWrLejVIT4w" hash="rpc4vw">“… It will be … female exemplars of the Church [who] will be a <span class="emphasis">significant force</span> in both the numerical and the spiritual growth of the Church in the last days.”<span class="noteMarker" ref="f_3">3</span></p>
-			<p class="para" uri="/general-conference/2017/10/turn-on-your-light.p12" pid="nNE5dWKfs0WyLjiSwhla8A" hash="yvwyog">What a prophetic statement that is. Just to summarize:</p>
-			<ul class="bullet">
-				<li pid="w-cH2q_GlkymQ1lhQK_UvA" hash="pXKwPQ">
-					<span class="label">•</span>
-					<p class="para" uri="/general-conference/2017/10/turn-on-your-light.p13" pid="_PnF-RZtj0eULdhsC6orfg" hash="HtE3Mg">It will be the good relationships of women that will trigger much of the major growth coming to the Church in the years ahead.</p>
-				</li>
-				<li pid="X8-alqQj1Emiy2Y4993dDw" hash="iS0Wtw">
-					<span class="label">•</span>
-					<p class="para" uri="/general-conference/2017/10/turn-on-your-light.p14" pid="tXaB4mZMAEmsD6vUFJmvxw" hash="zxKe7w">The friendships that Relief Society women, young women, and Primary girls build with sincere, faithful, godly women and girls of other faiths and beliefs will be a <span class="emphasis">significant force</span> in how the Church grows in the last days.</p>
-				</li>
-				<li pid="vPSLZHscq0KHRp54S3wVCQ" hash="wgU2Cg">
-					<span class="label">•</span>
-					<p class="para" uri="/general-conference/2017/10/turn-on-your-light.p15" pid="dERNzl3fwU2D8JPfU5Z4hw" hash="rwdXPw">President Kimball called these women from other backgrounds “heroines” who will be more concerned with being righteous than selfish, who will show us that integrity is more valuable than visibility.</p>
-				</li>
-			</ul>
-			<p class="para" uri="/general-conference/2017/10/turn-on-your-light.p16" pid="g9ygP_wzjUK1OtTFSuaAYw" hash="XK1QGA">I have met so many of these good women as I do my work around the world. Their friendships are precious to me. You know them too among your friends and neighbors. They may or may not be members of the Church right now, but we connect in friendship that is very important. Well, how do we play our part? What should we do? President Kimball refers to five things:</p>
-			<p class="para" uri="/general-conference/2017/10/turn-on-your-light.p17" pid="et6z0qrk4kCmq9mASITYKA" hash="Z0GlVQ"><span class="strong">The first is to be righteous.</span> Being righteous doesn’t mean being perfect or never making mistakes. It means developing an inner connection with God, repenting of our sins and mistakes, and freely helping others.</p>
-			<p class="para" uri="/general-conference/2017/10/turn-on-your-light.p18" pid="nrhdPkcqqUG5kKm033zjnA" hash="afOEKQ">Women who have repented change the course of history. I have a friend who was in a car accident when she was young, and from that, she became addicted to pain medication. Later on, her parents divorced. She became pregnant from a brief relationship, and her addictions continued. But one night, she looked at the chaos and mess of her life and thought, “Enough.” She cried out to the Savior Jesus Christ to help her. She said she learned that Jesus Christ was stronger than even her terrible circumstances and that she could rely on His strength as she walked the road of repentance.</p>
-			<p class="para" uri="/general-conference/2017/10/turn-on-your-light.p19" pid="aetQgxfImEC3InC-vfcqsA" hash="xkXR7Q">By coming back to the Lord and His ways, she changed the course of her history and her little boy’s history and her new husband’s. She is righteous; she has a wide-open heart for others who have made mistakes and want to change. And just like all of us, she isn’t perfect, but she knows how to repent and to keep trying.</p>
-			<p class="para" uri="/general-conference/2017/10/turn-on-your-light.p20" pid="p4MojEiElUG0f38RwgB6-w" hash="Gt2o6g"><span class="strong">The second is to be articulate.</span> Being articulate means to clearly express how you feel about something and why. Earlier this year, there was a post on my Facebook news feed that disparaged Christianity. I read it and I was a little annoyed, but I shrugged it off. But an acquaintance who is not a member of our faith responded with a comment of her own. She wrote: “[This is] the exact opposite of what Jesus stood for—he was … radical [in] his time because he … equalized the world. … He [spoke to] prostitute[s], [he ate] with … tax collector[s] … , befriended powerless women and children … , [and] gave us the story of the Good Samaritan. … It follows that … true Christians would be striving to be the MOST loving people in the world.” When I read that, I thought to myself, “Why didn’t I write that?”</p>
-			<p class="para" uri="/general-conference/2017/10/turn-on-your-light.p21" pid="MkTazjPJVE6zCkieENwPOQ" hash="FP0_hg">Each of us needs to be better at articulating the reasons for our faith. How do you feel about Jesus Christ? Why do you stay in the Church? Why do you believe the Book of Mormon is scripture? Where do you get your peace? Why does it matter that the prophet has something to say in 2017? How do you know he is a real prophet? Use your voice and your power to articulate what you know and feel—on social media, in quiet conversations with your friends, when you’re chatting with your grandchildren. Tell them why you believe, what it feels like, if you ever doubted, how you got through it, and what Jesus Christ means to you. As the Apostle Peter said, “Be not afraid … ; but sanctify the Lord God in your hearts: and be ready always to give an answer to every man that asketh you a reason of the hope that is in you.”<span class="noteMarker" ref="f_4">4</span></p>
-			<p class="para" uri="/general-conference/2017/10/turn-on-your-light.p22" pid="JpDrc1BDrEaksfSRMIh9nQ" hash="WXxjlw"><span class="strong">The third is to be different.</span> Let me tell you a story that happened this July on Panama City Beach in Florida.<span class="noteMarker" ref="f_5">5</span> Late in the afternoon, Roberta Ursrey saw her two young sons screaming for help from 100 yards (90 m) out into the ocean. They had become caught in a strong current and were being carried out to sea. A nearby couple tried to rescue the boys, but they also got caught in the current. So members of the Ursrey family dove in to rescue the struggling swimmers, and quickly nine people were caught in the rip current.</p>
-			<p class="para" uri="/general-conference/2017/10/turn-on-your-light.p23" pid="dmpyoGUInUaqhHoGLuDiQg" hash="B--P6Q">There were no ropes. There was no lifeguard. The police sent for a rescue boat, but the people had been out in the ocean struggling for 20 minutes, and they were exhausted and their heads were slipping under the water. Among the onlookers on the beach was Jessica Mae Simmons. Her husband had the idea to form a human chain. They shouted at people on the beach to help them, and dozens of people linked arms and marched into the ocean. Jessica wrote, “To see people from different races and genders come into action to help TOTAL strangers [was] absolutely amazing to see!!”<span class="noteMarker" ref="f_6">6</span> An 80-person chain stretched toward the swimmers. Look at this picture of that incredible moment.</p>
-			<a href="gl://image/?pid=nCZ97suUM02QLejEUUIXiQ"><img xmlns="" xmlns:xi="http://www.w3.org/2001/XInclude" src="https://edge.ldscdn.org/mobile/images/1972188/c147ab19ddab4cdd8ac81fdef9eac548/200x129.jpg" data-multi-src="true" data-src-50x32="https://edge.ldscdn.org/mobile/images/1972188/c147ab19ddab4cdd8ac81fdef9eac548/50x32.jpg" data-src-100x64="https://edge.ldscdn.org/mobile/images/1972188/c147ab19ddab4cdd8ac81fdef9eac548/100x64.jpg" data-src-200x129="https://edge.ldscdn.org/mobile/images/1972188/c147ab19ddab4cdd8ac81fdef9eac548/200x129.jpg" data-src-320x206="https://edge.ldscdn.org/mobile/images/1972188/c147ab19ddab4cdd8ac81fdef9eac548/320x206.jpg" data-src-460x296="https://edge.ldscdn.org/mobile/images/1972188/c147ab19ddab4cdd8ac81fdef9eac548/460x296.jpg" data-src-640x412="https://edge.ldscdn.org/mobile/images/1972188/c147ab19ddab4cdd8ac81fdef9eac548/640x412.jpg" data-src-1024x660="https://edge.ldscdn.org/mobile/images/1972188/c147ab19ddab4cdd8ac81fdef9eac548/1024x660.jpg" data-src-2048x1321="https://edge.ldscdn.org/mobile/images/1972188/c147ab19ddab4cdd8ac81fdef9eac548/2048x1321.jpg" data-src-2790x1800="https://edge.ldscdn.org/mobile/images/1972188/c147ab19ddab4cdd8ac81fdef9eac548/2790x1800.jpg" altText="Swimmers creating a human chain" pid="nCZ97suUM02QLejEUUIXiQ" hash="AAAAAA1"></img></a>
-			<p class="para" uri="/general-conference/2017/10/turn-on-your-light.p24" pid="ucf5vZDvU0mEIStnxXFnjQ" hash="XVNnhA">Everyone on the beach could think only of traditional solutions, and they were paralyzed. But one couple, in a split second, thought of a different solution. Innovation and creation are spiritual gifts. When we keep our covenants, it may make us different from others in our culture and society, but it gives us access to inspiration so we can think of different solutions, different approaches, different applications. We aren’t always going to fit in with the world, but being different in positive ways can be a lifeline to others who are struggling.</p>
-			<p class="para" uri="/general-conference/2017/10/turn-on-your-light.p25" pid="2sZ2FhWuLEG2ZMNxADy2qQ" hash="bDdL9A"><span class="strong">The fourth is to be distinct.</span> Distinct means to be recognizably well defined. Let me go back to the story about Jessica Mae Simmons on the beach. Once that human chain was stretching toward the swimmers, she knew she could help. Jessica Mae said, “I can hold my breath … and go around an Olympic pool with ease! [I knew how to get out of a rip current.] I knew I could get [each swimmer] to the human chain.”<span class="noteMarker" ref="f_7">7</span> She and her husband grabbed boogie boards and swam down the chain until they and another rescuer reached the swimmers, and then they ferried them one by one back to the chain, who passed them to the safety of the beach. Jessica had a distinct skill: she knew how to swim against a rip current.</p>
-			<p class="para" uri="/general-conference/2017/10/turn-on-your-light.p26" pid="VUzI3rovjUyn7ZU_jl5kYg" hash="hCBi-A">The restored gospel is recognizably well defined. But we have to be distinct about how we follow it. Just as Jessica practiced swimming, we need to practice living the gospel before the emergency so that, unafraid, we will be strong enough to help when others are being swept away by the current.</p>
-			<p class="para" uri="/general-conference/2017/10/turn-on-your-light.p27" pid="vaZMmwnQFk2ii65HutWrtQ" hash="piJF5g"><span class="strong">And finally, the fifth</span><span class="strong"> is to do one through four in happy ways. </span>Being happy doesn’t mean to slap a plastic smile on your face no matter what is going on. But it does mean keeping the laws of God and building and lifting others.<span class="noteMarker" ref="f_8">8</span> When we build, when we lift the burden of others, it blesses our lives in ways our trials cannot take away. I have a quote by President Gordon B. Hinckley placed where I see it every day. He said: “You don’t … build out of pessimism or cynicism. You look with optimism, work with faith, and things happen.”<span class="noteMarker" ref="f_9">9</span></p>
-			<p class="para" uri="/general-conference/2017/10/turn-on-your-light.p28" pid="i0odfN2LSka5U2n0HDWcGw" hash="qnZp1Q">An example of that happy, optimistic spirit is a 13-year-old girl I know named Elsa, whose family is moving to Baton Rouge, Louisiana, 1,800 miles (2,900 km) away from her friends. It’s not very easy when you are 13 to move to a new place. Elsa was understandably unsure about the move, so her dad gave her a blessing. At the very moment of the blessing, her mom’s phone chimed with a text. The young women who live in Louisiana had sent this picture with the caption “Please move into our ward!”<span class="noteMarker" ref="f_10">10</span></p>
-			<a href="gl://image/?pid=tHqDIcHNckicDELCM2zjOQ"><img xmlns="" xmlns:xi="http://www.w3.org/2001/XInclude" src="https://edge.ldscdn.org/mobile/images/1972190/0439d056aec44df18dc1de52e6cfb0e5/200x129.jpg" data-multi-src="true" data-src-50x32="https://edge.ldscdn.org/mobile/images/1972190/0439d056aec44df18dc1de52e6cfb0e5/50x32.jpg" data-src-100x64="https://edge.ldscdn.org/mobile/images/1972190/0439d056aec44df18dc1de52e6cfb0e5/100x64.jpg" data-src-200x129="https://edge.ldscdn.org/mobile/images/1972190/0439d056aec44df18dc1de52e6cfb0e5/200x129.jpg" data-src-320x206="https://edge.ldscdn.org/mobile/images/1972190/0439d056aec44df18dc1de52e6cfb0e5/320x206.jpg" data-src-460x296="https://edge.ldscdn.org/mobile/images/1972190/0439d056aec44df18dc1de52e6cfb0e5/460x296.jpg" data-src-640x412="https://edge.ldscdn.org/mobile/images/1972190/0439d056aec44df18dc1de52e6cfb0e5/640x412.jpg" data-src-1024x660="https://edge.ldscdn.org/mobile/images/1972190/0439d056aec44df18dc1de52e6cfb0e5/1024x660.jpg" data-src-2048x1321="https://edge.ldscdn.org/mobile/images/1972190/0439d056aec44df18dc1de52e6cfb0e5/2048x1321.jpg" data-src-2790x1800="https://edge.ldscdn.org/mobile/images/1972190/0439d056aec44df18dc1de52e6cfb0e5/2790x1800.jpg" altText="Young women holding welcome sign" pid="tHqDIcHNckicDELCM2zjOQ" hash="AAAAAA"></img></a>
-			<p class="para" uri="/general-conference/2017/10/turn-on-your-light.p29" pid="Q86wE7yoK0Okk0Zn0VU-UQ" hash="eMS5hQ">These young women were optimistic they would like Elsa without even meeting her. Their enthusiasm created optimism in Elsa about the upcoming move and answered her prayer about whether everything would be all right.</p>
-			<p class="para" uri="/general-conference/2017/10/turn-on-your-light.p30" pid="ovSTqfmS8EeSk_BmjxEPNg" hash="xLzrqw">There is an energy that comes from happiness and optimism that doesn’t just bless us—it builds everyone around us. Any small thing you do to light real happiness in others shows that you are already carrying the torch that President Kimball lit.</p>
-			<p class="para" uri="/general-conference/2017/10/turn-on-your-light.p31" pid="3zHagYWIqEiBKX_aQxwxlw" hash="fZAYew">I was 15 years old at the time President Kimball’s talk was given. We who are older than 40 have been carrying this charge from President Kimball ever since that day. Now I look out at the 8-year-olds, the 15-year-olds, the 20-year-olds, and the 35-year-olds, and I’m going to pass this torch to you. You are the future leaders in this Church, and it will be up to you to carry this light forward and be the fulfillment of this prophecy. We who are older than 40 link our arms through yours and feel your strength and energy. We need you.</p>
-			<p class="para" uri="/general-conference/2017/10/turn-on-your-light.p32" pid="Bq2NWqk79Uug65DENMKODQ" hash="zaJ-lg">Listen to this scripture found in <a href="/scriptures/dc-testament/dc/49.26-28" class="scriptureRef">Doctrine and Covenants 49:26–28</a>. It may have been written under different circumstances, but tonight by the Holy Spirit, I hope you will take it as your personal call to this sacred work.</p>
-			<p class="para" uri="/general-conference/2017/10/turn-on-your-light.p33" pid="92gWvTXwxUy3izE1PJ-OOg" hash="L4Qvow">“Behold, I say unto you, go forth as I have commanded you; repent of all your sins; ask and ye shall receive; knock and it shall be opened unto you.</p>
-			<p class="para" uri="/general-conference/2017/10/turn-on-your-light.p34" pid="BVEVPdHRE06jRVXPKNBilQ" hash="6Wwq5g">“Behold, I will go before you and be your rearward; and I will be in your midst, and you shall not be confounded.</p>
-			<p class="para" uri="/general-conference/2017/10/turn-on-your-light.p35" pid="WFRotm9Ack-C-KfqA98dHA" hash="Rte68A">“Behold, I am Jesus Christ, and I come quickly.”<span class="noteMarker" ref="f_11">11</span></p>
-			<p class="para" uri="/general-conference/2017/10/turn-on-your-light.p36" pid="eaohVMnzz0WogNJO1ZL_zA" hash="KBP5tA">I appeal to each of you to put yourself in a place where you can feel the generous love God has for you. You cannot put yourself beyond the reach of that love. When you feel His love, when you love Him, you will repent and keep His commandments. When you keep His commandments, He can use you in His work. His work and glory is the exaltation and eternal life of women and men.</p>
-			<p class="para" uri="/general-conference/2017/10/turn-on-your-light.p37" pid="lCqRww1jHkuDauVDx2I3LA" hash="Xm9bAQ">The prophets are calling on us, my sisters. Will you be righteous? Will you articulate your faith? Can you bear being distinct and different? Will your happiness in spite of your trials draw others who are good and noble and who need your friendship? Will you turn on your light? I testify the Lord Jesus Christ will go before us and be in our midst.</p>
-			<p class="para" uri="/general-conference/2017/10/turn-on-your-light.p38" pid="YaNWw4wwmkCWAG73u55IMw" hash="U57MnA">I conclude with the words of our well-loved prophet, Thomas S. Monson: “My dear sisters, this is your day, this is your time.”<span class="noteMarker" ref="f_12">12</span> In the name of Jesus Christ, amen.</p>
-		</div>
-		
-	</div>]]></content:encoded>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="6"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/802cbf93d0346cffccf99653e456862767f85ee3/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/802cbf93d0346cffccf99653e456862767f85ee3/full/%21192%2C/0/default" data-video-title="Turn On Your Light" data-video-description="Sister Eubank encourages Latter-day Saint women to follow the charge given by President Spencer W. Kimball to be righteous, articulate, different, and distinct." data-video-id="6389440489112" data-ip="Download &amp; Streaming" data-duration="819000" data-assetId="dc7b2f2cef5864a9de1b6409fa60db885c774132" data-ref-id="dc7b2f2cef5864a9de1b6409fa60db885c774132" data-duration-string="13:39" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6389440489112.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="218197922"/><source src="https://assets.churchofjesuschrist.org/dc7b2f2cef5864a9de1b6409fa60db885c774132-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="49376051"/><source src="https://assets.churchofjesuschrist.org/dc7b2f2cef5864a9de1b6409fa60db885c774132-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="83644006"/><source src="https://assets.churchofjesuschrist.org/dc7b2f2cef5864a9de1b6409fa60db885c774132-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="218197922"/></video><h1 data-aid="134608268" id="title1">Turn On Your Light</h1>
+<div class="byline">
+<p class="author-name" data-aid="134608270" id="p1">By Sharon Eubank</p>
+<p class="author-role" data-aid="134608272" id="p2">First Counselor in the Relief Society General Presidency</p>
+<div class="image-cropper"><img alt="Sharon Eubank" class="headshot" data-deprecate-web-url="sharon-eubanks-official-portrait-busath-2017_1976747.jpg" id="img4" src="https://www.churchofjesuschrist.org/imgs/73e71d43fa75321f28324b05a7ab68f047ca67b7/full/%21100%2C/0/default" data-assetId="73e71d43fa75321f28324b05a7ab68f047ca67b7" srcset="https://www.churchofjesuschrist.org/imgs/73e71d43fa75321f28324b05a7ab68f047ca67b7/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/73e71d43fa75321f28324b05a7ab68f047ca67b7/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/73e71d43fa75321f28324b05a7ab68f047ca67b7/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/73e71d43fa75321f28324b05a7ab68f047ca67b7/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/73e71d43fa75321f28324b05a7ab68f047ca67b7/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/73e71d43fa75321f28324b05a7ab68f047ca67b7/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/73e71d43fa75321f28324b05a7ab68f047ca67b7/full/%21640%2C/0/default 640w" data-img-id="73e71d43fa75321f28324b05a7ab68f047ca67b7" data-missing-asset="false" data-width="100" data-height="139" data-aspect-ratio="0.7194244604316546" data-public-title="Sharon Eubank" data-public-description="Official Portrait of Sister Sharon Eubank.  Photographed in 2017."/></div>
+</div>
+<p class="kicker" data-aid="134608274" id="kicker1">The prophets are calling on us, my sisters. Will you be righteous? Will you articulate your faith? Will you turn on your light?</p>
+</header>
+<div class="body-block">
+<p data-aid="134608276" id="p3">You might not know this, but President Monson and I are twins. On the very day I was born—in the very hour—in Northern California, the 36-year-old Thomas S. Monson was sustained as the newest Apostle. I love my special, personal link to the prophet of God, President Monson.</p>
+<p data-aid="134608278" id="p4">The prophets are speaking about women.<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a> You will hear some of their words in this meeting. For my text I am going back almost 40 years to a remarkable prophecy written by President Spencer W. Kimball. September 1979 was only the second time the women of the global Church had met in their own general meeting. President Kimball had prepared his talk, but when the day of the conference came, he was in the hospital. So instead, he asked his wife, Camilla Eyring Kimball, to read his remarks on his behalf.<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a></p>
+<img alt="Sister Camilla Kimball speaking at the pulpit" id="img1" src="https://www.churchofjesuschrist.org/imgs/a82ae475a09d6d6b559aebb5ae5cc6424ebbc2c2/full/%21500%2C/0/default" data-assetId="a82ae475a09d6d6b559aebb5ae5cc6424ebbc2c2" srcset="https://www.churchofjesuschrist.org/imgs/a82ae475a09d6d6b559aebb5ae5cc6424ebbc2c2/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/a82ae475a09d6d6b559aebb5ae5cc6424ebbc2c2/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/a82ae475a09d6d6b559aebb5ae5cc6424ebbc2c2/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/a82ae475a09d6d6b559aebb5ae5cc6424ebbc2c2/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/a82ae475a09d6d6b559aebb5ae5cc6424ebbc2c2/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/a82ae475a09d6d6b559aebb5ae5cc6424ebbc2c2/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/a82ae475a09d6d6b559aebb5ae5cc6424ebbc2c2/full/%21640%2C/0/default 640w" data-img-id="a82ae475a09d6d6b559aebb5ae5cc6424ebbc2c2" data-missing-asset="false" data-width="500" data-height="322" data-aspect-ratio="1.5527950310559007" data-public-title="Kimball, Camilla Eyring" data-public-description="Camilla Eyring Kimball, the wife of Spencer W. Kimball, gives her husband's talk during a session of General Conference in 1979. President Kimball was in the hospital at the time. Image was used in the 2017 October General Women's Session during a talk given by Sharon L. Eubank."/>
+<p data-aid="134608295" id="p5">Sister Kimball read the prophet’s words, which emphasized the influence of LDS women on the good women of the world prior to the Second Coming of the Savior. Near the end, there was an electrifying charge to the women of the Church that we have been talking about ever since.</p>
+<p data-aid="134608297" id="p6">Let me quote a little of what President Kimball said:</p>
+<p data-aid="134608299" id="p7">“Finally, my dear sisters, may I suggest to you something that has not been said before or at least in quite this way. Much of the major growth that is coming to the Church in the last days will come because many of the good women of the world … will be drawn to the Church in large numbers. This will happen to the degree that the women of the Church reflect righteousness and articulateness in their lives and to the degree that the women of the Church are seen as distinct and different—in happy ways—from the women of the world.</p>
+<p data-aid="134608301" id="p8">“Among the real heroines in the world who will come into the Church are women who are more concerned with being righteous than with being selfish. These real heroines have true humility, which places a higher value on integrity than on visibility. …</p>
+<p data-aid="134608303" id="p9">“… It will be … female exemplars of the Church [who] will be a <em>significant force</em> in both the numerical and the spiritual growth of the Church in the last days.”<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a></p>
+<p data-aid="134608305" id="p10">What a prophetic statement that is. Just to summarize:</p>
+<ul class="bullet">
+<li>
+<p data-aid="134608308" id="p11">It will be the good relationships of women that will trigger much of the major growth coming to the Church in the years ahead.</p>
+</li>
+<li>
+<p data-aid="134608310" id="p12">The friendships that Relief Society women, young women, and Primary girls build with sincere, faithful, godly women and girls of other faiths and beliefs will be a <em>significant force</em> in how the Church grows in the last days.</p>
+</li>
+<li>
+<p data-aid="134608312" id="p13">President Kimball called these women from other backgrounds “heroines” who will be more concerned with being righteous than selfish, who will show us that integrity is more valuable than visibility.</p>
+</li>
+</ul>
+<p data-aid="134608314" id="p14">I have met so many of these good women as I do my work around the world. Their friendships are precious to me. You know them too among your friends and neighbors. They may or may not be members of the Church right now, but we connect in friendship that is very important. Well, how do we play our part? What should we do? President Kimball refers to five things:</p>
+<p data-aid="134608316" id="p15"><strong>The first is to be righteous.</strong> Being righteous doesn’t mean being perfect or never making mistakes. It means developing an inner connection with God, repenting of our sins and mistakes, and freely helping others.</p>
+<span class="page-break" data-page="7"></span>
+<p data-aid="134608318" id="p16">Women who have repented change the course of history. I have a friend who was in a car accident when she was young, and from that, she became addicted to pain medication. Later on, her parents divorced. She became pregnant from a brief relationship, and her addictions continued. But one night, she looked at the chaos and mess of her life and thought, “Enough.” She cried out to the Savior Jesus Christ to help her. She said she learned that Jesus Christ was stronger than even her terrible circumstances and that she could rely on His strength as she walked the road of repentance.</p>
+<p data-aid="134608320" id="p17">By coming back to the Lord and His ways, she changed the course of her history and her little boy’s history and her new husband’s. She is righteous; she has a wide-open heart for others who have made mistakes and want to change. And just like all of us, she isn’t perfect, but she knows how to repent and to keep trying.</p>
+<p data-aid="134608322" id="p18"><strong>The second is to be articulate.</strong> Being articulate means to clearly express how you feel about something and why. Earlier this year, there was a post on my Facebook news feed that disparaged Christianity. I read it and I was a little annoyed, but I shrugged it off. But an acquaintance who is not a member of our faith responded with a comment of her own. She wrote: “[This is] the exact opposite of what Jesus stood for—he was … radical [in] his time because he … equalized the world. … He [spoke to] prostitute[s], [he ate] with … tax collector[s] … , befriended powerless women and children … , [and] gave us the story of the Good Samaritan. … It follows that … true Christians would be striving to be the MOST loving people in the world.” When I read that, I thought to myself, “Why didn’t I write that?”</p>
+<p data-aid="134608323" id="p19">Each of us needs to be better at articulating the reasons for our faith. How do you feel about Jesus Christ? Why do you stay in the Church? Why do you believe the Book of Mormon is scripture? Where do you get your peace? Why does it matter that the prophet has something to say in 2017? How do you know he is a real prophet? Use your voice and your power to articulate what you know and feel—on social media, in quiet conversations with your friends, when you’re chatting with your grandchildren. Tell them why you believe, what it feels like, if you ever doubted, how you got through it, and what Jesus Christ means to you. As the Apostle Peter said, “Be not afraid … ; but sanctify the Lord God in your hearts: and be ready always to give an answer to every man that asketh you a reason of the hope that is in you.”<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a></p>
+<p data-aid="134608325" id="p20"><strong>The third is to be different.</strong> Let me tell you a story that happened this July on Panama City Beach in Florida.<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a> Late in the afternoon, Roberta Ursrey saw her two young sons screaming for help from 100 yards (90 m) out into the ocean. They had become caught in a strong current and were being carried out to sea. A nearby couple tried to rescue the boys, but they also got caught in the current. So members of the Ursrey family dove in to rescue the struggling swimmers, and quickly nine people were caught in the rip current.</p>
+<p data-aid="134608327" id="p21">There were no ropes. There was no lifeguard. The police sent for a rescue boat, but the people had been out in the ocean struggling for 20 minutes, <span class="page-break" data-page="8"></span>and they were exhausted and their heads were slipping under the water. Among the onlookers on the beach was Jessica Mae Simmons. Her husband had the idea to form a human chain. They shouted at people on the beach to help them, and dozens of people linked arms and marched into the ocean. Jessica wrote, “To see people from different races and genders come into action to help TOTAL strangers [was] absolutely amazing to see!!”<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a> An 80-person chain stretched toward the swimmers. Look at this picture of that incredible moment.</p>
+<img alt="Swimmers creating a human chain" id="img2" src="https://www.churchofjesuschrist.org/imgs/bbef3e312fa4beddddc11a1fd1de7220bfe33e90/full/%21500%2C/0/default" data-assetId="bbef3e312fa4beddddc11a1fd1de7220bfe33e90" srcset="https://www.churchofjesuschrist.org/imgs/bbef3e312fa4beddddc11a1fd1de7220bfe33e90/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/bbef3e312fa4beddddc11a1fd1de7220bfe33e90/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/bbef3e312fa4beddddc11a1fd1de7220bfe33e90/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/bbef3e312fa4beddddc11a1fd1de7220bfe33e90/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/bbef3e312fa4beddddc11a1fd1de7220bfe33e90/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/bbef3e312fa4beddddc11a1fd1de7220bfe33e90/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/bbef3e312fa4beddddc11a1fd1de7220bfe33e90/full/%21640%2C/0/default 640w" data-img-id="bbef3e312fa4beddddc11a1fd1de7220bfe33e90" data-missing-asset="false" data-width="500" data-height="322" data-aspect-ratio="1.5527950310559007" data-public-title="Florida: Rescue" data-public-description="Men and women form a chain to help rescue a number of people who were caught in a rip current. Image was used in the 2017 October General Women's Session during a talk given by Sharon L. Eubank."/>
+<p data-aid="134608328" id="p22">Everyone on the beach could think only of traditional solutions, and they were paralyzed. But one couple, in a split second, thought of a different solution. Innovation and creation are spiritual gifts. When we keep our covenants, it may make us different from others in our culture and society, but it gives us access to inspiration so we can think of different solutions, different approaches, different applications. We aren’t always going to fit in with the world, but being different in positive ways can be a lifeline to others who are struggling.</p>
+<p data-aid="134608329" id="p23"><strong>The fourth is to be distinct.</strong> Distinct means to be recognizably well defined. Let me go back to the story about Jessica Mae Simmons on the beach. Once that human chain was stretching toward the swimmers, she knew she could help. Jessica Mae said, “I can hold my breath … and go around an Olympic pool with ease! [I knew how to get out of a rip current.] I knew I could get [each swimmer] to the human chain.”<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a> She and her husband grabbed boogie boards and swam down the chain until they and another rescuer reached the swimmers, and then they ferried them one by one back to the chain, who passed them to the safety of the beach. Jessica had a distinct skill: she knew how to swim against a rip current.</p>
+<p data-aid="134608330" id="p24">The restored gospel is recognizably well defined. But we have to be distinct about how we follow it. Just as Jessica practiced swimming, we need to practice living the gospel before the emergency so that, unafraid, we will be strong enough to help when others are being swept away by the current.</p>
+<p data-aid="134608331" id="p25"><strong>And finally, the fifth is to do one through four in happy ways. </strong>Being happy doesn’t mean to slap a plastic smile on your face no matter what is going on. But it does mean keeping the laws of God and building and lifting others.<a class="note-ref" href="#note8"><sup class="marker" data-value="8"></sup></a> When we build, when we lift the burden of others, it blesses our lives in ways our trials cannot take away. I have a quote by President Gordon B. Hinckley placed where I see it every day. He said: “You don’t … build out of pessimism or cynicism. You look with optimism, work with faith, and things happen.”<a class="note-ref" href="#note9"><sup class="marker" data-value="9"></sup></a></p>
+<p data-aid="134608332" id="p26">An example of that happy, optimistic spirit is a 13-year-old girl I know named Elsa, whose family is moving to Baton Rouge, Louisiana, 1,800 miles (2,900 km) away from her friends. It’s not very easy when you are 13 to move to a new place. Elsa was understandably unsure about the move, so her dad gave her a blessing. At the very moment of the blessing, her mom’s phone chimed with a text. The young women who live in Louisiana had sent this picture with the caption “Please move into our ward!”<a class="note-ref" href="#note10"><sup class="marker" data-value="10"></sup></a></p>
+<img alt="Young women holding welcome sign" id="img3" src="https://www.churchofjesuschrist.org/imgs/2551ac448fd5834475f80ac59627d554a2db336c/full/%21500%2C/0/default" data-assetId="2551ac448fd5834475f80ac59627d554a2db336c" srcset="https://www.churchofjesuschrist.org/imgs/2551ac448fd5834475f80ac59627d554a2db336c/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/2551ac448fd5834475f80ac59627d554a2db336c/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/2551ac448fd5834475f80ac59627d554a2db336c/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/2551ac448fd5834475f80ac59627d554a2db336c/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/2551ac448fd5834475f80ac59627d554a2db336c/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/2551ac448fd5834475f80ac59627d554a2db336c/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/2551ac448fd5834475f80ac59627d554a2db336c/full/%21640%2C/0/default 640w" data-img-id="2551ac448fd5834475f80ac59627d554a2db336c" data-missing-asset="false" data-width="500" data-height="322" data-aspect-ratio="1.5527950310559007" data-public-title="Louisiana: Young Women" data-public-description="Young women at a ward in Baton Rouge, Louisiana hold up a sign that says, &quot;Please move into our ward.&quot; A 13 year-old girl named Elsa was uncertain about her family moving to Louisiana. During a blessing her mother received a text message with the picture of the young women.  Image was used in the 2017 October General Women's Session during a talk given by Sharon L. Eubank."/>
+<p data-aid="134608333" id="p27">These young women were optimistic they would like Elsa without even meeting her. Their enthusiasm created optimism in Elsa about the upcoming move and answered her prayer about whether everything would be all right.</p>
+<p data-aid="134608334" id="p28">There is an energy that comes from happiness and optimism that doesn’t just bless us—it builds everyone around us. Any small thing you do to light real happiness in others shows that you are already carrying the torch that President Kimball lit.</p>
+<p data-aid="134608335" id="p29">I was 15 years old at the time President Kimball’s talk was given. We who are older than 40 have been carrying this charge from President Kimball ever since that day. Now I look out at the 8-year-olds, the 15-year-olds, the 20-year-olds, and the 35-year-olds, and I’m going to pass this torch to you. You are the future leaders in this Church, and it will be <span class="page-break" data-page="9"></span>up to you to carry this light forward and be the fulfillment of this prophecy. We who are older than 40 link our arms through yours and feel your strength and energy. We need you.</p>
+<p data-aid="134608336" id="p30">Listen to this scripture found in <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/49?lang=eng&amp;id=p26-p28#p26">Doctrine and Covenants 49:26–28</a>. It may have been written under different circumstances, but tonight by the Holy Spirit, I hope you will take it as your personal call to this sacred work.</p>
+<p data-aid="134608337" id="p31">“Behold, I say unto you, go forth as I have commanded you; repent of all your sins; ask and ye shall receive; knock and it shall be opened unto you.</p>
+<p data-aid="134608338" id="p32">“Behold, I will go before you and be your rearward; and I will be in your midst, and you shall not be confounded.</p>
+<p data-aid="134608339" id="p33">“Behold, I am Jesus Christ, and I come quickly.”<a class="note-ref" href="#note11"><sup class="marker" data-value="11"></sup></a></p>
+<p data-aid="134608340" id="p34">I appeal to each of you to put yourself in a place where you can feel the generous love God has for you. You cannot put yourself beyond the reach of that love. When you feel His love, when you love Him, you will repent and keep His commandments. When you keep His commandments, He can use you in His work. His work and glory is the exaltation and eternal life of women and men.</p>
+<p data-aid="134608341" id="p35">The prophets are calling on us, my sisters. Will you be righteous? Will you articulate your faith? Can you bear being distinct and different? Will your happiness in spite of your trials draw others who are good and noble and who need your friendship? Will you turn on your light? I testify the Lord Jesus Christ will go before us and be in our midst.</p>
+<p data-aid="134608342" id="p36">I conclude with the words of our well-loved prophet, Thomas S. Monson: “My dear sisters, this is your day, this is your time.”<a class="note-ref" href="#note12"><sup class="marker" data-value="12"></sup></a> In the name of Jesus Christ, amen.</p>
+</div>
+<footer class="notes">
+<p class="title" data-aid="134608343" id="notetitle1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="134608344" id="note1_p1">President Brigham Young: “Let [the sisters] organize Female Relief Societies in the various wards. We have many talented women among us, and we wish their help in this matter. Some may think this is a trifling thing, but it is not; and you will find that the sisters will be the mainspring of the movement” (in <em><a href="https://www.lds.org/relief-society/daughters-in-my-kingdom/manual/a-wide-and-extensive-sphere-of-action">Daughters in My Kingdom: The History and Work of Relief Society</a></em> [2011], 41).</p>
+<p data-aid="134608345" id="note1_p2">President Lorenzo Snow: “You have ever been found at the side of the Priesthood, ready … to do your part in helping to advance the interests of the kingdom of God; and as you have shared in these labors, so you will most certainly share in the triumph of the work and in the exaltation and glory which the Lord will give to His faithful children” (in <em><a href="https://www.lds.org/relief-society/daughters-in-my-kingdom/manual/relief-society-a-restoration-of-an-ancient-pattern">Daughters in My Kingdom</a>,</em> 7).</p>
+<p data-aid="134608346" id="note1_p3">President Spencer W. Kimball: “There is power in this organization [of Relief Society] that has not yet been fully exercised to strengthen the homes of Zion and build the Kingdom of God—nor will it until both the sisters and the priesthood [brethren] catch the vision of Relief Society” (in <em><a href="https://www.lds.org/relief-society/daughters-in-my-kingdom/manual/blessings-of-the-priesthood-for-all-an-inseparable-connection-with-the-priesthood">Daughters in My Kingdom</a>,</em> 142).</p>
+<p data-aid="134608347" id="note1_p4">President Howard W. Hunter: “There is a great need to rally the women of the Church to stand with and for the Brethren in stemming the tide of evil that surrounds us and in moving forward the work of our Savior. … So we entreat you to minister with your powerful influence for good in strengthening our families, our church, and our communities” (in <em><a href="https://www.lds.org/relief-society/daughters-in-my-kingdom/manual/guardians-of-the-hearth-establishing-nurturing-and-defending-the-family">Daughters in My Kingdom</a>,</em> 157).</p>
+<p data-aid="134608348" id="note1_p5">President Gordon B. Hinckley: “There is strength and great capacity in the women of this Church. There is leadership and direction, a certain spirit of independence, and yet great satisfaction in being a part of this, the Lord’s kingdom, and of working hand in hand with the priesthood to move it forward” (in <em><a href="https://www.lds.org/relief-society/daughters-in-my-kingdom/manual/blessings-of-the-priesthood-for-all-an-inseparable-connection-with-the-priesthood">Daughters in My Kingdom</a>,</em> 143).</p>
+<p data-aid="134608349" id="note1_p6">President Thomas S. Monson, quoting Belle Smith Spafford, ninth General President of the Relief Society: “‘Never have women had greater influence than in today’s world. Never have the doors of opportunity opened wider for them. This is an inviting, exciting, challenging, and demanding period of time for women. It is a time rich in rewards if we keep our balance, learn the true values of life, and wisely determine priorities’ [<em>A Woman’s Reach</em> (1974), 21]. My dear sisters, this is your day, this is your time” (“<a class="cross-ref" href="/study/general-conference/1997/10/the-mighty-strength-of-the-relief-society?lang=eng">The Mighty Strength of the Relief Society</a>,” <em>Ensign,</em> Nov. 1997, 95).</p>
+<p data-aid="134608350" id="note1_p7">President Russell M. Nelson: “I plead with my sisters of The Church of Jesus Christ of Latter-day Saints to step forward! Take your rightful and needful place in your home, in your community, and in the kingdom of God—more than you ever have before. I plead with you to fulfill President Kimball’s prophecy. And I promise you in the name of Jesus Christ that as you do so, the Holy Ghost will magnify your influence in an unprecedented way!” (“<a class="cross-ref" href="/study/general-conference/2015/10/a-plea-to-my-sisters?lang=eng">A Plea to My Sisters</a>,” <em>Ensign</em> or <em>Liahona,</em> Nov. 2015, 97).</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="134608351" id="note2_p1">See the video of Sister Camilla Kimball reading President Spencer W. Kimball’s address at <a href="https://generalconference.lds.org">conference.lds.org</a>; see also Spencer W. Kimball, “<a class="cross-ref" href="/study/general-conference/1979/10/the-role-of-righteous-women?lang=eng">The Role of Righteous Women</a>,” <em>Ensign,</em> Nov. 1979, 102–4.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="134608352" id="note3_p1">Spencer W. Kimball, “<a class="cross-ref" href="/study/general-conference/1979/10/the-role-of-righteous-women?lang=eng">The Role of Righteous Women</a>,” 103–4; emphasis added.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="134608353" id="note4_p1"><a class="scripture-ref" href="/study/scriptures/nt/1-pet/3?lang=eng&amp;id=p14-p15#p14">1 Peter 3:14–15</a>.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="134608354" id="note5_p1">See McKinley Corbley, “80 Beachgoers Form Human Chain to Save Family Being Dragged Out to Sea by Riptide,” July 12, 2017, goodnewsnetwork.org.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="134608355" id="note6_p1">Jessica Mae Simmons, in Corbley, “80 Beachgoers Form Human Chain.”</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="134608356" id="note7_p1">Simmons, in Corbley, “80 Beachgoers Form Human Chain.”</p>
+</li>
+<li data-marker="8." id="note8" data-full-marker="8.">
+<p data-aid="134608357" id="note8_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/alma/41?lang=eng&amp;id=p10#p10">Alma 41:10</a>; <a class="scripture-ref" href="/study/scriptures/bofm/alma/34?lang=eng&amp;id=p28#p28">34:28</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/38?lang=eng&amp;id=p27#p27">Doctrine and Covenants 38:27</a>; <a class="scripture-ref" href="/study/scriptures/nt/luke/16?lang=eng&amp;id=p19-p25#p19">Luke 16:19–25</a>.</p>
+</li>
+<li data-marker="9." id="note9" data-full-marker="9.">
+<p data-aid="134608358" id="note9_p1"><em><a class="cross-ref" href="/study/manual/teachings-of-presidents-of-the-church-gordon-b-hinckley/chapter-3-cultivating-an-attitude-of-happiness-and-a-spirit-of-optimism?lang=eng">Teachings of Presidents of the Church: Gordon B. Hinckley</a></em> (2016), 71.</p>
+</li>
+<li data-marker="10." id="note10" data-full-marker="10.">
+<p data-aid="134608359" id="note10_p1">Note from Virginia Pearce family.</p>
+</li>
+<li data-marker="11." id="note11" data-full-marker="11.">
+<p data-aid="134608360" id="note11_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/49?lang=eng&amp;id=p26-p28#p26">Doctrine and Covenants 49:26–28</a>.</p>
+</li>
+<li data-marker="12." id="note12" data-full-marker="12.">
+<p data-aid="134608361" id="note12_p1">Thomas S. Monson, “<a class="cross-ref" href="/study/general-conference/1997/10/the-mighty-strength-of-the-relief-society?lang=eng">The Mighty Strength of the Relief Society</a>,” 95.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/2017/10/turn-on-your-light</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/october-2017-general-conference/2017-09-0010-sharon-l-eubank-64k-eng.mp3" length="6595447" type="audio/mpeg"/>
-      <pubDate>Sat, 23 Sep 2017 18:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/9b6caab310bd11eca393eeeeac1e50dfa46ee1e4-64k-en.mp3" length="6737329" type="audio/mpeg"/>
+      <pubDate>Sat, 23 Sep 2017 18:00:00 -0600</pubDate>
+      <itunes:author>Sharon Eubank</itunes:author>
+    </item>
+    <item>
+      <title>Christ: The Light That Shines in Darkness</title>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2019/04/42eubank?lang=eng</link>
+      <description>Sister Eubank teaches that if we make Christ the center of our lives, He will support us in our trials and be our light in the darkness.</description>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="73"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/88756cbca310ba34d7827c16f6452d410efc16b0/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/88756cbca310ba34d7827c16f6452d410efc16b0/full/%21192%2C/0/default" data-video-title="Christ: The Light That Shines in Darkness" data-video-description="Sister Eubank teaches that if we make Christ the center of our lives, He will support us in our trials and be our light in the darkness." data-video-id="6023597320001" data-ip="Download and Streaming                            " data-duration="689000" data-assetId="603B41168D28044574935DD77C9B092FD1B6AA2F" data-ref-id="603B41168D28044574935DD77C9B092FD1B6AA2F" data-asset-aliasId="603b41168d28044574935dd77c9b092fd1b6aa2f" data-duration-string="11:29" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6023597320001.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="192653505"/><source src="https://assets.churchofjesuschrist.org/603B41168D28044574935DD77C9B092FD1B6AA2F-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="38895633"/><source src="https://assets.churchofjesuschrist.org/603B41168D28044574935DD77C9B092FD1B6AA2F-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="80447551"/><source src="https://assets.churchofjesuschrist.org/603B41168D28044574935DD77C9B092FD1B6AA2F-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="192653505"/></video><h1 data-aid="139771751" id="title1">Christ: The Light That Shines in Darkness</h1>
+<div class="byline">
+<p class="author-name" data-aid="139771754" id="author1">By Sharon Eubank</p>
+<p class="author-role" data-aid="139773763" id="author2">First Counselor in the Relief Society General Presidency</p>
+</div>
+<p class="kicker" data-aid="139773768" id="kicker1">If you feel that the beacon of your testimony is sputtering and darkness is closing in, take courage. Keep your promises to God.</p>
+</header>
+<div class="body-block">
+<p data-aid="139773775" id="p1">My office in the Relief Society Building has a perfect view of the Salt Lake Temple. Every night, as regular as clockwork, the outdoor temple lights turn on at dusk. The temple is a steady, reassuring beacon just outside my window.</p>
+<img alt="Salt Lake Temple at dusk" id="img1" src="https://www.churchofjesuschrist.org/imgs/f11db92dcab618885da35f765f893e72f7da8456/full/%21500%2C/0/default" data-assetId="f11db92dcab618885da35f765f893e72f7da8456" srcset="https://www.churchofjesuschrist.org/imgs/f11db92dcab618885da35f765f893e72f7da8456/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/f11db92dcab618885da35f765f893e72f7da8456/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/f11db92dcab618885da35f765f893e72f7da8456/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/f11db92dcab618885da35f765f893e72f7da8456/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/f11db92dcab618885da35f765f893e72f7da8456/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/f11db92dcab618885da35f765f893e72f7da8456/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/f11db92dcab618885da35f765f893e72f7da8456/full/%21640%2C/0/default 640w" data-img-id="f11db92dcab618885da35f765f893e72f7da8456" data-missing-asset="false" data-width="500" data-height="322" data-aspect-ratio="1.5527950310559007" data-public-title="Salt Lake Temple" data-public-description="The Salt Lake Temple in the evening."/>
+<p data-aid="139773784" id="p2">One night this past February, my office remained exceptionally dim as the sun went down. As I looked out the window, the temple was dark. The lights had not turned on. I felt suddenly somber. I couldn’t see the temple spires I had glimpsed every evening for years.</p>
+<img alt="Salt Lake Temple with spires unlit" id="img2" src="https://www.churchofjesuschrist.org/imgs/a69a1c182fe079720c885f2ff87f6ec3f109553b/full/%21500%2C/0/default" data-assetId="a69a1c182fe079720c885f2ff87f6ec3f109553b" srcset="https://www.churchofjesuschrist.org/imgs/a69a1c182fe079720c885f2ff87f6ec3f109553b/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/a69a1c182fe079720c885f2ff87f6ec3f109553b/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/a69a1c182fe079720c885f2ff87f6ec3f109553b/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/a69a1c182fe079720c885f2ff87f6ec3f109553b/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/a69a1c182fe079720c885f2ff87f6ec3f109553b/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/a69a1c182fe079720c885f2ff87f6ec3f109553b/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/a69a1c182fe079720c885f2ff87f6ec3f109553b/full/%21640%2C/0/default 640w" data-img-id="a69a1c182fe079720c885f2ff87f6ec3f109553b" data-missing-asset="false" data-width="500" data-height="322" data-aspect-ratio="1.5527950310559007" data-public-title="Salt Lake Temple" data-public-description="The Salt Lake Temple in the evening."/>
+<p data-aid="139773793" id="p3">Seeing darkness where I expected to see light reminded me that one of the fundamental needs we have in order to grow is to stay connected to our source of light—Jesus Christ. He is the source of our power, the Light and Life of the World. Without a strong connection to Him, we begin to spiritually die. Knowing that, Satan tries to exploit the worldly pressures we all face. He works to dim our light, short-circuit the connection, cut off the power supply, leaving us alone in the dark. These pressures are common conditions in mortality, but Satan works hard to <span class="page-break" data-page="74"></span>isolate us and tell us we are the only one experiencing them.</p>
+<section>
+<header>
+<h2 data-aid="139773796" id="title2">Some of Us Are Paralyzed with Grief</h2>
+</header>
+<p data-aid="139773807" id="p4">When tragedies overtake us, when life hurts so much we can’t breathe, when we’ve taken a beating like the man on the road to Jericho and been left for dead, Jesus comes along and pours oil into our wounds, lifts us tenderly up, takes us to an inn, looks after us.<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a> To those of us in grief, He says, “I will … ease the burdens which are put upon your shoulders, that even you cannot feel them upon your backs, … that ye may know of a surety that I, the Lord God, do visit my people in their afflictions.”<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a> <strong>Christ heals wounds.</strong></p>
+</section>
+<section>
+<header>
+<h2 data-aid="139773813" id="title3">Some of Us Are Just So Tired</h2>
+</header>
+<p data-aid="139773819" id="p6">Elder Jeffrey R. Holland said: “It is not intended that we run faster than we have strength. … But [in spite of] that, I know … many of you run [very,] very fast and that [the] energy and emotional supply sometimes registers close to empty.”<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a> When expectations overwhelm us, we can step back and ask Heavenly Father what to let go of. Part of our life experience is learning what not to do. But even so, sometimes life can be exhausting. Jesus assures us, “Come unto me, all ye that labour and are heavy laden, and I will give you rest.”<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a></p>
+<p data-aid="139773827" id="p28">Christ is willing to join with us in the yoke and pull in order to lighten our burdens. <strong>Christ is rest.</strong></p>
+</section>
+<section>
+<header>
+<h2 data-aid="139773835" id="title4">Some of Us Feel We Don’t Fit the Traditional Mold</h2>
+</header>
+<p data-aid="139773838" id="p7">For various reasons, we don’t feel accepted or acceptable. The New Testament shows the great efforts Jesus made to reach out to all kinds of people: lepers, tax collectors, children, Galileans, harlots, women, Pharisees, sinners, Samaritans, widows, Roman soldiers, adulterers, the ritually unclean. In almost every story, He is reaching someone who wasn’t traditionally accepted in society.</p>
+<p data-aid="139773846" id="p8"><a class="scripture-ref" href="/study/scriptures/nt/luke/19?lang=eng">Luke 19</a> tells the story of the chief tax collector in Jericho named Zacchaeus. He climbed a tree in order to see Jesus walk by. Zacchaeus was employed by the Roman government and viewed as corrupt and a sinner. Jesus saw him up in the tree and called to him, saying, “Zacchaeus, make haste, and come down; for to day I must abide at thy house.”<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a> And when Jesus saw the goodness of Zacchaeus’s heart and the things he did for others, He accepted his offering, saying, “This day is salvation come to this house, [for] he also is a son of Abraham.”<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a></p>
+<p data-aid="139773851" id="p10">Christ tenderly told the Nephites, “I have commanded that none of you should go away.”<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a> Peter had that powerful epiphany in <a class="scripture-ref" href="/study/scriptures/nt/acts/10?lang=eng">Acts 10</a> when he declared, “God hath shewed me that I should not call any [person] common or unclean.”<a class="note-ref" href="#note8"><sup class="marker" data-value="8"></sup></a> It is an unwavering requirement of Christian disciples and Latter-day Saints to show true love to one another.<a class="note-ref" href="#note9"><sup class="marker" data-value="9"></sup></a> Jesus extends the same kind of invitation to us that He did to Zacchaeus: “Behold, I stand at the door, and knock: if [you] hear my voice, and open the door, I will come in to [you], and will sup with [you], and [you] with me.”<a class="note-ref" href="#note10"><sup class="marker" data-value="10"></sup></a> <strong>Christ sees us in our tree.</strong></p>
+</section>
+<section>
+<header>
+<h2 data-aid="139773858" id="title5">Some of Us Are Splintering with Questions</h2>
+</header>
+<p data-aid="139773867" id="p11">Not many years ago, I was weighed down and irritated with questions I could not find answers to. Early one Saturday morning, I had a little dream. In the dream I could see a gazebo, and I understood that I should go stand in it. It had five arches encircling it, but the windows were made of stone. I complained in the dream, not wanting to go inside because it was so claustrophobic. Then the thought came into my mind that the brother of Jared had patiently melted stones into clear glass. Glass is stone that has undergone a state change. When the Lord touched the stones for the brother of Jared, they glowed with light in the dark ships.<a class="note-ref" href="#note11"><sup class="marker" data-value="11"></sup></a> Suddenly I was filled with a desire to be in that gazebo more than any other place. It was the very place—the only place—for me to truly “see.” The questions that were bothering me didn’t go <span class="page-break" data-page="75"></span>away, but brighter in my mind was the question after I woke up: “How are you going to increase your faith, like the brother of Jared, so your stones can be turned into light?”<a class="note-ref" href="#note12"><sup class="marker" data-value="12"></sup></a></p>
+<p data-aid="139773873" id="p14">Our mortal brains are made to seek understanding and meaning in tidy bundles. I don’t know all the reasons why the veil over mortality is so thick. This is not the stage in our eternal development where we have all answers. It is the stage where we develop our assurance (or sometimes our hope) in the evidence of things not seen. Assurance comes in ways that aren’t always easy to analyze, but there is light in our darkness. Jesus said, “I am the light, and the life, and the truth of the world.”<a class="note-ref" href="#note13"><sup class="marker" data-value="13"></sup></a> For those seeking truth, it may seem at first to be the foolish claustrophobia of windows made of stone. But with patience and faithful questions, Jesus can transform our windows of stone to glass and light. <strong>Christ is light to see.</strong></p>
+</section>
+<section>
+<header>
+<h2 data-aid="139773878" id="title6">Some of Us Feel We Can Never Be Good Enough</h2>
+</header>
+<p data-aid="139773884" id="p15">The scarlet dye of the Old Testament was not only colorful but also colorfast, meaning that its vivid color stuck to the wool and would not fade no matter how many times it was washed.<a class="note-ref" href="#note14"><sup class="marker" data-value="14"></sup></a> Satan wields this reasoning like a club: white wool stained scarlet can never go back to being white. But Jesus Christ declares, “My ways [are] higher than your ways,”<a class="note-ref" href="#note15"><sup class="marker" data-value="15"></sup></a> and the miracle of His grace is that when we repent of our sins, His scarlet blood returns us to purity. It isn’t logical, but it is nevertheless true.</p>
+<figure class="image no-print" id="figure1">
+<img alt="Wool stained scarlet" id="figure1_img1" src="https://www.churchofjesuschrist.org/imgs/efbecfb861c0f61e68244ba0721bbb64674bdf45/full/%21500%2C/0/default" data-assetId="efbecfb861c0f61e68244ba0721bbb64674bdf45" srcset="https://www.churchofjesuschrist.org/imgs/efbecfb861c0f61e68244ba0721bbb64674bdf45/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/efbecfb861c0f61e68244ba0721bbb64674bdf45/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/efbecfb861c0f61e68244ba0721bbb64674bdf45/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/efbecfb861c0f61e68244ba0721bbb64674bdf45/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/efbecfb861c0f61e68244ba0721bbb64674bdf45/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/efbecfb861c0f61e68244ba0721bbb64674bdf45/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/efbecfb861c0f61e68244ba0721bbb64674bdf45/full/%21640%2C/0/default 640w" data-img-id="efbecfb861c0f61e68244ba0721bbb64674bdf45" data-missing-asset="false" data-width="500" data-height="322" data-aspect-ratio="1.5527950310559007" data-public-title="Yarn in Red Dye" data-public-description="Three balls of yarn soaking in red dye."/>
+<div class="credit">
+<p data-aid="139773891" id="figure1_p1">Photograph from iStock.com/iinwibisono</p>
+</div>
+</figure>
+<p data-aid="139773903" id="p29">“Though your sins be as scarlet, they shall be as white as snow; though they be red like crimson, they shall be as wool.”<a class="note-ref" href="#note16"><sup class="marker" data-value="16"></sup></a> The Lord says emphatically: he or she “who has repented of … sins, the same is forgiven, and I, the Lord, remember them no more.”<a class="note-ref" href="#note17"><sup class="marker" data-value="17"></sup></a> In essence: Come, let us reason together.<a class="note-ref" href="#note18"><sup class="marker" data-value="18"></sup></a> You made mistakes; all come short.<a class="note-ref" href="#note19"><sup class="marker" data-value="19"></sup></a> Come unto me and repent.<a class="note-ref" href="#note20"><sup class="marker" data-value="20"></sup></a> I will remember the sin no more.<a class="note-ref" href="#note21"><sup class="marker" data-value="21"></sup></a> You can be whole again.<a class="note-ref" href="#note22"><sup class="marker" data-value="22"></sup></a> I have a work for you to do.<a class="note-ref" href="#note23"><sup class="marker" data-value="23"></sup></a> <strong>Christ makes wool white.</strong></p>
+<p data-aid="139773909" id="p18">But what are the practical steps? What is the key to reconnecting to the power of Jesus Christ when we are flickering? President Russell M. Nelson said it very simply: “The key is to make and keep sacred covenants. … It is not a complicated way.”<a class="note-ref" href="#note24"><sup class="marker" data-value="24"></sup></a> Make Christ the center of your life.<a class="note-ref" href="#note25"><sup class="marker" data-value="25"></sup></a></p>
+<p data-aid="139773914" id="p19">If you feel that the beacon of your testimony is sputtering and darkness is closing in, take courage. Keep your promises to God. Ask your questions. Patiently melt stone to glass. Turn to Jesus Christ, who loves you still.</p>
+<p data-aid="139773921" id="p20">Jesus said, “I am the light [that] shineth in darkness, and the darkness comprehendeth it not.”<a class="note-ref" href="#note26"><sup class="marker" data-value="26"></sup></a> That means no matter how hard it tries, the darkness cannot put out that light. Ever. You can trust that His light will be there for you.</p>
+<img alt="Salt Lake Temple relit" id="img5" src="https://www.churchofjesuschrist.org/imgs/f11cf8e16a726a06497ef4e43a392555c8a9f24b/full/%21500%2C/0/default" data-assetId="f11cf8e16a726a06497ef4e43a392555c8a9f24b" srcset="https://www.churchofjesuschrist.org/imgs/f11cf8e16a726a06497ef4e43a392555c8a9f24b/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/f11cf8e16a726a06497ef4e43a392555c8a9f24b/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/f11cf8e16a726a06497ef4e43a392555c8a9f24b/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/f11cf8e16a726a06497ef4e43a392555c8a9f24b/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/f11cf8e16a726a06497ef4e43a392555c8a9f24b/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/f11cf8e16a726a06497ef4e43a392555c8a9f24b/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/f11cf8e16a726a06497ef4e43a392555c8a9f24b/full/%21640%2C/0/default 640w" data-img-id="f11cf8e16a726a06497ef4e43a392555c8a9f24b" data-missing-asset="false" data-width="500" data-height="322" data-aspect-ratio="1.5527950310559007" data-public-title="Salt Lake Temple" data-public-description="The Salt Lake Temple in the evening."/>
+<p data-aid="139773926" id="p21">We, or people we love, may temporarily go dark. In the case of the Salt Lake Temple, the facilities manager, Brother Val White, got a call almost immediately. People had noticed. What was wrong with the temple lights? First, the staff went in person to every electrical panel in the temple and manually turned the lights back on. Then they replaced the batteries in the automatic power supply and tested them to find out what had failed.</p>
+<p data-aid="139773931" id="p22">It’s hard to get the lights back on by yourself. We need friends. We need each other. Just like the temple facilities staff, we can help each other by showing up in person, recharging our spiritual batteries, repairing what went wrong.</p>
+<img alt="Salt Lake Temple at Christmastime" id="img4" src="https://www.churchofjesuschrist.org/imgs/966952a10d2d90e6d576aef39f263f04773f563c/full/%21500%2C/0/default" data-assetId="966952a10d2d90e6d576aef39f263f04773f563c" srcset="https://www.churchofjesuschrist.org/imgs/966952a10d2d90e6d576aef39f263f04773f563c/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/966952a10d2d90e6d576aef39f263f04773f563c/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/966952a10d2d90e6d576aef39f263f04773f563c/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/966952a10d2d90e6d576aef39f263f04773f563c/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/966952a10d2d90e6d576aef39f263f04773f563c/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/966952a10d2d90e6d576aef39f263f04773f563c/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/966952a10d2d90e6d576aef39f263f04773f563c/full/%21640%2C/0/default 640w" data-img-id="966952a10d2d90e6d576aef39f263f04773f563c" data-missing-asset="false" data-width="500" data-height="322" data-aspect-ratio="1.5527950310559007" data-public-title="Salt Lake Temple" data-public-description="The Salt Lake Temple in the evening."/>
+<p data-aid="139773936" id="p23">Our individual light may be like only one light bulb on a tree. But we still shine our small light, and all together, like Temple Square at Christmastime, we attract millions of people to the house of the Lord. Best of all, as President Nelson has encouraged, we can bring the Savior’s light to ourselves and the people important to us by the simple act of keeping our covenants. In a variety of ways, the Lord rewards that faithful act with power and with joy.<a class="note-ref" href="#note27"><sup class="marker" data-value="27"></sup></a></p>
+<p data-aid="139773941" id="p25">I testify you are beloved. The Lord knows how hard you are trying. You are making progress. Keep going. He sees <span class="page-break" data-page="76"></span>all your hidden sacrifices and counts them to your good and the good of those you love. Your work is not in vain. You are not alone. His very name, Emmanuel, means “God with us.”<a class="note-ref" href="#note28"><sup class="marker" data-value="28"></sup></a> He is surely with you.</p>
+<p data-aid="139773946" id="p30">Take a few more steps on the covenant path, even if it’s too dark to see very far. The lights will come back on. I testify of the truth in Jesus’s words, and they are filled with light: “Draw near unto me and I will draw near unto you; seek me diligently and ye shall find me; ask, and ye shall receive; knock, and it shall be opened unto you.”<a class="note-ref" href="#note29"><sup class="marker" data-value="29"></sup></a> In the name of Jesus Christ, amen.</p>
+</section>
+</div>
+<footer class="notes">
+<p class="title" data-aid="139773949" id="note_title1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="139773954" id="note1_p1">See <a class="scripture-ref" href="/study/scriptures/nt/luke/10?lang=eng&amp;id=p30-p35#p30">Luke 10:30–35</a>.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="139773959" id="note2_p1"><a class="scripture-ref" href="/study/scriptures/bofm/mosiah/24?lang=eng&amp;id=p14#p14">Mosiah 24:14</a>.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="139773962" id="note3_p1">Jeffrey R. Holland, “<a class="cross-ref" href="/study/liahona/2018/06/bearing-one-anothers-burdens?lang=eng&amp;id=p23#p23">Bearing One Another’s Burdens</a>,” <cite>Ensign,</cite> June 2018, 28; <cite>Liahona,</cite> June 2018, 30.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="139773969" id="note4_p1"><a class="scripture-ref" href="/study/scriptures/nt/matt/11?lang=eng&amp;id=p28#p28">Matthew 11:28</a>.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="139773973" id="note5_p1"><a class="scripture-ref" href="/study/scriptures/nt/luke/19?lang=eng&amp;id=p5#p5">Luke 19:5</a>.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="139773976" id="note6_p1"><a class="scripture-ref" href="/study/scriptures/nt/luke/19?lang=eng&amp;id=p9#p9">Luke 19:9</a>.</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="139773980" id="note7_p1"><a class="scripture-ref" href="/study/scriptures/bofm/3-ne/18?lang=eng&amp;id=p25#p25">3 Nephi 18:25</a>.</p>
+</li>
+<li data-marker="8." id="note8" data-full-marker="8.">
+<p data-aid="139773984" id="note8_p1"><a class="scripture-ref" href="/study/scriptures/nt/acts/10?lang=eng&amp;id=p28#p28">Acts 10:28</a>.</p>
+</li>
+<li data-marker="9." id="note9" data-full-marker="9.">
+<p data-aid="139773988" id="note9_p1">See <a class="scripture-ref" href="/study/scriptures/nt/john/15?lang=eng&amp;id=p12#p12">John 15:12</a>.</p>
+</li>
+<li data-marker="10." id="note10" data-full-marker="10.">
+<p data-aid="139773993" id="note10_p1"><a class="scripture-ref" href="/study/scriptures/nt/rev/3?lang=eng&amp;id=p20#p20">Revelation 3:20</a>.</p>
+</li>
+<li data-marker="11." id="note11" data-full-marker="11.">
+<p data-aid="139773999" id="note11_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/ether/6?lang=eng&amp;id=p3#p3">Ether 6:3</a>.</p>
+</li>
+<li data-marker="12." id="note12" data-full-marker="12.">
+<p data-aid="139774002" id="note12_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/ether/4?lang=eng&amp;id=p7#p7">Ether 4:7</a>.</p>
+</li>
+<li data-marker="13." id="note13" data-full-marker="13.">
+<p data-aid="139774008" id="note13_p1"><a class="scripture-ref" href="/study/scriptures/bofm/ether/4?lang=eng&amp;id=p12#p12">Ether 4:12</a>.</p>
+</li>
+<li data-marker="14." id="note14" data-full-marker="14.">
+<p data-aid="139774012" id="note14_p1">See “<a class="cross-ref" href="/study/ensign/2016/12/scarlet-crimson-snow-and-wool?lang=eng">Scarlet, Crimson, Snow, and Wool</a>,” <cite>Ensign,</cite> Dec. 2016, 64–65.</p>
+</li>
+<li data-marker="15." id="note15" data-full-marker="15.">
+<p data-aid="139774014" id="note15_p1"><a class="scripture-ref" href="/study/scriptures/ot/isa/55?lang=eng&amp;id=p9#p9">Isaiah 55:9</a>.</p>
+</li>
+<li data-marker="16." id="note16" data-full-marker="16.">
+<p data-aid="139774018" id="note16_p1"><a class="scripture-ref" href="/study/scriptures/ot/isa/1?lang=eng&amp;id=p18#p18">Isaiah 1:18</a>.</p>
+</li>
+<li data-marker="17." id="note17" data-full-marker="17.">
+<p data-aid="139774023" id="note17_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/58?lang=eng&amp;id=p42#p42">Doctrine and Covenants 58:42</a>.</p>
+</li>
+<li data-marker="18." id="note18" data-full-marker="18.">
+<p data-aid="139774026" id="note18_p1">See <a class="scripture-ref" href="/study/scriptures/ot/isa/1?lang=eng&amp;id=p18#p18">Isaiah 1:18</a>.</p>
+</li>
+<li data-marker="19." id="note19" data-full-marker="19.">
+<p data-aid="139774030" id="note19_p1">See <a class="scripture-ref" href="/study/scriptures/nt/rom/3?lang=eng&amp;id=p23#p23">Romans 3:23</a>.</p>
+</li>
+<li data-marker="20." id="note20" data-full-marker="20.">
+<p data-aid="139774034" id="note20_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/3-ne/9?lang=eng&amp;id=p22#p22">3 Nephi 9:22</a>.</p>
+</li>
+<li data-marker="21." id="note21" data-full-marker="21.">
+<p data-aid="139774038" id="note21_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/58?lang=eng&amp;id=p42#p42">Doctrine and Covenants 58:42</a>.</p>
+</li>
+<li data-marker="22." id="note22" data-full-marker="22.">
+<p data-aid="139774041" id="note22_p1">See <a class="scripture-ref" href="/study/scriptures/nt/luke/8?lang=eng&amp;id=p48#p48">Luke 8:48</a>.</p>
+</li>
+<li data-marker="23." id="note23" data-full-marker="23.">
+<p data-aid="139774046" id="note23_p1">See <a class="scripture-ref" href="/study/scriptures/pgp/moses/1?lang=eng&amp;id=p6#p6">Moses 1:6</a>.</p>
+</li>
+<li data-marker="24." id="note24" data-full-marker="24.">
+<p data-aid="139774048" id="note24_p1">Russell M. Nelson, “<a class="cross-ref" href="/study/broadcasts/christmas-devotional/2018/12/four-gifts-that-jesus-christ-offers-to-you?lang=eng&amp;id=p21#p21">Four Gifts That Jesus Christ Offers to You</a>” (First Presidency Christmas devotional, Dec. 2, 2018), broadcasts.ChurchofJesusChrist.org.</p>
+</li>
+<li data-marker="25." id="note25" data-full-marker="25.">
+<p data-aid="139774052" id="note25_p1">See Russell M. Nelson, “Why Have Faith Now? LDS President Russell M. Nelson Explains during Phoenix-Area Visit,” <cite>Arizona Republic,</cite> Feb. 10, 2019, azcentral.com.</p>
+</li>
+<li data-marker="26." id="note26" data-full-marker="26.">
+<p data-aid="139774057" id="note26_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/6?lang=eng&amp;id=p21#p21">Doctrine and Covenants 6:21</a>.</p>
+</li>
+<li data-marker="27." id="note27" data-full-marker="27.">
+<p data-aid="139774062" id="note27_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/mosiah/27?lang=eng&amp;id=p14#p14">Mosiah 27:14</a>.</p>
+</li>
+<li data-marker="28." id="note28" data-full-marker="28.">
+<p data-aid="139774065" id="note28_p1"><a class="scripture-ref" href="/study/scriptures/nt/matt/1?lang=eng&amp;id=p23#p23">Matthew 1:23</a>.</p>
+</li>
+<li data-marker="29." id="note29" data-full-marker="29.">
+<p data-aid="139774069" id="note29_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/88?lang=eng&amp;id=p63#p63">Doctrine and Covenants 88:63</a>.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
+      <guid isPermaLink="false">/general-conference/2019/04/42eubank</guid>
+      <enclosure url="https://assets.churchofjesuschrist.org/6c278cfa32e111ec8aafeeeeac1e5e3691533dc3-64k-en.mp3" length="5745942" type="audio/mpeg"/>
+      <pubDate>Sun, 07 Apr 2019 10:00:00 -0600</pubDate>
+      <itunes:author>Sharon Eubank</itunes:author>
+    </item>
+    <item>
+      <title>By Union of Feeling We Obtain Power with God</title>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2020/10/31eubank?lang=eng</link>
+      <description>Sister Eubank teaches us how we can achieve greater unity with each other and thus obtain greater power from God.</description>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="55"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/1ca24d693194356cb508a0ae5dde6c92b12d9428/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/1ca24d693194356cb508a0ae5dde6c92b12d9428/full/%21192%2C/0/default" data-video-title="By Union of Feeling We Obtain Power with God" data-video-description="Sister Eubank teaches us how we can achieve greater unity with each other and thus obtain greater power from God." data-video-id="6197263759001" data-ip="Download and Streaming                            " data-duration="606539" data-assetId="89FD5BFDB0DF935693C977E5F9AE52BEA9671320" data-ref-id="89FD5BFDB0DF935693C977E5F9AE52BEA9671320" data-asset-aliasId="89fd5bfdb0df935693c977e5f9ae52bea9671320" data-duration-string="10:06" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6197263759001.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="190691183"/><source src="https://assets.churchofjesuschrist.org/89FD5BFDB0DF935693C977E5F9AE52BEA9671320-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="35744234"/><source src="https://assets.churchofjesuschrist.org/89FD5BFDB0DF935693C977E5F9AE52BEA9671320-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="79490270"/><source src="https://assets.churchofjesuschrist.org/89FD5BFDB0DF935693C977E5F9AE52BEA9671320-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="190691183"/></video><h1 data-aid="144619747" id="title1">By Union of Feeling We Obtain Power with God</h1>
+<div class="byline">
+<p class="author-name" data-aid="144619749" id="author1">By Sharon Eubank</p>
+<p class="author-role" data-aid="144619751" id="author2">First Counselor in the Relief Society General Presidency</p>
+</div>
+<p class="kicker" data-aid="144619752" id="kicker1">As we seek union of feeling, we will call down the power of God to make our efforts whole.</p>
+</header>
+<div class="body-block">
+<p data-aid="144619753" id="p1">Gordon’s mother told him if he would finish his chores, she would make him a pie. His favorite kind. Just for him. Gordon went to work on getting those chores done, and his mother rolled out the pie. His older sister Kathy came into the house with a friend. She saw the pie and asked if she and her friend could have a slice.</p>
+<p data-aid="144619754" id="p2">“No,” said Gordon, “it’s my pie. Mom baked it for me, and I had to earn it.”</p>
+<p data-aid="144619755" id="p3">Kathy snapped at her little brother. He was so self-centered and ungenerous. How could he keep this all to himself?</p>
+<p data-aid="144619756" id="p4">Hours later when Kathy opened the car door to take her friend home, there on the seat were two napkins folded nicely, two forks set on top, and two wide pieces of pie on plates. Kathy told this story at Gordon’s funeral to show how he was willing to change and show kindness to those who didn’t always deserve it.</p>
+<p data-aid="144619757" id="p5">In 1842, the Saints were working hard to build the Nauvoo Temple. After the founding of the Relief Society in March, the Prophet Joseph often came to their meetings to prepare them for the sacred, unifying covenants they would soon make in the temple.</p>
+<p data-aid="144619758" id="p6">On June 9, the Prophet “said he was going to preach mercy[.] Supposing that Jesus Christ and [the] angels should object to us on frivolous things, what would become of us? We must be merciful and overlook small things.” President Smith continued, “It grieves me that there is no fuller fellowship—if one member suffer all feel it—by union of feeling we obtain pow’r with God.”<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a></p>
+<p data-aid="144619760" id="p7">That small sentence struck me like lightning. <em>By union of feeling we obtain power with God.</em> This world isn’t what I want it to be. There are many things I want to influence and make better. And frankly, there is a lot of opposition to what I hope for, and sometimes I feel powerless. Lately, I have been asking myself searching questions: How can I understand people around me better? How will I create that “union of feeling” when all are so different? What power from God might I access if I am just a little bit more unified with others? From my soul-searching, I have three suggestions. Maybe they will help you too.</p>
+<section>
+<header>
+<h2 data-aid="144619766" id="title2">Have Mercy</h2>
+</header>
+<p data-aid="144619770" id="p8"><a class="scripture-ref" href="/study/scriptures/bofm/jacob/2?lang=eng&amp;id=p17#p17">Jacob 2:17</a> reads, “Think of your [brothers and sisters] like unto yourselves, and be familiar with all and free with your substance, that they may be rich like unto you.” Let’s replace the word <i>substance</i> with <i>mercy</i>—be free with your <em>mercy</em> that they may be rich like unto you.</p>
+<p data-aid="144619773" id="p9">We often think of substance in terms of food or money, but perhaps what we all need more of in our ministering is mercy.</p>
+<p data-aid="144619779" id="p10">My own Relief Society president recently said: “The thing I … promise <span class="page-break" data-page="56"></span>… you is that I will keep your name safe. … I will see you for who you are at your best. … I will never say anything about you that is unkind, that is not going to lift you. I ask you to do the same for me because I am terrified, frankly, of letting you down.”</p>
+<p data-aid="144619783" id="p11">Joseph Smith told the sisters on that June day in 1842:</p>
+<p data-aid="144619787" id="p12">“When persons manifest the least kindness and love to me, O what pow’r it has over my mind. …</p>
+<p data-aid="144619789" id="p13">“… The nearer we get to our heavenly Father, the more are we dispos’d to look with compassion on perishing souls—[we feel that we want] to take them upon our shoulders and cast their sins behind our back. [My talk is intended for] all this Society—if you would have God have mercy on you, have mercy on one another.”<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a></p>
+<p data-aid="144619795" id="p14">This was counsel specifically to the Relief Society. Let’s not judge each other or let our words bite. Let’s keep each other’s names safe and give the gift of mercy.<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a></p>
+</section>
+<section>
+<header>
+<h2 data-aid="144619800" id="title3">Make Your Boat <em>Swing</em></h2>
+</header>
+<p data-aid="144619806" id="p15">In 1936, an obscure rowing team from the University of Washington traveled to Germany to participate in the Olympic Games. It was the depths of the Great Depression. These were working-class boys whose small mining and lumber towns donated bits of money so they could travel to Berlin. Every aspect of the competition seemed stacked against them, but something happened in the race. In the rowing world, they call it “swing.” Listen to this description based on the book <cite>The Boys in the Boat:</cite></p>
+<p data-aid="144619813" id="p16">There is a thing that sometimes happens that is hard to achieve and hard to define. It’s called “swing.” It happens only when all are rowing in such perfect unison that not a single action is out of sync.</p>
+<p data-aid="144619818" id="p17">Rowers must rein in their fierce independence and at the same time hold true to their individual capabilities. Races are not won by clones. Good crews are good blends—someone to lead the charge, someone to hold something in reserve, someone to fight the fight, someone to make peace. No rower is more valuable than another, all are assets to the boat, but if they are to row well together, each must adjust to the needs and capabilities of the others—the shorter-armed person reaching a little farther, the longer-armed person pulling in just a bit.</p>
+<p data-aid="144619821" id="p18">Differences can be turned to advantage instead of disadvantage. Only then will it feel as if the boat is moving on its own. Only then does pain entirely give way to exultation. Good “swing” feels like poetry.<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a></p>
+<p data-aid="144619827" id="p19">Against towering obstacles, this team found perfect swing and won. The Olympic gold was exhilarating, but the unity each rower experienced that day was a holy moment that stayed with them all their lives.</p>
+</section>
+<section>
+<header>
+<h2 data-aid="144619833" id="title4">Clear Away the Bad as Fast as the Good Can Grow</h2>
+</header>
+<p data-aid="144619839" id="p20">In the exquisite allegory in <a class="scripture-ref" href="/study/scriptures/bofm/jacob/5?lang=eng">Jacob 5</a>, the Lord of the vineyard planted a good tree in good ground, but it became corrupted over time and brought forth wild fruit. The Lord of the vineyard says eight times: “It grieveth me [to] lose this tree.”</p>
+<p data-aid="144619845" id="p21">The servant says to the Lord of the vineyard: “Spare [the tree] a little longer. And the Lord said: Yea, I will spare it a little longer.”<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a></p>
+<p data-aid="144619851" id="p22">And then comes instruction that can be applied to all of us trying to dig about and find good fruit in our own little vineyards: “Ye shall clear away the bad according as the good shall grow.”<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a></p>
+<p data-aid="144619856" id="p23">Unity doesn’t magically happen; it takes work. It’s messy, sometimes uncomfortable, and happens gradually when we clear away the bad as fast as the good can grow.</p>
+<p data-aid="144619861" id="p24">We are never alone in our efforts to create unity. <a class="scripture-ref" href="/study/scriptures/bofm/jacob/5?lang=eng">Jacob 5</a> continues, “The servants did go and labor with their mights; and the Lord of the vineyard labored also with them.”<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a></p>
+<p data-aid="144619864" id="p25">Each of us is going to have deeply wounding experiences, things that should never happen. Each of us will also, at various times, allow pride and loftiness to corrupt the fruit we bear. But Jesus Christ is our Savior in all things. His power reaches to the very bottom and is reliably there for us when we call on Him. We all beg for mercy for our sins and failures. He freely gives it. And He asks us if we can give that same mercy and understanding to each other.</p>
+<p data-aid="144619873" id="p26">Jesus put it bluntly: “Be one; and if ye are not one ye are not mine.”<a class="note-ref" href="#note8"><sup class="marker" data-value="8"></sup></a> But <span class="page-break" data-page="57"></span>if we are one—if we can spare a piece of our pie or fit our individual talents so the boat can swing in perfect unison—then we are His. And He will help clear away the bad as fast as the good does grow.</p>
+</section>
+<section>
+<header>
+<h2 data-aid="144619878" id="title5">Prophetic Promises</h2>
+</header>
+<p data-aid="144619883" id="p27">We may not yet be where we want to be, and we are not now where we will be. I believe the change we seek in ourselves and in the groups we belong to will come less by activism and more by actively trying every day to understand one another. Why? Because we are building Zion—a people “of one heart and one mind.”<a class="note-ref" href="#note9"><sup class="marker" data-value="9"></sup></a></p>
+<p data-aid="144619887" id="p28">As covenant women, we have broad influence. That influence is applied in everyday moments when we are studying with a friend, putting children to bed, talking to a seatmate on the bus, preparing a presentation with a colleague. We have power to remove prejudice and build unity.</p>
+<p data-aid="144619892" id="p29">Relief Society and Young Women are not simply classes. They can also be unforgettable experiences where very different women all get into the same boat and row until we find our <em>swing.</em> I offer this invitation: be part of a collective force that changes the world for good. Our covenantal assignment is to minister, to lift up the hands that hang down, to put struggling people on our backs or in our arms and carry them. It isn’t complicated to know what to do, but it often goes against our selfish interests, and we have to try. The women of this Church have unlimited potential to change society. I have full spiritual confidence that, as we seek union of feeling, we will call down the power of God to make our efforts whole.</p>
+<p data-aid="144619898" id="p30">When the Church commemorated the 1978 revelation on priesthood, President Russell M. Nelson extended a powerful prophetic blessing: “It is my prayer <em>and blessing</em> that I leave upon all who are listening that we may overcome any burdens of prejudice and walk uprightly with God—and with one another—in perfect peace and harmony.”<a class="note-ref" href="#note10"><sup class="marker" data-value="10"></sup></a></p>
+</section>
+<p data-aid="144619903" id="p31">May we draw on this prophetic blessing and use our individual and collective efforts to increase unity in the world. I leave my testimony in the words of the Lord Jesus Christ’s humble, timeless prayer: “That they all may be one; as thou, Father, art in me, and I in thee, that they also may be one in us.”<a class="note-ref" href="#note11"><sup class="marker" data-value="11"></sup></a> In the name of Jesus Christ, amen.</p>
+</div>
+<footer class="notes">
+<p class="title" data-aid="144619910" id="note_title1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="144619915" id="note1_p1">“<a href="https://www.josephsmithpapers.org/paper-summary/minutes-and-discourse-9-june-1842/1">Minutes and Discourse, 9 June 1842</a>,” 61, Joseph Smith Papers, josephsmithpapers.org/paper-summary/minutes-and-discourse-9-june-1842/1.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="144619919" id="note2_p1">“<a href="https://www.josephsmithpapers.org/paper-summary/minutes-and-discourse-9-june-1842/2">Minutes and Discourse, 9 June 1842</a>,” 62, Joseph Smith Papers, josephsmithpapers.org/paper-summary/minutes-and-discourse-9-june-1842/2.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="144619924" id="note3_p1">See Cree-L Kofford, “<a class="cross-ref" href="/study/general-conference/1999/04/your-name-is-safe-in-our-home?lang=eng">Your Name Is Safe in Our Home</a>,” <cite>Ensign,</cite> May 1999, 81–83; <cite>Liahona,</cite> July 1999, 96–98.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="144619930" id="note4_p1">See Daniel James Brown, <cite>The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics</cite> (2013), 161, 179.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="144619936" id="note5_p1"><a class="scripture-ref" href="/study/scriptures/bofm/jacob/5?lang=eng&amp;id=p50-p51#p50">Jacob 5:50–51</a>.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="144619941" id="note6_p1"><a class="scripture-ref" href="/study/scriptures/bofm/jacob/5?lang=eng&amp;id=p66#p66">Jacob 5:66</a>.</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="144619947" id="note7_p1"><a class="scripture-ref" href="/study/scriptures/bofm/jacob/5?lang=eng&amp;id=p72#p72">Jacob 5:72</a>.</p>
+</li>
+<li data-marker="8." id="note8" data-full-marker="8.">
+<p data-aid="144619953" id="note8_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/38?lang=eng&amp;id=p27#p27">Doctrine and Covenants 38:27</a>.</p>
+</li>
+<li data-marker="9." id="note9" data-full-marker="9.">
+<p data-aid="144619960" id="note9_p1"><a class="scripture-ref" href="/study/scriptures/pgp/moses/7?lang=eng&amp;id=p18#p18">Moses 7:18</a>.</p>
+</li>
+<li data-marker="10." id="note10" data-full-marker="10.">
+<p data-aid="144619966" id="note10_p1">Russell M. Nelson, “<a class="cross-ref" href="/study/new-era/2018/08/be-one/building-bridges?lang=eng&amp;id=p14#p14">Building Bridges</a>,” <cite>New Era,</cite> Aug. 2018, 6; <cite>Liahona,</cite> Dec. 2018, 51; emphasis added.</p>
+</li>
+<li data-marker="11." id="note11" data-full-marker="11.">
+<p data-aid="144619975" id="note11_p1"><a class="scripture-ref" href="/study/scriptures/nt/john/17?lang=eng&amp;id=p21#p21">John 17:21</a>.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
+      <guid isPermaLink="false">/general-conference/2020/10/31eubank</guid>
+      <enclosure url="https://assets.churchofjesuschrist.org/29e6c3fa32d611ec95e0eeeeac1ece45227536db-32k-en.mp3" length="2558883" type="audio/mpeg"/>
+      <pubDate>Sat, 26 Sep 2020 18:00:00 -0600</pubDate>
+      <itunes:author>Sharon Eubank</itunes:author>
+    </item>
+    <item>
+      <title>I Pray He’ll Use Us</title>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2021/10/32eubank?lang=eng</link>
+      <description>Sister Eubank reports on the Church’s recent humanitarian aid efforts.</description>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="53"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/4cda2117cbb84bb44a372a3e7a8a74b9c3b9f369/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/4cda2117cbb84bb44a372a3e7a8a74b9c3b9f369/full/%21192%2C/0/default" data-video-title="I Pray He’ll Use Us" data-video-description="Sister Eubank reports on the Church’s recent humanitarian aid efforts." data-video-id="6275310381001" data-ip="Download and Streaming                            " data-duration="636000" data-assetId="8395cce4240511ec8887eeeeac1e5b9a36f7f2c7" data-ref-id="03CB821E6EF625F304B3DF95D063D655EDBAB210" data-duration-string="10:36" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6275310381001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="181058793"/><source src="https://assets.churchofjesuschrist.org/8395cce4240511ec8887eeeeac1e5b9a36f7f2c7-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="44149266"/><source src="https://assets.churchofjesuschrist.org/8395cce4240511ec8887eeeeac1e5b9a36f7f2c7-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="79908079"/><source src="https://assets.churchofjesuschrist.org/8395cce4240511ec8887eeeeac1e5b9a36f7f2c7-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="181058793"/></video><h1 data-aid="147978814" id="title1">I Pray He’ll Use Us</h1>
+<div class="byline">
+<p class="author-name" data-aid="147978819" id="author1">By Sharon Eubank</p>
+<p class="author-role" data-aid="147978824" id="author2">First Counselor in the Relief Society General Presidency</p>
+</div>
+<p class="kicker" data-aid="147978829" id="kicker1">Small efforts collectively make a big impact, magnifying the many individual things we do as disciples of Jesus Christ.</p>
+</header>
+<div class="body-block">
+<p data-aid="147978835" id="p1">This cookie made of phyllo dough and pistachio nuts is a thank-you. It was made by the Kadado family who, for decades, owned three bakeries in Damascus, Syria. When war came, a blockade stopped food and supplies from reaching their part of the city. The Kadados began to starve. At the height of this desperate situation, Latter-day Saint Charities and some very courageous staff at Rahma Worldwide began serving a daily hot meal, along with milk for the little children. After a difficult time, the family began their life—as well as their bakery—once again in a new country.</p>
+<p data-aid="147978841" id="p31">Recently, a box of cookies arrived at the Church offices with the following message: “For more than two months, we managed to get food from the Rahma–Latter-day Saint [Charities] kitchen. Without it we would [have] starve[d] to death. Please accept this … sample from my shop as a small token of thanks. I ask God the Almighty to bless you … in everything you do.”<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a></p>
+<p data-aid="147978849" id="p3">A cookie of gratitude and remembrance. It is meant for you. To all who prayed after watching a story on the news, to all who volunteered when it was not convenient or who kindly donated money to the humanitarian fund trusting it would do some good, thank you.</p>
+<section>
+<header>
+<h2 data-aid="147978854" id="title2">Divine Responsibility to Care for the Poor</h2>
+</header>
+<p data-aid="147978860" id="p4">The Church of Jesus Christ is under divine mandate to care for the poor.<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a> It is one of the pillars of the work of salvation and exaltation.<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a> What was true during the days of Alma is certainly true for us: “And thus, in their prosperous circumstances, they did <span class="page-break" data-page="54"></span>not send away any who were naked, or that were hungry, or that were athirst, or that were sick, or that had not been nourished; and they did not set their hearts upon riches; therefore they were liberal to all, both old and young, both bond and free, both male and female, whether out of the church or in the church, having no respect to persons as to those who stood in need.”<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a></p>
+<p data-aid="147978866" id="p6">The Church responds to this charge in a wide variety of ways, including:</p>
+<ul class="bullet">
+<li>
+<p data-aid="147978872" id="p7">the ministering we do through Relief Society, priesthood quorums, and classes;</p>
+</li>
+<li>
+<p data-aid="147978878" id="p8">fasting and the use of fast offerings;</p>
+</li>
+<li>
+<p data-aid="147978884" id="p9">welfare farms and canneries;</p>
+</li>
+<li>
+<p data-aid="147978890" id="p10">welcome centers for immigrants;</p>
+</li>
+<li>
+<p data-aid="147978896" id="p11">outreach for those in prison;</p>
+</li>
+<li>
+<p data-aid="147978900" id="p12">Church humanitarian efforts;</p>
+</li>
+<li>
+<p data-aid="147978907" id="p13">and the JustServe app, where it’s available, that matches volunteers with service opportunities.</p>
+</li>
+</ul>
+<p data-aid="147978911" id="p14">These are all ways, organized through the priesthood, where small efforts collectively make a big impact, magnifying the many individual things we do as disciples of Jesus Christ.</p>
+</section>
+<section>
+<header>
+<h2 data-aid="147978917" id="title3">Prophets Have Stewardship for the Whole Earth</h2>
+</header>
+<p data-aid="147978923" id="p15">Prophets have charge for the whole earth, not just for members of the Church. I can report from my own experience how personally and devotedly the First Presidency takes that charge. As needs grow, the First Presidency has charged us to increase our humanitarian outreach in a significant way. They are interested in the largest trends and the smallest details.</p>
+<p data-aid="147978928" id="p33">Recently, we brought to them one of the protective medical gowns that Beehive Clothing sewed for hospitals to use during the pandemic. As a medical doctor, President Russell M. Nelson was highly interested. He didn’t want to just see it. He wanted to try it on—check the cuffs and the length and the way it tied in the back. He told us later, with emotion in his voice, “When you meet with people on your assignments, thank them for their fasting, their offerings, and their ministering in the name of the Lord.”</p>
+</section>
+<section>
+<header>
+<h2 data-aid="147978933" id="title4">Humanitarian Report</h2>
+</header>
+<p data-aid="147978938" id="p16">At President Nelson’s direction, I am reporting back to you about how The Church of Jesus Christ of Latter-day Saints is responding to hurricanes, earthquakes, refugee displacement—and even a pandemic—thanks to the kindness of the Latter-day Saints and many friends. While the more than 1,500 COVID-19 projects were certainly the largest focus of the Church’s relief over the last 18 months, the Church also responded to 933 natural disasters and refugee crises in 108 countries. But statistics don’t tell the whole story. Let me share four brief examples to illustrate the smallest taste of what is being done.</p>
+<section>
+<header>
+<h3 data-aid="147978943" id="title5">South African COVID Relief</h3>
+</header>
+<p data-aid="147978949" id="p17">Sixteen-year-old Dieke Mphuti of Welkom, South Africa, lost her parents years ago, leaving her to care for three younger siblings on her own. It was always daunting for her to find enough food, but COVID supply shortages and quarantines made it almost impossible. They were often hungry, scraping by only with the generosity of neighbors.</p>
+<img alt="Dieke Mphuti" id="img1" src="https://www.churchofjesuschrist.org/imgs/5e6639b322f911ec9b75eeeeac1e708de9a7533d/full/%21500%2C/0/default" data-assetId="5e6639b322f911ec9b75eeeeac1e708de9a7533d" srcset="https://www.churchofjesuschrist.org/imgs/5e6639b322f911ec9b75eeeeac1e708de9a7533d/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/5e6639b322f911ec9b75eeeeac1e708de9a7533d/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/5e6639b322f911ec9b75eeeeac1e708de9a7533d/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/5e6639b322f911ec9b75eeeeac1e708de9a7533d/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/5e6639b322f911ec9b75eeeeac1e708de9a7533d/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/5e6639b322f911ec9b75eeeeac1e708de9a7533d/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/5e6639b322f911ec9b75eeeeac1e708de9a7533d/full/%21640%2C/0/default 640w" data-img-id="5e6639b322f911ec9b75eeeeac1e708de9a7533d" data-missing-asset="false" data-width="500" data-height="322" data-aspect-ratio="1.5527950310559007" data-public-title="Dieke Mphuti" data-public-description="A man talks to a couple people who are standing outside their home."/>
+<p data-aid="147978955" id="p18">On a sunny day in August 2020, Dieke was surprised by a knock at her door. She opened it to find two strangers—one a Church representative from the area office in Johannesburg and the other an official from South Africa’s Department of Social Development.</p>
+<p data-aid="147978962" id="p19">The two organizations had teamed up to bring food to at-risk households. Relief washed over Dieke as she glimpsed the pile of cornmeal and other food staples, purchased with Church humanitarian funds. These would help her to sustain her family for several weeks until a government aid package could begin to take effect for her.</p>
+<p data-aid="147978970" id="p20">Dieke’s story is one of thousands of such experiences taking place across the world during the COVID pandemic thanks to your consecrated contributions.</p>
+</section>
+<section>
+<header>
+<h3 data-aid="147978978" id="title6">Afghan Relief at Ramstein</h3>
+</header>
+<p data-aid="147978979" id="p21">We have all seen recent images in the news: thousands of evacuees being flown from Afghanistan. Many arrived at air bases or other temporary locations in Qatar, the United States, Germany, and Spain before continuing to their final destinations. Their needs were immediate, and the Church responded with supplies and volunteers. At Ramstein Air Base in Germany, the Church provided large <span class="page-break" data-page="55"></span>donations of diapers, baby formula, food, and shoes.</p>
+<img alt="Humanitarian donations to refugees" id="img2" src="https://www.churchofjesuschrist.org/imgs/58a5244a22f911ec9f65eeeeac1ecd5af6ec0a2c/full/%21500%2C/0/default" data-assetId="58a5244a22f911ec9f65eeeeac1ecd5af6ec0a2c" srcset="https://www.churchofjesuschrist.org/imgs/58a5244a22f911ec9f65eeeeac1ecd5af6ec0a2c/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/58a5244a22f911ec9f65eeeeac1ecd5af6ec0a2c/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/58a5244a22f911ec9f65eeeeac1ecd5af6ec0a2c/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/58a5244a22f911ec9f65eeeeac1ecd5af6ec0a2c/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/58a5244a22f911ec9f65eeeeac1ecd5af6ec0a2c/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/58a5244a22f911ec9f65eeeeac1ecd5af6ec0a2c/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/58a5244a22f911ec9f65eeeeac1ecd5af6ec0a2c/full/%21640%2C/0/default 640w" data-img-id="58a5244a22f911ec9f65eeeeac1ecd5af6ec0a2c" data-missing-asset="false" data-width="500" data-height="322" data-aspect-ratio="1.5527950310559007" data-public-title="Humanitarian Aid for Afghan Refugees" data-public-description="Volunteers at Ramstein Air Base in Germany organize items for Afghan refugees in August 2021."/>
+<img alt="Women sewing for Afghan refugees" id="img3" src="https://www.churchofjesuschrist.org/imgs/5c04ee8822f911ec9229eeeeac1e279666c68a9a/full/%21500%2C/0/default" data-assetId="5c04ee8822f911ec9229eeeeac1e279666c68a9a" srcset="https://www.churchofjesuschrist.org/imgs/5c04ee8822f911ec9229eeeeac1e279666c68a9a/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/5c04ee8822f911ec9229eeeeac1e279666c68a9a/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/5c04ee8822f911ec9229eeeeac1e279666c68a9a/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/5c04ee8822f911ec9229eeeeac1e279666c68a9a/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/5c04ee8822f911ec9229eeeeac1e279666c68a9a/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/5c04ee8822f911ec9229eeeeac1e279666c68a9a/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/5c04ee8822f911ec9229eeeeac1e279666c68a9a/full/%21640%2C/0/default 640w" data-img-id="5c04ee8822f911ec9229eeeeac1e279666c68a9a" data-missing-asset="false" data-width="500" data-height="322" data-aspect-ratio="1.5527950310559007" data-public-title="Sewing" data-public-description="A woman is using a sewing machine to sew something to help Afghan refugees."/>
+<p data-aid="147978985" id="p34">Some of the Relief Society sisters noticed that many Afghan women were using their husbands’ shirts to cover their heads because their traditional head coverings had been ripped off in the frenzy at the Kabul airport. In an act of friendship that crossed any religious or cultural boundaries, the sisters of the Ramstein First Ward gathered to sew traditional Muslim clothing for Afghan women. Sister Bethani Halls said, “We heard that women were in need of prayer garments, and we are sewing so that they can be [comfortable] for prayer.”<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a></p>
+</section>
+<section>
+<header>
+<h3 data-aid="147978992" id="title7">Haitian Earthquake Relief</h3>
+</header>
+<p data-aid="147978993" id="p22">This next example shows you do not have to be wealthy or old to be an instrument for good. Eighteen-year-old Marie “Djadjou” Jacques is from the Cavaillon Branch in Haiti. When the devastating earthquake struck near her town in August, her family’s house was one of tens of thousands of buildings that collapsed. It’s almost impossible to imagine the despair of losing your home. But rather than giving in to that despair, Djadjou—incredibly—turned outward.</p>
+<img alt="Marie Jacques" id="img4" src="https://www.churchofjesuschrist.org/imgs/5bd332ce22f911ec9645eeeeac1eed484e5cde95/full/%21500%2C/0/default" data-assetId="5bd332ce22f911ec9645eeeeac1eed484e5cde95" srcset="https://www.churchofjesuschrist.org/imgs/5bd332ce22f911ec9645eeeeac1eed484e5cde95/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/5bd332ce22f911ec9645eeeeac1eed484e5cde95/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/5bd332ce22f911ec9645eeeeac1eed484e5cde95/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/5bd332ce22f911ec9645eeeeac1eed484e5cde95/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/5bd332ce22f911ec9645eeeeac1eed484e5cde95/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/5bd332ce22f911ec9645eeeeac1eed484e5cde95/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/5bd332ce22f911ec9645eeeeac1eed484e5cde95/full/%21640%2C/0/default 640w" data-img-id="5bd332ce22f911ec9645eeeeac1eed484e5cde95" data-missing-asset="false" data-width="500" data-height="322" data-aspect-ratio="1.5527950310559007" data-public-title="Maria Jacques" data-public-description="Portrait of Maria Jacques."/>
+<figure class="image no-print" id="figure1">
+<img alt="Haiti earthquake" id="figure1_img1" src="https://www.churchofjesuschrist.org/imgs/5d53df9a22f911ec8e61eeeeac1ed9234d486ad6/full/%21500%2C/0/default" data-assetId="5d53df9a22f911ec8e61eeeeac1ed9234d486ad6" srcset="https://www.churchofjesuschrist.org/imgs/5d53df9a22f911ec8e61eeeeac1ed9234d486ad6/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/5d53df9a22f911ec8e61eeeeac1ed9234d486ad6/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/5d53df9a22f911ec8e61eeeeac1ed9234d486ad6/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/5d53df9a22f911ec8e61eeeeac1ed9234d486ad6/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/5d53df9a22f911ec8e61eeeeac1ed9234d486ad6/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/5d53df9a22f911ec8e61eeeeac1ed9234d486ad6/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/5d53df9a22f911ec8e61eeeeac1ed9234d486ad6/full/%21640%2C/0/default 640w" data-img-id="5d53df9a22f911ec8e61eeeeac1ed9234d486ad6" data-missing-asset="false" data-width="500" data-height="322" data-aspect-ratio="1.5527950310559007" data-public-title="Haiti Earthquake" data-public-description="A collapsed structure after an earthquake in Haiti."/>
+<div class="credit">
+<p data-aid="147979000" id="figure1_p1">Associated Press</p>
+</div>
+</figure>
+<p data-aid="147979006" id="p35">She saw an elderly neighbor struggling and began taking care of her. She helped others clear away debris. Despite her exhaustion, she joined other Church members to distribute food and hygiene kits to others. Djadjou’s story is just one of many powerful examples of service carried out by youth and young adults as they strive to follow the example of Jesus Christ.</p>
+</section>
+<section>
+<header>
+<h3 data-aid="147979013" id="title8">German Flood Relief</h3>
+</header>
+<p data-aid="147979018" id="p23">Only a few weeks before the earthquake, another group of young adults was giving similar service across the Atlantic. The floods that swept through western Europe in July were the most severe in decades.</p>
+<img alt="Flooding in Germany" id="img5" src="https://www.churchofjesuschrist.org/imgs/59cefe4222f911ecbc34eeeeac1e09a585d16b34/full/%21500%2C/0/default" data-assetId="59cefe4222f911ecbc34eeeeac1e09a585d16b34" srcset="https://www.churchofjesuschrist.org/imgs/59cefe4222f911ecbc34eeeeac1e09a585d16b34/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/59cefe4222f911ecbc34eeeeac1e09a585d16b34/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/59cefe4222f911ecbc34eeeeac1e09a585d16b34/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/59cefe4222f911ecbc34eeeeac1e09a585d16b34/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/59cefe4222f911ecbc34eeeeac1e09a585d16b34/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/59cefe4222f911ecbc34eeeeac1e09a585d16b34/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/59cefe4222f911ecbc34eeeeac1e09a585d16b34/full/%21640%2C/0/default 640w" data-img-id="59cefe4222f911ecbc34eeeeac1e09a585d16b34" data-missing-asset="false" data-width="500" data-height="322" data-aspect-ratio="1.5527950310559007" data-public-title="Flooding in Germany" data-public-description="Image detailing some of the effects of flooding that occurred in Germany."/>
+<p data-aid="147979021" id="p36">When the waters finally receded, one shopkeeper in the riverside district of Ahrweiler, Germany, surveyed the damage and was utterly overwhelmed. This humble man, a devout Catholic, whispered a prayer that God might send someone to help him. The very next morning, President Dan Hammon of the Germany Frankfurt Mission arrived on the street with a small band of missionaries wearing yellow Helping Hands vests. The water had reached up to 10 feet (3 m) on the shopkeeper’s walls, leaving behind a deep layer of mud. The volunteers shoveled out the mud, removed the carpet and drywall, and piled everything in the street for removal. The overjoyed shopkeeper worked alongside them for hours, amazed that the Lord had sent a group of His servants to answer his prayer—and within 24 hours!<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a></p>
+</section>
+</section>
+<section>
+<header>
+<h2 data-aid="147979025" id="title9">“Well, I Pray That He’ll Use Us”</h2>
+</header>
+<p data-aid="147979028" id="p24">Speaking of the Church’s humanitarian efforts, Elder Jeffrey R. Holland once remarked: “Prayers are answered … most of the time … by God using other people. Well, I pray that He’ll use us. I pray that we’ll be the answer to people’s prayers.”<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a></p>
+<p data-aid="147979031" id="p25">Brothers and sisters, through your ministry, donations, time, and love, you have been the answer to so many prayers. And yet there is so much more to do. As baptized members of the Church, we are under covenant to care for those in need. Our individual efforts don’t necessarily require money or faraway locations;<a class="note-ref" href="#note8"><sup class="marker" data-value="8"></sup></a> they do require the guidance of the Holy Spirit and a willing heart to say to the Lord, “Here am I; send me.”<a class="note-ref" href="#note9"><sup class="marker" data-value="9"></sup></a></p>
+</section>
+<section>
+<header>
+<h2 data-aid="147979036" id="title10">The Acceptable Year of the Lord</h2>
+</header>
+<p data-aid="147979039" id="p26"><a class="scripture-ref" href="/study/scriptures/nt/luke/4?lang=eng">Luke 4</a> records that Jesus came to Nazareth, where He had been brought up, and stood up in the synagogue to read. This was near the beginning of His mortal ministry, and He quoted a passage from the book of Isaiah:</p>
+<p data-aid="147979041" id="p27">“The Spirit of the Lord is upon me, because he hath anointed me to preach the gospel to the poor; he hath sent me to heal the brokenhearted, to preach deliverance to the <span class="page-break" data-page="56"></span>captives, and recovering of sight to the blind, to set at liberty them that are bruised,</p>
+<p data-aid="147979044" id="p28">“To preach the acceptable year of the Lord. …</p>
+<p data-aid="147979047" id="p29">“… This day is this scripture fulfilled in your ears.”<a class="note-ref" href="#note10"><sup class="marker" data-value="10"></sup></a></p>
+<p data-aid="147979051" id="p30">I testify that the scripture is being fulfilled in our own time as well. I testify Jesus Christ is come to heal the brokenhearted. His gospel is to recover sight to the blind. His Church is to preach deliverance to the captive, and His disciples across the world are striving to set at liberty them that are bruised.</p>
+<p data-aid="147979054" id="p32">Let me conclude by repeating the question Jesus asked His Apostle Simon Peter: “Do you love me?”<a class="note-ref" href="#note11"><sup class="marker" data-value="11"></sup></a> The essence of the gospel is contained in how we answer that question for ourselves and “feed [His] sheep.”<a class="note-ref" href="#note12"><sup class="marker" data-value="12"></sup></a> With great reverence and love for Jesus Christ, our Master, I invite each of us to be a part of His magnificent ministry, and I pray He’ll use us. In the sacred name of Jesus Christ, amen.</p>
+</section>
+</div>
+<footer class="notes">
+<p class="title" data-aid="147979058" id="note_title1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="147979061" id="note1_p1">Abdul Razaq, personal correspondence, May 2021.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="147979065" id="note2_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/104?lang=eng&amp;id=p11-p18#p11">Doctrine and Covenants 104:11–18</a>.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="147979069" id="note3_p1">See <cite>General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints</cite>, <a class="cross-ref" href="/study/manual/general-handbook/1-work-of-salvation-and-exaltation?lang=eng&amp;id=title_number3#title_number3">1.2.2</a>, ChurchofJesusChrist.org.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="147979070" id="note4_p1"><a class="scripture-ref" href="/study/scriptures/bofm/alma/1?lang=eng&amp;id=p30#p30">Alma 1:30</a>.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="147979072" id="note5_p1">Bethani Halls, quoted in “Aiding Afghan Evacuees,” Europe Area Welfare and Self-Reliance Newsletter, Aug. 2021.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="147979075" id="note6_p1">From Dan Hammon (Germany Frankfurt Mission president), email to Ty Johnson, 2021.</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="147979076" id="note7_p1">Jeffrey R. Holland, “Neonatal Resuscitation with Elder Holland” (video), The Church of Jesus Christ of Latter-day Saints, Nov. 10, 2011, youtube.com.</p>
+</li>
+<li data-marker="8." id="note8" data-full-marker="8.">
+<p data-aid="147979078" id="note8_p1">See Sharon Eubank, “<a href="https://www.churchofjesuschrist.org/inspiration/16-things-you-can-do-to-be-a-humanitarian">16 Things You Can Do to Be a Humanitarian</a>,” Oct. 3, 2021, ChurchofJesusChrist.org.</p>
+</li>
+<li data-marker="9." id="note9" data-full-marker="9.">
+<p data-aid="147979080" id="note9_p1"><a class="scripture-ref" href="/study/scriptures/ot/isa/6?lang=eng&amp;id=p8#p8">Isaiah 6:8</a>; see also <a class="scripture-ref" href="/study/scriptures/pgp/abr/3?lang=eng&amp;id=p27#p27">Abraham 3:27</a>.</p>
+</li>
+<li data-marker="10." id="note10" data-full-marker="10.">
+<p data-aid="147979081" id="note10_p1"><a class="scripture-ref" href="/study/scriptures/nt/luke/4?lang=eng&amp;id=p18-p19%2C21#p18">Luke 4:18–19, 21</a>.</p>
+</li>
+<li data-marker="11." id="note11" data-full-marker="11.">
+<p data-aid="147979084" id="note11_p1">See <a class="scripture-ref" href="/study/scriptures/nt/john/21?lang=eng&amp;id=p15-p17#p15">John 21:15–17</a>.</p>
+</li>
+<li data-marker="12." id="note12" data-full-marker="12.">
+<p data-aid="147979086" id="note12_p1"><a class="scripture-ref" href="/study/scriptures/nt/john/21?lang=eng&amp;id=p15-p17#p15">John 21:15–17</a>.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
+      <guid isPermaLink="false">/general-conference/2021/10/32eubank</guid>
+      <enclosure url="https://assets.churchofjesuschrist.org/65a58e52246011ec9b75eeeeac1e708db73251d1-32k-en.mp3" length="2816285" type="audio/mpeg"/>
+      <pubDate>Sat, 02 Oct 2021 18:00:00 -0600</pubDate>
+      <itunes:author>Sharon Eubank</itunes:author>
     </item>
   </channel>
 </rss>

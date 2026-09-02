@@ -1,44 +1,48 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Talks By Anne Prescott</title>
-    <link>http://philip.lundrigan.org/Speakercast/</link>
+    <link>https://philip.lundrigan.org/Speakercast/</link>
     <description>General Conference talks by Anne Prescott.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Speakercast</generator>
     <image>
-      <url>http://philip.lundrigan.org/Speakercast/covers/Anne%20Prescott.jpg</url>
+      <url>https://philip.lundrigan.org/Speakercast/covers/Anne%20Prescott.jpg</url>
       <title>General Conference talks by Anne Prescott.</title>
-      <link>http://philip.lundrigan.org/Speakercast/</link>
+      <link>https://philip.lundrigan.org/Speakercast/</link>
     </image>
     <language>en</language>
     <lastBuildDate>Sat, 30 Mar 1996 18:00:00 -0700</lastBuildDate>
     <pubDate>Sat, 30 Mar 1996 18:00:00 -0700</pubDate>
+    <itunes:author>Anne Prescott</itunes:author>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
+    <itunes:image href="https://philip.lundrigan.org/Speakercast/covers/Anne%20Prescott.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>General Conference talks by Anne Prescott.</itunes:summary>
     <item>
       <title>He Has Given Me a Prophet</title>
-      <link>http://www.lds.org/general-conference/1996/04/he-has-given-me-a-prophet?lang=eng</link>
-      <description>At the last general conference, I really took the time and effort to listen to the talks and try to gain something from them. While listening to President Gordon B. Hinckley, I was so touched by his spirit. I thought about the right choices he made w</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/1996/04/he-has-given-me-a-prophet" schema-version="1" doc-id="general-conference_96905_000_038" doc-version="2" hash="X7JYAw">
-  
-  <div class="heading" uri="/general-conference/1996/04/he-has-given-me-a-prophet.head">
-    <h1 class="title" pid="xlhHH_K2e0qantYz31u8hA" hash="0enjfQ">He Has Given Me a Prophet</h1>
-    <p class="authorName" pid="hVswJ-JHyEKwZy-mm_GGgg" hash="nDpLEg">Anne Prescott</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/1996/04/he-has-given-me-a-prophet.t1">
-      <p class="para" uri="/general-conference/1996/04/he-has-given-me-a-prophet.p1" pid="RSGVcvjuBkqx56iivmytlQ" hash="mLCLfQ">At the last general conference, I really took the time and effort to listen to the talks and try to gain something from them. While listening to President Gordon B. Hinckley, I was so touched by his spirit. I thought about the right choices he made when he was our age that helped him stay true to his beliefs. As he was giving counsel to us, I could see the love and devotion he has for us and his calling. As he was laughing and joking, I could see the joy that comes from serving the Lord.</p>
-      <p class="para" uri="/general-conference/1996/04/he-has-given-me-a-prophet.p2" pid="r5a7YUhPl0uTQgNj55AXHA" hash="nxHVSg">As December and the holidays approached, I knew it was going to be difficult. My dad had passed away just four months before, leaving only my mom and me at home. At the same time, I was lucky to be at a stake conference where President Hinckley made a surprise visit. He bore his testimony and expressed his love. He said: “Do you feel gloomy? Lift your eyes. Stand on your feet. Sing songs of Christmas. Be positive.” These few words meant so much to me. I knew if I did my best at this hard time in my life, things would work out. What President Hinckley said did not take away my pain, but it helped me understand that I needed to be happy and help my mom and family be happy.</p>
-      <p class="para" uri="/general-conference/1996/04/he-has-given-me-a-prophet.p3" pid="smxdVDEoX0OEGLtPOnTL7A" hash="eU9lhg">After the meeting, the congregation stood and sang “We Thank Thee, O God, for a Prophet” (<span class="emphasis">Hymns,</span> no. 19). The strength and spirit of love in that building were incredible. After we left the church, we pulled up to a stoplight and amazingly we were right next to President Hinckley. We were so excited and waved to him. When he waved back, you could feel his love. We hadn’t touched or talked to him, but the love I felt from him was strong and unforgettable.</p>
-      <p class="para" uri="/general-conference/1996/04/he-has-given-me-a-prophet.p4" pid="l36-Z5Fkt0yPnjtfvR4hQg" hash="hkw1cQ">I would just like to tell you how important a latter-day prophet is to me. He is the voice of our Heavenly Father. We not only get answers to our prayers from the scriptures, but also from what President Hinckley teaches at general conference, devotionals, and nights like tonight. Heavenly Father loves me and wants the best for me. He has given me a prophet who helps me know what to do to return to him someday. In the name of Jesus Christ, amen.</p>
-    </div>
-  </div>
-</div>]]></content:encoded>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/1996/04/he-has-given-me-a-prophet?lang=eng</link>
+      <description><![CDATA[<header>
+<span class="page-break" data-page="89"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/2485a2c417690b94804aa06c9030bdea48d72869/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/2485a2c417690b94804aa06c9030bdea48d72869/full/%21192%2C/0/default" data-video-title="He Has Given Me a Prophet" data-video-description="Anne Prescott delivers a message titled &quot;He Has Given Me a Prophet.&quot;" data-video-id="6389383275112" data-ip="Download &amp; Streaming" data-duration="142041" data-assetId="8e047670aa72a5c1888fdf6ef48ae50a399cc45f" data-ref-id="8e047670aa72a5c1888fdf6ef48ae50a399cc45f" data-duration-string="2:22" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6389383275112.m3u8" type="application/vnd.apple.mpegurl" data-width="480" data-height="360" data-file-size="8527889"/><source src="https://assets.churchofjesuschrist.org/8e047670aa72a5c1888fdf6ef48ae50a399cc45f-360p-en.mp4" type="video/mp4" data-width="480" data-height="360" data-file-size="8527889"/></video><h1 data-aid="28799327" id="title1">He Has Given Me a Prophet</h1>
+<div class="byline">
+<p class="author-name" data-aid="28799328" id="p1">By Anne Prescott</p>
+<p class="author-role" data-aid="150154455" id="author2">Midvale East Third Ward, Midvale Utah East Stake</p>
+</div>
+</header>
+<div class="body-block">
+<p data-aid="28799329" id="p2">At the last general conference, I really took the time and effort to listen to the talks and try to gain something from them. While listening to President Gordon B. Hinckley, I was so touched by his spirit. I thought about the right choices he made when he was our age that helped him stay true to his beliefs. As he was giving counsel to us, I could see the love and devotion he has for us and his calling. As he was laughing and joking, I could see the joy that comes from serving the Lord.</p>
+<p data-aid="28799330" id="p3">As December and the holidays approached, I knew it was going to be difficult. My dad had passed away just four months before, leaving only my mom and me at home. At the same time, I was lucky to be at a stake conference where President Hinckley made a surprise visit. He bore his testimony and expressed his love. He said: “Do you feel gloomy? Lift your eyes. Stand on your feet. Sing songs of Christmas. Be positive.” These few words meant so much to me. I knew if I did my best at this hard time in my life, things would work out. What President Hinckley said did not take away my pain, but it helped me understand that I needed to be happy and help my mom and family be happy.</p>
+<p data-aid="28799331" id="p4">After the meeting, the congregation stood and sang “We Thank Thee, O God, for a Prophet” (<em>Hymns,</em> no. 19). The strength and spirit of love in that building were incredible. After we left the church, we pulled up to a stoplight and amazingly we were right next to President Hinckley. We were so excited and waved to him. When he waved back, you could feel his love. We hadn’t touched or talked to him, but the love I felt from him was strong and unforgettable.</p>
+<p data-aid="28799332" id="p5">I would just like to tell you how important a latter-day prophet is to me. He is the voice of our Heavenly Father. We not only get answers to our prayers from the scriptures, but also from what President Hinckley teaches at general conference, devotionals, and nights like tonight. Heavenly Father loves me and wants the best for me. He has given me a prophet who helps me know what to do to return to him someday. In the name of Jesus Christ, amen.</p>
+</div>]]></description>
       <guid isPermaLink="false">/general-conference/1996/04/he-has-given-me-a-prophet</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-young-women-meeting/1996-general-young-women-meeting/1996-03-0050-anne-prescott-64k-eng.mp3" length="1155791" type="audio/mpeg"/>
+      <enclosure url="https://assets.churchofjesuschrist.org/1791e4af32ea11ecbc25eeeeac1e2962eda8555c-64k-en.mp3" length="1358041" type="audio/mpeg"/>
       <pubDate>Sat, 30 Mar 1996 18:00:00 -0700</pubDate>
+      <itunes:author>Anne Prescott</itunes:author>
     </item>
   </channel>
 </rss>

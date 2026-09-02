@@ -1,83 +1,158 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Talks By Bruce A. Carlson</title>
-    <link>http://philip.lundrigan.org/Speakercast/</link>
+    <link>https://philip.lundrigan.org/Speakercast/</link>
     <description>General Conference talks by Bruce A. Carlson.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Speakercast</generator>
     <image>
-      <url>http://philip.lundrigan.org/Speakercast/covers/Bruce%20A.%20Carlson.jpg</url>
+      <url>https://philip.lundrigan.org/Speakercast/covers/Bruce%20A.%20Carlson.jpg</url>
       <title>General Conference talks by Bruce A. Carlson.</title>
-      <link>http://philip.lundrigan.org/Speakercast/</link>
+      <link>https://philip.lundrigan.org/Speakercast/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Apr 2010 14:00:00 -0700</lastBuildDate>
-    <pubDate>Sat, 03 Apr 2010 14:00:00 -0700</pubDate>
+    <lastBuildDate>Sat, 03 Apr 2010 14:00:00 -0600</lastBuildDate>
+    <pubDate>Sat, 03 Apr 2010 14:00:00 -0600</pubDate>
+    <itunes:author>Bruce A. Carlson</itunes:author>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
+    <itunes:image href="https://philip.lundrigan.org/Speakercast/covers/Bruce%20A.%20Carlson.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>General Conference talks by Bruce A. Carlson.</itunes:summary>
     <item>
       <title>When the Lord Commands</title>
-      <link>http://www.lds.org/general-conference/2010/04/when-the-lord-commands?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2010/04/when-the-lord-commands?lang=eng</link>
       <description>Faithful obedience, regardless of the apparent size of the task, will bring the Lord’s guidance, assistance, and peace.</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/2010/04/when-the-lord-commands" schema-version="1" doc-id="general-conference_PD50021388_000_018" doc-version="2" hash="JYAwQw">
-  
-  <div class="heading" uri="/general-conference/2010/04/when-the-lord-commands.head">
-    <h1 class="title" pid="PKuZ173yvEuz7Rvm1DerLw" hash="0BvRyw">When the Lord Commands</h1>
-    <p class="authorName" pid="QQ7FviNl40K4zqU8WUvvQw" hash="fz4xCg">Bruce A. Carlson</p>
-    <p class="kicker" pid="BwHpow2p7USobUSXHE3TZw" hash="LJzo3g">Faithful obedience, regardless of the apparent size of the task, will bring the Lord’s guidance, assistance, and peace.</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/2010/04/when-the-lord-commands.t1">
-      <p class="para" uri="/general-conference/2010/04/when-the-lord-commands.p1" pid="C2Q7gm1x7UKU8l-hCHeaLA" hash="NdRzPg">
-        <span class="pageBreak" page-number="38"></span>The story is told of two outdoor enthusiasts who hired a bush plane to fly them to a remote lake for their annual fishing trip. Following a successful outing, the pilot returned to retrieve them. However, he quickly informed the fishermen that his small plane would not support them, their equipment, and the added weight of the fish they had caught. A second flight would be required.</p>
-      <p class="para" uri="/general-conference/2010/04/when-the-lord-commands.p2" pid="1aYHaXRk9E-ClzR7DON6ZA" hash="bZh8Pg">Now, the sportsmen were not interested in paying for a second round-trip. So after a promise to pack tightly and a small bonus payment, the pilot reluctantly agreed to attempt the flight.</p>
-      <p class="para" uri="/general-conference/2010/04/when-the-lord-commands.p3" pid="tFDkSe-x90um9Fk6gzwQUQ" hash="inGfCw">The fishermen grinned knowingly as the pilot forced the aircraft into the air. However, seconds later the plane stalled and crashed into a large, flat swampy area at the end of the lake.</p>
-      <p class="para" uri="/general-conference/2010/04/when-the-lord-commands.p4" pid="bzETriDXxkK2BZ31YTXWDQ" hash="PcpMyQ">The plane had stalled as it flew because of a well-known phenomenon called “ground effect.” Ground effect is created when air is compressed between the aircraft’s wings and the earth’s surface—when they are in close proximity. In this case, as the bush plane inched its way upward out of ground effect, it was required to fly on its own power, which it simply could not do.</p>
-      <p class="para" uri="/general-conference/2010/04/when-the-lord-commands.p5" pid="T50XKas_ak6O52y4boys1g" hash="yer3vQ">Fortunately there were no serious injuries, and after regaining their senses, one of the fishermen asked the other, “What happened?” The second replied, “We crashed on takeoff—about a hundred yards (91 m) from where we ended up last year!”</p>
-      <p class="para" uri="/general-conference/2010/04/when-the-lord-commands.p6" pid="emyTglmKF0akdwDJw0-drw" hash="O0BH8g">Like the two sportsmen, occasionally we believe that there must be an easier way, a shortcut or modification of the Lord’s commandments that will accommodate our individual circumstances. Thoughts such as these fail to acknowledge that strict obedience to God’s laws brings His blessings and failure to abide by His laws leads to foreseeable consequences.</p>
-      <p class="para" uri="/general-conference/2010/04/when-the-lord-commands.p7" pid="x-yOGt_7X0GZx5G7fz9-pw" hash="V1-lpA">At the time of his appointment as President of the Church, Harold B. Lee said: “The safety of the Church lies in the members keeping the commandments. … As they keep the commandments, blessings will come.”<span class="noteMarker" ref="f_1">1</span></p>
-      <p class="para" uri="/general-conference/2010/04/when-the-lord-commands.p8" pid="m7X88HHYOkiy70_JXs4LiA" hash="y_vLag">When we choose to disobey a commandment, it is usually because (1) we have convinced ourselves that the commandment does not apply to us; (2) we do not believe that it is important; or (3) we are certain that it is too difficult to obey.</p>
-      <div class="topic" uri="/general-conference/2010/04/when-the-lord-commands.t2">
-        <h3 class="title" pid="Khn8N52aGUumXVeLXaIfjg" hash="6s3iFA">1. This Commandment Doesn’t Apply to Me</h3>
-        <p class="para" uri="/general-conference/2010/04/when-the-lord-commands.p9" pid="MPuxHwLWvUqJuor-kxAyGQ" hash="53tMsg">During the closing years of King Solomon’s reign, the Lord informed him through His prophet, “I will … rend the kingdom from thee, and will give it to thy servant.”<span class="noteMarker" ref="f_2">2</span></p>
-        <p class="para" uri="/general-conference/2010/04/when-the-lord-commands.p10" pid="NW0pmES83U-tmDYu2orh6A" hash="dWHfrw">Shortly thereafter, the prophet Ahijah identified that servant as Jeroboam, an “industrious” man whom Solomon had made “ruler over all the charge of the house of Joseph.”<span class="noteMarker" ref="f_3">3</span> Jeroboam’s duties required him to travel from the mountains of Ephraim, where he lived, to the capital of Jerusalem. During one of those trips, Ahijah met him along the road. Through Ahijah, the Lord said, “I will … give ten tribes to thee.”<span class="noteMarker" ref="f_4">4</span> He also instructed Jeroboam, “If thou wilt … walk in my ways … to keep my statutes and my commandments, … I will be with thee … and will give Israel unto thee.”<span class="noteMarker" ref="f_5">5</span></p>
-        <p class="para" uri="/general-conference/2010/04/when-the-lord-commands.p11" pid="osNJeMR_GkeNSPs6Wuzt-Q" hash="eSQL5A">After hearing of Ahijah’s prophecy, Solomon sought to kill Jeroboam, so Jeroboam fled to Egypt.<span class="noteMarker" ref="f_6">6</span> Upon Solomon’s death Jeroboam returned from exile to the northern part of Israel and began to lead the northern ten tribes.<span class="noteMarker" ref="f_7">7</span></p>
-        <p class="para" uri="/general-conference/2010/04/when-the-lord-commands.p12" pid="s8lOFac3WUCcv7yaiYLC4g" hash="62UWqQ">However, Jeroboam’s plan to rule the kingdom involved a mixture of good and evil. He established Shechem as the nation’s capital, a city of great religious significance to his people. But sadly he introduced satanic rituals into their worship.<span class="noteMarker" ref="f_8">8</span></p>
-        <p class="para" uri="/general-conference/2010/04/when-the-lord-commands.p13" pid="Rh1NjqjK2kmsJp0lSsf6SA" hash="5fh-pg">Jeroboam convinced himself that some of God’s commandments were not applicable to him. As a result of his actions, all of his descendants were slain, and because of the heathen practices he had introduced into their sacred ordinances, the ten tribes of Israel were eventually driven from their inheritance.<span class="noteMarker" ref="f_9">9</span></p>
-        <p class="para" uri="/general-conference/2010/04/when-the-lord-commands.p14" pid="DhQQXWysc0yWfsNwcHlzTA" hash="b63c0w">Just as flying out of ground effect <span class="pageBreak" page-number="39"></span>with more weight than an aircraft’s wings can sustain will lead to disastrous consequences, our partial or selective compliance with God’s laws will fail to bring the full blessings of obedience.</p>
-      </div>
-      <div class="topic" uri="/general-conference/2010/04/when-the-lord-commands.t3">
-        <h3 class="title" pid="vgCPKxzUFkWrmndN1sI2ng" hash="4HUFlQ">2. This Commandment Is Not Important</h3>
-        <p class="para" uri="/general-conference/2010/04/when-the-lord-commands.p15" pid="lGVgCLnZXk2wiAkMpEzEJw" hash="sxojyg">Decades later Naaman, a Syrian war hero, “a mighty man in valour,”<span class="noteMarker" ref="f_10">10</span> traveled from his native country to Israel and approached the king, Jehoram, to be healed of leprosy.<span class="noteMarker" ref="f_11">11</span></p>
-        <p class="para" uri="/general-conference/2010/04/when-the-lord-commands.p16" pid="aEVWcsm_bUuyKTWLE3sUQg" hash="Xku2Zg">Naaman was directed to the prophet Elisha. “And Elisha sent a messenger unto him, saying, Go and wash in Jordan seven times, … and thou shalt be clean.”<span class="noteMarker" ref="f_12">12</span></p>
-        <p class="para" uri="/general-conference/2010/04/when-the-lord-commands.p17" pid="czyftcrBdUWw47GA2uMu3A" hash="-8g0Ig">Despite this prophetic promise to be cured, Naaman was offended that Elisha did not greet him in person and even more insulted with the prophet’s direction to wash seven times in the small and muddy Jordan River. His pride demanded something more noteworthy and grand, something matching his stature and place in the community and nation.</p>
-        <p class="para" uri="/general-conference/2010/04/when-the-lord-commands.p18" pid="JEgMbJ91IUay5b6v6Fv6aw" hash="2v8r5Q">Fortunately for Naaman, his servants convinced him that regardless of what the prophet asked him to do, if obeyed, it would bring the Lord’s blessings. Naaman washed himself in the Jordan River as directed and, as a result of his obedience, was cured of his leprosy.<span class="noteMarker" ref="f_13">13</span></p>
-        <p class="para" uri="/general-conference/2010/04/when-the-lord-commands.p19" pid="5dG59ce8rkuE7tZsBtYIFg" hash="mbqjWA">Obedience to the Lord’s commands, in spite of how trivial or unimportant we believe them to be, will surely bring His promised blessings.</p>
-      </div>
-      <div class="topic" uri="/general-conference/2010/04/when-the-lord-commands.t4">
-        <h3 class="title" pid="hfodHNuQqEazWDJ_v45sew" hash="a9oGFA">3. This Commandment Is Just Too Hard</h3>
-        <p class="para" uri="/general-conference/2010/04/when-the-lord-commands.p20" pid="EEEhBNbV7E2J5oGsreazXg" hash="-cxNrg">Following the Lord’s command, the prophet Lehi led his family into the wilderness. During the first few days of the journey, Lehi instructed his son Lemuel to be “firm and steadfast, and immovable in keeping the commandments of the Lord!”<span class="noteMarker" ref="f_14">14</span></p>
-        <p class="para" uri="/general-conference/2010/04/when-the-lord-commands.p21" pid="MwmfFmG8skGa37nnEpwdbw" hash="8cI5ig">However, when the prophetic requirement came to return to Jerusalem to retrieve the brass plates, containing a “record of the Jews,”<span class="noteMarker" ref="f_15">15</span> the two oldest boys rebelled, saying, “It is a hard thing.”<span class="noteMarker" ref="f_16">16</span></p>
-        <p class="para" uri="/general-conference/2010/04/when-the-lord-commands.p22" pid="bfmkTVuQu0GisXja3ELU-g" hash="V1l6sQ">Despite his older brothers’ murmuring, Nephi’s faith in and obedience to the Lord’s commands led to obtaining those brass plates. A nation was built, a language was preserved, and the gospel of Jesus Christ was taught for generations to come.</p>
-        <p class="para" uri="/general-conference/2010/04/when-the-lord-commands.p23" pid="9nO2zmdsPUepr_uCWDcCCg" hash="SK4l7w">At times we may rationalize that the Lord will understand our disobedience because our special circumstances make adherence to His laws difficult, embarrassing, or even painful. However, faithful obedience, regardless of the apparent size of the task, will bring the Lord’s guidance, assistance, and peace.</p>
-        <p class="para" uri="/general-conference/2010/04/when-the-lord-commands.p24" pid="ecLEDGUkckGGmM43OtXTSg" hash="b8us0g">The Prophet Joseph Smith petitioned the Lord on two occasions, asking if a prominent friend, Martin Harris, could take the first 116 handwritten pages of translated material from the book of Lehi from Harmony, Pennsylvania, back to Palmyra. Each time, the Lord counseled Joseph to avoid entrusting the manuscript to Mr. Harris.</p>
-        <p class="para" uri="/general-conference/2010/04/when-the-lord-commands.p25" pid="csA2da8jAk6UvM-BdrGZOg" hash="OvcOTw">Martin was seeking to use the translated material as evidence to stop his associates from spreading rumors about his friendship with Joseph Smith. On the third request the Lord granted Joseph’s appeal.<span class="noteMarker" ref="f_17">17</span></p>
-        <p class="para" uri="/general-conference/2010/04/when-the-lord-commands.p26" pid="SADir2fe_kai35apQIT46A" hash="se3P-Q">Martin lost the manuscript, and as a result the plates were taken from the Prophet Joseph Smith for an extended period. This was a painful lesson for the Prophet Joseph, who said, “I made this my rule: <span class="emphasis">When the Lord commands, do it.</span>”<span class="noteMarker" ref="f_18">18</span> This should and can be our rule as well.</p>
-      </div>
-      <p class="para" uri="/general-conference/2010/04/when-the-lord-commands.p27" pid="hVYpeCOaFE67ZA3O_B63jw" hash="4ennQg">The Lord’s response when we obey His commandments is sure. He has promised us, “If you keep my <span class="pageBreak" page-number="40"></span>commandments and endure to the end you shall have eternal life.”<span class="noteMarker" ref="f_19">19</span></p>
-      <p class="para" uri="/general-conference/2010/04/when-the-lord-commands.p28" pid="CDW12_aazUm-3U6aj6AwEA" hash="h6ofBw">Additionally He has counseled us, “I, the Lord, am merciful and gracious unto those who fear me, and <span class="emphasis">delight</span> to honor those who serve me in righteousness and in truth unto the end.”<span class="noteMarker" ref="f_20">20</span></p>
-      <p class="para" uri="/general-conference/2010/04/when-the-lord-commands.p29" pid="EVh8tjhv_ES94OAnxyOtbA" hash="So_skA">Obedience to the Lord’s commandments provides us confidence in our chosen path, qualifies us for His guidance and direction as we pursue our efforts, and offers us the potential to become like our Savior, Jesus Christ, and return to our Father’s presence.</p>
-      <p class="para" uri="/general-conference/2010/04/when-the-lord-commands.p30" pid="OHogositf0Gc4NRVgcS8Xg" hash="bPHJ1A">It is my prayer that each day will find us striving to be more obedient to the laws, ordinances, and commandments of the gospel of Jesus Christ in order that He may more fully bless our lives.</p>
-      <p class="para" uri="/general-conference/2010/04/when-the-lord-commands.p31" pid="93JaZEMAJUq0W-7VshQDKw" hash="cCUfLg">I testify that obedience to God’s commands brings the blessings of heaven; that our Heavenly Father and His Son, Jesus Christ, live; that the Book of Mormon is the word of God; and that President Thomas S. Monson is the Lord’s prophet for our day, in the name of Jesus Christ, amen.</p>
-    </div>
-  </div>
-  
-</div>]]></content:encoded>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="38"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/51203812b2f46b680daf2fcdb3c27e9993e4a98e/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/51203812b2f46b680daf2fcdb3c27e9993e4a98e/full/%21192%2C/0/default" data-video-title="When the Lord Commands" data-video-description="Faithful obedience, regardless of the apparent size of the task, will bring the Lord’s guidance, assistance, and peace." data-video-id="6018879681001" data-ip="Download and Streaming                            " data-duration="553486" data-assetId="1d6df4f7a323f5afe42f12799bbde50bd960efc9" data-ref-id="1d6df4f7a323f5afe42f12799bbde50bd960efc9" data-duration-string="9:13" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6018879681001.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="228418099"/><source src="https://assets.churchofjesuschrist.org/1d6df4f7a323f5afe42f12799bbde50bd960efc9-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="39038157"/><source src="https://assets.churchofjesuschrist.org/1d6df4f7a323f5afe42f12799bbde50bd960efc9-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="82872601"/><source src="https://assets.churchofjesuschrist.org/1d6df4f7a323f5afe42f12799bbde50bd960efc9-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="228418099"/></video><h1 data-aid="28847165" id="title1">When the Lord Commands</h1>
+<div class="byline">
+<p class="author-name" data-aid="28847166" id="p1">By Elder Bruce A. Carlson</p>
+<p class="author-role" data-aid="28847167" id="p2">Of the Seventy</p>
+<div class="image-cropper"><img alt="Elder Bruce A. Carlson" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/3ee572840f8011ecbf70eeeeac1e58e729038d09/full/%21100%2C/0/default" data-assetId="3ee572840f8011ecbf70eeeeac1e58e729038d09" srcset="https://www.churchofjesuschrist.org/imgs/3ee572840f8011ecbf70eeeeac1e58e729038d09/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/3ee572840f8011ecbf70eeeeac1e58e729038d09/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/3ee572840f8011ecbf70eeeeac1e58e729038d09/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/3ee572840f8011ecbf70eeeeac1e58e729038d09/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/3ee572840f8011ecbf70eeeeac1e58e729038d09/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/3ee572840f8011ecbf70eeeeac1e58e729038d09/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/3ee572840f8011ecbf70eeeeac1e58e729038d09/full/%21640%2C/0/default 640w" data-img-id="3ee572840f8011ecbf70eeeeac1e58e729038d09" data-missing-asset="false" data-width="100" data-height="120" data-aspect-ratio="0.8333333333333334" data-public-title="Carlson, Bruce A." data-public-description="Portrait of Carlson, Bruce A."/></div>
+</div>
+<p class="kicker" data-aid="28847168" id="kicker1">Faithful obedience, regardless of the apparent size of the task, will bring the Lord’s guidance, assistance, and peace.</p>
+</header>
+<div class="body-block">
+<p data-aid="28847169" id="p3">The story is told of two outdoor enthusiasts who hired a bush plane to fly them to a remote lake for their annual fishing trip. Following a successful outing, the pilot returned to retrieve them. However, he quickly informed the fishermen that his small plane would not support them, their equipment, and the added weight of the fish they had caught. A second flight would be required.</p>
+<p data-aid="28847170" id="p4">Now, the sportsmen were not interested in paying for a second round-trip. So after a promise to pack tightly and a small bonus payment, the pilot reluctantly agreed to attempt the flight.</p>
+<p data-aid="28847171" id="p5">The fishermen grinned knowingly as the pilot forced the aircraft into the air. However, seconds later the plane stalled and crashed into a large, flat swampy area at the end of the lake.</p>
+<p data-aid="28847172" id="p6">The plane had stalled as it flew because of a well-known phenomenon called “ground effect.” Ground effect creates added lift on an airplane when air is compressed between the aircraft’s wings and the earth’s surface—when they are in close proximity. In this case, as the bush plane inched its way upward out of ground effect, it was required to fly on its own lift and power, which it simply could not do.</p>
+<p data-aid="28847173" id="p7">Fortunately there were no serious injuries, and after regaining their senses, one of the fishermen asked the other, “What happened?” The second replied, “We crashed on takeoff—about a hundred yards (91 m) from where we ended up last year!”</p>
+<p data-aid="28847174" id="p8">Like the two sportsmen, occasionally we believe that there must be an easier way, a shortcut or modification of the Lord’s commandments that will accommodate our individual circumstances. Thoughts such as these fail to acknowledge that strict obedience to God’s laws brings His blessings and failure to abide by His laws leads to foreseeable consequences.</p>
+<p data-aid="28847175" id="p9">At the time of his appointment as President of the Church, Harold B. Lee said: “The safety of the church lies in the members keeping the commandments. … As they keep the commandments, blessings will come.”<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a></p>
+<p data-aid="28847176" id="p10">When we choose to disobey a commandment, it is usually because (1) we have convinced ourselves that the commandment does not apply to us; (2) we do not believe that it is important; or (3) we are certain that it is too difficult to obey.</p>
+<section>
+<header>
+<h2 data-aid="28847177" id="title2">1. This Commandment Doesn’t Apply to Me</h2>
+</header>
+<p data-aid="28847178" id="p11">During the closing years of King Solomon’s reign, the Lord informed him through His prophet, “I will … rend the kingdom from thee, and will give it to thy servant.”<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a></p>
+<p data-aid="28847179" id="p12">Shortly thereafter, the prophet Ahijah identified that servant as Jeroboam, an “industrious” man whom Solomon had made “ruler over all the charge of the house of Joseph.”<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a> Jeroboam’s duties required him to travel from the mountains of Ephraim, where he lived, to the capital of Jerusalem. During one of those trips, Ahijah met him along the road. Through Ahijah, the Lord said, “I will … give ten tribes to thee.”<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a> He also instructed Jeroboam, “If thou wilt … walk in my ways … to keep my statutes and my commandments, … I will be with thee … and will give Israel unto thee.”<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a></p>
+<p data-aid="28847180" id="p13">After hearing of Ahijah’s prophecy, Solomon sought to kill Jeroboam, so Jeroboam fled to Egypt.<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a> Upon Solomon’s death, Jeroboam returned from exile to the northern part of Israel and began to lead the northern ten tribes.<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a></p>
+<p data-aid="28847181" id="p14">However, Jeroboam’s plan to rule the kingdom involved a mixture of good and evil. He established Shechem as the nation’s capital, a city of great religious significance to his people. But sadly he introduced satanic rituals into their worship.<a class="note-ref" href="#note8"><sup class="marker" data-value="8"></sup></a></p>
+<p data-aid="28847182" id="p15">Jeroboam convinced himself that some of God’s commandments were not applicable to him. As a result of his actions, all of his descendants were slain, and because of the heathen practices he had introduced into their sacred ordinances, the ten tribes of Israel were eventually driven from their inheritance.<a class="note-ref" href="#note9"><sup class="marker" data-value="9"></sup></a></p>
+<p data-aid="28847183" id="p16">Just as flying out of ground effect <span class="page-break" data-page="39"></span>with more weight than an aircraft’s wings can sustain will lead to disastrous consequences, our partial or selective compliance with God’s laws will fail to bring the full blessings of obedience.</p>
+</section>
+<section>
+<header>
+<h2 data-aid="28847184" id="title3">2. This Commandment Is Not Important</h2>
+</header>
+<p data-aid="28847185" id="p17">Decades later Naaman, a Syrian war hero, “a mighty man in valour,”<a class="note-ref" href="#note10"><sup class="marker" data-value="10"></sup></a> traveled from his native country to Israel and approached the king, Jehoram, to be healed of leprosy.<a class="note-ref" href="#note11"><sup class="marker" data-value="11"></sup></a></p>
+<p data-aid="28847186" id="p18">Naaman was directed to the prophet Elisha. “And Elisha sent a messenger unto him, saying, Go and wash in Jordan seven times, … and thou shalt be clean.”<a class="note-ref" href="#note12"><sup class="marker" data-value="12"></sup></a></p>
+<p data-aid="28847187" id="p19">Despite this prophetic promise to be cured, Naaman was offended that Elisha did not greet him in person and even more insulted with the prophet’s direction to wash seven times in the small and muddy Jordan River. His pride demanded something more noteworthy and grand, something matching his stature and place in the community and nation.</p>
+<p data-aid="28847188" id="p20">Fortunately for Naaman, his servants convinced him that regardless of what the prophet asked him to do, if obeyed, it would bring the Lord’s blessings. Naaman washed himself in the Jordan River as directed and, as a result of his obedience, was cured of his leprosy.<a class="note-ref" href="#note13"><sup class="marker" data-value="13"></sup></a></p>
+<p data-aid="28847189" id="p21">Obedience to the Lord’s commands, in spite of how trivial or unimportant we believe them to be, will surely bring His promised blessings.</p>
+</section>
+<section>
+<header>
+<h2 data-aid="28847190" id="title4">3. This Commandment Is Just Too Hard</h2>
+</header>
+<p data-aid="28847191" id="p22">Following the Lord’s command, the prophet Lehi led his family into the wilderness. During the first few days of the journey, Lehi instructed his son Lemuel to be “firm and steadfast, and immovable in keeping the commandments of the Lord!”<a class="note-ref" href="#note14"><sup class="marker" data-value="14"></sup></a></p>
+<p data-aid="28847192" id="p23">However, when the prophetic requirement came to return to Jerusalem to retrieve the brass plates, containing a “record of the Jews,”<a class="note-ref" href="#note15"><sup class="marker" data-value="15"></sup></a> the two oldest boys rebelled, saying, “It is a hard thing.”<a class="note-ref" href="#note16"><sup class="marker" data-value="16"></sup></a></p>
+<p data-aid="28847193" id="p24">Despite his older brothers’ murmuring, Nephi’s faith in and obedience to the Lord’s commands led to obtaining those brass plates. A nation was built, a language was preserved, and the gospel of Jesus Christ was taught for generations to come.</p>
+<p data-aid="28847194" id="p25">At times we may rationalize that the Lord will understand our disobedience because our special circumstances make adherence to His laws difficult, embarrassing, or even painful. However, faithful obedience, regardless of the apparent size of the task, will bring the Lord’s guidance, assistance, and peace.</p>
+<p data-aid="28847195" id="p26">The Prophet Joseph Smith petitioned the Lord on two occasions, asking if a prominent friend, Martin Harris, could take the first 116 handwritten pages of translated material from the book of Lehi from Harmony, Pennsylvania, back to Palmyra. Each time, the Lord counseled Joseph to avoid entrusting the manuscript to Mr. Harris.</p>
+<p data-aid="28847196" id="p27">Martin was seeking to use the translated material as evidence to stop his associates from spreading rumors about his friendship with Joseph Smith. On the third request the Lord granted Joseph’s appeal.<a class="note-ref" href="#note17"><sup class="marker" data-value="17"></sup></a></p>
+<p data-aid="28847197" id="p28">Martin lost the manuscript, and as a result the plates were taken from the Prophet Joseph Smith for an extended period. This was a painful lesson for the Prophet Joseph, who said, “I made this my rule: <em>When the Lord commands, do it.</em>”<a class="note-ref" href="#note18"><sup class="marker" data-value="18"></sup></a> This should and can be our rule as well.</p>
+</section>
+<p data-aid="28847198" id="p29">The Lord’s response when we obey His commandments is sure. He has promised us, “If you keep my <span class="page-break" data-page="40"></span>commandments and endure to the end you shall have eternal life.”<a class="note-ref" href="#note19"><sup class="marker" data-value="19"></sup></a></p>
+<p data-aid="28847199" id="p30">Additionally He has counseled us, “I, the Lord, am merciful and gracious unto those who fear me, and <em>delight</em> to honor those who serve me in righteousness and in truth unto the end.”<a class="note-ref" href="#note20"><sup class="marker" data-value="20"></sup></a></p>
+<p data-aid="28847200" id="p31">Obedience to the Lord’s commandments provides us confidence in our chosen path, qualifies us for His guidance and direction as we pursue our efforts, and offers us the potential to become like our Savior, Jesus Christ, and return to our Father’s presence.</p>
+<p data-aid="28847201" id="p32">It is my prayer that each day will find us striving to be more obedient to the laws, ordinances, and commandments of the gospel of Jesus Christ in order that He may more fully bless our lives.</p>
+<p data-aid="28847202" id="p33">I testify that obedience to God’s commands brings the blessings of heaven; that our Heavenly Father and His Son, Jesus Christ, live; that the Book of Mormon is the word of God; and that President Thomas S. Monson is the Lord’s prophet for our day, in the name of Jesus Christ, amen.</p>
+</div>
+<footer class="notes">
+<p class="title" data-aid="150470707" id="notetitle1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="28847203" id="note1_p1">Harold B. Lee, quoted in Stephen W. Gibson, “Presidency Meets the Press,” <em>Church News,</em> July 15, 1972, 3.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="28847204" id="note2_p1"><a class="scripture-ref" href="/study/scriptures/ot/1-kgs/11?lang=eng&amp;id=p11#p11">1 Kings 11:11</a>.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="28847205" id="note3_p1"><a class="scripture-ref" href="/study/scriptures/ot/1-kgs/11?lang=eng&amp;id=p28#p28">1 Kings 11:28</a>.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="28847206" id="note4_p1"><a class="scripture-ref" href="/study/scriptures/ot/1-kgs/11?lang=eng&amp;id=p31#p31">1 Kings 11:31</a>.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="28847207" id="note5_p1"><a class="scripture-ref" href="/study/scriptures/ot/1-kgs/11?lang=eng&amp;id=p38#p38">1 Kings 11:38</a>.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="28847208" id="note6_p1">See <a class="scripture-ref" href="/study/scriptures/ot/1-kgs/11?lang=eng&amp;id=p40#p40">1 Kings 11:40</a>.</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="28847209" id="note7_p1">See <a class="scripture-ref" href="/study/scriptures/ot/1-kgs/12?lang=eng&amp;id=p2-p3%2Cp20#p2">1 Kings 12:2–3, 20</a>.</p>
+</li>
+<li data-marker="8." id="note8" data-full-marker="8.">
+<p data-aid="28847210" id="note8_p1">See <a class="scripture-ref" href="/study/scriptures/ot/1-kgs/12?lang=eng&amp;id=p25-p30#p25">1 Kings 12:25–30</a>.</p>
+</li>
+<li data-marker="9." id="note9" data-full-marker="9.">
+<p data-aid="28847211" id="note9_p1">See <a class="scripture-ref" href="/study/scriptures/ot/1-kgs/14?lang=eng&amp;id=p10%2Cp15-p16#p10">1 Kings 14:10, 15–16</a>.</p>
+</li>
+<li data-marker="10." id="note10" data-full-marker="10.">
+<p data-aid="28847212" id="note10_p1"><a class="scripture-ref" href="/study/scriptures/ot/2-kgs/5?lang=eng&amp;id=p1#p1">2 Kings 5:1</a>.</p>
+</li>
+<li data-marker="11." id="note11" data-full-marker="11.">
+<p data-aid="28847213" id="note11_p1">See <a class="scripture-ref" href="/study/scriptures/ot/2-kgs/5?lang=eng&amp;id=p5-p6#p5">2 Kings 5:5–6</a>.</p>
+</li>
+<li data-marker="12." id="note12" data-full-marker="12.">
+<p data-aid="28847214" id="note12_p1"><a class="scripture-ref" href="/study/scriptures/ot/2-kgs/5?lang=eng&amp;id=p10#p10">2 Kings 5:10</a>.</p>
+</li>
+<li data-marker="13." id="note13" data-full-marker="13.">
+<p data-aid="28847215" id="note13_p1">See <a class="scripture-ref" href="/study/scriptures/ot/2-kgs/5?lang=eng&amp;id=p11-p14#p11">2 Kings 5:11–14</a>.</p>
+</li>
+<li data-marker="14." id="note14" data-full-marker="14.">
+<p data-aid="28847216" id="note14_p1"><a class="scripture-ref" href="/study/scriptures/bofm/1-ne/2?lang=eng&amp;id=p10#p10">1 Nephi 2:10</a>.</p>
+</li>
+<li data-marker="15." id="note15" data-full-marker="15.">
+<p data-aid="28847217" id="note15_p1"><a class="scripture-ref" href="/study/scriptures/bofm/1-ne/3?lang=eng&amp;id=p3#p3">1 Nephi 3:3</a>.</p>
+</li>
+<li data-marker="16." id="note16" data-full-marker="16.">
+<p data-aid="28847218" id="note16_p1"><a class="scripture-ref" href="/study/scriptures/bofm/1-ne/3?lang=eng&amp;id=p5#p5">1 Nephi 3:5</a>.</p>
+</li>
+<li data-marker="17." id="note17" data-full-marker="17.">
+<p data-aid="28847219" id="note17_p1">See <em>History of the Church,</em> 1:20–21; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/3?lang=eng">Doctrine and Covenants 3</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/10?lang=eng">10</a>.</p>
+</li>
+<li data-marker="18." id="note18" data-full-marker="18.">
+<p data-aid="28847220" id="note18_p1"><em>Teachings of Presidents of the Church: Joseph Smith</em> (2007), 160.</p>
+</li>
+<li data-marker="19." id="note19" data-full-marker="19.">
+<p data-aid="28847221" id="note19_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/14?lang=eng&amp;id=p7#p7">Doctrine and Covenants 14:7</a>.</p>
+</li>
+<li data-marker="20." id="note20" data-full-marker="20.">
+<p data-aid="28847222" id="note20_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/76?lang=eng&amp;id=p5#p5">Doctrine and Covenants 76:5</a>; emphasis added.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/2010/04/when-the-lord-commands</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/april-2010-general-conference/2010-04-2070-elder-bruce-a-carlson-64k-eng.mp3" length="4418762" type="audio/mpeg"/>
-      <pubDate>Sat, 03 Apr 2010 14:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/d8fc517532e911ecac35eeeeac1e7c595d3f5917-64k-en.mp3" length="4736021" type="audio/mpeg"/>
+      <pubDate>Sat, 03 Apr 2010 14:00:00 -0600</pubDate>
+      <itunes:author>Bruce A. Carlson</itunes:author>
     </item>
   </channel>
 </rss>

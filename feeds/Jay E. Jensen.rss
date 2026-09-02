@@ -1,442 +1,494 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Talks By Jay E. Jensen</title>
-    <link>http://philip.lundrigan.org/Speakercast/</link>
+    <link>https://philip.lundrigan.org/Speakercast/</link>
     <description>General Conference talks by Jay E. Jensen.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Speakercast</generator>
     <image>
-      <url>http://philip.lundrigan.org/Speakercast/covers/Jay%20E.%20Jensen.jpg</url>
+      <url>https://philip.lundrigan.org/Speakercast/covers/Jay%20E.%20Jensen.jpg</url>
       <title>General Conference talks by Jay E. Jensen.</title>
-      <link>http://philip.lundrigan.org/Speakercast/</link>
+      <link>https://philip.lundrigan.org/Speakercast/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Oct 1992 14:00:00 -0700</lastBuildDate>
-    <pubDate>Sun, 04 Oct 1992 14:00:00 -0700</pubDate>
+    <lastBuildDate>Sun, 03 Oct 2010 10:00:00 -0600</lastBuildDate>
+    <pubDate>Sun, 03 Oct 2010 10:00:00 -0600</pubDate>
+    <itunes:author>Jay E. Jensen</itunes:author>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
+    <itunes:image href="https://philip.lundrigan.org/Speakercast/covers/Jay%20E.%20Jensen.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>General Conference talks by Jay E. Jensen.</itunes:summary>
     <item>
       <title>“Remember Also the Promises”</title>
-      <link>http://www.lds.org/general-conference/1992/10/remember-also-the-promises?lang=eng</link>
-      <description>I am so thankful for my wife and children. To enjoy their love, confidence, and support is one of the greatest blessings of my life. I express my heartfelt gratitude to parents who loved and lived the gospel and also to my brothers and sisters from w</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/1992/10/remember-also-the-promises" schema-version="1" doc-id="general-conference_92911_000_033" doc-version="2" hash="Mugu6Q">
-  
-  <div class="heading" uri="/general-conference/1992/10/remember-also-the-promises.head">
-    <h1 class="title" pid="i1zTtQ41O0GtKdEVpft3CQ" hash="Eyq8iQ">“Remember Also the Promises”</h1>
-    <p class="authorName" pid="6BtmbJZZ9ESK3R8HfAx2yQ" hash="Ti29-A">Jay E. Jensen</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/1992/10/remember-also-the-promises.t1">
-      <img src="ensignlp.nfo-o-1e2c.jpg" alt="Elder Jay E. Jensen" pid="yXbykS3WX0egvPaGcgujmA" hash="ltX0UA" />
-      <p class="para" uri="/general-conference/1992/10/remember-also-the-promises.p1" pid="VN6H8r2QekaWjnxzZG8g3A" hash="LlRm6w">I am so thankful for my wife and children. To enjoy their love, confidence, and support is one of the greatest blessings of my life. I express my heartfelt gratitude to parents who loved and lived the gospel and also to my brothers and sisters from whom I have learned so much. I thank my Brethren of the General Authorities for their kind and gentle tutoring. I express my gratitude to all with whom I have worked over the years and to those who expressed their love and support for me in this new calling. I go forward with faith in the Lord and His leaders, relying on the promises of the Lord that we do not receive callings such as these but what we have been foreordained to the same.</p>
-      <div class="topic" uri="/general-conference/1992/10/remember-also-the-promises.t2">
-        <h3 class="title" pid="KF9YW7BKLEW5Dci00vfJ6w" hash="aNeVKg">Try the Power of the Word</h3>
-        <p class="para" uri="/general-conference/1992/10/remember-also-the-promises.p2" pid="1zNtpItk7Ui9SgQJwTqLCg" hash="Cdb1Gw">I love the scriptures. I testify that they are the word of God. I have likened a verse from Alma to my life: the scriptures have had a great tendency to lead me to do that which is just; yea, they have had a more powerful effect upon my mind than the sword or anything else which has happened unto me; therefore I have tried the virtue of the word of God. (See <a href="/scriptures/bofm/alma/31.5" class="scriptureRef">Alma 31:5</a>.)</p>
-        <p class="para" uri="/general-conference/1992/10/remember-also-the-promises.p3" pid="tpLdDhGQ2U-kdw5AHg33yw" hash="-gTDJw">President Benson counseled: “Immerse yourselves in [the scriptures] daily so you will have the power of the Spirit.” (<span class="emphasis">Ensign,</span> May 1986, p. 82.)</p>
-        <p class="para" uri="/general-conference/1992/10/remember-also-the-promises.p4" pid="7LaI5BvotUizUS-KZcOsXA" hash="ptRe0w">President Kimball said, “I find that when I get casual in my relationships with divinity and when it seems that no divine ear is listening and no divine voice is speaking, that I am far, far away. If I immerse myself in the scriptures the distance narrows and the spirituality returns.” (<span class="emphasis">The Teachings of Spencer W. Kimball,</span> ed. Edward L. Kimball, Salt Lake City: Bookcraft, 1982, p. 135.)</p>
-      </div>
-      <div class="topic" uri="/general-conference/1992/10/remember-also-the-promises.t3">
-        <h3 class="title" pid="UJt6spVSNkKyiAF1BhJ-mA" hash="Eyq8iQ1">Remember Also the Promises</h3>
-        <p class="para" uri="/general-conference/1992/10/remember-also-the-promises.p5" pid="0-61jPaE_UKVEGQ0UiH5YQ" hash="_4YCkA">While presiding over a South American mission, I traveled to a distant city to interview missionaries, hold a zone conference, and conduct a district conference. I discovered among the missionaries some problems. In the district conference, other serious problems dealing with members and leaders surfaced. In my mind the negative outweighed the positive with both missionaries and members, leaving me frustrated and disappointed. After four days of interviews and meetings, I boarded the airplane with a heavy heart to return home.</p>
-        <p class="para" uri="/general-conference/1992/10/remember-also-the-promises.p6" pid="8oKSz1lUNkm0_uAY16XEYA" hash="NGlMgA">I often read scriptures while traveling, and I turned to them for comfort and direction. I read a few of my favorite passages. While turning the pages, I stopped at the third section of the Doctrine and Covenants. I was deeply touched by the first five verses as they applied to my concerns.</p>
-        <p class="para" uri="/general-conference/1992/10/remember-also-the-promises.p7" pid="5MCFuywKFEed2XiqBn8qfg" hash="rq5ctg">When I read a verse, I often insert my name in it. I did so with verse 5 and found the help I needed to remove my gloomy feelings: “Behold, you, Jay Jensen, have been entrusted with these things, but how strict were your commandments; and remember also the promises which were made to you, Jay Jensen …”</p>
-        <p class="para" uri="/general-conference/1992/10/remember-also-the-promises.p8" pid="i-k3zVO5UkeBvD8iaQL2EQ" hash="iTbh_g">The words “remember also the promises” struck me with unusual power. I identified with the Prophet Joseph Smith when he read <a href="/scriptures/nt/james/1.5" class="scriptureRef">James 1:5</a>. The words “remember also the promises” seemed to “enter with great force into every feeling of my heart. I reflected on [them] again and again.” (<a href="/scriptures/pgp/js-h/1.12" class="scriptureRef">JS—H 1:12</a>.) During those four days I had focused on nothing but problems. I had not stopped to consider one single promise.</p>
-        <p class="para" uri="/general-conference/1992/10/remember-also-the-promises.p9" pid="tpk2vYFqFEOzGYpNqzqBVw" hash="JqzRvg">I had with me on the airplane that day a copy of my patriarchal blessing. I read it, noting several marvelous promises. I reviewed in my mind the promises given to me when I was set apart as a mission president. I turned to additional scriptures and pondered the promises in each one. I learned then and have had reinforced to me again and again that when we search the scriptures, we will come to know that “they are true and faithful, and the prophecies and promises which are in them shall all be fulfilled.” (<a href="/scriptures/dc-testament/dc/1.37" class="scriptureRef">D&amp;C 1:37</a>.)</p>
-      </div>
-      <div class="topic" uri="/general-conference/1992/10/remember-also-the-promises.t4">
-        <h3 class="title" pid="jCAD6Cv2dUifYjpXJX_PTg" hash="ocYaTg">Two Categories of Promises</h3>
-        <p class="para" uri="/general-conference/1992/10/remember-also-the-promises.p10" pid="cQhnMnqFLU6eI4SRb-DXnw" hash="_kPmTg">The Lord has promised us specific blessings for reading and studying the scriptures. To identify these promises, a helpful exercise for me has been to make two columns on a sheet of paper and at the top of one column write the words “Promises for This Life” and in the other column the words “Promises for the Next Life.” When I find a promise, I note the reference and the promise under one of the two columns.</p>
-        <p class="para" uri="/general-conference/1992/10/remember-also-the-promises.p11" pid="IVDMY0L6KEaVN0_TAsyaJw" hash="Q28Hew">I have found repeated in different places in the scriptures two major promises for reading and studying the scriptures that pertain to the next life: one is exaltation, and the other is eternal life. For example, Nephi said: “Wherefore, if ye shall press forward, feasting upon the word of Christ, and endure to the end, behold, … Ye shall have eternal life.” (<a href="/scriptures/bofm/2-ne/31.20" class="scriptureRef">2 Ne. 31:20</a>.)</p>
-        <p class="para" uri="/general-conference/1992/10/remember-also-the-promises.p12" pid="xdmw4JzCWESy3AKw4wZmvQ" hash="D-DC1A">The surprising discovery was that most promises that come to us for reading and studying the scriptures pertain to mortality. Three categories of promises to consider are promises of power, promises of increase, and “other promises.” Time will permit me to cite but a few of these.</p>
-      </div>
-      <div class="topic" uri="/general-conference/1992/10/remember-also-the-promises.t5">
-        <h3 class="title" pid="0cEAufQVnEe8YkfVX7-kVA" hash="w8iQuA">Promises of Power</h3>
-        <div class="figure" uri="/general-conference/1992/10/remember-also-the-promises.f2">
-	  <p pid="ypilt3FoVkmJZ8R66pgQkg" hash="GhVwJA">Consider the following five promises of power:</p>
-	  <ol class="number">
-	    <li pid="rVSA4rJNRUuO-PuECGlOxw" hash="nGm_UA">
-            <span class="label">1.</span>
-            <p pid="GurMKlBm10qXSut_WLiX4Q" hash="NnjXfA">Power to overcome evil—Nephi taught: “Whoso would hearken unto the word of God, and would hold fast unto it, … the fiery darts of the adversary [could not] overpower them unto blindness.” (1 Ne. 15:24; see also Ps. 17:4; Ps. 119:98–101, 104; Hel. 3:29–30.)</p>
-          </li>
-	    <li pid="JO3ugP-PYEi6H4adFhWTnA" hash="ACGnOQ">
-            <span class="label">2.</span>
-            <p pid="0dtvIdkhoUmH_Rr4wjM6Aw" hash="S6OiiA">Power to live righteously—Alma “did … preach the word of God unto them, to stir them up in remembrance of their duty.” (Alma 4:19.) The Psalmist said, “Thy word is a lamp unto my feet, and a light unto my path.” (Ps. 119:105; see also 2 Tim. 3:15–17; Hel. 15:7–8.)</p>
-          </li>
-	    <li pid="GXoiJBFPHEuUln0qR1qcmw" hash="qeL-8Q">
-            <span class="label">3.</span>
-            <p pid="55bY03AvG0uWB8hEyHul5Q" hash="mHM3Bg">Power to teach convincingly—Alma and the sons of Mosiah “had searched the scriptures diligently … and when they taught, they taught with power and authority of God.” (Alma 17:2–3; see also 2 Tim. 3:16.) To Hyrum Smith the Lord said: “First seek to obtain my word … ; then, if you desire, you shall have my Spirit and my word, yea, the power of God unto the convincing of men.” (D&amp;C 11:21; see also 2 Tim. 3:15–17; Alma 4:19; Alma 31:5; D&amp;C 84:85.)</p>
-          </li>
-	    <li pid="JAOl1Jhq7E6WQsnAjGAoyA" hash="Hoi3yQ">
-            <span class="label">4.</span>
-            <p pid="Ns04UO1hIUavwp15_AJcDA" hash="gJF0Lw">Power to call down the powers of heaven—Jacob said that “we search the prophets … and our faith becometh unshaken, insomuch that we truly can command in the name of Jesus and the very trees obey us, or the mountains, or the waves of the sea.” (Jacob 4:6; Hel. 10:4–5.)</p>
-          </li>
-	    <li pid="HuIj-H-SakGw1U63J32Yxg" hash="tA2uFQ">
-            <span class="label">5.</span>
-            <p pid="3YXq12H0lEqyWePk8ivMXQ" hash="uCMZ9w">Power to change the heart and disposition—Samuel taught the Nephites that the Lamanites were “led to believe the holy scriptures, … which are written, which leadeth them to faith on the Lord, and unto repentance, which faith and repentance bringeth a change of heart unto them.” (Hel. 15:7; see also 1 Ne. 15:20.) Three marvelous promises.</p>
-          </li>
-	  </ol>
-	</div>
-      </div>
-      <div class="topic" uri="/general-conference/1992/10/remember-also-the-promises.t6">
-        <h3 class="title" pid="wWoM9okimEeTwcNlKK_qwA" hash="XHsB8A">Promises of Increase</h3>
-        <div class="figure" uri="/general-conference/1992/10/remember-also-the-promises.f3">
-	  <p pid="HA8hkEY_pUuGmoIIBaHrfw" hash="kaeBaw">Consider now the following promises of increase:</p>
-	  <ol class="number">
-	    <li pid="7RequL17d0ee5skjJptnzw" hash="HtbBbA">
-            <span class="label">1.</span>
-            <p pid="a9pbuHw4ckOVt5hIweVuXg" hash="O34gMg">Increase in hope and joy—The Apostle Paul taught that “we through patience and comfort of the scriptures might have hope.” (Rom. 15:4; see also 1 Ne. 11:25; Jacob 2:8; Jacob 4:6; Alma 44:5; D&amp;C 19:23.)</p>
-          </li>
-	    <li pid="wVoSVKv53k-yEosZhlrp9Q" hash="tcb95A">
-            <span class="label">2.</span>
-            <p pid="h0joMn7FQ06Uk1kWugCsWA" hash="Tj5q2Q">Increase in spirituality—“The preaching of the word had a great tendency to lead the people to do that which was just.” (Alma 31:5; see also 2 Ne. 4:15–16; Moro. 6:4.)</p>
-          </li>
-	    <li pid="kb_zAPTnJEOAYTlpWfyYug" hash="cLybcw">
-            <span class="label">3.</span>
-            <p pid="O5pFdYe99Eutb5-Tkk17HA" hash="xxf4Xw">Increase in knowledge and understanding—Nephi taught that “the words of Christ will tell you all things what ye should do.” (2 Ne. 32:3.) To Joseph Smith the Lord said: “The holy scriptures are given of me for your instruction.” (D&amp;C 33:16; see also Ps. 19:7; Ps. 119:98–101; 2 Tim. 3:15–17; Alma 12:10; Alma 17:2–3; D&amp;C 18:34–36.)</p>
-          </li>
-	    <li pid="sxm52A2KxEWATdgVg47nWw" hash="UrWJag">
-            <span class="label">4.</span>
-            <p pid="-rzWiSXcm0WSQmPuEtqYIg" hash="iR1g-A">Increase in the power of discernment—“The word of God … is quick and powerful, which shall divide asunder all the cunning and the snares and the wiles of the devil.” (Hel. 3:29.) “And whoso treasureth up my word, shall not be deceived.” (JS—M 1:37; see also Heb. 4:12.)</p>
-          </li>
-	    <li pid="8R5jjBk6y0iAmoeyodKyBg" hash="RdogwA">
-            <span class="label">5.</span>
-            <p pid="LonvaR0p_EKCS1Xg9lULxQ" hash="HQbwZQ">Increase in testimony—From the Doctrine and Covenants: “You can testify that you have heard my voice, and know my words.” (D&amp;C 18:36; see also Ps. 19:7.)</p>
-          </li>
-	  </ol>
-	</div>
-      </div>
-      <div class="topic" uri="/general-conference/1992/10/remember-also-the-promises.t7">
-        <h3 class="title" pid="pYdITIJRzUqEDqaAh6IKBQ" hash="ceDcgg">Other Promises</h3>
-        <p class="para" uri="/general-conference/1992/10/remember-also-the-promises.p13" pid="jgUwDcQcL0mV9jTBWfiPTA" hash="Cb-fOA">In addition to these general categories of promises of power and increase, there are other promises, such as “for then thou shalt make thy way prosperous, and then thou shalt have good success” (<a href="/scriptures/ot/josh/1.8" class="scriptureRef">Josh. 1:8</a>) and as Joseph Smith said, “faith comes by hearing the word of God” (Joseph Smith, <span class="emphasis">History of the Church,</span> 3:379).</p>
-        <p class="para" uri="/general-conference/1992/10/remember-also-the-promises.p14" pid="Hhd3qgkGjEWulYJZoih5Og" hash="ChFpCQ">President Howard W. Hunter has said: “When we … read and study the scriptures, benefits and blessings of many kinds come to us. This is the most profitable of all study in which we could engage.” (<span class="emphasis">Ensign,</span> Nov. 1979, p. 64.)</p>
-        <p class="para" uri="/general-conference/1992/10/remember-also-the-promises.p15" pid="pKPT-v5xO0ucwuysBBHIkQ" hash="dBAH1w">May we “remember also the promises.” I testify that the scriptures are the word of God. I love them. I testify that God lives. He is our Father. Jesus Christ is the Son of God. They appeared to the Prophet Joseph Smith just as he said they did. President Ezra Taft Benson is God’s prophet today. In the name of Jesus Christ, amen.</p>
-      </div>
-    </div>
-  </div>
-</div>]]></content:encoded>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/1992/10/remember-also-the-promises?lang=eng</link>
+      <description><![CDATA[<header>
+<span class="page-break" data-page="80"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/a0a763931256fcdc4a7c9532c417a46d243c7e8b/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/a0a763931256fcdc4a7c9532c417a46d243c7e8b/full/%21192%2C/0/default" data-video-title="Remember Also the Promises" data-video-description="Elder Jay E. Jensen delivers a message titled &quot;Remember Also the Promises.&quot;" data-video-id="6389255653112" data-ip="Download &amp; Streaming" data-duration="549081" data-assetId="76afa6df2ed2f86a72604ce4fec0c5f488614a3a" data-ref-id="76afa6df2ed2f86a72604ce4fec0c5f488614a3a" data-duration-string="9:09" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6389255653112.m3u8" type="application/vnd.apple.mpegurl" data-width="480" data-height="360" data-file-size="27577307"/><source src="https://assets.churchofjesuschrist.org/76afa6df2ed2f86a72604ce4fec0c5f488614a3a-360p-en.mp4" type="video/mp4" data-width="480" data-height="360" data-file-size="27577307"/></video><h1 data-aid="28788878" id="title1">“Remember Also the Promises”</h1>
+<div class="byline">
+<p class="author-name" data-aid="28788879" id="p1">By Elder Jay E. Jensen</p>
+<p class="author-role" data-aid="28788880" id="p2">Of the Seventy</p>
+<div class="image-cropper"><img alt="Elder Jay E. Jensen" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/eta2o4cm7rrvodrsyag9pke91bg3ti25asddguy3/full/%21100%2C/0/default" data-assetId="eta2o4cm7rrvodrsyag9pke91bg3ti25asddguy3" srcset="https://www.churchofjesuschrist.org/imgs/eta2o4cm7rrvodrsyag9pke91bg3ti25asddguy3/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/eta2o4cm7rrvodrsyag9pke91bg3ti25asddguy3/full/%21100%2C/0/default 100w" data-img-id="eta2o4cm7rrvodrsyag9pke91bg3ti25asddguy3" data-missing-asset="false" data-width="100" data-height="125" data-aspect-ratio="0.8" data-public-title="Jay E. Jensen" data-public-description="Jay E. Jensen"/></div>
+</div>
+</header>
+<div class="body-block">
+<p data-aid="28788881" id="p3">I am so thankful for my wife and children. To enjoy their love, confidence, and support is one of the greatest blessings of my life. I express my heartfelt gratitude to parents who loved and lived the gospel, and also to my brothers and sisters, from whom I have learned so much. I thank my Brethren of the General Authorities for their kind and gentle tutoring. I express my gratitude to all with whom I have worked over the years and to those who expressed their love and support for me in this new calling. I go forward with faith in the Lord and His leaders, relying on the promises of the Lord that we do not receive callings such as these but what we have been foreordained to the same.</p>
+<section>
+<header>
+<h2 data-aid="28788882" id="title2">Try the Power of the Word</h2>
+</header>
+<p data-aid="28788883" id="p4">I love the scriptures. I testify that they are the word of God. I have likened a verse from Alma to my life: the scriptures have had a great tendency to lead me to do that which is just; yea, they have had a more powerful effect upon my mind than the sword or anything else which has happened unto me; therefore I have tried the virtue of the word of God (see <a class="scripture-ref" href="/study/scriptures/bofm/alma/31?lang=eng&amp;id=p5#p5">Alma 31:5</a>).</p>
+<p data-aid="28788884" id="p5">President Benson counseled, “Immerse yourselves in [the scriptures] daily so you will have the power of the Spirit” (“<a class="cross-ref" href="/study/ensign/1986/05/the-power-of-the-word?lang=eng&amp;id=p35#p35">The Power of the Word</a>,” <em>Ensign,</em> May 1986, p. 82).</p>
+<p data-aid="28788885" id="p6">President Kimball said, “I find that when I get casual in my relationships with divinity and when it seems that no divine ear is listening and no divine voice is speaking, that I am far, far away. If I immerse myself in the scriptures, the distance narrows and the spirituality returns” (<em>The Teachings of Spencer W. Kimball,</em> ed. Edward L. Kimball [Salt Lake City: Bookcraft, 1982], <a class="cross-ref" href="/study/manual/teachings-spencer-w-kimball/chapter-6?lang=eng">p. 135</a>).</p>
+</section>
+<section>
+<header>
+<h2 data-aid="28788886" id="title3">Remember Also the Promises</h2>
+</header>
+<p data-aid="28788887" id="p7">While presiding over a South American mission, I traveled to a distant city to interview missionaries, hold a zone conference, and conduct a district conference. I discovered among the missionaries some problems. In the district conference, other serious problems dealing with members and leaders surfaced. In my mind the negative outweighed the positive with both missionaries and members, leaving me frustrated and disappointed. After four days of interviews and meetings, I boarded the airplane with a heavy heart to return home.</p>
+<p data-aid="28788888" id="p8">I often read scriptures while traveling, and I turned to them for comfort and direction. I read a few of my favorite passages. While turning the pages, I stopped at the third section of the Doctrine and Covenants. I was deeply touched by the first five verses as they applied to my concerns.</p>
+<p data-aid="28788889" id="p9">When I read a verse, I often insert my name in it. I did so with verse 5 and found the help I needed to remove my gloomy feelings: “Behold, you [Jay Jensen] have been entrusted with these things, but how strict were your commandments; and remember also the promises which were made to you [Jay Jensen]” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/3?lang=eng&amp;id=p5#p5">D&amp;C 3:5</a>).</p>
+<p data-aid="28788890" id="p10">The words “remember also the promises” struck me with unusual power. I identified with the Prophet Joseph Smith when he read <a class="scripture-ref" href="/study/scriptures/nt/james/1?lang=eng&amp;id=p5#p5">James 1:5</a>. The words “remember also the promises” seemed to “enter with great force into every feeling of my heart. I reflected on [them] again and again” (<a class="scripture-ref" href="/study/scriptures/pgp/js-h/1?lang=eng&amp;id=p12#p12">JS—H 1:12</a>). During those four days I had focused on nothing but problems. I had not stopped to consider one single promise.</p>
+<p data-aid="28788891" id="p11">I had with me on the airplane that day a copy of my patriarchal blessing. I read it, noting several marvelous promises. I reviewed in my mind the promises given to me when I was set apart as a mission president. I turned to additional scriptures and pondered the promises in each one. I learned then and have had reinforced to me again and again that when we search the scriptures, we will come to know that “they are true and faithful, and the prophecies and promises which are in them shall all be fulfilled” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/1?lang=eng&amp;id=p37#p37">D&amp;C 1:37</a>).</p>
+</section>
+<section>
+<header>
+<h2 data-aid="28788892" id="title4">Two Categories of Promises</h2>
+</header>
+<p data-aid="28788893" id="p12">The Lord has promised us specific blessings for reading and studying the scriptures. To identify these promises, a helpful exercise for me has been to make two columns on a sheet of paper and at the top of one <span class="page-break" data-page="81"></span>column write the words “Promises for This Life” and in the other column the words “Promises for the Next Life.” When I find a promise, I note the reference and the promise under one of the two columns.</p>
+<p data-aid="28788894" id="p13">I have found repeated in different places in the scriptures two major promises for reading and studying the scriptures that pertain to the next life: one is exaltation, and the other is eternal life. For example, Nephi said, “Wherefore, if ye shall press forward, feasting upon the word of Christ, and endure to the end, behold, … Ye shall have eternal life” (<a class="scripture-ref" href="/study/scriptures/bofm/2-ne/31?lang=eng&amp;id=p20#p20">2 Ne. 31:20</a>).</p>
+<p data-aid="28788895" id="p14">The surprising discovery was that most promises that come to us for reading and studying the scriptures pertain to mortality. Three categories of promises to consider are promises of power, promises of increase, and other promises. Time will permit me to cite but a few of these.</p>
+</section>
+<section>
+<header>
+<h2 data-aid="28788896" id="title5">Promises of Power</h2>
+</header>
+<p data-aid="28788897" id="p15">Consider the following five promises of power:</p>
+<ol class="decimal" start="1">
+<li data-marker="1.">
+<p data-aid="28788898" id="p16"><em>Power to overcome evil.</em> Nephi taught, “Whoso would hearken unto the word of God, and would hold fast unto it, … the fiery darts of the adversary [could not] overpower them unto blindness” (<a class="scripture-ref" href="/study/scriptures/bofm/1-ne/15?lang=eng&amp;id=p24#p24">1 Ne. 15:24</a>; see also <a class="scripture-ref" href="/study/scriptures/ot/ps/17?lang=eng&amp;id=p4#p4">Ps. 17:4</a>; <a class="scripture-ref" href="/study/scriptures/ot/ps/119?lang=eng&amp;id=p98-p101%2Cp104#p98">119:98–101, 104</a>; <a class="scripture-ref" href="/study/scriptures/bofm/hel/3?lang=eng&amp;id=p29-p30#p29">Hel. 3:29–30</a>).</p>
+</li>
+<li data-marker="2.">
+<p data-aid="28788899" id="p17"><em>Power to live righteously.</em> Alma “did … preach the word of God unto them, to stir them up in remembrance of their duty” (<a class="scripture-ref" href="/study/scriptures/bofm/alma/4?lang=eng&amp;id=p19#p19">Alma 4:19</a>). The Psalmist said, “Thy word is a lamp unto my feet, and a light unto my path” (<a class="scripture-ref" href="/study/scriptures/ot/ps/119?lang=eng&amp;id=p105#p105">Ps. 119:105</a>; see also <a class="scripture-ref" href="/study/scriptures/nt/2-tim/3?lang=eng&amp;id=p15-p17#p15">2 Tim. 3:15–17</a>; <a class="scripture-ref" href="/study/scriptures/bofm/hel/15?lang=eng&amp;id=p7-p8#p7">Hel. 15:7–8</a>).</p>
+</li>
+<li data-marker="3.">
+<p data-aid="28788900" id="p18"><em>Power to teach convincingly.</em> Alma and the sons of Mosiah “had searched the scriptures diligently … and when they taught, they taught with power and authority of God” (<a class="scripture-ref" href="/study/scriptures/bofm/alma/17?lang=eng&amp;id=p2-p3#p2">Alma 17:2–3</a>; see also <a class="scripture-ref" href="/study/scriptures/nt/2-tim/3?lang=eng&amp;id=p16#p16">2 Tim. 3:16</a>). To Hyrum Smith the Lord said, “First seek to obtain my word … ; then, if you desire, you shall have my Spirit and my word, yea, the power of God unto the convincing of men” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/11?lang=eng&amp;id=p21#p21">D&amp;C 11:21</a>; see also <a class="scripture-ref" href="/study/scriptures/nt/2-tim/3?lang=eng&amp;id=p15-p17#p15">2 Tim. 3:15–17</a>; <a class="scripture-ref" href="/study/scriptures/bofm/alma/4?lang=eng&amp;id=p19#p19">Alma 4:19</a>; <a class="scripture-ref" href="/study/scriptures/bofm/alma/31?lang=eng&amp;id=p5#p5">31:5</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/84?lang=eng&amp;id=p85#p85">D&amp;C 84:85</a>).</p>
+</li>
+<li data-marker="4.">
+<p data-aid="28788901" id="p19"><em>Power to call down the powers of heaven.</em> Jacob said that “we search the prophets … and our faith becometh unshaken, insomuch that we truly can command in the name of Jesus and the very trees obey us, or the mountains, or the waves of the sea” (<a class="scripture-ref" href="/study/scriptures/bofm/jacob/4?lang=eng&amp;id=p6#p6">Jacob 4:6</a>; see also <a class="scripture-ref" href="/study/scriptures/bofm/hel/10?lang=eng&amp;id=p4-p5#p4">Hel. 10:4–5</a>).</p>
+</li>
+<li data-marker="5.">
+<p data-aid="28788902" id="p20"><em>Power to change the heart and disposition.</em> Samuel taught the Nephites that the Lamanites were “led to believe the holy scriptures, … which are written, which leadeth them to faith on the Lord, and unto repentance, which faith and repentance bringeth a change of heart unto them” (<a class="scripture-ref" href="/study/scriptures/bofm/hel/15?lang=eng&amp;id=p7#p7">Hel. 15:7</a>; see also <a class="scripture-ref" href="/study/scriptures/bofm/1-ne/15?lang=eng&amp;id=p20#p20">1 Ne. 15:20</a>). Three marvelous promises.</p>
+</li>
+</ol>
+</section>
+<section>
+<header>
+<h2 data-aid="28788903" id="title6">Promises of Increase</h2>
+</header>
+<p data-aid="28788904" id="p21">Consider now the following promises of increase:</p>
+<ol class="decimal" start="1">
+<li data-marker="1.">
+<p data-aid="28788905" id="p22"><em>Increase in hope and joy.</em> The Apostle Paul taught that “we through patience and comfort of the scriptures might have hope” (<a class="scripture-ref" href="/study/scriptures/nt/rom/15?lang=eng&amp;id=p4#p4">Rom. 15:4</a>; see also <a class="scripture-ref" href="/study/scriptures/bofm/1-ne/11?lang=eng&amp;id=p25#p25">1 Ne. 11:25</a>; <a class="scripture-ref" href="/study/scriptures/bofm/jacob/2?lang=eng&amp;id=p8#p8">Jacob 2:8</a>; <a class="scripture-ref" href="/study/scriptures/bofm/jacob/4?lang=eng&amp;id=p6#p6">4:6</a>; <a class="scripture-ref" href="/study/scriptures/bofm/alma/44?lang=eng&amp;id=p5#p5">Alma 44:5</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/19?lang=eng&amp;id=p23#p23">D&amp;C 19:23</a>).</p>
+</li>
+<li data-marker="2.">
+<p data-aid="28788906" id="p23"><em>Increase in spirituality.</em> “The preaching of the word had a great tendency to lead the people to do that which was just” (<a class="scripture-ref" href="/study/scriptures/bofm/alma/31?lang=eng&amp;id=p5#p5">Alma 31:5</a>; see also <a class="scripture-ref" href="/study/scriptures/bofm/2-ne/4?lang=eng&amp;id=p15-p16#p15">2 Ne. 4:15–16</a>; <a class="scripture-ref" href="/study/scriptures/bofm/moro/6?lang=eng&amp;id=p4#p4">Moro. 6:4</a>).</p>
+</li>
+<li data-marker="3.">
+<p data-aid="28788907" id="p24"><em>Increase in knowledge and understanding.</em> Nephi taught that “the words of Christ will tell you all things what ye should do” (<a class="scripture-ref" href="/study/scriptures/bofm/2-ne/32?lang=eng&amp;id=p3#p3">2 Ne. 32:3</a>). To Joseph Smith the Lord said, “The holy scriptures are given of me for your instruction” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/33?lang=eng&amp;id=p16#p16">D&amp;C 33:16</a>; see also <a class="scripture-ref" href="/study/scriptures/ot/ps/19?lang=eng&amp;id=p7#p7">Ps. 19:7</a>; <a class="scripture-ref" href="/study/scriptures/ot/ps/119?lang=eng&amp;id=p98-p101#p98">119:98–101</a>; <a class="scripture-ref" href="/study/scriptures/nt/2-tim/3?lang=eng&amp;id=p15-p17#p15">2 Tim. 3:15–17</a>; <a class="scripture-ref" href="/study/scriptures/bofm/alma/12?lang=eng&amp;id=p10#p10">Alma 12:10</a>; <a class="scripture-ref" href="/study/scriptures/bofm/alma/17?lang=eng&amp;id=p2-p3#p2">17:2–3</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/18?lang=eng&amp;id=p34-p36#p34">D&amp;C 18:34–36</a>).</p>
+</li>
+<li data-marker="4.">
+<p data-aid="28788908" id="p25"><em>Increase in the power of discernment.</em> “The word of God … is quick and powerful, which shall divide asunder all the cunning and the snares and the wiles of the devil” (<a class="scripture-ref" href="/study/scriptures/bofm/hel/3?lang=eng&amp;id=p29#p29">Hel. 3:29</a>). “And whoso treasureth up my word, shall not be deceived” (<a class="scripture-ref" href="/study/scriptures/pgp/js-m/1?lang=eng&amp;id=p37#p37">JS—M 1:37</a>; see also <a class="scripture-ref" href="/study/scriptures/nt/heb/4?lang=eng&amp;id=p12#p12">Heb. 4:12</a>).</p>
+</li>
+<li data-marker="5.">
+<p data-aid="28788909" id="p26"><em>Increase in testimony.</em> From the Doctrine and Covenants: “You can testify that you have heard my voice, and know my words” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/18?lang=eng&amp;id=p36#p36">D&amp;C 18:36</a>; see also <a class="scripture-ref" href="/study/scriptures/ot/ps/19?lang=eng&amp;id=p7#p7">Ps. 19:7</a>).</p>
+</li>
+</ol>
+</section>
+<section>
+<header>
+<h2 data-aid="28788910" id="title7">Other Promises</h2>
+</header>
+<p data-aid="28788911" id="p27">In addition to these general categories of promises of power and increase, there are other promises, such as “for then thou shalt make thy way prosperous, and then thou shalt have good success” (<a class="scripture-ref" href="/study/scriptures/ot/josh/1?lang=eng&amp;id=p8#p8">Josh. 1:8</a>) and as Joseph Smith said, “Faith comes by hearing the word of God” (<em>History of the Church,</em> 3:379).</p>
+<p data-aid="28788912" id="p28">President Howard W. Hunter has said: “When we … read and study the scriptures, benefits and blessings of many kinds come to us. This is the most profitable of all study in which we could engage” (in Conference Report, Oct. 1979, <a class="cross-ref" href="/study/general-conference/1979/10/reading-the-scriptures?lang=eng&amp;id=p2#p2">p. 90</a>; or <em>Ensign,</em> Nov. 1979, <a class="cross-ref" href="/study/ensign/1979/11/reading-the-scriptures?lang=eng">p. 64</a>).</p>
+<p data-aid="28788913" id="p29">May we “remember also the promises.” I testify that the scriptures are the word of God. I love them. I testify that God lives. He is our Father. Jesus Christ is the Son of God. They appeared to the Prophet Joseph Smith just as he said they did. President Ezra Taft Benson is God’s prophet today. In the name of Jesus Christ, amen.</p>
+</section>
+</div>]]></description>
       <guid isPermaLink="false">/general-conference/1992/10/remember-also-the-promises</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/october-1992-general-conference/1992-10-5050-elder-jay-e-jensen-64k-eng.mp3" length="4393301" type="audio/mpeg"/>
-      <pubDate>Sun, 04 Oct 1992 14:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/985520ea32e611eca4deeeeeac1e54b6c06da43e-32k-en.mp3" length="2416317" type="audio/mpeg"/>
+      <pubDate>Sun, 04 Oct 1992 14:00:00 -0600</pubDate>
+      <itunes:author>Jay E. Jensen</itunes:author>
     </item>
     <item>
       <title>Keep an Eternal Perspective</title>
-      <link>http://www.lds.org/general-conference/2000/04/keep-an-eternal-perspective?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2000/04/keep-an-eternal-perspective?lang=eng</link>
       <description>If we can help people first understand the plan, they will find a deeper and more permanent motivation to keep the commandments.</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/2000/04/keep-an-eternal-perspective" schema-version="1" doc-id="general-conference_PD10033256_000_014" doc-version="2" hash="qEL53g">
-  
-  <div class="heading" uri="/general-conference/2000/04/keep-an-eternal-perspective.head">
-    <h1 class="title" pid="ys94DjRv1ECejC1hlyw81Q" hash="83aKeA">Keep an Eternal Perspective</h1>
-    <p class="authorName" pid="bnIEAs0TAkqm8ZoWi4y8vg" hash="Ti29-A">Jay E. Jensen</p>
-    <p class="kicker" pid="yrM1jX3g3ke6T_SlqPfpDQ" hash="stMfZw">If we can help people first understand the plan, they will find a deeper and more permanent motivation to keep the commandments.</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/2000/04/keep-an-eternal-perspective.t1">
-      <img src="ensignlp.nfo-o-16f.jpg" alt="Elder Jay E. Jensen" pid="roBbYEHCQk-kOxXH6UG1Ng" hash="oudePg" />
-      <p class="para" uri="/general-conference/2000/04/keep-an-eternal-perspective.p1" pid="n58pz0jsWUWRTxmx9n6_TQ" hash="10hw-g">Words cannot describe the feelings of inadequacy associated with this holy calling, especially the responsibility to be an especial witness of Jesus Christ in all the world (see <a href="/scriptures/dc-testament/dc/107.25" class="scriptureRef">D&amp;C 107:25</a>). I seek an interest in your faith and prayers.</p>
-      <p class="para" uri="/general-conference/2000/04/keep-an-eternal-perspective.p2" pid="YRsi3PafSkuZIpDw5ks_Ag" hash="2BdiMg">A truth about which I want to speak comes from Alma: “Therefore God gave unto them commandments, after having made known unto them the plan of redemption” (<a href="/scriptures/bofm/alma/12.32" class="scriptureRef">Alma 12:32</a>).</p>
-      <p class="para" uri="/general-conference/2000/04/keep-an-eternal-perspective.p3" pid="7DTWFaa_h0uU67FkoCZS1A" hash="-AV80Q">The sequence in the teaching process from this verse is that our Heavenly Father first taught Adam and Eve the plan of redemption; then He gave them commandments. All commandments have their eternal importance in the context of the great plan of happiness (see <a href="/scriptures/bofm/alma/42.8" class="scriptureRef">Alma 42:8</a>; <a href="/scriptures/bofm/alma/34.9" class="scriptureRef">Alma 34:9</a>).</p>
-      <p class="para" uri="/general-conference/2000/04/keep-an-eternal-perspective.p4" pid="2qiwZp2xuUuVKnJNlSgWjA" hash="DEKDSg">I know that this truth is a key to conversion, retention, and activation. If we can help people first understand the plan, they will find a deeper and more permanent motivation to keep the commandments.</p>
-      <p class="para" uri="/general-conference/2000/04/keep-an-eternal-perspective.p5" pid="z_Yd_UkU502uJwLg-sB__Q" hash="YfJFSQ">Another way of saying what Alma taught came from an experience one of the General Authorities shared. He related how he spoke with a sister he knows who years earlier went through a divorce. She approached him to thank him for the counsel he gave her during her darkest hours. She reminded him what he had told her: “Now sister, don’t lose your eternal perspective. Always keep an eternal perspective.” She said that truth became her pillar of strength.</p>
-      <p class="para" uri="/general-conference/2000/04/keep-an-eternal-perspective.p6" pid="2N6KM-r-XUGg5kZqqyssDQ" hash="L8AzNg">When we understand the great plan of happiness, we are gaining an eternal perspective, and the commandments, ordinances, covenants, and the experiences, trials, and tribulations can be seen in their true and eternal light.</p>
-      <p class="para" uri="/general-conference/2000/04/keep-an-eternal-perspective.p7" pid="Q3LvLeKmJEKfW-OE4bWYQA" hash="4JRzNg">Remember, however, that Satan will dim the brightness of hope and eternal perspective by the dark, compelling urgency of now. Such is the case with those mentioned in the Book of Mormon who “turned out of the way” (<a href="/scriptures/bofm/hel/6.31" class="scriptureRef">Hel. 6:31</a>) and “became for themselves” (<a href="/scriptures/bofm/3-ne/1.29" class="scriptureRef">3 Ne. 1:29</a>).</p>
-      <p class="para" uri="/general-conference/2000/04/keep-an-eternal-perspective.p8" pid="T4xpeiJVzUeHIlJvZsesoA" hash="JLeJPQ">Laman and Lemuel turned out of the way and complained of their sufferings because they did not have their possessions, with which they said they “might have been happy” (<a href="/scriptures/bofm/1-ne/17.21" class="scriptureRef">1 Ne. 17:21</a>). It was so with the prodigal son. With the urgency to receive his mortal inheritance, he said to his father, “Give me the portion of goods that falleth to me,” which he took and “wasted his substance with riotous living” (<a href="/scriptures/nt/luke/15.12-13" class="scriptureRef">Luke 15:12–13</a>).</p>
-      <p class="para" uri="/general-conference/2000/04/keep-an-eternal-perspective.p9" pid="4FcVSZThPECo-mdaantsBQ" hash="j3_yNw">Still others are described by Nephi, who said that the devil will “stir them up to anger against that which is good … and lull them away into carnal security” (<a href="/scriptures/bofm/2-ne/28.20-21" class="scriptureRef">2 Ne. 28:20–21</a>).</p>
-      <p class="para" uri="/general-conference/2000/04/keep-an-eternal-perspective.p10" pid="yhp_LoFlE0aO6XlG_efwqg" hash="S9FkfA">Those without an eternal perspective, or those who lose sight of it, make their own standards to benefit themselves and their own selfish interests. Their mortal perspective becomes their standard and for some their god.</p>
-      <p class="para" uri="/general-conference/2000/04/keep-an-eternal-perspective.p11" pid="UvbAAksY90qx_sTQU-xf9Q" hash="jxA8VA">Ammon taught King Lamoni, who had always lived by the light of his mortality, about God, a divine power higher than the king. The king “supposed that whatsoever [he] did was right” (<a href="/scriptures/bofm/alma/18.5" class="scriptureRef">Alma 18:5</a>). But Ammon’s example and message touched his heart, and he “began to fear exceedingly, with fear lest he had done wrong” (<a href="/scriptures/bofm/alma/18.5" class="scriptureRef">Alma 18:5</a>). Ammon then “expounded unto them the plan of redemption” (<a href="/scriptures/bofm/alma/18.39" class="scriptureRef">Alma 18:39</a>).</p>
-      <p class="para" uri="/general-conference/2000/04/keep-an-eternal-perspective.p12" pid="5kfW-rGSlUK5awzjbUBXtg" hash="FYp5wg">After the prodigal son had lost all, “he came to himself, [and] he said … I will arise and go to my father, and will say unto him, Father, I have sinned against heaven, and before thee” (<a href="/scriptures/nt/luke/15.17-18" class="scriptureRef">Luke 15:17–18</a>). It is significant that he acknowledged his sin against heaven, for there really is a heaven and a merciful and a just God who reigns there. He revealed a divine plan that includes the Final Judgment by His Son, who “employeth no servant there,” and where we will all stand someday (<a href="/scriptures/bofm/2-ne/9.41" class="scriptureRef">2 Ne. 9:41</a>).</p>
-      <p class="para" uri="/general-conference/2000/04/keep-an-eternal-perspective.p13" pid="DgVIdSM5kki9fJpBaMsDsg" hash="qNgvwQ">I am eternally thankful for wonderful parents and home-centered gospel learning where I first obtained an eternal perspective. That perspective was reinforced through my youth by leaders and teachers as I attended Church and seminary.</p>
-      <p class="para" uri="/general-conference/2000/04/keep-an-eternal-perspective.p14" pid="PG2x9lc6MkW5IimL6BbWkA" hash="WquaWw">The most significant decision I made in my life to gain an eternal perspective and a firm understanding of the great plan of happiness was a full-time mission. By daily study of the Book of Mormon and as I taught the missionary discussions, I experienced the truth the Apostle Paul taught: “Thou therefore which teachest another, teachest thou not thyself?” (<a href="/scriptures/nt/rom/2.21" class="scriptureRef">Rom. 2:21</a>). I learned the plan of happiness by teaching it again and again.</p>
-      <p class="para" uri="/general-conference/2000/04/keep-an-eternal-perspective.p15" pid="_YwRkqSDW02SkAQeog9o9g" hash="7N-Z_w">While prayer, scripture study, and service in the Church helped me to learn the Father’s plan and gain and develop an eternal perspective, I have an increased appreciation for the contribution that sacred hymns bring to conversion.</p>
-      <p class="para" uri="/general-conference/2000/04/keep-an-eternal-perspective.p16" pid="RzGmLynCTU-KlnvF50TnCg" hash="UxjxaA">During my childhood and youth and especially in Primary, the hymns of the Restoration, written by true servants of God, played a profound role in my conversion to the gospel and an understanding of His plan. President Packer has said, “If we will listen, they are teaching the gospel, for the hymns of the Restoration are, in fact, a course in doctrine!” (in Conference Report, Oct. 1991, 29; or <span class="emphasis">Ensign,</span> Nov. 1991, 22).</p>
-      <p class="para" uri="/general-conference/2000/04/keep-an-eternal-perspective.p17" pid="0GOtSYm_VECVVjxZ_sZJzA" hash="Q4WqRA">In the First Presidency preface of the current hymnal, we are reminded that “inspirational music is an essential part of our church meetings. … Some of the greatest sermons are preached by the singing of hymns. Hymns move us to repentance and good works, build testimony and faith, comfort the weary, console the mourning, and inspire us to endure to the end” (<span class="emphasis">Hymns,</span> ix).</p>
-      <p class="para" uri="/general-conference/2000/04/keep-an-eternal-perspective.p18" pid="EpA4MpZ9pEmkFpWlpOjxNA" hash="AQegvQ">Many hymns reveal the doctrines of the great plan of redemption. Some hymns came as a result of great sacrifice, the ultimate being death, and they communicate a spirit of holiness and consecration to lead us to conversion to the Father and His plan.</p>
-      <p class="para" uri="/general-conference/2000/04/keep-an-eternal-perspective.p19" pid="88kPghep7U69cfmDc5H8_w" hash="b9y3cw">With the teacher improvement emphasis this year, parents, teachers, and missionaries will improve gospel teaching by ensuring they understand the plan themselves and sing the hymns that carry the same spirit. Sing them—hopefully not in a perfunctory way, rather with purpose—to begin and end meetings and as part of lessons or to introduce or summarize ideas in the lessons.</p>
-      <p class="para" uri="/general-conference/2000/04/keep-an-eternal-perspective.p20" pid="5VfTucKOXEGisEXMEfVfcQ" hash="8jviBQ">I conclude with the words from this beautiful hymn:</p>
-      <div class="poetry" uri="/general-conference/2000/04/keep-an-eternal-perspective.f2">
-        <div class="stanza">
-          <p class="line" pid="DjQGk_y6902oXxGTkWsWfA" hash="_VlJjw">
-            <span class="emphasis">I know my Father lives</span>
-          </p>
-          <p class="line" pid="YxArFXfOCUOBmniVGGgLtQ" hash="H0RCnA">
-            <span class="emphasis">And loves me too.</span>
-          </p>
-          <p class="line" pid="56RhtiHRvU-YsYS4hu2rjw" hash="0mfq6g">
-            <span class="emphasis">The Spirit whispers this to me</span>
-          </p>
-          <p class="line" pid="ZcaBBqzZ6E2tt5BKfKw8Ww" hash="6sblRQ">
-            <span class="emphasis">And tells me it is true.</span>
-          </p>
-        </div>
-        <div class="stanza">
-          <p class="line" pid="u9ViTTV1wkaF1DAW-bhQig" hash="DmcMwA">
-            <span class="emphasis">He sent me here to earth,</span>
-          </p>
-          <p class="line" pid="cXQGBXpg_kiPdwFSfZGGLA" hash="zXubzA">
-            <span class="emphasis">By faith to live his plan.</span>
-          </p>
-          <p class="line" pid="vaII6UP_10mGlMvDj6K54g" hash="0mfq6g1">
-            <span class="emphasis">The Spirit whispers this to me</span>
-          </p>
-          <p class="line" pid="eg8h5ZKA10SOuekptDQH8g" hash="UNj_Pw">
-            <span class="emphasis">And tells me that I can.</span>
-          </p>
-        </div>
-      </div>
-      <p class="para" uri="/general-conference/2000/04/keep-an-eternal-perspective.p21" pid="PnrhDkuM8EqqgLpQcbL19A" hash="NNZnFw">I testify that the great plan of the Eternal God is true. God lives. Jesus is His Divine Son. Joseph Smith is a true prophet, and this work is directed by the Lord through 15 prophets, seers, and revelators. In the name of Jesus Christ, amen.</p>
-    </div>
-  </div>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="27"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/2f6f328074e9a1a33be978cfdaa14c33e40ab466/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/2f6f328074e9a1a33be978cfdaa14c33e40ab466/full/%21192%2C/0/default" data-video-title="Keep an Eternal Perspective" data-video-description="If we can help people first understand the plan, they will find a deeper and more permanent motivation to keep the commandments." data-video-id="2245710141001" data-ip="Download and Streaming                            " data-duration="472505" data-assetId="3dc1055c7a020274c365f52cf76bf773190eb2f8" data-ref-id="3dc1055c7a020274c365f52cf76bf773190eb2f8" data-duration-string="7:52" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/2245710141001.m3u8" type="application/vnd.apple.mpegurl" data-width="480" data-height="360" data-file-size="19865868"/><source src="https://assets.churchofjesuschrist.org/3dc1055c7a020274c365f52cf76bf773190eb2f8-360p-en.mp4" type="video/mp4" data-width="480" data-height="360" data-file-size="19865868"/></video><h1 data-aid="28812040" id="title1">Keep an Eternal Perspective</h1>
+<div class="byline">
+<p class="author-name" data-aid="28812041" id="p1">By Elder Jay E. Jensen</p>
+<p class="author-role" data-aid="28812042" id="p2">Of the Seventy</p>
+<div class="image-cropper"><img alt="Elder Jay E. Jensen" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/c4106f660f8211ec89f8eeeeac1ec0ed9c490516/full/%21100%2C/0/default" data-assetId="c4106f660f8211ec89f8eeeeac1ec0ed9c490516" srcset="https://www.churchofjesuschrist.org/imgs/c4106f660f8211ec89f8eeeeac1ec0ed9c490516/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/c4106f660f8211ec89f8eeeeac1ec0ed9c490516/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/c4106f660f8211ec89f8eeeeac1ec0ed9c490516/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/c4106f660f8211ec89f8eeeeac1ec0ed9c490516/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/c4106f660f8211ec89f8eeeeac1ec0ed9c490516/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/c4106f660f8211ec89f8eeeeac1ec0ed9c490516/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/c4106f660f8211ec89f8eeeeac1ec0ed9c490516/full/%21640%2C/0/default 640w" data-img-id="c4106f660f8211ec89f8eeeeac1ec0ed9c490516" data-missing-asset="false" data-width="100" data-height="120" data-aspect-ratio="0.8333333333333334" data-public-title="Jensen, Jay E." data-public-description="Final official portrait of Elder Jay E. Jensen of the First Quorum of the Seventy, 2008.Called to Presidency of the Seventy effective August 1, 2008.  Sustained at the October 2008 general conference.Given emeritus status at the October 2012 general conference."/></div>
+</div>
+<p class="kicker" data-aid="28812043" id="kicker1">If we can help people first understand the plan, they will find a deeper and more permanent motivation to keep the commandments.</p>
+</header>
+<div class="body-block">
+<p data-aid="28812044" id="p3">Words cannot describe the feelings of inadequacy associated with this holy calling, especially the responsibility to be an especial witness of Jesus Christ in all the world (see <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/107?lang=eng&amp;id=p25#p25">D&amp;C 107:25</a>). I seek an interest in your faith and prayers.</p>
+<p data-aid="28812045" id="p4">A truth about which I want to speak comes from Alma: “Therefore God gave unto them commandments, after having made known unto them the plan of redemption” (<a class="scripture-ref" href="/study/scriptures/bofm/alma/12?lang=eng&amp;id=p32#p32">Alma 12:32</a>).</p>
+<p data-aid="28812046" id="p5">The sequence in the teaching process from this verse is that our Heavenly Father first taught Adam and Eve the plan of redemption; then He gave them commandments. All commandments have their eternal importance in the context of the great plan of happiness (see <a class="scripture-ref" href="/study/scriptures/bofm/alma/42?lang=eng&amp;id=p8#p8">Alma 42:8</a>; <a class="scripture-ref" href="/study/scriptures/bofm/alma/34?lang=eng&amp;id=p9#p9">34:9</a>).</p>
+<p data-aid="28812047" id="p6">I know that this truth is a key to conversion, retention, and activation. If we can help people first understand the plan, they will find a deeper and more permanent motivation to keep the commandments.</p>
+<p data-aid="28812048" id="p7">Another way of saying what Alma taught came from an experience one of the General Authorities shared. He related how he spoke with a sister he knows who years earlier went through a divorce. She approached him to thank him for the counsel he gave her during her darkest hours. She reminded him what he had told her: “Now sister, don’t lose your eternal perspective. Always keep an eternal perspective.” She said that truth became her pillar of strength.</p>
+<p data-aid="28812049" id="p8">When we understand the great plan of happiness, we are gaining an eternal perspective, and the commandments, ordinances, and covenants, and the experiences, trials, and tribulations can be seen in their true and eternal light.</p>
+<p data-aid="28812050" id="p9">Remember, however, that Satan will dim the brightness of hope and eternal perspective by the dark, compelling urgency of now. Such is the case with those mentioned in the Book of Mormon who “turned out of the way” (<a class="scripture-ref" href="/study/scriptures/bofm/hel/6?lang=eng&amp;id=p31#p31">Hel. 6:31</a>) and “became for themselves” (<a class="scripture-ref" href="/study/scriptures/bofm/3-ne/1?lang=eng&amp;id=p29#p29">3 Ne. 1:29</a>).</p>
+<p data-aid="28812051" id="p10">Laman and Lemuel turned out of the way and complained of their sufferings because they did not have their possessions, with which they said they “might have been happy” (<a class="scripture-ref" href="/study/scriptures/bofm/1-ne/17?lang=eng&amp;id=p21#p21">1 Ne. 17:21</a>). It was so with the prodigal son. With the urgency to receive his mortal inheritance, he said to his father, “Give me the portion of goods that falleth to me,” which he took and “wasted his substance with riotous living” (<a class="scripture-ref" href="/study/scriptures/nt/luke/15?lang=eng&amp;id=p12-p13#p12">Luke 15:12–13</a>).</p>
+<p data-aid="28812052" id="p11">Still others are described by Nephi, who said that the devil will “stir them up to anger against that which is good … and lull them away into carnal security” (<a class="scripture-ref" href="/study/scriptures/bofm/2-ne/28?lang=eng&amp;id=p20-p21#p20">2 Ne. 28:20–21</a>).</p>
+<p data-aid="28812053" id="p12">Those without an eternal perspective, or those who lose sight of it, make their own standards to benefit themselves and their own selfish interests. Their mortal perspective becomes their standard and for some their god.</p>
+<p data-aid="28812054" id="p13">Ammon taught King Lamoni, who had always lived by the light of his mortality, about God, a divine power higher than the king. The king “supposed that whatsoever [he] did was right” (<a class="scripture-ref" href="/study/scriptures/bofm/alma/18?lang=eng&amp;id=p5#p5">Alma 18:5</a>). But Ammon’s example and message touched his heart, and he “began to fear exceedingly, with fear lest he had done wrong” (<a class="scripture-ref" href="/study/scriptures/bofm/alma/18?lang=eng&amp;id=p5#p5">Alma 18:5</a>). Ammon then “expounded unto them the plan of redemption” (<a class="scripture-ref" href="/study/scriptures/bofm/alma/18?lang=eng&amp;id=p39#p39">Alma 18:39</a>).</p>
+<p data-aid="28812055" id="p14">After the prodigal son had lost all, “he came to himself, [and] he said, … I will arise and go to my father, and will say unto him, Father, I have sinned against heaven, and before thee” (<a class="scripture-ref" href="/study/scriptures/nt/luke/15?lang=eng&amp;id=p17-p18#p17">Luke 15:17–18</a>). It is significant that he acknowledged his sin against heaven, for there really is a heaven and a merciful and a just God who reigns there. He revealed a divine plan that includes the Final Judgment by His Son, who “employeth no servant there,” and where we will all stand someday (<a class="scripture-ref" href="/study/scriptures/bofm/2-ne/9?lang=eng&amp;id=p41#p41">2 Ne. 9:41</a>).</p>
+<p data-aid="28812056" id="p15">I am eternally thankful for wonderful parents and home-centered gospel learning where I first obtained an eternal perspective. That perspective was reinforced through my youth by leaders and teachers as <span class="page-break" data-page="28"></span>I attended Church and seminary.</p>
+<p data-aid="28812057" id="p16">The most significant decision I made in my life to gain an eternal perspective and a firm understanding of the great plan of happiness was a full-time mission. By daily study of the Book of Mormon and as I taught the missionary discussions, I experienced the truth the Apostle Paul taught: “Thou therefore which teachest another, teachest thou not thyself?” (<a class="scripture-ref" href="/study/scriptures/nt/rom/2?lang=eng&amp;id=p21#p21">Rom. 2:21</a>). I learned the plan of happiness by teaching it again and again.</p>
+<p data-aid="28812058" id="p17">While prayer, scripture study, and service in the Church helped me to learn the Father’s plan and gain and develop an eternal perspective, I have an increased appreciation for the contribution that sacred hymns bring to conversion.</p>
+<p data-aid="28812059" id="p18">During my childhood and youth and especially in Primary, the hymns of the Restoration, written by true servants of God, played a profound role in my conversion to the gospel and an understanding of His plan. President Packer has said, “If we will listen, they are teaching the gospel, for the hymns of the Restoration are, in fact, a course in doctrine!” (in Conference Report, Oct. 1991, <a class="cross-ref" href="/study/general-conference/1991/10/reverence-invites-revelation?lang=eng&amp;id=p34#p34">29</a>; or <em>Ensign,</em> Nov. 1991, 22).</p>
+<p data-aid="28812060" id="p19">In the First Presidency preface of the current hymnal, we are reminded that “inspirational music is an essential part of our church meetings. … Some of the greatest sermons are preached by the singing of hymns. Hymns move us to repentance and good works, build testimony and faith, comfort the weary, console the mourning, and inspire us to endure to the end” (<em>Hymns,</em> ix).</p>
+<p data-aid="28812061" id="p20">Many hymns reveal the doctrines of the great plan of redemption. Some hymns came as a result of great sacrifice, the ultimate being death, and they communicate a spirit of holiness and consecration to lead us to conversion to the Father and His plan.</p>
+<p data-aid="28812062" id="p21">With the teacher improvement emphasis this year, parents, teachers, and missionaries will improve gospel teaching by ensuring they understand the plan themselves and sing the hymns that carry the same spirit. Sing them—hopefully not in a perfunctory way, rather with purpose—to begin and end meetings and as part of lessons or to introduce or summarize ideas in the lessons.</p>
+<p data-aid="28812063" id="p22">I conclude with the words from this beautiful hymn:</p>
+<div class="poetry">
+<div class="stanza">
+<p class="line" data-aid="28812064" id="p23">I know my Father lives</p>
+<p class="line" data-aid="28812065" id="p24">And loves me too.</p>
+<p class="line" data-aid="28812066" id="p25">The Spirit whispers this to me</p>
+<p class="line" data-aid="28812067" id="p26">And tells me it is true.</p>
+</div>
+<div class="stanza">
+<p class="line" data-aid="28812068" id="p27">He sent me here to earth,</p>
+<p class="line" data-aid="28812069" id="p28">By faith to live his plan.</p>
+<p class="line" data-aid="28812070" id="p29">The Spirit whispers this to me</p>
+<p class="line" data-aid="28812071" id="p30">And tells me that I can.</p>
+</div>
+<div class="citation-info">
+<p data-aid="150294458" id="p32">[“I Know My Father Lives,” <em>Hymns,</em> no. 302]</p>
+</div>
+</div>
+<p data-aid="28812072" id="p31">I testify that the great plan of the Eternal God is true. God lives. Jesus is His Divine Son. Joseph Smith is a true prophet, and this work is directed by the Lord through 15 prophets, seers, and revelators. In the name of Jesus Christ, amen.</p>
 </div>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/2000/04/keep-an-eternal-perspective</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/april-2000-general-conference/2000-04-2060-elder-jay-e-jensen-64k-eng.mp3" length="3779241" type="audio/mpeg"/>
+      <enclosure url="https://assets.churchofjesuschrist.org/1ad21e9b32d911ecb890eeeeac1e0eb488b92450-64k-en.mp3" length="4022794" type="audio/mpeg"/>
       <pubDate>Sat, 01 Apr 2000 14:00:00 -0700</pubDate>
+      <itunes:author>Jay E. Jensen</itunes:author>
     </item>
     <item>
       <title>The Nourishing Power of Hymns</title>
-      <link>http://www.lds.org/general-conference/2007/04/the-nourishing-power-of-hymns?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2007/04/the-nourishing-power-of-hymns?lang=eng</link>
       <description>Hymns play an essential role in spirituality, revelation, and conversion.</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/2007/04/the-nourishing-power-of-hymns" schema-version="1" doc-id="general-conference_PD00008333_000_007" doc-version="2" hash="GAFicQ">
-  
-  <div class="heading" uri="/general-conference/2007/04/the-nourishing-power-of-hymns.head">
-    <h1 class="title" pid="0adA4dDa6E26yN3soyIjLw" hash="i0VCvA">The Nourishing Power of Hymns</h1>
-    <p class="authorName" pid="0d4KTqgkCk-NPvT7P2lXlw" hash="Ti29-A">Jay E. Jensen</p>
-    <p class="kicker" pid="03EOv-aKekSugtjD5U25Ww" hash="m8pQxA">Hymns play an essential role in spirituality, revelation, and conversion.</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/2007/04/the-nourishing-power-of-hymns.t1">
-      <img src="JensenJE_all.ob.jpg" alt="Elder Jay E. Jensen" pid="MEbpSlB0K0ufMw3HodxiNw" hash="2yADQg" />
-      <p class="para" uri="/general-conference/2007/04/the-nourishing-power-of-hymns.p1" pid="ss7BFNX-ukqCnGjQp_wXVw" hash="33Aetg">
-        <span class="pageBreak" page-number="11"></span>This magnificent choir gives inspiring sermons. In fact, “some of the greatest sermons are preached by the singing of hymns.”<span class="noteMarker" ref="f_1">1</span> My testimony and conversion to the restored gospel were strongly influenced by singing the hymns of Zion as a young boy. I grew up in the small town of Mapleton, Utah, and attended meetings in what is known today as the “old white church.” My 95-year-old mother still lives in Mapleton. When I visit her, I drive past the “old white church,” and a flood of sweet memories fills my mind. Among them is the converting power of the hymns we sang in priesthood, Sunday School, and sacrament meetings. My experiences were similar to that of President Hinckley when, as a deacon, he attended a stake priesthood meeting with his father. They sang “Praise to the Man.”<span class="noteMarker" ref="f_2">2</span> Later he would say, “I had an impression that has never left that Joseph Smith was indeed a prophet of God.”<span class="noteMarker" ref="f_3">3</span> I believe that many of our Saints experience this again and again. Hymns play an essential role in spirituality, revelation, and conversion.</p>
-      <div class="topic" uri="/general-conference/2007/04/the-nourishing-power-of-hymns.t2">
-        <h3 class="title" pid="fVLzA3LCRU2E1rA-pVLIzw" hash="tF0Olw">Hymns Invite the Spirit</h3>
-        <p class="para" uri="/general-conference/2007/04/the-nourishing-power-of-hymns.p2" pid="MYm6taDgg0CehjXhjKkGoA" hash="qyC5Nw">Hymns are “an essential part of our church meetings. [They] invite the Spirit of the Lord.”<span class="noteMarker" ref="f_4">4</span> They often do this quicker than anything else we may do. President J. Reuben Clark Jr. said, “We get nearer to the Lord through music than perhaps through any other thing except prayer.”<span class="noteMarker" ref="f_5">5</span></p>
-        <p class="para" uri="/general-conference/2007/04/the-nourishing-power-of-hymns.p3" pid="dWr8PhfQNk2QVqGp1w8v9g" hash="KxAo5w">Two missionaries teaching an older couple in their home in Peru were interrupted by the arrival of the couple’s son, his wife, and three children. The elders explained who they were and what they were doing. The son was suspicious of the missionaries, resulting in an awkward moment. The junior companion prayed silently, “Heavenly Father, what do we do?” The impression came to sing. They sang “I Am a Child of God.”<span class="noteMarker" ref="f_6">6</span> The Spirit touched the hearts of this family of <span class="pageBreak" page-number="12"></span>five. Instead of two converts, all seven became members, influenced initially by a hymn.</p>
-        <p class="para" uri="/general-conference/2007/04/the-nourishing-power-of-hymns.p4" pid="M6KPDWsT3kar14mH5LgGlQ" hash="a4UulA">Music in Church meetings and classes should facilitate a spirit of worship, revelation, and testimony. For sacrament meetings, the bishopric or branch presidency is responsible to select or approve music. They ensure that the music, the words, and the musical instruments are sacred, dignified, and will promote worship and revelation. Music becomes a performance when it brings attention to itself. Years ago, I was responsible for the music in a meeting where a special musical number was a performance. It was a disappointment. The spirit of worship was diminished.</p>
-      </div>
-      <div class="topic" uri="/general-conference/2007/04/the-nourishing-power-of-hymns.t3">
-        <h3 class="title" pid="wXKmutu4mEmcV-tkTW5jOg" hash="aYRn9Q">Hymns Invite Revelation</h3>
-        <p class="para" uri="/general-conference/2007/04/the-nourishing-power-of-hymns.p5" pid="RHEYNZZoX0S76lAHA51Xhw" hash="8_pm3w">Hymns “create a feeling of reverence.”<span class="noteMarker" ref="f_7">7</span> The words <span class="emphasis">reverence</span> and <span class="emphasis">revelation</span> are like twins who like each other’s company. When the Seventy and Presiding Bishopric are invited to meetings with the First Presidency and the Twelve, we are reminded to arrive early and reverently listen to prelude music. Doing so invites revelation and prepares us for the meeting.</p>
-        <p class="para" uri="/general-conference/2007/04/the-nourishing-power-of-hymns.p6" pid="rftqBn0bQEum82UpGDQvcA" hash="ydCniQ">President Packer taught that a member who softly plays “prelude music from the hymnbook tempers our feelings and causes us to go over in our minds the lyrics which teach the peaceable things of the kingdom. If we will listen, they are teaching the gospel, for the hymns of the Restoration are, in fact, a course in doctrine!”<span class="noteMarker" ref="f_8">8</span></p>
-      </div>
-      <div class="topic" uri="/general-conference/2007/04/the-nourishing-power-of-hymns.t4">
-        <h3 class="title" pid="UwxNTdTxzEG5TF-Kx0nClQ" hash="ptuZuQ">Hymns Invite Conversion</h3>
-        <p class="para" uri="/general-conference/2007/04/the-nourishing-power-of-hymns.p7" pid="Vs9WnrWAY0-SygBBmzme_g" hash="iv7TVQ">The hymns of the Restoration carry with them the spirit of conversion. They came as a result of sacrifice. Hymns like “Praise to the Man,”<span class="noteMarker" ref="f_9">9</span> “Come, Come, Ye Saints,”<span class="noteMarker" ref="f_10">10</span> “Ye Elders of Israel,”<span class="noteMarker" ref="f_11">11</span> “We Thank Thee, O God, for a Prophet,”<span class="noteMarker" ref="f_12">12</span> “Redeemer of Israel,”<span class="noteMarker" ref="f_13">13</span> and many others reinforce the great truths of the Restoration—such as the divinity of the Father and the Son, the plan of redemption, revelation, latter-day scriptures, the gathering of Israel, the holy priesthood, and ordinances and covenants. These nourishing hymns create an atmosphere that invites the Spirit, which leads us to conversion.</p>
-        <p class="para" uri="/general-conference/2007/04/the-nourishing-power-of-hymns.p8" pid="ZraxQmWdXk-tbRD4igbU1Q" hash="Pk3cKA">How incomplete and empty sacrament meetings would be without hymns of worship.<span class="noteMarker" ref="f_14">14</span> Sacred among all hymns are those that capture the sacrifice and the shedding of the blood of Jesus Christ and His infinite Atonement.</p>
-        <p class="para" uri="/general-conference/2007/04/the-nourishing-power-of-hymns.p9" pid="At1aoVz6b0WGxwpKpZImyQ" hash="-AJz6Q">My earliest memories of the healing power of the Savior are associated with sacrament hymns. This sentence is real to me: “I stand all amazed at the love Jesus offers me, confused at the grace that so fully he proffers me.”<span class="noteMarker" ref="f_15">15</span></p>
-        <p class="para" uri="/general-conference/2007/04/the-nourishing-power-of-hymns.p10" pid="0p5coy8rakeO4vs4-05mug" hash="1dXt5A">My understanding of the doctrines of the Atonement is connected to the hymns. This verse is illustrative:</p>
-        <div class="poetry" uri="/general-conference/2007/04/the-nourishing-power-of-hymns.f2">
-          <div class="stanza">
-            <p class="line" pid="tKB5r37Zf0SdNrFNMxMucA" hash="B4PiuQ">
-              <span class="emphasis">How great, how glorious, how complete,</span>
-            </p>
-            <p class="line" pid="q8bCD5DbxE-Wn7eGd9Xsnw" hash="QemKUQ">
-              <span class="emphasis">Redemption’s grand design,</span>
-            </p>
-            <p class="line" pid="_GQadZ8KS0uZp-yJtOyaVg" hash="g6qWHg">
-              <span class="emphasis">Where justice, love, and mercy meet</span>
-            </p>
-            <p class="line" pid="veQiPJwv5UmFQEBrA7V0rA" hash="dZ2iZw">
-              <span class="emphasis">In harmony divine!</span>
-              <span class="noteMarker" ref="f_16">16</span>
-            </p>
-          </div>
-        </div>
-      </div>
-      <div class="topic" uri="/general-conference/2007/04/the-nourishing-power-of-hymns.t5">
-        <h3 class="title" pid="ssMG06JoNUWjKAphqMPSPg" hash="ZdhlXw">Teaching Children Hymns Begins at Home</h3>
-        <p class="para" uri="/general-conference/2007/04/the-nourishing-power-of-hymns.p11" pid="GwradKpPZ0Co3NQtBcplTg" hash="f95ZCQ">
-          <span class="pageBreak" page-number="13"></span>Singing hymns and listening to appropriate music begin at home. The First Presidency has reminded us:</p>
-        <p class="para" uri="/general-conference/2007/04/the-nourishing-power-of-hymns.p12" pid="cndVNWvfVUu-jC6MPDc50A" hash="Qxo9xQ">“Latter-day Saints should fill their homes with the sound of worthy music.</p>
-        <p class="para" uri="/general-conference/2007/04/the-nourishing-power-of-hymns.p13" pid="ww90u-7kbEORlDPAIoyA2A" hash="gbYp2A">“… We hope the hymnbook will take a prominent place among the scriptures and other religious books in our homes. The hymns can bring families a spirit of beauty and peace and can inspire love and unity among family members.</p>
-        <p class="para" uri="/general-conference/2007/04/the-nourishing-power-of-hymns.p14" pid="4BpQTMjslUWyE3iqQ55YXw" hash="DGPVjQ">“Teach your children to love the hymns. Sing them on the Sabbath, in [family] home evening, during scripture study, at prayer time. Sing as you work, as you play, and as you travel together. Sing hymns as lullabies to build faith and testimony in your young ones.”<span class="noteMarker" ref="f_17">17</span></p>
-      </div>
-      <div class="topic" uri="/general-conference/2007/04/the-nourishing-power-of-hymns.t6">
-        <h3 class="title" pid="fAKk1iBrp0udeci5M0WVpg" hash="d-C5Sw">Worship More Meaningfully through Hymns</h3>
-        <div class="figure" uri="/general-conference/2007/04/the-nourishing-power-of-hymns.f3">
-	  <p pid="qsnlXakAskue7KP-Ow010A" hash="xCqkwA">Important lessons I have learned and seek to apply about hymns are:</p>
-	  <ol class="number">
-	    <li pid="NU_bTGpb2kylMesc7231hQ" hash="ghbrvQ">
-            <span class="label">1.</span>
-            <p pid="EK6RVrIERk6Om9O4yhwbsA" hash="sb2l4g">Strive to be more punctual to meetings, sit quietly and listen to the prelude music, and experience reverence and revelation.</p>
-          </li>
-	    <li pid="O2ibtsR12E6oI7Zfm2mRrw" hash="hKAK4A">
-            <span class="label">2.</span>
-            <p pid="hWfy99-9SU2RwdtdYcLt-A" hash="thMU4w">Exit meetings more reverently, allowing the postlude music to extend the spirit of the meeting.</p>
-          </li>
-	    <li pid="q3tA1Babrk-9DTsc31_upA" hash="F4uKOg">
-            <span class="label">3.</span>
-            <p pid="pLlct9aWukOtDXc_FBZMVQ" hash="Sx3pJQ">Sing the hymns. I see some who have access to hymnals but do not sing.</p>
-          </li>
-	    <li pid="4XmLQE_DKUCa49XD1YTh6Q" hash="k-BFng">
-            <span class="label">4.</span>
-            <p pid="WJdF6ThDukCoYLrMQ7yOUg" hash="un_z_A">Choose hymns appropriate to the meeting and messages.</p>
-          </li>
-	    <li pid="R_BAwptcz0mbf59_Bh4hkg" hash="VxTavw">
-            <span class="label">5.</span>
-            <p pid="dMdeczo4yUGgAIZcARfhqw" hash="zzD7ig">Use hymns to introduce or to emphasize scriptures and gospel truths in lessons and classes.</p>
-          </li>
-	    <li pid="kB__mtrMmUmvBZlhBYR8gA" hash="rq6ckw">
-            <span class="label">6.</span>
-            <p pid="0uZizsxXZE-aXPJTRzdbrA" hash="nL4NMg">Listen to the hymns more frequently in our homes, inviting the Spirit to prevail.</p>
-          </li>
-	  </ol>
-	</div>
-        <p class="para" uri="/general-conference/2007/04/the-nourishing-power-of-hymns.p15" pid="FMgugSYeYk-y1RO9w2z7uQ" hash="b91VvQ">I pray that we may eliminate any inappropriate music from our lives and follow the counsel of the First Presidency: “Brothers and sisters, let us use the hymns to invite the Spirit of the Lord into our congregations, our homes, and our personal lives. Let us memorize and ponder them, recite and sing them, and partake of their spiritual nourishment. Know that the song of the righteous is a prayer unto our Father in Heaven, ‘and it shall be answered with a blessing upon [your] heads.’”<span class="noteMarker" ref="f_18">18</span> Of these truths I testify in the name of Jesus Christ, amen.</p>
-      </div>
-    </div>
-  </div>
-  
-</div>]]></content:encoded>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="11"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/3e7b7201c42e88804b67f805d388559b93e8c03d/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/3e7b7201c42e88804b67f805d388559b93e8c03d/full/%21192%2C/0/default" data-video-title="The Nourishing Power of Hymns" data-video-description="Hymns play an essential role in spirituality, revelation, and conversion." data-video-id="2235958321001" data-ip="Download and Streaming                            " data-duration="497964" data-assetId="102bb88f91409eed2ccb2e442c01ca8bd94a451b" data-ref-id="102bb88f91409eed2ccb2e442c01ca8bd94a451b" data-duration-string="8:17" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/2235958321001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="142675932"/><source src="https://assets.churchofjesuschrist.org/102bb88f91409eed2ccb2e442c01ca8bd94a451b-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="24457087"/><source src="https://assets.churchofjesuschrist.org/102bb88f91409eed2ccb2e442c01ca8bd94a451b-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="46085254"/><source src="https://assets.churchofjesuschrist.org/102bb88f91409eed2ccb2e442c01ca8bd94a451b-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="142675932"/></video><h1 data-aid="28836054" id="title1">The Nourishing Power of Hymns</h1>
+<div class="byline">
+<p class="author-name" data-aid="28836055" id="p1">By Elder Jay E. Jensen</p>
+<p class="author-role" data-aid="28836056" id="p2">Of the Seventy</p>
+<div class="image-cropper"><img alt="Elder Jay E. Jensen" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/c4106f660f8211ec89f8eeeeac1ec0ed9c490516/full/%21100%2C/0/default" data-assetId="c4106f660f8211ec89f8eeeeac1ec0ed9c490516" srcset="https://www.churchofjesuschrist.org/imgs/c4106f660f8211ec89f8eeeeac1ec0ed9c490516/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/c4106f660f8211ec89f8eeeeac1ec0ed9c490516/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/c4106f660f8211ec89f8eeeeac1ec0ed9c490516/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/c4106f660f8211ec89f8eeeeac1ec0ed9c490516/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/c4106f660f8211ec89f8eeeeac1ec0ed9c490516/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/c4106f660f8211ec89f8eeeeac1ec0ed9c490516/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/c4106f660f8211ec89f8eeeeac1ec0ed9c490516/full/%21640%2C/0/default 640w" data-img-id="c4106f660f8211ec89f8eeeeac1ec0ed9c490516" data-missing-asset="false" data-width="100" data-height="120" data-aspect-ratio="0.8333333333333334" data-public-title="Jensen, Jay E." data-public-description="Final official portrait of Elder Jay E. Jensen of the First Quorum of the Seventy, 2008.Called to Presidency of the Seventy effective August 1, 2008.  Sustained at the October 2008 general conference.Given emeritus status at the October 2012 general conference."/></div>
+</div>
+<p class="kicker" data-aid="28836057" id="kicker1">Hymns play an essential role in spirituality, revelation, and conversion.</p>
+</header>
+<div class="body-block">
+<p data-aid="28836058" id="p3">This magnificent choir gives inspiring sermons. In fact, “some of the greatest sermons are preached by the singing of hymns.”<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a> My testimony and conversion to the restored gospel were strongly influenced by singing the hymns of Zion as a young boy. I grew up in the small town of Mapleton, Utah, and attended meetings in what is known today as the “old white church.” My 95-year-old mother still lives in Mapleton. When I visit her, I drive past the old white church, and a flood of sweet memories fills my mind. Among them is the converting power of the hymns we sang in priesthood, Sunday School, and sacrament meetings. My experiences were similar to that of President Hinckley when, as a deacon, he attended a stake priesthood meeting with his father. They sang “Praise to the Man.”<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a> Later he would say, “I had an impression that has never left that Joseph Smith was indeed a prophet of God.”<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a> I believe that many of our Saints experience this again and again. Hymns play an essential role in spirituality, revelation, and conversion.</p>
+<section>
+<header>
+<h2 data-aid="28836059" id="title2">Hymns Invite the Spirit</h2>
+</header>
+<p data-aid="28836060" id="p4">Hymns are “an essential part of our church meetings. [They] invite the Spirit of the Lord.”<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a> They often do this quicker than anything else we may do. President J. Reuben Clark Jr. said, “We get nearer to the Lord through music than perhaps through any other thing except prayer.”<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a></p>
+<p data-aid="28836061" id="p5">Two missionaries teaching an older couple in their home in Peru were interrupted by the arrival of the couple’s son, his wife, and three children. The elders explained who they were and what they were doing. The son was suspicious of the missionaries, resulting in an awkward moment. The junior companion prayed silently, “Heavenly Father, what do we do?” The impression came to sing. They sang “I Am a Child of God.”<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a> The Spirit touched the hearts of this family of <span class="page-break" data-page="12"></span>five. Instead of two converts, all seven became members, influenced initially by a hymn.</p>
+<p data-aid="28836062" id="p6">Music in Church meetings and classes should facilitate a spirit of worship, revelation, and testimony. For sacrament meetings, the bishopric or branch presidency is responsible to select or approve music. They ensure that the music, the words, and the musical instruments are sacred and dignified and will promote worship and revelation. Music becomes a performance when it brings attention to itself. Years ago, I was responsible for the music in a meeting where a special musical number was a performance. It was a disappointment. The spirit of worship was diminished.</p>
+</section>
+<section>
+<header>
+<h2 data-aid="28836063" id="title3">Hymns Invite Revelation</h2>
+</header>
+<p data-aid="28836064" id="p7">Hymns “create a feeling of reverence.”<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a> The words <em>reverence</em> and <em>revelation</em> are like twins who like each other’s company. When the Seventy and Presiding Bishopric are invited to meetings with the First Presidency and the Twelve, we are reminded to arrive early and reverently listen to prelude music. Doing so invites revelation and prepares us for the meeting.</p>
+<p data-aid="28836065" id="p8">President Packer taught that a member who softly plays “prelude music from the hymnbook tempers our feelings and causes us to go over in our minds the lyrics which teach the peaceable things of the kingdom. If we will listen, they are teaching the gospel, for the hymns of the Restoration are, in fact, a course in doctrine!”<a class="note-ref" href="#note8"><sup class="marker" data-value="8"></sup></a></p>
+</section>
+<section>
+<header>
+<h2 data-aid="28836066" id="title4">Hymns Invite Conversion</h2>
+</header>
+<p data-aid="28836067" id="p9">The hymns of the Restoration carry with them the spirit of conversion. They came as a result of sacrifice. Hymns like “Praise to the Man,”<a class="note-ref" href="#note9"><sup class="marker" data-value="9"></sup></a> “Come, Come, Ye Saints,”<a class="note-ref" href="#note10"><sup class="marker" data-value="10"></sup></a> “Ye Elders of Israel,”<a class="note-ref" href="#note11"><sup class="marker" data-value="11"></sup></a> “We Thank Thee, O God, for a Prophet,”<a class="note-ref" href="#note12"><sup class="marker" data-value="12"></sup></a> “Redeemer of Israel,”<a class="note-ref" href="#note13"><sup class="marker" data-value="13"></sup></a> and many others reinforce the great truths of the Restoration—such as the divinity of the Father and the Son, the plan of redemption, revelation, latter-day scriptures, the gathering of Israel, the holy priesthood, and ordinances and covenants. These nourishing hymns create an atmosphere that invites the Spirit, which leads us to conversion.</p>
+<p data-aid="28836068" id="p10">How incomplete and empty sacrament meetings would be without hymns of worship.<a class="note-ref" href="#note14"><sup class="marker" data-value="14"></sup></a> Sacred among all hymns are those that capture the sacrifice and the shedding of the blood of Jesus Christ and His infinite Atonement.</p>
+<p data-aid="28836069" id="p11">My earliest memories of the healing power of the Savior are associated with sacrament hymns. This sentence is real to me: “I stand all amazed at the love Jesus offers me, confused at the grace that so fully he proffers me.”<a class="note-ref" href="#note15"><sup class="marker" data-value="15"></sup></a></p>
+<p data-aid="28836070" id="p12">My understanding of the doctrines of the Atonement is connected to the hymns. This verse is illustrative:</p>
+<div class="poetry">
+<div class="stanza">
+<p class="line" data-aid="28836071" id="p13">How great, how glorious, how complete,</p>
+<p class="line" data-aid="28836072" id="p14">Redemption’s grand design,</p>
+<p class="line" data-aid="28836073" id="p15">Where justice, love, and mercy meet</p>
+<p class="line" data-aid="28836074" id="p16">In harmony divine!<a class="note-ref" href="#note16"><sup class="marker" data-value="16"></sup></a></p>
+</div>
+</div>
+</section>
+<section>
+<header>
+<span class="page-break" data-page="13"></span>
+<h2 data-aid="28836075" id="title5">Teaching Children Hymns Begins at Home</h2>
+</header>
+<p data-aid="28836076" id="p17">Singing hymns and listening to appropriate music begin at home. The First Presidency has reminded us:</p>
+<p data-aid="28836077" id="p18">“Latter-day Saints should fill their homes with the sound of worthy music.</p>
+<p data-aid="28836078" id="p19">“… We hope the hymnbook will take a prominent place among the scriptures and other religious books in our homes. The hymns can bring families a spirit of beauty and peace and can inspire love and unity among family members.</p>
+<p data-aid="28836079" id="p20">“Teach your children to love the hymns. Sing them on the Sabbath, in [family] home evening, during scripture study, at prayer time. Sing as you work, as you play, and as you travel together. Sing hymns as lullabies to build faith and testimony in your young ones.”<a class="note-ref" href="#note17"><sup class="marker" data-value="17"></sup></a></p>
+</section>
+<section>
+<header>
+<h2 data-aid="28836080" id="title6">Worship More Meaningfully through Hymns</h2>
+</header>
+<p data-aid="28836081" id="p21">Important lessons I have learned and seek to apply about hymns are:</p>
+<ol class="decimal" start="1">
+<li data-marker="1.">
+<p data-aid="28836082" id="p22">Strive to be more punctual to meetings, sit quietly and listen to the prelude music, and experience reverence and revelation.</p>
+</li>
+<li data-marker="2.">
+<p data-aid="28836083" id="p23">Exit meetings more reverently, allowing the postlude music to extend the spirit of the meeting.</p>
+</li>
+<li data-marker="3.">
+<p data-aid="28836084" id="p24">Sing the hymns. I see some who have access to hymnals but do not sing.</p>
+</li>
+<li data-marker="4.">
+<p data-aid="28836085" id="p25">Choose hymns appropriate to the meeting and messages.</p>
+</li>
+<li data-marker="5.">
+<p data-aid="28836086" id="p26">Use hymns to introduce or to emphasize scriptures and gospel truths in lessons and classes.</p>
+</li>
+<li data-marker="6.">
+<p data-aid="28836087" id="p27">Listen to the hymns more frequently in our homes, inviting the Spirit to prevail.</p>
+</li>
+</ol>
+<p data-aid="28836088" id="p28">I pray that we may eliminate any inappropriate music from our lives and follow the counsel of the First Presidency: “Brothers and sisters, let us use the hymns to invite the Spirit of the Lord into our congregations, our homes, and our personal lives. Let us memorize and ponder them, recite and sing them, and partake of their spiritual nourishment. Know that the song of the righteous is a prayer unto our Father in Heaven, ‘and it shall be answered with a blessing upon [your] heads.’”<a class="note-ref" href="#note18"><sup class="marker" data-value="18"></sup></a> Of these truths I testify in the name of Jesus Christ, amen.</p>
+</section>
+</div>
+<footer class="notes">
+<p class="title" data-aid="150471550" id="notetitle1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="28836089" id="note1_p1"><em>Hymns,</em> ix.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="28836090" id="note2_p1"><em>Hymns,</em> no. 27.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="28836091" id="note3_p1"><em>Teachings of Gordon B. Hinckley</em> (1997), 399.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="28836092" id="note4_p1"><em>Hymns,</em> ix.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="28836093" id="note5_p1">In Conference Report, Oct. 1936, 111.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="28836094" id="note6_p1"><em>Hymns,</em> no. 301.</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="28836095" id="note7_p1"><em>Hymns,</em> ix.</p>
+</li>
+<li data-marker="8." id="note8" data-full-marker="8.">
+<p data-aid="28836096" id="note8_p1">In Conference Report, Oct. 1991, <a class="cross-ref" href="/study/general-conference/1991/10/reverence-invites-revelation?lang=eng&amp;id=p34#p34">29</a>; or <em>Ensign,</em> Nov. 1991, 22.</p>
+</li>
+<li data-marker="9." id="note9" data-full-marker="9.">
+<p data-aid="28836097" id="note9_p1"><em>Hymns,</em> no. 27.</p>
+</li>
+<li data-marker="10." id="note10" data-full-marker="10.">
+<p data-aid="28836098" id="note10_p1"><em>Hymns,</em> no. 30.</p>
+</li>
+<li data-marker="11." id="note11" data-full-marker="11.">
+<p data-aid="28836099" id="note11_p1"><em>Hymns,</em> no. 319.</p>
+</li>
+<li data-marker="12." id="note12" data-full-marker="12.">
+<p data-aid="28836100" id="note12_p1"><em>Hymns,</em> no. 19.</p>
+</li>
+<li data-marker="13." id="note13" data-full-marker="13.">
+<p data-aid="28836101" id="note13_p1"><em>Hymns,</em> no. 6.</p>
+</li>
+<li data-marker="14." id="note14" data-full-marker="14.">
+<p data-aid="28836102" id="note14_p1">Just as hymns are essential to Sabbath and family worship, so are hymns and carols to Christmas (see <em>Hymns,</em> nos. 201–14).</p>
+</li>
+<li data-marker="15." id="note15" data-full-marker="15.">
+<p data-aid="28836103" id="note15_p1">“I Stand All Amazed,” <em>Hymns,</em> no. 193.</p>
+</li>
+<li data-marker="16." id="note16" data-full-marker="16.">
+<p data-aid="28836104" id="note16_p1">“How Great the Wisdom and the Love,” <em>Hymns,</em> no. 195.</p>
+</li>
+<li data-marker="17." id="note17" data-full-marker="17.">
+<p data-aid="28836105" id="note17_p1"><em>Hymns,</em> x.</p>
+</li>
+<li data-marker="18." id="note18" data-full-marker="18.">
+<p data-aid="28836106" id="note18_p1"><em>Hymns,</em> x.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/2007/04/the-nourishing-power-of-hymns</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/april-2007-general-conference/2007-04-1050-elder-jay-e-jensen-64k-eng.mp3" length="3958485" type="audio/mpeg"/>
-      <pubDate>Sat, 31 Mar 2007 10:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/6d17526c32d111ecac35eeeeac1e7c594a4937e9-64k-en.mp3" length="4254858" type="audio/mpeg"/>
+      <pubDate>Sat, 31 Mar 2007 10:00:00 -0600</pubDate>
+      <itunes:author>Jay E. Jensen</itunes:author>
     </item>
     <item>
       <title>Arms of Safety</title>
-      <link>http://www.lds.org/general-conference/2008/10/arms-of-safety?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2008/10/arms-of-safety?lang=eng</link>
       <description>By coming humbly and fully repentant to sacrament meeting and worthily partaking of the sacrament, we may feel those arms [of safety] again and again.</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/2008/10/arms-of-safety" schema-version="1" doc-id="general-conference_PD00009501_000_018" doc-version="2" hash="UwEs0A">
-  
-  <div class="heading" uri="/general-conference/2008/10/arms-of-safety.head">
-    <h1 class="title" pid="ky0YwoWC_Ua1QwxGiydKDA" hash="BvLFpg">Arms of Safety</h1>
-    <p class="authorName" pid="8XtXVhUkJUaTdNpP7MNH0w" hash="gnBJKA">Elder Jay E. Jensen</p>
-    <p class="kicker" pid="pnSmv-HNyEuVvuC0IT9t3Q" hash="v3g9hg">By coming humbly and fully repentant to sacrament meeting and worthily partaking of the sacrament, we may feel those arms [of safety] again and again.</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/2008/10/arms-of-safety.t1">
-      <p class="para" uri="/general-conference/2008/10/arms-of-safety.p1" pid="WGVKDVbyFUOb6GSAfLX2jQ" hash="0V721Q">
-        <span class="pageBreak" page-number="47"></span>I speak this evening about the Atonement of Jesus Christ and its relevance to the administration of the sacrament by the holders of the Aaronic Priesthood, taught so powerfully and so beautifully by Elder Oaks this morning. I will use a short scripture phrase that helps me visualize the Savior’s mercy. It is the phrase “arms of safety” (see <a href="/scriptures/bofm/alma/34.16" class="scriptureRef">Alma 34:16</a>).</p>
-      <div class="topic" uri="/general-conference/2008/10/arms-of-safety.t2">
-        <h3 class="title" pid="fYglkJ142E2CoCvkKKhp8Q" hash="dxAeaA">Secure in His Arms</h3>
-        <p class="para" uri="/general-conference/2008/10/arms-of-safety.p2" pid="yVptY-b7d0SgDgzSoa6F3w" hash="4TS6ug">A family had been taking pictures on a lookout point of the North Rim of the Grand Canyon. They heard screams and ran to find that a two-year-old girl had fallen through a railing to a ledge about 35 feet (11 m) below. The little one tried to climb back up, but her movements caused her to slip even farther until she was 5 feet (1.5 m) from a dangerous 200-foot (61-m) drop.</p>
-        <p class="para" uri="/general-conference/2008/10/arms-of-safety.p3" pid="xlOaa3M3RUKps9Pu1H5xPA" hash="FQkttA">A 19-year-old young man named Ian saw where she was and, using his emergency-response training, knew how to handle the situation. These are his words: “‘Immediately, it all came at me, and I just knew what I had to do. I set down my camera and went up the trail a little ways where it wasn’t as steep, climbed over the rail, scrambled down a bunch of rocks and through brush, and found her.’ Holding her in his arms for an hour, Ian waited until emergency teams could drop down with ropes” to rescue them (“Save Her!” <span class="emphasis">New Era,</span> Sept. 2007, 6). The phrase “holding her in his arms” caught my attention because the scriptures talk about arms—arms of love, arms of mercy, and arms of safety (see <a href="/scriptures/bofm/2-ne/1.15" class="scriptureRef">2 Nephi 1:15</a>; <a href="/scriptures/bofm/mosiah/16.12" class="scriptureRef">Mosiah 16:12</a>; <a href="/scriptures/bofm/alma/5.33" class="scriptureRef">Alma 5:33</a>; <a href="/scriptures/dc-testament/dc/6.20" class="scriptureRef">D&amp;C 6:20</a>; <a href="/scriptures/dc-testament/dc/29.1" class="scriptureRef">29:1</a>).</p>
-        <p class="para" uri="/general-conference/2008/10/arms-of-safety.p4" pid="g-2msSIHjUyRX05qJhjiBw" hash="svja_w">The scripture phrase “encircled in the arms of safety” comes from Amulek’s message to the Zoramites about the infinite and eternal Atonement. He taught that the sacrifice of the Son of God made it possible for man to have faith in Christ to lead us to repent. “And thus mercy can satisfy the demands of justice, and encircles them in the arms of safety” (<a href="/scriptures/bofm/alma/34.16" class="scriptureRef">Alma 34:16</a>; see also <a href="/scriptures/bofm/alma/34.9-15" class="scriptureRef">vv. 9–15</a>).</p>
-      </div>
-      <div class="topic" uri="/general-conference/2008/10/arms-of-safety.t3">
-        <h3 class="title" pid="mK_jZso0V02CG9eKna9Kvw" hash="JYlqmQ">Teach Intangibles with Tangibles</h3>
-        <p class="para" uri="/general-conference/2008/10/arms-of-safety.p5" pid="H_mLR-yD9ka3uGqldyevsQ" hash="BVhg8g">To better understand “arms of safety” it is important to remember <span class="pageBreak" page-number="48"></span>that the Savior used tangible things, such as coins, seeds, sheep, loaves, fishes, and body parts to teach gospel principles.</p>
-        <p class="para" uri="/general-conference/2008/10/arms-of-safety.p6" pid="s_CGXARGG0WAtqnGo2SyMw" hash="JW2llw">Arms are tangible, and we use them to express affection and love. When I come home from the office, I am encircled in the tangible arms of my wife. I have experienced arms of love and safety throughout my service in Latin America by means of the common greeting, <span class="emphasis">un abrazo,</span> or hug.</p>
-        <p class="para" uri="/general-conference/2008/10/arms-of-safety.p7" pid="0intHRh-p0-hSVLDUI_a7A" hash="K3FOtw">As I have pondered how to effectively teach the Atonement to others, the phrase “arms of safety” has been useful. When we were baptized and received the Holy Ghost by the laying on of hands, we received two ordinances that introduce us to the arms of safety. By coming humbly and fully repentant to sacrament meeting and worthily partaking of the sacrament, we may feel those arms again and again.</p>
-      </div>
-      <div class="topic" uri="/general-conference/2008/10/arms-of-safety.t4">
-        <h3 class="title" pid="jIJQuGakcUeiYpZu0V9sPw" hash="h9biRQ">Likening a Sacrament Meeting to Our Day</h3>
-        <p class="para" uri="/general-conference/2008/10/arms-of-safety.p8" pid="Pd2ErS0MOE2pTmyZfL510g" hash="Jl7tUw">The section heading to <a href="/scriptures/dc-testament/dc/110" class="scriptureRef">Doctrine and Covenants 110</a> gives the context for one of our most relevant verses about enjoying arms of safety. On a Sabbath day during the dedication of the Kirtland Temple, the Prophet Joseph Smith explained that he and other priesthood holders had administered the sacrament to the Church.</p>
-        <p class="para" uri="/general-conference/2008/10/arms-of-safety.p9" pid="Zb-AUniiWkyUWwjtxIe8tA" hash="dfDkQQ">Following this sacred ordinance, Joseph Smith and Oliver Cowdery retired to pray in private. Following the prayer, the Savior appeared to these two men and said, “Behold, your sins are forgiven you; you are clean before me; therefore, lift up your heads and rejoice” (<a href="/scriptures/dc-testament/dc/110.5" class="scriptureRef">D&amp;C 110:5</a>).</p>
-        <p class="para" uri="/general-conference/2008/10/arms-of-safety.p10" pid="ddE0VqurbE-xjP90Ug-PIw" hash="Vewp8w">The sequence of events in the Kirtland Temple in 1836 parallels our day and is likened to us. Sabbath after Sabbath, you young priesthood holders administer the sacrament to the Saints, who come to sacrament meeting prayerfully, hungering for spiritual healing, hoping, pleading to hear in their minds and hearts these words: “Behold, your sins are forgiven you; you are clean before me; therefore, lift up your heads and rejoice” (<a href="/scriptures/dc-testament/dc/110.5" class="scriptureRef">D&amp;C 110:5</a>).</p>
-        <p class="para" uri="/general-conference/2008/10/arms-of-safety.p11" pid="Ti9PMO0uMkinM-NgRu39Vw" hash="igA1SQ">Elder Dallin H. Oaks has testified that there is a spiritual cleansing or healing associated with the sacrament: “The sacrament of the Lord’s Supper is a renewal of the covenants and blessings of baptism. We are commanded to repent of our sins and come to the Lord with a broken heart and a contrite spirit and partake of the sacrament. In the partaking of the bread, we witness that we are willing to take upon us the name of Jesus Christ and always remember Him and keep His commandments. When we comply with this covenant, the Lord renews the cleansing effect of our baptism. We are made clean and can always have His Spirit to be with us” (“Special Witnesses of Christ,” <span class="emphasis">Liahona,</span> Apr. 2001, 14; <span class="emphasis">Ensign,</span> Apr. 2001, 13).</p>
-      </div>
-      <div class="topic" uri="/general-conference/2008/10/arms-of-safety.t5">
-        <h3 class="title" pid="rtm_iqyn0EC9aVt6vMP2qQ" hash="pI-mkA">Implications for Aaronic Priesthood Holders</h3>
-        <p class="para" uri="/general-conference/2008/10/arms-of-safety.p12" pid="9Bo6kLueKk2l001Z5f1RQw" hash="_U8HCg">To help members more fully receive that cleansing, or the arms of safety, those who hold keys to authorize and those who administer the sacrament should ensure that general guidelines in Church handbooks concerning the preparation, blessing, and passing of the sacrament are followed. Each priesthood holder should remember that he is acting on behalf of the Lord and be reverent and dignified. Generally speaking, our youth are exemplary. <span class="pageBreak" page-number="49"></span>However, in the administration of the sacrament, occasionally we see a disturbing drift towards too much informality and casualness in dress and appearance.</p>
-        <p class="para" uri="/general-conference/2008/10/arms-of-safety.p13" pid="YSSvbLZp1k-iVUvX1CxmeA" hash="O-LTaA">Young men, before going to church, will you please pause before a mirror one more time and ask yourself if every aspect of your appearance is in order? Better still, invite someone you love, such as a parent, to look at you one more time, and if something is amiss, don’t resent their counsel.</p>
-        <p class="para" uri="/general-conference/2008/10/arms-of-safety.p14" pid="Rrtw9IwTZ0ObQdis9IU4VA" hash="sswZgA">True servants of Jesus Christ are properly groomed and dressed, reflecting always His standards and not the worldly drift of casualness. Having every detail carefully attended to ensures that the Spirit of the Lord will be present. The dress or appearance of those administering the sacrament should not be a distraction for those who are earnestly seeking the blessings of the infinite Atonement.</p>
-        <p class="para" uri="/general-conference/2008/10/arms-of-safety.p15" pid="_8_GZDfxRkmVf3puRzwpVA" hash="eP-RJg">A theme found in the messages of President Monson to us, the priesthood holders, is that it is a privilege to hold the priesthood: “It is a commission to serve, a privilege to lift, and an opportunity to bless the lives of others” (“Our Sacred Priesthood Trust,” <span class="emphasis">Liahona</span> and <span class="emphasis">Ensign,</span> May 2006, 57). I testify that this applies to the administration of the sacrament.</p>
-      </div>
-      <div class="topic" uri="/general-conference/2008/10/arms-of-safety.t6">
-        <h3 class="title" pid="mx19b8XxRk2W4i6gyXVWFA" hash="MiWoXw">Experiencing the Arms of Safety</h3>
-        <p class="para" uri="/general-conference/2008/10/arms-of-safety.p16" pid="dl_F-YiFXk6YYQ7SewIkBA" hash="fFmAww">While serving as a bishop, I witnessed the blessings of the Atonement in the lives of Church members who committed serious transgressions. As a judge in Israel I listened to their confessions and, when needed, placed restrictions upon them, such as not partaking of the sacrament for a time.</p>
-        <p class="para" uri="/general-conference/2008/10/arms-of-safety.p17" pid="b1BRHji9t0KSLdrHuAXDYw" hash="C4FFpw">A young single adult in our ward was dating a young woman. They allowed their affections to get out of control. He came to me for counsel and help. Based on what was confessed and the impressions of the Spirit to me, among other things, he was not permitted to partake of the sacrament for a time. We met regularly to ensure that repentance had happened, and, after an appropriate time, I authorized him to again partake of the sacrament.</p>
-        <p class="para" uri="/general-conference/2008/10/arms-of-safety.p18" pid="1i8ciAqs8kuiR06HGfWsFQ" hash="FtkaZQ">As I sat on the stand in that sacrament meeting, my eyes were drawn to him as he now partook of the sacrament worthily. I witnessed arms of mercy, love, and safety encircling him as the healing of the Atonement warmed his soul and lifted his load, resulting in the promised forgiveness, peace, and happiness.</p>
-      </div>
-      <div class="topic" uri="/general-conference/2008/10/arms-of-safety.t7">
-        <h3 class="title" pid="p6eCzZE0T0iVW8loEREVuw" hash="joChyg">The Atonement—an Ever-Present Power</h3>
-        <p class="para" uri="/general-conference/2008/10/arms-of-safety.p19" pid="6ADtLe_mrEK3GI2J-Jqy9Q" hash="szVyqg">I have experienced and have a witness of a truth that President Packer taught: “For some reason, we think the Atonement of Christ applies <span class="emphasis">only</span> at the end of mortal life to redemption from the Fall, from spiritual death. It is much more than that. It is an ever-present power to call upon in everyday life. When we are racked or harrowed up or tormented by guilt or burdened with grief, He can heal us. While we do not fully understand how the Atonement of Christ was made, we can experience ‘the peace of God, which passeth all understanding’” (“The Touch of the Master’s Hand,” <span class="emphasis">Liahona,</span> July 2001, 26; <span class="emphasis">Ensign,</span> May 2001, 23).</p>
-        <p class="para" uri="/general-conference/2008/10/arms-of-safety.p20" pid="8NCS9GrrXkuQq0LAZdwDJA" hash="IDPRsQ">I love my Heavenly Father and His Son, Jesus Christ. I place my faith, my love, my loyalty, and my devotion in Them. I testify that God is our Heavenly Father and that we are His children. I bear witness that the Atonement is real and has power in our lives. I testify that the restored gospel is true. These truths are found in the holy scriptures, especially in the Book of Mormon. In the name of Jesus Christ, amen.</p>
-      </div>
-    </div>
-  </div>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="47"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/a56f6f5244ce16c3cf1ce350c5b3710531cdb2c6/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/a56f6f5244ce16c3cf1ce350c5b3710531cdb2c6/full/%21192%2C/0/default" data-video-title="Arms of Safety" data-video-description="By coming humbly and fully repentant to sacrament meeting and worthily partaking of the sacrament, we may feel those arms [of safety] again and again." data-video-id="2235899458001" data-ip="Download and Streaming                            " data-duration="646012" data-assetId="67ab7d62b81196573e15d42a7879bf01cb626104" data-ref-id="67ab7d62b81196573e15d42a7879bf01cb626104" data-duration-string="10:46" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/2235899458001.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="258779801"/><source src="https://assets.churchofjesuschrist.org/67ab7d62b81196573e15d42a7879bf01cb626104-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="33245486"/><source src="https://assets.churchofjesuschrist.org/67ab7d62b81196573e15d42a7879bf01cb626104-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="73739285"/><source src="https://assets.churchofjesuschrist.org/67ab7d62b81196573e15d42a7879bf01cb626104-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="258779801"/></video><h1 data-aid="28840277" id="title1">Arms of Safety</h1>
+<div class="byline">
+<p class="author-name" data-aid="28840278" id="p1">By Elder Jay E. Jensen</p>
+<p class="author-role" data-aid="28840279" id="p2">Of the Presidency of the Seventy</p>
+<div class="image-cropper"><img alt="Elder Jay E. Jensen" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/c4106f660f8211ec89f8eeeeac1ec0ed9c490516/full/%21100%2C/0/default" data-assetId="c4106f660f8211ec89f8eeeeac1ec0ed9c490516" srcset="https://www.churchofjesuschrist.org/imgs/c4106f660f8211ec89f8eeeeac1ec0ed9c490516/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/c4106f660f8211ec89f8eeeeac1ec0ed9c490516/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/c4106f660f8211ec89f8eeeeac1ec0ed9c490516/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/c4106f660f8211ec89f8eeeeac1ec0ed9c490516/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/c4106f660f8211ec89f8eeeeac1ec0ed9c490516/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/c4106f660f8211ec89f8eeeeac1ec0ed9c490516/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/c4106f660f8211ec89f8eeeeac1ec0ed9c490516/full/%21640%2C/0/default 640w" data-img-id="c4106f660f8211ec89f8eeeeac1ec0ed9c490516" data-missing-asset="false" data-width="100" data-height="120" data-aspect-ratio="0.8333333333333334" data-public-title="Jensen, Jay E." data-public-description="Final official portrait of Elder Jay E. Jensen of the First Quorum of the Seventy, 2008.Called to Presidency of the Seventy effective August 1, 2008.  Sustained at the October 2008 general conference.Given emeritus status at the October 2012 general conference."/></div>
+</div>
+<p class="kicker" data-aid="28840280" id="kicker1">By coming humbly and fully repentant to sacrament meeting and worthily partaking of the sacrament, we may feel those arms [of safety] again and again.</p>
+</header>
+<div class="body-block">
+<p data-aid="28840281" id="p3">I speak this evening about the Atonement of Jesus Christ and its relevance to the administration of the sacrament by the holders of the Aaronic Priesthood, taught so powerfully and so beautifully by Elder Oaks this morning. I will use a short scripture phrase that helps me visualize the Savior’s mercy. It is the phrase “arms of safety” (see <a class="scripture-ref" href="/study/scriptures/bofm/alma/34?lang=eng&amp;id=p16#p16">Alma 34:16</a>).</p>
+<section>
+<header>
+<h2 data-aid="28840282" id="title2">Secure in His Arms</h2>
+</header>
+<p data-aid="28840283" id="p4">A family had been taking pictures on a lookout point of the North Rim of the Grand Canyon. They heard screams and ran to find that a two-year-old girl had fallen through a railing to a ledge about 35 feet (11 m) below. The little one tried to climb back up, but her movements caused her to slip even farther until she was 5 feet (1.5 m) from a dangerous 200-foot (61-m) drop.</p>
+<p data-aid="28840284" id="p5">A 19-year-old young man named Ian saw where she was and, using his emergency-response training, knew how to handle the situation. These are his words: “‘Immediately, it all came at me, and I just knew what I had to do. I set down my camera and went up the trail a little ways where it wasn’t as steep, climbed over the rail, scrambled down a bunch of rocks and through brush, and found her.’ Holding her in his arms for an hour, Ian waited until emergency teams could drop down with ropes [to rescue them]” (in Patricia Auxier, “Save Her!” <em>New Era,</em> Sept. 2007, 6). The phrase “holding her in his arms” caught my attention because the scriptures talk about arms—arms of love, arms of mercy, and arms of safety (see <a class="scripture-ref" href="/study/scriptures/bofm/2-ne/1?lang=eng&amp;id=p15#p15">2 Nephi 1:15</a>; <a class="scripture-ref" href="/study/scriptures/bofm/mosiah/16?lang=eng&amp;id=p12#p12">Mosiah 16:12</a>; <a class="scripture-ref" href="/study/scriptures/bofm/alma/5?lang=eng&amp;id=p33#p33">Alma 5:33</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/6?lang=eng&amp;id=p20#p20">D&amp;C 6:20</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/29?lang=eng&amp;id=p1#p1">29:1</a>).</p>
+<p data-aid="28840285" id="p6">The scripture phrase “encircled in the arms of safety” comes from Amulek’s message to the Zoramites about the infinite and eternal Atonement. He taught that the sacrifice of the Son of God made it possible for man to have faith in Christ to lead us to repent. “And thus mercy can satisfy the demands of justice, and encircles them in the arms of safety” (<a class="scripture-ref" href="/study/scriptures/bofm/alma/34?lang=eng&amp;id=p16#p16">Alma 34:16</a>; see also <a class="scripture-ref" href="/study/scriptures/bofm/alma/34?lang=eng&amp;id=p9-p15#p9">vv. 9–15</a>).</p>
+</section>
+<section>
+<header>
+<h2 data-aid="28840286" id="title3">Teach Intangibles with Tangibles</h2>
+</header>
+<p data-aid="28840287" id="p7">To better understand “arms of safety” it is important to remember <span class="page-break" data-page="48"></span>that the Savior used tangible things, such as coins, seeds, sheep, loaves, fishes, and body parts to teach gospel principles.</p>
+<p data-aid="28840288" id="p8">Arms are tangible, and we use them to express affection and love. When I come home from the office, I am encircled in the tangible arms of my wife. I have experienced arms of love and safety throughout my service in Latin America by means of the common greeting, <em>un abrazo,</em> or hug.</p>
+<p data-aid="28840289" id="p9">As I have pondered how to effectively teach the Atonement to others, the phrase “arms of safety” has been useful. When we were baptized and received the Holy Ghost by the laying on of hands, we received two ordinances that introduce us to the arms of safety. By coming humbly and fully repentant to sacrament meeting and worthily partaking of the sacrament, we may feel those arms again and again.</p>
+</section>
+<section>
+<header>
+<h2 data-aid="28840290" id="title4">Likening a Sacrament Meeting to Our Day</h2>
+</header>
+<p data-aid="28840291" id="p10">The section heading to <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/110?lang=eng">Doctrine and Covenants 110</a> gives the context for one of our most relevant verses about enjoying arms of safety. On a Sabbath day during the dedication of the Kirtland Temple, the Prophet Joseph Smith explained that he and other priesthood holders had administered the sacrament to the Church.</p>
+<p data-aid="28840292" id="p11">Following this sacred ordinance, Joseph Smith and Oliver Cowdery retired to pray in private. Following the prayer, the Savior appeared to these two men and said, “Behold, your sins are forgiven you; you are clean before me; therefore, lift up your heads and rejoice” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/110?lang=eng&amp;id=p5#p5">D&amp;C 110:5</a>).</p>
+<p data-aid="28840293" id="p12">The sequence of events in the Kirtland Temple in 1836 parallels our day and is likened to us. Sabbath after Sabbath, you young priesthood holders administer the sacrament to the Saints, who come to sacrament meeting prayerfully, hungering for spiritual healing, hoping, pleading to hear in their minds and hearts these words: “Behold, your sins are forgiven you; you are clean before me; therefore, lift up your heads and rejoice” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/110?lang=eng&amp;id=p5#p5">D&amp;C 110:5</a>).</p>
+<p data-aid="28840294" id="p13">Elder Dallin H. Oaks has testified that there is a spiritual cleansing or healing associated with the sacrament: “The sacrament of the Lord’s Supper is a renewal of the covenants and blessings of baptism. We are commanded to repent of our sins and to come to the Lord with a broken heart and a contrite spirit and partake of the sacrament. In partaking of the bread, we witness that we are willing to take upon us the name of Jesus Christ and always remember Him and keep His commandments. When we comply with this covenant, the Lord renews the cleansing effect of our baptism. We are made clean and can always have His Spirit to be with us” (“Special Witnesses of Christ,” <em>Liahona,</em> Apr. 2001, 14; <em>Ensign,</em> Apr. 2001, 13).</p>
+</section>
+<section>
+<header>
+<h2 data-aid="28840295" id="title5">Implications for Aaronic Priesthood Holders</h2>
+</header>
+<p data-aid="28840296" id="p14">To help members more fully receive that cleansing, or the arms of safety, those who hold keys to authorize and those who administer the sacrament should ensure that general guidelines in Church handbooks concerning the preparation, blessing, and passing of the sacrament are followed. Each priesthood holder should remember that he is acting on behalf of the Lord and be reverent and dignified. Generally speaking, our youth are exemplary. <span class="page-break" data-page="49"></span>However, in the administration of the sacrament, occasionally we see a disturbing drift toward too much informality and casualness in dress and appearance.</p>
+<p data-aid="28840297" id="p15">Young men, before going to church, will you please pause before a mirror one more time and ask yourself if every aspect of your appearance is in order? Better still, invite someone you love, such as a parent, to look at you one more time, and if something is amiss, don’t resent their counsel.</p>
+<p data-aid="28840298" id="p16">True servants of Jesus Christ are properly groomed and dressed, reflecting always His standards and not the worldly drift of casualness. Having every detail carefully attended to ensures that the Spirit of the Lord will be present. The dress or appearance of those administering the sacrament should not be a distraction for those who are earnestly seeking the blessings of the infinite Atonement.</p>
+<p data-aid="28840299" id="p17">A theme found in the messages of President Monson to us, the priesthood holders, is that it is a privilege to hold the priesthood: “It is a commission to serve, a privilege to lift, and an opportunity to bless the lives of others” (in Conference Report, Apr. 2006, <a class="cross-ref" href="/study/general-conference/2006/04/our-sacred-priesthood-trust?lang=eng&amp;id=p49#p49">60</a>; or <em>Ensign,</em> May 2006, 57). I testify that this applies to the administration of the sacrament.</p>
+</section>
+<section>
+<header>
+<h2 data-aid="28840300" id="title6">Experiencing the Arms of Safety</h2>
+</header>
+<p data-aid="28840301" id="p18">While serving as a bishop, I witnessed the blessings of the Atonement in the lives of Church members who committed serious transgressions. As a judge in Israel, I listened to their confessions and, when needed, placed restrictions upon them, such as not partaking of the sacrament for a time.</p>
+<p data-aid="28840302" id="p19">A young single adult in our ward was dating a young woman. They allowed their affections to get out of control. He came to me for counsel and help. Based on what was confessed and the impressions of the Spirit to me, among other things, he was not permitted to partake of the sacrament for a time. We met regularly to ensure that repentance had happened, and after an appropriate time I authorized him to again partake of the sacrament.</p>
+<p data-aid="28840303" id="p20">As I sat on the stand in that sacrament meeting, my eyes were drawn to him as he now partook of the sacrament worthily. I witnessed arms of mercy, love, and safety encircling him as the healing of the Atonement warmed his soul and lifted his load, resulting in the promised forgiveness, peace, and happiness.</p>
+</section>
+<section>
+<header>
+<h2 data-aid="28840304" id="title7">The Atonement—an Ever-Present Power</h2>
+</header>
+<p data-aid="28840305" id="p21">I have experienced and have a witness of a truth that President Packer taught: “For some reason, we think the Atonement of Christ applies <em>only</em> at the end of mortal life to redemption from the Fall, from spiritual death. It is much more than that. It is an ever-present power to call upon in everyday life. When we are racked or harrowed up or tormented by guilt or burdened with grief, He can heal us. While we do not fully understand how the Atonement of Christ was made, we can experience ‘the peace of God, which passeth all understanding’” (in Conference Report, Apr. 2001, <a class="cross-ref" href="/study/general-conference/2001/04/the-touch-of-the-masters-hand?lang=eng&amp;id=p22#p22">28</a>; or <em>Ensign,</em> May 2001, 23).</p>
+<p data-aid="28840306" id="p22">I love my Heavenly Father and His Son, Jesus Christ. I place my faith, my love, my loyalty, and my devotion in Them. I testify that God is our Heavenly Father and that we are His children. I bear witness that the Atonement is real and has power in our lives. I testify that the restored gospel is true. These truths are found in the holy scriptures, especially in the Book of Mormon. In the name of Jesus Christ, amen.</p>
+</section>
 </div>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/2008/10/arms-of-safety</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/october-2008-general-conference/2008-10-3020-elder-jay-e-jensen-64k-eng.mp3" length="5137688" type="audio/mpeg"/>
-      <pubDate>Sat, 04 Oct 2008 18:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/a74ebe2832df11ecbcf7eeeeac1e744efcaf5eb5-64k-en.mp3" length="5441272" type="audio/mpeg"/>
+      <pubDate>Sat, 04 Oct 2008 18:00:00 -0600</pubDate>
+      <itunes:author>Jay E. Jensen</itunes:author>
     </item>
     <item>
       <title>The Holy Ghost and Revelation</title>
-      <link>http://www.lds.org/general-conference/2010/10/the-holy-ghost-and-revelation?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2010/10/the-holy-ghost-and-revelation?lang=eng</link>
       <description>The Holy Ghost is the third member of the Godhead, and with the Father and the Son, He knows all things.</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/2010/10/the-holy-ghost-and-revelation" schema-version="1" doc-id="general-conference_PD50021411_000_4030" doc-version="2" hash="7VzAUQ">
-  
-  <div class="heading" uri="/general-conference/2010/10/the-holy-ghost-and-revelation.head">
-    <h1 class="title" pid="_PVNo7WMo0W9ukgGGWVxdg" hash="WsI-3g">The Holy Ghost and Revelation</h1>
-    <p class="authorName" pid="Kecue_bSsEq7J3ay0sLEkg" hash="Ti29-A">Jay E. Jensen</p>
-    <p class="kicker" pid="KFuuWdUg1kKnQOH703SBaw" hash="hyyatA">The Holy Ghost is the third member of the Godhead, and with the Father and the Son, He knows all things.</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/2010/10/the-holy-ghost-and-revelation.t1">
-      <p class="para" uri="/general-conference/2010/10/the-holy-ghost-and-revelation.p1" pid="IioHBPP5tUWHEaXqT6xHVw" hash="ZeKfwQ">As a young elder I had been in the mission field about one year, and while reading scriptures and words of the latter-day Apostles about revelation and the Holy Ghost, I had a stunning awakening. I did not have a testimony of my own, specifically of the Father and the Son. I went on my mission living on the borrowed light of my wonderful parents. Never doubting their words, I had not thought about seeking my own spiritual witness. On a February night in San Antonio, Texas, in 1962, I knew that I had to know for myself. In our small apartment I found a place where I could quietly pray out loud, pleading, “Heavenly Father, are You there? I must know for myself!”</p>
-      <p class="para" uri="/general-conference/2010/10/the-holy-ghost-and-revelation.p2" pid="HHMRTO6A302qCnciIHTGiA" hash="-ZAU3g">Sometime later that night I came to know for myself for the first time in my life that God and Jesus are real. I did not hear an audible voice nor see a heavenly being. I knew in the same way you too may have come to know—which is “by the unspeakable gift of the Holy Ghost” (<a href="/scriptures/dc-testament/dc/121.26" class="scriptureRef">D&amp;C 121:26</a>) and the spirit of revelation (see <a href="/scriptures/dc-testament/dc/8.1-3" class="scriptureRef">D&amp;C 8:1–3</a>) speaking peace to my mind (see <a href="/scriptures/dc-testament/dc/6.23" class="scriptureRef">D&amp;C 6:23</a>) and assurances to my heart (see <a href="/scriptures/bofm/alma/58.11" class="scriptureRef">Alma 58:11</a>).</p>
-      <p class="para" uri="/general-conference/2010/10/the-holy-ghost-and-revelation.p3" pid="DihmIkvJI02bwbIlx6pvxw" hash="h0oV4Q">From that experience I witnessed the results of Alma’s counsel to “awake and arouse [my] faculties … to [conduct] an experiment upon [His] words” (<a href="/scriptures/bofm/alma/32.27" class="scriptureRef">Alma 32:27</a>). These words or seeds have grown into trees, indeed giant trees of testimony. The process continues with more experiments upon the word, resulting in additional trees of testimony, now a veritable forest based on revelation through and by the Holy Ghost.</p>
-      <div class="topic" uri="/general-conference/2010/10/the-holy-ghost-and-revelation.t2">
-        <h3 class="title" pid="foiCmkN77ki6rh3lg7ViVg" hash="oxVdXw">The Holy Ghost Is a Desired Gift</h3>
-        <p class="para" uri="/general-conference/2010/10/the-holy-ghost-and-revelation.p4" pid="AJIzfhfP7E2MMhffjblqZg" hash="Lr9VMQ">When the Savior visited the Americas, He called twelve disciples. One of His messages to them and the people was about the Holy Ghost. After teaching them, the Savior departed and promised to return the next day. The people worked through the night to gather as many as possible to hear Him.</p>
-        <p class="para" uri="/general-conference/2010/10/the-holy-ghost-and-revelation.p5" pid="ZNGjrGPwF0akgL4YcLI_WA" hash="qHyRXA">The disciples gathered the people into 12 groups to teach them what the Savior taught them. Foremost among their teachings was the importance of the Holy Ghost. (See <a href="/scriptures/bofm/3-ne/11?span=11-18" class="scriptureRef">3 Nephi 11–18</a>.) Then the people knelt and prayed. Their heartfelt desire was to be given the Holy Ghost (see <a href="/scriptures/bofm/3-ne/19.8-9" class="scriptureRef">3 Nephi 19:8–9</a>).</p>
-        <p class="para" uri="/general-conference/2010/10/the-holy-ghost-and-revelation.p6" pid="wCaAIqPcFEaRw68ydTN79g" hash="rU7ZTg">The Savior appeared to them and reinforced the importance of the Holy Ghost as He prayed to the Father:</p>
-        <p class="para" uri="/general-conference/2010/10/the-holy-ghost-and-revelation.p7" pid="Wiz2zERRzEGeBVUHPa25_A" hash="0qcotg"> “Father, I thank thee that thou hast given the Holy Ghost unto these whom I have chosen; …</p>
-        <p class="para" uri="/general-conference/2010/10/the-holy-ghost-and-revelation.p8" pid="iH1Z5IsfTEOb8zJu9lUZBw" hash="Njcqgg"> “Father, I pray thee that thou wilt give the Holy Ghost unto all them that shall believe in their words” (<a href="/scriptures/bofm/3-ne/19.20-21" class="scriptureRef">3 Nephi 19:20–21</a>).</p>
-        <p class="para" uri="/general-conference/2010/10/the-holy-ghost-and-revelation.p9" pid="iB_fg-p19EakEVK_p_6viQ" hash="bKD0mA">Based on this Book of Mormon event, I understand better why President Wilford Woodruff said that “the gift of the Holy Ghost is the greatest gift that can be bestowed upon man. …</p>
-        <p class="para" uri="/general-conference/2010/10/the-holy-ghost-and-revelation.p10" pid="lVtUgeKcjkmd_A0q6f1qXA" hash="DGu4SA">“[It] is not restricted to men, nor to apostles or prophets; it belongs to every faithful man and woman, and to every child who is old enough to receive the gospel of Christ” (<span class="emphasis">Teachings of Presidents of the Church: Wilford Woodruff</span> (2004), 49).</p>
-      </div>
-      <div class="topic" uri="/general-conference/2010/10/the-holy-ghost-and-revelation.t3">
-        <h3 class="title" pid="FvdrIabez0WG7ChK6Z5pUg" hash="dDW5qA">Revelation Provides Answers in Times of Need</h3>
-        <p class="para" uri="/general-conference/2010/10/the-holy-ghost-and-revelation.p11" pid="OLqMxtUKnUCVqsRaYgnCBg" hash="DgFNcA">The Holy Ghost is the third member of the Godhead, and with the Father and the Son, He knows all things (see <a href="/scriptures/dc-testament/dc/35.19" class="scriptureRef">D&amp;C 35:19</a>; <a href="/scriptures/dc-testament/dc/42.17" class="scriptureRef">42:17</a>). He has several important roles; foremost among them is to teach and testify of the Father and the Son (see <a href="/scriptures/bofm/3-ne/28.11" class="scriptureRef">3 Nephi 28:11</a>). Other roles are that He reveals the truth of all things (see <a href="/scriptures/bofm/moro/10.5" class="scriptureRef">Moroni 10:5</a>) and He leads to do good (see <a href="/scriptures/dc-testament/dc/11.12" class="scriptureRef">D&amp;C 11:12</a>).</p>
-        <p class="para" uri="/general-conference/2010/10/the-holy-ghost-and-revelation.p12" pid="SPyxcfMVtEuJ-BNKwHXxyw" hash="sPW9qA">President Thomas S. Monson exemplifies this important role of being led to do good. He follows the example of the Savior, “who went about doing good” (<a href="/scriptures/nt/acts/10.38" class="scriptureRef">Acts 10:38</a>). He has taught the importance of not ignoring a spiritual prompting from the Holy Ghost to visit someone and to minister to him or her and to rescue the one.</p>
-        <p class="para" uri="/general-conference/2010/10/the-holy-ghost-and-revelation.p13" pid="W6uoPzMbIUuKZOPSuc8Gmg" hash="4kEuHA">But sometimes there is no one like President Monson, no home teacher, no caring sister available to minister in time of need. In those situations I have come to find solace and direction from the Comforter, another role of the Holy Ghost (see <a href="/scriptures/dc-testament/dc/36.2" class="scriptureRef">D&amp;C 36:2</a>).</p>
-        <p class="para" uri="/general-conference/2010/10/the-holy-ghost-and-revelation.p14" pid="dQeYm4mQOEamJvYfubMqwA" hash="1DmK2g">Our grandson Quinton was born with multiple birth defects and lived three weeks short of a year, during which time he was in and out of the hospital. Sister Jensen and I were living in Argentina at that time. We truly wanted to be there with our children to comfort them and be comforted by them. This was our grandchild whom we loved and wanted to be near. We could only pray, and we did so fervently!</p>
-        <p class="para" uri="/general-conference/2010/10/the-holy-ghost-and-revelation.p15" pid="HZJSzUHsFk-2-6bv3nuHBA" hash="uvhUbA">Sister Jensen and I were on a mission tour when we received word Quinton had died. We stood in the hallway of a meetinghouse and hugged and comforted each other. I witness to you that assurances came to us from the Holy Ghost, a peace which passes all understanding and continues to this day (see <a href="/scriptures/nt/philip/4.7" class="scriptureRef">Philippians 4:7</a>). We also witnessed the unspeakable gift of the Holy Ghost in the lives of our son and daughter-in-law and their children, who to this day speak of that time with such faith, peace, and comfort.</p>
-      </div>
-      <div class="topic" uri="/general-conference/2010/10/the-holy-ghost-and-revelation.t4">
-        <h3 class="title" pid="LXtIwcUGb0CwIPDQ6dtplQ" hash="EKm-MQ">Revelation and the Book of Mormon</h3>
-        <p class="para" uri="/general-conference/2010/10/the-holy-ghost-and-revelation.p16" pid="HtvqlMjLV0yiSr5Sxrxq1A" hash="6_wDGw">That same gift of revelation has influenced my testimony of the Book of Mormon. I have read, studied, searched, and feasted upon it again and again. The Holy Ghost has revealed to me its truth and divinity.</p>
-        <p class="para" uri="/general-conference/2010/10/the-holy-ghost-and-revelation.p17" pid="tyBdkk30TkCAzENKXvLuYg" hash="wO16Jw">President Gordon B. Hinckley called the Book of Mormon one of the four essential cornerstones of the Church, the others being Joseph Smith’s First Vision, the restoration of the priesthood, and of course our testimony of Jesus Christ, the chief cornerstone (see <a href="/scriptures/nt/eph/2.19-21" class="scriptureRef">Ephesians 2:19–21</a>). “These four great God-given gifts,” he explained, “are the unshakable cornerstones which anchor The Church of Jesus Christ of Latter-day Saints, as well as the individual testimonies and convictions of its members” (“Four Cornerstones of Faith,” <span class="emphasis">Liahona</span> and <span class="emphasis">Ensign,</span> Feb. 2004, 7).</p>
-        <p class="para" uri="/general-conference/2010/10/the-holy-ghost-and-revelation.p18" pid="8euvFXzLmUmejOhf_nDOFg" hash="8NGTbw">These four God-given gifts have become the anchors to my faith and testimony, each one confirmed to me by revelation through the Holy Ghost. However, for a few minutes I would like to focus on two of these cornerstone gifts—the First Vision and the Book of Mormon. It is significant that each begins in a family setting where children were born of goodly parents and were taught well by them (see <a href="/scriptures/bofm/1-ne/1.1" class="scriptureRef">1 Nephi 1:1</a>). Events in the lives of Lehi and Joseph Smith parallel each other (see <a href="/scriptures/bofm/1-ne/1" class="scriptureRef">1 Nephi 1</a> and <a href="/scriptures/pgp/js-h/1" class="scriptureRef">Joseph Smith—History 1</a>):</p>
-      </div>
-      <div class="figure" uri="/general-conference/2010/10/the-holy-ghost-and-revelation.f2">
-	<ul class="bullet">
-	  <li pid="Q7czJrkZfkydN-DVOTkshw" hash="WjceFg">
-          <span class="label">•</span>
-          <p pid="ZZ8t4dUBokeDQ78UXmIGVg" hash="nGV_eA">Each has a specific need. Lehi’s is to save himself and his family from Jerusalem’s imminent destruction, and Joseph Smith’s is to know which church is true.</p>
-        </li>
-	  <li pid="bZeL5wYUmEip2-cJLANdHQ" hash="RSkYzw">
-          <span class="label">•</span>
-          <p pid="jJMDFq-TtkWTyHSWkTmvBA" hash="QkXDrg">Each prays.</p>
-        </li>
-	  <li pid="UU8amMiP80qCpRCM018d3g" hash="0M2tnw">
-          <span class="label">•</span>
-          <p pid="e-ij1eBSYkCW73mxTVI8jA" hash="QEStrg">Each has a vision of the Father and the Son.</p>
-        </li>
-	  <li pid="ihJMuSuqJ0y5QR-9y6OKdQ" hash="6rm62Q">
-          <span class="label">•</span>
-          <p pid="KzLgbVNowE-nlun3gM1BkA" hash="3XfhKQ">To each is given a book.</p>
-        </li>
-	  <li pid="lSuwTX6ZPkuJ2U7eTE5IPg" hash="u6b5Zw">
-          <span class="label">•</span>
-          <p pid="n978wy9qVUuCqDJbSneHVw" hash="LA2YWA">Both preach.</p>
-        </li>
-	  <li pid="IzWES_m1W0ys7Q8_vJjIqQ" hash="iL12QQ">
-          <span class="label">•</span>
-          <p pid="B3ZgCZ1kwEW2BLjMCPfkRg" hash="ta86uA">Each receives revelation from the Holy Ghost and by visions or dreams.</p>
-        </li>
-	  <li pid="JFZyldt3pUis_bQPTviszQ" hash="Fn6ntQ">
-          <span class="label">•</span>
-          <p pid="e5B2hgxSQUaI15EFdp-2kw" hash="2ZxA-A">Finally, wicked people threaten them. Lehi and his people escape and survive. Joseph is martyred.</p>
-        </li>
-	</ul>
-      </div>
-      <div class="topic" uri="/general-conference/2010/10/the-holy-ghost-and-revelation.t5">
-        <p class="para" uri="/general-conference/2010/10/the-holy-ghost-and-revelation.p19" pid="UcZKSSO5p0mEEdk5PSg5jg" hash="ciYFKg">Is it any wonder that missionaries invite sincere seekers of truth to begin their study of the Book of Mormon in 1 Nephi? This book is <span class="emphasis">saturated</span> with the Spirit of the Lord. In these early chapters there is a clear message that revelation and the Holy Ghost are given not only to prophets but also to fathers and mothers and children.</p>
-        <p class="para" uri="/general-conference/2010/10/the-holy-ghost-and-revelation.p20" pid="0xW3pVFYTU2XOBv3xTmHcw" hash="rgDvzw">The message about revelation and the Holy Ghost continues throughout the Book of Mormon. These truths are summarized by the Prophet Joseph Smith: “Take away the Book of Mormon and the revelations, and where is our religion? We have none” (<span class="emphasis">Teachings of Presidents of the Church: Joseph Smith</span> [2007], 196).</p>
-        <p class="para" uri="/general-conference/2010/10/the-holy-ghost-and-revelation.p21" pid="xih9jDuU6UyO9Cors7XChA" hash="SpZv_Q">As Latter-day Saints, we have testimonies of the Book of Mormon given to us by revelation, assuring us that this religion and its doctrines are true (see introduction to the Book of Mormon).</p>
-      </div>
-      <p class="para" uri="/general-conference/2010/10/the-holy-ghost-and-revelation.p22" pid="MKhyXqbBI0aIBhRFxCbuXg" hash="2DwJOw">The things of the Spirit are sacred and hard to express. We, like Ammon, declare, “Behold, I say unto you, I cannot say the smallest part which I feel” (<a href="/scriptures/bofm/alma/26.16" class="scriptureRef">Alma 26:16</a>).</p>
-      <p class="para" uri="/general-conference/2010/10/the-holy-ghost-and-revelation.p23" pid="TDDuB8rckUS8IY5dqfBo2Q" hash="le3YDQ">However, I witness that the Holy Ghost is real and He is the testator, revelator, comforter, guide, and supernal teacher.</p>
-      <p class="para" uri="/general-conference/2010/10/the-holy-ghost-and-revelation.p24" pid="erC06by7MU6DJ8v4nFosFQ" hash="SIluFw">Humbly I bear witness that this true and living Church, this religion, rests on these four cornerstones. I testify that Jesus Christ is in very deed the chief cornerstone (see <a href="/scriptures/nt/eph/2.19-21" class="scriptureRef">Ephesians 2:19–21</a>). President Thomas S. Monson is the Lord’s prophet, and these 15 men seated behind me are prophets, seers, apostles, and revelators. They hold the holy priesthood and keys of the kingdom. I love, honor, and sustain them. In the name of Jesus Christ, amen.</p>
-    </div>
-  </div>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="77"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/57e98813f7fde2b699f6510a19a8717046be7fc4/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/57e98813f7fde2b699f6510a19a8717046be7fc4/full/%21192%2C/0/default" data-video-title="The Holy Ghost and Revelation" data-video-description="The Holy Ghost is the third member of the Godhead, and with the Father and the Son, He knows all things." data-video-id="2397109013001" data-ip="Download and Streaming                            " data-duration="589889" data-assetId="35f9ddfa620e897c0fce7055cdf469c3aa7bd3dc" data-ref-id="35f9ddfa620e897c0fce7055cdf469c3aa7bd3dc" data-duration-string="9:49" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/2397109013001.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="231557721"/><source src="https://assets.churchofjesuschrist.org/35f9ddfa620e897c0fce7055cdf469c3aa7bd3dc-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="28519897"/><source src="https://assets.churchofjesuschrist.org/35f9ddfa620e897c0fce7055cdf469c3aa7bd3dc-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="62352338"/><source src="https://assets.churchofjesuschrist.org/35f9ddfa620e897c0fce7055cdf469c3aa7bd3dc-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="231557721"/></video><h1 data-aid="28848896" id="title1">The Holy Ghost and Revelation</h1>
+<div class="byline">
+<p class="author-name" data-aid="28848897" id="p1">By Elder Jay E. Jensen</p>
+<p class="author-role" data-aid="28848898" id="p2">Of the Presidency of the Seventy</p>
+<div class="image-cropper"><img alt="Elder Jay E. Jensen" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/c4106f660f8211ec89f8eeeeac1ec0ed9c490516/full/%21100%2C/0/default" data-assetId="c4106f660f8211ec89f8eeeeac1ec0ed9c490516" srcset="https://www.churchofjesuschrist.org/imgs/c4106f660f8211ec89f8eeeeac1ec0ed9c490516/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/c4106f660f8211ec89f8eeeeac1ec0ed9c490516/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/c4106f660f8211ec89f8eeeeac1ec0ed9c490516/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/c4106f660f8211ec89f8eeeeac1ec0ed9c490516/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/c4106f660f8211ec89f8eeeeac1ec0ed9c490516/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/c4106f660f8211ec89f8eeeeac1ec0ed9c490516/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/c4106f660f8211ec89f8eeeeac1ec0ed9c490516/full/%21640%2C/0/default 640w" data-img-id="c4106f660f8211ec89f8eeeeac1ec0ed9c490516" data-missing-asset="false" data-width="100" data-height="120" data-aspect-ratio="0.8333333333333334" data-public-title="Jensen, Jay E." data-public-description="Final official portrait of Elder Jay E. Jensen of the First Quorum of the Seventy, 2008.Called to Presidency of the Seventy effective August 1, 2008.  Sustained at the October 2008 general conference.Given emeritus status at the October 2012 general conference."/></div>
+</div>
+<p class="kicker" data-aid="28848899" id="kicker1">The Holy Ghost is the third member of the Godhead, and with the Father and the Son, He knows all things.</p>
+</header>
+<div class="body-block">
+<p data-aid="28848900" id="p3">As a young elder, I had been in the mission field about one year, and while reading scriptures and words of the latter-day Apostles about revelation and the Holy Ghost, I had a stunning awakening. I did not have a testimony of my own, specifically of the Father and the Son. I went on my mission living on the borrowed light of my wonderful parents. Never doubting their words, I had not thought about seeking my own spiritual witness. On a February night in San Antonio, Texas, in 1962, I knew that I had to know for myself. In our small apartment I found a place where I could quietly pray out loud, pleading, “Heavenly Father, are You there? I must know for myself!”</p>
+<p data-aid="28848901" id="p4">Sometime later that night I came to know for myself for the first time in my life that God and Jesus are real. I did not hear an audible voice nor see a heavenly being. I knew in the same way you too may have come to know—which is “by the unspeakable gift of the Holy Ghost” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/121?lang=eng&amp;id=p26#p26">D&amp;C 121:26</a>) and the spirit of revelation (see <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/8?lang=eng&amp;id=p1-p3#p1">D&amp;C 8:1–3</a>) speaking peace to my mind (see <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/6?lang=eng&amp;id=p23#p23">D&amp;C 6:23</a>) and assurances to my heart (see <a class="scripture-ref" href="/study/scriptures/bofm/alma/58?lang=eng&amp;id=p11#p11">Alma 58:11</a>).</p>
+<p data-aid="28848902" id="p5">From that experience I witnessed the results of Alma’s counsel to “awake and arouse [my] faculties … to [conduct] an experiment upon [His] words” (<a class="scripture-ref" href="/study/scriptures/bofm/alma/32?lang=eng&amp;id=p27#p27">Alma 32:27</a>). These words or seeds have grown into trees, indeed giant trees of testimony. The process continues with more experiments upon the word, resulting in additional trees of testimony, now a veritable forest based on revelation through and by the Holy Ghost.</p>
+<section>
+<header>
+<h2 data-aid="28848903" id="title2">The Holy Ghost Is a Desired Gift</h2>
+</header>
+<p data-aid="28848904" id="p6">When the Savior visited the Americas, He called twelve disciples. One of His messages to them and the people was about the Holy Ghost. After teaching them, the Savior departed and promised to return the next day. The people worked through the night to gather as many as possible to hear Him.</p>
+<p data-aid="28848905" id="p7">The disciples gathered the people into 12 groups to teach them what the Savior taught them. Foremost among their teachings was the importance of the Holy Ghost. (See <a class="scripture-ref" href="/study/scriptures/bofm/3-ne/11?lang=eng">3 Nephi 11–19</a>.) Then the people knelt and prayed. Their heartfelt desire was to be given the Holy Ghost (see <a class="scripture-ref" href="/study/scriptures/bofm/3-ne/19?lang=eng&amp;id=p8-p9#p8">3 Nephi 19:8–9</a>).</p>
+<span class="page-break" data-page="78"></span>
+<p data-aid="28848906" id="p8">The Savior appeared to them and reinforced the importance of the Holy Ghost as He prayed to the Father:</p>
+<p data-aid="28848907" id="p9">“Father, I thank thee that thou hast given the Holy Ghost unto these whom I have chosen. …</p>
+<p data-aid="28848908" id="p10">“Father, I pray thee that thou wilt give the Holy Ghost unto all them that shall believe in their words” (<a class="scripture-ref" href="/study/scriptures/bofm/3-ne/19?lang=eng&amp;id=p20-p21#p20">3 Nephi 19:20–21</a>).</p>
+<p data-aid="28848909" id="p11">Based on this Book of Mormon event, I understand better why President Wilford Woodruff said that “the gift of the Holy Ghost is the greatest gift that can be bestowed upon man. …</p>
+<p data-aid="28848910" id="p12">“… [It] is not restricted to men, nor to apostles or prophets; it belongs to every faithful man and woman, and to every child who is old enough to receive the gospel of Christ” (<em>Teachings of Presidents of the Church: Wilford Woodruff</em> [2004], 49).</p>
+</section>
+<section>
+<header>
+<h2 data-aid="28848911" id="title3">Revelation Provides Answers in Times of Need</h2>
+</header>
+<p data-aid="28848912" id="p13">The Holy Ghost is the third member of the Godhead, and with the Father and the Son, He knows all things (see <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/35?lang=eng&amp;id=p19#p19">D&amp;C 35:19</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/42?lang=eng&amp;id=p17#p17">42:17</a>). He has several important roles; foremost among them is to teach and testify of the Father and the Son (see <a class="scripture-ref" href="/study/scriptures/bofm/3-ne/28?lang=eng&amp;id=p11#p11">3 Nephi 28:11</a>). Other roles are that He reveals the truth of all things (see <a class="scripture-ref" href="/study/scriptures/bofm/moro/10?lang=eng&amp;id=p5#p5">Moroni 10:5</a>) and He leads to do good (see <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/11?lang=eng&amp;id=p12#p12">D&amp;C 11:12</a>).</p>
+<p data-aid="28848913" id="p14">President Thomas S. Monson exemplifies this important role of being led to do good. He follows the example of the Savior, “who went about doing good” (<a class="scripture-ref" href="/study/scriptures/nt/acts/10?lang=eng&amp;id=p38#p38">Acts 10:38</a>). He has taught the importance of not ignoring a spiritual prompting from the Holy Ghost to visit someone and to minister to him or her and to rescue the one.</p>
+<p data-aid="28848914" id="p15">But sometimes there is no one like President Monson, no home teacher, no caring sister available to minister in time of need. In those situations I have come to find solace and direction from the Comforter, another role of the Holy Ghost (see <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/36?lang=eng&amp;id=p2#p2">D&amp;C 36:2</a>).</p>
+<p data-aid="28848915" id="p16">Our grandson Quinton was born with multiple birth defects and lived three weeks short of a year, during which time he was in and out of the hospital. Sister Jensen and I were living in Argentina at that time. We truly wanted to be there with our children to comfort them and be comforted by them. This was our grandchild, whom we loved and wanted to be near. We could only pray, and we did so fervently!</p>
+<p data-aid="28848916" id="p17">Sister Jensen and I were on a mission tour when we received word Quinton had died. We stood in the hallway of a meetinghouse and hugged and comforted each other. I witness to you that assurances came to us from the Holy Ghost, a peace which passes all understanding and continues to this day (see <a class="scripture-ref" href="/study/scriptures/nt/philip/4?lang=eng&amp;id=p7#p7">Philippians 4:7</a>). We also witnessed the unspeakable gift of the Holy Ghost in the lives of our son and daughter-in-law and their children, who to this day speak of that time with such faith, peace, and comfort.</p>
+</section>
+<section>
+<header>
+<h2 data-aid="28848917" id="title4">Revelation and the Book of Mormon</h2>
+</header>
+<p data-aid="28848918" id="p18">That same gift of revelation has influenced my testimony of the Book of Mormon. I have read, studied, searched, and feasted upon it again and again. The Holy Ghost has revealed to me its truth and divinity.</p>
+<p data-aid="28848919" id="p19">President Gordon B. Hinckley called the Book of Mormon one of the four essential cornerstones of the Church, the others being Joseph Smith’s First Vision, the restoration of the priesthood, and of course our testimony of Jesus Christ, the chief cornerstone (see <span class="page-break" data-page="79"></span><a class="scripture-ref" href="/study/scriptures/nt/eph/2?lang=eng&amp;id=p19-p21#p19">Ephesians 2:19–21</a>). “These four great God-given gifts,” he explained, “are the unshakable cornerstones which anchor The Church of Jesus Christ of Latter-day Saints, as well as the individual testimonies and convictions of its members” (“Four Cornerstones of Faith,” <em>Liahona</em> and <em>Ensign,</em> Feb. 2004, 7).</p>
+<p data-aid="28848920" id="p20">These four God-given gifts have become the anchors to my faith and testimony, each one confirmed to me by revelation through the Holy Ghost. However, for a few minutes I would like to focus on two of these cornerstone gifts—the First Vision and the Book of Mormon. It is significant that each begins in a family setting where children were born of goodly parents and were taught well by them (see <a class="scripture-ref" href="/study/scriptures/bofm/1-ne/1?lang=eng&amp;id=p1#p1">1 Nephi 1:1</a>). Events in the lives of Lehi and Joseph Smith parallel each other (see <a class="scripture-ref" href="/study/scriptures/bofm/1-ne/1?lang=eng">1 Nephi 1</a> and <a class="scripture-ref" href="/study/scriptures/pgp/js-h/1?lang=eng">Joseph Smith—History 1</a>):</p>
+<ul class="bullet">
+<li>
+<p data-aid="28848921" id="p21">Each has a specific need. Lehi’s is to save himself and his family from Jerusalem’s imminent destruction, and Joseph Smith’s is to know which church is true.</p>
+</li>
+<li>
+<p data-aid="28848922" id="p22">Each prays.</p>
+</li>
+<li>
+<p data-aid="28848923" id="p23">Each has a vision of the Father and the Son.</p>
+</li>
+<li>
+<p data-aid="28848924" id="p24">To each is given a book.</p>
+</li>
+<li>
+<p data-aid="28848925" id="p25">Both preach.</p>
+</li>
+<li>
+<p data-aid="28848926" id="p26">Each receives revelation from the Holy Ghost and by visions or dreams.</p>
+</li>
+<li>
+<p data-aid="28848927" id="p27">Finally, wicked people threaten them. Lehi and his people escape and survive. Joseph is martyred.</p>
+</li>
+</ul>
+<p data-aid="28848928" id="p28">Is it any wonder that missionaries invite sincere seekers of truth to begin their study of the Book of Mormon in 1 Nephi? This book is <em>saturated</em> with the Spirit of the Lord. In these early chapters there is a clear message that revelation and the Holy Ghost are given not only to prophets but also to fathers and mothers and children.</p>
+<p data-aid="28848929" id="p29">The message about revelation and the Holy Ghost continues throughout the Book of Mormon. These truths are summarized by the Prophet Joseph Smith: “Take away the Book of Mormon and the revelations, and where is our religion? We have none” (<em>Teachings of Presidents of the Church: Joseph Smith</em> [2007], 196).</p>
+<p data-aid="28848930" id="p30">As Latter-day Saints, we have testimonies of the Book of Mormon given to us by revelation, assuring us that this religion and its doctrines are true (see introduction to the Book of Mormon).</p>
+</section>
+<p data-aid="28848931" id="p31">The things of the Spirit are sacred and hard to express. We, like Ammon, declare, “Behold, I say unto you, I cannot say the smallest part which I feel” (<a class="scripture-ref" href="/study/scriptures/bofm/alma/26?lang=eng&amp;id=p16#p16">Alma 26:16</a>).</p>
+<p data-aid="28848932" id="p32">However, I witness that the Holy Ghost is real and He is the testator, revelator, comforter, guide, and supernal teacher.</p>
+<p data-aid="28848933" id="p33">Humbly I bear witness that this true and living Church, this religion, rests on these four cornerstones. I testify that Jesus Christ is in very deed the chief cornerstone (see <a class="scripture-ref" href="/study/scriptures/nt/eph/2?lang=eng&amp;id=p19-p21#p19">Ephesians 2:19–21</a>). President Thomas S. Monson is the Lord’s prophet, and these 15 men seated behind me are prophets, seers, apostles, and revelators. They hold the holy priesthood and keys of the kingdom. I love, honor, and sustain them. In the name of Jesus Christ, amen.</p>
 </div>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/2010/10/the-holy-ghost-and-revelation</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/october-2010-general-conference/2010-10-4030-elder-jay-e-jensen-64k-eng.mp3" length="4690600" type="audio/mpeg"/>
-      <pubDate>Sun, 03 Oct 2010 10:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/f897a09b32d511ecb675eeeeac1e6a6935203587-64k-en.mp3" length="4958509" type="audio/mpeg"/>
+      <pubDate>Sun, 03 Oct 2010 10:00:00 -0600</pubDate>
+      <itunes:author>Jay E. Jensen</itunes:author>
     </item>
   </channel>
 </rss>

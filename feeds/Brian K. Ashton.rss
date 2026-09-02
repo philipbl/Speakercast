@@ -1,73 +1,598 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Talks By Brian K. Ashton</title>
-    <link>http://philip.lundrigan.org/Speakercast/</link>
+    <link>https://philip.lundrigan.org/Speakercast/</link>
     <description>General Conference talks by Brian K. Ashton.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Speakercast</generator>
     <image>
-      <url>http://philip.lundrigan.org/Speakercast/covers/Brian%20K.%20Ashton.jpg</url>
+      <url>https://philip.lundrigan.org/Speakercast/covers/Brian%20K.%20Ashton.jpg</url>
       <title>General Conference talks by Brian K. Ashton.</title>
-      <link>http://philip.lundrigan.org/Speakercast/</link>
+      <link>https://philip.lundrigan.org/Speakercast/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 02 Oct 2016 14:00:00 -0700</lastBuildDate>
-    <pubDate>Sun, 02 Oct 2016 14:00:00 -0700</pubDate>
+    <lastBuildDate>Sun, 07 Oct 2018 14:00:00 -0600</lastBuildDate>
+    <pubDate>Sun, 07 Oct 2018 14:00:00 -0600</pubDate>
+    <itunes:author>Brian K. Ashton</itunes:author>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
+    <itunes:image href="https://philip.lundrigan.org/Speakercast/covers/Brian%20K.%20Ashton.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>General Conference talks by Brian K. Ashton.</itunes:summary>
     <item>
       <title>The Doctrine of Christ</title>
-      <link>http://www.lds.org/general-conference/2016/10/the-doctrine-of-christ?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2016/10/the-doctrine-of-christ?lang=eng</link>
       <description>Brother Ashton teaches that the doctrine of Christ includes faith, repentance, baptism, the sacrament, the gift of the Holy Ghost, and enduring to the end.</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/2016/10/the-doctrine-of-christ" dup-conf="false" dup-mag="false" schema-version="1" doc-id="general-conference_PD60001311_000_62ashton" doc-version="2" hash="pCQCZg">
-	
-	<div class="heading" uri="/general-conference/2016/10/the-doctrine-of-christ.head1">
-		<h1 class="title" pid="CnBI838uPEqUihg3E4kdNQ" hash="k5Brug">The Doctrine of Christ</h1>
-		<div class="byline">
-			<p class="para" uri="/general-conference/2016/10/the-doctrine-of-christ.p2" pid="dHpsqMm5OEGDR4vIhpUNRQ" hash="KFWnQg1">By Brian K. Ashton</p>
-			<p class="para" uri="/general-conference/2016/10/the-doctrine-of-christ.p3" pid="Tc6CDFPJ7kSili5jEBl-1g" hash="IEw8LA">Second Counselor in the Sunday School General Presidency</p>
-		</div>
-		<p class="kicker" pid="_SIOfPXZ50CMXSj7t4smjw" hash="LYfjTw">The doctrine of Christ allows us to access the spiritual power that will lift us from our current spiritual state to a state where we can become perfected.</p>
-		<p class="authorName" pid="zP-BHBuOJ0iX8nzRbKCM4g" hash="KFWnQg">By Brian K. Ashton</p>
-	</div>
-	<div class="bodyBlock">
-		<p class="para" uri="/general-conference/2016/10/the-doctrine-of-christ.p5" pid="kCNdTHvwrkau7NHxyCiuag" hash="bgZd5w">Jesus’s visit to the Nephites after His Resurrection was carefully organized to teach us the things of greatest importance. It began with the Father testifying to the people that Jesus was His “Beloved Son, in whom [He was] well pleased.”<span class="noteMarker" ref="f_1">1</span> Then Jesus Himself descended and testified of His atoning sacrifice,<span class="noteMarker" ref="f_2">2</span> inviting the people to “know of a surety” that He was the Christ by coming forth and feeling the wound mark in His side and the prints of the nails in His hands and feet.<span class="noteMarker" ref="f_3">3</span> These testimonies established without doubt that Jesus’s Atonement was complete and that the Father had fulfilled His covenant to provide a Savior. Jesus then taught the Nephites how to obtain all the blessings of the Father’s plan of happiness, which are made available to us because of the Savior’s Atonement, by teaching them the doctrine of Christ.<span class="noteMarker" ref="f_4">4</span></p>
-		<p class="para" uri="/general-conference/2016/10/the-doctrine-of-christ.p6" pid="HYFGCpWKxEGYYcDHskQQ1g" hash="kRqMbA">My message today focuses on the doctrine of Christ. The scriptures define the doctrine of Christ as exercising faith in Jesus Christ and His Atonement, repenting, being baptized, receiving the gift of the Holy Ghost, and enduring to the end.<span class="noteMarker" ref="f_5">5</span></p>
-		<div class="topic" uri="/general-conference/2016/10/the-doctrine-of-christ.t1">
-			<h2 pid="p1WP6SAM00eaajOyvACGTg" hash="XvdzNg">The Doctrine of Christ Allows Us to Obtain the Blessings of Christ’s Atonement</h2>
-			<p class="para" uri="/general-conference/2016/10/the-doctrine-of-christ.p8" pid="ErQ9IGA1GkG7vAqwRjA8Cg" hash="oKGqog">The Atonement of Christ creates the conditions upon which we may rely upon “the merits, and mercy, and grace of the Holy Messiah,”<span class="noteMarker" ref="f_6">6</span> “be perfected in [Christ],”<span class="noteMarker" ref="f_7">7</span> obtain every good thing,<span class="noteMarker" ref="f_8">8</span> and gain eternal life.<span class="noteMarker" ref="f_9">9</span></p>
-			<p class="para" uri="/general-conference/2016/10/the-doctrine-of-christ.p9" pid="7rka3yuM60uTKvR79WDzSA" hash="slIMFA">The doctrine of Christ on the other hand is the means—the only means—by which we can obtain all of the blessings made available to us through Jesus’s Atonement. It is the doctrine of Christ that allows us to access the spiritual power that will lift us from our current spiritual state to a state where we can become perfected like the Savior.<span class="noteMarker" ref="f_10">10</span> Of this process of rebirth, Elder D. Todd Christofferson has taught: “Being born again, unlike our physical birth, is more a process than an event. And engaging in that process is the central purpose of mortality.”<span class="noteMarker" ref="f_11">11</span></p>
-			<p class="para" uri="/general-conference/2016/10/the-doctrine-of-christ.p10" pid="AWxFbwp5NkqoIC7scus_zw" hash="ni1Ncw">Let’s explore each element of the doctrine of Christ.</p>
-			<p class="para" uri="/general-conference/2016/10/the-doctrine-of-christ.p11" pid="N-yjYzWSy06Sf1khM2YtIg" hash="bD27zg"><span class="strong">First, faith in Jesus Christ and His Atonement.</span> The prophets have taught that faith begins by hearing the word of Christ.<span class="noteMarker" ref="f_12">12</span> The words of Christ testify of His atoning sacrifice and tell us how we may obtain forgiveness, blessings, and exaltation.<span class="noteMarker" ref="f_13">13</span></p>
-			<p class="para" uri="/general-conference/2016/10/the-doctrine-of-christ.p12" pid="46kwKgFK8E-vNHBf_6baCg" hash="o9RUsw">Upon hearing the words of Christ, we exercise faith by choosing to follow the teachings and example of the Savior.<span class="noteMarker" ref="f_14">14</span> To do this, Nephi taught that we must rely “wholly upon the merits of [Christ,] who is mighty to save.”<span class="noteMarker" ref="f_15">15</span> Because Jesus was a God in the premortal existence,<span class="noteMarker" ref="f_16">16</span> lived a sinless life,<span class="noteMarker" ref="f_17">17</span> and during His Atonement satisfied all the demands of justice for you and me,<span class="noteMarker" ref="f_18">18</span> He has the power and keys to bring about the resurrection of all men,<span class="noteMarker" ref="f_19">19</span> and He made it possible for mercy to overpower justice upon conditions of repentance.<span class="noteMarker" ref="f_20">20</span> Once we understand that we can obtain mercy through Christ’s merits, we are able to “have faith unto repentance.”<span class="noteMarker" ref="f_21">21</span> To rely wholly upon Christ’s merits then is to trust that He did what was necessary to save us and then to act upon our belief.<span class="noteMarker" ref="f_22">22</span></p>
-			<p class="para" uri="/general-conference/2016/10/the-doctrine-of-christ.p13" pid="iydY8KiuQ0qiGAGNFQTuVg" hash="8E7J-w">Faith also causes us to stop worrying so much about what others think of us and begin to care far more about what God thinks of us.</p>
-			<p class="para" uri="/general-conference/2016/10/the-doctrine-of-christ.p14" pid="YgZ4KyvPVkaiH-sCOlbXYw" hash="Dgys1A"><span class="strong">Second, repentance.</span> Samuel the Lamanite taught, “If ye believe on [Christ’s] name ye will repent of all your sins.”<span class="noteMarker" ref="f_23">23</span> Repentance is a precious gift from our Heavenly Father that is made possible through the sacrifice of His Only Begotten Son. It is the process that the Father has given us by which we change, or turn, our thoughts, actions, and our very being so that we become more and more like the Savior.<span class="noteMarker" ref="f_24">24</span> It is not just for big sins but is a daily process of self-evaluation and improvement<span class="noteMarker" ref="f_25">25</span> that helps us to overcome our sins, our imperfections, our weaknesses, and our inadequacies.<span class="noteMarker" ref="f_26">26</span> Repentance causes us to become “true followers” of Christ, which fills us with love<span class="noteMarker" ref="f_27">27</span> and casts out our fears.<span class="noteMarker" ref="f_28">28</span> Repentance is not a backup plan just in case our plan to live perfectly fails.<span class="noteMarker" ref="f_29">29</span> Continual repentance is the only path that can bring us lasting joy and enable us to return to live with our Heavenly Father.</p>
-			<p class="para" uri="/general-conference/2016/10/the-doctrine-of-christ.p15" pid="ZDb9esrPWE6tL69y-UdTVQ" hash="etYynw">Through repentance we become submissive and obedient to God’s will. Now, this is not done alone. A recognition of God’s goodness and our nothingness,<span class="noteMarker" ref="f_30">30</span> combined with our best efforts to align our behavior with God’s will,<span class="noteMarker" ref="f_31">31</span> brings grace into our lives.<span class="noteMarker" ref="f_32">32</span> Grace “is divine means of help or strength, given through the bounteous mercy and love of Jesus Christ … to do good works that [we] otherwise would not be able to maintain if left to [our] own means.”<span class="noteMarker" ref="f_33">33</span> Because repentance is really about becoming like the Savior, which is impossible on our own, we desperately need the Savior’s grace in order to make necessary changes in our lives.</p>
-			<p class="para" uri="/general-conference/2016/10/the-doctrine-of-christ.p16" pid="e94ak6AcCkGge-WBK6CDCw" hash="L5p4sw">As we repent, we replace our old, unrighteous behaviors, weaknesses, imperfections, and fears with new behaviors and beliefs that draw us closer to the Savior and help us to become like Him.</p>
-			<p class="para" uri="/general-conference/2016/10/the-doctrine-of-christ.p17" pid="VxY3ZUGnKEqTH5lbtConsQ" hash="1R0-RQ"><span class="strong">Third, baptism and the sacrament. </span>The prophet Mormon taught that “the first fruits of repentance is baptism.”<span class="noteMarker" ref="f_34">34</span> To be complete, repentance must be combined with the ordinance of baptism administered by someone who holds the priesthood authority of God. For members of the Church, the covenants made at baptism and other occasions are renewed as we partake of the sacrament.<span class="noteMarker" ref="f_35">35</span></p>
-			<p class="para" uri="/general-conference/2016/10/the-doctrine-of-christ.p18" pid="SFbTiEgsNEGK55cqe_dKag" hash="l0DVkg">In the ordinances of baptism and the sacrament, we covenant to keep the commandments of the Father and the Son, always remember Christ, and be willing to take Christ’s name (or His work and attributes<span class="noteMarker" ref="f_36">36</span>) upon us.<span class="noteMarker" ref="f_37">37</span> The Savior, in return, covenants to forgive, or remit, our sins<span class="noteMarker" ref="f_38">38</span> and “pour out his Spirit more abundantly upon [us].”<span class="noteMarker" ref="f_39">39</span> Christ also promises to prepare us for eternal life by helping us become like Him.<span class="noteMarker" ref="f_40">40</span></p>
-			<p class="para" uri="/general-conference/2016/10/the-doctrine-of-christ.p19" pid="GdeD5VeCGUmPUVc4MUxJoQ" hash="1Gjxew">Douglas D. Holmes, First Counselor in the Young Men General Presidency, has written: “The ordinances of baptism and the sacrament symbolize both the end result and process of being born again. In baptism, we bury the old man of flesh and come forth to a newness of life.<span class="noteMarker" ref="f_41">41</span> In the sacrament, we learn that this change is a step-by-step process, [where] little by little, week by week, we are transformed as we repent, covenant, and through increased endowments of the Spirit [become like the Savior].”<span class="noteMarker" ref="f_42">42</span></p>
-			<p class="para" uri="/general-conference/2016/10/the-doctrine-of-christ.p20" pid="eiNKmejq50q3ItSqHy8VtQ" hash="1K6eTQ">Ordinances and covenants are essential within the doctrine of Christ. It is through worthily receiving the ordinances of the priesthood and keeping the associated covenants that the power of godliness is manifest in our lives.<span class="noteMarker" ref="f_43">43</span> Elder D. Todd Christofferson explained that “this ‘power of godliness’ comes in the person and by the influence of the Holy Ghost.”<span class="noteMarker" ref="f_44">44</span></p>
-			<p class="para" uri="/general-conference/2016/10/the-doctrine-of-christ.p21" pid="A2nAgrGMA06LGAB3lW28bw" hash="bJxt_w"><span class="strong">Fourth, the gift of the Holy Ghost.</span> After baptism we are given the gift of the Holy Ghost through the ordinance of confirmation.<span class="noteMarker" ref="f_45">45</span> This gift, if we receive it, allows us to have the constant companionship of a God<span class="noteMarker" ref="f_46">46</span> and continual access to the grace that inherently comes with His influence.</p>
-			<p class="para" uri="/general-conference/2016/10/the-doctrine-of-christ.p22" pid="D1hVbhjfaUKWxguCKCS2dQ" hash="lF9Qrw">As our constant companion, the Holy Ghost gives us additional power or strength to keep our covenants.<span class="noteMarker" ref="f_47">47</span> He also sanctifies us,<span class="noteMarker" ref="f_48">48</span> which means to make us “free from sin, pure, clean, and holy through the atonement of Jesus Christ.”<span class="noteMarker" ref="f_49">49</span> The process of sanctification not only cleanses us, but it also endows us with needed spiritual gifts or divine attributes of the Savior<span class="noteMarker" ref="f_50">50</span> and changes our very nature,<span class="noteMarker" ref="f_51">51</span> such “that we have no more disposition to do evil.”<span class="noteMarker" ref="f_52">52</span> Each time we receive the Holy Ghost into our lives through faith, repentance, ordinances, Christlike service, and other righteous endeavors, we are changed until step by step, little by little we become like Christ.<span class="noteMarker" ref="f_53">53</span></p>
-			<p class="para" uri="/general-conference/2016/10/the-doctrine-of-christ.p23" pid="LaSS7z53WU63VA-4SLd_mg" hash="gmcmzg"><span class="strong">Fifth, enduring to the end. </span>The prophet Nephi taught that after receiving the gift of the Holy Ghost, we must “endure to the end, in following the example of the Son of the living God.”<span class="noteMarker" ref="f_54">54</span> Elder Dale G. Renlund described the process of enduring to the end as follows: “We may be perfected by repeatedly and iteratively … exercising faith in [Christ], repenting, partaking of the sacrament to renew the covenants and blessings of baptism, and receiving the Holy Ghost as a constant companion to a greater degree. As we do so, we become more like Christ and are able to endure to the end, with all that that entails.”<span class="noteMarker" ref="f_55">55</span></p>
-			<p class="para" uri="/general-conference/2016/10/the-doctrine-of-christ.p24" pid="nUfH5YYrZk6JRndyTJhi3Q" hash="MIcwTw">In other words, the reception of the Holy Ghost and the change that reception creates in us further builds our faith. Increased faith leads to additional repentance. As we then symbolically sacrifice our hearts and our sins upon the sacrament altar, we receive the Holy Ghost to a greater degree. Receiving the Holy Ghost to a greater degree further moves us along the path of being born again. As we continue in this process and obtain all the saving ordinances and covenants of the gospel, we receive “grace for grace” until we receive a fulness.<span class="noteMarker" ref="f_56">56</span></p>
-		</div>
-		<div class="topic" uri="/general-conference/2016/10/the-doctrine-of-christ.t2">
-			<h2 pid="5K0Q9bhl9E-wbN7l7DjDAQ" hash="6WVjqg">We Must Apply the Doctrine of Christ in Our Lives</h2>
-			<p class="para" uri="/general-conference/2016/10/the-doctrine-of-christ.p26" pid="bPgojNiLpECwMk1j7VNfQw" hash="kGWyhw">Brothers and sisters, as we apply the doctrine of Christ in our lives, we are blessed both temporally and spiritually, even in trials. Eventually we are able to “lay hold upon every good thing.”<span class="noteMarker" ref="f_57">57</span> I testify that this process has happened and continues to happen in my own life, step by step, little by little.</p>
-			<p class="para" uri="/general-conference/2016/10/the-doctrine-of-christ.p27" pid="lV-T_1dN20eWHwYgsONAKA" hash="tJ_XTg">But more importantly, we must apply the doctrine of Christ in our lives because it provides the only path back to our Heavenly Father. It is the only way to receive the Savior and become His sons and daughters.<span class="noteMarker" ref="f_58">58</span> In fact, the only way to be redeemed from sin and progress spiritually is to apply the doctrine of Christ in our lives.<span class="noteMarker" ref="f_59">59</span> Alternatively, the Apostle John taught that “whosoever … abideth not in the doctrine of Christ, hath not God.”<span class="noteMarker" ref="f_60">60</span> And Jesus Himself told the Nephite Twelve that if we fail to exercise faith in Christ, repent, be baptized, and endure to the end, we will be “hewn down and cast into the fire, from whence [we] can no more return.”<span class="noteMarker" ref="f_61">61</span></p>
-			<p class="para" uri="/general-conference/2016/10/the-doctrine-of-christ.p28" pid="mzFJm-vMc0eevC0IPyijFg" hash="pKiJdw">So how can we apply the doctrine of Christ more fully in our lives? One way would be to make a conscious effort each week to prepare for the sacrament by taking some time to prayerfully consider where we most need to improve. We could then bring a sacrifice of at least one thing that keeps us from being like Jesus Christ to the sacrament altar, pleading in faith for help, asking for necessary spiritual gifts, and covenanting to improve during the coming week.<span class="noteMarker" ref="f_62">62</span> As we do so, the Holy Ghost will come into our lives to a greater degree, and we will have additional strength to overcome our imperfections.</p>
-			<p class="para" uri="/general-conference/2016/10/the-doctrine-of-christ.p29" pid="9DcBp0ua00esLPYd83a6iw" hash="3mDSCQ">I testify that Jesus Christ is the Savior of the world and that His is the only name by which we can be saved.<span class="noteMarker" ref="f_63">63</span> All things that are good are made available only through Him.<span class="noteMarker" ref="f_64">64</span> But to actually “lay hold upon every good thing,”<span class="noteMarker" ref="f_65">65</span> including eternal life, we must continually apply the doctrine of Christ in our lives. In the sacred name of Jesus Christ, amen.</p>
-		</div>
-	</div>
-	
-</div>]]></content:encoded>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="106"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/9ae07d674612114e27949a526d12af73211c38d8/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/9ae07d674612114e27949a526d12af73211c38d8/full/%21192%2C/0/default" data-video-title="The Doctrine of Christ" data-video-description="Brother Ashton teaches that the doctrine of Christ includes faith, repentance, baptism, the sacrament, the gift of the Holy Ghost, and enduring to the end." data-video-id="5152465361001" data-ip="Download and Streaming                            " data-duration="668000" data-assetId="9e61a4be0880b471e41f81730a3976c6c8713e68" data-ref-id="9e61a4be0880b471e41f81730a3976c6c8713e68" data-duration-string="11:08" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/5152465361001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="152858559"/><source src="https://assets.churchofjesuschrist.org/9e61a4be0880b471e41f81730a3976c6c8713e68-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="34842098"/><source src="https://assets.churchofjesuschrist.org/9e61a4be0880b471e41f81730a3976c6c8713e68-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="61151380"/><source src="https://assets.churchofjesuschrist.org/9e61a4be0880b471e41f81730a3976c6c8713e68-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="152858559"/></video><h1 data-aid="129957268" id="title1">The Doctrine of Christ</h1>
+<div class="byline">
+<p class="author-name" data-aid="129957269" id="p1">By Brian K. Ashton</p>
+<p class="author-role" data-aid="129957270" id="p2">Second Counselor in the Sunday School General Presidency</p>
+<div class="image-cropper"><img alt="Brian K. Ashton" class="headshot" data-deprecate-web-url="brian-k-ashton-sunday-school_1587742.jpg" id="img1" src="https://www.churchofjesuschrist.org/imgs/c9b4bf9461251a7d44d28bc945ff5dec98ee1ff1/full/%21100%2C/0/default" data-assetId="c9b4bf9461251a7d44d28bc945ff5dec98ee1ff1" srcset="https://www.churchofjesuschrist.org/imgs/c9b4bf9461251a7d44d28bc945ff5dec98ee1ff1/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/c9b4bf9461251a7d44d28bc945ff5dec98ee1ff1/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/c9b4bf9461251a7d44d28bc945ff5dec98ee1ff1/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/c9b4bf9461251a7d44d28bc945ff5dec98ee1ff1/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/c9b4bf9461251a7d44d28bc945ff5dec98ee1ff1/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/c9b4bf9461251a7d44d28bc945ff5dec98ee1ff1/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/c9b4bf9461251a7d44d28bc945ff5dec98ee1ff1/full/%21640%2C/0/default 640w" data-img-id="c9b4bf9461251a7d44d28bc945ff5dec98ee1ff1" data-missing-asset="false" data-width="100" data-height="139" data-aspect-ratio="0.7194244604316546" data-public-title="Ashton, Brian K." data-public-description="Former Official portrait of  Brian K. Ashton, second counselor in the Sunday School general presidency, 2015 October.  Replaced April 2018." data-credit-line="Cody Bell, © 2015 by Intellectual Reserve, Inc.  All rights reserved."/></div>
+</div>
+<p class="kicker" data-aid="129957271" id="kicker1">The doctrine of Christ allows us to access the spiritual power that will lift us from our current spiritual state to a state where we can become perfected.</p>
+</header>
+<div class="body-block">
+<p data-aid="129957272" id="p3">Jesus’s visit to the Nephites after His Resurrection was carefully organized to teach us the things of greatest importance. It began with the Father testifying to the people that Jesus was His “Beloved Son, in whom [He was] well pleased.”<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a> Then Jesus Himself descended and testified of His atoning sacrifice,<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a> inviting the people to “know of a surety” that He was the Christ by coming forth and feeling the wound mark in His side and the prints of the nails in His hands and feet.<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a> These testimonies established without doubt that Jesus’s Atonement was complete and that the Father had fulfilled His covenant to provide a Savior. Jesus then taught the Nephites how to obtain all the blessings of the Father’s plan of happiness, which are made available to us because of the Savior’s Atonement, by teaching them the doctrine of Christ.<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a></p>
+<p data-aid="129957273" id="p4">My message today focuses on the doctrine of Christ. The scriptures define the doctrine of Christ as exercising faith in Jesus Christ and His Atonement, repenting, being baptized, receiving the gift of the Holy Ghost, and enduring to the end.<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a></p>
+<section>
+<header>
+<h2 data-aid="129957274" id="title2">The Doctrine of Christ Allows Us to Obtain the Blessings of Christ’s Atonement</h2>
+</header>
+<p data-aid="129957275" id="p5">The Atonement of Christ creates the conditions upon which we may rely upon “the merits, and mercy, and grace of the Holy Messiah,”<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a> “be perfected in [Christ],”<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a> obtain every good thing,<a class="note-ref" href="#note8"><sup class="marker" data-value="8"></sup></a> and gain eternal life.<a class="note-ref" href="#note9"><sup class="marker" data-value="9"></sup></a></p>
+<p data-aid="129957276" id="p6">The doctrine of Christ on the other hand is the means—the only means—by which we can obtain all of the blessings made available to us through Jesus’s Atonement. It is the doctrine of Christ that allows us to access the spiritual power that will lift us from our current spiritual state to a state where we can become perfected like the Savior.<a class="note-ref" href="#note10"><sup class="marker" data-value="10"></sup></a> Of this process of rebirth, Elder D. Todd Christofferson has taught: “Being born again, unlike our physical birth, is more a process than an event. And engaging in that process is the central purpose of mortality.”<a class="note-ref" href="#note11"><sup class="marker" data-value="11"></sup></a></p>
+<p data-aid="129957277" id="p7">Let’s explore each element of the doctrine of Christ.</p>
+<p data-aid="129957278" id="p8"><strong>First, faith in Jesus Christ and His Atonement.</strong> The prophets have taught that faith begins by hearing the word of Christ.<a class="note-ref" href="#note12"><sup class="marker" data-value="12"></sup></a> The words of Christ testify of His atoning sacrifice and tell us how we may obtain forgiveness, blessings, and exaltation.<a class="note-ref" href="#note13"><sup class="marker" data-value="13"></sup></a></p>
+<p data-aid="129957279" id="p9">Upon hearing the words of Christ, we exercise faith by choosing to follow the teachings and example of the Savior.<a class="note-ref" href="#note14"><sup class="marker" data-value="14"></sup></a> To do this, Nephi taught that we must rely “wholly upon the merits of [Christ,] who is mighty to save.”<a class="note-ref" href="#note15"><sup class="marker" data-value="15"></sup></a> Because Jesus was a God in the premortal existence,<a class="note-ref" href="#note16"><sup class="marker" data-value="16"></sup></a> lived a sinless life,<a class="note-ref" href="#note17"><sup class="marker" data-value="17"></sup></a> and during His Atonement satisfied all the demands of justice for you and me,<a class="note-ref" href="#note18"><sup class="marker" data-value="18"></sup></a> He has the power and keys to bring about the resurrection of all men,<a class="note-ref" href="#note19"><sup class="marker" data-value="19"></sup></a> and He made it possible for mercy to overpower justice upon conditions of repentance.<a class="note-ref" href="#note20"><sup class="marker" data-value="20"></sup></a> Once we understand that we can obtain mercy through Christ’s merits, we are able to “have faith unto repentance.”<a class="note-ref" href="#note21"><sup class="marker" data-value="21"></sup></a> To rely wholly upon Christ’s merits then <span class="page-break" data-page="107"></span>is to trust that He did what was necessary to save us and then to act upon our belief.<a class="note-ref" href="#note22"><sup class="marker" data-value="22"></sup></a></p>
+<p data-aid="129957280" id="p10">Faith also causes us to stop worrying so much about what others think of us and begin to care far more about what God thinks of us.</p>
+<p data-aid="129957281" id="p11"><strong>Second, repentance.</strong> Samuel the Lamanite taught, “If ye believe on [Christ’s] name ye will repent of all your sins.”<a class="note-ref" href="#note23"><sup class="marker" data-value="23"></sup></a> Repentance is a precious gift from our Heavenly Father that is made possible through the sacrifice of His Only Begotten Son. It is the process that the Father has given us by which we change, or turn, our thoughts, actions, and our very being so that we become more and more like the Savior.<a class="note-ref" href="#note24"><sup class="marker" data-value="24"></sup></a> It is not just for big sins but is a daily process of self-evaluation and improvement<a class="note-ref" href="#note25"><sup class="marker" data-value="25"></sup></a> that helps us to overcome our sins, our imperfections, our weaknesses, and our inadequacies.<a class="note-ref" href="#note26"><sup class="marker" data-value="26"></sup></a> Repentance causes us to become “true followers” of Christ, which fills us with love<a class="note-ref" href="#note27"><sup class="marker" data-value="27"></sup></a> and casts out our fears.<a class="note-ref" href="#note28"><sup class="marker" data-value="28"></sup></a> Repentance is not a backup plan just in case our plan to live perfectly fails.<a class="note-ref" href="#note29"><sup class="marker" data-value="29"></sup></a> Continual repentance is the only path that can bring us lasting joy and enable us to return to live with our Heavenly Father.</p>
+<p data-aid="129957282" id="p12">Through repentance we become submissive and obedient to God’s will. Now, this is not done alone. A recognition of God’s goodness and our nothingness,<a class="note-ref" href="#note30"><sup class="marker" data-value="30"></sup></a> combined with our best efforts to align our behavior with God’s will,<a class="note-ref" href="#note31"><sup class="marker" data-value="31"></sup></a> brings grace into our lives.<a class="note-ref" href="#note32"><sup class="marker" data-value="32"></sup></a> Grace “is divine means of help or strength, given through the bounteous mercy and love of Jesus Christ … to do good works that [we] otherwise would not be able to maintain if left to [our] own means.”<a class="note-ref" href="#note33"><sup class="marker" data-value="33"></sup></a> Because repentance is really about becoming like the Savior, which is impossible on our own, we desperately need the Savior’s grace in order to make necessary changes in our lives.</p>
+<p data-aid="129957283" id="p13">As we repent, we replace our old, unrighteous behaviors, weaknesses, imperfections, and fears with new behaviors and beliefs that draw us closer to the Savior and help us to become like Him.</p>
+<p data-aid="129957284" id="p14"><strong>Third, baptism and the sacrament.</strong> The prophet Mormon taught that “the first fruits of repentance is baptism.”<a class="note-ref" href="#note34"><sup class="marker" data-value="34"></sup></a> To be complete, repentance must be combined with the ordinance of baptism administered by someone who holds the priesthood authority of God. For members of the Church, the covenants made at baptism and other occasions are renewed as we partake of the sacrament.<a class="note-ref" href="#note35"><sup class="marker" data-value="35"></sup></a></p>
+<p data-aid="129957285" id="p15">In the ordinances of baptism and the sacrament, we covenant to keep the commandments of the Father and the Son, always remember Christ, and be willing to take Christ’s name (or His work and attributes<a class="note-ref" href="#note36"><sup class="marker" data-value="36"></sup></a>) upon us.<a class="note-ref" href="#note37"><sup class="marker" data-value="37"></sup></a> The Savior, in return, covenants to forgive, or remit, our sins<a class="note-ref" href="#note38"><sup class="marker" data-value="38"></sup></a> and “pour out his Spirit more abundantly upon [us].”<a class="note-ref" href="#note39"><sup class="marker" data-value="39"></sup></a> Christ also promises to prepare us for eternal life by helping us become like Him.<a class="note-ref" href="#note40"><sup class="marker" data-value="40"></sup></a></p>
+<p data-aid="129957286" id="p16">Douglas D. Holmes, First Counselor in the Young Men General Presidency, has written: “The ordinances of baptism and the sacrament symbolize both the end result and process of being born again. In baptism, we bury the old man of flesh and come forth to a newness of life.<a class="note-ref" href="#note41"><sup class="marker" data-value="41"></sup></a> In the sacrament, we learn that this change is a step-by-step process, [where] little by little, week by week, we are transformed as we repent, covenant, and through increased endowments of the Spirit [become like the Savior].”<a class="note-ref" href="#note42"><sup class="marker" data-value="42"></sup></a></p>
+<p data-aid="129957287" id="p17">Ordinances and covenants are essential within the doctrine of Christ. It is through worthily receiving the ordinances of the priesthood and keeping the associated covenants that the power of godliness is manifest in our lives.<a class="note-ref" href="#note43"><sup class="marker" data-value="43"></sup></a> Elder D. Todd Christofferson explained that “this ‘power of godliness’ <span class="page-break" data-page="108"></span>comes in the person and by the influence of the Holy Ghost.”<a class="note-ref" href="#note44"><sup class="marker" data-value="44"></sup></a></p>
+<p data-aid="129957288" id="p18"><strong>Fourth, the gift of the Holy Ghost.</strong> After baptism we are given the gift of the Holy Ghost through the ordinance of confirmation.<a class="note-ref" href="#note45"><sup class="marker" data-value="45"></sup></a> This gift, if we receive it, allows us to have the constant companionship of a God<a class="note-ref" href="#note46"><sup class="marker" data-value="46"></sup></a> and continual access to the grace that inherently comes with His influence.</p>
+<p data-aid="129957289" id="p19">As our constant companion, the Holy Ghost gives us additional power or strength to keep our covenants.<a class="note-ref" href="#note47"><sup class="marker" data-value="47"></sup></a> He also sanctifies us,<a class="note-ref" href="#note48"><sup class="marker" data-value="48"></sup></a> which means to make us “free from sin, pure, clean, and holy through the atonement of Jesus Christ.”<a class="note-ref" href="#note49"><sup class="marker" data-value="49"></sup></a> The process of sanctification not only cleanses us, but it also endows us with needed spiritual gifts or divine attributes of the Savior<a class="note-ref" href="#note50"><sup class="marker" data-value="50"></sup></a> and changes our very nature,<a class="note-ref" href="#note51"><sup class="marker" data-value="51"></sup></a> such “that we have no more disposition to do evil.”<a class="note-ref" href="#note52"><sup class="marker" data-value="52"></sup></a> Each time we receive the Holy Ghost into our lives through faith, repentance, ordinances, Christlike service, and other righteous endeavors, we are changed until step by step, little by little we become like Christ.<a class="note-ref" href="#note53"><sup class="marker" data-value="53"></sup></a></p>
+<p data-aid="129957290" id="p20"><strong>Fifth, enduring to the end.</strong> The prophet Nephi taught that after receiving the gift of the Holy Ghost, we must “endure to the end, in following the example of the Son of the living God.”<a class="note-ref" href="#note54"><sup class="marker" data-value="54"></sup></a> Elder Dale G. Renlund described the process of enduring to the end as follows: “We may be perfected by repeatedly and iteratively … exercising faith in [Christ], repenting, partaking of the sacrament to renew the covenants and blessings of baptism, and receiving the Holy Ghost as a constant companion to a greater degree. As we do so, we become more like Christ and are able to endure to the end, with all that that entails.”<a class="note-ref" href="#note55"><sup class="marker" data-value="55"></sup></a></p>
+<p data-aid="129957291" id="p21">In other words, the reception of the Holy Ghost and the change that reception creates in us further builds our faith. Increased faith leads to additional repentance. As we then symbolically sacrifice our hearts and our sins upon the sacrament altar, we receive the Holy Ghost to a greater degree. Receiving the Holy Ghost to a greater degree further moves us along the path of being born again. As we continue in this process and obtain all the saving ordinances and covenants of the gospel, we receive “grace for grace” until we receive a fulness.<a class="note-ref" href="#note56"><sup class="marker" data-value="56"></sup></a></p>
+</section>
+<section>
+<header>
+<h2 data-aid="129957292" id="title3">We Must Apply the Doctrine of Christ in Our Lives</h2>
+</header>
+<p data-aid="129957293" id="p22">Brothers and sisters, as we apply the doctrine of Christ in our lives, we are blessed both temporally and spiritually, even in trials. Eventually we are able to “lay hold upon every good thing.”<a class="note-ref" href="#note57"><sup class="marker" data-value="57"></sup></a> I testify that this process has happened and continues to happen in my own life, step by step, little by little.</p>
+<p data-aid="129957294" id="p23">But more importantly, we must apply the doctrine of Christ in our lives because it provides the only path back to our Heavenly Father. It is the only way to receive the Savior and become His sons and daughters.<a class="note-ref" href="#note58"><sup class="marker" data-value="58"></sup></a> In fact, the only way to be redeemed from sin and progress spiritually is to apply the doctrine of Christ in our lives.<a class="note-ref" href="#note59"><sup class="marker" data-value="59"></sup></a> Alternatively, the Apostle John taught that “whosoever … abideth not in the doctrine of Christ, hath not God.”<a class="note-ref" href="#note60"><sup class="marker" data-value="60"></sup></a> And Jesus Himself told the Nephite Twelve that if we fail to exercise faith in Christ, repent, be baptized, and endure to the end, we will be “hewn down and cast into the fire, from whence [we] can no more return.”<a class="note-ref" href="#note61"><sup class="marker" data-value="61"></sup></a></p>
+<p data-aid="129957295" id="p24">So how can we apply the doctrine of Christ more fully in our lives? One way would be to make a conscious effort each week to prepare for the sacrament by taking some time to prayerfully consider where we most need to improve. We could then bring a sacrifice of at least one thing that keeps us from being like Jesus Christ to the sacrament altar, pleading in faith for help, asking for necessary spiritual gifts, and covenanting to improve during the coming week.<a class="note-ref" href="#note62"><sup class="marker" data-value="62"></sup></a> As we do so, the Holy Ghost will come into our lives to a greater degree, and we will have additional <span class="page-break" data-page="109"></span>strength to overcome our imperfections.</p>
+<p data-aid="129957296" id="p25">I testify that Jesus Christ is the Savior of the world and that His is the only name by which we can be saved.<a class="note-ref" href="#note63"><sup class="marker" data-value="63"></sup></a> All things that are good are made available only through Him.<a class="note-ref" href="#note64"><sup class="marker" data-value="64"></sup></a> But to actually “lay hold upon every good thing,”<a class="note-ref" href="#note65"><sup class="marker" data-value="65"></sup></a> including eternal life, we must continually apply the doctrine of Christ in our lives. In the sacred name of Jesus Christ, amen.</p>
+</section>
+</div>
+<footer class="notes">
+<p class="title" data-aid="129957297" id="notetitle1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="129957298" id="note1_p1"><a class="scripture-ref" href="/study/scriptures/bofm/3-ne/11?lang=eng&amp;id=p7#p7">3 Nephi 11:7</a>.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="129957299" id="note2_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/3-ne/11?lang=eng&amp;id=p10-p11#p10">3 Nephi 11:10–11</a>.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="129957300" id="note3_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/3-ne/11?lang=eng&amp;id=p14-p15#p14">3 Nephi 11:14–15</a>.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="129957301" id="note4_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/3-ne/11?lang=eng&amp;id=p21-p39#p21">3 Nephi 11:21–39</a>.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="129957302" id="note5_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/2-ne/31?lang=eng">2 Nephi 31</a>; <a class="scripture-ref" href="/study/scriptures/bofm/3-ne/27?lang=eng&amp;id=p16-p20#p16">3 Nephi 27:16–20</a>. The doctrine of Christ is found throughout the scriptures but is most prevalent in the Book of Mormon.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="129957303" id="note6_p1"><a class="scripture-ref" href="/study/scriptures/bofm/2-ne/2?lang=eng&amp;id=p8#p8">2 Nephi 2:8</a>.</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="129957304" id="note7_p1"><a class="scripture-ref" href="/study/scriptures/bofm/moro/10?lang=eng&amp;id=p32#p32">Moroni 10:32</a>.</p>
+</li>
+<li data-marker="8." id="note8" data-full-marker="8.">
+<p data-aid="129957305" id="note8_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/moro/7?lang=eng&amp;id=p22-p24#p22">Moroni 7:22–24</a>.</p>
+</li>
+<li data-marker="9." id="note9" data-full-marker="9.">
+<p data-aid="129957306" id="note9_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/132?lang=eng&amp;id=p23#p23">Doctrine and Covenants 132:23</a>.</p>
+</li>
+<li data-marker="10." id="note10" data-full-marker="10.">
+<p data-aid="129957307" id="note10_p1">The Atonement of Christ and the doctrine of Christ together constitute the gospel of Christ (see <a class="scripture-ref" href="/study/scriptures/bofm/3-ne/27?lang=eng&amp;id=p13-p21#p13">3 Nephi 27:13–21</a>).</p>
+</li>
+<li data-marker="11." id="note11" data-full-marker="11.">
+<p data-aid="129957308" id="note11_p1">D. Todd Christofferson, “<a class="cross-ref" href="/study/general-conference/2008/04/born-again?lang=eng">Born Again</a>,” <em>Ensign</em> or <em>Liahona,</em> May 2008, 78.</p>
+</li>
+<li data-marker="12." id="note12" data-full-marker="12.">
+<p data-aid="129957309" id="note12_p1">See <a class="scripture-ref" href="/study/scriptures/nt/rom/10?lang=eng&amp;id=p17#p17">Romans 10:17</a>; <a class="scripture-ref" href="/study/scriptures/bofm/2-ne/31?lang=eng&amp;id=p19#p19">2 Nephi 31:19</a>; <a class="scripture-ref" href="/study/scriptures/bofm/alma/32?lang=eng&amp;id=p27-p29#p27">Alma 32:27–29</a>; <a class="scripture-ref" href="/study/scriptures/bofm/moro/7?lang=eng&amp;id=p25#p25">Moroni 7:25</a>.</p>
+</li>
+<li data-marker="13." id="note13" data-full-marker="13.">
+<p data-aid="129957310" id="note13_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/2-ne/32?lang=eng&amp;id=p3#p3">2 Nephi 32:3</a>.</p>
+</li>
+<li data-marker="14." id="note14" data-full-marker="14.">
+<p data-aid="129957311" id="note14_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/2-ne/31?lang=eng&amp;id=p10%2Cp13#p10">2 Nephi 31:10, 13</a>.</p>
+</li>
+<li data-marker="15." id="note15" data-full-marker="15.">
+<p data-aid="129957312" id="note15_p1"><a class="scripture-ref" href="/study/scriptures/bofm/2-ne/31?lang=eng&amp;id=p19#p19">2 Nephi 31:19</a>.</p>
+</li>
+<li data-marker="16." id="note16" data-full-marker="16.">
+<p data-aid="129957313" id="note16_p1">See <a class="scripture-ref" href="/study/scriptures/nt/john/1?lang=eng&amp;id=p1-p3#p1">John 1:1–3</a>; <a class="scripture-ref" href="/study/scriptures/pgp/moses/7?lang=eng&amp;id=p47#p47">Moses 7:47</a>; <a class="scripture-ref" href="/study/scriptures/pgp/abr/3?lang=eng&amp;id=p24-p27#p24">Abraham 3:24–27</a>.</p>
+</li>
+<li data-marker="17." id="note17" data-full-marker="17.">
+<p data-aid="129957314" id="note17_p1">See <a class="scripture-ref" href="/study/scriptures/nt/heb/4?lang=eng&amp;id=p15#p15">Hebrews 4:15</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/45?lang=eng&amp;id=p4#p4">Doctrine and Covenants 45:4</a>.</p>
+</li>
+<li data-marker="18." id="note18" data-full-marker="18.">
+<p data-aid="129957315" id="note18_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/alma/34?lang=eng&amp;id=p16#p16">Alma 34:16</a>.</p>
+</li>
+<li data-marker="19." id="note19" data-full-marker="19.">
+<p data-aid="129957316" id="note19_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/2-ne/9?lang=eng&amp;id=p21-p22#p21">2 Nephi 9:21–22</a>; Dallin H. Oaks, “<a class="cross-ref" href="/study/general-conference/2014/04/the-keys-and-authority-of-the-priesthood?lang=eng">The Keys and Authority of the Priesthood</a>,” <em>Ensign</em> or <em>Liahona,</em> May 2014, 49–52.</p>
+</li>
+<li data-marker="20." id="note20" data-full-marker="20.">
+<p data-aid="129957317" id="note20_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/alma/34?lang=eng&amp;id=p15-p16#p15">Alma 34:15–16</a>.</p>
+</li>
+<li data-marker="21." id="note21" data-full-marker="21.">
+<p data-aid="129957318" id="note21_p1"><a class="scripture-ref" href="/study/scriptures/bofm/alma/34?lang=eng&amp;id=p15#p15">Alma 34:15</a>.</p>
+</li>
+<li data-marker="22." id="note22" data-full-marker="22.">
+<p data-aid="129957319" id="note22_p1">Relying wholly upon Christ’s merits includes recognizing that Jesus Christ is the only source of redemption (see <a class="scripture-ref" href="/study/scriptures/bofm/mosiah/4?lang=eng&amp;id=p7-p8#p7">Mosiah 4:7–8</a>). It also requires that we believe that Christ can save us as individuals. That is one reason why in <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/27?lang=eng&amp;id=p2#p2">Doctrine and Covenants 27:2</a> we are commanded that as we partake of the sacrament, we are to remember not just that Christ suffered but also that He did so for us as individuals.</p>
+</li>
+<li data-marker="23." id="note23" data-full-marker="23.">
+<p data-aid="129957320" id="note23_p1"><a class="scripture-ref" href="/study/scriptures/bofm/hel/14?lang=eng&amp;id=p13#p13">Helaman 14:13</a>.</p>
+</li>
+<li data-marker="24." id="note24" data-full-marker="24.">
+<p data-aid="129957321" id="note24_p1">See Russell M. Nelson, “<a class="cross-ref" href="/study/general-conference/2007/04/repentance-and-conversion?lang=eng">Repentance and Conversion</a>,” <em>Ensign</em> or <em>Liahona,</em> May 2007, 102–5.</p>
+</li>
+<li data-marker="25." id="note25" data-full-marker="25.">
+<p data-aid="129957322" id="note25_p1">See Neil L. Andersen, “<a class="cross-ref" href="/study/general-conference/2009/10/repent-that-i-may-heal-you?lang=eng">Repent … That I May Heal You</a>,” <em>Ensign</em> or <em>Liahona,</em> Nov. 2009, 40–43.</p>
+</li>
+<li data-marker="26." id="note26" data-full-marker="26.">
+<p data-aid="129957323" id="note26_p1">See Jeffrey R. Holland, “<a class="cross-ref" href="/study/general-conference/2006/04/broken-things-to-mend?lang=eng">Broken Things to Mend</a>,” <em>Ensign</em> or <em>Liahona,</em> May 2006, 69–71; Anthony D. Perkins, “<a class="cross-ref" href="/study/general-conference/2006/10/the-great-and-wonderful-love?lang=eng">The Great and Wonderful Love</a>,” <em>Ensign</em> or <em>Liahona,</em> Nov. 2006, 76–78.</p>
+</li>
+<li data-marker="27." id="note27" data-full-marker="27.">
+<p data-aid="129957324" id="note27_p1"><a class="scripture-ref" href="/study/scriptures/bofm/moro/7?lang=eng&amp;id=p48#p48">Moroni 7:48</a>.</p>
+</li>
+<li data-marker="28." id="note28" data-full-marker="28.">
+<p data-aid="129957325" id="note28_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/moro/8?lang=eng&amp;id=p16#p16">Moroni 8:16</a>. Indeed our repentance is one of the principal evidences that we are disciples of the Savior. Can we truly claim to follow Christ if we are not continually repenting or striving to turn our hearts and actions to Him?</p>
+</li>
+<li data-marker="29." id="note29" data-full-marker="29.">
+<p data-aid="129957326" id="note29_p1">See <span class="legacy-cross-ref" data-legacy-href="../../../manual/resource-booklet-adjusting-to-missionary-life/resources-for-managing-spiritual-demands.html"><em>Adjusting to Missionary Life</em></span> (booklet, 2013), 46.</p>
+</li>
+<li data-marker="30." id="note30" data-full-marker="30.">
+<p data-aid="129957826" id="note30_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/mosiah/4?lang=eng&amp;id=p5-p7#p5">Mosiah 4:5–7</a>.</p>
+</li>
+<li data-marker="31." id="note31" data-full-marker="31.">
+<p data-aid="129957827" id="note31_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/2-ne/10?lang=eng&amp;id=p24#p24">2 Nephi 10:24</a>; <a class="scripture-ref" href="/study/scriptures/bofm/2-ne/25?lang=eng&amp;id=p23#p23">25:23</a>.</p>
+</li>
+<li data-marker="32." id="note32" data-full-marker="32.">
+<p data-aid="129957329" id="note32_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/hel/5?lang=eng&amp;id=p11#p11">Helaman 5:11</a>; <a class="scripture-ref" href="/study/scriptures/bofm/ether/12?lang=eng&amp;id=p27#p27">Ether 12:27</a>; <a class="scripture-ref" href="/study/scriptures/bofm/moro/10?lang=eng&amp;id=p32-p33#p32">Moroni 10:32–33</a>.</p>
+</li>
+<li data-marker="33." id="note33" data-full-marker="33.">
+<p data-aid="129957330" id="note33_p1">Bible Dictionary, “<a class="scripture-ref" href="/study/scriptures/bd/grace?lang=eng">Grace</a>.”</p>
+</li>
+<li data-marker="34." id="note34" data-full-marker="34.">
+<p data-aid="129957331" id="note34_p1"><a class="scripture-ref" href="/study/scriptures/bofm/moro/8?lang=eng&amp;id=p25#p25">Moroni 8:25</a>.</p>
+</li>
+<li data-marker="35." id="note35" data-full-marker="35.">
+<p data-aid="129957332" id="note35_p1">When we partake of the sacrament worthily, we renew all of our covenants with God (see Delbert L. Stapley, in Conference Report, Oct. 1965, 14; L. Tom Perry, “<a class="cross-ref" href="/study/general-conference/2006/04/as-now-we-take-the-sacrament?lang=eng">As Now We Take the Sacrament</a>,” <em>Ensign</em> or <em>Liahona,</em> May 2006, 41).</p>
+</li>
+<li data-marker="36." id="note36" data-full-marker="36.">
+<p data-aid="129957333" id="note36_p1">See Dallin H. Oaks, “Testimony” (address given at the seminar for new mission presidents, June 25, 2014), 1–2.</p>
+</li>
+<li data-marker="37." id="note37" data-full-marker="37.">
+<p data-aid="129957334" id="note37_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/moro/4?lang=eng&amp;id=p3#p3">Moroni 4:3</a>; see also <a class="scripture-ref" href="/study/scriptures/bofm/mosiah/18?lang=eng&amp;id=p8-p10#p8">Mosiah 18:8–10</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/20?lang=eng&amp;id=p37#p37">Doctrine and Covenants 20:37</a> for additional covenants that we make at baptism.</p>
+</li>
+<li data-marker="38." id="note38" data-full-marker="38.">
+<p data-aid="129957335" id="note38_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/moro/8?lang=eng&amp;id=p25#p25">Moroni 8:25</a>.</p>
+</li>
+<li data-marker="39." id="note39" data-full-marker="39.">
+<p data-aid="129957336" id="note39_p1"><a class="scripture-ref" href="/study/scriptures/bofm/mosiah/18?lang=eng&amp;id=p10#p10">Mosiah 18:10</a>.</p>
+</li>
+<li data-marker="40." id="note40" data-full-marker="40.">
+<p data-aid="129957337" id="note40_p1">See <a class="scripture-ref" href="/study/scriptures/nt/2-cor/3?lang=eng&amp;id=p18#p18">2 Corinthians 3:18</a>; <a class="scripture-ref" href="/study/scriptures/bofm/ether/12?lang=eng&amp;id=p27#p27">Ether 12:27</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/35?lang=eng&amp;id=p2#p2">Doctrine and Covenants 35:2</a>; <a class="scripture-ref" href="/study/scriptures/pgp/moses/1?lang=eng&amp;id=p39#p39">Moses 1:39</a>.</p>
+</li>
+<li data-marker="41." id="note41" data-full-marker="41.">
+<p data-aid="129957338" id="note41_p1">See <a class="scripture-ref" href="/study/scriptures/nt/rom/6?lang=eng&amp;id=p4#p4">Romans 6:4</a>.</p>
+</li>
+<li data-marker="42." id="note42" data-full-marker="42.">
+<p data-aid="129957339" id="note42_p1">Douglas D. Holmes, “Come unto Christ—the Doctrine of Christ,” unpublished manuscript.</p>
+</li>
+<li data-marker="43." id="note43" data-full-marker="43.">
+<p data-aid="129957340" id="note43_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/84?lang=eng&amp;id=p19-p21#p19">Doctrine and Covenants 84:19–21</a>.</p>
+</li>
+<li data-marker="44." id="note44" data-full-marker="44.">
+<p data-aid="129957341" id="note44_p1">D. Todd Christofferson, “<a class="cross-ref" href="/study/general-conference/2009/04/the-power-of-covenants?lang=eng">The Power of Covenants</a>,” <em>Ensign</em> or <em>Liahona,</em> May 2009, 22.</p>
+</li>
+<li data-marker="45." id="note45" data-full-marker="45.">
+<p data-aid="129957342" id="note45_p1">Confirmation occurs by the laying on of hands (see, for example, <a class="scripture-ref" href="/study/scriptures/nt/acts/8?lang=eng&amp;id=p17#p17">Acts 8:17</a>).</p>
+</li>
+<li data-marker="46." id="note46" data-full-marker="46.">
+<p data-aid="129957343" id="note46_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/20?lang=eng&amp;id=p28#p28">Doctrine and Covenants 20:28</a>; Guide to the Scriptures, “<a class="scripture-ref" href="/study/scriptures/gs/holy-ghost?lang=eng">Holy Ghost,</a>” scriptures.lds.org.</p>
+</li>
+<li data-marker="47." id="note47" data-full-marker="47.">
+<p data-aid="129957344" id="note47_p1">See <a class="scripture-ref" href="/study/scriptures/nt/2-cor/3?lang=eng&amp;id=p18#p18">2 Corinthians 3:18</a>; <a class="scripture-ref" href="/study/scriptures/bofm/1-ne/14?lang=eng&amp;id=p14#p14">1 Nephi 14:14</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/93?lang=eng&amp;id=p20#p20">Doctrine and Covenants 93:20</a>.</p>
+</li>
+<li data-marker="48." id="note48" data-full-marker="48.">
+<p data-aid="129957345" id="note48_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/3-ne/27?lang=eng&amp;id=p20#p20">3 Nephi 27:20</a>.</p>
+</li>
+<li data-marker="49." id="note49" data-full-marker="49.">
+<p data-aid="129957346" id="note49_p1">Guide to the Scriptures, “<a class="scripture-ref" href="/study/scriptures/gs/sanctification?lang=eng">Sanctification,</a>” scriptures.lds.org.</p>
+</li>
+<li data-marker="50." id="note50" data-full-marker="50.">
+<p data-aid="129957347" id="note50_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/moro/7?lang=eng&amp;id=p48#p48">Moroni 7:48</a>; <a class="scripture-ref" href="/study/scriptures/bofm/moro/8?lang=eng&amp;id=p26#p26">8:26</a>; <a class="scripture-ref" href="/study/scriptures/bofm/moro/10?lang=eng&amp;id=p8-p18#p8">10:8–18.</a></p>
+</li>
+<li data-marker="51." id="note51" data-full-marker="51.">
+<p data-aid="129957348" id="note51_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/mosiah/4?lang=eng&amp;id=p14#p14">Mosiah 4:14</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/84?lang=eng&amp;id=p33#p33">Doctrine and Covenants 84:33</a>; Bruce R. McConkie, “<a class="cross-ref" href="/study/general-conference/1977/10/the-ten-blessings-of-the-priesthood?lang=eng">The Ten Blessings of the Priesthood</a>,” <em>Ensign,</em> Nov. 1977, 33–35.</p>
+</li>
+<li data-marker="52." id="note52" data-full-marker="52.">
+<p data-aid="129957349" id="note52_p1"><a class="scripture-ref" href="/study/scriptures/bofm/mosiah/5?lang=eng&amp;id=p2#p2">Mosiah 5:2</a>.</p>
+</li>
+<li data-marker="53." id="note53" data-full-marker="53.">
+<p data-aid="129957350" id="note53_p1">The Holy Ghost also guides us back to our Father in Heaven (see <a class="scripture-ref" href="/study/scriptures/bofm/2-ne/32?lang=eng&amp;id=p5#p5">2 Nephi 32:5</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/45?lang=eng&amp;id=p57#p57">Doctrine and Covenants 45:57</a>) by helping us know what we must do to become like Christ (see <a class="scripture-ref" href="/study/scriptures/nt/2-cor/3?lang=eng&amp;id=p18#p18">2 Corinthians 3:18</a>; <a class="scripture-ref" href="/study/scriptures/bofm/ether/12?lang=eng&amp;id=p27#p27">Ether 12:27</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/84?lang=eng&amp;id=p46-p48#p46">Doctrine and Covenants 84:46–48</a>).</p>
+</li>
+<li data-marker="54." id="note54" data-full-marker="54.">
+<p data-aid="129957351" id="note54_p1"><a class="scripture-ref" href="/study/scriptures/bofm/2-ne/31?lang=eng&amp;id=p16#p16">2 Nephi 31:16</a>. Enduring to the end is aptly named, as it requires both time and endurance (see <a class="scripture-ref" href="/study/scriptures/nt/james/1?lang=eng&amp;id=p2-p4#p2">James 1:2–4</a>). The fact is that we cannot develop some Christlike attributes without facing opposition and difficulties. For example, how can we become long-suffering if we are never required to suffer for a long time?</p>
+</li>
+<li data-marker="55." id="note55" data-full-marker="55.">
+<p data-aid="129957352" id="note55_p1">Dale G. Renlund, “<a class="cross-ref" href="/study/general-conference/2015/04/latter-day-saints-keep-on-trying?lang=eng">Latter-day Saints Keep on Trying</a>,” <em>Ensign</em> or <em>Liahona,</em> May 2015, 56.</p>
+</li>
+<li data-marker="56." id="note56" data-full-marker="56.">
+<p data-aid="129957353" id="note56_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/93?lang=eng&amp;id=p12%2Cp19#p12">Doctrine and Covenants 93:12, 19</a>.</p>
+</li>
+<li data-marker="57." id="note57" data-full-marker="57.">
+<p data-aid="129957354" id="note57_p1"><a class="scripture-ref" href="/study/scriptures/bofm/moro/7?lang=eng&amp;id=p25#p25">Moroni 7:25</a>; see also <a class="scripture-ref" href="/study/scriptures/bofm/mosiah/2?lang=eng&amp;id=p41#p41">Mosiah 2:41</a>.</p>
+</li>
+<li data-marker="58." id="note58" data-full-marker="58.">
+<p data-aid="129957355" id="note58_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/39?lang=eng&amp;id=p4-p6#p4">Doctrine and Covenants 39:4–6</a>.</p>
+</li>
+<li data-marker="59." id="note59" data-full-marker="59.">
+<p data-aid="129957356" id="note59_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/2-ne/9?lang=eng&amp;id=p24#p24">2 Nephi 9:24</a>.</p>
+</li>
+<li data-marker="60." id="note60" data-full-marker="60.">
+<p data-aid="129957357" id="note60_p1"><a class="scripture-ref" href="/study/scriptures/nt/2-jn/1?lang=eng&amp;id=p9#p9">2 John 1:9</a>.</p>
+</li>
+<li data-marker="61." id="note61" data-full-marker="61.">
+<p data-aid="129957358" id="note61_p1"><a class="scripture-ref" href="/study/scriptures/bofm/3-ne/27?lang=eng&amp;id=p17#p17">3 Nephi 27:17</a>.</p>
+</li>
+<li data-marker="62." id="note62" data-full-marker="62.">
+<p data-aid="129957359" id="note62_p1">One might frequently bring the same sacrifice for weeks at a time until, with the help of the Savior, and as Elder Neal A. Maxwell taught, “it [is] consumed” (“<a class="cross-ref" href="/study/general-conference/1995/04/deny-yourselves-of-all-ungodliness?lang=eng">Deny Yourselves of All Ungodliness</a>,” <em>Ensign,</em> May 1995, 68).</p>
+</li>
+<li data-marker="63." id="note63" data-full-marker="63.">
+<p data-aid="129957360" id="note63_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/2-ne/25?lang=eng&amp;id=p20#p20">2 Nephi 25:20</a>.</p>
+</li>
+<li data-marker="64." id="note64" data-full-marker="64.">
+<p data-aid="129957361" id="note64_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/moro/7?lang=eng&amp;id=p24#p24">Moroni 7:24</a>.</p>
+</li>
+<li data-marker="65." id="note65" data-full-marker="65.">
+<p data-aid="129957362" id="note65_p1"><a class="scripture-ref" href="/study/scriptures/bofm/moro/7?lang=eng&amp;id=p25#p25">Moroni 7:25</a>.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/2016/10/the-doctrine-of-christ</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/october-2016-general-conference/2016-10-5020-brian-k-ashton-64k-eng.mp3" length="5395897" type="audio/mpeg"/>
-      <pubDate>Sun, 02 Oct 2016 14:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/974e737d077b11eca545eeeeac1e6659a463cb01-64k-en.mp3" length="5634253" type="audio/mpeg"/>
+      <pubDate>Sun, 02 Oct 2016 14:00:00 -0600</pubDate>
+      <itunes:author>Brian K. Ashton</itunes:author>
+    </item>
+    <item>
+      <title>The Father</title>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2018/10/the-father?lang=eng</link>
+      <description>Brother Ashton teaches key doctrinal points about Heavenly Father to help us better understand His true character and exercise faith in Him and His Son.</description>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="93"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/7f96dce8579f6cb7250607ef82b307bacefb89bc/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/7f96dce8579f6cb7250607ef82b307bacefb89bc/full/%21192%2C/0/default" data-video-title="The Father" data-video-description="Brother Ashton teaches key doctrinal points about Heavenly Father to help us better understand His true character and exercise faith in Him and His Son." data-video-id="5846780559001" data-ip="Download and Streaming                            " data-duration="617717" data-assetId="C04999CE0976E8852982EEB08839CA7455CB4859" data-ref-id="C04999CE0976E8852982EEB08839CA7455CB4859" data-asset-aliasId="c04999ce0976e8852982eeb08839ca7455cb4859" data-duration-string="10:17" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/5846780559001.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="121115054"/><source src="https://assets.churchofjesuschrist.org/C04999CE0976E8852982EEB08839CA7455CB4859-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="30580753"/><source src="https://assets.churchofjesuschrist.org/C04999CE0976E8852982EEB08839CA7455CB4859-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="51223731"/><source src="https://assets.churchofjesuschrist.org/C04999CE0976E8852982EEB08839CA7455CB4859-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="121115054"/></video><h1 data-aid="138352102" id="title1">The Father</h1>
+<div class="byline">
+<p class="author-name" data-aid="138352107" id="p1">By Brian K. Ashton</p>
+<p class="author-role" data-aid="138352109" id="p2">Second Counselor in the Sunday School General Presidency</p>
+<div class="image-cropper"><img alt="Brian K. Ashton" class="headshot" data-deprecate-web-url="brian-k-ashton-sunday-school_2071640.jpg" id="img1" src="https://www.churchofjesuschrist.org/imgs/a88699e3a7e559e96467373be396d2ebc00ee1e9/full/%21100%2C/0/default" data-assetId="a88699e3a7e559e96467373be396d2ebc00ee1e9" srcset="https://www.churchofjesuschrist.org/imgs/a88699e3a7e559e96467373be396d2ebc00ee1e9/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/a88699e3a7e559e96467373be396d2ebc00ee1e9/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/a88699e3a7e559e96467373be396d2ebc00ee1e9/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/a88699e3a7e559e96467373be396d2ebc00ee1e9/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/a88699e3a7e559e96467373be396d2ebc00ee1e9/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/a88699e3a7e559e96467373be396d2ebc00ee1e9/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/a88699e3a7e559e96467373be396d2ebc00ee1e9/full/%21640%2C/0/default 640w" data-img-id="a88699e3a7e559e96467373be396d2ebc00ee1e9" data-missing-asset="false" data-width="100" data-height="139" data-aspect-ratio="0.7194244604316546" data-public-title="Brian K. Ashton" data-public-description="Brother Brian K. Ashton - Sunday school General Presidency Second Counselor. Official Portrait 2018."/></div>
+</div>
+<p class="kicker" data-aid="138352111" id="kicker1">Each of us has the potential to become like the Father. To do so, we must worship the Father in the name of the Son.</p>
+</header>
+<div class="body-block">
+<p data-aid="138352113" id="p3">For her entire life, my wife, Melinda, has tried with all her heart to be a faithful disciple of Jesus Christ. Yet, beginning in her youth, she felt unworthy of Heavenly Father’s love and blessings because she misunderstood His nature. Fortunately, Melinda continued to keep the commandments in spite of the sadness she felt. A few years ago, she had a series of experiences that helped her better understand God’s nature, including His love for His children and His gratitude for our even-imperfect efforts to do His work.</p>
+<p data-aid="138352114" id="p4">She explains how this has influenced her: “I now feel sure that the Father’s plan works, that He is personally invested in our success, and that He provides us with the lessons and experiences we need to return to His presence. I see myself and others more as God sees us. I am able to parent, teach, and serve with more love and less fear. I feel peace and confidence rather than anxiety and insecurity. Instead of feeling judged, I feel supported. My faith is more certain. I feel my Father’s love more often and more deeply.”<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a></p>
+<p data-aid="138352117" id="p5">Having “a <em>correct</em> idea of [Heavenly Father’s] character, perfections, and attributes” is essential to exercising faith sufficient to obtain exaltation.<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a> A correct understanding of Heavenly <span class="page-break" data-page="94"></span>Father’s character can change how we see ourselves and others and help us to understand God’s tremendous love for His children and His great desire to help us become like Him. An incorrect view of His nature can leave us feeling as if we are incapable of ever making it back to His presence.</p>
+<p data-aid="138352119" id="p6">My objective today is to teach key doctrinal points about the Father that will allow each of us, but especially those who wonder if God loves them, to better understand His true character and to exercise greater faith in Him, His Son, and His plan for us.</p>
+<section>
+<header>
+<h2 data-aid="138352122" id="title2">The Premortal Life</h2>
+</header>
+<p data-aid="138352124" id="p7">In the premortal world, we were born as spirits to Heavenly Parents and lived with Them as a family.<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a> They knew us, taught us, and loved us.<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a> We wanted very much to be like our Heavenly Father. However, to do so, we recognized that we would have to:</p>
+<ol class="decimal" start="1">
+<li data-marker="1.">
+<p data-aid="138352126" id="p8">Obtain glorified, immortal, physical bodies;<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a></p>
+</li>
+<li data-marker="2.">
+<p data-aid="138352128" id="p9">Be married and form families by the sealing power of the priesthood;<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a> and</p>
+</li>
+<li data-marker="3.">
+<p data-aid="138352130" id="p10">Acquire all knowledge, power, and divine attributes.<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a></p>
+</li>
+</ol>
+<p data-aid="138352135" id="p11">Consequently, the Father created a plan that would allow us, upon certain conditions,<a class="note-ref" href="#note8"><sup class="marker" data-value="8"></sup></a> to obtain physical bodies that would become immortal and glorified in the Resurrection; marry and form families in mortality or, for the faithful who did not have this opportunity, after mortality;<a class="note-ref" href="#note9"><sup class="marker" data-value="9"></sup></a> progress toward perfection; and ultimately return to our Heavenly Parents and live with Them and our families in a state of exaltation and eternal happiness.<a class="note-ref" href="#note10"><sup class="marker" data-value="10"></sup></a></p>
+<p data-aid="138352136" id="p12">The scriptures call this the plan of salvation.<a class="note-ref" href="#note11"><sup class="marker" data-value="11"></sup></a> We were so grateful for this plan that when it was presented to us, we shouted for joy.<a class="note-ref" href="#note12"><sup class="marker" data-value="12"></sup></a> Each of us accepted the conditions of the plan, including the experiences and challenges of mortality that would help us develop divine attributes.<a class="note-ref" href="#note13"><sup class="marker" data-value="13"></sup></a></p>
+</section>
+<section>
+<header>
+<h2 data-aid="138352138" id="title3">Mortal Life</h2>
+</header>
+<p data-aid="138352139" id="p13">During mortality, Heavenly Father provides us with the conditions we need to progress within His plan. The Father begot Jesus Christ in the flesh<a class="note-ref" href="#note14"><sup class="marker" data-value="14"></sup></a> and provided Him with divine help to fulfill His mortal mission. Heavenly Father will likewise help each of us if we will strive to keep His commandments.<a class="note-ref" href="#note15"><sup class="marker" data-value="15"></sup></a> The Father gives us agency.<a class="note-ref" href="#note16"><sup class="marker" data-value="16"></sup></a> Our lives are in His hands, and our “days are known” and “shall not be numbered less.”<a class="note-ref" href="#note17"><sup class="marker" data-value="17"></sup></a> And He ensures that eventually all things work for the good of those who love Him.<a class="note-ref" href="#note18"><sup class="marker" data-value="18"></sup></a></p>
+<p data-aid="138352140" id="p14">It is Heavenly Father who gives us our daily bread,<a class="note-ref" href="#note19"><sup class="marker" data-value="19"></sup></a> which includes both the food we eat and the strength we need to keep His commandments.<a class="note-ref" href="#note20"><sup class="marker" data-value="20"></sup></a> The Father gives good gifts.<a class="note-ref" href="#note21"><sup class="marker" data-value="21"></sup></a> He hears and answers our prayers.<a class="note-ref" href="#note22"><sup class="marker" data-value="22"></sup></a> Heavenly Father delivers us from evil when we let Him.<a class="note-ref" href="#note23"><sup class="marker" data-value="23"></sup></a> He weeps for us when we suffer.<a class="note-ref" href="#note24"><sup class="marker" data-value="24"></sup></a> Ultimately, all of our blessings come from the Father.<a class="note-ref" href="#note25"><sup class="marker" data-value="25"></sup></a></p>
+<p data-aid="138352141" id="p15">Heavenly Father guides us and gives us the experiences we need based on our strengths, weaknesses, and choices so that we might bear good fruit.<a class="note-ref" href="#note26"><sup class="marker" data-value="26"></sup></a> The Father chastens us when necessary because He loves us.<a class="note-ref" href="#note27"><sup class="marker" data-value="27"></sup></a> He is a “Man of Counsel,”<a class="note-ref" href="#note28"><sup class="marker" data-value="28"></sup></a> who will counsel with us if we ask.<a class="note-ref" href="#note29"><sup class="marker" data-value="29"></sup></a></p>
+<p data-aid="138352142" id="p16">It is Heavenly Father who sends both the influence and the gift of the Holy Ghost into our lives.<a class="note-ref" href="#note30"><sup class="marker" data-value="30"></sup></a> Through the gift of the Holy Ghost, the glory—or intelligence, light, and power—of the Father can dwell in us.<a class="note-ref" href="#note31"><sup class="marker" data-value="31"></sup></a> If we will strive to increase in light and truth until our eyes become single to God’s glory, Heavenly Father will send the Holy Spirit of Promise to seal us up unto eternal life and reveal His face unto us—either in this life or the next.<a class="note-ref" href="#note32"><sup class="marker" data-value="32"></sup></a></p>
+</section>
+<section>
+<header>
+<h2 data-aid="138352143" id="title4">Postmortal Life</h2>
+</header>
+<p data-aid="138352144" id="p17">In the postmortal spirit world, Heavenly Father continues to shed forth the Holy Ghost and send missionaries to those who need the gospel. He answers prayers and helps those who lack them <span class="page-break" data-page="95"></span>receive vicarious saving ordinances.<a class="note-ref" href="#note33"><sup class="marker" data-value="33"></sup></a></p>
+<p data-aid="138352145" id="p18">The Father raised up Jesus Christ and gave Him power to bring to pass the Resurrection,<a class="note-ref" href="#note34"><sup class="marker" data-value="34"></sup></a> which is the means by which we obtain immortal bodies. The Savior’s Redemption and Resurrection bring us back into the presence of the Father, where we will be judged by Jesus Christ.<a class="note-ref" href="#note35"><sup class="marker" data-value="35"></sup></a></p>
+<p data-aid="138352146" id="p19">Those who rely upon “the merits, and mercy, and grace of the Holy Messiah”<a class="note-ref" href="#note36"><sup class="marker" data-value="36"></sup></a> will receive glorified bodies like the Father<a class="note-ref" href="#note37"><sup class="marker" data-value="37"></sup></a> and dwell with Him “in a state of never-ending happiness.”<a class="note-ref" href="#note38"><sup class="marker" data-value="38"></sup></a> There, the Father will wipe away all our tears<a class="note-ref" href="#note39"><sup class="marker" data-value="39"></sup></a> and help us continue on our journey to become like Him.</p>
+<p data-aid="138352147" id="p20">As you can see, Heavenly Father is always there for us.<a class="note-ref" href="#note40"><sup class="marker" data-value="40"></sup></a></p>
+</section>
+<section>
+<header>
+<h2 data-aid="138352148" id="title5">The Character of the Father</h2>
+</header>
+<p data-aid="138352149" id="p21">To become like the Father, we must develop His character traits. Heavenly Father’s perfections and attributes include the following:</p>
+<ul class="bullet">
+<li>
+<p data-aid="138352150" id="p22">The Father is “Endless and Eternal.”<a class="note-ref" href="#note41"><sup class="marker" data-value="41"></sup></a></p>
+</li>
+<li>
+<p data-aid="138352151" id="p23">He is perfectly just, merciful, kind, long-suffering, and wants only what is best for us.<a class="note-ref" href="#note42"><sup class="marker" data-value="42"></sup></a></p>
+</li>
+<li>
+<p data-aid="138352152" id="p24">Heavenly Father is love.<a class="note-ref" href="#note43"><sup class="marker" data-value="43"></sup></a></p>
+</li>
+<li>
+<p data-aid="138352153" id="p25">He keeps His covenants.<a class="note-ref" href="#note44"><sup class="marker" data-value="44"></sup></a></p>
+</li>
+<li>
+<p data-aid="138352154" id="p26">He does not change.<a class="note-ref" href="#note45"><sup class="marker" data-value="45"></sup></a></p>
+</li>
+<li>
+<p data-aid="138352155" id="p27">He cannot lie.<a class="note-ref" href="#note46"><sup class="marker" data-value="46"></sup></a></p>
+</li>
+<li>
+<p data-aid="138352156" id="p28">The Father is no respecter of persons.<a class="note-ref" href="#note47"><sup class="marker" data-value="47"></sup></a></p>
+</li>
+<li>
+<p data-aid="138352159" id="p29">He knows all things—past, present, and future—from the beginning.<a class="note-ref" href="#note48"><sup class="marker" data-value="48"></sup></a></p>
+</li>
+<li>
+<p data-aid="138352160" id="p30">Heavenly Father is more intelligent<a class="note-ref" href="#note49"><sup class="marker" data-value="49"></sup></a> than us all.<a class="note-ref" href="#note50"><sup class="marker" data-value="50"></sup></a></p>
+</li>
+<li>
+<p data-aid="138352161" id="p31">The Father has all power<a class="note-ref" href="#note51"><sup class="marker" data-value="51"></sup></a> and does all that He takes into His heart to do.<a class="note-ref" href="#note52"><sup class="marker" data-value="52"></sup></a></p>
+</li>
+</ul>
+<p data-aid="138352163" id="p32">Brothers and sisters, we can trust in and rely upon the Father. Because He has an eternal perspective, Heavenly Father can see things we cannot. His joy, work, and glory are to bring to pass our immortality and exaltation.<a class="note-ref" href="#note53"><sup class="marker" data-value="53"></sup></a> Everything He does is for our benefit. He “wants [our] eternal happiness even more than [we] do.”<a class="note-ref" href="#note54"><sup class="marker" data-value="54"></sup></a> And He “would not require [us] to experience a moment more of difficulty than is absolutely needed for [our] benefit or for that of those [we] love.”<a class="note-ref" href="#note55"><sup class="marker" data-value="55"></sup></a> As a result, He focuses on helping us to progress, not on judging and condemning us.<a class="note-ref" href="#note56"><sup class="marker" data-value="56"></sup></a></p>
+</section>
+<section>
+<header>
+<h2 data-aid="138352165" id="title6">Becoming Like Our Father</h2>
+</header>
+<p data-aid="138352167" id="p33">As spirit sons and daughters of God, each of us has the potential to become like the Father. To do so, we must worship the Father in the name of the Son.<a class="note-ref" href="#note57"><sup class="marker" data-value="57"></sup></a> We do this by striving to be obedient to the will of the Father, as the Savior was,<a class="note-ref" href="#note58"><sup class="marker" data-value="58"></sup></a> and by continually repenting.<a class="note-ref" href="#note59"><sup class="marker" data-value="59"></sup></a> As we do these things, we “receive grace for grace” until we receive of the Father’s fulness<a class="note-ref" href="#note60"><sup class="marker" data-value="60"></sup></a> and are endowed with “his character, perfections, and attributes.”<a class="note-ref" href="#note61"><sup class="marker" data-value="61"></sup></a></p>
+<p data-aid="138352169" id="p34">Given the distance between what we are as mortals and what Heavenly Father has become, it is not surprising that some feel that becoming like the Father is unattainable. Nevertheless, the scriptures are clear. If we will cleave in faith to Christ, repent, and seek God’s grace through obedience, eventually we will become like the Father. I take great comfort in the fact that those who strive to be obedient will “<em>receive</em> grace for grace” and ultimately “<em>receive</em> of his fulness.”<a class="note-ref" href="#note62"><sup class="marker" data-value="62"></sup></a> In other words, we won’t become like the Father on our own.<a class="note-ref" href="#note63"><sup class="marker" data-value="63"></sup></a> Rather, it will come through gifts of grace, some big but mostly small, that build upon one another until we have a fulness. But, brothers and sisters, it will come!</p>
+<p data-aid="138352171" id="p35">I invite you to trust that Heavenly Father knows how to exalt you; seek His daily, sustaining help; and press forward with faith in Christ even when you cannot feel God’s love.</p>
+<p data-aid="138352173" id="p36">There is much we do not understand about becoming like the Father.<a class="note-ref" href="#note64"><sup class="marker" data-value="64"></sup></a> But I can testify with certainty that striving to become like the Father is worth every sacrifice.<a class="note-ref" href="#note65"><sup class="marker" data-value="65"></sup></a> The sacrifices we make here in mortality, no matter how great, are simply incomparable to the immeasurable joy, happiness, and love we will feel in God’s presence.<a class="note-ref" href="#note66"><sup class="marker" data-value="66"></sup></a> If you are struggling to believe it is worth the sacrifices you are asked to make, the Savior calls to you, saying, “Ye have not as yet understood how great blessings the Father hath … prepared for you; … ye cannot bear all things now; nevertheless, be of good cheer, for I will lead you along.”<a class="note-ref" href="#note67"><sup class="marker" data-value="67"></sup></a></p>
+<p data-aid="138352175" id="p37">I testify that your Heavenly Father loves <em>you</em> and wants <em>you</em> to live with Him again. In the name of Jesus Christ, amen.</p>
+</section>
+</div>
+<footer class="notes">
+<p class="title" data-aid="138352177" id="notetitle1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="138352180" id="note1_p1">Notes in possession of the author; see also D. Melinda Ashton, “The Holy Ghost: Direction, Correction, and Warning” (Brigham Young University Women’s Conference, Apr. 28, 2016), byutv.org.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="138352182" id="note2_p1"><em>Lectures on Faith</em> (1985), 38.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="138352184" id="note3_p1">See “<a class="cross-ref" href="/study/scriptures/the-family-a-proclamation-to-the-world/the-family-a-proclamation-to-the-world?lang=eng">The Family: A Proclamation to the World</a>,” <em>Ensign</em> or <em>Liahona,</em> May 2017, 145; “<a href="https://www.lds.org/topics/mother-in-heaven">Mother in Heaven</a>,” Gospel Topics, topics.lds.org.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="138352186" id="note4_p1">The Apostle Paul indicated that we knew the Father so well that our souls still yearn to call him <em>Abba,</em> which means “Daddy,” a term reserved for fathers with whom we are exceedingly familiar (see <a class="scripture-ref" href="/study/scriptures/nt/rom/8?lang=eng&amp;id=p15#p15">Romans 8:15</a>).</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="138352188" id="note5_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/130?lang=eng&amp;id=p22#p22">Doctrine and Covenants 130:22</a>.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="138352190" id="note6_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/132?lang=eng&amp;id=p19-p20#p19">Doctrine and Covenants 132:19–20</a>.</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="138352192" id="note7_p1">See <a class="scripture-ref" href="/study/scriptures/nt/matt/5?lang=eng&amp;id=p48#p48">Matthew 5:48</a>; see also <a class="scripture-ref" href="/study/scriptures/nt/2-pet/1?lang=eng&amp;id=p3-p8#p3">2 Peter 1:3–8</a>.</p>
+</li>
+<li data-marker="8." id="note8" data-full-marker="8.">
+<p data-aid="138352194" id="note8_p1">These conditions included keeping our first estate (see <a class="scripture-ref" href="/study/scriptures/pgp/abr/3?lang=eng&amp;id=p26#p26">Abraham 3:26</a>) and then in mortality exercising faith in Jesus Christ and His Atonement, repenting, being baptized by immersion by someone holding the priesthood authority of God, receiving the gift of the Holy Ghost, and enduring to the end (see <a class="scripture-ref" href="/study/scriptures/bofm/3-ne/27?lang=eng&amp;id=p16-p20#p16">3 Nephi 27:16–20</a>).</p>
+</li>
+<li data-marker="9." id="note9" data-full-marker="9.">
+<p data-aid="138352196" id="note9_p1">President Dallin H. Oaks has taught: “Some who are listening to this message are probably saying, ‘But what about me?’ We know that many worthy and wonderful Latter-day Saints currently lack the ideal opportunities and essential requirements for their progress. Singleness, childlessness, death, and divorce frustrate ideals and postpone the fulfillment of promised blessings. … But these frustrations are only temporary. The Lord has promised that in the eternities no blessing will be denied his sons and daughters who keep the commandments, are true to their covenants, and desire what is right” (“<a class="cross-ref" href="/study/general-conference/1993/10/the-great-plan-of-happiness?lang=eng">The Great Plan of Happiness</a>,” <em>Ensign,</em> Nov. 1993, 75).</p>
+</li>
+<li data-marker="10." id="note10" data-full-marker="10.">
+<p data-aid="138352198" id="note10_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/mosiah/2?lang=eng&amp;id=p41#p41">Mosiah 2:41</a>.</p>
+</li>
+<li data-marker="11." id="note11" data-full-marker="11.">
+<p data-aid="138352200" id="note11_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/alma/42?lang=eng&amp;id=p5#p5">Alma 42:5</a>; it is also called the plan of redemption (see, for example, <a class="scripture-ref" href="/study/scriptures/bofm/jacob/6?lang=eng&amp;id=p8#p8">Jacob 6:8</a>) and the plan of happiness (see <a class="scripture-ref" href="/study/scriptures/bofm/alma/42?lang=eng&amp;id=p8%2Cp16#p8">Alma 42:8, 16</a>).</p>
+</li>
+<li data-marker="12." id="note12" data-full-marker="12.">
+<p data-aid="138352201" id="note12_p1">See <a class="scripture-ref" href="/study/scriptures/ot/job/38?lang=eng&amp;id=p4-p7#p4">Job 38:4–7</a>.</p>
+</li>
+<li data-marker="13." id="note13" data-full-marker="13.">
+<p data-aid="138352204" id="note13_p1">See, for example, <a class="scripture-ref" href="/study/scriptures/nt/heb/5?lang=eng&amp;id=p8#p8">Hebrews 5:8</a>; <a class="scripture-ref" href="/study/scriptures/nt/heb/12?lang=eng&amp;id=p11#p11">12:11</a>; <a class="scripture-ref" href="/study/scriptures/bofm/ether/12?lang=eng&amp;id=p27#p27">Ether 12:27</a>. At least at first, some of the challenges we face in mortality may seem with our limited understanding that they would preclude us from obtaining some of our most hoped-for promised blessings. In spite of these seeming contradictions, God will give us every promised blessing if we remain faithful.</p>
+</li>
+<li data-marker="14." id="note14" data-full-marker="14.">
+<p data-aid="138352206" id="note14_p1">See <a class="scripture-ref" href="/study/scriptures/nt/luke/1?lang=eng&amp;id=p31-p35#p31">Luke 1:31–35</a>; <a class="scripture-ref" href="/study/scriptures/nt/john/1?lang=eng&amp;id=p14#p14">John 1:14</a>; <a class="scripture-ref" href="/study/scriptures/bofm/1-ne/11?lang=eng&amp;id=p18-p21#p18">1 Nephi 11:18–21</a>; Guide to the Scriptures, “Jesus Christ,” scriptures.lds.org.</p>
+</li>
+<li data-marker="15." id="note15" data-full-marker="15.">
+<p data-aid="138352208" id="note15_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/93?lang=eng&amp;id=p4-p5%2Cp16-p17%2Cp19-p20#p4">Doctrine and Covenants 93:4–5, 16–17, 19–20</a>.</p>
+</li>
+<li data-marker="16." id="note16" data-full-marker="16.">
+<p data-aid="138352210" id="note16_p1">See <a class="scripture-ref" href="/study/scriptures/pgp/moses/7?lang=eng&amp;id=p32#p32">Moses 7:32</a>.</p>
+</li>
+<li data-marker="17." id="note17" data-full-marker="17.">
+<p data-aid="138352211" id="note17_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/122?lang=eng&amp;id=p9#p9">Doctrine and Covenants 122:9</a>.</p>
+</li>
+<li data-marker="18." id="note18" data-full-marker="18.">
+<p data-aid="138352213" id="note18_p1">See <a class="scripture-ref" href="/study/scriptures/nt/rom/8?lang=eng&amp;id=p28#p28">Romans 8:28</a>.</p>
+</li>
+<li data-marker="19." id="note19" data-full-marker="19.">
+<p data-aid="138352215" id="note19_p1">See <a class="scripture-ref" href="/study/scriptures/nt/matt/6?lang=eng&amp;id=p11#p11">Matthew 6:11</a>.</p>
+</li>
+<li data-marker="20." id="note20" data-full-marker="20.">
+<p data-aid="138352217" id="note20_p1">See N. Eldon Tanner, “<a class="cross-ref" href="/study/general-conference/1974/04/the-importance-of-prayer?lang=eng">The Importance of Prayer</a>,” <em>Ensign,</em> May 1974, 50–53.</p>
+</li>
+<li data-marker="21." id="note21" data-full-marker="21.">
+<p data-aid="138352219" id="note21_p1">See <a class="scripture-ref" href="/study/scriptures/nt/luke/11?lang=eng&amp;id=p10-p13#p10">Luke 11:10–13</a>; <a class="scripture-ref" href="/study/scriptures/nt/james/1?lang=eng&amp;id=p17#p17">James 1:17</a>.</p>
+</li>
+<li data-marker="22." id="note22" data-full-marker="22.">
+<p data-aid="138352221" id="note22_p1">See <a class="scripture-ref" href="/study/scriptures/nt/luke/11?lang=eng&amp;id=p5-p10#p5">Luke 11:5–10</a>; Joseph Smith Translation, <a class="scripture-ref" href="/study/scriptures/nt/luke/11?lang=eng&amp;id=p5-p6#p5">Luke 11:5–6</a> (in Luke 11:5, footnote <em>a</em>); <a class="scripture-ref" href="/study/scriptures/bofm/3-ne/13?lang=eng&amp;id=p6#p6">3 Nephi 13:6</a>.</p>
+</li>
+<li data-marker="23." id="note23" data-full-marker="23.">
+<p data-aid="138352223" id="note23_p1">See <a class="scripture-ref" href="/study/scriptures/nt/matt/6?lang=eng&amp;id=p13#p13">Matthew 6:13</a>.</p>
+</li>
+<li data-marker="24." id="note24" data-full-marker="24.">
+<p data-aid="138352226" id="note24_p1">See <a class="scripture-ref" href="/study/scriptures/pgp/moses/7?lang=eng&amp;id=p31-p40#p31">Moses 7:31–40</a>.</p>
+</li>
+<li data-marker="25." id="note25" data-full-marker="25.">
+<p data-aid="138352229" id="note25_p1">See <a class="scripture-ref" href="/study/scriptures/nt/james/1?lang=eng&amp;id=p17#p17">James 1:17</a>.</p>
+</li>
+<li data-marker="26." id="note26" data-full-marker="26.">
+<p data-aid="138352231" id="note26_p1">See <a class="scripture-ref" href="/study/scriptures/nt/john/15?lang=eng&amp;id=p1-p2#p1">John 15:1–2</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/122?lang=eng&amp;id=p6-p7#p6">Doctrine and Covenants 122:6–7</a>.</p>
+</li>
+<li data-marker="27." id="note27" data-full-marker="27.">
+<p data-aid="138352232" id="note27_p1">See <a class="scripture-ref" href="/study/scriptures/nt/heb/12?lang=eng&amp;id=p5-p11#p5">Hebrews 12:5–11</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/95?lang=eng&amp;id=p1#p1">Doctrine and Covenants 95:1</a>.</p>
+</li>
+<li data-marker="28." id="note28" data-full-marker="28.">
+<p data-aid="138352233" id="note28_p1"><a class="scripture-ref" href="/study/scriptures/pgp/moses/7?lang=eng&amp;id=p35#p35">Moses 7:35</a>.</p>
+</li>
+<li data-marker="29." id="note29" data-full-marker="29.">
+<p data-aid="138352234" id="note29_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/alma/37?lang=eng&amp;id=p12%2Cp37#p12">Alma 37:12, 37</a>.</p>
+</li>
+<li data-marker="30." id="note30" data-full-marker="30.">
+<p data-aid="138352235" id="note30_p1">See <a class="scripture-ref" href="/study/scriptures/nt/john/14?lang=eng&amp;id=p26#p26">John 14:26</a>; <a class="scripture-ref" href="/study/scriptures/bofm/2-ne/31?lang=eng&amp;id=p12#p12">2 Nephi 31:12</a>.</p>
+</li>
+<li data-marker="31." id="note31" data-full-marker="31.">
+<p data-aid="138352236" id="note31_p1">See <a class="scripture-ref" href="/study/scriptures/nt/john/17?lang=eng&amp;id=p21-p23%2Cp26#p21">John 17:21–23, 26</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/93?lang=eng&amp;id=p36#p36">Doctrine and Covenants 93:36</a>.</p>
+</li>
+<li data-marker="32." id="note32" data-full-marker="32.">
+<p data-aid="138352237" id="note32_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/76?lang=eng&amp;id=p53#p53">Doctrine and Covenants 76:53</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/88?lang=eng&amp;id=p67-p68#p67">88:67–68</a>.</p>
+</li>
+<li data-marker="33." id="note33" data-full-marker="33.">
+<p data-aid="138352238" id="note33_p1">See <a class="scripture-ref" href="/study/scriptures/nt/1-pet/4?lang=eng&amp;id=p6#p6">1 Peter 4:6</a>. Elder Melvin J. Ballard, speaking of why a man he baptized had joined the Church, said, “It was made known to me that his ancestors in the spirit world had accepted the Gospel years ago and had been praying that some one of their family on earth would open the door for them, and that their prayers had availed and the Lord had directed the missionaries to this man’s door” (in Melvin R. Ballard, <em>Melvin J. Ballard, Crusader for Righteousness</em> [1966], 250).</p>
+</li>
+<li data-marker="34." id="note34" data-full-marker="34.">
+<p data-aid="138352239" id="note34_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/morm/7?lang=eng&amp;id=p5-p6#p5">Mormon 7:5–6</a>; see also <a class="scripture-ref" href="/study/scriptures/nt/john/5?lang=eng&amp;id=p21%2Cp26#p21">John 5:21, 26</a>; <a class="scripture-ref" href="/study/scriptures/nt/1-cor/6?lang=eng&amp;id=p14#p14">1 Corinthians 6:14</a>; <a class="scripture-ref" href="/study/scriptures/bofm/2-ne/9?lang=eng&amp;id=p11-p12#p11">2 Nephi 9:11–12</a>; <a class="scripture-ref" href="/study/scriptures/bofm/alma/40?lang=eng&amp;id=p2-p3#p2">Alma 40:2–3</a>; <a class="scripture-ref" href="/study/scriptures/bofm/3-ne/27?lang=eng&amp;id=p14#p14">3 Nephi 27:14</a>.</p>
+</li>
+<li data-marker="35." id="note35" data-full-marker="35.">
+<p data-aid="138352240" id="note35_p1">See <a class="scripture-ref" href="/study/scriptures/nt/john/5?lang=eng&amp;id=p22#p22">John 5:22</a>; <a class="scripture-ref" href="/study/scriptures/bofm/jacob/6?lang=eng&amp;id=p9#p9">Jacob 6:9</a>; <a class="scripture-ref" href="/study/scriptures/bofm/alma/11?lang=eng&amp;id=p44#p44">Alma 11:44</a>; <a class="scripture-ref" href="/study/scriptures/bofm/hel/14?lang=eng&amp;id=p15-p18#p15">Helaman 14:15–18</a>. The Atonement of Christ overcomes all the effects of the Fall of Adam, including both physical and spiritual death, which both must be overcome to allow us to return to the presence of our Heavenly Father. Those who have repented of their sins will dwell with the Father and the Son in eternity. However, those who have failed to repent will suffer the second death, which is brought about by their own sins (see <a class="scripture-ref" href="/study/scriptures/bofm/hel/14?lang=eng&amp;id=p15-p18#p15">Helaman 14:15–18</a>).</p>
+</li>
+<li data-marker="36." id="note36" data-full-marker="36.">
+<p data-aid="138352241" id="note36_p1"><a class="scripture-ref" href="/study/scriptures/bofm/2-ne/2?lang=eng&amp;id=p8#p8">2 Nephi 2:8</a>.</p>
+</li>
+<li data-marker="37." id="note37" data-full-marker="37.">
+<p data-aid="138352242" id="note37_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/76?lang=eng&amp;id=p56#p56">Doctrine and Covenants 76:56</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/88?lang=eng&amp;id=p28-p29#p28">88:28–29</a>.</p>
+</li>
+<li data-marker="38." id="note38" data-full-marker="38.">
+<p data-aid="138352243" id="note38_p1"><a class="scripture-ref" href="/study/scriptures/bofm/mosiah/2?lang=eng&amp;id=p41#p41">Mosiah 2:41</a>.</p>
+</li>
+<li data-marker="39." id="note39" data-full-marker="39.">
+<p data-aid="138352244" id="note39_p1">See <a class="scripture-ref" href="/study/scriptures/nt/rev/7?lang=eng&amp;id=p17#p17">Revelation 7:17</a>.</p>
+</li>
+<li data-marker="40." id="note40" data-full-marker="40.">
+<p data-aid="138352245" id="note40_p1">See <a class="scripture-ref" href="/study/scriptures/pgp/moses/7?lang=eng&amp;id=p30#p30">Moses 7:30</a>. Heavenly Father even continues to watch over and provide for those in the terrestrial kingdom through the ministrations of Jesus Christ and other celestial beings (see <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/76?lang=eng&amp;id=p77%2Cp87#p77">Doctrine and Covenants 76:77, 87</a>) and those in the telestial kingdom through the ministrations of the Holy Ghost and angels (see <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/76?lang=eng&amp;id=p86%2Cp88#p86">Doctrine and Covenants 76:86, 88</a>).</p>
+</li>
+<li data-marker="41." id="note41" data-full-marker="41.">
+<p data-aid="138352246" id="note41_p1"><a class="scripture-ref" href="/study/scriptures/pgp/moses/7?lang=eng&amp;id=p35#p35">Moses 7:35</a>; see also <a class="scripture-ref" href="/study/scriptures/ot/ps/90?lang=eng&amp;id=p2#p2">Psalm 90:2</a>.</p>
+</li>
+<li data-marker="42." id="note42" data-full-marker="42.">
+<p data-aid="138352249" id="note42_p1">See <a class="scripture-ref" href="/study/scriptures/ot/ps/103?lang=eng&amp;id=p6-p8#p6">Psalm 103:6–8</a>; <a class="scripture-ref" href="/study/scriptures/nt/luke/6?lang=eng&amp;id=p36#p36">Luke 6:36</a>; <a class="scripture-ref" href="/study/scriptures/pgp/moses/7?lang=eng&amp;id=p30#p30">Moses 7:30</a>.</p>
+</li>
+<li data-marker="43." id="note43" data-full-marker="43.">
+<p data-aid="138352250" id="note43_p1">See <a class="scripture-ref" href="/study/scriptures/nt/1-jn/4?lang=eng&amp;id=p16#p16">1 John 4:16</a>.</p>
+</li>
+<li data-marker="44." id="note44" data-full-marker="44.">
+<p data-aid="138352251" id="note44_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/84?lang=eng&amp;id=p40#p40">Doctrine and Covenants 84:40</a>.</p>
+</li>
+<li data-marker="45." id="note45" data-full-marker="45.">
+<p data-aid="138352253" id="note45_p1">See <a class="scripture-ref" href="/study/scriptures/nt/james/1?lang=eng&amp;id=p17#p17">James 1:17</a>.</p>
+</li>
+<li data-marker="46." id="note46" data-full-marker="46.">
+<p data-aid="138352256" id="note46_p1">See <a class="scripture-ref" href="/study/scriptures/ot/num/23?lang=eng&amp;id=p19#p19">Numbers 23:19</a>.</p>
+</li>
+<li data-marker="47." id="note47" data-full-marker="47.">
+<p data-aid="138352257" id="note47_p1">See <a class="scripture-ref" href="/study/scriptures/nt/acts/10?lang=eng&amp;id=p34-p35#p34">Acts 10:34–35</a>.</p>
+</li>
+<li data-marker="48." id="note48" data-full-marker="48.">
+<p data-aid="138352258" id="note48_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/1-ne/9?lang=eng&amp;id=p6#p6">1 Nephi 9:6</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/130?lang=eng&amp;id=p7#p7">Doctrine and Covenants 130:7</a>.</p>
+</li>
+<li data-marker="49." id="note49" data-full-marker="49.">
+<p data-aid="138352261" id="note49_p1">Dictionary.com defines <em>intelligence</em> as the “capacity for learning, reasoning, understanding, and similar forms of mental activity; aptitude in grasping truths, relationships, facts, meanings, etc.” and “knowledge.”</p>
+</li>
+<li data-marker="50." id="note50" data-full-marker="50.">
+<p data-aid="138352263" id="note50_p1">See <a class="scripture-ref" href="/study/scriptures/pgp/abr/3?lang=eng&amp;id=p19#p19">Abraham 3:19</a>. Jesus Christ as a glorified, perfected being is also more intelligent than us all.</p>
+</li>
+<li data-marker="51." id="note51" data-full-marker="51.">
+<p data-aid="138352267" id="note51_p1">See <a class="scripture-ref" href="/study/scriptures/nt/rev/21?lang=eng&amp;id=p22#p22">Revelation 21:22</a>.</p>
+</li>
+<li data-marker="52." id="note52" data-full-marker="52.">
+<p data-aid="138352270" id="note52_p1">See <a class="scripture-ref" href="/study/scriptures/pgp/abr/3?lang=eng&amp;id=p17#p17">Abraham 3:17</a>.</p>
+</li>
+<li data-marker="53." id="note53" data-full-marker="53.">
+<p data-aid="138352273" id="note53_p1">See <a class="scripture-ref" href="/study/scriptures/pgp/moses/1?lang=eng&amp;id=p39#p39">Moses 1:39</a>.</p>
+</li>
+<li data-marker="54." id="note54" data-full-marker="54.">
+<p data-aid="138352276" id="note54_p1">Richard G. Scott, “<a class="cross-ref" href="/study/general-conference/1995/10/trust-in-the-lord?lang=eng">Trust in the Lord</a>,” <em>Ensign,</em> Nov. 1995, 17.</p>
+</li>
+<li data-marker="55." id="note55" data-full-marker="55.">
+<p data-aid="138352279" id="note55_p1">Richard G. Scott, “<a class="cross-ref" href="/study/general-conference/1995/10/trust-in-the-lord?lang=eng">Trust in the Lord</a>,” 17.</p>
+</li>
+<li data-marker="56." id="note56" data-full-marker="56.">
+<p data-aid="138352281" id="note56_p1">See <a class="scripture-ref" href="/study/scriptures/nt/john/5?lang=eng&amp;id=p22#p22">John 5:22</a>; <a class="scripture-ref" href="/study/scriptures/pgp/moses/1?lang=eng&amp;id=p39#p39">Moses 1:39</a>. It is Satan and we ourselves who condemn us (see <a class="scripture-ref" href="/study/scriptures/nt/rev/12?lang=eng&amp;id=p10#p10">Revelation 12:10</a>; <a class="scripture-ref" href="/study/scriptures/bofm/alma/12?lang=eng&amp;id=p14#p14">Alma 12:14</a>).</p>
+</li>
+<li data-marker="57." id="note57" data-full-marker="57.">
+<p data-aid="138352284" id="note57_p1">See <a class="scripture-ref" href="/study/scriptures/nt/john/4?lang=eng&amp;id=p23#p23">John 4:23</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/18?lang=eng&amp;id=p40#p40">Doctrine and Covenants 18:40</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/20?lang=eng&amp;id=p29#p29">20:29</a>.</p>
+</li>
+<li data-marker="58." id="note58" data-full-marker="58.">
+<p data-aid="138352286" id="note58_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/3-ne/11?lang=eng&amp;id=p11#p11">3 Nephi 11:11</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/93?lang=eng&amp;id=p11-p19#p11">Doctrine and Covenants 93:11–19</a>.</p>
+</li>
+<li data-marker="59." id="note59" data-full-marker="59.">
+<p data-aid="138352289" id="note59_p1">Repentance is the process by which we change our very nature so that we become like God. Thus, we should be continually repenting, not just repenting when we “do something wrong.”</p>
+</li>
+<li data-marker="60." id="note60" data-full-marker="60.">
+<p data-aid="138352291" id="note60_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/93?lang=eng&amp;id=p19-p20#p19">Doctrine and Covenants 93:19–20</a>.</p>
+</li>
+<li data-marker="61." id="note61" data-full-marker="61.">
+<p data-aid="138352294" id="note61_p1"><em>Lectures on Faith,</em> 38; see also <a class="scripture-ref" href="/study/scriptures/bofm/moro/7?lang=eng&amp;id=p48#p48">Moroni 7:48</a>; <a class="scripture-ref" href="/study/scriptures/bofm/moro/10?lang=eng&amp;id=p32-p33#p32">10:32–33</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/76?lang=eng&amp;id=p56%2Cp94-p95#p56">Doctrine and Covenants 76:56, 94–95</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/84?lang=eng&amp;id=p33-p38#p33">84:33–38</a>.</p>
+</li>
+<li data-marker="62." id="note62" data-full-marker="62.">
+<p data-aid="138352296" id="note62_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/93?lang=eng&amp;id=p20#p20">Doctrine and Covenants 93:20</a>; emphasis added.</p>
+</li>
+<li data-marker="63." id="note63" data-full-marker="63.">
+<p data-aid="138352299" id="note63_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/moro/10?lang=eng&amp;id=p32-p33#p32">Moroni 10:32–33</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/76?lang=eng&amp;id=p69%2Cp94-p95#p69">Doctrine and Covenants 76:69, 94–95</a>.</p>
+</li>
+<li data-marker="64." id="note64" data-full-marker="64.">
+<p data-aid="138352301" id="note64_p1">Why can’t or won’t God reveal more about the process of becoming like Him? I don’t honestly know all the reasons. But there are at least two that I do understand. The first is that some things are simply incomprehensible in our mortal estate (see <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/78?lang=eng&amp;id=p17#p17">Doctrine and Covenants 78:17</a>). It might be akin to trying to explain the internet to someone who lived in the Middle Ages. The context and perspective are just not there. And the second is that gifts of grace often come to us precisely because we must agonize and struggle through not knowing.</p>
+</li>
+<li data-marker="65." id="note65" data-full-marker="65.">
+<p data-aid="138352303" id="note65_p1">The sacrifices we are asked to make may be essential to achieving perfection (see Joseph Smith Translation, <a class="scripture-ref" href="/study/scriptures/nt/heb/11?lang=eng&amp;id=p40#p40">Hebrews 11:40</a> [in <a class="scripture-ref" href="/study/scriptures/nt/heb/11?lang=eng&amp;id=p40#p40">Hebrews 11:40</a>, footnote <em>a</em>]).</p>
+</li>
+<li data-marker="66." id="note66" data-full-marker="66.">
+<p data-aid="138352306" id="note66_p1">See <a class="scripture-ref" href="/study/scriptures/nt/rom/8?lang=eng&amp;id=p18#p18">Romans 8:18</a>.</p>
+</li>
+<li data-marker="67." id="note67" data-full-marker="67.">
+<p data-aid="138352309" id="note67_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/78?lang=eng&amp;id=p17-p18#p17">Doctrine and Covenants 78:17–18</a>.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
+      <guid isPermaLink="false">/general-conference/2018/10/the-father</guid>
+      <enclosure url="https://assets.churchofjesuschrist.org/ccgwgbn0wfdb36duwe2dw6w4g8fxi2dxq8c1mnbg-64k-en.mp3" length="5150690" type="audio/mpeg"/>
+      <pubDate>Sun, 07 Oct 2018 14:00:00 -0600</pubDate>
+      <itunes:author>Brian K. Ashton</itunes:author>
     </item>
   </channel>
 </rss>

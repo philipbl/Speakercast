@@ -1,161 +1,189 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Talks By Jairo Mazzagardi</title>
-    <link>http://philip.lundrigan.org/Speakercast/</link>
+    <link>https://philip.lundrigan.org/Speakercast/</link>
     <description>General Conference talks by Jairo Mazzagardi.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Speakercast</generator>
     <image>
-      <url>http://philip.lundrigan.org/Speakercast/covers/Jairo%20Mazzagardi.jpg</url>
+      <url>https://philip.lundrigan.org/Speakercast/covers/Jairo%20Mazzagardi.jpg</url>
       <title>General Conference talks by Jairo Mazzagardi.</title>
-      <link>http://philip.lundrigan.org/Speakercast/</link>
+      <link>https://philip.lundrigan.org/Speakercast/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 03 Oct 2010 14:00:00 -0700</lastBuildDate>
-    <pubDate>Sun, 03 Oct 2010 14:00:00 -0700</pubDate>
+    <lastBuildDate>Sat, 02 Apr 2016 14:00:00 -0600</lastBuildDate>
+    <pubDate>Sat, 02 Apr 2016 14:00:00 -0600</pubDate>
+    <itunes:author>Jairo Mazzagardi</itunes:author>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
+    <itunes:image href="https://philip.lundrigan.org/Speakercast/covers/Jairo%20Mazzagardi.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>General Conference talks by Jairo Mazzagardi.</itunes:summary>
     <item>
       <title>Avoiding the Trap of Sin</title>
-      <link>http://www.lds.org/general-conference/2010/10/avoiding-the-trap-of-sin?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2010/10/avoiding-the-trap-of-sin?lang=eng</link>
       <description>Stay strong and make good choices that will allow you to eat the fruit of the tree of life.</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/2010/10/avoiding-the-trap-of-sin" schema-version="1" doc-id="general-conference_PD50021411_000_5050" doc-version="2" hash="8dLBIA">
-  
-  <div class="heading" uri="/general-conference/2010/10/avoiding-the-trap-of-sin.head">
-    <h1 class="title" pid="LcbRsQTQlUmgelN0Cgn0ng" hash="MPrh-g">Avoiding the Trap of Sin</h1>
-    <p class="authorName" pid="qH7MabiEGEiFNmRu4uoNgQ" hash="xFeW_g">Jairo Mazzagardi</p>
-    <p class="kicker" pid="gyZI47dPXkGwV7H4gPyWPA" hash="ZBkREg">Stay strong and make good choices that will allow you to eat the fruit of the tree of life.</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/2010/10/avoiding-the-trap-of-sin.t1">
-      <p class="para" uri="/general-conference/2010/10/avoiding-the-trap-of-sin.p1" pid="dm1v1dOG-UeFgx8MudPfuQ" hash="Ezm_jQ">On a beautiful sunny morning, I invited my almost eight-year-old granddaughter, Vicki, to walk with me near a lake, which is actually a water reservoir for our beautiful city.</p>
-      <p class="para" uri="/general-conference/2010/10/avoiding-the-trap-of-sin.p2" pid="E6uao-_twE-Rq5kfQiNirg" hash="jABqLA">We walked happily, listening to the soft noise of the crystal clear brook running alongside our path. The path was lined with beautiful green trees and sweet-scented flowers. We could hear birds singing.</p>
-      <p class="para" uri="/general-conference/2010/10/avoiding-the-trap-of-sin.p3" pid="Pocsq2KUK0ecS0g44mcusA" hash="l0sbLQ">I asked my blue-eyed, cheerful, and innocent granddaughter how she was preparing for baptism.</p>
-      <p class="para" uri="/general-conference/2010/10/avoiding-the-trap-of-sin.p4" pid="YN7EaMMSwEmGiOyJ1HJWig" hash="hoJyzw">She answered with a question: “Grandpa, what is sin?”</p>
-      <p class="para" uri="/general-conference/2010/10/avoiding-the-trap-of-sin.p5" pid="z0_SELuDEU-BFvk8Ne9S9A" hash="cWMUFw">I silently prayed for inspiration and tried to respond as simply as I could: “Sin is the intentional disobedience to God’s commandments. It makes Heavenly Father sad, and its results are suffering and sadness.”</p>
-      <p class="para" uri="/general-conference/2010/10/avoiding-the-trap-of-sin.p6" pid="wQS0y3sXPEiawgp-Ly3iIA" hash="88_VtA">Clearly concerned, she asked me, “And how does it get us?”</p>
-      <p class="para" uri="/general-conference/2010/10/avoiding-the-trap-of-sin.p7" pid="dTHixitQ90aH-fvHDhuXfA" hash="OjGsfg">The question first reveals purity, but it also reveals a concern for how to avoid involvement with sin.</p>
-      <p class="para" uri="/general-conference/2010/10/avoiding-the-trap-of-sin.p8" pid="ycX6mf2GO06-lJBnBrpdsg" hash="VWUZ-A">For her to understand more clearly, I used the natural elements we had around us as an illustration. Continuing down our path, we found by the side of a barbed-wire fence a stone post of considerable size; it was a heavy structure with flowers, bushes, and little trees growing around it. Over time these plants would become bigger than the post itself.</p>
-      <p class="para" uri="/general-conference/2010/10/avoiding-the-trap-of-sin.p9" pid="8CGSqgMy90C2NqbsS2SCZQ" hash="9R5O_A">I remembered that a little farther down the path, we would find another post that had already been taken over little by little, almost unnoticed, by the vegetation that grew around it. I imagine that a post would not perceive that, despite its strength, it could be encompassed and destroyed by fragile plants. The post would have thought, “No problem. I am strong and big, and this small plant will do me no harm.”</p>
-      <p class="para" uri="/general-conference/2010/10/avoiding-the-trap-of-sin.p10" pid="eozf9h8YO0WpKtduJshrPg" hash="fgHXxw">So as a nearby tree grows bigger, the post does not notice at first; then the post starts enjoying the shade the tree provides. But the tree continues to grow, and it encircles the post with two branches that at first seem fragile but that in time intertwine and surround the post.</p>
-      <p class="para" uri="/general-conference/2010/10/avoiding-the-trap-of-sin.p11" pid="uDDYyBrvqkSCVI_3cbOniA" hash="4EQMGg">Still the post does not realize what is happening.</p>
-      <p class="para" uri="/general-conference/2010/10/avoiding-the-trap-of-sin.p12" pid="IJ0rKsAy3UuBHfuEetOpUg" hash="BpGuFA">Soon, in our walk, we found the proverbial post. It had been plucked out from the ground. My little granddaughter looked impressed and asked me, “Grandpa, is this the tree of sin?”</p>
-      <p class="para" uri="/general-conference/2010/10/avoiding-the-trap-of-sin.p13" pid="ZFGX7gqzx02GVTTZrVQS3g" hash="JudkQg">I then explained to her that it was only a symbol, or an example, of how sin gets us.</p>
-      <p class="para" uri="/general-conference/2010/10/avoiding-the-trap-of-sin.p14" pid="fOEVpsymyEm2ip8MMzIBMw" hash="kMLT4g">I don’t know what the effect of our conversation will be on her, but it made me think of the many faces of sin and of how it sneaks into our lives if we allow it to.</p>
-      <p class="para" uri="/general-conference/2010/10/avoiding-the-trap-of-sin.p15" pid="oXjWMRIyfEyh1Nx-o2FKgw" hash="yvBoZA">We must be alert because small choices can bring great consequences, just as going to bed early and waking up early have great consequences. <a href="/scriptures/dc-testament/dc/88.124" class="scriptureRef">Doctrine and Covenants 88:124</a> teaches us, “Arise early, that your bodies and your minds may be invigorated.” Those who go to bed early wake up rested, with the body and mind invigorated and blessed by the Lord because of obedience.</p>
-      <p class="para" uri="/general-conference/2010/10/avoiding-the-trap-of-sin.p16" pid="14glwf2coEu3KUPeCCfV4g" hash="H37EYQ">What may appear to be of little importance, such as going to bed late, not praying for a day, skipping fasting, or breaking the Sabbath—such little slips—will make us lose sensitivity little by little, allowing us to do worse things.</p>
-      <p class="para" uri="/general-conference/2010/10/avoiding-the-trap-of-sin.p17" pid="-v88mUP_nku7PnilGC9E2A" hash="oKjmuA">When I was a teenager, my curfew was 10:00 p.m. Today, that is the time some go out in order to have fun. Yet we know that it is at night that some of the worst things happen. It is during the dark hours that some youth go to places with inappropriate environments, where music and lyrics do not allow them to have the companionship of the Holy Ghost. Then, under these circumstances, they become easy prey to sin.</p>
-      <p class="para" uri="/general-conference/2010/10/avoiding-the-trap-of-sin.p18" pid="YwiYUgfSjEmVyVdK64SDsg" hash="x6OdOg">Often, becoming prey to sin starts with someone choosing friends whose standards are not consistent with the gospel; and in order to be popular or to be accepted by peers, the person then compromises gospel principles and laws, going down a path that will bring only pain and sadness to this person and to his or her loved ones.</p>
-      <p class="para" uri="/general-conference/2010/10/avoiding-the-trap-of-sin.p19" pid="Ft6R0vDKckeRAXYbWPMAPA" hash="RK_njQ">We must be alert not to let sin grow around us. Forms of sin are everywhere—even, for example, in a computer or cell phone. These technologies are useful and can bring great benefits to us. But their inappropriate use—such as involvement in time-wasting games, programs that would drive you to carnal pleasure, or much worse things such as pornography—is destructive. Pornography destroys character and makes its user sink in the quicksand of filth, out of which the person can escape only with much help.</p>
-      <p class="para" uri="/general-conference/2010/10/avoiding-the-trap-of-sin.p20" pid="x9dwbF6zuUyejdG6Aoy8QQ" hash="uDeY9A">This terrible monster causes pain and suffering both to the user and to his or her innocent children, spouse, father, and mother. The fruit of carnal pleasure is bitterness and sadness. The fruit of obedience and sacrifice is sweetness and everlasting joy.</p>
-      <p class="para" uri="/general-conference/2010/10/avoiding-the-trap-of-sin.p21" pid="ubTxwIn-GEK27Vgq-6r_dw" hash="Lg5nXw">Decisions about standards to follow must be made in advance, not when temptation appears. Our parameters must be:</p>
-      <div class="figure" uri="/general-conference/2010/10/avoiding-the-trap-of-sin.f2">
-	<ul class="bullet">
-	  <li pid="hSXkm6H1a0GmaTfhz2I6xA" hash="MZiQSg">
-          <span class="label">•</span>
-          <p pid="7rfjsOzeh0CCF12cOPqKOA" hash="_C0ftg">This I will do because it is right, it comes from the Lord, and it will bring me happiness.</p>
-        </li>
-	  <li pid="dWOFxwkTGkyxMzkWmpx_KQ" hash="D84FCQ">
-          <span class="label">•</span>
-          <p pid="djha2biKD0ePzIG5NSObbQ" hash="7Zp7pw">This I will not do because it will drag me away from truth, from the Lord, and from the eternal happiness He promises to the faithful and obedient.</p>
-        </li>
-	</ul>
-      </div>
-      <p class="para" uri="/general-conference/2010/10/avoiding-the-trap-of-sin.p22" pid="fRj7FfJs-02fd6cpcNurcg" hash="Dl9zAA">Since the Father knew we would make wrong choices, He, in His wonderful plan of love, provided a Savior of the world to atone for the sins of all those who repent; who come to Him looking for help, consolation, and forgiveness; and who are willing to take upon them His name, Jesus Christ.</p>
-      <p class="para" uri="/general-conference/2010/10/avoiding-the-trap-of-sin.p23" pid="55MgtOAeh0yDxotb8rFhNA" hash="Xv-8NQ">If we sin, we must look for help quickly because alone we cannot escape sin’s trap, just as the proverbial fence post cannot free itself. Someone must help us get rid of the deadly embrace.</p>
-      <p class="para" uri="/general-conference/2010/10/avoiding-the-trap-of-sin.p24" pid="kx8tVfS_gUKAg-DmSdfzHA" hash="A9hGHQ">Parents can help, and the bishop is called by God to help us. It is to him that we must go and open our hearts.</p>
-      <p class="para" uri="/general-conference/2010/10/avoiding-the-trap-of-sin.p25" pid="WJSQ1J6eD02XoU6k-x8xBA" hash="eoP8Bg">
-        <a href="/scriptures/dc-testament/dc/58.42-43" class="scriptureRef">Doctrine and Covenants 58:42–43</a> explains:</p>
-      <p class="para" uri="/general-conference/2010/10/avoiding-the-trap-of-sin.p26" pid="ZvRVpjgEO0Kzp5UzLve2ng" hash="cVr-iw">“Behold, he who has repented of his sins, the same is forgiven, and I, the Lord, remember them no more.</p>
-      <p class="para" uri="/general-conference/2010/10/avoiding-the-trap-of-sin.p27" pid="58UA1Lz_Y0a8xUrpZsjCHw" hash="iPFGUQ">“By this ye may know if a man repenteth of his sins—behold, he will confess them and forsake them.”</p>
-      <p class="para" uri="/general-conference/2010/10/avoiding-the-trap-of-sin.p28" pid="8Jb9oZw9mEuZw0HqENlahQ" hash="4tHH3w">A few months after our walk near the lake, my granddaughter was interviewed by her bishop—her father—for baptism. After the interview I asked her how it went. She answered, almost rebuking me, “Grandpa, an interview is confidential. You know that.”</p>
-      <p class="para" uri="/general-conference/2010/10/avoiding-the-trap-of-sin.p29" pid="qBJ7ZJ81VkChlkAsLLTigg" hash="tYtn3A">Bishops, I hope you take that response seriously. It seems to me that my granddaughter grew a lot in understanding in a very short time.</p>
-      <p class="para" uri="/general-conference/2010/10/avoiding-the-trap-of-sin.p30" pid="8ODVlQBQskOVlybMBQaRXg" hash="BRAMCg">Just as the tree I have described brought sadness, pain, suffering, and entrapment, another tree can bring the opposite. It is mentioned in <a href="/scriptures/bofm/1-ne/8.10-12" class="scriptureRef">1 Nephi 8:10–12</a>:</p>
-      <p class="para" uri="/general-conference/2010/10/avoiding-the-trap-of-sin.p31" pid="ZDJlR7J7oEe6LXT5dsQzRQ" hash="IC8ltg">“And it came to pass that I beheld a tree, whose fruit was desirable to make one happy.</p>
-      <p class="para" uri="/general-conference/2010/10/avoiding-the-trap-of-sin.p32" pid="gDQZ5xrHwE2NlLZ1iCDDYw" hash="m38LbA">“And it came to pass that I did go forth and partake of the fruit thereof; and I beheld that it was most sweet, above all that I ever before tasted. Yea, and I beheld that the fruit thereof was white, to exceed all the whiteness that I had ever seen.</p>
-      <p class="para" uri="/general-conference/2010/10/avoiding-the-trap-of-sin.p33" pid="xJ5VvSNfqU2qm4QGG7zNeg" hash="YeMs9Q">“And as I partook of the fruit thereof it filled my soul with exceedingly great joy.”</p>
-      <p class="para" uri="/general-conference/2010/10/avoiding-the-trap-of-sin.p34" pid="tRfnTOv_t0KkMgupW8RmAA" hash="4jiG6A">Dear brethren and sisters, stay strong and make good choices that will allow you to eat the fruit of the tree of life. If, for any reason, you have erred or left the path, our hand is extended and we say to you, “Come. There is hope. We love you, and we want to help you be happy.”</p>
-      <p class="para" uri="/general-conference/2010/10/avoiding-the-trap-of-sin.p35" pid="sj-pgA0QBk2TbgnZ_wX9SQ" hash="n3m8iA">Heavenly Father loves us so much that He has given His only Son, Jesus Christ.</p>
-      <p class="para" uri="/general-conference/2010/10/avoiding-the-trap-of-sin.p36" pid="7bocvWKdRUKlrKBSxbifMQ" hash="PW19EA">Jesus Christ loves us so much that He gave His life in atonement for our sins!</p>
-      <p class="para" uri="/general-conference/2010/10/avoiding-the-trap-of-sin.p37" pid="VJ3LxmYKwk6wcn0IcwANMQ" hash="sp6Rlw">What are we willing to give to be clean and receive that joy?</p>
-      <p class="para" uri="/general-conference/2010/10/avoiding-the-trap-of-sin.p38" pid="Ia-DaoAVT0KlVHpZvw07Mw" hash="9bbcNw">Of these truths I bear my testimony in the holy name of Jesus Christ, amen.</p>
-    </div>
-  </div>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="103"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/eae222ded294614e1657fe3d5526d0d350e7dcf3/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/eae222ded294614e1657fe3d5526d0d350e7dcf3/full/%21192%2C/0/default" data-video-title="Avoiding the Trap of Sin" data-video-description="Stay strong and make good choices that will allow you to eat the fruit of the tree of life." data-video-id="2397117480001" data-ip="Download and Streaming                            " data-duration="590323" data-assetId="77522ae50b38553adeb1b259227feafc98f0c155" data-ref-id="77522ae50b38553adeb1b259227feafc98f0c155" data-duration-string="9:50" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/2397117480001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="188739304"/><source src="https://assets.churchofjesuschrist.org/77522ae50b38553adeb1b259227feafc98f0c155-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="37937808"/><source src="https://assets.churchofjesuschrist.org/77522ae50b38553adeb1b259227feafc98f0c155-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="72946622"/><source src="https://assets.churchofjesuschrist.org/77522ae50b38553adeb1b259227feafc98f0c155-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="188739304"/></video><h1 data-aid="28847497" id="title1">Avoiding the Trap of Sin</h1>
+<div class="byline">
+<p class="author-name" data-aid="28847498" id="p1">By Elder Jairo Mazzagardi</p>
+<p class="author-role" data-aid="28847499" id="p2">Of the Seventy</p>
+<div class="image-cropper"><img alt="Elder Jairo Mazzagardi" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/1f4d09b51a4b4f46736268a2db37c9e7df48aec5/full/%21100%2C/0/default" data-assetId="1f4d09b51a4b4f46736268a2db37c9e7df48aec5" srcset="https://www.churchofjesuschrist.org/imgs/1f4d09b51a4b4f46736268a2db37c9e7df48aec5/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/1f4d09b51a4b4f46736268a2db37c9e7df48aec5/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/1f4d09b51a4b4f46736268a2db37c9e7df48aec5/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/1f4d09b51a4b4f46736268a2db37c9e7df48aec5/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/1f4d09b51a4b4f46736268a2db37c9e7df48aec5/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/1f4d09b51a4b4f46736268a2db37c9e7df48aec5/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/1f4d09b51a4b4f46736268a2db37c9e7df48aec5/full/%21640%2C/0/default 640w" data-img-id="1f4d09b51a4b4f46736268a2db37c9e7df48aec5" data-missing-asset="false" data-width="100" data-height="120" data-aspect-ratio="0.8333333333333334" data-public-title="Mazzagardi, Jairo" data-public-description="Official portrait of Elder Jairo Mazzagardi of the Second Quorum of the Seventy, 2010.  Sustained at the April 2010 general conference."/></div>
+</div>
+<p class="kicker" data-aid="28847500" id="kicker1">Stay strong and make good choices that will allow you to eat the fruit of the tree of life.</p>
+</header>
+<div class="body-block">
+<p data-aid="28847501" id="p3">On a beautiful sunny morning, I invited my almost eight-year-old granddaughter, Vicki, to walk with me near a lake, which is actually a water reservoir for our beautiful city.</p>
+<p data-aid="28847502" id="p4">We walked happily, listening to the soft noise of the crystal clear brook running alongside our path. The path was lined with beautiful green trees and sweet-scented flowers. We could hear birds singing.</p>
+<p data-aid="28847503" id="p5">I asked my blue-eyed, cheerful, and innocent granddaughter how she was preparing for baptism.</p>
+<p data-aid="28847504" id="p6">She answered with a question: “Grandpa, what is sin?”</p>
+<p data-aid="28847505" id="p7">I silently prayed for inspiration and tried to respond as simply as I could: “Sin is the intentional disobedience to God’s commandments. It makes Heavenly Father sad, and its results are suffering and sadness.”</p>
+<p data-aid="28847506" id="p8">Clearly concerned, she asked me, “And how does it get us?”</p>
+<p data-aid="28847507" id="p9">The question first reveals purity, but it also reveals a concern for how to avoid involvement with sin.</p>
+<p data-aid="28847508" id="p10">For her to understand more clearly, I used the natural elements we had around us as an illustration. Continuing down our path, we found by the side of a barbed-wire fence a stone post of considerable size; it was a heavy structure with flowers, bushes, and little trees growing around it. Over time these plants would become bigger than the post itself.</p>
+<p data-aid="28847509" id="p11">I remembered that a little farther down the path, we would find another post that had already been taken over little by little, almost unnoticed, by the vegetation that grew around it. I imagine that a post would not perceive that, despite its strength, it could be encompassed and destroyed by fragile plants. The post would have thought, “No problem. I am strong and big, and this small plant will do me no harm.”</p>
+<p data-aid="28847510" id="p12">So as a nearby tree grows bigger, the post does not notice at first; then the post starts enjoying the shade the tree provides. But the tree continues to grow, and it encircles the post with two branches that at first seem fragile but that in time intertwine and surround the post.</p>
+<p data-aid="28847511" id="p13">Still the post does not realize what is happening.</p>
+<p data-aid="28847512" id="p14">Soon, in our walk, we found the proverbial post. It had been plucked out from the ground. My little granddaughter looked impressed and asked me, “Grandpa, is this the tree of sin?”</p>
+<p data-aid="28847513" id="p15">I then explained to her that it was only a symbol, or an example, of how sin gets us.</p>
+<p data-aid="28847514" id="p16">I don’t know what the effect of our conversation will be on her, but it made me think of the many faces of sin and of how it sneaks into our lives if we allow it to.</p>
+<p data-aid="28847515" id="p17">We must be alert because small choices can bring great consequences, just as going to bed early and waking up early have great consequences. <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/88?lang=eng&amp;id=p124#p124">Doctrine and Covenants 88:124</a> teaches us, “Arise early, that your bodies and your minds may be invigorated.” Those who go to bed early wake up rested, with the body and mind invigorated and blessed by the Lord because of obedience.</p>
+<p data-aid="28847516" id="p18">What may appear to be of little importance, such as going to bed late, not praying for a day, skipping fasting, or breaking the Sabbath—such little slips—will make us lose sensitivity little by little, allowing us to do worse things.</p>
+<p data-aid="28847517" id="p19">When I was a teenager, my curfew was 10:00 p.m. Today, that is the time some go out in order to have fun. Yet we know that it is at night that some of the worst things happen. It is during the dark hours that some youth go to places with inappropriate environments, where music and lyrics do not allow them to have the companionship of the Holy Ghost. Then, under these circumstances, they become easy prey to sin.</p>
+<p data-aid="28847518" id="p20">Often, becoming prey to sin starts with someone choosing friends whose standards are not consistent with the gospel; and in order to be popular or to be accepted by peers, the person then compromises gospel <span class="page-break" data-page="104"></span>principles and laws, going down a path that will bring only pain and sadness to this person and to his or her loved ones.</p>
+<p data-aid="28847519" id="p21">We must be alert not to let sin grow around us. Forms of sin are everywhere—even, for example, in a computer or cell phone. These technologies are useful and can bring great benefits to us. But their inappropriate use—such as involvement in time-wasting games, programs that would drive you to carnal pleasure, or much worse things such as pornography—is destructive. Pornography destroys character and makes its user sink in the quicksand of filth, out of which the person can escape only with much help.</p>
+<p data-aid="28847520" id="p22">This terrible monster causes pain and suffering both to the user and to his or her innocent children, spouse, father, and mother. The fruit of carnal pleasure is bitterness and sadness. The fruit of obedience and sacrifice is sweetness and everlasting joy.</p>
+<p data-aid="28847521" id="p23">Decisions about standards to follow must be made in advance, not when temptation appears. Our parameters must be:</p>
+<ul class="bullet">
+<li>
+<p data-aid="28847522" id="p24">This I will do because it is right, it comes from the Lord, and it will bring me happiness.</p>
+</li>
+<li>
+<p data-aid="28847523" id="p25">This I will not do because it will drag me away from truth, from the Lord, and from the eternal happiness He promises to the faithful and obedient.</p>
+</li>
+</ul>
+<p data-aid="28847524" id="p26">Since the Father knew we would make wrong choices, He, in His wonderful plan of love, provided a Savior of the world to atone for the sins of all those who repent; who come to Him looking for help, consolation, and forgiveness; and who are willing to take upon them His name, Jesus Christ.</p>
+<p data-aid="28847525" id="p27">If we sin, we must look for help quickly because alone we cannot escape sin’s trap, just as the proverbial fence post cannot free itself. Someone must help us get rid of the deadly embrace.</p>
+<p data-aid="28847526" id="p28">Parents can help, and the bishop is called by God to help us. It is to him that we must go and open our hearts.</p>
+<p data-aid="28847527" id="p29"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/58?lang=eng&amp;id=p42-p43#p42">Doctrine and Covenants 58:42–43</a> explains:</p>
+<p data-aid="28847528" id="p30">“Behold, he who has repented of his sins, the same is forgiven, and I, the Lord, remember them no more.</p>
+<p data-aid="28847529" id="p31">“By this ye may know if a man repenteth of his sins—behold, he will confess them and forsake them.”</p>
+<p data-aid="28847530" id="p32">A few months after our walk near the lake, my granddaughter was interviewed by her bishop—her father—for baptism. After the interview I asked her how it went. She answered, almost rebuking me, “Grandpa, an interview is confidential. You know that.”</p>
+<p data-aid="28847531" id="p33">Bishops, I hope you take that response seriously. It seems to me that my granddaughter grew a lot in understanding in a very short time.</p>
+<p data-aid="28847532" id="p34">Just as the tree I have described brought sadness, pain, suffering, and entrapment, another tree can bring the opposite. It is mentioned in <a class="scripture-ref" href="/study/scriptures/bofm/1-ne/8?lang=eng&amp;id=p10-p12#p10">1 Nephi 8:10–12</a>:</p>
+<p data-aid="28847533" id="p35">“And it came to pass that I beheld a tree, whose fruit was desirable to make one happy.</p>
+<p data-aid="28847534" id="p36">“And it came to pass that I did go forth and partake of the fruit thereof; and I beheld that it was most sweet, above all that I ever before tasted. Yea, and I beheld that the fruit thereof was white, to exceed all the whiteness that I had ever seen.</p>
+<p data-aid="28847535" id="p37">“And as I partook of the fruit thereof it filled my soul with <span class="page-break" data-page="105"></span>exceedingly great joy.”</p>
+<p data-aid="28847536" id="p38">Dear brethren and sisters, stay strong and make good choices that will allow you to eat the fruit of the tree of life. If, for any reason, you have erred or left the path, our hand is extended and we say to you, “Come. There is hope. We love you, and we want to help you be happy.”</p>
+<p data-aid="28847537" id="p39">Heavenly Father loves us so much that He has given His only Son, Jesus Christ.</p>
+<p data-aid="28847538" id="p40">Jesus Christ loves us so much that He gave His life in atonement for our sins!</p>
+<p data-aid="28847539" id="p41">What are we willing to give to be clean and receive that joy?</p>
+<p data-aid="28847540" id="p42">Of these truths I bear my testimony in the holy name of Jesus Christ, amen.</p>
 </div>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/2010/10/avoiding-the-trap-of-sin</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/october-2010-general-conference/2010-10-5050-elder-jairo-mazzagardi-64k-eng.mp3" length="4701762" type="audio/mpeg"/>
-      <pubDate>Sun, 03 Oct 2010 14:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/d109072c32dd11ecbcf7eeeeac1e744e7dccbff3-64k-en.mp3" length="4995626" type="audio/mpeg"/>
+      <pubDate>Sun, 03 Oct 2010 14:00:00 -0600</pubDate>
+      <itunes:author>Jairo Mazzagardi</itunes:author>
     </item>
     <item>
       <title>The Sacred Place of Restoration</title>
-      <link>http://www.lds.org/general-conference/2016/04/the-sacred-place-of-restoration?lang=eng</link>
-      <description>&lt;div type="article" uri="/general-conference/2016/04/the-sacred-place-of-restoration" dup-conf="false" dup-mag="false" schema-version="1" doc-id="general-conference_13285_000_37mazzagardi" doc-version="2" hash="ifVupg"&gt;
-	
-	&lt;div class="heading" uri="/general-conference/2016/04/the-sacred-place-of-restoration.head1"&gt;
-		&lt;h1 class="title" pid="C8eAU5PMEU2JzuCQEmJRqQ" hash="xvC8KQ"&gt;The Sacred Place of Restoration&lt;/h1&gt;
-		&lt;div class="byline"&gt;
-			&lt;p class="para" uri="/general-conference/2016/04/the-sacred-place-of-restoration.p2" pid="uMN103rUnk6oHKJb6vAttw" hash="6T4fdw1"&gt;By Elder Jairo Mazzagardi&lt;/p&gt;
-			&lt;p class="para" uri="/general-conference/2016/04/the-sacred-place-of-restoration.p3" pid="2D0VUR-jqUGTso5mckFwDA" hash="sSmk3g"&gt;Of the Seventy&lt;/p&gt;
-			&lt;a href="gl://image/?pid=hjp7h_1OSU-KHIoUmMrt3w"&gt;&lt;img xmlns="" altText="Elder Jairo Mazzagardi" src="https://edge.ldscdn.org/mobile/images/1255553/5c47eab8e675462aba3bb96fac6e9383/100x139.jpg" data-multi-src="true" data-src-50x69="https://edge.ldscdn.org/mobile/images/1255553/5c47eab8e675462aba3bb96fac6e9383/50x69.jpg" data-src-100x139="https://edge.ldscdn.org/mobile/images/1255553/5c47eab8e675462aba3bb96fac6e9383/100x139.jpg" data-src-200x279="https://edge.ldscdn.org/mobile/images/1255553/5c47eab8e675462aba3bb96fac6e9383/200x279.jpg" data-src-320x446="https://edge.ldscdn.org/mobile/images/1255553/5c47eab8e675462aba3bb96fac6e9383/320x446.jpg" data-src-460x641="https://edge.ldscdn.org/mobile/images/1255553/5c47eab8e675462aba3bb96fac6e9383/460x641.jpg" data-src-640x893="https://edge.ldscdn.org/mobile/images/1255553/5c47eab8e675462aba3bb96fac6e9383/640x893.jpg" data-src-1024x1428="https://edge.ldscdn.org/mobile/images/1255553/5c47eab8e675462aba3bb96fac6e9383/1024x1428.jpg" data-src-2048x2857="https://edge.ldscdn.org/mobile/images/1255553/5c47eab8e675462aba3bb96fac6e9383/2048x2857.jpg" data-src-3856x5381="https://edge.ldscdn.org/mobile/images/1255553/5c47eab8e675462aba3bb96fac6e9383/3856x5381.jpg" webURL="jairo-mazzagardi-second-quorum-seventy_1255553.jpg" pid="hjp7h_1OSU-KHIoUmMrt3w" hash="AAAAAA"&gt;&lt;/img&gt;&lt;/a&gt;
-		&lt;/div&gt;
-		&lt;p class="kicker" pid="LzPNXMALuECLWC-DEpMFnQ" hash="w5v-Eg"&gt;Palmyra was the stage of the Restoration, where the Father’s voice would be heard after nearly two millennia.&lt;/p&gt;
-		&lt;p class="authorName" pid="xYVtVtbC9UmtD4hJVOsxHQ" hash="6T4fdw"&gt;By Elder Jairo Mazzagardi&lt;/p&gt;
-	&lt;/div&gt;
-	&lt;div class="bodyBlock"&gt;
-		&lt;p class="para" uri="/general-conference/2016/04/the-sacred-place-of-restoration.p5" pid="xP6I3GP39km-6KwzVXnnsQ" hash="yAkebA"&gt;A good friend of mine who was a Church member tried for years to teach me the gospel of eternal families. It wasn’t until I attended the São Paulo Temple open house in October 1978 and entered a sealing room that the doctrine of eternal families came into my heart, and for days I prayed to know if this was the true Church.&lt;/p&gt;
-		&lt;p class="para" uri="/general-conference/2016/04/the-sacred-place-of-restoration.p6" pid="uDDCECi6HkGbBHy9RTuzCQ" hash="kVjOfQ"&gt;I was not religious, but I had been raised by parents who were, and I had seen what was good in other religions. At that point in my life, I thought all religions were acceptable to God.&lt;/p&gt;
-		&lt;p class="para" uri="/general-conference/2016/04/the-sacred-place-of-restoration.p7" pid="1JlgrJJVQUmBVFQsvhGroQ" hash="3J_9dA"&gt;After my visit to the temple open house, I sought an answer through prayer, having faith and a sure confidence that God would answer me, which was His Church on earth.&lt;/p&gt;
-		&lt;p class="para" uri="/general-conference/2016/04/the-sacred-place-of-restoration.p8" pid="nY253Vhs2UudzvwXuS9hjw" hash="9rldlw"&gt;After a great spiritual struggle, I finally received a clear answer. I was invited to be baptized. My baptism happened on October 31, 1978, the night before a session of the São Paulo Temple dedication.&lt;/p&gt;
-		&lt;p class="para" uri="/general-conference/2016/04/the-sacred-place-of-restoration.p9" pid="0Vsp6ekRi0GZp1iPTIIdYQ" hash="8xs7Ag"&gt;I realized that the Lord knew and cared about me as He answered my prayers.&lt;/p&gt;
-		&lt;p class="para" uri="/general-conference/2016/04/the-sacred-place-of-restoration.p10" pid="qkE6W7mRpEmyTnY_tfQC8w" hash="ccly7w"&gt;The next morning my wife and I went to São Paulo to attend a dedicatory session of the temple.&lt;/p&gt;
-		&lt;p class="para" uri="/general-conference/2016/04/the-sacred-place-of-restoration.p11" pid="-tI1zv6IokaZ2arodpE1-g" hash="FEDpyA"&gt;We were there, but I did not really know how to appreciate that wonderful opportunity yet. The following day we attended an area conference.&lt;/p&gt;
-		&lt;p class="para" uri="/general-conference/2016/04/the-sacred-place-of-restoration.p12" pid="ukyVDgRNHUyRYfPWVnOVzA" hash="zLS4jw"&gt;We had begun our journey in the Church, and we found good friends who welcomed us during this life transition.&lt;/p&gt;
-		&lt;p class="para" uri="/general-conference/2016/04/the-sacred-place-of-restoration.p13" pid="rTZmxhxatkWuTfZATvALRQ" hash="pYS9Jg"&gt;The new member classes we attended in our Sunday meetings each week were wonderful. They filled us with knowledge and made us wish for the week to pass quickly so on Sunday we could have more of that spiritual nourishment.&lt;/p&gt;
-		&lt;p class="para" uri="/general-conference/2016/04/the-sacred-place-of-restoration.p14" pid="eXLNsrVIXEW6dYss6L7LPA" hash="kBBmrA"&gt;My wife and I eagerly looked forward to entering the temple to have our family sealed for eternity. That happened one year and seven days after my baptism, which was a wonderful moment. I felt as if the eternities had been divided at the altar between what came before and what came after the sealing.&lt;/p&gt;
-		&lt;p class="para" uri="/general-conference/2016/04/the-sacred-place-of-restoration.p15" pid="Jglcrha9aUmxGlc4zzV5Og" hash="i66PaA"&gt;Having lived legally on the East Coast of the United States for a few years, I was acquainted with some of the cities, and they were mostly small.&lt;/p&gt;
-		&lt;p class="para" uri="/general-conference/2016/04/the-sacred-place-of-restoration.p16" pid="Q918LfsGIka0wMScjuLNVA" hash="v8sGMQ"&gt;When I read or heard about the events leading up to the First Vision, crowds of people were mentioned, which did not make sense to me.&lt;/p&gt;
-		&lt;p class="para" uri="/general-conference/2016/04/the-sacred-place-of-restoration.p17" pid="Pgv-PX0xcEKZCQIawryFYQ" hash="3sSXgQ"&gt;Questions began to arise in my mind. Why did the Church have to be restored in the United States and not in Brazil or Italy, the land of my ancestors?&lt;/p&gt;
-		&lt;p class="para" uri="/general-conference/2016/04/the-sacred-place-of-restoration.p18" pid="-H7qFeqNsE-lHzg05xLa6w" hash="EvlB6Q"&gt;Where were those crowds of people who were involved in the revivals and in the confusion of religions—all of which had happened in such a peaceful and calm place?&lt;/p&gt;
-		&lt;p class="para" uri="/general-conference/2016/04/the-sacred-place-of-restoration.p19" pid="jcC39LL11Uu07HcrQZGqUA" hash="IIyeZQ"&gt;I asked a lot of people about it but got no answer. I read everything I could in Portuguese and then in English but found nothing that could calm my heart. I continued to search.&lt;/p&gt;
-		&lt;p class="para" uri="/general-conference/2016/04/the-sacred-place-of-restoration.p20" pid="wsW7ZTnJD0GBi8SpdrD_Ow" hash="ocqtTQ"&gt;In October 1984, I attended general conference as a counselor in a stake presidency. After, I went to Palmyra, New York, eager to find the answer.&lt;/p&gt;
-		&lt;p class="para" uri="/general-conference/2016/04/the-sacred-place-of-restoration.p21" pid="ygb3gkIa2ki5Yr7srfcMNQ" hash="_pSRbQ"&gt;Arriving there, I tried to understand: Why did the Restoration have to be here, and why such a spiritual uproar? Where did all the people mentioned in Joseph’s account come from? Why there?&lt;/p&gt;
-		&lt;p class="para" uri="/general-conference/2016/04/the-sacred-place-of-restoration.p22" pid="CHy75IJb9UeAgFDAVRZfdQ" hash="1cVkrw"&gt;At that time, the most reasonable answer to me was because the U.S. Constitution guaranteed freedom.&lt;/p&gt;
-		&lt;p class="para" uri="/general-conference/2016/04/the-sacred-place-of-restoration.p23" pid="PjqVX1hqCk60FGe5oA-_2A" hash="gttiWQ"&gt;That morning I visited the Grandin Building, where the first edition of the Book of Mormon was printed. I went to the Sacred Grove, where I prayed a lot.&lt;/p&gt;
-		&lt;p class="para" uri="/general-conference/2016/04/the-sacred-place-of-restoration.p24" pid="yh4l5xZ83U-mS5OP_bxgeg" hash="nMzVLw"&gt;There was hardly anyone on the streets in that small town of Palmyra. Where were the crowds of people that Joseph had mentioned?&lt;/p&gt;
-		&lt;p class="para" uri="/general-conference/2016/04/the-sacred-place-of-restoration.p25" pid="Mf2TXGe5aEG_t9CqOcZdrw" hash="9Opd3Q"&gt;That afternoon I decided to go to the Peter Whitmer farm, and when I got there, I found a man at the window of a cabin. He had an intense glow in his eyes. I greeted him and then began to ask those same questions.&lt;/p&gt;
-		&lt;p class="para" uri="/general-conference/2016/04/the-sacred-place-of-restoration.p26" pid="qArXEmB43UCBtku9s1kaKw" hash="-BqKKw"&gt;He then asked me, “Do you have time?” I said yes.&lt;/p&gt;
-		&lt;p class="para" uri="/general-conference/2016/04/the-sacred-place-of-restoration.p27" pid="dyRYZ90flUOiTIrgJJyosw" hash="TtwyKg"&gt;He explained that Lakes Erie and Ontario and, farther east, the Hudson River are located in that region.&lt;/p&gt;
-		&lt;p class="para" uri="/general-conference/2016/04/the-sacred-place-of-restoration.p28" pid="CG0adxgrHEi3GJxUfL5qPw" hash="cdo97g"&gt;In the early 1800s they decided to build a canal for navigation which would pass through that region, stretching more than 300 miles (480 km) to reach the Hudson River. It was a great enterprise for that time, and they could rely only on human labor and animal power.&lt;/p&gt;
-		&lt;p class="para" uri="/general-conference/2016/04/the-sacred-place-of-restoration.p29" pid="Ate6DytI2UWsDQ80vYd-VQ" hash="ZcseUA"&gt;Palmyra was a center for some of that construction. Builders needed skilled people, technicians, families, and their friends. Many people began to pour in from the neighboring towns and places farther away, such as Ireland, to work on the canal.&lt;/p&gt;
-		&lt;p class="para" uri="/general-conference/2016/04/the-sacred-place-of-restoration.p30" pid="xJHiae-p_EqtAgefmBWTEA" hash="Tv1cBA"&gt;That was such a sacred and spiritual moment because I had finally found the crowd. They brought their customs and their beliefs. When the man mentioned their beliefs, my mind was enlightened and my spiritual eyes were opened by God.&lt;/p&gt;
-		&lt;p class="para" uri="/general-conference/2016/04/the-sacred-place-of-restoration.p31" pid="nueZlGdcvUuARyJYEqRKkA" hash="BmkeTA"&gt;At that moment, I understood how the hand of God our Father, in His immense wisdom, had prepared in His plan a place to bring the young Joseph Smith, putting him in the midst of that religious confusion, because there, in the Hill Cumorah, the precious plates of the Book of Mormon were hidden.&lt;/p&gt;
-		&lt;p class="para" uri="/general-conference/2016/04/the-sacred-place-of-restoration.p32" pid="kjLRAjNYBUiSd7qFtsX6vQ" hash="VVDM-Q"&gt;This was the stage of the Restoration, where the Father’s voice would be heard after nearly two millennia in a wonderful vision, talking to the boy Joseph Smith, when he went to the Sacred Grove to pray and heard: “This is My Beloved Son. Hear Him!”&lt;span class="noteMarker" ref="f_1"&gt;1&lt;/span&gt;&lt;/p&gt;
-		&lt;p class="para" uri="/general-conference/2016/04/the-sacred-place-of-restoration.p33" pid="o4rAK24oNE2aMRld9CK7xQ" hash="g6UvZQ"&gt;There he saw two personages, whose brightness and glory defy all description. Yes, God revealed Himself to man again. The darkness that covered the earth began to dissipate.&lt;/p&gt;
-		&lt;p class="para" uri="/general-conference/2016/04/the-sacred-place-of-restoration.p34" pid="NxUNeDHyxEq3KFvdkqheVQ" hash="xtN5AQ"&gt;The prophecies regarding the Restoration began to be fulfilled: “And I saw another angel fly in the midst of heaven, having the everlasting gospel to preach unto them that dwell on the earth, and to every nation, and kindred, and tongue, and people.”&lt;span class="noteMarker" ref="f_2"&gt;2&lt;/span&gt;&lt;/p&gt;
-		&lt;p class="para" uri="/general-conference/2016/04/the-sacred-place-of-restoration.p35" pid="3XbsUW9snk6aZwC0WaYYTQ" hash="tUoZUQ"&gt;In a few short years, Joseph was led to the records of prophecies, covenants, and ordinances left by ancient prophets, our beloved Book of Mormon.&lt;/p&gt;
-		&lt;p class="para" uri="/general-conference/2016/04/the-sacred-place-of-restoration.p36" pid="BPFOXuRykkmajXZGpICIHw" hash="r2dnSA"&gt;The Church of Jesus Christ could not be restored without the eternal gospel revealed in the Book of Mormon as another testament of Jesus Christ, even the Son of God, the Lamb of God, who took away the sins of the world.&lt;/p&gt;
-		&lt;p class="para" uri="/general-conference/2016/04/the-sacred-place-of-restoration.p37" pid="JMT03YZ_C0Gd_m9k_smtpQ" hash="fFU1yw"&gt;Christ said to His people in Jerusalem:&lt;/p&gt;
-		&lt;p class="para" uri="/general-conference/2016/04/the-sacred-place-of-restoration.p38" pid="LObF2YkqMk-g_8OIDzp7Yg" hash="6J9qfw"&gt;“And other sheep I have, which are not of this fold.”&lt;span class="noteMarker" ref="f_3"&gt;3&lt;/span&gt;&lt;/p&gt;
-		&lt;p class="para" uri="/general-conference/2016/04/the-sacred-place-of-restoration.p39" pid="-RkBxZG6_0uuQ2sU-3dAVw" hash="ANA3sA"&gt;“I am the good shepherd, and know my sheep, and am known of mine.”&lt;span class="noteMarker" ref="f_4"&gt;4&lt;/span&gt;&lt;/p&gt;
-		&lt;p class="para" uri="/general-conference/2016/04/the-sacred-place-of-restoration.p40" pid="j66ykM4WOk6EMBMrUvGmJA" hash="mPFxJQ"&gt;When leaving the Whitmer farm, I do not remember saying good-bye. I just remember tears running freely down my face. The sun was setting in a beautiful sky.&lt;/p&gt;
-		&lt;p class="para" uri="/general-conference/2016/04/the-sacred-place-of-restoration.p41" pid="J3aV9Pl6I0akowyS_uNfjg" hash="1CLeCA"&gt;In my heart an immense joy and peace calmed my soul. I was filled with gratitude.&lt;/p&gt;
-		&lt;p class="para" uri="/general-conference/2016/04/the-sacred-place-of-restoration.p42" pid="h8oecBF3pkKinde2Kk_Hsw" hash="laqFEA"&gt;I now clearly understood why. Once again the Lord had given me knowledge and light.&lt;/p&gt;
-		&lt;p class="para" uri="/general-conference/2016/04/the-sacred-place-of-restoration.p43" pid="-XpHRCC_50K5v9PG5aFt3A" hash="AIePPQ"&gt;During my trip home, scriptures continued to flow into my mind: the promises made to Father Abraham that in his seed all families of the earth would be blessed.&lt;span class="noteMarker" ref="f_5"&gt;5&lt;/span&gt;&lt;/p&gt;
-		&lt;p class="para" uri="/general-conference/2016/04/the-sacred-place-of-restoration.p44" pid="Xap9yceizUC3STKSMouFFg" hash="QJroeA"&gt;And for this, temples would be erected so that the divine power might be conferred upon man once again on the earth so that families could be united, not until death do us part but together for all eternity.&lt;/p&gt;
-		&lt;p class="para" uri="/general-conference/2016/04/the-sacred-place-of-restoration.p45" pid="-6AeaUh1m0KWduJzYg1A_Q" hash="HJfK7A"&gt;“And it shall come to pass in the last days, that the mountain of the Lord’s house shall be established in the top of the mountains, and shall be exalted above the hills; and all nations shall flow unto it.”&lt;span class="noteMarker" ref="f_6"&gt;6&lt;/span&gt;&lt;/p&gt;
-		&lt;p class="para" uri="/general-conference/2016/04/the-sacred-place-of-restoration.p46" pid="kOpVlYyQ40aaxpAORuX5MQ" hash="RuhvZA"&gt;If you who hear me have any questions in your heart, do not give up!&lt;/p&gt;
-		&lt;p class="para" uri="/general-conference/2016/04/the-sacred-place-of-restoration.p47" pid="i_vQSU_SwES2rxjaTKc60A" hash="EIZvxg"&gt;I invite you to follow the example of the Prophet Joseph Smith when he read in &lt;a href="/scriptures/nt/james/1.5" class="scriptureRef"&gt;James 1:5&lt;/a&gt;, “If any of you lack wisdom, let him ask of God, that giveth to all men liberally.”&lt;/p&gt;
-		&lt;p class="para" uri="/general-conference/2016/04/the-sacred-place-of-restoration.p48" pid="6OMfYH1OgkeYmX7EoLObZg" hash="z0k9Iw"&gt;What happened at Cumorah was an important part of the Restoration, as Joseph Smith received the plates which contained the Book of Mormon. This book helps us get closer to Christ than any other book on earth.&lt;span class="noteMarker" ref="f_7"&gt;7&lt;/span&gt;&lt;/p&gt;
-		&lt;p class="para" uri="/general-conference/2016/04/the-sacred-place-of-restoration.p49" pid="XQQXsqSOWEmrSmEUuNSW2Q" hash="IvJRSQ"&gt;I bear witness that the Lord raised up prophets, seers, and revelators to guide His kingdom in these latter days and that in His eternal plan families are meant to be together forever. He cares about His children. He answers our prayers.&lt;/p&gt;
-		&lt;p class="para" uri="/general-conference/2016/04/the-sacred-place-of-restoration.p50" pid="OH_R2qHhWkysCsjkt19t5Q" hash="h_AnKw"&gt;Because of His great love, Jesus Christ atoned for our sins. He is the Savior of the world. Of this I testify in the holy name of Jesus Christ, amen.&lt;/p&gt;
-	&lt;/div&gt;
-	
-&lt;/div&gt;</description>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2016/04/the-sacred-place-of-restoration?lang=eng</link>
+      <description>Elder Mazzagardi tells of his conversion. He wondered how there could’ve been crowds of people in Palmyra in Joseph Smith’s time. He visits Palmyra.</description>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="56"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/66a287d387b776eac717e3ed2811261bd7549ebf/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/66a287d387b776eac717e3ed2811261bd7549ebf/full/%21192%2C/0/default" data-video-title="The Sacred Place of Restoration" data-video-description="Elder Mazzagardi tells of his conversion. He wondered how there could’ve been crowds of people in Palmyra in Joseph Smith’s time. He visits Palmyra." data-video-id="4829226617001" data-ip="Download and Streaming                            " data-duration="603000" data-assetId="aacbc587006071460badd88a778d62403fdf414a" data-ref-id="aacbc587006071460badd88a778d62403fdf414a" data-duration-string="10:03" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/4829226617001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="165413861"/><source src="https://assets.churchofjesuschrist.org/aacbc587006071460badd88a778d62403fdf414a-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="35265078"/><source src="https://assets.churchofjesuschrist.org/aacbc587006071460badd88a778d62403fdf414a-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="60606419"/><source src="https://assets.churchofjesuschrist.org/aacbc587006071460badd88a778d62403fdf414a-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="165413861"/></video><h1 data-aid="29475041" id="title1">The Sacred Place of Restoration</h1>
+<div class="byline">
+<p class="author-name" data-aid="29475042" id="p1">By Elder Jairo Mazzagardi</p>
+<p class="author-role" data-aid="29475043" id="p2">Of the Seventy</p>
+<div class="image-cropper"><img alt="Elder Jairo Mazzagardi" class="headshot" data-deprecate-web-url="jairo-mazzagardi-second-quorum-seventy_1255553.jpg" id="img1" src="https://www.churchofjesuschrist.org/imgs/468688888e1bba7c81b3d97daf090b27e0eb550c/full/%21100%2C/0/default" data-assetId="468688888e1bba7c81b3d97daf090b27e0eb550c" srcset="https://www.churchofjesuschrist.org/imgs/468688888e1bba7c81b3d97daf090b27e0eb550c/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/468688888e1bba7c81b3d97daf090b27e0eb550c/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/468688888e1bba7c81b3d97daf090b27e0eb550c/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/468688888e1bba7c81b3d97daf090b27e0eb550c/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/468688888e1bba7c81b3d97daf090b27e0eb550c/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/468688888e1bba7c81b3d97daf090b27e0eb550c/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/468688888e1bba7c81b3d97daf090b27e0eb550c/full/%21640%2C/0/default 640w" data-img-id="468688888e1bba7c81b3d97daf090b27e0eb550c" data-missing-asset="false" data-width="100" data-height="139" data-aspect-ratio="0.7194244604316546" data-public-title="Mazzagardi, Jairo" data-public-description="Official portrait of Elder Jairo Mazzagardi of the Second Quorum of the Seventy, 2010.  Sustained at the April 2010 general conference."/></div>
+</div>
+<p class="kicker" data-aid="29475044" id="kicker1">Palmyra was the stage of the Restoration, where the Father’s voice would be heard after nearly two millennia.</p>
+</header>
+<div class="body-block">
+<p data-aid="29475045" id="p3">A good friend of mine who was a Church member tried for years to teach me the gospel of eternal families. It wasn’t until I attended the São Paulo Temple open house in October 1978 and entered a sealing room that the doctrine of eternal families came into my heart, and for days I prayed to know if this was the true Church.</p>
+<p data-aid="29475046" id="p4">I was not religious, but I had been raised by parents who were, and I had seen what was good in other religions. At that point in my life, I thought all religions were acceptable to God.</p>
+<p data-aid="29475047" id="p5">After my visit to the temple open house, I sought an answer through prayer, having faith and a sure confidence that God would answer me, which was His Church on earth.</p>
+<p data-aid="29475048" id="p6">After a great spiritual struggle, I finally received a clear answer. I was invited to be baptized. My baptism happened on October 31, 1978, the night before a session of the São Paulo Temple dedication.</p>
+<p data-aid="29475049" id="p7">I realized that the Lord knew and cared about me as He answered my prayers.</p>
+<p data-aid="29475050" id="p8">The next morning my wife and I went to São Paulo to attend a dedicatory session of the temple.</p>
+<p data-aid="29475051" id="p9">We were there, but I did not really know how to appreciate that wonderful opportunity yet. The following day we attended an area conference.</p>
+<p data-aid="29475052" id="p10">We had begun our journey in the Church, and we found good friends who welcomed us during this life transition.</p>
+<p data-aid="29475053" id="p11">The new member classes we attended in our Sunday meetings each week were wonderful. They filled us with knowledge and made us wish for the week to pass quickly so on Sunday we could have more of that spiritual nourishment.</p>
+<p data-aid="29475054" id="p12">My wife and I eagerly looked forward to entering the temple to have our family sealed for eternity. That happened one year and seven days after my baptism, which was a wonderful moment. I felt as if the eternities had been divided at the altar between what came before and what came after the sealing.</p>
+<p data-aid="29475055" id="p13">Having lived legally on the East Coast of the United States for a few years, I was acquainted with some of the cities, and they were mostly small.</p>
+<p data-aid="29475056" id="p14">When I read or heard about the events leading up to the First Vision, crowds of people were mentioned, which did not make sense to me.</p>
+<p data-aid="29475057" id="p15">Questions began to arise in my mind. Why did the Church have to be restored in the United States and not in Brazil or Italy, the land of my ancestors?</p>
+<span class="page-break" data-page="57"></span>
+<p data-aid="29475058" id="p16">Where were those crowds of people who were involved in the revivals and in the confusion of religions—all of which had happened in such a peaceful and calm place?</p>
+<p data-aid="29475059" id="p17">I asked a lot of people about it but got no answer. I read everything I could in Portuguese and then in English but found nothing that could calm my heart. I continued to search.</p>
+<p data-aid="29475060" id="p18">In October 1984, I attended general conference as a counselor in a stake presidency. After, I went to Palmyra, New York, eager to find the answer.</p>
+<p data-aid="29475061" id="p19">Arriving there, I tried to understand: Why did the Restoration have to be here, and why such a spiritual uproar? Where did all the people mentioned in Joseph’s account come from? Why there?</p>
+<p data-aid="29475062" id="p20">At that time, the most reasonable answer to me was because the U.S. Constitution guaranteed freedom.</p>
+<p data-aid="29475063" id="p21">That morning I visited the Grandin Building, where the first edition of the Book of Mormon was printed. I went to the Sacred Grove, where I prayed a lot.</p>
+<p data-aid="29475064" id="p22">There was hardly anyone on the streets in that small town of Palmyra. Where were the crowds of people that Joseph had mentioned?</p>
+<p data-aid="29475065" id="p23">That afternoon I decided to go to the Peter Whitmer farm, and when I got there, I found a man at the window of a cabin. He had an intense glow in his eyes. I greeted him and then began to ask those same questions.</p>
+<p data-aid="29475066" id="p24">He then asked me, “Do you have time?” I said yes.</p>
+<p data-aid="29475067" id="p25">He explained that Lakes Erie and Ontario and, farther east, the Hudson River are located in that region.</p>
+<p data-aid="29475068" id="p26">In the early 1800s they decided to build a canal for navigation which would pass through that region, stretching more than 300 miles (480 km) to reach the Hudson River. It was a great enterprise for that time, and they could rely only on human labor and animal power.</p>
+<p data-aid="29475069" id="p27">Palmyra was a center for some of that construction. Builders needed skilled people, technicians, families, and their friends. Many people began to pour in from the neighboring towns and places farther away, such as Ireland, to work on the canal.</p>
+<p data-aid="29475070" id="p28">That was such a sacred and spiritual moment because I had finally found the crowd. They brought their customs and their beliefs. When the man mentioned their beliefs, my mind was enlightened and my spiritual eyes were opened by God.</p>
+<p data-aid="29475071" id="p29">At that moment, I understood how the hand of God our Father, in His immense wisdom, had prepared in His plan a place to bring the young Joseph Smith, putting him in the midst of that religious confusion, because there, in the Hill Cumorah, the precious plates of the Book of Mormon were hidden.</p>
+<p data-aid="29475072" id="p30">This was the stage of the Restoration, where the Father’s voice would be heard after nearly two millennia in a wonderful vision, talking to the boy Joseph Smith, when he went to the Sacred Grove to pray and heard: “This is My Beloved Son. Hear Him!”<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a></p>
+<p data-aid="29475073" id="p31">There he saw two personages, whose brightness and glory defy all description. Yes, God revealed Himself to man again. The darkness that covered the earth began to dissipate.</p>
+<p data-aid="29475074" id="p32">The prophecies regarding the Restoration began to be fulfilled: “And I saw another angel fly in the midst of heaven, having the everlasting gospel to preach unto them that dwell on the earth, and to every nation, and kindred, and tongue, and people.”<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a></p>
+<p data-aid="29475075" id="p33">In a few short years, Joseph was led to the records of prophecies, covenants, and ordinances left by ancient prophets, our beloved Book of Mormon.</p>
+<p data-aid="29475076" id="p34">The Church of Jesus Christ could not be restored without the eternal gospel revealed in the Book of Mormon as another testament of Jesus Christ, even the Son of God, the Lamb of God, who took away the sins of the world.</p>
+<p data-aid="29475077" id="p35">Christ said to His people in Jerusalem:</p>
+<p data-aid="29475078" id="p36">“And other sheep I have, which are not of this fold.”<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a></p>
+<span class="page-break" data-page="58"></span>
+<p data-aid="29475079" id="p37">“I am the good shepherd, and know my sheep, and am known of mine.”<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a></p>
+<p data-aid="29475080" id="p38">When leaving the Whitmer farm, I do not remember saying good-bye. I just remember tears running freely down my face. The sun was setting in a beautiful sky.</p>
+<p data-aid="29475081" id="p39">In my heart an immense joy and peace calmed my soul. I was filled with gratitude.</p>
+<p data-aid="29475082" id="p40">I now clearly understood why. Once again the Lord had given me knowledge and light.</p>
+<p data-aid="29475083" id="p41">During my trip home, scriptures continued to flow into my mind: the promises made to Father Abraham that in his seed all families of the earth would be blessed.<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a></p>
+<p data-aid="29475084" id="p42">And for this, temples would be erected so that the divine power might be conferred upon man once again on the earth so that families could be united, not until death do us part but together for all eternity.</p>
+<p data-aid="29475085" id="p43">“And it shall come to pass in the last days, that the mountain of the Lord’s house shall be established in the top of the mountains, and shall be exalted above the hills; and all nations shall flow unto it.”<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a></p>
+<p data-aid="29475086" id="p44">If you who hear me have any questions in your heart, do not give up!</p>
+<p data-aid="29475087" id="p45">I invite you to follow the example of the Prophet Joseph Smith when he read in <a class="scripture-ref" href="/study/scriptures/nt/james/1?lang=eng&amp;id=p5#p5">James 1:5</a>, “If any of you lack wisdom, let him ask of God, that giveth to all men liberally.”</p>
+<p data-aid="29475088" id="p46">What happened at Cumorah was an important part of the Restoration, as Joseph Smith received the plates which contained the Book of Mormon. This book helps us get closer to Christ than any other book on earth.<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a></p>
+<p data-aid="29475089" id="p47">I bear witness that the Lord raised up prophets, seers, and revelators to guide His kingdom in these latter days and that in His eternal plan families are meant to be together forever. He cares about His children. He answers our prayers.</p>
+<p data-aid="29475090" id="p48">Because of His great love, Jesus Christ atoned for our sins. He is the Savior of the world. Of this I testify in the holy name of Jesus Christ, amen.</p>
+</div>
+<footer class="notes">
+<p class="title" data-aid="29475091" id="notetitle1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="29475092" id="note1_p1"><a class="scripture-ref" href="/study/scriptures/pgp/js-h/1?lang=eng&amp;id=p17#p17">Joseph Smith—History 1:17</a>.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="29475093" id="note2_p1"><a class="scripture-ref" href="/study/scriptures/nt/rev/14?lang=eng&amp;id=p6#p6">Revelation 14:6</a>.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="29475094" id="note3_p1"><a class="scripture-ref" href="/study/scriptures/nt/john/10?lang=eng&amp;id=p16#p16">John 10:16</a>.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="29475095" id="note4_p1"><a class="scripture-ref" href="/study/scriptures/nt/john/10?lang=eng&amp;id=p14#p14">John 10:14</a>.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="29475096" id="note5_p1">See <a class="scripture-ref" href="/study/scriptures/ot/gen/12?lang=eng&amp;id=p3#p3">Genesis 12:3</a>; <a class="scripture-ref" href="/study/scriptures/ot/gen/17?lang=eng&amp;id=p2-p8#p2">17:2–8</a>; <a class="scripture-ref" href="/study/scriptures/nt/gal/3?lang=eng&amp;id=p29#p29">Galatians 3:29</a>; <a class="scripture-ref" href="/study/scriptures/bofm/1-ne/15?lang=eng&amp;id=p14-p18#p14">1 Nephi 15:14–18</a>; <a class="scripture-ref" href="/study/scriptures/pgp/abr/2?lang=eng&amp;id=p9-p11#p9">Abraham 2:9–11</a>.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="29475097" id="note6_p1"><a class="scripture-ref" href="/study/scriptures/ot/isa/2?lang=eng&amp;id=p2#p2">Isaiah 2:2</a>.</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="29475098" id="note7_p1">See introduction to the Book of Mormon.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/2016/04/the-sacred-place-of-restoration</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/april-2016-general-conference/2016-04-2070-jairo-mazzagardi-64k-eng.mp3" length="4803967" type="audio/mpeg"/>
-      <pubDate>Sat, 02 Apr 2016 14:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/da72aef532ee11ecb675eeeeac1e6a69fecf7808-64k-en.mp3" length="5019647" type="audio/mpeg"/>
+      <pubDate>Sat, 02 Apr 2016 14:00:00 -0600</pubDate>
+      <itunes:author>Jairo Mazzagardi</itunes:author>
     </item>
   </channel>
 </rss>

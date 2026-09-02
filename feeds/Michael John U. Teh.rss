@@ -1,92 +1,409 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Talks By Michael John U. Teh</title>
-    <link>http://philip.lundrigan.org/Speakercast/</link>
+    <link>https://philip.lundrigan.org/Speakercast/</link>
     <description>General Conference talks by Michael John U. Teh.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Speakercast</generator>
     <image>
-      <url>http://philip.lundrigan.org/Speakercast/covers/Michael%20John%20U.%20Teh.jpg</url>
+      <url>https://philip.lundrigan.org/Speakercast/covers/Michael%20John%20U.%20Teh.jpg</url>
       <title>General Conference talks by Michael John U. Teh.</title>
-      <link>http://philip.lundrigan.org/Speakercast/</link>
+      <link>https://philip.lundrigan.org/Speakercast/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Apr 2014 14:00:00 -0700</lastBuildDate>
-    <pubDate>Sun, 06 Apr 2014 14:00:00 -0700</pubDate>
+    <lastBuildDate>Sat, 04 Apr 2026 10:00:00 -0600</lastBuildDate>
+    <pubDate>Sat, 04 Apr 2026 10:00:00 -0600</pubDate>
+    <itunes:author>Michael John U. Teh</itunes:author>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
+    <itunes:image href="https://philip.lundrigan.org/Speakercast/covers/Michael%20John%20U.%20Teh.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>General Conference talks by Michael John U. Teh.</itunes:summary>
+    <item>
+      <title>Out of Small Things</title>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2007/10/out-of-small-things?lang=eng</link>
+      <description>As disciples of the Lord Jesus Christ, we have a responsibility to care for and serve our brothers and sisters.</description>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="35"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/180b024b23c7389f99db1ea33d0752181240954e/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/180b024b23c7389f99db1ea33d0752181240954e/full/%21192%2C/0/default" data-video-title="Out of Small Things" data-video-description="As disciples of the Lord Jesus Christ, we have a responsibility to care for and serve our brothers and sisters." data-video-id="2235958961001" data-ip="Download and Streaming                            " data-duration="471000" data-assetId="d2232cebfe49d51b512a1645493ee2d2db19cfcc" data-ref-id="d2232cebfe49d51b512a1645493ee2d2db19cfcc" data-duration-string="7:51" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/2235958961001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="1280" data-height="720" data-file-size="45026044"/><source src="https://assets.churchofjesuschrist.org/d2232cebfe49d51b512a1645493ee2d2db19cfcc-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="24426233"/><source src="https://assets.churchofjesuschrist.org/d2232cebfe49d51b512a1645493ee2d2db19cfcc-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="45026044"/></video><h1 data-aid="28837481" id="title1">Out of Small Things</h1>
+<div class="byline">
+<p class="author-name" data-aid="28837482" id="p1">By Elder Michael J. Teh</p>
+<p class="author-role" data-aid="28837483" id="p2">Of the Seventy</p>
+<div class="image-cropper"><img alt="Elder Michael J. Teh" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/d6086c1f080811ecbf18eeeeac1e5d0b3dc4b6bc/full/%21100%2C/0/default" data-assetId="d6086c1f080811ecbf18eeeeac1e5d0b3dc4b6bc" srcset="https://www.churchofjesuschrist.org/imgs/d6086c1f080811ecbf18eeeeac1e5d0b3dc4b6bc/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/d6086c1f080811ecbf18eeeeac1e5d0b3dc4b6bc/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/d6086c1f080811ecbf18eeeeac1e5d0b3dc4b6bc/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/d6086c1f080811ecbf18eeeeac1e5d0b3dc4b6bc/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/d6086c1f080811ecbf18eeeeac1e5d0b3dc4b6bc/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/d6086c1f080811ecbf18eeeeac1e5d0b3dc4b6bc/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/d6086c1f080811ecbf18eeeeac1e5d0b3dc4b6bc/full/%21640%2C/0/default 640w" data-img-id="d6086c1f080811ecbf18eeeeac1e5d0b3dc4b6bc" data-missing-asset="false" data-width="100" data-height="150" data-aspect-ratio="0.6666666666666666" data-public-title="Teh, Michael J." data-public-description="Former official portrait of Elder Michael J. Teh of the First Quorum of the Seventy, 2007.  Replaced December 2015."/></div>
+</div>
+<p class="kicker" data-aid="28837484" id="kicker1">As disciples of the Lord Jesus Christ, we have a responsibility to care for and serve our brothers and sisters.</p>
+</header>
+<div class="body-block">
+<p data-aid="28837485" id="p3"><em>Mabuhay</em> from the lovely and wonderful people of the Philippines.</p>
+<p data-aid="28837486" id="p4">One of the oldest and most profound questions uttered in the history of this earth was, most interestingly, asked by Cain in response to God’s inquiry soon after Cain slew his brother Abel: “Am I my brother’s keeper?”<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a> This question deserves serious contemplation by those seeking to do the will of the Lord. One of the answers is in the teachings of Alma:</p>
+<p data-aid="28837487" id="p5">“And now, … ye are desirous to come into the fold of God, and to be called his people, and are willing to bear one another’s burdens, that they may be light;</p>
+<p data-aid="28837488" id="p6">“Yea, and are willing to mourn with those that mourn; yea, and comfort those that stand in need of comfort.”<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a></p>
+<p data-aid="28837489" id="p7">As disciples of the Lord Jesus Christ, we have a responsibility to care for and serve our brothers and sisters. In relating the parable of the good Samaritan, Jesus Christ not only confounded His enemies but also taught a great lesson to all who sought to follow Him. We need to enlarge the circle of our influence. Our service to others should be independent of race, color, standing, or relationships. After all, the commandment to “succor the weak, lift up the hands which hang down, and strengthen the feeble knees”<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a> did not come with qualifications.</p>
+<p data-aid="28837490" id="p8">Many believe that for service to be meaningful it should consist of having elaborate plans and forming a committee. Although many of these worthwhile projects help, much of the service needed in the world today relates to our day-to-day associations with each other. Often we find these opportunities within the confines of our own home, neighborhood, and ward.</p>
+<p data-aid="28837491" id="p9">The following advice, given by the deceitful Screwtape to his nephew Wormwood in C. S. Lewis’s <em>The Screwtape Letters,</em> describes a common malady afflicting many of us today: “Do what you will, there is going to be some benevolence, as well as some malice, in your patient’s soul. The great thing is to direct the malice to his immediate neighbours whom he meets every day and to thrust his benevolence out to the remote circumference, to people he <span class="page-break" data-page="36"></span>does not know. The malice thus becomes wholly real and the benevolence largely imaginary.”<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a></p>
+<p data-aid="28837492" id="p10">The words from a popular hymn prescribe the perfect remedy:</p>
+<div class="poetry">
+<div class="stanza">
+<p class="line" data-aid="28837493" id="p11">Has anyone’s burden been lighter today</p>
+<p class="line" data-aid="28837494" id="p12">Because I was willing to share?</p>
+<p class="line" data-aid="28837495" id="p13">Have the sick and the weary been helped on their way?</p>
+<p class="line" data-aid="28837496" id="p14">When they needed my help was I there?</p>
+<p class="line" data-aid="28837497" id="p15">Then wake up and do something more</p>
+<p class="line" data-aid="28837498" id="p16">Than dream of your mansion above.</p>
+<p class="line" data-aid="28837499" id="p17">Doing good is a pleasure, a joy beyond measure,</p>
+<p class="line" data-aid="28837500" id="p18">A blessing of duty and love.<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a></p>
+</div>
+</div>
+<p data-aid="28837501" id="p19">The following are events that I have been privileged to witness that have taught me how simple acts of service can help us and those we are permitted to influence. Our Heavenly Father places loving individuals on important crossroads to help us so that we are not left alone to grope in the dark. These men and women help by example and with patience and love. Such has been my experience.</p>
+<p data-aid="28837502" id="p20">I recall a particularly important crossroad—the decision to go on a full-time mission. I stood on that crossroad for a very, very long time. As I struggled to decide which road to take, my family, friends, and priesthood leaders came forward to take my hand. They encouraged and challenged me and offered countless prayers on my behalf. My full-time missionary sister wrote to me regularly and never gave up.</p>
+<p data-aid="28837503" id="p21">Even today I am still carried on the shoulders of good men and women. I suspect that we all are. To some degree we all depend on each other to be able to make it back to our heavenly home.</p>
+<p data-aid="28837504" id="p22">Sharing the gospel message is one of the most rewarding ways we can render service to those who are not of our faith. I recall a childhood experience with someone I will simply call Uncle Fred.</p>
+<p data-aid="28837505" id="p23">When I was six years old, Uncle Fred was my worst nightmare. He was our neighbor, and he was always drunk. One of his favorite pastimes was to throw rocks at our home.</p>
+<p data-aid="28837506" id="p24">Because my mother was a great cook, single adult members from our small branch frequented our home. One day when Uncle Fred was sober, these members befriended him and invited him into our home. This development terrified me. He was no longer just outside but inside our home. This happened a few more times until, finally, they were able to convince Uncle Fred to listen to the missionaries. He accepted the gospel <span class="page-break" data-page="37"></span>and was baptized. He served a full-time mission, returned with honor, pursued further education, and was married in the temple. He is now a righteous husband, father, and priesthood leader. Watching Uncle Fred today, one would find it difficult to believe that he once brought nightmares into the life of a six-year-old boy. May we always be perceptive to opportunities to share the gospel.</p>
+<p data-aid="28837507" id="p25">My mother was a great example of helping others by giving them a boost. She taught us many important lessons. The one lesson that has had the most lasting effect on my life was her desire to help anyone in need who visited our home. It bothered me to see many of them leave with our food, our clothing, and even our money. Because I was young and we were poor, I did not like what I saw. How could she give to others when our family did not even have enough? Was it wrong to attend to our needs first? Didn’t we deserve a more comfortable life?</p>
+<p data-aid="28837508" id="p26">For years I struggled with these questions. Much later in life I finally realized what Mother was teaching. Even as she struggled with the effects of a crippling disease, she could not stop giving to those in need.</p>
+<p data-aid="28837509" id="p27">“Wherefore, be not weary in well-doing, for ye are laying the foundation of a great work. And out of small things proceedeth that which is great.”<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a> Serving others need not come from spectacular events. Often it is the simple daily act that gives comfort, uplifts, encourages, sustains, and brings a smile to others.</p>
+<p data-aid="28837510" id="p28">May we always find opportunities to serve is my prayer in the name of Jesus Christ, amen.</p>
+</div>
+<footer class="notes">
+<p class="title" data-aid="28837511" id="notetitle1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="28837512" id="note1_p1"><a class="scripture-ref" href="/study/scriptures/ot/gen/4?lang=eng&amp;id=p9#p9">Genesis 4:9</a>; <a class="scripture-ref" href="/study/scriptures/pgp/moses/5?lang=eng&amp;id=p34#p34">Moses 5:34</a>.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="28837513" id="note2_p1"><a class="scripture-ref" href="/study/scriptures/bofm/mosiah/18?lang=eng&amp;id=p8-p9#p8">Mosiah 18:8–9</a>.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="28837514" id="note3_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/81?lang=eng&amp;id=p5#p5">D&amp;C 81:5</a>.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="28837515" id="note4_p1"><em>The Complete C. S. Lewis Signature Classics</em> (2002), 201.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="28837516" id="note5_p1">“Have I Done Any Good?” <em>Hymns,</em> no. 223.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="28837517" id="note6_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/64?lang=eng&amp;id=p33#p33">D&amp;C 64:33</a>.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
+      <guid isPermaLink="false">/general-conference/2007/10/out-of-small-things</guid>
+      <enclosure url="https://assets.churchofjesuschrist.org/8678a80932e211ecac35eeeeac1e7c592c3fcc14-64k-en.mp3" length="4036430" type="audio/mpeg"/>
+      <pubDate>Sat, 06 Oct 2007 14:00:00 -0600</pubDate>
+      <itunes:author>Michael John U. Teh</itunes:author>
+    </item>
     <item>
       <title>Where Your Treasure Is</title>
-      <link>http://www.lds.org/general-conference/2014/04/where-your-treasure-is?lang=eng</link>
-      <description>Michael John U. Teh teaches how we can make sure to put the things of God first in our lives rather than the things of this world.
-		</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/2014/04/where-your-treasure-is" dup-conf="false" dup-mag="false" schema-version="1" doc-id="general-conference_10985_000_55teh" doc-version="2" hash="CBpriA">
-	
-	<div class="heading" uri="/general-conference/2014/04/where-your-treasure-is.head1">
-		<h1 class="title" pid="tpI-sIE6XEydMXUFeLddWg" hash="UgqGig">Where Your Treasure Is</h1>
-		<div class="byline">
-			<p class="para" uri="/general-conference/2014/04/where-your-treasure-is.p" pid="nyDvHk8YBEui5UOf9N6kFg" hash="B4Iwpw">By Elder Michael John U. Teh</p>
-			<p class="para" uri="/general-conference/2014/04/where-your-treasure-is.p" pid="e-AgocepZkSuM3Ib8rgTvA" hash="sSmk3g">Of the Seventy</p>
-		</div>
-		<img src="https://www.lds.org/bc/content/shared/content/images/leaders/michael-john-u-teh.jpg" altText="Elder Michael John U. Teh" pid="f6QfQQYCn0uLdHm3909Crg" hash="RfrvTg" />
-		<p class="kicker" pid="e4Q4F-15qEO0RuxNjnt8LQ" hash="2X6JJQ">If we are not careful, we will begin to chase after the temporal more than the spiritual.</p>
-		<p class="authorName" pid="2onbvIfe0EC7awHCqnyghQ" hash="B4Iwpw1">By Elder Michael John U. Teh</p>
-	</div>
-	<div class="bodyBlock" pid="TQUEOPXpqkinzkmfiozIQQ" hash="-pA0Uw">
-		<p class="para" uri="/general-conference/2014/04/where-your-treasure-is.p5" pid="rpv0Zs4xYUi_g9JFv99Y0A" hash="c3Ngbg">
-			<span class="pageBreak" page-number="106"></span>Shortly after general conference in October 2007, one of my brethren told me that it would be about seven years before I got this harrowing experience again. I was relieved and told him that I would consider it my “seven years of plenty.” Well, here I am; my seven years of plenty have come to an end.</p>
-		<span class="story">
-			<p class="para" uri="/general-conference/2014/04/where-your-treasure-is.p6" pid="CNXEfZuDfEmgMr9n1T415g" hash="_VzuBQ">Last January my sweetheart, Grace, and I received an assignment to visit the members in the Philippines who were devastated by a major earthquake and a super typhoon. We rejoiced because the assignment was an answer to our prayers and a testament to the mercy and goodness of a loving Father in Heaven. It provided some closure to our longing to personally express to them our love and concern.</p>
-			<p class="para" uri="/general-conference/2014/04/where-your-treasure-is.p7" pid="9Ht5Wq3TGkWfre3xuJ2x3g" hash="PftlHw">Most of the members we met were still living in temporary shelters like tents, community centers, and Church meetinghouses. The homes we visited had either partial roofing or no roofing at all. The people did not have much to begin with, and what little they had was swept away. There was mud and debris everywhere. However, they were full of gratitude for the little help they received and were in good spirits despite their very difficult circumstances. When we asked them how they were coping, everyone responded with a resounding, “We’re OK.” Obviously, their faith in Jesus Christ gave them hope that everything would work out eventually. Home after home, tent after tent, Sister Teh and I were being taught by these faithful Saints.</p>
-			<p class="para" uri="/general-conference/2014/04/where-your-treasure-is.p8" pid="ex5qg1i6SkGY8umz0ddHOQ" hash="nZDEBg">In times of calamity or tragedy, the Lord has a way of refocusing us and our priorities. All of a sudden, all the material things we worked so hard to acquire do not matter. All that matters is our family and our relationships with others. One good sister put it this way: “After the water receded and it was time to begin cleaning up, I looked around my home and thought, ‘Wow, I have accumulated a lot of garbage these many years.’”</p>
-		</span>
-		<p class="para" uri="/general-conference/2014/04/where-your-treasure-is.p9" pid="pvhhUdSwAkmRMwhoC0pxug" hash="ByVwgg">I suspect that this sister has gained a better perspective and henceforth will be very cautious in deciding which things are necessary and which ones she really can live without.</p>
-		<p class="para" uri="/general-conference/2014/04/where-your-treasure-is.p10" pid="3JaKYi1oWUydP6YXHq7UvA" hash="bFjBdQ">
-			<span class="pageBreak" page-number="107"></span>In working with many members over the years, we have been pleased to observe an abundance of spiritual strength. We have also seen both an abundance and a lack of material possessions among these faithful members.</p>
-		<p class="para" uri="/general-conference/2014/04/where-your-treasure-is.p11" pid="5b5BRLU7EUWWabRIKmZQNg" hash="G8kIJg">Out of necessity, most of us are involved in earning money and acquiring some of the world’s goods to be able to sustain our families. It requires a good part of our time and attention. There is no end to what the world has to offer, so it is critical that we learn to recognize when we have enough. If we are not careful, we will begin to chase after the temporal more than the spiritual. Our pursuit for the spiritual and eternal will then take a backseat, instead of the other way around. Sadly, there appears to be a strong inclination to acquire more and more and to own the latest and the most sophisticated.</p>
-		<p class="para" uri="/general-conference/2014/04/where-your-treasure-is.p12" pid="GtHEuNtrs0qTdpgkTBFPFQ" hash="G54xOQ">How do we make sure that we are not drawn down this path? Jacob gives this counsel: “Wherefore, do not spend money for that which is of no worth, nor your labor for that which cannot satisfy. Hearken diligently unto me, and remember the words which I have spoken; and come unto the Holy One of Israel, and feast upon that which perisheth not, neither can be corrupted, and let your soul delight in fatness.”<span class="noteMarker" ref="f_1">1</span>
-		</p>
-		<p class="para" uri="/general-conference/2014/04/where-your-treasure-is.p13" pid="ubYpX3_s6UW6MTjxaW2wjg" hash="UASrag">I hope none of us spend money for that which is of no worth nor labor for that which does not satisfy.</p>
-		<p class="para" uri="/general-conference/2014/04/where-your-treasure-is.p14" pid="jJ8KWbl-zUmyZSwKDUh-yg" hash="6EvU_A">The Savior taught the following to both the Jews and the Nephites:</p>
-		<p class="para" uri="/general-conference/2014/04/where-your-treasure-is.p15" pid="ChyCWWu5dUS6CaC2qj1qKg" hash="mZ6bcg">“Lay not up for yourselves treasures upon earth, where moth and rust doth corrupt, and where thieves break through and steal:</p>
-		<p class="para" uri="/general-conference/2014/04/where-your-treasure-is.p16" pid="zFFwKAXXVkGPYmpx_tlHMw" hash="aebQKw">“But lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt, and where thieves do not break through nor steal:</p>
-		<p class="para" uri="/general-conference/2014/04/where-your-treasure-is.p17" pid="DGYPMg0dQEaf7ZuyTT14UA" hash="hIeFZg">“For where your treasure is, there will your heart be also.”<span class="noteMarker" ref="f_2">2</span>
-		</p>
-		<p class="para" uri="/general-conference/2014/04/where-your-treasure-is.p18" pid="-9jBmIuzq0efqj_k-NTHCQ" hash="QLehrQ">In another setting, the Savior gave this parable:</p>
-		<p class="para" uri="/general-conference/2014/04/where-your-treasure-is.p19" pid="UZK8IBYfEkiy2KCilRVZJw" hash="1vS3yw">“The ground of a certain rich man brought forth plentifully:</p>
-		<p class="para" uri="/general-conference/2014/04/where-your-treasure-is.p20" pid="XXbfjAl4jE-CHkA7El6fyw" hash="eKH9XA">“And he thought within himself, saying, What shall I do, because I have no room where to bestow my fruits?</p>
-		<p class="para" uri="/general-conference/2014/04/where-your-treasure-is.p21" pid="PToNWd2Y2kqAtzqK0xwyJQ" hash="bKVVCQ">“And he said, This will I do: I will pull down my barns, and build greater; and there will I bestow all my fruits and my goods.</p>
-		<p class="para" uri="/general-conference/2014/04/where-your-treasure-is.p22" pid="Ygr2UvN6G06xeTDGus7aiA" hash="y0EbOw">“And I will say to my soul, Soul, thou hast much goods laid up for many years; take thine ease, eat, drink, and be merry.</p>
-		<p class="para" uri="/general-conference/2014/04/where-your-treasure-is.p23" pid="pwhUoAUZPEyuXQ1r5C7bxw" hash="_p81VQ">“But God said unto him, Thou fool, this night thy soul shall be required of thee: then whose shall those things be, which thou hast provided?</p>
-		<p class="para" uri="/general-conference/2014/04/where-your-treasure-is.p24" pid="gduEWzZS-0mWDWpEjWy0Pw" hash="_8lh3w">“So is he that layeth up treasure for himself, and is not rich toward God.”<span class="noteMarker" ref="f_3">3</span>
-		</p>
-		<p class="para" uri="/general-conference/2014/04/where-your-treasure-is.p25" pid="cpp9pAordUCdOoO7CSQa_A" hash="IS4OyQ">President Dieter F. Uchtdorf gave the following counsel not too long ago:</p>
-		<p class="para" uri="/general-conference/2014/04/where-your-treasure-is.p26" pid="H9I70dso7k2l0iDuGoi6gA" hash="hvcNUA">“Our Heavenly Father sees our real potential. He knows things about us that we do not know ourselves. He prompts us during our lifetime to fulfill the measure of our creation, to live a good life, and to return to His presence.</p>
-		<p class="para" uri="/general-conference/2014/04/where-your-treasure-is.p27" pid="pRLBFA4scU6k97sQ8tDl7g" hash="Q1idaw">“Why, then, do we devote so much of our time and energy to things that are so fleeting, so inconsequential, and so superficial? Do we refuse to see the folly in the pursuit of the trivial and transient?”<span class="noteMarker" ref="f_4">4</span>
-		</p>
-		<p class="para" uri="/general-conference/2014/04/where-your-treasure-is.p28" pid="uvV6v_SSkEOr7fKoW0vQKQ" hash="CXKzFw">We all know that our list of earthly treasures consists of pride, wealth, material things, power, and the honors of men. They do not merit any more time and attention, so I will focus instead on the things that will constitute our treasures in heaven.</p>
-		<p class="para" uri="/general-conference/2014/04/where-your-treasure-is.p29" pid="Ty-TGAhkR0WjBNcKZgh1mw" hash="RlaisQ">What are some treasures in heaven that we can lay up for ourselves? For starters, it will be well for us to acquire the Christlike attributes of faith, hope, humility, and charity. We have been counseled repeatedly to “[put] off the natural man and … [become] as a child.”<span class="noteMarker" ref="f_5">5</span> The Savior’s admonition is for us to strive to be perfect like Him and our Heavenly Father.<span class="noteMarker" ref="f_6">6</span>
-		</p>
-		<p class="para" uri="/general-conference/2014/04/where-your-treasure-is.p30" pid="J_-rx3h070qiySy2aeb2fg" hash="UdbYUQ">Second, we need to put more quality time and effort into strengthening family relationships. After all, “the family is ordained of God. It is the most important unit in time and in eternity.”<span class="noteMarker" ref="f_7">7</span>
-		</p>
-		<p class="para" uri="/general-conference/2014/04/where-your-treasure-is.p31" pid="sMhx0qKPBkmJcWzN0sxT2g" hash="bCnCiA">Third, serving others is a hallmark of a true follower of Christ. He said, “Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me.”<span class="noteMarker" ref="f_8">8</span>
-		</p>
-		<p class="para" uri="/general-conference/2014/04/where-your-treasure-is.p32" pid="DTo79qE5n0WC5ulya0UiZA" hash="8WHAIA">Fourth, understanding the doctrine of Christ and strengthening our testimony is a labor that will bring real joy and satisfaction. We need to consistently study the words of Christ as found in the scriptures and the words <span class="pageBreak" page-number="108"></span>of living prophets. “For behold, the words of Christ will tell you all things what ye should do.”<span class="noteMarker" ref="f_9">9</span>
-		</p>
-		<span class="story">
-			<p class="para" uri="/general-conference/2014/04/where-your-treasure-is.p33" pid="FsghatkuEEymWoAJMa24Fw" hash="MKWgKw">May I conclude with the story of a 73-year-old widow whom we met during our trip to the Philippines:</p>
-			<p class="para" uri="/general-conference/2014/04/where-your-treasure-is.p34" pid="L28lm4G88k-bgjs6zOrW8Q" hash="0wDbEg">When the earthquake struck the island of Bohol, the home that she and her late husband had worked so hard to build crumbled to the ground, killing her daughter and grandson. Now alone, she needs to work to support herself. She has started taking in laundry (which she does by hand) and has to go up and down a good-sized hill several times a day to fetch water. When we visited her, she was still living in a tent.</p>
-			<p class="para" uri="/general-conference/2014/04/where-your-treasure-is.p35" pid="q697E1lSvUmoTMU9X2aRlg" hash="ZIWXxw">These are her words: “Elder, I accept everything that the Lord has asked me to pass through. I have no hard feelings. I treasure my temple recommend and keep it under my pillow. Please know that I pay a full tithing on my meager income from doing laundry. No matter what happens, I will always pay tithing.”</p>
-		</span>
-		<p class="para" uri="/general-conference/2014/04/where-your-treasure-is.p36" pid="Jk12Wtok3EmyxJnvlZqoZg" hash="3vsxbQ">I bear testimony that our priorities, tendencies, inclinations, desires, appetites, and passions will have a direct bearing on our next estate. Let us always remember the words of the Savior: “For where your treasure is, there will your heart be also.” May our hearts be found in the right place is my prayer, in the name of Jesus Christ, amen.</p>
-	</div>
-	
-</div>]]></content:encoded>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2014/04/where-your-treasure-is?lang=eng</link>
+      <description>Michael John U. Teh teaches how we can make sure to put the things of God first in our lives rather than the things of this world.</description>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="106"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/70387d34b494b1b1f2243a27b402b454fd156577/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/70387d34b494b1b1f2243a27b402b454fd156577/full/%21192%2C/0/default" data-video-title="Where Your Treasure Is" data-video-description="Michael John U. Teh teaches how we can make sure to put the things of God first in our lives rather than the things of this world." data-video-id="3441635722001" data-ip="Download and Streaming                            " data-duration="567099" data-assetId="b8e9966f24e8745bbd66c321fdcac27b32366b96" data-ref-id="b8e9966f24e8745bbd66c321fdcac27b32366b96" data-duration-string="9:27" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/3441635722001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="212829955"/><source src="https://assets.churchofjesuschrist.org/b8e9966f24e8745bbd66c321fdcac27b32366b96-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="28239200"/><source src="https://assets.churchofjesuschrist.org/b8e9966f24e8745bbd66c321fdcac27b32366b96-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="56031206"/><source src="https://assets.churchofjesuschrist.org/b8e9966f24e8745bbd66c321fdcac27b32366b96-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="212829955"/></video><h1 data-aid="28862474" id="title1">Where Your Treasure Is</h1>
+<div class="byline">
+<p class="author-name" data-aid="28862475" id="p1">By Elder Michael John U. Teh</p>
+<p class="author-role" data-aid="28862476" id="p2">Of the Seventy</p>
+<div class="image-cropper"><img alt="Elder Michael John U. Teh" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/d6086c1f080811ecbf18eeeeac1e5d0b3dc4b6bc/full/%21100%2C/0/default" data-assetId="d6086c1f080811ecbf18eeeeac1e5d0b3dc4b6bc" srcset="https://www.churchofjesuschrist.org/imgs/d6086c1f080811ecbf18eeeeac1e5d0b3dc4b6bc/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/d6086c1f080811ecbf18eeeeac1e5d0b3dc4b6bc/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/d6086c1f080811ecbf18eeeeac1e5d0b3dc4b6bc/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/d6086c1f080811ecbf18eeeeac1e5d0b3dc4b6bc/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/d6086c1f080811ecbf18eeeeac1e5d0b3dc4b6bc/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/d6086c1f080811ecbf18eeeeac1e5d0b3dc4b6bc/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/d6086c1f080811ecbf18eeeeac1e5d0b3dc4b6bc/full/%21640%2C/0/default 640w" data-img-id="d6086c1f080811ecbf18eeeeac1e5d0b3dc4b6bc" data-missing-asset="false" data-width="100" data-height="150" data-aspect-ratio="0.6666666666666666" data-public-title="Teh, Michael J." data-public-description="Former official portrait of Elder Michael J. Teh of the First Quorum of the Seventy, 2007.  Replaced December 2015."/></div>
+</div>
+<p class="kicker" data-aid="28862477" id="kicker1">If we are not careful, we will begin to chase after the temporal more than the spiritual.</p>
+</header>
+<div class="body-block">
+<p data-aid="28862478" id="p3">Shortly after general conference in October 2007, one of my brethren told me that it would be about seven years before I got this harrowing experience again. I was relieved and told him that I would consider it my “seven years of plenty.” Well, here I am; my seven years of plenty have come to an end.</p>
+<p data-aid="28862479" id="p4">Last January my sweetheart, Grace, and I received an assignment to visit the members in the Philippines who were devastated by a major earthquake and a super typhoon. We rejoiced because the assignment was an answer to our prayers and a testament to the mercy and goodness of a loving Father in Heaven. It provided some closure to our longing to personally express to them our love and concern.</p>
+<p data-aid="28862480" id="p5">Most of the members we met were still living in temporary shelters like tents, community centers, and Church meetinghouses. The homes we visited had either partial roofing or no roofing at all. The people did not have much to begin with, and what little they had was swept away. There was mud and debris everywhere. However, they were full of gratitude for the little help they received and were in good spirits despite their very difficult circumstances. When we asked them how they were coping, everyone responded with a resounding, “We’re OK.” Obviously, their faith in Jesus Christ gave them hope that everything would work out eventually. Home after home, tent after tent, Sister Teh and I were being taught by these faithful Saints.</p>
+<p data-aid="28862481" id="p6">In times of calamity or tragedy, the Lord has a way of refocusing us and our priorities. All of a sudden, all the material things we worked so hard to acquire do not matter. All that matters is our family and our relationships with others. One good sister put it this way: “After the water receded and it was time to begin cleaning up, I looked around my home and thought, ‘Wow, I have accumulated a lot of garbage these many years.’”</p>
+<p data-aid="28862482" id="p7">I suspect that this sister has gained a better perspective and henceforth will be very cautious in deciding which things are necessary and which ones she really can live without.</p>
+<span class="page-break" data-page="107"></span>
+<p data-aid="28862483" id="p8">In working with many members over the years, we have been pleased to observe an abundance of spiritual strength. We have also seen both an abundance and a lack of material possessions among these faithful members.</p>
+<p data-aid="28862484" id="p9">Out of necessity, most of us are involved in earning money and acquiring some of the world’s goods to be able to sustain our families. It requires a good part of our time and attention. There is no end to what the world has to offer, so it is critical that we learn to recognize when we have enough. If we are not careful, we will begin to chase after the temporal more than the spiritual. Our pursuit for the spiritual and eternal will then take a backseat, instead of the other way around. Sadly, there appears to be a strong inclination to acquire more and more and to own the latest and the most sophisticated.</p>
+<p data-aid="28862485" id="p10">How do we make sure that we are not drawn down this path? Jacob gives this counsel: “Wherefore, do not spend money for that which is of no worth, nor your labor for that which cannot satisfy. Hearken diligently unto me, and remember the words which I have spoken; and come unto the Holy One of Israel, and feast upon that which perisheth not, neither can be corrupted, and let your soul delight in fatness.”<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a></p>
+<p data-aid="28862486" id="p11">I hope none of us spend money for that which is of no worth nor labor for that which does not satisfy.</p>
+<p data-aid="28862487" id="p12">The Savior taught the following to both the Jews and the Nephites:</p>
+<p data-aid="28862488" id="p13">“Lay not up for yourselves treasures upon earth, where moth and rust doth corrupt, and where thieves break through and steal:</p>
+<p data-aid="28862489" id="p14">“But lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt, and where thieves do not break through nor steal:</p>
+<p data-aid="28862490" id="p15">“For where your treasure is, there will your heart be also.”<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a></p>
+<p data-aid="28862491" id="p16">In another setting, the Savior gave this parable:</p>
+<p data-aid="28862492" id="p17">“The ground of a certain rich man brought forth plentifully:</p>
+<p data-aid="28862493" id="p18">“And he thought within himself, saying, What shall I do, because I have no room where to bestow my fruits?</p>
+<p data-aid="28862494" id="p19">“And he said, This will I do: I will pull down my barns, and build greater; and there will I bestow all my fruits and my goods.</p>
+<p data-aid="28862495" id="p20">“And I will say to my soul, Soul, thou hast much goods laid up for many years; take thine ease, eat, drink, and be merry.</p>
+<p data-aid="28862496" id="p21">“But God said unto him, Thou fool, this night thy soul shall be required of thee: then whose shall those things be, which thou hast provided?</p>
+<p data-aid="28862497" id="p22">“So is he that layeth up treasure for himself, and is not rich toward God.”<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a></p>
+<p data-aid="28862498" id="p23">President Dieter F. Uchtdorf gave the following counsel not too long ago:</p>
+<p data-aid="28862499" id="p24">“Our Heavenly Father sees our real potential. He knows things about us that we do not know ourselves. He prompts us during our lifetime to fulfill the measure of our creation, to live a good life, and to return to His presence.</p>
+<p data-aid="28862500" id="p25">“Why, then, do we devote so much of our time and energy to things that are so fleeting, so inconsequential, and so superficial? Do we refuse to see the folly in the pursuit of the trivial and transient?”<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a></p>
+<p data-aid="28862501" id="p26">We all know that our list of earthly treasures consists of pride, wealth, material things, power, and the honors of men. They do not merit any more time and attention, so I will focus instead on the things that will constitute our treasures in heaven.</p>
+<p data-aid="28862502" id="p27">What are some treasures in heaven that we can lay up for ourselves? For starters, it will be well for us to acquire the Christlike attributes of faith, hope, humility, and charity. We have been counseled repeatedly to “[put] off the natural man and … [become] as a child.”<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a> The Savior’s admonition is for us to strive to be perfect like Him and our Heavenly Father.<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a></p>
+<p data-aid="28862503" id="p28">Second, we need to put more quality time and effort into strengthening family relationships. After all, “the family is ordained of God. It is the most important unit in time and in eternity.”<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a></p>
+<p data-aid="28862504" id="p29">Third, serving others is a hallmark of a true follower of Christ. He said, “Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me.”<a class="note-ref" href="#note8"><sup class="marker" data-value="8"></sup></a></p>
+<p data-aid="28862505" id="p30">Fourth, understanding the doctrine of Christ and strengthening our testimony is a labor that will bring real joy and satisfaction. We need to consistently study the words of Christ as found in the scriptures and the words <span class="page-break" data-page="108"></span>of living prophets. “For behold, the words of Christ will tell you all things what ye should do.”<a class="note-ref" href="#note9"><sup class="marker" data-value="9"></sup></a></p>
+<p data-aid="28862506" id="p31">May I conclude with the story of a 73-year-old widow whom we met during our trip to the Philippines:</p>
+<p data-aid="28862507" id="p32">When the earthquake struck the island of Bohol, the home that she and her late husband had worked so hard to build crumbled to the ground, killing her daughter and grandson. Now alone, she needs to work to support herself. She has started taking in laundry (which she does by hand) and has to go up and down a good-sized hill several times a day to fetch water. When we visited her, she was still living in a tent.</p>
+<p data-aid="28862508" id="p33">These are her words: “Elder, I accept everything that the Lord has asked me to pass through. I have no hard feelings. I treasure my temple recommend and keep it under my pillow. Please know that I pay a full tithing on my meager income from doing laundry. No matter what happens, I will always pay tithing.”</p>
+<p data-aid="28862509" id="p34">I bear testimony that our priorities, tendencies, inclinations, desires, appetites, and passions will have a direct bearing on our next estate. Let us always remember the words of the Savior: “For where your treasure is, there will your heart be also.” May our hearts be found in the right place is my prayer in the name of Jesus Christ, amen.</p>
+</div>
+<footer class="notes">
+<p class="title" data-aid="28862510" id="notetitle1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="28862511" id="note1_p1"><a class="scripture-ref" href="/study/scriptures/bofm/2-ne/9?lang=eng&amp;id=p51#p51">2 Nephi 9:51</a>.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="28862512" id="note2_p1"><a class="scripture-ref" href="/study/scriptures/nt/matt/6?lang=eng&amp;id=p19-p21#p19">Matthew 6:19–21</a>; see also <a class="scripture-ref" href="/study/scriptures/bofm/3-ne/13?lang=eng&amp;id=p19-p21#p19">3 Nephi 13:19–21</a>.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="28862513" id="note3_p1"><a class="scripture-ref" href="/study/scriptures/nt/luke/12?lang=eng&amp;id=p16-p21#p16">Luke 12:16–21</a>.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="28862514" id="note4_p1">Dieter F. Uchtdorf, “Of Regrets and Resolutions,” <em>Ensign</em> or <em>Liahona,</em> Nov. 2012, 22–23.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="28862515" id="note5_p1"><a class="scripture-ref" href="/study/scriptures/bofm/mosiah/3?lang=eng&amp;id=p19#p19">Mosiah 3:19</a>.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="28862516" id="note6_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/3-ne/12?lang=eng&amp;id=p48#p48">3 Nephi 12:48</a>.</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="28862517" id="note7_p1"><em>Handbook 2: Administering the Church</em> (2010), 1.1.1.</p>
+</li>
+<li data-marker="8." id="note8" data-full-marker="8.">
+<p data-aid="28862518" id="note8_p1"><a class="scripture-ref" href="/study/scriptures/nt/matt/25?lang=eng&amp;id=p40#p40">Matthew 25:40</a>.</p>
+</li>
+<li data-marker="9." id="note9" data-full-marker="9.">
+<p data-aid="28862519" id="note9_p1"><a class="scripture-ref" href="/study/scriptures/bofm/2-ne/32?lang=eng&amp;id=p3#p3">2 Nephi 32:3</a>.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/2014/04/where-your-treasure-is</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/april-2014-general-conference/2014-04-5050-elder-michael-john-u-teh-64k-eng.mp3" length="4562207" type="audio/mpeg"/>
-      <pubDate>Sun, 06 Apr 2014 14:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/496d46f732e011ecbd0feeeeac1efb1d3d6c89d7-32k-en.mp3" length="2551235" type="audio/mpeg"/>
+      <pubDate>Sun, 06 Apr 2014 14:00:00 -0600</pubDate>
+      <itunes:author>Michael John U. Teh</itunes:author>
+    </item>
+    <item>
+      <title>Our Personal Savior</title>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2021/04/48teh?lang=eng</link>
+      <description>Elder Teh teaches the importance of coming to know the Savior and appreciate His Atonement on a personal level.</description>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="99"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/F32EE121C8B65FE1529DF130DBA7F0807E350944/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/F32EE121C8B65FE1529DF130DBA7F0807E350944/full/%21192%2C/0/default" data-video-title="Our Personal Savior" data-video-description="Elder Teh teaches the importance of coming to know the Savior and appreciate His Atonement on a personal level." data-video-id="6246613928001" data-ip="Download and Streaming                            " data-duration="510309" data-assetId="78256DB68EFDD3F7B5D33CA10645225922BE4928" data-ref-id="78256DB68EFDD3F7B5D33CA10645225922BE4928" data-asset-aliasId="78256db68efdd3f7b5d33ca10645225922be4928" data-duration-string="8:30" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6246613928001.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="131504804"/><source src="https://assets.churchofjesuschrist.org/78256DB68EFDD3F7B5D33CA10645225922BE4928-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="26440742"/><source src="https://assets.churchofjesuschrist.org/78256DB68EFDD3F7B5D33CA10645225922BE4928-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="56543284"/><source src="https://assets.churchofjesuschrist.org/78256DB68EFDD3F7B5D33CA10645225922BE4928-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="131504804"/></video><h1 data-aid="146039885" id="title1">Our Personal Savior</h1>
+<div class="byline">
+<p class="author-name" data-aid="146039895" id="author1">By Elder Michael John U. Teh</p>
+<p class="author-role" data-aid="146039905" id="author2">Of the Seventy</p>
+</div>
+<p class="kicker" data-aid="146039923" id="kicker1">Because of His atoning sacrifice, the Savior has power to cleanse, heal, and strengthen us one by one.</p>
+</header>
+<div class="body-block">
+<p data-aid="146039931" id="p1">I am grateful to be with you this wonderful Easter morning. When I think of Easter, I love to rehearse in my mind the words spoken by angels to those who were at the Garden Tomb: “Why seek ye the living among the dead? He is not here, but is risen.”<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a> I testify that Jesus of Nazareth was resurrected and He lives.</p>
+<section>
+<header>
+<h2 data-aid="146039942" id="title2">What Think Ye of Christ?</h2>
+</header>
+<p data-aid="146039953" id="p2">Thirty-four years ago, my missionary companion and I met and taught a very intellectual man who was a contributing writer for a local newspaper in Davao City, Philippines. We enjoyed teaching him because he had a lot of questions and was very respectful of our beliefs. The most memorable question he asked us was “What think ye of Christ?”<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a> We of course excitedly shared our feelings and bore testimony of Jesus Christ. He later published an article on the same topic that contained wonderful words and phrases about the Savior. I remember being impressed but not necessarily lifted. It had good information but felt hollow and lacked spiritual power.</p>
+</section>
+<section>
+<header>
+<h2 data-aid="146039964" id="title3">Increasingly Coming to Know Him</h2>
+</header>
+<p data-aid="146039975" id="p3">“What think ye of Christ?” I am realizing that how intimately I know the Savior significantly influences my ability to hear Him as well as how I respond. A few years ago, Elder David A. Bednar asked the following questions as part of his remarks: “Do we only know about the Savior, or are we increasingly coming to know Him? How do we come to know the Lord?”<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a></p>
+<p data-aid="146039985" id="p4">As I studied and pondered, I came to the stark realization that what I know about the Savior greatly outweighed how much I really know Him. I resolved then to put forth more effort to know Him. I am very grateful for the scriptures and testimonies of faithful men and women disciples of Jesus Christ. My own journey over the last few years has taken me down many roads of study and discovery. I pray that the Holy Ghost will convey to you today a message far greater than the inadequate words that I have written.</p>
+<p data-aid="146039992" id="p5">First, we need to recognize that knowing the Savior is the most important pursuit of our lives. It should take priority over anything else.</p>
+<p data-aid="146040003" id="p6">“And this is life eternal, that they might know thee the only true God, and Jesus Christ, whom thou hast sent.”<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a></p>
+<p data-aid="146040013" id="p7">“Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me.”<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a></p>
+<p data-aid="146040021" id="p8">“I am the light of the world: he that followeth me shall not walk in darkness, but shall have the light of life.”<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a></p>
+<p data-aid="146040035" id="p9">Second, as we are increasingly coming to know the Savior, scriptural passages and the words of the prophets become so intimately meaningful to us that they become our own words. It is not about copying the words, feelings, and experiences of others as much as it is coming to know for ourselves, in our own unique way, by experimenting upon the word<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a> and receiving a witness from the Holy Ghost. As the prophet Alma declared:</p>
+<p data-aid="146040044" id="p10">“Do ye not suppose that I know of these things myself? Behold, I testify unto you that I do know that these things whereof I have spoken are true. And how do ye suppose that I know of their surety?</p>
+<p data-aid="146040046" id="p11">“Behold, I say unto you they are made known unto me by the Holy Spirit of God. Behold, I have fasted and prayed many days that I might know these things of myself. And now I do know of myself that they are true; for the Lord God hath made them manifest unto me by his Holy Spirit; and this is the spirit of revelation which is in me.”<a class="note-ref" href="#note8"><sup class="marker" data-value="8"></sup></a></p>
+<p data-aid="146040058" id="p12">Third, an increasing understanding that the Atonement of Jesus Christ applies to us personally and individually will help us know Him. Oftentimes it is easier for us to think and speak of Christ’s Atonement in general terms than to recognize its personal significance in our lives. The Atonement of Jesus Christ is infinite and eternal and all-encompassing in its breadth and depth but wholly personal and individual in its effects. Because of His atoning sacrifice, the Savior has power to cleanse, heal, and strengthen us one by one.</p>
+<span class="page-break" data-page="100"></span>
+<p data-aid="146040066" id="p13">The Savior’s only desire, His only purpose from the very beginning, was to do the will of the Father. The will of the Father was for Him to assist in “[bringing] to pass the immortality and eternal life of man”<a class="note-ref" href="#note9"><sup class="marker" data-value="9"></sup></a> by becoming our “advocate with the Father.”<a class="note-ref" href="#note10"><sup class="marker" data-value="10"></sup></a> Hence, “though he were a Son, yet learned he obedience by the things which he suffered; and being made perfect, he became the author of eternal salvation unto all them that obey him.”<a class="note-ref" href="#note11"><sup class="marker" data-value="11"></sup></a></p>
+<p data-aid="146040075" id="p14">“And he shall go forth, suffering pains and afflictions and temptations of every kind. …</p>
+<p data-aid="146040085" id="p15">“And he will take upon him death, that he may loose the bands of death … and he will take upon him their infirmities, that his bowels may be filled with mercy, … that he may know according to the flesh how to succor his people according to their infirmities.</p>
+<p data-aid="146040096" id="p16">“… The Son of God suffereth according to the flesh that he might take upon him the sins of his people, that he might blot out their transgressions according to the power of his deliverance.”<a class="note-ref" href="#note12"><sup class="marker" data-value="12"></sup></a></p>
+<p data-aid="146040102" id="p17">I would like to share a simple experience that illustrates the struggle we sometimes have to embrace the personal nature of the Lord’s Atonement.</p>
+<p data-aid="146040114" id="p18">Years ago, at the invitation of my file leader, I read the Book of Mormon from cover to cover and marked the verses that referenced the Lord’s Atonement. My leader also invited me to prepare a one-page summary of what I learned. I said to myself, “One page? Sure, that is easy.” To my surprise, however, I found the task to be extremely difficult, and I failed.</p>
+<p data-aid="146040124" id="p19">I have since realized that I failed because I missed the mark and had incorrect assumptions. First, I expected the summary to be inspiring to everyone. The summary was meant for me and not for anyone else. It was meant to capture my feelings and emotions about the Savior and what He has done for me so that every time I read it, it will bring to the surface wonderful, poignant, and personal spiritual experiences.</p>
+<p data-aid="146040131" id="p20">Second, I expected the summary to be grand and elaborate and contain big words and phrases. It was never about big words. It was meant to be a clear and simple declaration of conviction. “For my soul delighteth in plainness; for after this manner doth the Lord God work among the children of men. For the Lord God giveth light unto the understanding.”<a class="note-ref" href="#note13"><sup class="marker" data-value="13"></sup></a></p>
+<p data-aid="146040135" id="p21">Third, I expected it to be perfect, a summary to end all summaries—a final summary that one cannot and should not add to—instead of a work in progress to which I can add a word here or a phrase there as my understanding of Jesus Christ’s Atonement increases.</p>
+</section>
+<section>
+<header>
+<h2 data-aid="146040139" id="title4">Testimony and Invitation</h2>
+</header>
+<p data-aid="146040143" id="p22">As a young man, I learned a lot from my conversations with my bishop. During those tender years, I learned to love these words from a favorite hymn:</p>
+<div class="poetry">
+<div class="stanza">
+<p class="line" data-aid="146040148" id="p23">I stand all amazed at the love Jesus offers me,</p>
+<span class="page-break" data-page="101"></span>
+<p class="line" data-aid="146040149" id="p24">Confused at the grace that so fully he proffers me.</p>
+<p class="line" data-aid="146040156" id="p25">I tremble to know that for me he was crucified,</p>
+<p class="line" data-aid="146040158" id="p26">That for me, a sinner, he suffered, he bled and died.</p>
+</div>
+<div class="stanza">
+<p class="line" data-aid="146040163" id="p27">Oh, it is wonderful that he should care for me</p>
+<p class="line" data-aid="146040167" id="p28">Enough to die for me!</p>
+<p class="line" data-aid="146040171" id="p29">Oh, it is wonderful, wonderful to me!<a class="note-ref" href="#note14"><sup class="marker" data-value="14"></sup></a></p>
+</div>
+</div>
+<p data-aid="146040176" id="p30">The prophet Moroni invited us: “And now, I would commend you to seek this Jesus of whom the prophets and apostles have written.”<a class="note-ref" href="#note15"><sup class="marker" data-value="15"></sup></a></p>
+<p data-aid="146040178" id="p31">President Russell M. Nelson promised that “if [we] proceed to learn <em>all</em> [we] can about Jesus Christ, … [our] ability to turn away from sin will increase. [Our] desire to keep the commandments will soar.”<a class="note-ref" href="#note16"><sup class="marker" data-value="16"></sup></a></p>
+<p data-aid="146040182" id="p32">On this Easter Sunday, just as the Savior came forth from His stone grave, may we awake from our spiritual slumber and rise above the clouds of doubt, the clutches of fear, the intoxication of pride, and the lull of complacency. Jesus Christ and Heavenly Father live. I testify of Their perfect love for us. In the name of Jesus Christ, amen.</p>
+</section>
+</div>
+<footer class="notes">
+<p class="title" data-aid="146040187" id="note_title1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="146040190" id="note1_p1"><a class="scripture-ref" href="/study/scriptures/nt/luke/24?lang=eng&amp;id=p5-p6#p5">Luke 24:5–6</a>.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="146040192" id="note2_p1"><a class="scripture-ref" href="/study/scriptures/nt/matt/22?lang=eng&amp;id=p42#p42">Matthew 22:42</a>.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="146040196" id="note3_p1">David A. Bednar, “<a class="cross-ref" href="/study/general-conference/2016/10/if-ye-had-known-me?lang=eng">If Ye Had Known Me</a>,” <cite>Ensign</cite> or <cite>Liahona</cite>, Nov. 2016, 103.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="146040199" id="note4_p1"><a class="scripture-ref" href="/study/scriptures/nt/john/17?lang=eng&amp;id=p3#p3">John 17:3</a>.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="146040202" id="note5_p1"><a class="scripture-ref" href="/study/scriptures/nt/john/14?lang=eng&amp;id=p6#p6">John 14:6</a>.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="146040206" id="note6_p1"><a class="scripture-ref" href="/study/scriptures/nt/john/8?lang=eng&amp;id=p12#p12">John 8:12</a>.</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="146040210" id="note7_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/alma/32?lang=eng&amp;id=p27#p27">Alma 32:27</a>.</p>
+</li>
+<li data-marker="8." id="note8" data-full-marker="8.">
+<p data-aid="146040216" id="note8_p1"><a class="scripture-ref" href="/study/scriptures/bofm/alma/5?lang=eng&amp;id=p45-p46#p45">Alma 5:45–46</a>.</p>
+</li>
+<li data-marker="9." id="note9" data-full-marker="9.">
+<p data-aid="146040221" id="note9_p1"><a class="scripture-ref" href="/study/scriptures/pgp/moses/1?lang=eng&amp;id=p39#p39">Moses 1:39</a>.</p>
+</li>
+<li data-marker="10." id="note10" data-full-marker="10.">
+<p data-aid="146040225" id="note10_p1"><a class="scripture-ref" href="/study/scriptures/nt/1-jn/2?lang=eng&amp;id=p1#p1">1 John 2:1</a>.</p>
+</li>
+<li data-marker="11." id="note11" data-full-marker="11.">
+<p data-aid="146040227" id="note11_p1"><a class="scripture-ref" href="/study/scriptures/nt/heb/5?lang=eng&amp;id=p8-p9#p8">Hebrews 5:8–9</a>.</p>
+</li>
+<li data-marker="12." id="note12" data-full-marker="12.">
+<p data-aid="146040232" id="note12_p1"><a class="scripture-ref" href="/study/scriptures/bofm/alma/7?lang=eng&amp;id=p11-p13#p11">Alma 7:11–13</a>.</p>
+</li>
+<li data-marker="13." id="note13" data-full-marker="13.">
+<p data-aid="146040237" id="note13_p1"><a class="scripture-ref" href="/study/scriptures/bofm/2-ne/31?lang=eng&amp;id=p3#p3">2 Nephi 31:3</a>.</p>
+</li>
+<li data-marker="14." id="note14" data-full-marker="14.">
+<p data-aid="146040241" id="note14_p1">“I Stand All Amazed,” <cite>Hymns</cite>, no. 193.</p>
+</li>
+<li data-marker="15." id="note15" data-full-marker="15.">
+<p data-aid="146040246" id="note15_p1"><a class="scripture-ref" href="/study/scriptures/bofm/ether/12?lang=eng&amp;id=p41#p41">Ether 12:41</a>.</p>
+</li>
+<li data-marker="16." id="note16" data-full-marker="16.">
+<p data-aid="146040248" id="note16_p1">Russell M. Nelson, “<a class="cross-ref" href="/study/broadcasts/worldwide-devotional-for-young-adults-an-evening-with-president-nelson/2017/01/prophets-leadership-and-divine-law?lang=eng">Prophets, Leadership, and Divine Law</a>” (worldwide devotional for young adults, Jan. 8, 2017), broadcasts.ChurchofJesusChrist.org.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
+      <guid isPermaLink="false">/general-conference/2021/04/48teh</guid>
+      <enclosure url="https://assets.churchofjesuschrist.org/7f03272f32ec11ec8aafeeeeac1e5e360a4d7dfc-32k-en.mp3" length="2357550" type="audio/mpeg"/>
+      <pubDate>Sun, 04 Apr 2021 10:00:00 -0600</pubDate>
+      <itunes:author>Michael John U. Teh</itunes:author>
+    </item>
+    <item>
+      <title>Follow the Prophet; He Knows the Way</title>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2026/04/17teh?lang=eng</link>
+      <description>Elder Teh teaches that following the teachings and example of prophets, seers, and revelators can help us come closer to Jesus Christ.</description>
+      <content:encoded><![CDATA[<header>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/srs63hh3q0vztdywcb3gvbsuyadw5c88y9ktquvr/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/srs63hh3q0vztdywcb3gvbsuyadw5c88y9ktquvr/full/%21192%2C/0/default" data-video-title="Follow the Prophet; He Knows the Way" data-video-description="Elder Teh teaches that following the teachings and example of prophets, seers, and revelators can help us come closer to Jesus Christ." data-video-id="6392571121112" data-duration="488520" data-assetId="04brk5byhxii4xnkrr8j91g4a8ay2xu41ac7rr0e" data-ref-id="04brk5byhxii4xnkrr8j91g4a8ay2xu41ac7rr0e" data-duration-string="8:08" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6392571121112.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="161848150"/><source src="https://assets.churchofjesuschrist.org/04brk5byhxii4xnkrr8j91g4a8ay2xu41ac7rr0e-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="29970102"/><source src="https://assets.churchofjesuschrist.org/04brk5byhxii4xnkrr8j91g4a8ay2xu41ac7rr0e-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="54898492"/><source src="https://assets.churchofjesuschrist.org/04brk5byhxii4xnkrr8j91g4a8ay2xu41ac7rr0e-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="161848150"/></video><h1 data-aid="171130200" id="p_u3NQI">Follow the Prophet; He Knows the Way</h1>
+<div class="byline">
+<p class="author-name" data-aid="171130204" id="p_uid7j">By Elder Michael John U. Teh</p>
+<p class="author-role" data-aid="171130207" id="p_o6ByP">Of the Seventy</p>
+</div>
+<p class="kicker" data-aid="171130209" id="p_fK7nT">When we follow the teachings and examples of prophets, seers, and revelators, we are following our Savior, Jesus Christ.</p>
+</header>
+<div class="body-block">
+<section id="sec_jhHiu">
+<header>
+<h2 data-aid="171130215" id="p_rVG0m">Follow the Prophet</h2>
+</header>
+<p data-aid="171130217" id="p_gN5CU">To the rich young man, Jesus said, “Sell all that thou hast, and distribute unto the poor, and thou shalt have treasure in heaven: and come, follow me.”<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a> The young man did not know that the path he was asked to tread would lead him to “treasures in heaven, where neither moth nor rust doth corrupt.”<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a></p>
+<p data-aid="171130222" id="p_wmgkK">I am grateful for teachings received over the years that have helped me better follow the Savior. For my purpose today, I simply would like to focus on one. As the Primary song goes, “Follow the prophet; he knows the way.”<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a></p>
+<p data-aid="171130226" id="p_u8Dun">In October 2024, President Dallin H. Oaks gave the following counsel: “Following Christ is not a casual or occasional practice. It is a continuous commitment and way of life that should guide us at all times and in all places. His teachings and His example define the path for every disciple of Jesus Christ. And all are invited to this path.”<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a></p>
+</section>
+<section id="sec_uWLdG">
+<header>
+<h2 data-aid="171130228" id="p_orZk6">Gospel Culture</h2>
+</header>
+<p data-aid="171130233" id="p_zyQf0">My parents were born in the Philippines, but both of them had Chinese ancestry. Like almost everyone else in the Philippines, they embraced the predominant faith of my native country. So, our family enjoyed a healthy mix of different family, ethnic, and religious practices and traditions that influenced our daily lives.</p>
+<p data-aid="171130236" id="p_s6vbf">When my parents joined the Church, little did they know that they were embracing yet another set of values and traditions—even the gospel culture, based on the plan of salvation, God’s commandments, and the words of living prophets. Over time, as our family strived to fully embrace the gospel, my parents discovered that some of our well-loved traditions were not consistent with gospel culture. It became apparent to them that they needed to make a choice.</p>
+<p data-aid="171130240" id="p_rGcSw">And so began the difficult undertaking of weeding our family of traditions and cultural practices that were contrary to gospel culture. You could just imagine the immense pressure they received from family and friends to hold on to certain traditions even though they were contrary to the gospel.</p>
+<p data-aid="171130244" id="p_sBclA">I am so grateful that my parents exercised faith and chose to keep their covenants. It was a long and difficult process. Even when I left to live on my own, they were still working on it. Although our family was still not perfect, we had come a long way. This experience taught me that embracing gospel culture simply meant keeping our covenants.</p>
+<p data-aid="171130249" id="p_svC8M">President Oaks taught:</p>
+<p data-aid="171130252" id="p_yQ4IJ">“The gospel of Jesus Christ challenges us to change. ‘Repent’ is its most frequent message, and repenting means giving up all of our practices﻿—personal, family, ethnic, and national﻿—that are contrary to the commandments of God. The purpose of the gospel is to transform common creatures into celestial citizens, and that requires change. …</p>
+<p data-aid="171130256" id="p_vETIx">“The traditions or culture or way of life of a people inevitably include some practices that must be changed by those who wish to qualify for God’s choicest blessings.”<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a></p>
+</section>
+<section id="sec_bUGZb">
+<header>
+<h2 data-aid="171130259" id="p_sTE2h">The Strengthening and Enabling Power of the Atonement of Jesus Christ</h2>
+</header>
+<p data-aid="171130263" id="p_w31qA">A few weeks ago a stake president in Japan felt that we should visit a man diagnosed with cancer. Despite his going through treatment, the cancer continued to spread. In these situations, I struggle to find the words to say. So, for days I pleaded for the Lord’s help. I pictured the man to be downtrodden and devastated. I anticipated that he would ask why the Lord gave him this trial. I imagined that he would be hopeless and perhaps even a little angry. The day of the visit arrived, and I was still at a loss. When we finally met, I was completely astonished. What stood before me was not at all the man I had imagined. His countenance was bright and happy. There was no bitterness, and he never asked why.</p>
+<p data-aid="171130266" id="p_hE766">Just recently, I had very similar experiences with members living in Korea. My intention was to minister to others. However, at the end of my visits, it felt like I was the one being ministered to.</p>
+<p data-aid="171130270" id="p_mGkhy">Jesus Christ strengthened each of these individuals to endure their trials. As President Oaks has taught: “Our Savior experienced and suffered the fulness of all mortal challenges. … He therefore knows our struggles, our heartaches, our temptations, and our suffering, for He willingly experienced them all as an essential part of His Atonement. And because of this, His Atonement empowers Him to succor us﻿—to give us the strength to bear it all.”<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a></p>
+</section>
+<section id="sec_jsGIY">
+<header>
+<h2 data-aid="171130272" id="p_rCX8V">Ye Are the Light of the World</h2>
+</header>
+<p data-aid="171130279" id="p_qrwDV">Two years ago we were asked to live in Hong Kong, known for its tall buildings. Our apartment building was dwarfed by much taller buildings around it. So, I was prepared to live in the shadows. Imagine my delight to wake up and see the rays of the morning sun shining through our windows. This simple experience filled my soul with immense joy and gratitude.</p>
+<img alt="Sun shining in windows" id="img_j11tN" src="https://www.churchofjesuschrist.org/imgs/q31xhu8pi9818414lsns9zday3cimolmgkvg2kvm/full/%21500%2C/0/default" data-assetId="q31xhu8pi9818414lsns9zday3cimolmgkvg2kvm" srcset="https://www.churchofjesuschrist.org/imgs/q31xhu8pi9818414lsns9zday3cimolmgkvg2kvm/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/q31xhu8pi9818414lsns9zday3cimolmgkvg2kvm/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/q31xhu8pi9818414lsns9zday3cimolmgkvg2kvm/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/q31xhu8pi9818414lsns9zday3cimolmgkvg2kvm/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/q31xhu8pi9818414lsns9zday3cimolmgkvg2kvm/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/q31xhu8pi9818414lsns9zday3cimolmgkvg2kvm/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/q31xhu8pi9818414lsns9zday3cimolmgkvg2kvm/full/%21640%2C/0/default 640w" data-img-id="q31xhu8pi9818414lsns9zday3cimolmgkvg2kvm" data-missing-asset="false" data-width="500" data-height="281" data-aspect-ratio="1.7793594306049823" data-public-title="Teh living room with sun shining in" data-public-description="Teh living room with sun shining in"/>
+<img alt="Sun reflecting off building" id="img_fjDWk" src="https://www.churchofjesuschrist.org/imgs/bml3c96jx4ab62t8urajaptff29pdtinee6ahvhe/full/%21500%2C/0/default" data-assetId="bml3c96jx4ab62t8urajaptff29pdtinee6ahvhe" srcset="https://www.churchofjesuschrist.org/imgs/bml3c96jx4ab62t8urajaptff29pdtinee6ahvhe/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/bml3c96jx4ab62t8urajaptff29pdtinee6ahvhe/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/bml3c96jx4ab62t8urajaptff29pdtinee6ahvhe/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/bml3c96jx4ab62t8urajaptff29pdtinee6ahvhe/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/bml3c96jx4ab62t8urajaptff29pdtinee6ahvhe/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/bml3c96jx4ab62t8urajaptff29pdtinee6ahvhe/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/bml3c96jx4ab62t8urajaptff29pdtinee6ahvhe/full/%21640%2C/0/default 640w" data-img-id="bml3c96jx4ab62t8urajaptff29pdtinee6ahvhe" data-missing-asset="false" data-width="500" data-height="281" data-aspect-ratio="1.7793594306049823" data-public-title="Elder Teh's Living Room window with sun reflecting off another building" data-public-description="Elder Teh's Living Room window with sun reflecting off another building"/>
+<p data-aid="171130284" id="p_pN17o">When I finally got my bearings, I was so confused. Our windows were not facing east. How did we ever get the morning sun? Upon further investigation, I learned that the sun’s rays were being reflected into our apartment by the tall building in front of us. I was reminded that when we strive to follow the Savior, He will use us to bless others. Through our example and service to others, they will feel the Savior’s love for them.</p>
+<p data-aid="171130289" id="p_wCsde">From President Oaks: “During his ministry Jesus taught, ‘Behold I am the light; I have set an example for you.’ Later, he told his Apostles, ‘Hold up your light that it may shine unto the world,’ adding, ‘Behold, I am the light which ye shall hold up﻿—that which ye have seen me do.’”<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a></p>
+<p data-aid="171130294" id="p_w0LyJ">It is interesting to me that some people would think that God’s prophets live in the past and are not attuned to the times. Everything I know of prophets is the opposite. They actually see into the future as watchmen on a tower.<a class="note-ref" href="#note8"><sup class="marker" data-value="8"></sup></a></p>
+<p data-aid="171130299" id="p_jDD4g">As we learn in the book of Mosiah, “A seer can know of things which are past, and also of things which are to come, and by them shall all things be revealed, or, rather, shall secret things be made manifest, and hidden things shall come to light, and things which are not known shall be made known by them, and also things shall be made known by them which otherwise could not be known.”<a class="note-ref" href="#note9"><sup class="marker" data-value="9"></sup></a></p>
+<p data-aid="171130305" id="p_qxhJB">I testify that we are led today by a living prophet, President Dallin H. Oaks. He, along with the counselors in the First Presidency and the Quorum of the Twelve Apostles, are indeed prophets, seers, and revelators. I am grateful to have participated in the solemn assembly this morning. My dear brothers and sisters, especially you, my dear young friends, when we follow their teachings and examples, we are following our Savior, Jesus Christ. I so testify in the sacred name of Jesus Christ, amen.</p>
+</section>
+</div>
+<footer class="notes">
+<p class="title" data-aid="171130307" id="p_pFY0f">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="171130314" id="p_rEEPP"><a class="scripture-ref" href="/study/scriptures/nt/luke/18?lang=eng&amp;id=p22#p22">Luke 18:22</a>.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="171130318" id="p_hZiRk"><a class="scripture-ref" href="/study/scriptures/nt/matt/6?lang=eng&amp;id=p20#p20">Matthew 6:20</a>.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="171130323" id="p_f9lMA">“Follow the Prophet,” <cite>Children’s Songbook</cite>, 111.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="171130328" id="p_qpENc">Dallin H. Oaks, “<a class="cross-ref" href="/study/general-conference/2024/10/18oaks?lang=eng&amp;id=p_fjpqh#p_fjpqh">Following Christ</a>,” <cite>Liahona</cite>, Nov. 2024, 23.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="171130331" id="p_sYMuW">Dallin H. Oaks, “<a class="cross-ref" href="/study/general-conference/2003/10/repentance-and-change?lang=eng&amp;id=p19%2Cp23#p19">Repentance and Change</a>,” <cite>Liahona</cite>, Nov. 2003, 37–38.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="171130336" id="p_zoRVi">Dallin H. Oaks, “<a class="cross-ref" href="/study/general-conference/2015/10/strengthened-by-the-atonement-of-jesus-christ?lang=eng&amp;id=p9#p9">Strengthened by the Atonement of Jesus Christ</a>,” <cite>Liahona</cite>, Nov. 2015, 61.</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="171130342" id="p_ra1AH">Dallin H. Oaks, “<a class="cross-ref" href="/study/general-conference/1987/10/the-light-and-life-of-the-world?lang=eng&amp;id=p12#p12">The Light and Life of the World</a>,” <cite>Ensign</cite>, Nov. 1987, 64.</p>
+</li>
+<li data-marker="8." id="note8" data-full-marker="8.">
+<p data-aid="171130347" id="p_dGP8D">See <a class="scripture-ref" href="/study/scriptures/ot/ezek/33?lang=eng&amp;id=p2-p7#p2">Ezekiel 33:2–7</a>.</p>
+</li>
+<li data-marker="9." id="note9" data-full-marker="9.">
+<p data-aid="171130352" id="p_d01lo"><a class="scripture-ref" href="/study/scriptures/bofm/mosiah/8?lang=eng&amp;id=p17#p17">Mosiah 8:17</a>.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
+      <guid isPermaLink="false">/general-conference/2026/04/17teh</guid>
+      <enclosure url="https://assets.churchofjesuschrist.org/apr8hu31z2owmfezmq5xfj9r802bf5ohwa2crpxs-128k-en.mp3" length="7616373" type="audio/mpeg"/>
+      <pubDate>Sat, 04 Apr 2026 10:00:00 -0600</pubDate>
+      <itunes:author>Michael John U. Teh</itunes:author>
     </item>
   </channel>
 </rss>

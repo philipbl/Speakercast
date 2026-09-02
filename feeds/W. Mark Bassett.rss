@@ -1,75 +1,291 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Talks By W. Mark Bassett</title>
-    <link>http://philip.lundrigan.org/Speakercast/</link>
+    <link>https://philip.lundrigan.org/Speakercast/</link>
     <description>General Conference talks by W. Mark Bassett.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Speakercast</generator>
     <image>
-      <url>http://philip.lundrigan.org/Speakercast/covers/W.%20Mark%20Bassett.jpg</url>
+      <url>https://philip.lundrigan.org/Speakercast/covers/W.%20Mark%20Bassett.jpg</url>
       <title>General Conference talks by W. Mark Bassett.</title>
-      <link>http://philip.lundrigan.org/Speakercast/</link>
+      <link>https://philip.lundrigan.org/Speakercast/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Oct 2016 14:00:00 -0700</lastBuildDate>
-    <pubDate>Sat, 01 Oct 2016 14:00:00 -0700</pubDate>
+    <lastBuildDate>Sun, 02 Apr 2023 14:00:00 -0600</lastBuildDate>
+    <pubDate>Sun, 02 Apr 2023 14:00:00 -0600</pubDate>
+    <itunes:author>W. Mark Bassett</itunes:author>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
+    <itunes:image href="https://philip.lundrigan.org/Speakercast/covers/W.%20Mark%20Bassett.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>General Conference talks by W. Mark Bassett.</itunes:summary>
     <item>
       <title>For Our Spiritual Development and Learning</title>
-      <link>http://www.lds.org/general-conference/2016/10/for-our-spiritual-development-and-learning?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2016/10/for-our-spiritual-development-and-learning?lang=eng</link>
       <description>Elder Bassett teaches how patience, faith, and obedience can help us gain spiritual knowledge.</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/2016/10/for-our-spiritual-development-and-learning" dup-conf="false" dup-mag="false" schema-version="1" doc-id="general-conference_PD60001311_000_35bassett" doc-version="1" hash="bX7VHw">
-		
-		<div class="heading" uri="/general-conference/2016/10/for-our-spiritual-development-and-learning.head1">
-			<h1 class="title" pid="6PoKDSOncEan6LlS4SAACg" hash="DTLcHA">For Our Spiritual Development and Learning</h1>
-			<div class="byline">
-				<p class="para" uri="/general-conference/2016/10/for-our-spiritual-development-and-learning.p2" pid="KRLqmytzWU-OSx0rKFt7Sw" hash="_ZcKKw1">By Elder W. Mark Bassett</p>
-				<p class="para" uri="/general-conference/2016/10/for-our-spiritual-development-and-learning.p3" pid="1TLhcJ-Vek2TMhaiW8dQ0A" hash="sSmk3g">Of the Seventy</p>
-			</div>
-			<p class="kicker" pid="lwfJSfy6p0ivqEMDlMrKew" hash="Nal3tg">The mysteries of God are unfolded unto us only according to His will and by the power of the Holy Ghost.</p>
-		<p class="authorName" pid="uxYqM1CWKkCEuyVuCjPhcw" hash="_ZcKKw">By Elder W. Mark Bassett</p></div>
-		<div class="bodyBlock">
-			<p class="para" uri="/general-conference/2016/10/for-our-spiritual-development-and-learning.p5" pid="uulq4bKbokWAAVQA5sOMLw" hash="C42T5w">When I was a young boy, my parents received a gift that became fascinating to my younger brother David and me. The gift was a miniature model of the golden plates the Prophet Joseph Smith received from the angel Moroni. As I recall, the model plates had 10 or so metal pages with words written on them. However, those pages weren’t what caught our attention.</p>
-			<p class="para" uri="/general-conference/2016/10/for-our-spiritual-development-and-learning.p6" pid="yx3_mHKn5EqYh5jH3zp1FQ" hash="jDMb0w">We had been raised hearing the stories of the Restoration. We knew of and had sung in Primary about golden plates hidden deep in a mountainside and delivered by the angel Moroni to Joseph Smith.<span class="noteMarker" ref="f_1">1</span> As the curiosity of our young minds stirred, there was one thing we really wanted to see: what was written on the small section of the model plates securely sealed with two small metal bands?</p>
-			<p class="para" uri="/general-conference/2016/10/for-our-spiritual-development-and-learning.p7" pid="kE12q1bQPUWV8TEiwCFoiQ" hash="esLZ3w">The plates sat on an end table for several days before our curiosity got the best of us. Although we clearly understood that these were not the actual plates Moroni had delivered, we wanted to view the sealed portion. So on several occasions, my brother and I tried using butter knives, old spoons, and anything else we could imagine to pry apart the sealed portion of the plates just enough to see what they contained—but not enough to break the small bands. We were at least smart enough not to leave a trace of our mischievous boyhood curiosity. To our disappointment and frustration, these attempts to “pry at the plates” were always unsuccessful.</p>
-			<p class="para" uri="/general-conference/2016/10/for-our-spiritual-development-and-learning.p8" pid="9kX0jNNo3kS4mad3wqJFVQ" hash="aO829A">I still don’t know what—if anything—was hidden under that sealed portion. But the embarrassing part of our story is that to this day, I have no idea what was written on the portion of the metal pages that was meant to be read. I can only imagine that these pages contained stories of the Restoration and testimonies of Joseph Smith and the Three and Eight Witnesses, who saw the actual plates Moroni delivered.</p>
-			<p class="para" uri="/general-conference/2016/10/for-our-spiritual-development-and-learning.p9" pid="kB85IpuRZUOh-1DnE6hxGg" hash="-aQWkA">Since the Creation of this earth, our loving Father in Heaven has provided direction, leadership, and instruction to His children through prophets. His words have been passed down through these prophets and are saved as scripture for our development and learning. Nephi described it this way:</p>
-			<p class="para" uri="/general-conference/2016/10/for-our-spiritual-development-and-learning.p10" pid="GwHHiJttbkKrweAtEGB9ZA" hash="F8q1UQ">“For my soul delighteth in the scriptures, and my heart pondereth them, and writeth them for the learning and the profit of my children.</p>
-			<p class="para" uri="/general-conference/2016/10/for-our-spiritual-development-and-learning.p11" pid="jKi5Cs6tGEmHruKzXXZRgQ" hash="Sdipxw">“Behold, my soul delighteth in the things of the Lord; and my heart pondereth continually upon the things which I have seen and heard.”<span class="noteMarker" ref="f_2">2</span></p>
-			<p class="para" uri="/general-conference/2016/10/for-our-spiritual-development-and-learning.p12" pid="mW_aC94YoUyQ5uWfFvxJDg" hash="fEg74A">In addition, during past dispensations and in this last dispensation of the fulness of times, worthy members of the Lord’s Church have been blessed with the constant companionship of the Holy Ghost, who aids in our spiritual development and learning.</p>
-			<p class="para" uri="/general-conference/2016/10/for-our-spiritual-development-and-learning.p13" pid="7E3CnbzzQEaTuhcn-xobIg" hash="T-2WKQ">Knowing the diligent nature of my younger brother, I imagine it very likely that he read all the words written on the model plates in our parents’ home. I, however, ignored those plain and precious truths and instead exerted my effort searching for those things that were not meant to be revealed.</p>
-			<p class="para" uri="/general-conference/2016/10/for-our-spiritual-development-and-learning.p14" pid="I_H-INg5akGObz7scw1i1A" hash="lIEAWg">Sadly, our development and learning can at times be slowed or even halted by an ill-conceived desire to “pry at the plates.” These actions can lead us to seek after things that are not necessarily meant to be understood at this time, all the while ignoring the beautiful truths that are meant for us and our circumstances—the truths that Nephi described as written for our learning and profit.</p>
-			<p class="para" uri="/general-conference/2016/10/for-our-spiritual-development-and-learning.p15" pid="XXzXgRavrkCSuiQP32JxNQ" hash="evqsSg">Nephi’s brother Jacob taught: “Behold, great and marvelous are the works of the Lord. How unsearchable are the depths of the mysteries of him; and it is impossible that man should find out all his ways.”<span class="noteMarker" ref="f_3">3</span></p>
-			<p class="para" uri="/general-conference/2016/10/for-our-spiritual-development-and-learning.p16" pid="FwSZjpYo7Em_8_ufUCmGUA" hash="KHWKXg">Jacob’s words teach us that we cannot successfully “pry at the plates” or force the mysteries of God to be revealed unto us. Instead, the mysteries of God are unfolded unto us only according to His will and by the power of the Holy Ghost.<span class="noteMarker" ref="f_4">4</span></p>
-			<p class="para" uri="/general-conference/2016/10/for-our-spiritual-development-and-learning.p17" pid="_QCKns_QbkquSUsJwkao0w" hash="nuMQBw">Jacob continues:</p>
-			<p class="para" uri="/general-conference/2016/10/for-our-spiritual-development-and-learning.p18" pid="TCcnif1V2Uewj8p5GBG2Gg" hash="hVE68g">“And no man knoweth of his ways save it be revealed unto him; wherefore, brethren, despise not the revelations of God.</p>
-			<p class="para" uri="/general-conference/2016/10/for-our-spiritual-development-and-learning.p19" pid="nOV-0WiEqUKxXlBvNI0f0g" hash="dmAKlQ">“For behold, by the power of his word man came upon the face of the earth. … O then, why not able to command the earth, or the workmanship of his hands upon the face of it, according to his will and pleasure?</p>
-			<p class="para" uri="/general-conference/2016/10/for-our-spiritual-development-and-learning.p20" pid="JlXAEPopKEmYU9VPAPy52A" hash="a_j74g">“Wherefore, brethren, seek not to counsel the Lord, but to take counsel from his hand.”<span class="noteMarker" ref="f_5">5</span></p>
-			<p class="para" uri="/general-conference/2016/10/for-our-spiritual-development-and-learning.p21" pid="AW5PW9hwOU-HoApUKDyxYQ" hash="IHihBg">In order to understand the mysteries of God, or those things that can be understood only through revelation, we must follow the example of Nephi, who said, “Being exceedingly young, nevertheless being large in stature, and also having great desires to know of the mysteries of God, wherefore, I did cry unto the Lord; and behold he did visit me, and did soften my heart that I did believe all the words which had been spoken by my father.”<span class="noteMarker" ref="f_6">6</span> The Lord Himself further explained that Nephi had exercised faith, sought diligently with lowliness of heart, and kept His commandments.<span class="noteMarker" ref="f_7">7</span></p>
-			<p class="para" uri="/general-conference/2016/10/for-our-spiritual-development-and-learning.p22" pid="IQGhhIcs_U6hddQ_3q8a4A" hash="qQ1few">Nephi’s example of seeking knowledge included (1) a sincere desire, (2) humility, (3) prayer, (4) trust in the prophet, and an exercise of (5) faith, (6) diligence, and (7) obedience. This method of seeking is in great contrast to my “prying at the plates,” or trying to force an understanding of things meant to be revealed according to the Lord’s timetable and through the power of the Holy Ghost.</p>
-			<p class="para" uri="/general-conference/2016/10/for-our-spiritual-development-and-learning.p23" pid="-kAzTYXOfEyrLbayKtSAXg" hash="cJlUQw">In this modern age, we have come to expect that knowledge can and should be obtained immediately; when information is not easily known or accessible, it is often dismissed or mistrusted. Because of the abundance of information, some unwittingly give more credibility to available sources with an unknown origin rather than relying on the Lord’s established pattern for receiving personal revelation. Jacob could have been describing our time when he said: “But behold, [they] were a stiffnecked people; and they despised the words of plainness … and sought for things that they could not understand. Wherefore, because of their blindness, which blindness came by looking beyond the mark, they must needs fall; for God hath taken away his plainness from them, and delivered unto them many things which they cannot understand, because they desired it.”<span class="noteMarker" ref="f_8">8</span></p>
-			<p class="para" uri="/general-conference/2016/10/for-our-spiritual-development-and-learning.p24" pid="OcT0OMOI90eMTipH314wKA" hash="hzd70g">In contrast is President Dieter F. Uchtdorf’s counsel. He spoke of missionaries, but his words are equally applicable to all seekers of spiritual truth. “When … missionaries have faith in Jesus Christ,” he said, “they will trust the Lord enough to follow His commandments—even when they do not completely understand the reasons for them. Their faith will be manifest through diligence and through work.”<span class="noteMarker" ref="f_9">9</span></p>
-			<p class="para" uri="/general-conference/2016/10/for-our-spiritual-development-and-learning.p25" pid="LgON-CVQHkKBg5Eh2-7g7g" hash="ZX5WHg">During last April’s general conference, Elder Dallin H. Oaks explained: “The Church is making great efforts to be transparent with the records we have, but after all we can publish, our members are sometimes left with basic questions that cannot be resolved by study. … Some things can be learned only by faith.”<span class="noteMarker" ref="f_10">10</span></p>
-			<p class="para" uri="/general-conference/2016/10/for-our-spiritual-development-and-learning.p26" pid="GpFaDinjN0eWsaSbwVcvjg" hash="stkZTA">Ancient prophets taught this same principle, demonstrating that over time human nature has not changed and that the Lord’s pattern for learning is timeless. Consider this Old Testament proverb: “Trust in the Lord with all thine heart; and lean not unto thine own understanding.”<span class="noteMarker" ref="f_11">11</span></p>
-			<p class="para" uri="/general-conference/2016/10/for-our-spiritual-development-and-learning.p27" pid="BA8JHCgr2UqKXqwkl7clDw" hash="CvGLMQ">Isaiah explained, speaking for the Lord, “For as the heavens are higher than the earth, so are my ways higher than your ways, and my thoughts than your thoughts.”<span class="noteMarker" ref="f_12">12</span></p>
-			<p class="para" uri="/general-conference/2016/10/for-our-spiritual-development-and-learning.p28" pid="n_TTQItOUU6_eU_V-NiJzA" hash="_doInQ">Nephi added another witness when he proclaimed, “O Lord, I have trusted in thee, and I will trust in thee forever.”<span class="noteMarker" ref="f_13">13</span></p>
-			<p class="para" uri="/general-conference/2016/10/for-our-spiritual-development-and-learning.p29" pid="IzktriZQXEmpRdJSJYo-ew" hash="SOf__w">Faith and trust in the Lord require us to acknowledge that His wisdom is superior to our own. We must also acknowledge that His plan provides the greatest potential for spiritual development and learning.</p>
-			<p class="para" uri="/general-conference/2016/10/for-our-spiritual-development-and-learning.p30" pid="M4bn9fXtPkuAe_yqE8LEbg" hash="b0av6g">We were never expected “to have a perfect knowledge of things” during this mortal existence. Instead, we are expected to “hope for things which are not seen, which are true.”<span class="noteMarker" ref="f_14">14</span></p>
-			<p class="para" uri="/general-conference/2016/10/for-our-spiritual-development-and-learning.p31" pid="V9W5kLvSz0yGewn7bnLkcA" hash="2rLKQQ">Even with Nephi’s great faith, he acknowledged his limited understanding when he responded to the angel who asked him, “Knowest thou the condescension of God?” Nephi replied, “I know that he loveth his children; nevertheless,<span class="emphasis"> I do not know the meaning of all things.</span>”<span class="noteMarker" ref="f_15">15</span></p>
-			<p class="para" uri="/general-conference/2016/10/for-our-spiritual-development-and-learning.p32" pid="o_2pLizlykyu-wyXwcLFFg" hash="EaPrKQ">Similarly, Alma expressed to his son Helaman, “Now these mysteries are not yet fully made known unto me; therefore I shall forbear.”<span class="noteMarker" ref="f_16">16</span></p>
-			<p class="para" uri="/general-conference/2016/10/for-our-spiritual-development-and-learning.p33" pid="DuPEvzeEtkG_dZfwBptELQ" hash="B_brSw">I express my witness that our Father in Heaven loves His children, and yet, like Nephi and Alma, I do not know the meaning of all things. Nor do I need to know all things; I <span class="emphasis">too</span> shall forbear and wait patiently upon the Lord, knowing “I have all things as a testimony that these things are true; and ye also have all things as a testimony unto you that they are true. …</p>
-			<p class="para" uri="/general-conference/2016/10/for-our-spiritual-development-and-learning.p34" pid="dMc1QSyS4UuybY26gqliGg" hash="L77bKQ">“… The scriptures are laid before thee, yea, and all things denote there is a God; yea, even the earth, and all things that are upon the face of it, yea, and its motion, yea, and also all the planets which move in their regular form do witness that there is a Supreme Creator.”<span class="noteMarker" ref="f_17">17</span></p>
-			<p class="para" uri="/general-conference/2016/10/for-our-spiritual-development-and-learning.p35" pid="qv5tdX5jDkOxaQy_iOcN2A" hash="_phpVg">As we acknowledge that we are the workmanship of a wise and devoted Father in Heaven, “O then,” why not allow Him to guide our spiritual development and learning “according to his will and pleasure” rather than our own?<span class="noteMarker" ref="f_18">18</span></p>
-			<p class="para" uri="/general-conference/2016/10/for-our-spiritual-development-and-learning.p36" pid="nm3uTNdeykW0qf6pFT1qig" hash="s8iX1Q">He lives. Jesus Christ is His Only Begotten Son and the Redeemer of mankind. Because of Christ’s infinite Atonement, He has the wisdom and foresight to guide us in these latter days. Joseph Smith is His prophet, chosen to restore His kingdom on earth to its fulness. Thomas S. Monson is His living prophet and spokesman today. Of this I bear my sincere witness in the name of Jesus Christ, amen.</p>
-		</div>
-		
-	</div>]]></content:encoded>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="52"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/ec2cd16501d69dc32507ebc8572dce2eea8ae36b/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/ec2cd16501d69dc32507ebc8572dce2eea8ae36b/full/%21192%2C/0/default" data-video-title="For Our Spiritual Development and Learning" data-video-description="Elder Bassett teaches how patience, faith, and obedience can help us gain spiritual knowledge." data-video-id="5151254893001" data-ip="Download and Streaming                            " data-duration="707606" data-assetId="768ccc2bdd0a9d38024e4a6d95ddfd5ffae0d622" data-ref-id="768ccc2bdd0a9d38024e4a6d95ddfd5ffae0d622" data-duration-string="11:47" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/5151254893001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="160441849"/><source src="https://assets.churchofjesuschrist.org/768ccc2bdd0a9d38024e4a6d95ddfd5ffae0d622-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="38244222"/><source src="https://assets.churchofjesuschrist.org/768ccc2bdd0a9d38024e4a6d95ddfd5ffae0d622-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="66502585"/><source src="https://assets.churchofjesuschrist.org/768ccc2bdd0a9d38024e4a6d95ddfd5ffae0d622-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="160441849"/></video><h1 data-aid="129955492" id="title1">For Our Spiritual Development and Learning</h1>
+<div class="byline">
+<p class="author-name" data-aid="129955493" id="p1">By Elder W. Mark Bassett</p>
+<p class="author-role" data-aid="129955494" id="p2">Of the Seventy</p>
+<div class="image-cropper"><img alt="Elder W. Mark Bassett" class="headshot" data-deprecate-web-url="w-mark-bassett-general-authority-seventy_1712805.jpg" id="img1" src="https://www.churchofjesuschrist.org/imgs/b2e248f577c496ac54729b1c76c51a4fdfb28b50/full/%21100%2C/0/default" data-assetId="b2e248f577c496ac54729b1c76c51a4fdfb28b50" srcset="https://www.churchofjesuschrist.org/imgs/b2e248f577c496ac54729b1c76c51a4fdfb28b50/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/b2e248f577c496ac54729b1c76c51a4fdfb28b50/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/b2e248f577c496ac54729b1c76c51a4fdfb28b50/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/b2e248f577c496ac54729b1c76c51a4fdfb28b50/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/b2e248f577c496ac54729b1c76c51a4fdfb28b50/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/b2e248f577c496ac54729b1c76c51a4fdfb28b50/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/b2e248f577c496ac54729b1c76c51a4fdfb28b50/full/%21640%2C/0/default 640w" data-img-id="b2e248f577c496ac54729b1c76c51a4fdfb28b50" data-missing-asset="false" data-width="100" data-height="138" data-aspect-ratio="0.7246376811594203" data-public-title="Bassett, W. Mark" data-public-description="Official portrait of Elder W. Mark Bassett of the Seventy, 2016.  Sustained at the April 2016 general conference." data-credit-line="Craig Dimond, @2016 by Intellectual Reserve, Inc.  All rights reserved."/></div>
+</div>
+<p class="kicker" data-aid="129955495" id="kicker1">The mysteries of God are unfolded unto us only according to His will and by the power of the Holy Ghost.</p>
+</header>
+<div class="body-block">
+<p data-aid="129955496" id="p3">When I was a young boy, my parents received a gift that became fascinating to my younger brother David and me. The gift was a miniature model of the golden plates the Prophet Joseph Smith received from the angel Moroni. As I recall, the model plates had 10 or so metal pages with words written on them. However, those pages weren’t what caught our attention.</p>
+<p data-aid="129955497" id="p4">We had been raised hearing the stories of the Restoration. We knew of and had sung in Primary about golden plates hidden deep in a mountainside and delivered by the angel Moroni to Joseph Smith.<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a> As the curiosity of our young minds stirred, there was one thing we really wanted to see: what was written on the small section of the model plates securely sealed with two small metal bands?</p>
+<p data-aid="129955498" id="p5">The plates sat on an end table for several days before our curiosity got the best of us. Although we clearly understood that these were not the actual plates Moroni had delivered, we wanted to view the sealed portion. So on several occasions, my brother and I tried using butter knives, old spoons, and anything else we could imagine to pry apart the sealed portion of the plates just enough to see what they contained—but not enough to break the small bands. We were at least smart enough not to leave a trace of our mischievous boyhood curiosity. To our disappointment and frustration, these attempts to “pry at the plates” were always unsuccessful.</p>
+<p data-aid="129955499" id="p6">I still don’t know what—if anything—was hidden under that sealed portion. But the embarrassing part of our story is that to this day, I have no idea what was written on the portion of the metal pages that was meant to be read. I can only imagine that these pages contained stories of the Restoration and testimonies of Joseph Smith and the Three and Eight Witnesses, who saw the actual plates Moroni delivered.</p>
+<p data-aid="129955500" id="p7">Since the Creation of this earth, our loving Father in Heaven has provided direction, leadership, and instruction to His children through prophets. His words have been passed down through these prophets and are saved as scripture for our development and learning. Nephi described it this way:</p>
+<p data-aid="129955501" id="p8">“For my soul delighteth in the scriptures, and my heart pondereth them, and writeth them for the learning and the profit of my children.</p>
+<p data-aid="129955502" id="p9">“Behold, my soul delighteth in the things of the Lord; and my heart pondereth continually upon the things which I have seen and heard.”<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a></p>
+<span class="page-break" data-page="53"></span>
+<p data-aid="129955503" id="p10">In addition, during past dispensations and in this last dispensation of the fulness of times, worthy members of the Lord’s Church have been blessed with the constant companionship of the Holy Ghost, who aids in our spiritual development and learning.</p>
+<p data-aid="129955504" id="p11">Knowing the diligent nature of my younger brother, I imagine it very likely that he read all the words written on the model plates in our parents’ home. I, however, ignored those plain and precious truths and instead exerted my effort searching for those things that were not meant to be revealed.</p>
+<p data-aid="129955505" id="p12">Sadly, our development and learning can at times be slowed or even halted by an ill-conceived desire to “pry at the plates.” These actions can lead us to seek after things that are not necessarily meant to be understood at this time, all the while ignoring the beautiful truths that are meant for us and our circumstances—the truths that Nephi described as written for our learning and profit.</p>
+<p data-aid="129955506" id="p13">Nephi’s brother Jacob taught: “Behold, great and marvelous are the works of the Lord. How unsearchable are the depths of the mysteries of him; and it is impossible that man should find out all his ways.”<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a></p>
+<p data-aid="129955507" id="p14">Jacob’s words teach us that we cannot successfully “pry at the plates” or force the mysteries of God to be revealed unto us. Instead, the mysteries of God are unfolded unto us only according to His will and by the power of the Holy Ghost.<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a></p>
+<p data-aid="129955508" id="p15">Jacob continues:</p>
+<p data-aid="129955509" id="p16">“And no man knoweth of his ways save it be revealed unto him; wherefore, brethren, despise not the revelations of God.</p>
+<p data-aid="129955510" id="p17">“For behold, by the power of his word man came upon the face of the earth. … O then, why not able to command the earth, or the workmanship of his hands upon the face of it, according to his will and pleasure?</p>
+<p data-aid="129955511" id="p18">“Wherefore, brethren, seek not to counsel the Lord, but to take counsel from his hand.”<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a></p>
+<p data-aid="129955512" id="p19">In order to understand the mysteries of God, or those things that can be understood only through revelation, we must follow the example of Nephi, who said, “Being exceedingly young, nevertheless being large in stature, and also having great desires to know of the mysteries of God, wherefore, I did cry unto the Lord; and behold he did visit me, and did soften my heart that I did believe all the words which had been spoken by my father.”<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a> The Lord Himself further explained that Nephi had exercised faith, sought diligently with lowliness of heart, and kept His commandments.<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a></p>
+<p data-aid="129955513" id="p20">Nephi’s example of seeking knowledge included (1) a sincere desire, (2) humility, (3) prayer, (4) trust in the prophet, and an exercise of (5) faith, (6) diligence, and (7) obedience. This method of seeking is in great contrast to my “prying at the plates,” or trying to force an understanding of things meant to be revealed according to the Lord’s timetable and through the power of the Holy Ghost.</p>
+<p data-aid="129955514" id="p21">In this modern age, we have come to expect that knowledge can and should be obtained immediately; when information is not easily known or accessible, it is often dismissed or mistrusted. Because of the abundance of information, some unwittingly give more credibility to available sources with an unknown origin rather than relying on the Lord’s established pattern for receiving personal revelation. Jacob could have been describing our time when he said: “But behold, [they] were a stiffnecked people; and they <span class="page-break" data-page="54"></span>despised the words of plainness … and sought for things that they could not understand. Wherefore, because of their blindness, which blindness came by looking beyond the mark, they must needs fall; for God hath taken away his plainness from them, and delivered unto them many things which they cannot understand, because they desired it.”<a class="note-ref" href="#note8"><sup class="marker" data-value="8"></sup></a></p>
+<p data-aid="129955515" id="p22">In contrast is President Dieter F. Uchtdorf’s counsel. He spoke of missionaries, but his words are equally applicable to all seekers of spiritual truth. “When … missionaries have faith in Jesus Christ,” he said, “they will trust the Lord enough to follow His commandments—even when they do not completely understand the reasons for them. Their faith will be manifest through diligence and through work.”<a class="note-ref" href="#note9"><sup class="marker" data-value="9"></sup></a></p>
+<p data-aid="129955516" id="p23">During last April’s general conference, Elder Dallin H. Oaks explained: “The Church is making great efforts to be transparent with the records we have, but after all we can publish, our members are sometimes left with basic questions that cannot be resolved by study. … Some things can be learned only by faith.”<a class="note-ref" href="#note10"><sup class="marker" data-value="10"></sup></a></p>
+<p data-aid="129955517" id="p24">Ancient prophets taught this same principle, demonstrating that over time human nature has not changed and that the Lord’s pattern for learning is timeless. Consider this Old Testament proverb: “Trust in the Lord with all thine heart; and lean not unto thine own understanding.”<a class="note-ref" href="#note11"><sup class="marker" data-value="11"></sup></a></p>
+<p data-aid="129955518" id="p25">Isaiah explained, speaking for the Lord, “For as the heavens are higher than the earth, so are my ways higher than your ways, and my thoughts than your thoughts.”<a class="note-ref" href="#note12"><sup class="marker" data-value="12"></sup></a></p>
+<p data-aid="129955519" id="p26">Nephi added another witness when he proclaimed, “O Lord, I have trusted in thee, and I will trust in thee forever.”<a class="note-ref" href="#note13"><sup class="marker" data-value="13"></sup></a></p>
+<p data-aid="129955520" id="p27">Faith and trust in the Lord require us to acknowledge that His wisdom is superior to our own. We must also acknowledge that His plan provides the greatest potential for spiritual development and learning.</p>
+<p data-aid="129955521" id="p28">We were never expected “to have a perfect knowledge of things” during this mortal existence. Instead, we are expected to “hope for things which are not seen, which are true.”<a class="note-ref" href="#note14"><sup class="marker" data-value="14"></sup></a></p>
+<p data-aid="129955522" id="p29">Even with Nephi’s great faith, he acknowledged his limited understanding when he responded to the angel who asked him, “Knowest thou the condescension of God?” Nephi replied, “I know that he loveth his children; nevertheless, <em>I do not know the meaning of all things.</em>”<a class="note-ref" href="#note15"><sup class="marker" data-value="15"></sup></a></p>
+<p data-aid="129955523" id="p30">Similarly, Alma expressed to his son Helaman, “Now these mysteries are not yet fully made known unto me; therefore I shall forbear.”<a class="note-ref" href="#note16"><sup class="marker" data-value="16"></sup></a></p>
+<p data-aid="129955524" id="p31">I express my witness that our Father in Heaven loves His children, and yet, like Nephi and Alma, I do not know the meaning of all things. Nor do I need to know all things; I <em>too</em> shall forbear and wait patiently upon the Lord, knowing “I have all things as a testimony that these things are true; and ye also have all things as a testimony unto you that they are true. …</p>
+<p data-aid="129955525" id="p32">“… The scriptures are laid before thee, yea, and all things denote there is a God; yea, even the earth, and all things that are upon the face of it, yea, and its motion, yea, and also all the planets which move in their regular form do witness that there is a Supreme Creator.”<a class="note-ref" href="#note17"><sup class="marker" data-value="17"></sup></a></p>
+<p data-aid="129955526" id="p33">As we acknowledge that we are the workmanship of a wise and devoted Father in Heaven, “O then,” why not allow Him to guide our spiritual development and learning “according to his will and pleasure” rather than our own?<a class="note-ref" href="#note18"><sup class="marker" data-value="18"></sup></a></p>
+<p data-aid="129955527" id="p34">He lives. Jesus Christ is His Only Begotten Son and the Redeemer of mankind. Because of Christ’s infinite Atonement, He has the wisdom and foresight to guide us in these latter days. Joseph Smith is His prophet, chosen to restore His kingdom on earth to its fulness. Thomas S. Monson is His living prophet and spokesman today. Of this I bear my sincere witness in the name of Jesus Christ, amen.</p>
+</div>
+<footer class="notes">
+<p class="title" data-aid="129955528" id="notetitle1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="129955529" id="note1_p1">See “The Golden Plates,” <em>Children’s Songbook,</em> 86.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="129955530" id="note2_p1"><a class="scripture-ref" href="/study/scriptures/bofm/2-ne/4?lang=eng&amp;id=p15-p16#p15">2 Nephi 4:15–16</a>.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="129955531" id="note3_p1"><a class="scripture-ref" href="/study/scriptures/bofm/jacob/4?lang=eng&amp;id=p8#p8">Jacob 4:8</a>.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="129955532" id="note4_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/1-ne/10?lang=eng&amp;id=p19#p19">1 Nephi 10:19</a>.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="129955533" id="note5_p1"><a class="scripture-ref" href="/study/scriptures/bofm/jacob/4?lang=eng&amp;id=p8-p10#p8">Jacob 4:8–10</a>.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="129955534" id="note6_p1"><a class="scripture-ref" href="/study/scriptures/bofm/1-ne/2?lang=eng&amp;id=p16#p16">1 Nephi 2:16</a>.</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="129955535" id="note7_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/1-ne/2?lang=eng&amp;id=p19-p20#p19">1 Nephi 2:19–20</a>.</p>
+</li>
+<li data-marker="8." id="note8" data-full-marker="8.">
+<p data-aid="129955536" id="note8_p1"><a class="scripture-ref" href="/study/scriptures/bofm/jacob/4?lang=eng&amp;id=p14#p14">Jacob 4:14</a>.</p>
+</li>
+<li data-marker="9." id="note9" data-full-marker="9.">
+<p data-aid="129955537" id="note9_p1">Dieter F. Uchtdorf, “The Lord’s Work” (address given at the seminar for new mission presidents, June 25, 2016), 6.</p>
+</li>
+<li data-marker="10." id="note10" data-full-marker="10.">
+<p data-aid="129955538" id="note10_p1">Dallin H. Oaks, “<a class="cross-ref" href="/study/general-conference/2016/04/opposition-in-all-things?lang=eng">Opposition in All Things</a>,” <em>Ensign</em> or <em>Liahona,</em> May 2016, 117.</p>
+</li>
+<li data-marker="11." id="note11" data-full-marker="11.">
+<p data-aid="129955539" id="note11_p1"><a class="scripture-ref" href="/study/scriptures/ot/prov/3?lang=eng&amp;id=p5#p5">Proverbs 3:5</a>.</p>
+</li>
+<li data-marker="12." id="note12" data-full-marker="12.">
+<p data-aid="129955540" id="note12_p1"><a class="scripture-ref" href="/study/scriptures/ot/isa/55?lang=eng&amp;id=p9#p9">Isaiah 55:9</a>.</p>
+</li>
+<li data-marker="13." id="note13" data-full-marker="13.">
+<p data-aid="129955541" id="note13_p1"><a class="scripture-ref" href="/study/scriptures/bofm/2-ne/4?lang=eng&amp;id=p34#p34">2 Nephi 4:34</a>.</p>
+</li>
+<li data-marker="14." id="note14" data-full-marker="14.">
+<p data-aid="129955542" id="note14_p1"><a class="scripture-ref" href="/study/scriptures/bofm/alma/32?lang=eng&amp;id=p21#p21">Alma 32:21</a>.</p>
+</li>
+<li data-marker="15." id="note15" data-full-marker="15.">
+<p data-aid="129955543" id="note15_p1"><a class="scripture-ref" href="/study/scriptures/bofm/1-ne/11?lang=eng&amp;id=p16-p17#p16">1 Nephi 11:16–17</a>; emphasis added.</p>
+</li>
+<li data-marker="16." id="note16" data-full-marker="16.">
+<p data-aid="129955544" id="note16_p1"><a class="scripture-ref" href="/study/scriptures/bofm/alma/37?lang=eng&amp;id=p11#p11">Alma 37:11</a>.</p>
+</li>
+<li data-marker="17." id="note17" data-full-marker="17.">
+<p data-aid="129955545" id="note17_p1"><a class="scripture-ref" href="/study/scriptures/bofm/alma/30?lang=eng&amp;id=p41%2Cp44#p41">Alma 30:41, 44</a>.</p>
+</li>
+<li data-marker="18." id="note18" data-full-marker="18.">
+<p data-aid="129955546" id="note18_p1"><a class="scripture-ref" href="/study/scriptures/bofm/jacob/4?lang=eng&amp;id=p9#p9">Jacob 4:9</a>.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/2016/10/for-our-spiritual-development-and-learning</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/october-2016-general-conference/2016-10-2050-w-mark-bassett-64k-eng.mp3" length="5674689" type="audio/mpeg"/>
-      <pubDate>Sat, 01 Oct 2016 14:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/a0453c10077411ecbb5eeeeeac1e9b2a8ae5d628-64k-en.mp3" length="5953949" type="audio/mpeg"/>
+      <pubDate>Sat, 01 Oct 2016 14:00:00 -0600</pubDate>
+      <itunes:author>W. Mark Bassett</itunes:author>
+    </item>
+    <item>
+      <title>After the Fourth Day</title>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2023/04/55bassett?lang=eng</link>
+      <description>Elder Bassett teaches that as we keep the commandments and do all that we can do, Jesus Christ will work miracles in our lives.</description>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="116"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/653f4ee6eb47b213ed05fb54f5f89c424fd45906/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/653f4ee6eb47b213ed05fb54f5f89c424fd45906/full/%21192%2C/0/default" data-video-title="After the Fourth Day" data-video-description="Elder Bassett teaches that as we keep the commandments and do all that we can do, Jesus Christ will work miracles in our lives." data-video-id="6323846890112" data-ip="Download and Streaming                            " data-duration="643000" data-assetId="ec9a4bf3d1a411ed9082eeeeac1eb64909d83598" data-ref-id="5601907252AA147B166425834F9B46D0877512DC" data-duration-string="10:43" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6323846890112/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="169825245"/><source src="https://assets.churchofjesuschrist.org/ec9a4bf3d1a411ed9082eeeeac1eb64909d83598-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="36197835"/><source src="https://assets.churchofjesuschrist.org/ec9a4bf3d1a411ed9082eeeeac1eb64909d83598-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="65772860"/><source src="https://assets.churchofjesuschrist.org/ec9a4bf3d1a411ed9082eeeeac1eb64909d83598-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="169825245"/></video><h1 data-aid="154444757" id="title1">After the Fourth Day</h1>
+<div class="byline">
+<p class="author-name" data-aid="154444758" id="author1">By Elder W. Mark Bassett</p>
+<p class="author-role" data-aid="154444760" id="author2">Of the Seventy</p>
+</div>
+<p class="kicker" data-aid="154444762" id="kicker1">As we move forward with faith in Jesus Christ, the fourth day will always come. He will always come to our aid.</p>
+</header>
+<div class="body-block">
+<p data-aid="154444764" id="p1">As we have been reminded this morning, today is Palm Sunday, marking the Savior’s triumphal entry into Jerusalem and the beginning of that holy week preceding His great Atonement, which would include His suffering, Crucifixion, and Resurrection.</p>
+<p data-aid="154444766" id="p2">Not long before His prophesied entry into the city, Jesus Christ was fully engaged in His ministry when He received word from His dear friends Mary and Martha that their brother Lazarus was sick.<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a></p>
+<p data-aid="154444768" id="p3">Although Lazarus’s illness was serious, the Lord “abode two days still in the same place where he was. Then after that saith he to his disciples, Let us go into Judea again.”<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a> Before beginning the journey to His friends’ home in Bethany, “said Jesus unto [His disciples] plainly, Lazarus is dead.”<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a></p>
+<p data-aid="154444770" id="p4">When Jesus came into Bethany and met first Martha and then Mary, perhaps out of frustration for His late arrival, they each greeted Him saying, “Lord, if thou hadst been here, my brother had not died.”<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a> Martha further exclaimed, “By this time he stinketh: for he hath been dead four days.”<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a></p>
+<p data-aid="154444772" id="p5">These four days were significant to Mary and Martha. According to some rabbinic schools of thought, it was believed that the spirit of someone who died would remain with the body for three days, offering hope that life was still possible. However, by the fourth day that hope was lost, perhaps because the body would begin to decay and “stinketh.”<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a></p>
+<p data-aid="154444774" id="p6">Mary and Martha were in a state of despair. “When Jesus therefore saw [Mary] weeping, … he groaned in the spirit, and was troubled,</p>
+<p data-aid="154444776" id="p7">“And said, Where have ye laid him? They said unto him, Lord, come and see.”<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a></p>
+<p data-aid="154444778" id="p10">It is at this moment that we see one of the great miracles during the Savior’s mortal ministry. First the Lord said, “Take ye away the stone.”<a class="note-ref" href="#note8"><sup class="marker" data-value="8"></sup></a> Then, after thanking His Father, “he cried with a loud voice, Lazarus, come forth.</p>
+<p data-aid="154444780" id="p11">“And he that was dead came forth, bound hand and foot with graveclothes: and his face was bound about with a napkin. Jesus saith unto them, Loose him, and let him go.”<a class="note-ref" href="#note9"><sup class="marker" data-value="9"></sup></a></p>
+<p data-aid="154444781" id="p12">Like Mary and Martha, we have the opportunity to experience all of mortality, even sorrow<a class="note-ref" href="#note10"><sup class="marker" data-value="10"></sup></a> and weakness.<a class="note-ref" href="#note11"><sup class="marker" data-value="11"></sup></a> Each of us will experience the heartache that accompanies the loss of someone we love. Our mortal journey might include personal illness or the debilitating illness of a loved one; depression, anxiety, or other mental health challenges; financial hardship; betrayal; sin. And sometimes these are accompanied by feelings of hopelessness. I am no different. Like you, I have experienced a myriad of challenges that are expected in this life. I am drawn to this account about the Savior and what it teaches me about our relationship with Him.</p>
+<p data-aid="154444783" id="p13">During our greatest worries, we, like Mary and Martha, seek the Savior <span class="page-break" data-page="117"></span>or ask the Father for His divine intervention. The story of Lazarus teaches us principles that can be applied to our own lives as we face our individual challenges.</p>
+<p data-aid="154444785" id="p14">When the Savior arrived in Bethany, all had lost hope that Lazarus could be saved—it had been four days, and he was gone. Sometimes during our own challenges, we might feel like Christ is too late, and our hope and faith might even feel challenged. My witness and testimony are that as we move forward with faith in Jesus Christ, the fourth day will always come. He will always come to our aid or to raise our hopes back to life. He has promised:</p>
+<p data-aid="154444787" id="p32">“Let not your heart be troubled.”<a class="note-ref" href="#note12"><sup class="marker" data-value="12"></sup></a></p>
+<p data-aid="154444789" id="p33">“I will not leave you comfortless: I will come to you.”<a class="note-ref" href="#note13"><sup class="marker" data-value="13"></sup></a></p>
+<p data-aid="154444792" id="p34">Sometimes it may seem like He doesn’t come to us until the figurative fourth day, after all hope seems lost. But why so late? President Thomas S. Monson taught, “Our Heavenly Father, who gives us so much to delight in, also knows that we learn and grow and become stronger as we face and survive the trials through which we must pass.”<a class="note-ref" href="#note14"><sup class="marker" data-value="14"></sup></a></p>
+<p data-aid="154444795" id="p15">Even the Prophet Joseph Smith faced an enormous fourth-day experience. Remember his pleading? “O God, where art thou? And where is the pavilion that covereth thy hiding place?”<a class="note-ref" href="#note15"><sup class="marker" data-value="15"></sup></a> As we trust in Him, we can expect a like answer: “My son [or daughter], peace be unto thy soul; thine adversity and thine afflictions shall be but a small moment.”<a class="note-ref" href="#note16"><sup class="marker" data-value="16"></sup></a></p>
+<p data-aid="154444798" id="p16">Another message we can learn from the story of Lazarus is what our own role might be in the divine intervention we seek. When Jesus approached the tomb, He <em>first</em> said to those who were there, “Take ye away the stone.”<a class="note-ref" href="#note17"><sup class="marker" data-value="17"></sup></a> With the power that the Savior had, could not <em>He</em> have miraculously moved the stone without effort? This would have been impressive to see and an unforgettable experience, yet He said to the others, “Take ye away the stone.”</p>
+<p data-aid="154444802" id="p35"><em>Second</em>, the Lord “cried with a loud voice, Lazarus, come forth.”<a class="note-ref" href="#note18"><sup class="marker" data-value="18"></sup></a> Wouldn’t it have been more impressive if the Lord had Himself miraculously placed Lazarus at the opening so he would be immediately visible to the crowd when the stone was removed?</p>
+<p data-aid="154444806" id="p36"><em>Third</em>, when Lazarus did come forth, he was “bound hand and foot with graveclothes: and his face was bound about with a napkin. Jesus saith unto them, Loose him, and let him go.”<a class="note-ref" href="#note19"><sup class="marker" data-value="19"></sup></a> I’m sure the Lord was capable of having Lazarus standing at the opening, already clean and approachable, with his graveclothes nicely folded.</p>
+<p data-aid="154444810" id="p17">What is the point of highlighting these aspects? Each of these three things had something in common—none required the use of Christ’s divine power. That which His disciples could do, He instructed <em>them</em> to do. The disciples were certainly capable of moving the stone themselves; Lazarus, after being raised, had the capacity to stand and present himself at the opening of the cave; and those who loved Lazarus could absolutely help him remove the graveclothes.</p>
+<p data-aid="154444814" id="p18">However, it was only the Christ who had the power and authority to raise Lazarus from the dead. My impression is that the Savior expects us to do all we can do, and He will do what <em>only He</em> can do.<a class="note-ref" href="#note20"><sup class="marker" data-value="20"></sup></a></p>
+<p data-aid="154444818" id="p19">We know that “faith [in the Lord Jesus Christ] is a principle of action”<a class="note-ref" href="#note21"><sup class="marker" data-value="21"></sup></a> and “miracles do not produce faith, but strong faith is developed by obedience to the gospel of Jesus Christ. In other words, faith comes by righteousness.”<a class="note-ref" href="#note22"><sup class="marker" data-value="22"></sup></a> As we strive to act righteously by making and keeping sacred covenants and applying the doctrine of Christ in our lives, our faith will not only be sufficient to carry us to the fourth day, but with the Lord’s help we will also be capable of moving stones that are in our path, <span class="page-break" data-page="118"></span>arising from despair, and loosening ourselves of all that binds us. While the Lord expects us to “do all things that lie in our power,”<a class="note-ref" href="#note23"><sup class="marker" data-value="23"></sup></a> remember that He will provide needed help in all these things as we trust in Him.</p>
+<p data-aid="154444822" id="p20">How can we move stones and build upon His rock?<a class="note-ref" href="#note24"><sup class="marker" data-value="24"></sup></a> We can abide by the <strong>counsel</strong> of prophets.</p>
+<p data-aid="154444826" id="p21">For example, last October, President Russell M. Nelson pleaded with us to take charge of our own testimonies of the Savior and His gospel, to work for them and nurture them, to feed them truth, and to avoid polluting them with false philosophies of unbelievers. He promised each of us, “As you make the continual strengthening of your testimony of Jesus Christ your highest priority, watch for miracles to happen in your life.”<a class="note-ref" href="#note25"><sup class="marker" data-value="25"></sup></a></p>
+<p data-aid="154444830" id="p22"><em>We can do this!</em></p>
+<p data-aid="154444831" id="p23">How can we figuratively arise and come forth? We can joyfully repent and choose to obey <strong>commandments</strong>. The Lord said, “He that hath my commandments, and keepeth them, he it is that loveth me: and he that loveth me shall be loved of my Father, and I will love him, and will manifest myself to him.”<a class="note-ref" href="#note26"><sup class="marker" data-value="26"></sup></a> We can strive to repent daily and joyfully move forward with a willing heart full of love for the Lord.</p>
+<p data-aid="154444835" id="p24"><em>We can do this!</em></p>
+<p data-aid="154444839" id="p25">How can we, with the Lord’s help, loose ourselves of all that binds us? We can intentionally bind ourselves first and foremost to our Heavenly Father and His Son, Jesus Christ, through <strong>covenants</strong>. Elder D. Todd Christofferson taught: “What is the source of [our] moral and spiritual power, and how do we obtain it? The source is God. Our access to that power is through our covenants with Him. … In these divine agreements, God binds Himself to sustain, sanctify, and exalt us in return for our commitment to serve Him and keep His commandments.”<a class="note-ref" href="#note27"><sup class="marker" data-value="27"></sup></a> We can make and keep sacred covenants.</p>
+<p data-aid="154444843" id="p26"><em>We can do this!</em></p>
+<p data-aid="154444849" id="p27">“Take ye away the stone.” “Come forth.” “Loose him, and let him go.”</p>
+<p data-aid="154444853" id="p28">Counsels, commandments, and covenants. <em>We can do this!</em></p>
+<p data-aid="154444857" id="p29">Elder Jeffrey R. Holland promised, “Some blessings come soon, some come late, and some don’t come until heaven; but for those who embrace the gospel of Jesus Christ, <em>they come</em>.”<a class="note-ref" href="#note28"><sup class="marker" data-value="28"></sup></a></p>
+<p data-aid="154444861" id="p30">And finally, “Wherefore, be of good cheer, and do not fear, for I the Lord am with you, and will stand by you.”<a class="note-ref" href="#note29"><sup class="marker" data-value="29"></sup></a></p>
+<p data-aid="154444865" id="p31">This is my witness and testimony, in the sacred name of Him who will always come, even Jesus Christ, amen.</p>
+</div>
+<footer class="notes">
+<p class="title" data-aid="154444869" id="note_title1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="154444872" id="note1_p1">See <a class="scripture-ref" href="/study/scriptures/nt/john/11?lang=eng&amp;id=p3#p3">John 11:3</a>.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="154444878" id="note2_p1"><a class="scripture-ref" href="/study/scriptures/nt/john/11?lang=eng&amp;id=p6-p7#p6">John 11:6–7</a>.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="154444881" id="note3_p1"><a class="scripture-ref" href="/study/scriptures/nt/john/11?lang=eng&amp;id=p14#p14">John 11:14</a>.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="154444884" id="note4_p1"><a class="scripture-ref" href="/study/scriptures/nt/john/11?lang=eng&amp;id=p21%2C32#p21">John 11:21, 32</a>.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="154444887" id="note5_p1"><a class="scripture-ref" href="/study/scriptures/nt/john/11?lang=eng&amp;id=p39#p39">John 11:39</a>.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="154444891" id="note6_p1">“The soul, according to Jewish belief, lingered in the vicinity of the body three days after death. According to Jewish conviction, consequently, a resuscitation of one who had died was impossible on the fourth day, since the soul would not enter again into the body that had altered its position. It was all the more impressive for the witnesses of the miracle that Jesus raised Lazarus on the fourth day. The fourth day thus has a special meaning here and is taken over deliberately by the narrator for use in connection with the greatest of all possible resurrection miracles” (Ernst Haenchen, <cite>John 2: A Commentary on the Gospel of John, Chapters 7–21</cite>, ed. Robert W. Funk and Ulrich Busse, trans. Robert W. Funk [1984], 60–61).</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="154444894" id="note7_p1"><a class="scripture-ref" href="/study/scriptures/nt/john/11?lang=eng&amp;id=p33-p34#p33">John 11:33–34</a>.</p>
+</li>
+<li data-marker="8." id="note8" data-full-marker="8.">
+<p data-aid="154444898" id="note8_p1"><a class="scripture-ref" href="/study/scriptures/nt/john/11?lang=eng&amp;id=p39#p39">John 11:39</a>.</p>
+</li>
+<li data-marker="9." id="note9" data-full-marker="9.">
+<p data-aid="154444901" id="note9_p1"><a class="scripture-ref" href="/study/scriptures/nt/john/11?lang=eng&amp;id=p43-p44#p43">John 11:43–44</a>.</p>
+</li>
+<li data-marker="10." id="note10" data-full-marker="10.">
+<p data-aid="154444903" id="note10_p1">See <a class="scripture-ref" href="/study/scriptures/pgp/moses/4?lang=eng&amp;id=p22-p25#p22">Moses 4:22–25</a>.</p>
+</li>
+<li data-marker="11." id="note11" data-full-marker="11.">
+<p data-aid="154444906" id="note11_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/ether/12?lang=eng&amp;id=p27#p27">Ether 12:27</a>.</p>
+</li>
+<li data-marker="12." id="note12" data-full-marker="12.">
+<p data-aid="154444908" id="note12_p1"><a class="scripture-ref" href="/study/scriptures/nt/john/14?lang=eng&amp;id=p1#p1">John 14:1</a>.</p>
+</li>
+<li data-marker="13." id="note13" data-full-marker="13.">
+<p data-aid="154444912" id="note13_p1"><a class="scripture-ref" href="/study/scriptures/nt/john/14?lang=eng&amp;id=p18#p18">John 14:18</a>.</p>
+</li>
+<li data-marker="14." id="note14" data-full-marker="14.">
+<p data-aid="154444916" id="note14_p1">Thomas S. Monson, “<a class="cross-ref" href="/study/general-conference/2013/10/i-will-not-fail-thee-nor-forsake-thee?lang=eng&amp;id=p23#p23">I Will Not Fail Thee, nor Forsake Thee</a>,” <cite>Ensign</cite> or <cite>Liahona</cite>, Nov. 2013, 87. President Monson further explained: “We know that there are times when we will experience heartbreaking sorrow, when we will grieve, and when we may be tested to our limits. However, such difficulties allow us to change for the better, to rebuild our lives in the way our Heavenly Father teaches us, and to become something different from what we were—better than we were, more understanding than we were, more empathetic than we were, with stronger testimonies than we had before” (“<a class="cross-ref" href="/study/general-conference/2013/10/i-will-not-fail-thee-nor-forsake-thee?lang=eng&amp;id=p23#p23">I Will Not Fail Thee, Nor Forsake Thee</a>,” 87). See also <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/84?lang=eng&amp;id=p119#p119">Doctrine and Covenants 84:119</a>: “For I, the Lord, have put forth my hand to exert the powers of heaven; ye cannot see it now, yet a little while and ye shall see it, and know that I am, and that I will come.”</p>
+<p data-aid="154444918" id="note14_p2">See also <a class="scripture-ref" href="/study/scriptures/bofm/mosiah/23?lang=eng&amp;id=p21-p24#p21">Mosiah 23:21–24</a>:</p>
+<p data-aid="154444921" id="note14_p3">“Nevertheless the Lord seeth fit to chasten his people; yea, he trieth their patience and their faith.</p>
+<p data-aid="154444924" id="note14_p4">“Nevertheless—whosoever putteth his trust in him the same shall be lifted up at the last day. Yea, and thus it was with this people.</p>
+<p data-aid="154444927" id="note14_p5">“For behold, I will show unto you that they were brought into bondage, and none could deliver them but the Lord their God, yea, even the God of Abraham and Isaac and of Jacob.</p>
+<p data-aid="154444930" id="note14_p6">“And it came to pass that he did deliver them, and he did show forth his mighty power unto them, and great were their rejoicings.”</p>
+</li>
+<li data-marker="15." id="note15" data-full-marker="15.">
+<p data-aid="154444933" id="note15_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/121?lang=eng&amp;id=p1#p1">Doctrine and Covenants 121:1</a>.</p>
+</li>
+<li data-marker="16." id="note16" data-full-marker="16.">
+<p data-aid="154444936" id="note16_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/121?lang=eng&amp;id=p7#p7">Doctrine and Covenants 121:7</a>.</p>
+</li>
+<li data-marker="17." id="note17" data-full-marker="17.">
+<p data-aid="154444940" id="note17_p1"><a class="scripture-ref" href="/study/scriptures/nt/john/11?lang=eng&amp;id=p39#p39">John 11:39</a>.</p>
+</li>
+<li data-marker="18." id="note18" data-full-marker="18.">
+<p data-aid="154444942" id="note18_p1"><a class="scripture-ref" href="/study/scriptures/nt/john/11?lang=eng&amp;id=p43#p43">John 11:43</a>.</p>
+</li>
+<li data-marker="19." id="note19" data-full-marker="19.">
+<p data-aid="154444945" id="note19_p1"><a class="scripture-ref" href="/study/scriptures/nt/john/11?lang=eng&amp;id=p44#p44">John 11:44</a>.</p>
+</li>
+<li data-marker="20." id="note20" data-full-marker="20.">
+<p data-aid="154444948" id="note20_p1">President Russell M. Nelson remarked: “Often, my counselors and I have watched through tear-brimmed eyes as He has interceded in extremely challenging circumstances after we had done our best and could do no more. We do indeed stand all amazed” (“<a class="cross-ref" href="/study/general-conference/2021/04/11nelson?lang=eng&amp;id=p4#p4">Welcome Message</a>,” <cite>Liahona</cite>, May 2021, 6).</p>
+</li>
+<li data-marker="21." id="note21" data-full-marker="21.">
+<p data-aid="154444951" id="note21_p1">Bible Dictionary, “<a class="scripture-ref" href="/study/scriptures/bd/faith?lang=eng">Faith</a>.”</p>
+</li>
+<li data-marker="22." id="note22" data-full-marker="22.">
+<p data-aid="154444955" id="note22_p1">Guide to the Scriptures, “<a class="scripture-ref" href="/study/scriptures/gs/faith?lang=eng">Faith</a>,” scriptures.ChurchofJesusChrist.org.</p>
+</li>
+<li data-marker="23." id="note23" data-full-marker="23.">
+<p data-aid="154444958" id="note23_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/123?lang=eng&amp;id=p17#p17">Doctrine and Covenants 123:17</a>.</p>
+</li>
+<li data-marker="24." id="note24" data-full-marker="24.">
+<p data-aid="154444961" id="note24_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/3-ne/11?lang=eng&amp;id=p32-p39#p32">3 Nephi 11:32–39</a>.</p>
+</li>
+<li data-marker="25." id="note25" data-full-marker="25.">
+<p data-aid="154444964" id="note25_p1">Russell M. Nelson, “<a class="cross-ref" href="/study/general-conference/2022/10/47nelson?lang=eng&amp;id=p30#p30">Overcome the World and Find Rest</a>,” <cite>Liahona</cite>, Nov. 2022, 97.</p>
+</li>
+<li data-marker="26." id="note26" data-full-marker="26.">
+<p data-aid="154444965" id="note26_p1"><a class="scripture-ref" href="/study/scriptures/nt/john/14?lang=eng&amp;id=p21#p21">John 14:21</a>.</p>
+</li>
+<li data-marker="27." id="note27" data-full-marker="27.">
+<p data-aid="154444970" id="note27_p1">D. Todd Christofferson, “<a class="cross-ref" href="/study/general-conference/2009/04/the-power-of-covenants?lang=eng&amp;id=p12#p12">The Power of Covenants</a>,” <cite>Ensign</cite> or <cite>Liahona</cite>, May 2009, 20.</p>
+</li>
+<li data-marker="28." id="note28" data-full-marker="28.">
+<p data-aid="154444971" id="note28_p1">Jeffrey R. Holland, “<a class="cross-ref" href="/study/general-conference/1999/10/an-high-priest-of-good-things-to-come?lang=eng&amp;id=p26#p26">An High Priest of Good Things to Come</a>,” <cite>Ensign</cite>, Nov. 1999, 38; <cite>Liahona</cite>, Jan. 2000, 45.</p>
+</li>
+<li data-marker="29." id="note29" data-full-marker="29.">
+<p data-aid="154444975" id="note29_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/68?lang=eng&amp;id=p6#p6">Doctrine and Covenants 68:6</a>.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
+      <guid isPermaLink="false">/general-conference/2023/04/55bassett</guid>
+      <enclosure url="https://assets.churchofjesuschrist.org/816629e3d1b711eda688eeeeac1e5b6fb7639c5a-32k-en.mp3" length="2825536" type="audio/mpeg"/>
+      <pubDate>Sun, 02 Apr 2023 14:00:00 -0600</pubDate>
+      <itunes:author>W. Mark Bassett</itunes:author>
     </item>
   </channel>
 </rss>

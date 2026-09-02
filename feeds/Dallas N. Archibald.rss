@@ -1,91 +1,82 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Talks By Dallas N. Archibald</title>
-    <link>http://philip.lundrigan.org/Speakercast/</link>
+    <link>https://philip.lundrigan.org/Speakercast/</link>
     <description>General Conference talks by Dallas N. Archibald.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Speakercast</generator>
     <image>
-      <url>http://philip.lundrigan.org/Speakercast/covers/Dallas%20N.%20Archibald.jpg</url>
+      <url>https://philip.lundrigan.org/Speakercast/covers/Dallas%20N.%20Archibald.jpg</url>
       <title>General Conference talks by Dallas N. Archibald.</title>
-      <link>http://philip.lundrigan.org/Speakercast/</link>
+      <link>https://philip.lundrigan.org/Speakercast/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Oct 1992 14:00:00 -0700</lastBuildDate>
-    <pubDate>Sat, 03 Oct 1992 14:00:00 -0700</pubDate>
+    <lastBuildDate>Sat, 03 Oct 1992 14:00:00 -0600</lastBuildDate>
+    <pubDate>Sat, 03 Oct 1992 14:00:00 -0600</pubDate>
+    <itunes:author>Dallas N. Archibald</itunes:author>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
+    <itunes:image href="https://philip.lundrigan.org/Speakercast/covers/Dallas%20N.%20Archibald.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>General Conference talks by Dallas N. Archibald.</itunes:summary>
     <item>
       <title>“Born of Goodly Parents”</title>
-      <link>http://www.lds.org/general-conference/1992/10/born-of-goodly-parents?lang=eng</link>
-      <description>Recently, I had the opportunity to sit at the back of a chapel during a sharing time session of Primary and watch a lively group of youngsters keep a music teacher very busy. For a final song the director asked the children to sing “I Am a Child of G</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/1992/10/born-of-goodly-parents" schema-version="1" doc-id="general-conference_92911_000_013" doc-version="2" hash="8rDBww">
-  
-  <div class="heading" uri="/general-conference/1992/10/born-of-goodly-parents.head">
-    <h1 class="title" pid="_jI6RpsmQEKTDfR7GZG7GQ" hash="qj0S1g">“Born of Goodly Parents”</h1>
-    <p class="authorName" pid="KEO11II810msHLv-AtR26g" hash="5HXrWA">Dallas N. Archibald</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/1992/10/born-of-goodly-parents.t1">
-      <img src="ensignlp.nfo-o-1fa6.jpg" alt="Elder Dallas N. Archibald" pid="L0Yp7KCTtUuVTUjd5kutYA" hash="FGBN9A" />
-      <p class="para" uri="/general-conference/1992/10/born-of-goodly-parents.p1" pid="Ss9rQMuH1UScueFqmKr_2g" hash="1FUE3w">Recently, I had the opportunity to sit at the back of a chapel during a sharing time session of Primary and watch a lively group of youngsters keep a music teacher very busy. For a final song the director asked the children to sing “I Am a Child of God.” They quieted down, and for the first song of the entire session the voices unified in quality instead of quantity. The words rang throughout the chapel with an angel-like resonance:</p>
-      <div class="poetry" uri="/general-conference/1992/10/born-of-goodly-parents.f2">
-        <div class="stanza">
-          <p class="line" pid="QLWLUOctjEmb_tp7y9mnhw" hash="-on1eA">
-            <span class="emphasis">Lead me, guide me, walk beside me,</span>
-          </p>
-          <p class="line" pid="g9nzR_ooU0OB3s6vI7wGGA" hash="wkwinw">
-            <span class="emphasis">Help me find the way.</span>
-          </p>
-          <p class="line" pid="qsK62Xje3U2SSQroOgsuUA" hash="bt_CJw">
-            <span class="emphasis">Teach me all that I must do</span>
-          </p>
-          <p class="line" pid="3ehNDaQ6PEiCv_25hAcEpQ" hash="wPuYEw">
-            <span class="emphasis">To live with him someday.</span>
-          </p>
-        </div>
-      </div>
-      <p class="para" uri="/general-conference/1992/10/born-of-goodly-parents.p2" pid="GSui-6gEiUib8YHlV7dgAg" hash="vEw-GQ">These pleading words sank deep into my heart that day and stirred my soul. What a great burden of responsibility the Lord has placed upon us as parents: to take these children and lead them in the ways of holiness, to guide them through the perils of mortality, and to walk beside them on the straight and narrow path which leads to eternity. Yes, the responsibility is ours to teach them all they must do so that someday, as the mortal is changed to immortal, they will be prepared to return to the presence of the Father and dwell with him and their Elder Brother, Jesus Christ.</p>
-      <p class="para" uri="/general-conference/1992/10/born-of-goodly-parents.p3" pid="BOGMUWvIokWjnxIc_xZ9mQ" hash="uymYwA">The Book of Mormon clearly shows the value of righteousness and dedication in parents. The first statement of Nephi is a tribute to his parents: “I, Nephi, having been born of goodly parents, therefore I was taught somewhat in all the learning of my father.” (<a href="/scriptures/bofm/1-ne/1.1" class="scriptureRef">1 Ne. 1:1</a>.) Enos wrote, “And the words which I had often heard my father speak concerning eternal life, and the joy of the saints, sunk deep into my heart.” (<a href="/scriptures/bofm/enos/1.3" class="scriptureRef">Enos 1:3</a>.) Mormon recorded of Nephi and Lehi, the two sons of Helaman: “For they remembered the words which their father Helaman spake unto them. And these are the words which he spake.” (<a href="/scriptures/bofm/hel/5.5" class="scriptureRef">Hel. 5:5</a>.) Here we have a tribute to a goodly parent and also the words which he spoke to his children. He reminded them of the names he had given them so that they would always seek to do good works and desire the precious gift of eternal life. (See <a href="/scriptures/bofm/hel/5.6-7" class="scriptureRef">Hel. 5:6–7</a>.) Then he told them, “O remember, remember, my sons, the words which King Benjamin spake unto his people; yea, remember that there is no other way nor means whereby man can be saved, only through the atoning blood of Jesus Christ.” (<a href="/scriptures/bofm/hel/5.9" class="scriptureRef">Hel. 5:9</a>.)</p>
-      <p class="para" uri="/general-conference/1992/10/born-of-goodly-parents.p4" pid="wcgojsp7wk6B8nZ5zhkQGg" hash="bco4pw">The reference to the words of King Benjamin shows that Helaman, as a parent, knew the scriptures and taught his children to follow the words of the prophets. He continued, saying, “And now, my sons, remember, remember that it is upon the rock of our Redeemer, who is Christ, the Son of God, that ye must build your foundation.” (<a href="/scriptures/bofm/hel/5.12" class="scriptureRef">Hel. 5:12</a>.)</p>
-      <p class="para" uri="/general-conference/1992/10/born-of-goodly-parents.p5" pid="A7glHzW32kGtJCMDGrdX9A" hash="0uqATA">What better teaching could a parent provide for a child than that of following the prophets and building a sure foundation upon Jesus Christ? The Book of Mormon prophet Jacob instructed that once they have been taught and “obtained a hope in Christ,” we may then teach them how to earn riches so that they can use them “to clothe the naked, and to feed the hungry.” (<a href="/scriptures/bofm/jacob/2.18-19" class="scriptureRef">Jacob 2:18–19</a>.) We must teach them all that they must do to live with Him, and the best teacher is example.</p>
-      <p class="para" uri="/general-conference/1992/10/born-of-goodly-parents.p6" pid="xR53s0CKwUWXdD93Ks3FMw" hash="zFu7yQ">As I sat there in the back of the chapel, I silently asked myself, “Am I doing all the things which I must do? Can my wife and daughter walk alongside me with confidence that I will lead them into the celestial kingdom? ‘Lead me, guide me, walk beside me …’” Stop. Stop for one minute and ask the same question of yourself: “Can my spouse and children walk alongside me with confidence that I will lead them into the celestial kingdom?” The Savior said, “Seek ye first the kingdom of God.” (<a href="/scriptures/nt/matt/6.33" class="scriptureRef">Matt. 6:33</a>.)</p>
-      <p class="para" uri="/general-conference/1992/10/born-of-goodly-parents.p7" pid="amg0gDjndEWS-RmA3LvtqA" hash="lxkakg">The instructions are clear. We must teach, and we must be an example of those teachings; but many times in our zeal to persuade others to righteousness we begin to use force, which results in rebellion. Attempting to force others to accept our way of thinking will cause them to close their minds to our teachings and ultimately reject our words. They have their free agency.</p>
-      <p class="para" uri="/general-conference/1992/10/born-of-goodly-parents.p8" pid="ju3QpIFuE0iAwpcezl3R2w" hash="A8yvtg">In the Doctrine and Covenants, section 121, the Lord explains the proper way to teach. He said, “Only by persuasion, by long-suffering, by gentleness and meekness, and by love unfeigned;</p>
-      <p class="para" uri="/general-conference/1992/10/born-of-goodly-parents.p9" pid="18T6L-hy-U2SButAxO1aJg" hash="wI7PKg">“By kindness, and pure knowledge, which shall greatly enlarge the soul.” (<a href="/scriptures/dc-testament/dc/121.41-42" class="scriptureRef">D&amp;C 121:41–42</a>.) How I love those words “enlarge the soul.” Proper teaching will enlarge the soul.</p>
-      <p class="para" uri="/general-conference/1992/10/born-of-goodly-parents.p10" pid="oR5D0qtYuUW9On_fTDE8kA" hash="8iW8KQ">For example, let us compare a child to an empty glass, and our knowledge and experience, which have accumulated over the years, to a bucketful of water. Logic and physics tell us that we cannot pour a bucketful of water directly into a small glass. However, by using correct principles of transferring knowledge, the glass can be enlarged. Those principles are persuasion, long-suffering, gentleness and meekness, love unfeigned, kindness, and pure knowledge. They will enlarge the glass, which is the soul of the child, allowing that child to receive much more than the original bucketful.</p>
-      <p class="para" uri="/general-conference/1992/10/born-of-goodly-parents.p11" pid="PnH12FdWbU2-_AGtrJ4Plw" hash="6DFNKg">Behavioral psychologists have written libraries of books on this subject. The Lord gave us the same information in just a few verses of scripture. We must always teach, lead, and guide in a way which will create high levels of self-esteem in our children and others.</p>
-      <p class="para" uri="/general-conference/1992/10/born-of-goodly-parents.p12" pid="8baTgQiuRkiNKWWs97rYEw" hash="I_6JhQ">To create and maintain self-esteem, our words and our actions must always express to the individual that he or she is important and capable. The words the scriptures use are “to lift.” The psychologists would say, “Reinforce the positive.” The secret is simple. Always look for the good in the individual and lift, reinforce the positive by words and actions. Put-downs, words like “stupid” or “dummy,” or phrases like “Why can’t you do anything right?” destroy self-esteem and shouldn’t be part of our vocabulary. It is impossible to emphasize the good in others if negative words or phrases are readily available on the tips of our tongues or expressed through our gestures.</p>
-      <p class="para" uri="/general-conference/1992/10/born-of-goodly-parents.p13" pid="Rl4EuXYjMkaCQGPOhkRumA" hash="_kqZTw">The plea behind the words “Walk beside me, Help me find the way” is this: “Lift me. Strengthen my feeble knees. Let me know that I am important and capable.” (See <a href="/scriptures/dc-testament/dc/81.5" class="scriptureRef">D&amp;C 81:5</a>.)</p>
-      <p class="para" uri="/general-conference/1992/10/born-of-goodly-parents.p14" pid="SepxsgJ-9ky3lQp-aoyS4g" hash="zK_NsA">When correction and discipline must take place, it is essential to continue lifting and strengthening, ensuring that the feelings of being important and capable are not lost. Again, in section 121 of the Doctrine and Covenants, the Lord explains how: “Reproving betimes with sharpness, when moved upon by the Holy Ghost; and then showing forth afterwards an increase of love toward him whom thou hast reproved.” (<a href="/scriptures/dc-testament/dc/121.43" class="scriptureRef">D&amp;C 121:43</a>.)</p>
-      <p class="para" uri="/general-conference/1992/10/born-of-goodly-parents.p15" pid="8DGtuFOSF06YYzbdSh1ldg" hash="mhiQGw">As Elder Maxwell has observed, the word <span class="emphasis">betimes</span> is casually assumed to mean “from time to time,” or “occasionally,” when actually it means “early on.” Therefore, correction must take place early on with the direction of the Holy Ghost and not in anger. One hundred and thirty-two years ago, in a discourse in this tabernacle, Brigham Young counseled, “Never chasten beyond the balm you have within you to bind up.” (<span class="emphasis">Journal of Discourses,</span> 9:124–25.) The Lord said, “… showing forth afterwards an increase of love.” (<a href="/scriptures/dc-testament/dc/121.43" class="scriptureRef">D&amp;C 121:43</a>.)</p>
-      <p class="para" uri="/general-conference/1992/10/born-of-goodly-parents.p16" pid="yXq71uaqykCwULJ12MTXSw" hash="adSchw">The instructions on how to correct are clear and simple: early on, with the peace of the Holy Ghost, and with enough of the healing power within us to make sure that self-esteem is never wounded, ensuring always that the individual feels important and capable.</p>
-      <p class="para" uri="/general-conference/1992/10/born-of-goodly-parents.p17" pid="2m7wsakqr0OGZlI-LEvqBg" hash="dN9xVA">Oh, goodly parent, hear the words and respond accordingly:</p>
-      <div class="poetry" uri="/general-conference/1992/10/born-of-goodly-parents.f3">
-        <div class="stanza">
-          <p class="line" pid="wu7x-hYd4Ua07WjOJCCgow" hash="-on1eA1">
-            <span class="emphasis">Lead me, guide me, walk beside me,</span>
-          </p>
-          <p class="line" pid="HnZzZw0IEUW5Bs0XET2j9w" hash="wkwinw1">
-            <span class="emphasis">Help me find the way.</span>
-          </p>
-          <p class="line" pid="bJTIjRjZYkyVRrxJeOrjcQ" hash="bt_CJw1">
-            <span class="emphasis">Teach me all that I must do</span>
-          </p>
-          <p class="line" pid="pctDLgwwQkSj0oXERPhfXQ" hash="wPuYEw1">
-            <span class="emphasis">To live with him someday.</span>
-          </p>
-        </div>
-      </div>
-      <p class="para" uri="/general-conference/1992/10/born-of-goodly-parents.p18" pid="cGQhaM_AXUqnfGuFBWN8Sg" hash="BL9bJQ">In the holy name of Jesus Christ, amen.</p>
-    </div>
-  </div>
-</div>]]></content:encoded>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/1992/10/born-of-goodly-parents?lang=eng</link>
+      <description><![CDATA[<header>
+<span class="page-break" data-page="25"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/a1428a83554977ab0221d94c47caf0fa5b4daf7d/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/a1428a83554977ab0221d94c47caf0fa5b4daf7d/full/%21192%2C/0/default" data-video-title="Born of Goodly Parents" data-video-description="Elder Dallas N. Archibald delivers a message titled &quot;Born of Goodly Parents.&quot;" data-video-id="6389229375112" data-ip="Download &amp; Streaming" data-duration="547000" data-assetId="348bd55bc966dbd3a3ed192323b5f3effc13a19f" data-ref-id="348bd55bc966dbd3a3ed192323b5f3effc13a19f" data-duration-string="9:07" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6389229375112.m3u8" type="application/vnd.apple.mpegurl" data-width="480" data-height="360" data-file-size="27661436"/><source src="https://assets.churchofjesuschrist.org/348bd55bc966dbd3a3ed192323b5f3effc13a19f-360p-en.mp4" type="video/mp4" data-width="480" data-height="360" data-file-size="27661436"/></video><h1 data-aid="28788369" id="title1">“Born of Goodly Parents”</h1>
+<div class="byline">
+<p class="author-name" data-aid="28788370" id="p1">By Elder Dallas N. Archibald</p>
+<p class="author-role" data-aid="150151096" id="author2">Of the Seventy</p>
+<div class="image-cropper"><img alt="Elder Dallas N. Archibald" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/44fec7284338fb6671d7eee297f457d0922eb217/full/%21100%2C/0/default" data-assetId="44fec7284338fb6671d7eee297f457d0922eb217" srcset="https://www.churchofjesuschrist.org/imgs/44fec7284338fb6671d7eee297f457d0922eb217/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/44fec7284338fb6671d7eee297f457d0922eb217/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/44fec7284338fb6671d7eee297f457d0922eb217/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/44fec7284338fb6671d7eee297f457d0922eb217/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/44fec7284338fb6671d7eee297f457d0922eb217/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/44fec7284338fb6671d7eee297f457d0922eb217/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/44fec7284338fb6671d7eee297f457d0922eb217/full/%21640%2C/0/default 640w" data-img-id="44fec7284338fb6671d7eee297f457d0922eb217" data-missing-asset="false" data-width="100" data-height="147" data-aspect-ratio="0.6802721088435374" data-public-title="Archibald, Dallas N." data-public-description="Portrait of Dallas N. Archibald of the Second Quorum of the Seventy, 1992."/></div>
+</div>
+</header>
+<div class="body-block">
+<p data-aid="28788371" id="p2">Recently, I had the opportunity to sit at the back of a chapel during a sharing time session of Primary and watch a lively group of youngsters keep a music teacher very busy. For a final song the director asked the children to sing “I Am a Child of God.” They quieted down, and for the first song of the entire session the voices unified in quality instead of quantity. The words rang throughout the chapel with an angel-like resonance:</p>
+<div class="poetry">
+<div class="stanza">
+<p class="line" data-aid="28788372" id="p3">Lead me, guide me, walk beside me,</p>
+<p class="line" data-aid="28788373" id="p4">Help me find the way.</p>
+<p class="line" data-aid="28788374" id="p5">Teach me all that I must do</p>
+<p class="line" data-aid="28788375" id="p6">To live with him someday.</p>
+</div>
+<div class="citation-info">
+<p data-aid="150151097" id="p28">[<em>Hymns,</em> 1985, no. 301]</p>
+</div>
+</div>
+<p data-aid="28788376" id="p7">These pleading words sank deep into my heart that day and stirred my soul. What a great burden of responsibility the Lord has placed upon us as parents: to take these children and lead them in the ways of holiness, to guide them through the perils of mortality, and to walk beside them on the straight and narrow path which leads to eternity. Yes, the responsibility is ours to teach them all they must do so that someday, as the mortal is changed to immortal, they will be prepared to return to the presence of the Father and dwell with him and their Elder Brother, Jesus Christ.</p>
+<p data-aid="28788377" id="p8">The Book of Mormon clearly shows the value of righteousness and dedication in parents. The first statement of Nephi is a tribute to his parents: “I, Nephi, having been born of goodly parents, therefore I was taught somewhat in all the learning of my father” (<a class="scripture-ref" href="/study/scriptures/bofm/1-ne/1?lang=eng&amp;id=p1#p1">1 Ne. 1:1</a>). Enos wrote, “And the words which I had often heard my father speak concerning eternal life, and the joy of the saints, sunk deep into my heart” (<a class="scripture-ref" href="/study/scriptures/bofm/enos/1?lang=eng&amp;id=p3#p3">Enos 1:3</a>). Mormon recorded of Nephi and Lehi, the two sons of Helaman: “For they remembered the words which their father Helaman spake unto them. And these are the words which he spake” (<a class="scripture-ref" href="/study/scriptures/bofm/hel/5?lang=eng&amp;id=p5#p5">Hel. 5:5</a>). Here we have a tribute to a goodly parent and also the words which he spoke to his children. He reminded them of the names he had given them so that they would always seek <span class="page-break" data-page="26"></span>to do good works and desire the precious gift of eternal life (see <a class="scripture-ref" href="/study/scriptures/bofm/hel/5?lang=eng&amp;id=p6-p7#p6">Hel. 5:6–7</a>). Then he told them, “O remember, remember, my sons, the words which king Benjamin spake unto his people; yea, remember that there is no other way nor means whereby man can be saved, only through the atoning blood of Jesus Christ” (<a class="scripture-ref" href="/study/scriptures/bofm/hel/5?lang=eng&amp;id=p9#p9">Hel. 5:9</a>).</p>
+<p data-aid="28788378" id="p9">The reference to the words of King Benjamin shows that Helaman, as a parent, knew the scriptures and taught his children to follow the words of the prophets. He continued, saying, “And now, my sons, remember, remember that it is upon the rock of our Redeemer, who is Christ, the Son of God, that ye must build your foundation” (<a class="scripture-ref" href="/study/scriptures/bofm/hel/5?lang=eng&amp;id=p12#p12">Hel. 5:12</a>).</p>
+<p data-aid="28788379" id="p10">What better teaching could a parent provide for a child than that of following the prophets and building a sure foundation upon Jesus Christ? The Book of Mormon prophet Jacob instructed that once they have been taught and “obtained a hope in Christ,” we may then teach them how to earn riches so that they can use them “to clothe the naked, and to feed the hungry” (<a class="scripture-ref" href="/study/scriptures/bofm/jacob/2?lang=eng&amp;id=p19#p19">Jacob 2:19</a>). We must teach them all that they must do to live with Him, and the best teacher is example.</p>
+<p data-aid="28788380" id="p11">As I sat there in the back of the chapel, I silently asked myself, “Am I doing all the things which I must do? Can my wife and daughter walk alongside me with confidence that I will lead them into the celestial kingdom? ‘Lead me, guide me, walk beside me. …’” Stop. Stop for one minute and ask the same question of yourself: “Can my spouse and children walk alongside me with confidence that I will lead them into the celestial kingdom?” The Savior said, “Seek ye first the kingdom of God” (<a class="scripture-ref" href="/study/scriptures/nt/matt/6?lang=eng&amp;id=p33#p33">Matt. 6:33</a>).</p>
+<p data-aid="28788381" id="p12">The instructions are clear. We must teach, and we must be an example of those teachings. But many times in our zeal to persuade others to righteousness we begin to use force, which results in rebellion. Attempting to force others to accept our way of thinking will cause them to close their minds to our teachings and ultimately reject our words. They have their agency.</p>
+<p data-aid="28788382" id="p13">In the Doctrine and Covenants, section 121, the Lord explains the proper way to teach. He said, “Only by persuasion, by long-suffering, by gentleness and meekness, and by love unfeigned;</p>
+<p data-aid="28788383" id="p14">“By kindness, and pure knowledge, which shall greatly enlarge the soul” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/121?lang=eng&amp;id=p41-p42#p41">D&amp;C 121:41–42</a>). How I love those words “enlarge the soul.” Proper teaching will enlarge the soul.</p>
+<p data-aid="28788384" id="p15">For example, let us compare a child to an empty glass, and our knowledge and experience, which have accumulated over the years, to a bucketful of water. Logic and physics tell us that we cannot pour a bucketful of water directly into a small glass. However, by our using correct principles of transferring knowledge, the glass can be enlarged. Those principles are persuasion, long-suffering, gentleness and meekness, love unfeigned, kindness, and pure knowledge. They will enlarge the glass, which is the soul of the child, allowing that child to receive much more than the original bucketful.</p>
+<p data-aid="28788385" id="p16">Behavioral psychologists have written libraries of books on this subject. The Lord gave us the same information in just a few verses of scripture. We must always teach, lead, and guide in a way which will create high levels of self-esteem in our children and others.</p>
+<p data-aid="28788386" id="p17">To create and maintain self-esteem, our words and our actions must always express to the individual that he or she is important and capable. The words the scriptures use are “to lift.” The psychologists would say, “Reinforce the positive.” The secret is simple. Always look for the good in the individual and lift; reinforce the positive by words and actions. Put-downs, words like <em>stupid</em> or <em>dummy,</em> or phrases like “Why can’t you do anything right?” destroy self-esteem and shouldn’t be part of our vocabulary. It is impossible to emphasize the good in others if negative words or phrases are readily available on the tips of our tongues or expressed through our gestures.</p>
+<p data-aid="28788387" id="p18">The plea behind the words “Walk beside me, Help me find the way” is this: “Lift me. Strengthen my feeble knees. Let me know that I am important and capable” (see <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/81?lang=eng&amp;id=p5#p5">D&amp;C 81:5</a>).</p>
+<p data-aid="28788388" id="p19">When correction and discipline must take place, it is essential to continue lifting and strengthening, ensuring that the feelings of being important and capable are not lost. Again, in section 121 of the Doctrine and Covenants, the Lord explains how: “Reproving betimes with sharpness, when moved upon by the Holy Ghost; and then showing forth afterwards an increase of love toward him whom thou hast reproved” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/121?lang=eng&amp;id=p43#p43">D&amp;C 121:43</a>).</p>
+<p data-aid="28788389" id="p20">As Elder Maxwell has observed, the word <em>betimes</em> is casually assumed to mean “from time to time” or “occasionally,” when actually it means “early on.” Therefore, correction must take place early on with the direction of the Holy Ghost and not in anger. One hundred and thirty-two years ago, in a discourse in this tabernacle, Brigham Young counseled, “Never chasten beyond the balm you have within you to bind up” (in <em>Journal of Discourses,</em> 9:124–25). The Lord said, “Showing forth afterwards an increase of love” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/121?lang=eng&amp;id=p43#p43">D&amp;C 121:43</a>).</p>
+<p data-aid="28788390" id="p21">The instructions on how to correct are clear and simple: early on, with the peace of the Holy Ghost, and with enough of the healing power within us to make sure that self-esteem is never wounded, ensuring always that the individual feels important and capable.</p>
+<p data-aid="28788391" id="p22">Oh, goodly parent, hear the words and respond accordingly:</p>
+<div class="poetry">
+<div class="stanza">
+<p class="line" data-aid="28788392" id="p23">Lead me, guide me, walk beside me,</p>
+<p class="line" data-aid="28788393" id="p24">Help me find the way.</p>
+<p class="line" data-aid="28788394" id="p25">Teach me all that I must do</p>
+<p class="line" data-aid="28788395" id="p26">To live with him someday.</p>
+</div>
+</div>
+<p data-aid="28788396" id="p27">In the holy name of Jesus Christ, amen.</p>
+</div>]]></description>
       <guid isPermaLink="false">/general-conference/1992/10/born-of-goodly-parents</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/october-1992-general-conference/1992-10-2040-elder-dallas-n-archibald-64k-eng.mp3" length="4380703" type="audio/mpeg"/>
-      <pubDate>Sat, 03 Oct 1992 14:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/fa11434b32d811eca29deeeeac1e03f93cf63e88-64k-en.mp3" length="4582164" type="audio/mpeg"/>
+      <pubDate>Sat, 03 Oct 1992 14:00:00 -0600</pubDate>
+      <itunes:author>Dallas N. Archibald</itunes:author>
     </item>
   </channel>
 </rss>

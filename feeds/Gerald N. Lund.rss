@@ -1,97 +1,173 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Talks By Gerald N. Lund</title>
-    <link>http://philip.lundrigan.org/Speakercast/</link>
+    <link>https://philip.lundrigan.org/Speakercast/</link>
     <description>General Conference talks by Gerald N. Lund.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Speakercast</generator>
     <image>
-      <url>http://philip.lundrigan.org/Speakercast/covers/Gerald%20N.%20Lund.jpg</url>
+      <url>https://philip.lundrigan.org/Speakercast/covers/Gerald%20N.%20Lund.jpg</url>
       <title>General Conference talks by Gerald N. Lund.</title>
-      <link>http://philip.lundrigan.org/Speakercast/</link>
+      <link>https://philip.lundrigan.org/Speakercast/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Apr 2002 14:00:00 -0700</lastBuildDate>
-    <pubDate>Sun, 07 Apr 2002 14:00:00 -0700</pubDate>
+    <lastBuildDate>Sat, 05 Apr 2008 14:00:00 -0600</lastBuildDate>
+    <pubDate>Sat, 05 Apr 2008 14:00:00 -0600</pubDate>
+    <itunes:author>Gerald N. Lund</itunes:author>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
+    <itunes:image href="https://philip.lundrigan.org/Speakercast/covers/Gerald%20N.%20Lund.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>General Conference talks by Gerald N. Lund.</itunes:summary>
     <item>
       <title>The Opportunity to Serve</title>
-      <link>http://www.lds.org/general-conference/2002/04/the-opportunity-to-serve?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2002/04/the-opportunity-to-serve?lang=eng</link>
       <description>I know how deeply He loves us and how perfectly compelling His love is for us.</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/2002/04/the-opportunity-to-serve" schema-version="1" doc-id="general-conference_PD10029598_000_034" doc-version="2" hash="YACzqw">
-  
-  <div class="heading" uri="/general-conference/2002/04/the-opportunity-to-serve.head">
-    <h1 class="title" pid="lduZZ9yFM0upREzkUikaBw" hash="BdFDmA">The Opportunity to Serve</h1>
-    <p class="authorName" pid="cJmJjcvWxU-r36FPVI61GQ" hash="j1cDUw">Gerald N. Lund</p>
-    <p class="kicker" pid="eFfwIvw1UECrMeaGR0M6gA" hash="RjRVPQ">I know how deeply He loves us and how perfectly compelling His love is for us.</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/2002/04/the-opportunity-to-serve.t1">
-      <img src="ensignlp.nfo-o-edf.jpg" alt="Elder Gerald N. Lund" pid="BflVlBRLMUaviq4zu4IBjg" hash="KtFHgQ" />
-      <p class="para" uri="/general-conference/2002/04/the-opportunity-to-serve.p1" pid="8w01PMdy9U2OdRSWC8kxsQ" hash="ckosUA">After 34 years in the Church Educational System, my wife and I decided about three years ago to retire and set our feet on some different paths in life. At that point we began to make plans. We changed our residence to be closer to children and grandchildren. I began to develop what I thought were some wonderful projects. Some were absolutely brilliant, I thought. And then one of those pivotal moments in life happened.</p>
-      <p class="para" uri="/general-conference/2002/04/the-opportunity-to-serve.p2" pid="WZJ8vpB-mEelrP-elWpccw" hash="-swdnw">It was our privilege at that time to be living across the street from Elder F. Enzio Busche, now an emeritus Seventy, and his wife. One day Elder Busche taught our high priests quorum, and he cited a scripture in the book of Alma where Alma longs to have the voice of an angel. Then Alma immediately repents of those feelings, and in verse four makes a remarkable statement. He suggests that we have to be careful what we desire, for the Lord grants unto us the desires of our heart. And then came what was to me almost a stunning statement: “Whether they be unto salvation or unto destruction.” God will grant unto us, according to our will, the things which we desire (see <a href="/scriptures/bofm/alma/29.1-5" class="scriptureRef">Alma 29:1–5</a>).</p>
-      <p class="para" uri="/general-conference/2002/04/the-opportunity-to-serve.p3" pid="nfRyYX3PWUig3zzFqqosqw" hash="y_-XFA">I went home that day—and it’s not that I felt any of my desires were wrong—but in that moment I realized that those desires were <span class="emphasis">mine.</span> That day I began to try to let the Lord know that what I’d like to do is fulfill <span class="emphasis">His</span> desires. Even then, I thought I really meant it, but I came to know that that’s an easy thing to say and a difficult thing to do. As Elder Maxwell said yesterday, only when we truly yield our hearts to God can He begin to accelerate the purification and the sanctification and the perfecting process (see <a href="/scriptures/bofm/hel/3.35" class="scriptureRef">Hel. 3:35</a>). We have found in the three years that have come since that time that the Lord has set our feet on different paths than we expected, and this one is the latest.</p>
-      <p class="para" uri="/general-conference/2002/04/the-opportunity-to-serve.p4" pid="i6C0yaS4s0u9-FzY5O1COw" hash="wn_X3A">Just the other day, after President Hinckley called my wife and me, I was reading in the book of Deuteronomy and found a verse in the 12th chapter that came to mean a lot to me. It’s put in the form of a commandment. The Lord says, “Thou shalt rejoice before the Lord thy God in all that thou puttest thine hands unto” (<a href="/scriptures/ot/deut/12.18" class="scriptureRef">Deut. 12:18</a>). We are grateful for this privilege to rejoice in the Lord at this new opportunity.</p>
-      <p class="para" uri="/general-conference/2002/04/the-opportunity-to-serve.p5" pid="N_rxekPYREOwfe7U-Ffqew" hash="ch7Ybw">Since starting on those paths, we have come to learn how truly merciful God is, how deeply He loves us, and how perfectly compelling His love is for us. When I was 16 years old and not smart enough to know very much at all, the Spirit touched my heart and I realized the significance of the woman that you marry. Starting at that time I began to pray that the Lord would find for me the woman who would be my eternal companion. Those prayers were answered, and all that we now enjoy in our family with children and grandchildren is largely responsible to her.</p>
-      <p class="para" uri="/general-conference/2002/04/the-opportunity-to-serve.p6" pid="0QcJQ1j0skOpuI-AxkEixg" hash="qe9nPw">I’ve come to know that Jesus is our Christ, that His and the Father’s mercies are infinite and never ending, even when we’re not deserving. I’ve always loved the Prophet Joseph Smith, but it was my privilege to spend about 10 years in an intensive and extensive study of his life, of his writings, of his teachings, and of those who knew and loved him, and I came to know that here is a prophet of prophets, one who was worthy to bring about the Restoration of this last great dispensation. And I’ve come to know with great power that those keys that he restored have continued unbroken to this day and now reside in our living prophet, even Gordon B. Hinckley.</p>
-      <p class="para" uri="/general-conference/2002/04/the-opportunity-to-serve.p7" pid="e8NuZC1OSk2st3BwTOcFkg" hash="zvcSwA">Again, we rejoice in this opportunity to serve. We are deeply humbled and greatly honored, and I leave that testimony with you in the name of Jesus Christ, amen.</p>
-    </div>
-  </div>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="85"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/29f788e2825721787ec215f31b96b29e2d24a061/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/29f788e2825721787ec215f31b96b29e2d24a061/full/%21192%2C/0/default" data-video-title="The Opportunity to Serve" data-video-description="I know how deeply He loves us and how perfectly compelling His love is for us." data-video-id="6389204350112" data-ip="Download &amp; Streaming" data-duration="305705" data-assetId="0d72f52751ac6638a8f190b97b2675a7ed70793e" data-ref-id="0d72f52751ac6638a8f190b97b2675a7ed70793e" data-duration-string="5:05" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6389204350112.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="90101634"/><source src="https://assets.churchofjesuschrist.org/0d72f52751ac6638a8f190b97b2675a7ed70793e-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="12344022"/><source src="https://assets.churchofjesuschrist.org/0d72f52751ac6638a8f190b97b2675a7ed70793e-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="24347280"/><source src="https://assets.churchofjesuschrist.org/0d72f52751ac6638a8f190b97b2675a7ed70793e-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="90101634"/></video><h1 data-aid="28819466" id="title1">The Opportunity to Serve</h1>
+<div class="byline">
+<p class="author-name" data-aid="28819467" id="p1">By Elder Gerald N. Lund</p>
+<p class="author-role" data-aid="150470270" id="author2">Of the Seventy</p>
+<div class="image-cropper"><img alt="Elder Gerald N. Lund" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/a6f7c0b3dcbebe742b07f26ebc3cd90bcae9e23d/full/%21100%2C/0/default" data-assetId="a6f7c0b3dcbebe742b07f26ebc3cd90bcae9e23d" srcset="https://www.churchofjesuschrist.org/imgs/a6f7c0b3dcbebe742b07f26ebc3cd90bcae9e23d/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/a6f7c0b3dcbebe742b07f26ebc3cd90bcae9e23d/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/a6f7c0b3dcbebe742b07f26ebc3cd90bcae9e23d/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/a6f7c0b3dcbebe742b07f26ebc3cd90bcae9e23d/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/a6f7c0b3dcbebe742b07f26ebc3cd90bcae9e23d/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/a6f7c0b3dcbebe742b07f26ebc3cd90bcae9e23d/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/a6f7c0b3dcbebe742b07f26ebc3cd90bcae9e23d/full/%21640%2C/0/default 640w" data-img-id="a6f7c0b3dcbebe742b07f26ebc3cd90bcae9e23d" data-missing-asset="false" data-width="100" data-height="120" data-aspect-ratio="0.8333333333333334" data-public-title="Lund, Gerald N." data-public-description="Last official portrait of Elder Gerald N. Lund of the Second Quorum of the Seventy, 2002.  Released at the October 2008 general conference."/></div>
+</div>
+<p class="kicker" data-aid="28819468" id="kicker1">I know how deeply He loves us and how perfectly compelling His love is for us.</p>
+</header>
+<div class="body-block">
+<p data-aid="28819469" id="p2">After 34 years in the Church Educational System, my wife and I decided about three years ago to retire and set our feet on some different paths in life. At that point we began to make plans. We changed our residence to be closer to children and grandchildren. I began to develop what I thought were some wonderful projects. Some were absolutely brilliant, I thought. And then one of those pivotal moments in life happened.</p>
+<p data-aid="28819470" id="p3">It was our privilege at that time to be living across the street from Elder F. Enzio Busche, now an emeritus Seventy, and his wife. One day Elder Busche taught our high priests quorum, and he cited a scripture in the book of Alma where Alma longs to have the voice of an angel. Then Alma immediately repents of those feelings, and in verse four makes a remarkable statement. He suggests that we have to be careful what we desire, for the Lord grants unto us the desires of our heart. And then came what was to me almost a stunning statement: “Whether they be unto salvation or unto destruction.” God will grant unto us, according to our will, the things which we desire (see <a class="scripture-ref" href="/study/scriptures/bofm/alma/29?lang=eng&amp;id=p1-p5#p1">Alma 29:1–5</a>).</p>
+<p data-aid="28819471" id="p4">I went home that day—and it’s not that I felt any of my desires were wrong—but in that moment I realized that those desires were <em>mine.</em> That day I began to try to let the Lord know that what I’d like to do is fulfill <em>His</em> desires. Even then, I thought I really meant it, but I came to know that that’s an easy thing to say and a difficult thing to do. As Elder Maxwell said yesterday, only when we truly yield our hearts to God can He begin to accelerate the purification and the sanctification and the perfecting process (see <a class="scripture-ref" href="/study/scriptures/bofm/hel/3?lang=eng&amp;id=p35#p35">Hel. 3:35</a>). We have found in the three years that have come since that time that the Lord has set our feet on different paths than we expected, and this one is the latest.</p>
+<p data-aid="28819472" id="p5">Just the other day, after President Hinckley called my wife and me, I was reading in the book of Deuteronomy and found a verse in the 12th chapter that came to mean a lot to me. It’s put in the form of a commandment. The Lord says, “Thou shalt rejoice before the Lord thy God in all that thou puttest thine hands unto” (<a class="scripture-ref" href="/study/scriptures/ot/deut/12?lang=eng&amp;id=p18#p18">Deut. 12:18</a>). We are grateful for this privilege to rejoice in the Lord at this new opportunity.</p>
+<p data-aid="28819473" id="p6">Since starting on those paths, we have come to learn how truly merciful God is, how deeply He loves us, and how perfectly compelling His love is for us. When I was 16 years old and not smart enough to know very much at all, the Spirit touched my heart and I realized the significance of the woman that you marry. Starting at that time I began to pray that the Lord would find for me the woman who would be my eternal companion. Those prayers were answered, and all that we now enjoy in our family with children and grandchildren is largely responsible to her.</p>
+<p data-aid="28819474" id="p7">I’ve come to know that Jesus is our Christ, that His and the Father’s mercies are infinite and never ending, even when we’re not deserving. I’ve always loved the Prophet Joseph Smith, but it was my privilege to spend about 10 years in an intensive and extensive study of his life, of his writings, of his teachings, and of those who knew and loved him, and I came to know that here is a prophet of prophets, one who was worthy to bring about the Restoration of this last great dispensation. And I’ve come to know with great power that those keys that he restored have continued unbroken to this day and now reside in our living prophet, even Gordon B. Hinckley.</p>
+<p data-aid="28819475" id="p8">Again, we rejoice in this opportunity to serve. We are deeply humbled and greatly honored, and I leave that testimony with you in the name of Jesus Christ, amen.</p>
 </div>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/2002/04/the-opportunity-to-serve</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/april-2002-general-conference/2002-04-5060-elder-gerald-n-lund-64k-eng.mp3" length="2457568" type="audio/mpeg"/>
-      <pubDate>Sun, 07 Apr 2002 14:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/7a6d82f832ea11ec83ebeeeeac1e20b36119a852-64k-en.mp3" length="2671559" type="audio/mpeg"/>
+      <pubDate>Sun, 07 Apr 2002 14:00:00 -0600</pubDate>
+      <itunes:author>Gerald N. Lund</itunes:author>
     </item>
     <item>
       <title>Opening Our Hearts</title>
-      <link>http://www.lds.org/general-conference/2008/04/opening-our-hearts?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2008/04/opening-our-hearts?lang=eng</link>
       <description>Let us make it a part of our everyday striving to open our hearts to the Spirit.</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/2008/04/opening-our-hearts" schema-version="1" doc-id="general-conference_PD00009475_000_014" doc-version="2" hash="f4Me3w">
-  
-  <div class="heading" uri="/general-conference/2008/04/opening-our-hearts.head">
-    <h1 class="title" pid="fEpKzXYTBkGiI_-lzQyEKA" hash="w0BfYQ">Opening Our Hearts</h1>
-    <p class="authorName" pid="Y4lekV9UQkafB1ycJ6hYkw" hash="MUkLCQ">Elder Gerald N. Lund</p>
-    <p class="kicker" pid="-qzZ1r-YhUyIMY7KPThc1w" hash="G6O_9w">Let us make it a part of our everyday striving to open our hearts to the Spirit.</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/2008/04/opening-our-hearts.t1">
-      <p class="para" uri="/general-conference/2008/04/opening-our-hearts.p1" pid="cca3VlO6LE-mdZWUJaF4iA" hash="OzY6gg">
-        <span class="pageBreak" page-number="32"></span>Today I should like to speak on the importance of opening our hearts to the Holy Spirit.</p>
-      <p class="para" uri="/general-conference/2008/04/opening-our-hearts.p2" pid="7S_OpbQ3S0GeWgIcHTxFlw" hash="68NSJA">After baptism we are confirmed and given the Holy Ghost. This is a supernal gift. The Holy Ghost comforts, teaches, warns, enlightens, and inspires us. Nephi put it very simply: “If ye will enter in by the way, and receive the Holy Ghost, it will show unto you all things what ye should do.”<span class="noteMarker" ref="f_1">1</span> We need the help of the Holy Ghost if we are to make our way safely through what the Apostle Paul called the “perilous times”<span class="noteMarker" ref="f_2">2</span> in which we now live.</p>
-      <p class="para" uri="/general-conference/2008/04/opening-our-hearts.p3" pid="u94K-chMgkSLKAcBt2GmSA" hash="MH-V2w">The Holy Ghost is a personage of spirit, which allows Him to dwell in our hearts and communicate directly with our spirits.<span class="noteMarker" ref="f_3">3</span> The voice of the Spirit is described as still and small and one that whispers.<span class="noteMarker" ref="f_4">4</span> How can a voice be still? Why is it likened to a whisper? Because the Spirit almost always speaks to our minds and to our hearts<span class="noteMarker" ref="f_5">5</span> rather than to our ears. President Boyd K. Packer has said, “The Holy Ghost speaks with a voice that you <span class="emphasis">feel </span>more than you <span class="emphasis">hear.</span>”<span class="noteMarker" ref="f_6">6</span></p>
-      <p class="para" uri="/general-conference/2008/04/opening-our-hearts.p4" pid="Wl1WFX_XJkOPH6UnpbQXkA" hash="1qlO-Q">We feel things in our hearts. In the scriptures, the prophets teach that personal revelation is closely linked to the heart. For example:</p>
-      <p class="para" uri="/general-conference/2008/04/opening-our-hearts.p5" pid="BvN-McjjJE-529jrYzV-lw" hash="hrj7oA">Mormon taught, “Because of meekness and lowliness of heart cometh the visitation of the Holy Ghost.”<span class="noteMarker" ref="f_7">7</span></p>
-      <p class="para" uri="/general-conference/2008/04/opening-our-hearts.p6" pid="53riLXkVnUCuYJoKmu8gSw" hash="RUNh9A">Alma said, “He that will harden his heart, the same receiveth the lesser portion of the word; and he that will not harden his heart, to him is given the greater portion of the word.”<span class="noteMarker" ref="f_8">8</span></p>
-      <p class="para" uri="/general-conference/2008/04/opening-our-hearts.p7" pid="OJvWFzIa2kCbkqwP1nPZkA" hash="iNZSfg">Mormon wrote of the Nephites, “[Their souls were filled] with joy and consolation … because of their yielding their hearts unto God.”<span class="noteMarker" ref="f_9">9</span></p>
-      <p class="para" uri="/general-conference/2008/04/opening-our-hearts.p8" pid="tBViqUqdSEKt65Rmzg0XIg" hash="eJyE0Q">And then the Psalmist simply wrote, “The Lord is nigh unto them that are of a broken heart.”<span class="noteMarker" ref="f_10">10</span></p>
-      <p class="para" uri="/general-conference/2008/04/opening-our-hearts.p9" pid="UFKj9AJ64U6eYqpBWCtvzA" hash="f4WsYw">Isn’t that something we all seek, brothers and sisters—to be visited by the Holy Ghost, to have the Lord draw closer to us, to find joy and consolation in our lives? If so, then <span class="pageBreak" page-number="33"></span>carefully assessing the condition of our hearts is one of the most essential things we can do in this life.</p>
-      <p class="para" uri="/general-conference/2008/04/opening-our-hearts.p10" pid="x_5kF85eb0ScbPynlZTxGA" hash="zilRhQ">The heart is a tender place. It is sensitive to many influences, both positive and negative. It can be hurt by others. It can be deadened by sin. It can be softened by love. Early in our lives, we learn to guard our hearts. It is like we erect a fence around our hearts with a gate in it. No one can enter that gate unless we allow him or her to.</p>
-      <p class="para" uri="/general-conference/2008/04/opening-our-hearts.p11" pid="CggVRva3Y0WqA1x9anEvcA" hash="6HvLqg">In some cases the fence we erect around our hearts could be likened to a small picket fence with a Welcome sign on the gate. Other hearts have been so hurt or so deadened by sin that they have an eight-foot (2.5-m) chain-link fence topped with razor wire around them. The gate is padlocked and has a large No Trespassing sign on it.</p>
-      <p class="para" uri="/general-conference/2008/04/opening-our-hearts.p12" pid="Yx4UWXqZN0aXfnQMNuAG6g" hash="GvfsBw">Let us apply the idea of a gateway to the heart to receiving personal revelation. Nephi taught, “When a man speaketh by the power of the Holy Ghost the power of the Holy Ghost carrieth it <span class="emphasis">unto </span>the hearts of the children of men.”<span class="noteMarker" ref="f_11">11</span> Elder David A. Bednar noted the use of the word <span class="emphasis">unto: </span>“Please notice how the power of the Spirit carries the message <span class="emphasis">unto </span>but not necessarily <span class="emphasis">into </span>the heart. … Ultimately, … the content of a message and the witness of the Holy Ghost penetrate into the heart only if a receiver allows them to enter.”<span class="noteMarker" ref="f_12">12</span></p>
-      <p class="para" uri="/general-conference/2008/04/opening-our-hearts.p13" pid="zN2lgy_T-UeHpylA0VYpAQ" hash="eWv_8w">Why just <span class="emphasis">unto </span>the heart? Individual agency is so sacred that Heavenly Father will never force the human heart, even with all His infinite power. Man may try to do so, but God does not. To put it another way, God allows us to be the guardians, or the gatekeepers, of our own hearts. We must, of our own free will, open our hearts to the Spirit, for He will not force Himself upon us.</p>
-      <p class="para" uri="/general-conference/2008/04/opening-our-hearts.p14" pid="zRyIKlICfUSdWl0jbN2rnQ" hash="JEyjYA">So how do we open our hearts?</p>
-      <p class="para" uri="/general-conference/2008/04/opening-our-hearts.p15" pid="-E-ANr2qT0ay-I5woNFKhQ" hash="mrGGjw">In the Sermon on the Mount, the Savior said, “Blessed are the pure in heart: for they shall see God.”<span class="noteMarker" ref="f_13">13</span> If something is pure, it is not polluted or tainted by things which do not belong to it. Purity of heart is certainly one of the most important qualifications for receiving inspiration from God. While none of our hearts are perfect, the more diligently we strive to eliminate impurity, or push out things which do not belong there, the more we open our hearts to the Holy Spirit. Note this sweet promise of the prophet Jacob: “O all ye that are pure in heart, lift up your heads and receive the pleasing word of God, and feast upon his love.”<span class="noteMarker" ref="f_14">14</span></p>
-      <p class="para" uri="/general-conference/2008/04/opening-our-hearts.p16" pid="Hh16F4aMIkmx9E-7m3GQgA" hash="wo2XPQ">While in Liberty Jail, the Prophet Joseph Smith received a revelation that describes a condition of some hearts:</p>
-      <p class="para" uri="/general-conference/2008/04/opening-our-hearts.p17" pid="zQvll_X5vk-I-eoLssXRsQ" hash="byoPIA">“Behold, there are many called, but few are chosen. And why are they not chosen?</p>
-      <p class="para" uri="/general-conference/2008/04/opening-our-hearts.p18" pid="IGtrLqzRM0WX59IOB3TZ-w" hash="4mxbDg">“Because their hearts are set so much upon the things of this world, and aspire to the honors of men.”<span class="noteMarker" ref="f_15">15</span></p>
-      <p class="para" uri="/general-conference/2008/04/opening-our-hearts.p19" pid="om8vM2DnKEKtf9XU8nDkJA" hash="s0Ffng">Many in the world now live in prosperous and peaceful circumstances. In the Book of Mormon, prosperity often led the people away from the Lord. Mormon warned, “We may see at the very time when he doth <span class="pageBreak" page-number="34"></span>prosper his people, yea, in the increase of their fields, their flocks and their herds, and in gold, and in silver, and in all manner of precious things of every kind and art … , then is the time that they do harden their hearts, and do forget the Lord their God.”<span class="noteMarker" ref="f_16">16</span></p>
-      <p class="para" uri="/general-conference/2008/04/opening-our-hearts.p20" pid="VWEjZZGYl0O69RWLQzFq-w" hash="lUYceQ">The Lord noted three natural consequences of having one’s heart set on the things of the world: First, we seek to hide our sins instead of repenting of them. Next, we seek to gratify our pride and vain ambitions rather than seeking the things of God. Finally, we begin to exercise unrighteous dominion over others.<span class="noteMarker" ref="f_17">17</span></p>
-      <p class="para" uri="/general-conference/2008/04/opening-our-hearts.p21" pid="wMg6D8Zhd0eXv_LVfKVpig" hash="Q9Q14Q">Note that pride is a natural consequence of setting our hearts on the things of the world. Pride quickly desensitizes our hearts to spiritual promptings. For example, the Lord said, “I, the Lord, am not pleased with my servant Sidney Rigdon; he exalted himself in his heart, and received not counsel, but grieved the Spirit.”<span class="noteMarker" ref="f_18">18</span> Compare that to this promise: “Be thou humble; and the Lord thy God shall lead thee by the hand, and give thee answer to thy prayers.”<span class="noteMarker" ref="f_19">19</span></p>
-      <p class="para" uri="/general-conference/2008/04/opening-our-hearts.p22" pid="RRCZcfTfUU6gzjHuLGNPCQ" hash="Nbl1Sw">In the Liberty Jail revelation, the Lord described the effect of a worldly heart: “Behold, the heavens withdraw themselves; the Spirit of the Lord is grieved; and … behold, ere he is aware, he is left unto himself.”<span class="noteMarker" ref="f_20">20</span> Brothers and sisters, in these very “perilous times,” we cannot afford to grieve the Spirit and be left to ourselves.</p>
-      <p class="para" uri="/general-conference/2008/04/opening-our-hearts.p23" pid="9etiI_TuuEadzPztgk4ivg" hash="FXM0fA">I say again, the condition of our hearts directly affects our sensitivity to spiritual things. Let us make it a part of our everyday striving to open our hearts to the Spirit. Since we are the guardians of our hearts, we can choose to do so. We choose what we let in or hold out. Fortunately the Lord is anxious to help us choose wisely.</p>
-      <p class="para" uri="/general-conference/2008/04/opening-our-hearts.p24" pid="uXVI0IJJvkuGWEfbbSECVA" hash="U9QKpw">I close in testimony with two of the promises He has made to those who seek to come unto Him: “Wherefore, my beloved brethren, pray unto the Father with all the energy of heart, that ye may be filled with [His] love, … that we may be purified even as he is pure.”<span class="noteMarker" ref="f_21">21</span></p>
-      <p class="para" uri="/general-conference/2008/04/opening-our-hearts.p25" pid="AqQKc2j0Wk-c7s-MwERM4A" hash="2Cp8Cg">And finally this stirring declaration of Paul the Apostle: “I can do all things through Christ which strengtheneth me.”<span class="noteMarker" ref="f_22">22</span></p>
-      <p class="para" uri="/general-conference/2008/04/opening-our-hearts.p26" pid="DmorWar0TkG6pHsNoM0skQ" hash="Lp6hOw">May we ever ask Christ to strengthen our hearts and fill them with His love is my prayer in the name of Jesus Christ, amen.</p>
-    </div>
-  </div>
-  
-</div>]]></content:encoded>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="32"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/80cdf8ccc1ba8849f2db6073102f9ec0b15cdb67/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/80cdf8ccc1ba8849f2db6073102f9ec0b15cdb67/full/%21192%2C/0/default" data-video-title="Opening Our Hearts" data-video-description="Let us make it a part of our everyday striving to open our hearts to the Spirit." data-video-id="3747903111001" data-ip="Download and Streaming                            " data-duration="552952" data-assetId="5c7333e7efbe88c2f33c682af26b7c8870799d99" data-ref-id="5c7333e7efbe88c2f33c682af26b7c8870799d99" data-duration-string="9:12" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/3747903111001.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="184218386"/><source src="https://assets.churchofjesuschrist.org/5c7333e7efbe88c2f33c682af26b7c8870799d99-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="23437555"/><source src="https://assets.churchofjesuschrist.org/5c7333e7efbe88c2f33c682af26b7c8870799d99-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="47297732"/><source src="https://assets.churchofjesuschrist.org/5c7333e7efbe88c2f33c682af26b7c8870799d99-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="184218386"/></video><h1 data-aid="28839339" id="title1">Opening Our Hearts</h1>
+<div class="byline">
+<p class="author-name" data-aid="28839340" id="p1">By Elder Gerald N. Lund</p>
+<p class="author-role" data-aid="28839341" id="p2">Of the Seventy</p>
+<div class="image-cropper"><img alt="Elder Gerald N. Lund" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/f7179c34e9d6ddfc05c84d80873b970fab35cd06/full/%21100%2C/0/default" data-assetId="f7179c34e9d6ddfc05c84d80873b970fab35cd06" srcset="https://www.churchofjesuschrist.org/imgs/f7179c34e9d6ddfc05c84d80873b970fab35cd06/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/f7179c34e9d6ddfc05c84d80873b970fab35cd06/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/f7179c34e9d6ddfc05c84d80873b970fab35cd06/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/f7179c34e9d6ddfc05c84d80873b970fab35cd06/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/f7179c34e9d6ddfc05c84d80873b970fab35cd06/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/f7179c34e9d6ddfc05c84d80873b970fab35cd06/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/f7179c34e9d6ddfc05c84d80873b970fab35cd06/full/%21640%2C/0/default 640w" data-img-id="f7179c34e9d6ddfc05c84d80873b970fab35cd06" data-missing-asset="false" data-width="100" data-height="133" data-aspect-ratio="0.7518796992481203" data-public-title="Lund, Gerald N." data-public-description="Last official portrait of Elder Gerald N. Lund of the Second Quorum of the Seventy, 2002.  Released at the October 2008 general conference."/></div>
+</div>
+<p class="kicker" data-aid="28839342" id="kicker1">Let us make it a part of our everyday striving to open our hearts to the Spirit.</p>
+</header>
+<div class="body-block">
+<p data-aid="28839343" id="p3">Today I should like to speak on the importance of opening our hearts to the Holy Spirit.</p>
+<p data-aid="28839344" id="p4">After baptism we are confirmed and given the Holy Ghost. This is a supernal gift. The Holy Ghost comforts, teaches, warns, enlightens, and inspires us. Nephi put it very simply: “If ye will enter in by the way, and receive the Holy Ghost, it will show unto you all things what ye should do.”<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a> We need the help of the Holy Ghost if we are to make our way safely through what the Apostle Paul called the “perilous times”<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a> in which we now live.</p>
+<p data-aid="28839345" id="p5">The Holy Ghost is a personage of spirit, which allows Him to dwell in our hearts and communicate directly with our spirits.<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a> The voice of the Spirit is described as still and small and one that whispers.<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a> How can a voice be still? Why is it likened to a whisper? Because the Spirit almost always speaks to our minds and to our hearts<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a> rather than to our ears. President Boyd K. Packer has said, “The Holy Ghost speaks with a voice that you <em>feel</em> more than you <em>hear.</em>”<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a></p>
+<p data-aid="28839346" id="p6">We feel things in our hearts. In the scriptures, the prophets teach that personal revelation is closely linked to the heart. For example:</p>
+<p data-aid="28839347" id="p7">Mormon taught, “Because of meekness and lowliness of heart cometh the visitation of the Holy Ghost.”<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a></p>
+<p data-aid="28839348" id="p8">Alma said, “He that will harden his heart, the same receiveth the lesser portion of the word; and he that will not harden his heart, to him is given the greater portion of the word.”<a class="note-ref" href="#note8"><sup class="marker" data-value="8"></sup></a></p>
+<p data-aid="28839349" id="p9">Mormon wrote of the Nephites, “[Their souls were filled] with joy and consolation … because of their yielding their hearts unto God.”<a class="note-ref" href="#note9"><sup class="marker" data-value="9"></sup></a></p>
+<p data-aid="28839350" id="p10">And then the Psalmist simply wrote, “The Lord is nigh unto them that are of a broken heart.”<a class="note-ref" href="#note10"><sup class="marker" data-value="10"></sup></a></p>
+<p data-aid="28839351" id="p11">Isn’t that something we all seek, brothers and sisters—to be visited by the Holy Ghost, to have the Lord draw closer to us, to find joy and consolation in our lives? If so, then <span class="page-break" data-page="33"></span>carefully assessing the condition of our hearts is one of the most essential things we can do in this life.</p>
+<p data-aid="28839352" id="p12">The heart is a tender place. It is sensitive to many influences, both positive and negative. It can be hurt by others. It can be deadened by sin. It can be softened by love. Early in our lives, we learn to guard our hearts. It is like we erect a fence around our hearts with a gate in it. No one can enter that gate unless we allow him or her to.</p>
+<p data-aid="28839353" id="p13">In some cases the fence we erect around our hearts could be likened to a small picket fence with a Welcome sign on the gate. Other hearts have been so hurt or so deadened by sin that they have an eight-foot (2.5-m) chain-link fence topped with razor wire around them. The gate is padlocked and has a large No Trespassing sign on it.</p>
+<p data-aid="28839354" id="p14">Let us apply the idea of a gateway to the heart to receiving personal revelation. Nephi taught, “When a man speaketh by the power of the Holy Ghost the power of the Holy Ghost carrieth it <em>unto</em> the hearts of the children of men.”<a class="note-ref" href="#note11"><sup class="marker" data-value="11"></sup></a> Elder David A. Bednar noted the use of the word <em>unto:</em> “Please notice how the power of the Spirit carries the message <em>unto</em> but not necessarily <em>into</em> the heart. … Ultimately, … the content of a message and the witness of the Holy Ghost penetrate into the heart only if a receiver allows them to enter.”<a class="note-ref" href="#note12"><sup class="marker" data-value="12"></sup></a></p>
+<p data-aid="28839355" id="p15">Why just <em>unto</em> the heart? Individual agency is so sacred that Heavenly Father will never force the human heart, even with all His infinite power. Man may try to do so, but God does not. To put it another way, God allows us to be the guardians, or the gatekeepers, of our own hearts. We must, of our own free will, open our hearts to the Spirit, for He will not force Himself upon us.</p>
+<p data-aid="28839356" id="p16">So how do we open our hearts?</p>
+<p data-aid="28839357" id="p17">In the Sermon on the Mount, the Savior said, “Blessed are the pure in heart: for they shall see God.”<a class="note-ref" href="#note13"><sup class="marker" data-value="13"></sup></a> If something is pure, it is not polluted or tainted by things which do not belong to it. Purity of heart is certainly one of the most important qualifications for receiving inspiration from God. While none of our hearts are perfect, the more diligently we strive to eliminate impurity, or push out things which do not belong there, the more we open our hearts to the Holy Spirit. Note this sweet promise of the prophet Jacob: “O all ye that are pure in heart, lift up your heads and receive the pleasing word of God, and feast upon his love.”<a class="note-ref" href="#note14"><sup class="marker" data-value="14"></sup></a></p>
+<p data-aid="28839358" id="p18">While in Liberty Jail, the Prophet Joseph Smith received a revelation that describes a condition of some hearts:</p>
+<p data-aid="28839359" id="p19">“Behold, there are many called, but few are chosen. And why are they not chosen?</p>
+<p data-aid="28839360" id="p20">“Because their hearts are set so much upon the things of this world, and aspire to the honors of men.”<a class="note-ref" href="#note15"><sup class="marker" data-value="15"></sup></a></p>
+<p data-aid="28839361" id="p21">Many in the world now live in prosperous and peaceful circumstances. In the Book of Mormon, prosperity often led the people away from the Lord. Mormon warned, “We may see at the very time when he doth <span class="page-break" data-page="34"></span>prosper his people, yea, in the increase of their fields, their flocks and their herds, and in gold, and in silver, and in all manner of precious things of every kind and art … , then is the time that they do harden their hearts, and do forget the Lord their God.”<a class="note-ref" href="#note16"><sup class="marker" data-value="16"></sup></a></p>
+<p data-aid="28839362" id="p22">The Lord noted three natural consequences of having one’s heart set on the things of the world: First, we seek to hide our sins instead of repenting of them. Next, we seek to gratify our pride and vain ambitions rather than seeking the things of God. Finally, we begin to exercise unrighteous dominion over others.<a class="note-ref" href="#note17"><sup class="marker" data-value="17"></sup></a></p>
+<p data-aid="28839363" id="p23">Note that pride is a natural consequence of setting our hearts on the things of the world. Pride quickly desensitizes our hearts to spiritual promptings. For example, the Lord said, “I, the Lord, am not pleased with my servant Sidney Rigdon; he exalted himself in his heart, and received not counsel, but grieved the Spirit.”<a class="note-ref" href="#note18"><sup class="marker" data-value="18"></sup></a> Compare that to this promise: “Be thou humble; and the Lord thy God shall lead thee by the hand, and give thee answer to thy prayers.”<a class="note-ref" href="#note19"><sup class="marker" data-value="19"></sup></a></p>
+<p data-aid="28839364" id="p24">In the Liberty Jail revelation, the Lord described the effect of a worldly heart: “Behold, the heavens withdraw themselves; the Spirit of the Lord is grieved; and … behold, ere he is aware, he is left unto himself.”<a class="note-ref" href="#note20"><sup class="marker" data-value="20"></sup></a> Brothers and sisters, in these very “perilous times,” we cannot afford to grieve the Spirit and be left to ourselves.</p>
+<p data-aid="28839365" id="p25">I say again, the condition of our hearts directly affects our sensitivity to spiritual things. Let us make it a part of our everyday striving to open our hearts to the Spirit. Since we are the guardians of our hearts, we can choose to do so. We choose what we let in or hold out. Fortunately the Lord is anxious to help us choose wisely.</p>
+<p data-aid="28839366" id="p26">I close in testimony with two of the promises made to those who seek to come unto the Lord: “Wherefore, my beloved brethren, pray unto the Father with all the energy of heart, that ye may be filled with [His] love, … that we may be purified even as he is pure.”<a class="note-ref" href="#note21"><sup class="marker" data-value="21"></sup></a></p>
+<p data-aid="28839367" id="p27">And finally this stirring declaration of Paul the Apostle: “I can do all things through Christ which strengtheneth me.”<a class="note-ref" href="#note22"><sup class="marker" data-value="22"></sup></a></p>
+<p data-aid="28839368" id="p28">May we ever ask Christ to strengthen our hearts and fill them with His love is my prayer in the name of Jesus Christ, amen.</p>
+</div>
+<footer class="notes">
+<p class="title" data-aid="150470569" id="notetitle1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="28839369" id="note1_p1"><a class="scripture-ref" href="/study/scriptures/bofm/2-ne/32?lang=eng&amp;id=p5#p5">2 Nephi 32:5</a>.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="28839370" id="note2_p1"><a class="scripture-ref" href="/study/scriptures/nt/2-tim/3?lang=eng&amp;id=p1#p1">2 Timothy 3:1</a>.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="28839371" id="note3_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/8?lang=eng&amp;id=p2#p2">D&amp;C 8:2</a>.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="28839372" id="note4_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/85?lang=eng&amp;id=p6#p6">D&amp;C 85:6</a>.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="28839373" id="note5_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/8?lang=eng&amp;id=p2#p2">D&amp;C 8:2</a>.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="28839374" id="note6_p1">Boyd K. Packer, in Conference Report, Oct. 1994, <a class="cross-ref" href="/study/general-conference/1994/10/personal-revelation-the-gift-the-test-and-the-promise?lang=eng&amp;id=p26#p26">77</a>; or <em>Ensign,</em> Nov. 1994, 60.</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="28839375" id="note7_p1"><a class="scripture-ref" href="/study/scriptures/bofm/moro/8?lang=eng&amp;id=p26#p26">Moroni 8:26</a>.</p>
+</li>
+<li data-marker="8." id="note8" data-full-marker="8.">
+<p data-aid="28839376" id="note8_p1"><a class="scripture-ref" href="/study/scriptures/bofm/alma/12?lang=eng&amp;id=p10#p10">Alma 12:10</a>.</p>
+</li>
+<li data-marker="9." id="note9" data-full-marker="9.">
+<p data-aid="28839377" id="note9_p1"><a class="scripture-ref" href="/study/scriptures/bofm/hel/3?lang=eng&amp;id=p35#p35">Helaman 3:35</a>.</p>
+</li>
+<li data-marker="10." id="note10" data-full-marker="10.">
+<p data-aid="28839378" id="note10_p1"><a class="scripture-ref" href="/study/scriptures/ot/ps/34?lang=eng&amp;id=p18#p18">Psalm 34:18</a>.</p>
+</li>
+<li data-marker="11." id="note11" data-full-marker="11.">
+<p data-aid="28839379" id="note11_p1"><a class="scripture-ref" href="/study/scriptures/bofm/2-ne/33?lang=eng&amp;id=p1#p1">2 Nephi 33:1</a>; emphasis added.</p>
+</li>
+<li data-marker="12." id="note12" data-full-marker="12.">
+<p data-aid="28839380" id="note12_p1">David A. Bednar, “Seek Learning by Faith,” <em>Liahona,</em> Sept. 2007, 17; <em>Ensign,</em> Sept. 2007, 61.</p>
+</li>
+<li data-marker="13." id="note13" data-full-marker="13.">
+<p data-aid="28839381" id="note13_p1"><a class="scripture-ref" href="/study/scriptures/nt/matt/5?lang=eng&amp;id=p8#p8">Matthew 5:8</a>.</p>
+</li>
+<li data-marker="14." id="note14" data-full-marker="14.">
+<p data-aid="28839382" id="note14_p1"><a class="scripture-ref" href="/study/scriptures/bofm/jacob/3?lang=eng&amp;id=p2#p2">Jacob 3:2</a>.</p>
+</li>
+<li data-marker="15." id="note15" data-full-marker="15.">
+<p data-aid="28839383" id="note15_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/121?lang=eng&amp;id=p34-p35#p34">D&amp;C 121:34–35</a>.</p>
+</li>
+<li data-marker="16." id="note16" data-full-marker="16.">
+<p data-aid="28839384" id="note16_p1"><a class="scripture-ref" href="/study/scriptures/bofm/hel/12?lang=eng&amp;id=p2#p2">Helaman 12:2</a>.</p>
+</li>
+<li data-marker="17." id="note17" data-full-marker="17.">
+<p data-aid="28839385" id="note17_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/121?lang=eng&amp;id=p36-p37#p36">D&amp;C 121:36–37</a>.</p>
+</li>
+<li data-marker="18." id="note18" data-full-marker="18.">
+<p data-aid="28839386" id="note18_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/63?lang=eng&amp;id=p55#p55">D&amp;C 63:55</a>.</p>
+</li>
+<li data-marker="19." id="note19" data-full-marker="19.">
+<p data-aid="28839387" id="note19_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/112?lang=eng&amp;id=p10#p10">D&amp;C 112:10</a>.</p>
+</li>
+<li data-marker="20." id="note20" data-full-marker="20.">
+<p data-aid="28839388" id="note20_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/121?lang=eng&amp;id=p37-p38#p37">D&amp;C 121:37–38</a>.</p>
+</li>
+<li data-marker="21." id="note21" data-full-marker="21.">
+<p data-aid="28839389" id="note21_p1"><a class="scripture-ref" href="/study/scriptures/bofm/moro/7?lang=eng&amp;id=p48#p48">Moroni 7:48</a>.</p>
+</li>
+<li data-marker="22." id="note22" data-full-marker="22.">
+<p data-aid="28839390" id="note22_p1"><a class="scripture-ref" href="/study/scriptures/nt/philip/4?lang=eng&amp;id=p13#p13">Philippians 4:13</a>.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/2008/04/opening-our-hearts</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/april-2008-general-conference/2008-04-2050-elder-gerald-n-lund-64k-eng.mp3" length="4426394" type="audio/mpeg"/>
-      <pubDate>Sat, 05 Apr 2008 14:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/fdc77da332d611ec95e0eeeeac1ece45e56e8482-64k-en.mp3" length="4709124" type="audio/mpeg"/>
+      <pubDate>Sat, 05 Apr 2008 14:00:00 -0600</pubDate>
+      <itunes:author>Gerald N. Lund</itunes:author>
     </item>
   </channel>
 </rss>

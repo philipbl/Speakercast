@@ -1,53 +1,265 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Talks By Matthew S. Holland</title>
-    <link>http://philip.lundrigan.org/Speakercast/</link>
+    <link>https://philip.lundrigan.org/Speakercast/</link>
     <description>General Conference talks by Matthew S. Holland.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Speakercast</generator>
     <image>
-      <url>http://philip.lundrigan.org/Speakercast/covers/Matthew%20S.%20Holland.jpg</url>
+      <url>https://philip.lundrigan.org/Speakercast/covers/Matthew%20S.%20Holland.jpg</url>
       <title>General Conference talks by Matthew S. Holland.</title>
-      <link>http://philip.lundrigan.org/Speakercast/</link>
+      <link>https://philip.lundrigan.org/Speakercast/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 02 Apr 1983 18:00:00 -0700</lastBuildDate>
-    <pubDate>Sat, 02 Apr 1983 18:00:00 -0700</pubDate>
+    <lastBuildDate>Sun, 05 Oct 2025 14:00:00 -0600</lastBuildDate>
+    <pubDate>Sun, 05 Oct 2025 14:00:00 -0600</pubDate>
+    <itunes:author>Matthew S. Holland</itunes:author>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
+    <itunes:image href="https://philip.lundrigan.org/Speakercast/covers/Matthew%20S.%20Holland.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>General Conference talks by Matthew S. Holland.</itunes:summary>
     <item>
       <title>Muddy Feet and White Shirts</title>
-      <link>http://www.lds.org/general-conference/1983/04/muddy-feet-and-white-shirts?lang=eng</link>
-      <description>When I first found out that I was going to be speaking to you tonight, I was sitting on the edge of my parents’ bed, visiting with them after I had arrived home late that night. My parents’ bed now tilts downward at a 45-degree angle, and my mom stil</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/1983/04/muddy-feet-and-white-shirts" schema-version="1" doc-id="general-conference_03161_000_019" doc-version="2" hash="RWrhhg">
-  
-  <div class="heading" uri="/general-conference/1983/04/muddy-feet-and-white-shirts.head">
-    <h1 class="title" pid="SQ_eFL21yEiww35uBCGiSA" hash="xRNUgg">Muddy Feet and White Shirts</h1>
-    <p class="authorName" pid="N37IBXd150aX24GfWhoGFQ" hash="UcJ3rQ">Matthew S. Holland</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/1983/04/muddy-feet-and-white-shirts.t1">
-      <p class="para" uri="/general-conference/1983/04/muddy-feet-and-white-shirts.p1" pid="m9Q6uUQ2AEejfBAX_XHFvA" hash="vEFfJA">When I first found out that I was going to be speaking to you tonight, I was sitting on the edge of my parents’ bed, visiting with them after I had arrived home late that night. My parents’ bed now tilts downward at a 45-degree angle, and my mom still carries a bruise on her left leg. Well, now that I’ve recovered, my dad says that I’m grateful to be here.</p>
-      <p class="para" uri="/general-conference/1983/04/muddy-feet-and-white-shirts.p2" pid="aOsUh-iEJkOXE6U_NwVxzw" hash="9f_v-w">Actually, I <span class="emphasis">am</span> very grateful to be here tonight to share a few words with you about the influence parents and the family have upon the youth of our Church. I would like to use my own family to illustrate this point. My parents and younger sister and brother show me love and give me support every day of my life. They care for my needs, both temporal and spiritual. These things are very important to me, and my family does them better than anyone else could, including the other organizations within the Church.</p>
-      <p class="para" uri="/general-conference/1983/04/muddy-feet-and-white-shirts.p3" pid="i_rV9l2V9Ue4H4chUkZ8Rg" hash="wGgmLw">I love the Church’s programs very much. But there seems to be an idea among many Latter-day Saints that the Church has the responsibility for spiritually raising the youth. Parents who hold this belief are robbing their children of one of the richest experiences we can have here in mortality.</p>
-      <p class="para" uri="/general-conference/1983/04/muddy-feet-and-white-shirts.p4" pid="kjh_RzSVvEuJ0AzM0NKDLg" hash="FX5JbA">The Primary, Sunday School, and seminary have taught us all lessons we will never forget. The Aaronic Priesthood and Young Men’s programs have helped us honor our priesthood more fully. The Young Women’s programs have taught spiritual, social, and domestic skills which are very important. The Melchizedek Priesthood and Relief Society programs keep the older, more rebellious generation in line. But these programs will not be successful unless the same lessons are being taught in the home.</p>
-      <p class="para" uri="/general-conference/1983/04/muddy-feet-and-white-shirts.p5" pid="b6loN1drLEuCmA07rrsBDA" hash="fGE1og">A lot will be said tonight about fathers. I would also like to mention mothers. One summer morning, in that same student apartment my dad just described, I told my mom I was going out to the playground. She said okay, but told me not to come running back in with muddy feet because she was in the middle of washing and waxing the floor. She repeated the statement again for emphasis as I scampered out the door in a pair of cutoffs, barefoot and shirtless. I must have played for an hour, and at least half of that time was spent in the mud. Then, knowing my mom would probably be finished with the floor and would read to me, I ran home full of boyish excitement and vigor. That same vigor kept me and my mud-covered feet going right up the steps, through the door, and halfway onto the nearly finished wash-and-wax job my mother was still stooped over.</p>
-      <p class="para" uri="/general-conference/1983/04/muddy-feet-and-white-shirts.p6" pid="u-cuhivJ1UaExRlyBjmO6Q" hash="UuujvA">Not waiting for a reaction and not wanting to leave my sin half finished, I ran across the rest of the floor, into my parents’ room, and slammed the door shut. Not knowing if I should jump out the second-story window or if just hiding under the bed would do, I burst into tears and hurled my small body onto the bed and prepared myself for the possibility of meeting my great-great-grandfather sooner than I had expected.</p>
-      <p class="para" uri="/general-conference/1983/04/muddy-feet-and-white-shirts.p7" pid="8gkXiKi40kC4Quk6BbW5Ag" hash="g9Asng">I heard the door open quietly and looked over. Oh, good, I thought. She wasn’t carrying a heated poker (paddle; switch; anything). Before she could say anything, I cried out, “Mom, you don’t love me.” To which she replied, “I <span class="emphasis">do</span> love you, and I’ll do anything to prove it.” She then picked up my filthy, muddy feet and kissed them. Needless to say, that experience taught me a great deal about the meaning of repentance and forgiveness, which lessons the Church would later reinforce.</p>
-      <p class="para" uri="/general-conference/1983/04/muddy-feet-and-white-shirts.p8" pid="xfzdLi5oy0O1bVMqA9UBIQ" hash="iMQR8Q">Of course, it doesn’t have to be a great single experience to influence a child. Alma the Younger, who had his own youthful problems, said to his son, Helaman, “Now ye may suppose that this is foolishness in me; but behold I say unto you, that by small and simple things are great things brought to pass.” (<a href="/scriptures/bofm/alma/37.6" class="scriptureRef">Alma 37:6</a>.) As fathers and sons, we should realize what great things we can accomplish by actions which might seem unimportant or insignificant at the time.</p>
-      <p class="para" uri="/general-conference/1983/04/muddy-feet-and-white-shirts.p9" pid="9TNtu5cSJk22tiou6jAU1Q" hash="71d3NQ">For example, my dad and I have gone for ice cream after every general priesthood meeting since I became a deacon. We are going again tonight. Now, ice cream isn’t absolutely necessary to enjoy priesthood meeting—but it helps. I also remember my father telling me a few weeks before I was ordained a deacon that he hoped whenever I prepared, blessed, or passed the sacrament I would always wear a white shirt and a tie. I’m sure I had heard the same advice from a Sunday School teacher or had read it in some manual, but it wasn’t until my father said it that I intended to do it. By responding to my father’s suggestion I have shown respect for the sacred ordinance of the sacrament. And that small word of advice also helped me understand that priesthood ordinances are not just work or assignments, but they are priceless privileges that I’m grateful to take part in.</p>
-      <p class="para" uri="/general-conference/1983/04/muddy-feet-and-white-shirts.p10" pid="q2vfimtKy0iWVN-SB8g2Dw" hash="TQ0cQg">I recently learned another significant lesson from my father about his love for me. A few weeks ago the state 3-A basketball championship was being played on a Saturday night in Ogden. I was on Provo High’s team, which was to play Mountain View High School for the championship. After the first quarter the team met for a huddle. As I got up off the nice soft chair I had become accustomed to, my eye caught sight of my mom and dad sitting on the front row. This might seem insignificant to you, but I was thrilled because in Provo that same night was one of the most important events of the year. It wasn’t my father’s inauguration or the annual commencement exercises. It was the BYU-University of Utah basketball game. But Dad left that game, as well as several General Authorities and other dignitaries he was hosting, to come to my game. That demonstration of love meant so much to me, not because my <span class="emphasis">game</span> was more important, but because <span class="emphasis">I</span> was more important. Is it any wonder I want to show that love in return? We do have a bond, not just as father to son—but friend to friend as well.</p>
-      <p class="para" uri="/general-conference/1983/04/muddy-feet-and-white-shirts.p11" pid="LVzOQawhAkihYI7Xmyj9tw" hash="AuN6-g">So, fathers, I plead with you not to think that the only important priesthood or spiritual lessons are taught by Church programs. Make your homes like heaven. Let them be a place where sons and daughters can learn, grow, ask, and express themselves free of criticism and to an open ear and heart.</p>
-      <p class="para" uri="/general-conference/1983/04/muddy-feet-and-white-shirts.p12" pid="ytTF1pYg5UGMqV0Ni5DHbA" hash="2n-0aw">Elder Marvin J. Ashton said, “Home should be an anchor, a port in a storm, a refuge, a happy place in which to dwell. … Home should be where life’s greatest lessons are taught and learned. Home can be the center of one’s earthly faith where love and mutual responsibility are appropriately blended.” (Marvin J. Ashton, <span class="emphasis">Ye Are My Friends,</span> Salt Lake City: Deseret Book, 1982, p. 44.)</p>
-      <p class="para" uri="/general-conference/1983/04/muddy-feet-and-white-shirts.p13" pid="xqm1Od8HBU2mmouI3l2fig" hash="lAPyaw">I want to bear my testimony of the responsibility we, the priesthood brethren of this Church, have to spiritually teach and edify our families. I would also like to publicly thank my dad for the great example he has been in my life, for the way in which he has always honored his priesthood. I love him very much. I can honestly say we are the best of friends, and it is my fervent hope and prayer that everyone can have such a father-son relationship. In the name of Jesus Christ, amen.</p>
-    </div>
-  </div>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/1983/04/muddy-feet-and-white-shirts?lang=eng</link>
+      <description>When I first found out that I was going to be speaking to you tonight, I was sitting on the edge of my parents’ bed, visiting with them after I had arrived home late that night. My parents’ bed now tilts downward at a 45-degree angle, and my mom still carries a bruise on her left leg. Well, now that I’ve recovered, my dad says that I’m grateful to be here.</description>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="38"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/57088d524e6484ded16b2b245c08b07876927253/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/57088d524e6484ded16b2b245c08b07876927253/full/%21192%2C/0/default" data-video-title="Muddy Feet and White Shirts" data-video-description="Matthew S. Holland delivers a message titled &quot;Muddy Feet and White Shirts.&quot;" data-video-id="6389398097112" data-ip="Download &amp; Streaming" data-duration="449015" data-assetId="b13947ed965df00c40341cc8d039f193c5fec647" data-ref-id="b13947ed965df00c40341cc8d039f193c5fec647" data-duration-string="7:29" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6389398097112.m3u8" type="application/vnd.apple.mpegurl" data-width="480" data-height="360" data-file-size="21542230"/><source src="https://assets.churchofjesuschrist.org/b13947ed965df00c40341cc8d039f193c5fec647-360p-en.mp4" type="video/mp4" data-width="480" data-height="360" data-file-size="21542230"/></video><h1 data-aid="28761205" id="title1">Muddy Feet and White Shirts</h1>
+<div class="byline">
+<p class="author-name" data-aid="28761206" id="p1">By Matthew S. Holland</p>
+<p class="author-role" data-aid="150025420" id="p15">Oak Hills Fourth Ward, Provo Utah Oak Hills Stake</p>
+</div>
+</header>
+<div class="body-block">
+<p data-aid="28761207" id="p2">When I first found out that I was going to be speaking to you tonight, I was sitting on the edge of my parents’ bed, visiting with them after I had arrived home late that night. My parents’ bed now tilts downward at a 45-degree angle, and my mom still carries a bruise on her left leg. Well, now that I’ve recovered, my dad says that I’m grateful to be here.</p>
+<p data-aid="28761208" id="p3">Actually, I <em>am</em> very grateful to be here tonight to share a few words with you about the influence parents and the family have upon the youth of our Church. I would like to use my own family to illustrate this point. My parents and younger sister and brother show me love and give me support every day of my life. They care for my needs, both temporal and spiritual. These things are very important to me, and my family does them better than anyone else could, including the other organizations within the Church.</p>
+<p data-aid="28761209" id="p4">I love the Church’s programs very much. But there seems to be an idea among many Latter-day Saints that the Church has the responsibility for spiritually raising the youth. Parents who hold this belief are robbing their children of one of the richest experiences we can have here in mortality.</p>
+<p data-aid="28761210" id="p5">The Primary, Sunday School, and seminary have taught us all lessons we will never forget. The Aaronic Priesthood and Young Men’s programs have helped us honor our priesthood more fully. The Young Women’s programs have taught spiritual, social, and domestic skills which are very important. The Melchizedek Priesthood and Relief Society programs keep the older, more rebellious generation in line. But these programs will not be successful unless the same lessons are being taught in the home.</p>
+<p data-aid="28761211" id="p6">A lot will be said tonight about fathers. I would also like to mention mothers. One summer morning, in that same student apartment my dad just described, I told my mom I was going out to the playground. She said okay, but told me not to come running back in with muddy feet because she was in the middle of washing and waxing the floor. She repeated the statement again for emphasis as I scampered out the door in a pair of cutoffs, barefoot and shirtless. I must have played for an hour, and at least half of that time was spent in the mud. Then, knowing my mom would probably be finished with the floor and would read to me, I ran home full of boyish excitement and <span class="page-break" data-page="39"></span>vigor. That same vigor kept me and my mud-covered feet going right up the steps, through the door, and halfway onto the nearly finished wash-and-wax job my mother was still stooped over.</p>
+<p data-aid="28761212" id="p7">Not waiting for a reaction and not wanting to leave my sin half finished, I ran across the rest of the floor, into my parents’ room, and slammed the door shut. Not knowing if I should jump out the second-story window or if just hiding under the bed would do, I burst into tears and hurled my small body onto the bed and prepared myself for the possibility of meeting my great-great-grandfather sooner than I had expected.</p>
+<p data-aid="28761213" id="p8">I heard the door open quietly and looked over. Oh, good, I thought. She wasn’t carrying a heated poker (paddle; switch; anything). Before she could say anything, I cried out, “Mom, you don’t love me.” To which she replied, “I <em>do</em> love you, and I’ll do anything to prove it.” She then picked up my filthy, muddy feet and kissed them. Needless to say, that experience taught me a great deal about the meaning of repentance and forgiveness, which lessons the Church would later reinforce.</p>
+<p data-aid="28761214" id="p9">Of course, it doesn’t have to be a great single experience to influence a child. Alma the Younger, who had his own youthful problems, said to his son, Helaman, “Now ye may suppose that this is foolishness in me; but behold I say unto you, that by small and simple things are great things brought to pass.” (<a class="scripture-ref" href="/study/scriptures/bofm/alma/37?lang=eng&amp;id=p6#p6">Alma 37:6</a>.) As fathers and sons, we should realize what great things we can accomplish by actions which might seem unimportant or insignificant at the time.</p>
+<p data-aid="28761215" id="p10">For example, my dad and I have gone for ice cream after every general priesthood meeting since I became a deacon. We are going again tonight. Now, ice cream isn’t absolutely necessary to enjoy priesthood meeting—but it helps. I also remember my father telling me a few weeks before I was ordained a deacon that he hoped whenever I prepared, blessed, or passed the sacrament I would always wear a white shirt and a tie. I’m sure I had heard the same advice from a Sunday School teacher or had read it in some manual, but it wasn’t until my father said it that I intended to do it. By responding to my father’s suggestion I have shown respect for the sacred ordinance of the sacrament. And that small word of advice also helped me understand that priesthood ordinances are not just work or assignments, but they are priceless privileges that I’m grateful to take part in.</p>
+<p data-aid="28761216" id="p11">I recently learned another significant lesson from my father about his love for me. A few weeks ago the state 3-A basketball championship was being played on a Saturday night in Ogden. I was on Provo High’s team, which was to play Mountain View High School for the championship. After the first quarter the team met for a huddle. As I got up off the nice soft chair I had become accustomed to, my eye caught sight of my mom and dad sitting on the front row. This might seem insignificant to you, but I was thrilled because in Provo that same night was one of the most important events of the year. It wasn’t my father’s inauguration or the annual commencement exercises. It was the BYU-University of Utah basketball game. But Dad left that game, as well as several General Authorities and other dignitaries he was hosting, to come to my game. That demonstration of love meant so much to me, not because my <em>game</em> was more important, but because <em>I</em> was more important. Is it any wonder I want to show that love in return? We do have a bond, not just as father to son—but friend to friend as well.</p>
+<p data-aid="28761217" id="p12">So, fathers, I plead with you not to think that the only important priesthood or spiritual lessons are taught by Church programs. Make your homes like heaven. Let them be a place where sons and daughters can learn, grow, ask, and express themselves free of criticism and to an open ear and heart.</p>
+<p data-aid="28761218" id="p13">Elder Marvin J. Ashton said, “Home should be an anchor, a port in a storm, a refuge, a happy place in which to dwell. … Home should be where life’s greatest lessons are taught and learned. Home can be the center of one’s earthly faith where love and mutual responsibility are appropriately blended.” (<cite>Ye Are My Friends,</cite> Salt Lake City: Deseret Book, 1982, p. 44.)</p>
+<p data-aid="28761219" id="p14">I want to bear my testimony of the responsibility we, the priesthood brethren of this Church, have to spiritually teach and edify our families. I would also like to publicly thank my dad for the great example he has been in my life, for the way in which he has always honored his priesthood. I love him very much. I can honestly say we are the best of friends, and it is my fervent hope and prayer that everyone can have such a father-son relationship. In the name of Jesus Christ, amen.</p>
 </div>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/1983/04/muddy-feet-and-white-shirts</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/april-1983-general-conference/1983-04-3030-matthew-s-holland-64k-eng.mp3" length="3611879" type="audio/mpeg"/>
+      <enclosure url="https://assets.churchofjesuschrist.org/365b718132de11ecb890eeeeac1e0eb4751f053e-64k-en.mp3" length="3731844" type="audio/mpeg"/>
       <pubDate>Sat, 02 Apr 1983 18:00:00 -0700</pubDate>
+      <itunes:author>Matthew S. Holland</itunes:author>
+    </item>
+    <item>
+      <title>The Exquisite Gift of the Son</title>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2020/10/26holland?lang=eng</link>
+      <description>Elder Holland describes how the suffering and Atonement of Jesus Christ can turn the misery of sin and adversity into joy.</description>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="45"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/a4c94d90b57a3d8770fac10ad979da32fb666e72/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/a4c94d90b57a3d8770fac10ad979da32fb666e72/full/%21192%2C/0/default" data-video-title="The Exquisite Gift of the Son" data-video-description="Elder Holland describes how the suffering and Atonement of Jesus Christ can turn the misery of sin and adversity into joy." data-video-id="6197223795001" data-ip="Download and Streaming                            " data-duration="586766" data-assetId="8588FEA53217D1643547E0D1856AB4C132ABE0BE" data-ref-id="8588FEA53217D1643547E0D1856AB4C132ABE0BE" data-asset-aliasId="8588fea53217d1643547e0d1856ab4c132abe0be" data-duration-string="9:46" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6197223795001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="123752406"/><source src="https://assets.churchofjesuschrist.org/8588FEA53217D1643547E0D1856AB4C132ABE0BE-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="28497078"/><source src="https://assets.churchofjesuschrist.org/8588FEA53217D1643547E0D1856AB4C132ABE0BE-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="51330971"/><source src="https://assets.churchofjesuschrist.org/8588FEA53217D1643547E0D1856AB4C132ABE0BE-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="123752406"/></video><h1 data-aid="144618924" id="title1">The Exquisite Gift of the Son</h1>
+<div class="byline">
+<p class="author-name" data-aid="144618927" id="author1">By Elder Matthew S. Holland</p>
+<p class="author-role" data-aid="144618932" id="author2">Of the Seventy</p>
+</div>
+<p class="kicker" data-aid="144618934" id="kicker1">Through Jesus Christ, we can escape the deserved agonies of our moral failings and overcome the undeserved agonies of our mortal misfortunes.</p>
+</header>
+<div class="body-block">
+<p data-aid="144618938" id="p1">While reading the Book of Mormon for a <cite>Come, Follow Me</cite> lesson last summer, I was struck by Alma’s report that when he became fully conscious of his sins, there was “nothing so <em>exquisite</em> and so <em>bitter</em> as were [his] pains.”<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a> I confess, talk of exquisite pain caught my attention partly due to my battle that week with a seven-millimeter kidney stone. Never has one man experienced such “great things” when such a “small and simple” thing was “brought to pass.”<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a></p>
+<p data-aid="144618941" id="p2">Alma’s language also stood out to me because the word <em>exquisite,</em> in the English translation of the Book of Mormon, typically describes things of exceptional beauty or unparalleled magnificence. For example, Joseph Smith noted that the angel Moroni wore robes of “exquisite whiteness,” “a whiteness beyond anything earthly [he] had ever seen.”<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a> Yet <em>exquisite</em> can also convey an extreme intensity even for awful things. Thus Alma and top <span class="page-break" data-page="46"></span>dictionaries link <em>exquisite pain</em> to being “tormented,” “racked,” and “harrowed” to the “greatest degree.”<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a></p>
+<p data-aid="144618943" id="p4">Alma’s imagery reflects the sobering reality that at some point the full, excruciating guilt of every sin we commit must be felt. Justice demands it, and God Himself cannot change it.<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a> When Alma remembered “all” his sins—especially those that had destroyed the faith of others—his pain was virtually unbearable, and the idea of standing before God filled him with “inexpressible horror.” He yearned to “become extinct both soul and body.”<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a></p>
+<p data-aid="144618946" id="p5">However, Alma said everything started to change the moment his “mind caught hold upon” the prophesied “coming of one Jesus Christ … to atone for the sins of the world” and he “cried within [his] heart: O Jesus, thou Son of God, have mercy on me.” With that one thought and that one plea, Alma was filled with “exquisite” joy “as exceeding as was [his] pain.”<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a></p>
+<p data-aid="144618948" id="p6">We must never forget that the very purpose of repentance is to take certain misery and transform it into pure bliss. Thanks to His “immediate goodness,”<a class="note-ref" href="#note8"><sup class="marker" data-value="8"></sup></a> the <em>instant</em> we come unto Christ—demonstrating faith in Him and a true change of heart—the crushing weight of our sins starts to shift from our backs to His. This is possible only because He who is without sin suffered “the infinite and unspeakable agony”<a class="note-ref" href="#note9"><sup class="marker" data-value="9"></sup></a> of every single sin in the universe of His creations, for all of His creations—a suffering so severe, blood oozed out of His every pore. From direct, personal experience the Savior thus warns us, in modern scripture, that we have no idea how “exquisite” our “sufferings” will be if we do not repent. But with unfathomable generosity He also clarifies that “I, God, have suffered these things for all, that they might not suffer if they would repent”<a class="note-ref" href="#note10"><sup class="marker" data-value="10"></sup></a>—a repentance which allows us to “taste” the “exceeding joy” Alma tasted.<a class="note-ref" href="#note11"><sup class="marker" data-value="11"></sup></a> For this doctrine alone, “I stand all amazed.”<a class="note-ref" href="#note12"><sup class="marker" data-value="12"></sup></a> Yet, astonishingly, Christ offers even more.</p>
+<p data-aid="144618951" id="p7">Sometimes exquisite pain comes not from sin but from honest mistakes, the actions of others, or forces beyond our control. In these moments, you may cry like the righteous Psalmist:</p>
+<p data-aid="144618956" id="p14">“My heart is sore pained within me: and the terrors of death are fallen upon me.</p>
+<p data-aid="144618959" id="p15">“… And horror hath overwhelmed me.</p>
+<p data-aid="144618962" id="p16">“… Oh that I had wings like a dove! for then would I fly away, and be at rest.”<a class="note-ref" href="#note13"><sup class="marker" data-value="13"></sup></a></p>
+<p data-aid="144618964" id="p8">Medical science, professional counseling, or legal rectification can help alleviate such suffering. But note, all good gifts—including these—come from the Savior.<a class="note-ref" href="#note14"><sup class="marker" data-value="14"></sup></a> Regardless of the causes of our worst hurts and heartaches, the ultimate source of relief is the same: Jesus Christ. He alone holds the full power and healing balm to correct every mistake, right every wrong, adjust every imperfection, mend every wound, and deliver every delayed blessing. Like witnesses of old, I testify that “we have not an high priest which cannot be touched with the feeling of our infirmities”<a class="note-ref" href="#note15"><sup class="marker" data-value="15"></sup></a> but rather a loving Redeemer who descended from His throne above and went forth “suffering pains and afflictions and temptations of every kind … , that he may know … how to succor his people.”<a class="note-ref" href="#note16"><sup class="marker" data-value="16"></sup></a></p>
+<p data-aid="144618968" id="p9">For anyone today with pains so intense or so unique that you feel no one else could fully appreciate them, you may have a point. There may be no family member, friend, or priesthood leader—however sensitive and well-meaning each may be—who knows exactly what you are feeling or has the precise words to help you heal. But know this: there is One who understands perfectly what you are experiencing, who is “mightier than all the earth,”<a class="note-ref" href="#note17"><sup class="marker" data-value="17"></sup></a> and who is “able to do exceeding abundantly above all that [you] ask or think.”<a class="note-ref" href="#note18"><sup class="marker" data-value="18"></sup></a> The process will unfold in His way and on His schedule, but Christ stands ready <em>always</em> to heal every ounce and aspect of your agony.</p>
+<p data-aid="144618972" id="p10">As you allow Him to do so, you will discover that your suffering was not in vain. Speaking of many of the Bible’s greatest heroes and their griefs, the Apostle Paul said that “God … provided some better things for them through their sufferings, for without sufferings they could not be made perfect.”<a class="note-ref" href="#note19"><sup class="marker" data-value="19"></sup></a> You see, the very nature of <span class="page-break" data-page="47"></span>God and aim of our earthly existence is happiness,<a class="note-ref" href="#note20"><sup class="marker" data-value="20"></sup></a> but we cannot become perfect beings of divine joy without experiences that test us, sometimes to our very core. Paul says even the Savior Himself was made eternally “perfect [or complete] through sufferings.”<a class="note-ref" href="#note21"><sup class="marker" data-value="21"></sup></a> So guard against the satanic whispering that if you were a better person, you would avoid such trials.</p>
+<p data-aid="144618976" id="p11">You must also resist the related lie that your sufferings somehow suggest you stand outside the circle of God’s chosen ones, who seem to glide from one blessed state to another. Instead, see yourself as John the Revelator surely saw you in his majestic revelation of the latter days. For John saw “a great multitude, which no man could number, of all nations, and kindreds, and people, and tongues, [who] stood before the throne, and before the Lamb, clothed with white robes, … [who] cried with a loud voice, saying, Salvation to our God.”<a class="note-ref" href="#note22"><sup class="marker" data-value="22"></sup></a></p>
+<p data-aid="144618980" id="p17">When asked: “What are these which are arrayed in white robes? and whence came they?” John received the answer: “These are they which came out of <em>great tribulation,</em> and have washed their robes, and made them white in the blood of the Lamb.”<a class="note-ref" href="#note23"><sup class="marker" data-value="23"></sup></a></p>
+<p data-aid="144618982" id="p12">Brothers and sisters, suffering in righteousness helps qualify you for, rather than distinguishes you from, God’s elect. And it makes their promises your promises. As John declares, you “shall hunger no more, neither thirst any more; neither shall the sun light on [you], nor any heat. For the Lamb which is in the midst of the throne shall feed [you], and shall lead [you] unto living fountains of waters: and God shall wipe away all tears from [your] eyes.”<a class="note-ref" href="#note24"><sup class="marker" data-value="24"></sup></a></p>
+<p data-aid="144618989" id="p19">“And there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain.”<a class="note-ref" href="#note25"><sup class="marker" data-value="25"></sup></a></p>
+<p data-aid="144618993" id="p13">I witness to you that through the staggering goodness of Jesus Christ and His infinite Atonement, we can escape the deserved agonies of our moral failings and overcome the undeserved agonies of our mortal misfortunes. Under His direction, your divine destiny will be one of unparalleled magnificence and indescribable joy—a joy so intense and so unique to you, your particular “ashes” will become beauties “beyond anything earthly.”<a class="note-ref" href="#note26"><sup class="marker" data-value="26"></sup></a> That you might taste this happiness now and be filled with it forever, I invite you to do what Alma did: let your mind catch hold on the <em>exquisite</em> gift of the Son of God as revealed through His gospel in this, His true and living Church. In the name of Jesus Christ, amen.</p>
+</div>
+<footer class="notes">
+<p class="title" data-aid="144618997" id="note_title1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="144618999" id="note1_p1"><a class="scripture-ref" href="/study/scriptures/bofm/alma/36?lang=eng&amp;id=p21#p21">Alma 36:21</a>; emphasis added.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="144619005" id="note2_p1"><a class="scripture-ref" href="/study/scriptures/bofm/alma/37?lang=eng&amp;id=p6#p6">Alma 37:6</a>.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="144619010" id="note3_p1"><a class="scripture-ref" href="/study/scriptures/pgp/js-h/1?lang=eng&amp;id=p31#p31">Joseph Smith—History 1:31</a>.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="144619014" id="note4_p1">For instance, compare the explicitly similar language of <a class="scripture-ref" href="/study/scriptures/bofm/alma/36?lang=eng&amp;id=p11-p17#p11">Alma 36:11–17</a> with the entry for <em>exquisite</em> in the <em>Oxford American Writer’s Thesaurus</em>—one of several publications that can be loaded in the “Dictionary” section of the general settings on certain devices and thus linked for easy access in the Gospel Library app. Thanks to Rachel Sanford for this reminder.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="144619020" id="note5_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/alma/42?lang=eng&amp;id=p13#p13">Alma 42:13</a>.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="144619023" id="note6_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/alma/36?lang=eng&amp;id=p13-p15#p13">Alma 36:13–15</a>.</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="144619027" id="note7_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/alma/36?lang=eng&amp;id=p17-p21#p17">Alma 36:17–21</a>.</p>
+</li>
+<li data-marker="8." id="note8" data-full-marker="8.">
+<p data-aid="144619030" id="note8_p1"><a class="scripture-ref" href="/study/scriptures/bofm/mosiah/25?lang=eng&amp;id=p10#p10">Mosiah 25:10</a>.</p>
+</li>
+<li data-marker="9." id="note9" data-full-marker="9.">
+<p data-aid="144619035" id="note9_p1">See Orson F. Whitney, <cite>Baptism—the Birth of Water and of Spirit</cite> (1934), 5.</p>
+</li>
+<li data-marker="10." id="note10" data-full-marker="10.">
+<p data-aid="144619037" id="note10_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/19?lang=eng&amp;id=p15-p16#p15">Doctrine and Covenants 19:15–16</a>.</p>
+</li>
+<li data-marker="11." id="note11" data-full-marker="11.">
+<p data-aid="144619041" id="note11_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/alma/36?lang=eng&amp;id=p24-p26#p24">Alma 36:24–26</a>.</p>
+</li>
+<li data-marker="12." id="note12" data-full-marker="12.">
+<p data-aid="144619045" id="note12_p1">“I Stand All Amazed,” <cite>Hymns,</cite> no. 193.</p>
+</li>
+<li data-marker="13." id="note13" data-full-marker="13.">
+<p data-aid="144619047" id="note13_p1"><a class="scripture-ref" href="/study/scriptures/ot/ps/55?lang=eng&amp;id=p4-p6#p4">Psalm 55:4–6</a>.</p>
+</li>
+<li data-marker="14." id="note14" data-full-marker="14.">
+<p data-aid="144619052" id="note14_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/moro/7?lang=eng&amp;id=p24#p24">Moroni 7:24</a>.</p>
+</li>
+<li data-marker="15." id="note15" data-full-marker="15.">
+<p data-aid="144619055" id="note15_p1"><a class="scripture-ref" href="/study/scriptures/nt/heb/4?lang=eng&amp;id=p15#p15">Hebrews 4:15</a>.</p>
+</li>
+<li data-marker="16." id="note16" data-full-marker="16.">
+<p data-aid="144619058" id="note16_p1"><a class="scripture-ref" href="/study/scriptures/bofm/alma/7?lang=eng&amp;id=p11-p12#p11">Alma 7:11–12</a>.</p>
+</li>
+<li data-marker="17." id="note17" data-full-marker="17.">
+<p data-aid="144619060" id="note17_p1"><a class="scripture-ref" href="/study/scriptures/bofm/1-ne/4?lang=eng&amp;id=p1#p1">1 Nephi 4:1</a>.</p>
+</li>
+<li data-marker="18." id="note18" data-full-marker="18.">
+<p data-aid="144619063" id="note18_p1"><a class="scripture-ref" href="/study/scriptures/nt/eph/3?lang=eng&amp;id=p20#p20">Ephesians 3:20</a>.</p>
+</li>
+<li data-marker="19." id="note19" data-full-marker="19.">
+<p data-aid="144619066" id="note19_p1">Joseph Smith Translation, Hebrews 11:40 (in <a class="scripture-ref" href="/study/scriptures/nt/heb/11?lang=eng&amp;id=p40#p40">Hebrews 11:40</a>, footnote <em>a</em>).</p>
+</li>
+<li data-marker="20." id="note20" data-full-marker="20.">
+<p data-aid="144619069" id="note20_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/2-ne/2?lang=eng&amp;id=p25#p25">2 Nephi 2:25</a>; <a class="scripture-ref" href="/study/scriptures/bofm/alma/41?lang=eng&amp;id=p11#p11">Alma 41:11</a>.</p>
+</li>
+<li data-marker="21." id="note21" data-full-marker="21.">
+<p data-aid="144619072" id="note21_p1"><a class="scripture-ref" href="/study/scriptures/nt/heb/2?lang=eng&amp;id=p10#p10">Hebrews 2:10</a>; see also <a class="scripture-ref" href="/study/scriptures/nt/heb/5?lang=eng&amp;id=p8#p8">Hebrews 5:8</a>; Russell M. Nelson, “<a class="cross-ref" href="/study/general-conference/1995/10/perfection-pending?lang=eng">Perfection Pending</a>,” <cite>Ensign,</cite> Nov. 1995, 86–88.</p>
+</li>
+<li data-marker="22." id="note22" data-full-marker="22.">
+<p data-aid="144619074" id="note22_p1"><a class="scripture-ref" href="/study/scriptures/nt/rev/7?lang=eng&amp;id=p9-p10#p9">Revelation 7:9–10</a>.</p>
+</li>
+<li data-marker="23." id="note23" data-full-marker="23.">
+<p data-aid="144619076" id="note23_p1"><a class="scripture-ref" href="/study/scriptures/nt/rev/7?lang=eng&amp;id=p13-p14#p13">Revelation 7:13–14</a>; emphasis added.</p>
+</li>
+<li data-marker="24." id="note24" data-full-marker="24.">
+<p data-aid="144619081" id="note24_p1"><a class="scripture-ref" href="/study/scriptures/nt/rev/7?lang=eng&amp;id=p16-p17#p16">Revelation 7:16–17</a>.</p>
+</li>
+<li data-marker="25." id="note25" data-full-marker="25.">
+<p data-aid="144619083" id="note25_p1"><a class="scripture-ref" href="/study/scriptures/nt/rev/21?lang=eng&amp;id=p4#p4">Revelation 21:4</a>.</p>
+</li>
+<li data-marker="26." id="note26" data-full-marker="26.">
+<p data-aid="144619087" id="note26_p1">See <a class="scripture-ref" href="/study/scriptures/ot/isa/61?lang=eng&amp;id=p3#p3">Isaiah 61:3</a>; <a class="scripture-ref" href="/study/scriptures/pgp/js-h/1?lang=eng&amp;id=p31#p31">Joseph Smith—History 1:31</a>.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
+      <guid isPermaLink="false">/general-conference/2020/10/26holland</guid>
+      <enclosure url="https://assets.churchofjesuschrist.org/2d58ae0032d511ec89b6eeeeac1e02ba98e16760-32k-en.mp3" length="2459225" type="audio/mpeg"/>
+      <pubDate>Sat, 03 Oct 2020 14:00:00 -0600</pubDate>
+      <itunes:author>Matthew S. Holland</itunes:author>
+    </item>
+    <item>
+      <title>Forsake Not Your Own Mercy</title>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2025/10/53holland?lang=eng</link>
+      <description>Elder Holland teaches us to follow the example of Jonah and invite Christ’s awe-inspiring mercy into our lives.</description>
+      <content:encoded><![CDATA[<header>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/t7l7kjwub4kpwj2hto4w8qga2cpnyhge0uos5e4w/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/t7l7kjwub4kpwj2hto4w8qga2cpnyhge0uos5e4w/full/%21192%2C/0/default" data-video-title="Forsake Not Your Own Mercy" data-video-description="Elder Holland teaches us to follow the example of Jonah and invite Christ’s awe-inspiring mercy into our lives." data-video-id="6382074238112" data-duration="642740" data-assetId="w7tqh4gqrzmindbkac39v7oesianpxt1jtndzohy" data-ref-id="w7tqh4gqrzmindbkac39v7oesianpxt1jtndzohy" data-duration-string="10:42" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6382074238112.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="262768587"/><source src="https://assets.churchofjesuschrist.org/w7tqh4gqrzmindbkac39v7oesianpxt1jtndzohy-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="46447454"/><source src="https://assets.churchofjesuschrist.org/w7tqh4gqrzmindbkac39v7oesianpxt1jtndzohy-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="99926069"/><source src="https://assets.churchofjesuschrist.org/w7tqh4gqrzmindbkac39v7oesianpxt1jtndzohy-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="262768587"/></video><h1 data-aid="168179746" id="p_eotY0">Forsake Not Your Own Mercy</h1>
+<div class="byline">
+<p class="author-name" data-aid="168179760" id="p_oAZ6F">By Elder Matthew S. Holland</p>
+<p class="author-role" data-aid="168179774" id="p_pyj5x">Of the Seventy</p>
+</div>
+<p class="kicker" data-aid="168179788" id="p_qXFdI">You have immediate access to divine help and healing despite your human flaws.</p>
+</header>
+<div class="body-block">
+<p data-aid="168179802" id="p_iApJs">A schoolteacher once taught that a whale—even though large—could not swallow a human because whales have small throats. A girl objected, “But Jonah was swallowed by a whale.” The teacher responded, “That’s impossible.” Still not convinced, the girl said, “Well, when I get to heaven, I will ask him.” The teacher sneered, “What if Jonah was a sinner and didn’t go to heaven?” The girl replied, “Then you can ask him.”</p>
+<p data-aid="168179816" id="p_s79rC">We laugh, but we should not miss the power Jonah’s story offers every “humble seeker of happiness,” especially those struggling.<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a></p>
+<p data-aid="168179830" id="p_vlLFm">God commanded Jonah to “go to Nineveh” to declare repentance. But Nineveh was ancient Israel’s brutal enemy—so Jonah promptly heads the exact opposite direction, by boat, to Tarshish.<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a> As he sails away from his calling, a ship-wrecking storm develops. Certain his disobedience is the cause, Jonah volunteers to be thrown overboard. This calms the raging sea, which saves his shipmates.</p>
+<p data-aid="168179845" id="p_s5tRl">Miraculously, Jonah escapes death when a “great fish” the Lord “prepared” swallows him. But he languishes in that unbelievably dark and putrid place for three days, until he’s finally spit out on dry ground. He then accepts his call to Nineveh. Yet, when the city repents and is spared destruction, Jonah resents the mercy shown his enemies. God patiently teaches Jonah that He loves and seeks to rescue all His children.<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a></p>
+<p data-aid="168179856" id="p_sbuSz">Stumbling more than once in his duties, Jonah provides a vivid testimony that in mortality, “all are fallen.”<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a> We don’t often speak of a testimony of the Fall. But having a doctrinal understanding and spiritual witness of why every single one of us struggles with moral, physical, and situational challenges is a great blessing. Here on earth, ugly weeds grow, even strong bones break, and <em>all</em> “come short of the glory of God.”<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a> But this mortal condition—a result of choices made by Adam and Eve—is essential to the very reason we exist: “that [we] might have joy”! As our first parents learned, only by tasting the bitterness and feeling the pain of a fallen world could we even conceive of, let alone enjoy, true happiness.<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a></p>
+<p data-aid="168179870" id="p_gdJkH">A testimony of the Fall does <em>not</em> excuse sin or a lax approach in life’s duties, which <em>always</em> call for diligence, virtue, and accountability. But it should temper our frustrations when things just go wrong or we see a moral failing in a family member, friend, or leader. Too often things like this cause us to wallow in contentious criticism or resentment that robs our faith. But a firm testimony of the Fall can help us be more like God as described by Jonah, that is, “merciful, slow to anger, and of great kindness”<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a> to all—including ourselves—in our unavoidably imperfect state.</p>
+<p data-aid="168179884" id="p_nU9Dw">Even greater than manifesting the effects of the Fall, Jonah’s story powerfully directs us to Him who can deliver us from those effects. Jonah’s self-sacrifice to save his shipmates is Christlike indeed. And three times when Jesus is pressed for a miraculous sign of His divinity, He thunders that “there shall no sign be given … but the sign of Jonas [Jonah],” declaring that as Jonah was “three days and three nights in the whale’s belly; so shall the Son of man be three days and three nights in the heart of the earth.”<a class="note-ref" href="#note8"><sup class="marker" data-value="8"></sup></a> As a symbol of the Savior’s sacrificial death and glorious Resurrection, Jonah may be flawed. But this is also what makes his personal witness of and commitment to Jesus Christ, offered in the belly of the whale, so poignant and inspiring.<a class="note-ref" href="#note9"><sup class="marker" data-value="9"></sup></a></p>
+<p data-aid="168179897" id="p_tR4M0">Jonah’s cry is that of a good man in crisis, one largely of his own making.<a class="note-ref" href="#note10"><sup class="marker" data-value="10"></sup></a> For a saint, when catastrophe is brought on by a regrettable habit, comment, or decision, despite so many other good intentions and earnest efforts of righteousness, it can be especially crushing and leave one feeling forsaken.<a class="note-ref" href="#note11"><sup class="marker" data-value="11"></sup></a> But whatever the cause or degree of disaster we face, there is <em>always</em> dry ground for hope, healing, and happiness. Listen to Jonah:</p>
+<p data-aid="168179908" id="p_mzHzn">“I cried by reason of mine affliction unto the Lord … ; out of the belly of hell cried I. …</p>
+<p data-aid="168179921" id="p_kJttA">“For thou hadst cast me into the deep, in the midst of the seas; …</p>
+<p data-aid="168179934" id="p_rD8lR">“[And] I said, I am cast out of thy sight; <em>yet</em> I will look again toward thy holy temple.</p>
+<p data-aid="168179947" id="p_llYst">“The waters compassed me about, <em>even</em> to the soul: the depth closed me round about, the weeds were wrapped about my head.</p>
+<p data-aid="168179960" id="p_gVv7U">“I went down to the bottoms of the mountains; … <em>yet</em> hast thou brought up my life from corruption. …</p>
+<p data-aid="168179973" id="p_u28fb">“When my soul fainted … I remembered the Lord: and my prayer came … into thine holy temple.</p>
+<p data-aid="168179986" id="p_qdeA8">“They that observe lying vanities <em>forsake their own mercy</em>.</p>
+<p data-aid="168179999" id="p_c3Ykl">“But I will sacrifice unto thee with the voice of thanksgiving; I will <em>pay that that I have vowed</em>. Salvation is of the Lord.”<a class="note-ref" href="#note12"><sup class="marker" data-value="12"></sup></a></p>
+<p data-aid="168180012" id="p_hU04K">Though it was many years ago, I can tell you exactly where I was sitting and exactly what I was feeling when, deep in the belly of a personal hell, I discovered this scripture. For anyone today feeling like I did then—that you are cast off, sinking in deepest waters, with seaweed wrapped about your head and oceanic mountains crashing all around you—my plea, inspired by Jonah, is <em>forsake not your own mercy</em>. You have immediate access to divine help and healing despite your human flaws. This awe-inspiring mercy comes in and through Jesus Christ. Because He knows and loves you perfectly, He offers it to you as your “<em>own</em>,” meaning it is perfectly suited to you, designed to relieve <em>your</em> individual agonies and heal <em>your</em> particular pains. So, for heaven’s sake and yours, do not turn your back on that. Accept it. Start by refusing to listen to the “lying vanities” of the adversary, who would tempt you into thinking that relief is found in sailing away from your spiritual responsibilities. Instead, follow the lead of the repentant Jonah. Cry unto God. Turn to the temple. Cling to your covenants. Serve the Lord, His Church, and others with sacrifice and thanksgiving.</p>
+<p data-aid="168180025" id="p_gsa2z">Doing these things brings a vision of God’s special covenantal love for you—what the Hebrew Bible calls <em>hesed</em>. You will see and feel the power of God’s loyal, untiring, inexhaustible, and “tender mercies” that can make you “mighty … unto … deliverance” from any sin or any setback.<a class="note-ref" href="#note13"><sup class="marker" data-value="13"></sup></a> Early and intense anguish may cloud that vision at first. But as you continue to “<em>pay that that [you] have vowed</em>,” such a vision will shine brighter and brighter in your soul. And with that vision you will not only find hope and healing, but, astonishingly, you will find joy, even in the midst of your crucible. President Russell M. Nelson taught us so very well: “When the focus of our lives is on God’s plan of salvation … and Jesus Christ and His gospel, we can feel joy regardless of what is happening—or not happening—in our lives. Joy comes from and because of Him.”<a class="note-ref" href="#note14"><sup class="marker" data-value="14"></sup></a></p>
+<p data-aid="168180038" id="p_azWGz">Whether we are facing a deep, Jonah-like catastrophe or the everyday challenges of our imperfect world, the invitation is the same: Forsake not your own mercy. Look to the sign of Jonah, the living Christ, He who rose from His three-day grave having conquered <em>all</em>—<em>for you</em>. Turn to Him. Believe in Him. Serve Him. Smile. For in Him, and Him alone, is found the full and happy healing from the Fall, healing we all so urgently need and humbly seek. I testify this is true. In the sacred name of Jesus Christ, amen.</p>
+</div>
+<footer class="notes">
+<p class="title" data-aid="168180052" id="p_dHjaw">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="168180066" id="p_xyhxc"><a class="scripture-ref" href="/study/scriptures/bofm/alma/27?lang=eng&amp;id=p18#p18">Alma 27:18</a>. A mere 48 verses in total, the book of Jonah is a compressed, poetic classic of numerous doctrinal truths and spiritual lessons. See Ellis T. Rasmussen, <cite>A Latter-Day Saint Commentary on the Old Testament</cite> (1993), 653–57; D. Kelly Ogden and Andrew C. Skinner, <cite>Verse by Verse: The Old Testament</cite>, vol. 2, <cite>1 Kings Through Malachi</cite> (2013), 133–38. Ogden and Skinner note that due to the power of the teachings of repentance in the book of Jonah, it is “read in synagogues on the holiest day of the year for the Jewish people—the Day of Atonement, or Yom Kippur—which also centers on repentance and forgiveness.”</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="168180080" id="p_nZk6Q">See Ogden and Skinner, <cite>Verse by Verse: The Old Testament</cite>, 134.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="168180094" id="p_vHyX4">See <a class="scripture-ref" href="/study/scriptures/ot/jonah/1?lang=eng">Jonah 1–4</a>.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="168180108" id="p_fThzc"><a class="scripture-ref" href="/study/scriptures/bofm/alma/34?lang=eng&amp;id=p9#p9">Alma 34:9</a>.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="168180122" id="p_oB1NM"><a class="scripture-ref" href="/study/scriptures/nt/rom/3?lang=eng&amp;id=p23#p23">Romans 3:23</a>.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="168180137" id="p_hIXxX">See <a class="scripture-ref" href="/study/scriptures/bofm/2-ne/2?lang=eng&amp;id=p17-p25#p17">2 Nephi 2:17–25</a>.</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="168180151" id="p_sIko4"><a class="scripture-ref" href="/study/scriptures/ot/jonah/4?lang=eng&amp;id=p2#p2">Jonah 4:2</a>.</p>
+</li>
+<li data-marker="8." id="note8" data-full-marker="8.">
+<p data-aid="168180165" id="p_rysGl">See <a class="scripture-ref" href="/study/scriptures/nt/luke/11?lang=eng&amp;id=p29-p30#p29">Luke 11:29–30</a>; see also <a class="scripture-ref" href="/study/scriptures/nt/matt/12?lang=eng&amp;id=p39-p41#p39">Matthew 12:39–41</a>; <a class="scripture-ref" href="/study/scriptures/nt/matt/16?lang=eng&amp;id=p1-p4#p1">16:1–4</a>.</p>
+</li>
+<li data-marker="9." id="note9" data-full-marker="9.">
+<p data-aid="168180179" id="p_fKYRo"><a class="scripture-ref" href="/study/scriptures/ot/jonah/2?lang=eng">Jonah 2</a> is a later testimony and psalm of thanks, much of which describes Jonah’s prayer from the belly of the whale.</p>
+</li>
+<li data-marker="10." id="note10" data-full-marker="10.">
+<p data-aid="168180192" id="p_n1zzs">In this way, Jonah contrasts with someone like Job, who appears seemingly innocent with respect to the suffering that comes to him. Both are stories of faith and resilience in the face of catastrophe, but Jonah’s might be more relatable for those who feel their own deeds are the justifiable source of their pain.</p>
+</li>
+<li data-marker="11." id="note11" data-full-marker="11.">
+<p data-aid="168180200" id="p_oIqSA">It certainly was for Joseph Smith when his heartfelt empathy and appreciation for his benefactor Martin Harris led him to share with Harris the precious first 116 pages of translation of the Book of Mormon that then went missing, which caused Joseph to wail, “All is lost” (see <cite><a class="cross-ref" href="/study/history/saints-v1/05-all-is-lost?lang=eng">Saints: The Story of the Church of Jesus Christ in the Latter Days</a></cite>, vol. 1, <cite>The Standard of Truth, 1815–1846</cite> [2018], 43–53).</p>
+</li>
+<li data-marker="12." id="note12" data-full-marker="12.">
+<p data-aid="168180212" id="p_rrNvJ"><a class="scripture-ref" href="/study/scriptures/ot/jonah/2?lang=eng&amp;id=p2-p9#p2">Jonah 2:2–9</a>; emphasis added.</p>
+</li>
+<li data-marker="13." id="note13" data-full-marker="13.">
+<p data-aid="168180225" id="p_yPQwM"><a class="scripture-ref" href="/study/scriptures/bofm/1-ne/1?lang=eng&amp;id=p20#p20">1 Nephi 1:20</a>; see Russell M. Nelson, “<a class="cross-ref" href="/study/liahona/2022/10/04-the-everlasting-covenant?lang=eng">The Everlasting Covenant</a>,” <cite>Liahona</cite>, Oct. 2022, 6, 10. The original Hebrew word for <em>mercy</em> in <a class="scripture-ref" href="/study/scriptures/ot/jonah/2?lang=eng">Jonah 2</a> is <em>hesed</em>, which President Nelson explains is a “special kind of love and mercy” for those who have made sacred covenants with God—a mercy that he explained is loyal, untiring, and inexhaustible.</p>
+</li>
+<li data-marker="14." id="note14" data-full-marker="14.">
+<p data-aid="168180239" id="p_zgfvu">Russell M. Nelson, “<a class="cross-ref" href="/study/general-conference/2016/10/joy-and-spiritual-survival?lang=eng">Joy and Spiritual Survival</a>,” <cite>Ensign</cite> or <cite>Liahona</cite>, Nov. 2016, 82.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
+      <guid isPermaLink="false">/general-conference/2025/10/53holland</guid>
+      <enclosure url="https://assets.churchofjesuschrist.org/dnrn2ptkrcnylngw4mutdr0gpr6xi6ootj0251fc-128k-en.mp3" length="10103157" type="audio/mpeg"/>
+      <pubDate>Sun, 05 Oct 2025 14:00:00 -0600</pubDate>
+      <itunes:author>Matthew S. Holland</itunes:author>
     </item>
   </channel>
 </rss>

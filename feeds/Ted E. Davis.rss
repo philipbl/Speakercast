@@ -1,288 +1,311 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Talks By Ted E. Davis</title>
-    <link>http://philip.lundrigan.org/Speakercast/</link>
+    <link>https://philip.lundrigan.org/Speakercast/</link>
     <description>General Conference talks by Ted E. Davis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Speakercast</generator>
     <image>
-      <url>http://philip.lundrigan.org/Speakercast/covers/Ted%20E.%20Davis.jpg</url>
+      <url>https://philip.lundrigan.org/Speakercast/covers/Ted%20E.%20Davis.jpg</url>
       <title>General Conference talks by Ted E. Davis.</title>
-      <link>http://philip.lundrigan.org/Speakercast/</link>
+      <link>https://philip.lundrigan.org/Speakercast/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 04 Apr 1992 14:00:00 -0700</lastBuildDate>
-    <pubDate>Sat, 04 Apr 1992 14:00:00 -0700</pubDate>
+    <lastBuildDate>Sat, 01 Apr 2000 14:00:00 -0700</lastBuildDate>
+    <pubDate>Sat, 01 Apr 2000 14:00:00 -0700</pubDate>
+    <itunes:author>Ted E. Davis</itunes:author>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
+    <itunes:image href="https://philip.lundrigan.org/Speakercast/covers/Ted%20E.%20Davis.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>General Conference talks by Ted E. Davis.</itunes:summary>
     <item>
       <title>The Church Audit Committee Report</title>
-      <link>http://www.lds.org/general-conference/1992/04/the-church-audit-committee-report?lang=eng</link>
-      <description>To the First Presidency of The Church of Jesus Christ of Latter-day Saints:</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/1992/04/the-church-audit-committee-report" schema-version="1" doc-id="general-conference_92905_000_012" doc-version="2" hash="Ag8tRg">
-  
-  <div class="heading" uri="/general-conference/1992/04/the-church-audit-committee-report.head">
-    <h1 class="title" pid="ZgvMObOLqES5JxWkf4lUvA" hash="dXyfag">The Church Audit Committee Report</h1>
-    <p class="authorName" pid="yqenBhshXk68T8EAxeK1xA" hash="BHEkmw">Ted E. Davis</p>
-    <p class="kicker" pid="GbRxxV7xY0aIEWQ5z69RqQ" hash="0QbxOQ">To the First Presidency of The Church of Jesus Christ of Latter-day Saints:</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/1992/04/the-church-audit-committee-report.t1">
-      <p class="para" uri="/general-conference/1992/04/the-church-audit-committee-report.p1" pid="Io_wrndbnU-52gmc6TwHDA" hash="FV-9ag">The Audit Committee is independent of all Church officers, employees, and operations, and has access to all records relevant to the committee’s responsibility. We have reviewed the adequacy of controls over receipts and expenditures of funds and other procedures that safeguard the assets of the Church and its controlled organizations, including budgeting, accounting and auditing systems, and the related financial statements of the Church for the year ending 31 December 1991.</p>
-      <p class="para" uri="/general-conference/1992/04/the-church-audit-committee-report.p2" pid="2xdiN5-qnES-t30Kg3vmRg" hash="yFSsZQ">Expenditures of Church funds for the year were authorized by the Council of the Disposition of the Tithes, composed of the First Presidency, the Council of the Twelve, and the Presiding Bishopric, as prescribed under revelation. The Appropriations Committee and Budget Committee administer major expenditures within approved budgets.</p>
-      <p class="para" uri="/general-conference/1992/04/the-church-audit-committee-report.p3" pid="4jgolpr4RECpOMfs3MxT0Q" hash="0JtDyg">The Auditing Department staff consists of certified public accountants and similarly qualified auditors and is independent of all other departments. It performs financial audits, operational audits, and audits of computer systems for all Church operations, worldwide. Incorporated businesses owned or controlled by the Church, for which accounts are not maintained in the Finance and Records Department, are audited by the Church’s internal auditors, independent professional auditing firms, or government regulatory agencies. Audits of local units are performed locally. Local audit procedures are established, and audit reports are reviewed by the Auditing Department.</p>
-      <p class="para" uri="/general-conference/1992/04/the-church-audit-committee-report.p4" pid="XayXHbJTwkuMTDM2p0EH-g" hash="yWhomQ">Based on our review of financial and operating controls, and the audit reports and responses, we are of the opinion that the budgeting, accounting, auditing, and other control procedures have maintained adequate accountability for Church assets and obligations. In all material respects, all Church funds received and expended during the year ended 31 December 1991 have been controlled and accounted for in accordance with established Church policies and procedures.</p>
-      <p class="para" uri="/general-conference/1992/04/the-church-audit-committee-report.closing">
-        <p class="closing">Respectfully submitted,</p>
-        <p class="closing">CHURCH AUDIT COMMITTEE</p>
-        <p class="signature">Ted E. Davis</p>
-      </p>
-    </div>
-  </div>
-</div>]]></content:encoded>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/1992/04/the-church-audit-committee-report?lang=eng</link>
+      <description><![CDATA[<header>
+<span class="page-break" data-page="22"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/393128600682cde8650200e397e97e9f463cf76e/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/393128600682cde8650200e397e97e9f463cf76e/full/%21192%2C/0/default" data-video-title="The Church Audit Committee Report" data-video-description="The Church Audit Committee Report." data-video-id="2255413868001" data-ip="Download and Streaming                            " data-duration="188321" data-assetId="842fe85314ff10d7d51553a4c994bb4c7f8e8ce7" data-ref-id="842fe85314ff10d7d51553a4c994bb4c7f8e8ce7" data-duration-string="3:08" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/2255413868001.m3u8" type="application/vnd.apple.mpegurl" data-width="480" data-height="360" data-file-size="13313966"/><source src="https://assets.churchofjesuschrist.org/842fe85314ff10d7d51553a4c994bb4c7f8e8ce7-360p-en.mp4" type="video/mp4" data-width="480" data-height="360" data-file-size="13313966"/></video><h1 data-aid="28787705" id="title1">The Church Audit Committee Report</h1>
+<div class="byline">
+<p class="author-name" data-aid="28787706" id="p1">Presented by Ted E. Davis</p>
+<p class="author-role" data-aid="28787713" id="p7">Church Audit Committee</p>
+</div>
+<p class="kicker" data-aid="28787707" id="kicker1">To the First Presidency of The Church of Jesus Christ of Latter-day Saints:</p>
+</header>
+<div class="body-block">
+<p data-aid="28787708" id="p2">The Audit Committee is independent of all Church officers, employees, and operations and has access to all records relevant to the committee’s responsibility. We have reviewed the adequacy of controls over receipts and expenditures of funds and other procedures that safeguard the assets of the Church and its controlled organizations, including budgeting, accounting and auditing systems, and the related financial statements of the Church for the year ending 31 December 1991.</p>
+<p data-aid="28787709" id="p3">Expenditures of Church funds for the year were authorized by the Council on the Disposition of the Tithes, composed of the First Presidency, the Council of the Twelve, and the Presiding Bishopric, as prescribed by revelation. The Appropriations Committee and Budget Committee administer major expenditures within approved budgets.</p>
+<p data-aid="28787710" id="p4">The Auditing Department staff consists of certified public accountants and similarly qualified auditors and is independent of all other departments. It performs financial audits, operational audits, and audits of computer systems for all Church operations worldwide. Incorporated businesses owned or controlled by the Church, for which accounts are not maintained in the Finance and Records Department, are audited by the Church’s internal auditors, independent professional auditing firms, or government regulatory agencies. Audits of local units are performed locally. Local audit procedures are established, and audit reports are reviewed by the Auditing Department.</p>
+<p data-aid="28787711" id="p5">Based on our review of financial and operating controls and the audit reports and responses, we are of the opinion that the budgeting, accounting, auditing, and other control procedures have maintained adequate accountability for Church assets and obligations. In all material respects, all Church funds received and expended during the year ended 31 December 1991 have been controlled and accounted for in accordance with established Church policies and procedures.</p>
+<div class="closing-block">
+<p class="closing" data-aid="28787712" id="closing1">Respectfully submitted,</p>
+<p class="closing" data-aid="150150645" id="closing2">Church Audit Committee</p>
+<p class="signature" data-aid="150150646" id="p8">David M. Kennedy</p>
+<p class="signature" data-aid="150150647" id="p9">Merrill J. Bateman</p>
+<p class="signature" data-aid="28787714" id="p6">Ted E. Davis</p>
+</div>
+</div>]]></description>
       <guid isPermaLink="false">/general-conference/1992/04/the-church-audit-committee-report</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/april-1992-general-conference/1992-04-2020-the-church-audit-committee-report-64k-eng.mp3" length="1528269" type="audio/mpeg"/>
+      <enclosure url="https://assets.churchofjesuschrist.org/249cad2832d211ecb890eeeeac1e0eb4ba439c0d-64k-en.mp3" length="2034662" type="audio/mpeg"/>
       <pubDate>Sat, 04 Apr 1992 14:00:00 -0700</pubDate>
+      <itunes:author>Ted E. Davis</itunes:author>
     </item>
     <item>
       <title>The Church Audit Committee Report</title>
-      <link>http://www.lds.org/general-conference/1993/04/the-church-audit-committee-report?lang=eng</link>
-      <description>To the First Presidency of The Church of Jesus Christ of Latter-day Saints</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/1993/04/the-church-audit-committee-report" schema-version="1" doc-id="general-conference_93905_000_011" doc-version="2" hash="3px4kw">
-  
-  <div class="heading" uri="/general-conference/1993/04/the-church-audit-committee-report.head">
-    <h1 class="title" pid="pPu6hS9jIUe8kdk1lgARzg" hash="dXyfag">The Church Audit Committee Report</h1>
-    <p class="authorName" pid="sUdk6XgF4EunLd3rNIlBXg" hash="BHEkmw">Ted E. Davis</p>
-    <p class="kicker" pid="ETmwOP8kH0SoTTQrp7SK6A" hash="0QbxOQ">To the First Presidency of The Church of Jesus Christ of Latter-day Saints</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/1993/04/the-church-audit-committee-report.t1">
-      <p class="para" uri="/general-conference/1993/04/the-church-audit-committee-report.p1" pid="lQZvkGXrgUCSZC3Ye-RpMg" hash="J2LxRA">The Audit Committee is independent of all Church officers, employees, and operations and has access to all records relevant to the committee’s responsibility. We have reviewed the adequacy of controls over receipts and expenditures of funds and other procedures that safeguard assets of the Church and its controlled organizations, including budgeting, accounting, and auditing systems, and the related financial statements of the Church for the year ending 31 December 1992.</p>
-      <p class="para" uri="/general-conference/1993/04/the-church-audit-committee-report.p2" pid="BpXf0R3-pkGyeqGxGMD8RQ" hash="nJNQ7Q">Expenditures of Church funds for the year were authorized by the Council on the Disposition of the Tithes, composed of the First Presidency, the Council of the Twelve, and the Presiding Bishopric, as prescribed under revelation. The Appropriation and Budget committees administer major expenditures within approved budgets.</p>
-      <p class="para" uri="/general-conference/1993/04/the-church-audit-committee-report.p3" pid="tUk_gqwI0UK_2CzonhONhQ" hash="22C_UQ">The Auditing Department staff consists of certified public accountants and similarly qualified auditors and is independent of all other departments. It performs financial audits, operational audits, and audits of computer systems for all Church operations, worldwide. Incorporated businesses owned or controlled by the Church, for which accounts are not maintained in the Finance and Records Department, are audited by internal auditors of the Church or independent professional auditing firms. Audits of local units are performed locally. Local audit procedures are established, and audit reports are reviewed by the Auditing Department.</p>
-      <p class="para" uri="/general-conference/1993/04/the-church-audit-committee-report.p4" pid="oYOBBbbsg0Oc7TbXs7JLnw" hash="dmn_8w">Based on our review of the financial and operating controls and the audit reports and responses, we are of the opinion that the budgeting, accounting, auditing, and other control procedures have maintained adequate accountability for Church assets and obligations. In all material respects, all Church funds received and expended during the year ending 31 December 1992 have been controlled and accounted for in accordance with established Church policy and procedures.</p>
-      <p class="para" uri="/general-conference/1993/04/the-church-audit-committee-report.closing">
-        <p class="closing">Respectfully submitted,</p>
-        <p class="closing">CHURCH AUDIT COMMITTEE</p>
-        <p class="signature">James B. Jacobson</p>
-      </p>
-    </div>
-  </div>
-</div>]]></content:encoded>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/1993/04/the-church-audit-committee-report?lang=eng</link>
+      <description><![CDATA[<header>
+<span class="page-break" data-page="22"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/f31f0c4d8624746518879f48088dd99a07127adf/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/f31f0c4d8624746518879f48088dd99a07127adf/full/%21192%2C/0/default" data-video-title="The Church Audit Committee Report" data-video-description="The Church Audit Committee Report." data-video-id="2255398458001" data-ip="Download and Streaming                            " data-duration="192000" data-assetId="673b51bd0f49bcee3ba781953c58ff9dc492f6e4" data-ref-id="673b51bd0f49bcee3ba781953c58ff9dc492f6e4" data-duration-string="3:12" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/2255398458001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="480" data-height="360" data-file-size="10980744"/><source src="https://assets.churchofjesuschrist.org/673b51bd0f49bcee3ba781953c58ff9dc492f6e4-360p-en.mp4" type="video/mp4" data-width="480" data-height="360" data-file-size="10980744"/></video><h1 data-aid="28790632" id="title1">The Church Audit Committee Report</h1>
+<div class="byline">
+<p class="author-name" data-aid="28790633" id="p1">Presented by Ted E. Davis</p>
+<p class="author-role" data-aid="28790640" id="author2">Church Audit Committee</p>
+</div>
+<p class="kicker" data-aid="28790634" id="kicker1">To the First Presidency of The Church of Jesus Christ of Latter-day Saints</p>
+</header>
+<div class="body-block">
+<p data-aid="164857255" id="p10">Dear Brethren:</p>
+<p data-aid="28790635" id="p2">The Audit Committee is independent of all Church officers, employees, and operations and has access to all records relevant to the committee’s responsibility. We have reviewed the adequacy of controls over receipts and expenditures of funds and other procedures that safeguard assets of the Church and its controlled organizations, including budgeting, accounting, and auditing systems, and the related financial statements of the Church for the year ending 31 December 1992.</p>
+<p data-aid="28790636" id="p3">Expenditures of Church funds for the year were authorized by the Council on the Disposition of the Tithes, composed of the First Presidency, the Council of the Twelve, and the Presiding Bishopric, as prescribed under revelation. The Appropriation and Budget committees administer major expenditures within approved budgets.</p>
+<p data-aid="28790637" id="p4">The Auditing Department staff consists of certified public accountants and similarly qualified auditors and is independent of all other departments. It performs financial audits, operational audits, and audits of computer systems for all Church operations worldwide. Incorporated businesses owned or controlled by the Church, for which accounts are not maintained in the Finance and Records Department, are audited by internal auditors of the Church or independent professional auditing firms. Audits of local units are performed locally. Local audit procedures are established, and audit reports are reviewed by the Auditing Department.</p>
+<p data-aid="28790638" id="p5">Based on our review of the financial and operating controls and the audit reports and responses, we are of the opinion that the budgeting, accounting, auditing, and other control procedures have maintained adequate accountability for Church assets and obligations. In all material respects, all Church funds received and expended during the year ending 31 December 1992 have been controlled and accounted for in accordance with established Church policies and procedures.</p>
+<div class="closing-block">
+<p class="closing" data-aid="28790639" id="closing1">Respectfully submitted,</p>
+<p class="closing" data-aid="150150694" id="closing2">Church Audit Committee</p>
+<p class="signature" data-aid="150150695" id="p7">David M. Kennedy</p>
+<p class="signature" data-aid="150150696" id="p8">Ted E. Davis</p>
+<p class="signature" data-aid="150150697" id="p9">Donald D. Salmon</p>
+<p class="signature" data-aid="28790641" id="p6">James B. Jacobson</p>
+</div>
+</div>]]></description>
       <guid isPermaLink="false">/general-conference/1993/04/the-church-audit-committee-report</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/april-1993-general-conference/1993-04-2020-the-church-audit-committee-report-64k-eng.mp3" length="1558370" type="audio/mpeg"/>
+      <enclosure url="https://assets.churchofjesuschrist.org/e1febfb632e711ecac35eeeeac1e7c593d9e1914-64k-en.mp3" length="1889602" type="audio/mpeg"/>
       <pubDate>Sat, 03 Apr 1993 14:00:00 -0700</pubDate>
+      <itunes:author>Ted E. Davis</itunes:author>
     </item>
     <item>
       <title>The Church Audit Committee Report</title>
-      <link>http://www.lds.org/general-conference/1994/04/the-church-audit-committee-report?lang=eng</link>
-      <description>To the First Presidency of The Church of Jesus Christ of Latter-day Saints</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/1994/04/the-church-audit-committee-report" schema-version="1" doc-id="general-conference_94905_000_011" doc-version="2" hash="TMqFiw">
-  
-  <div class="heading" uri="/general-conference/1994/04/the-church-audit-committee-report.head">
-    <h1 class="title" pid="3_o6h0bDhEmoXL67HT6vRg" hash="dXyfag">The Church Audit Committee Report</h1>
-    <p class="authorName" pid="zo_sCxgMjkK2kPH5r29iyg" hash="BHEkmw">Ted E. Davis</p>
-    <p class="kicker" pid="_vJuWWdCAE-GLwLyfwRGVA" hash="0QbxOQ">To the First Presidency of The Church of Jesus Christ of Latter-day Saints</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/1994/04/the-church-audit-committee-report.t1">
-      <p class="para" uri="/general-conference/1994/04/the-church-audit-committee-report.p1" pid="AxIi0UJIzk2qA6Nrzw-N1Q" hash="fbqeUw">The Church Audit Committee is independent of all Church officers, operations, departments, and employees and reports directly to the First Presidency. We have access to all operational and departmental records and personnel necessary to perform our responsibility. We have reviewed the adequacy of controls over receipts and expenditures of funds and other procedures that safeguard the assets of the Church and its controlled organizations, including their budgeting, accounting and reporting, and auditing systems. We have also reviewed the related combined financial statements of the Church for the year ended 31 December 1993.</p>
-      <p class="para" uri="/general-conference/1994/04/the-church-audit-committee-report.p2" pid="abBSlbOB_kWgSmqs944sAg" hash="j71ONw">Expenditures of Church funds for the year were authorized by the Council on the Disposition of the Tithes, composed of the First Presidency, the Council of the Twelve Apostles, and the Presiding Bishopric, as prescribed under revelation. The Appropriation and Budget committees administer major expenditures within approved budgets.</p>
-      <p class="para" uri="/general-conference/1994/04/the-church-audit-committee-report.p3" pid="qp3fTHXcB0SjEglstkYDzg" hash="l0j28A">The Church Auditing Department performs, on a test basis, financial and operational audits, including computerized information systems, for all Church operations worldwide. Its staff consists of certified public accountants and other professionally qualified auditors and it is independent of all other Church operations and departments. Incorporated businesses owned or controlled by the Church are audited by the Church Auditing Department or independent public accounting firms. Audits of local ecclesiastical units are performed locally. Such local audit procedures are established by the Church Auditing Department, which also monitors local unit audit results.</p>
-      <p class="para" uri="/general-conference/1994/04/the-church-audit-committee-report.p4" pid="ZDUQ5oTuckiTw3kEO-1z7g" hash="HjAL3A">Based on our review of financial and operating controls and of audit reports and responses thereto, we are of the opinion that the budgeting, accounting and reporting, auditing, and other control procedures have maintained adequate accountability for Church assets and obligations. In all material respects, Church funds received and expended during the year ended 31 December 1993 have been controlled, accounted for, and reported in accordance with established Church policies and procedures.</p>
-      <p class="para" uri="/general-conference/1994/04/the-church-audit-committee-report.closing">
-        <p class="closing">Respectfully submitted,</p>
-        <p class="closing">CHURCH AUDIT COMMITTEE</p>
-        <p class="signature">James B. Jacobson</p>
-        <p class="office">Chairman</p>
-      </p>
-    </div>
-  </div>
-</div>]]></content:encoded>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/1994/04/the-church-audit-committee-report?lang=eng</link>
+      <description><![CDATA[<header>
+<span class="page-break" data-page="23"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/730b144a80e8f0ae60bc5f273b05ddd5e7d14e4d/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/730b144a80e8f0ae60bc5f273b05ddd5e7d14e4d/full/%21192%2C/0/default" data-video-title="The Church Audit Committee Report" data-video-description="The Church Audit Committee Report" data-video-id="2245818166001" data-ip="Download and Streaming                            " data-duration="210977" data-assetId="a8b65499b9ce947d20923f5ecc9a4b2a606f5378" data-ref-id="a8b65499b9ce947d20923f5ecc9a4b2a606f5378" data-duration-string="3:30" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/2245818166001.m3u8" type="application/vnd.apple.mpegurl" data-width="480" data-height="360" data-file-size="13908186"/><source src="https://assets.churchofjesuschrist.org/a8b65499b9ce947d20923f5ecc9a4b2a606f5378-360p-en.mp4" type="video/mp4" data-width="480" data-height="360" data-file-size="13908186"/></video><h1 data-aid="28793640" id="title1">The Church Audit Committee Report</h1>
+<div class="byline">
+<p class="author-name" data-aid="28793641" id="p1">Presented by Ted E. Davis</p>
+<p class="author-role" data-aid="28793648" id="author2">Church Audit Committee</p>
+</div>
+<p class="kicker" data-aid="28793642" id="kicker1">To the First Presidency of The Church of Jesus Christ of Latter-day Saints</p>
+</header>
+<div class="body-block">
+<p data-aid="28793643" id="p2">The Church Audit Committee is independent of all Church officers, operations, departments, and employees and reports directly to the First Presidency. We have access to all operational and departmental records and personnel necessary to perform our responsibility. We have reviewed the adequacy of controls over receipts and expenditures of funds and other procedures that safeguard the assets of the Church and its controlled organizations, including their budgeting, accounting and reporting, and auditing systems. We have also reviewed the related combined financial statements of the Church for the year ended 31 December 1993.</p>
+<p data-aid="28793644" id="p3">Expenditures of Church funds for the year were authorized by the Council on the Disposition of the Tithes, composed of the First Presidency, the Council of the Twelve Apostles, and the Presiding Bishopric, as prescribed under revelation. The Appropriation and Budget committees administer major expenditures within approved budgets.</p>
+<p data-aid="28793645" id="p4">The Church Auditing Department performs, on a test basis, financial and operational audits, including computerized information systems, for all Church operations worldwide. Its staff consists of certified public accountants and other professionally qualified auditors, and it is independent of all other Church operations and departments. Incorporated businesses owned or controlled by the Church are audited by the Church Auditing Department or independent public accounting firms. Audits of local ecclesiastical units are performed locally. Such local audit procedures are established by the Church Auditing Department, which also monitors local unit audit results.</p>
+<p data-aid="28793646" id="p5">Based on our review of financial and operating controls and of audit reports and responses thereto, we are of the opinion that the budgeting, accounting and reporting, auditing, and other control procedures have maintained adequate accountability for Church assets and obligations. In all material respects, Church funds received and expended during the year ended 31 December 1993 have been controlled, accounted for, and reported in accordance with established Church policies and procedures.</p>
+<div class="closing-block">
+<p class="closing" data-aid="28793647" id="closing1">Respectfully submitted,</p>
+<p class="closing" data-aid="150151213" id="closing2">Church Audit Committee</p>
+<p class="signature" data-aid="150151214" id="p10">Ted E. Davis</p>
+<p class="office" data-aid="28793650" id="p11">Chairman</p>
+<p class="signature" data-aid="150151216" id="p9">Donald D. Salmon</p>
+<p class="signature" data-aid="28793649" id="p12">James B. Jacobson</p>
+</div>
+</div>]]></description>
       <guid isPermaLink="false">/general-conference/1994/04/the-church-audit-committee-report</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/april-1994-general-conference/1994-04-2020-the-church-audit-committee-report-64k-eng.mp3" length="1706582" type="audio/mpeg"/>
+      <enclosure url="https://assets.churchofjesuschrist.org/5bc32e9532d911ec89b6eeeeac1e02baa2bb5152-64k-en.mp3" length="2056407" type="audio/mpeg"/>
       <pubDate>Sat, 02 Apr 1994 14:00:00 -0700</pubDate>
+      <itunes:author>Ted E. Davis</itunes:author>
     </item>
     <item>
       <title>The Church Audit Committee Report</title>
-      <link>http://www.lds.org/general-conference/1995/04/the-church-audit-committee-report?lang=eng</link>
-      <description>To the First Presidency of The Church of Jesus Christ of Latter-day Saints</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/1995/04/the-church-audit-committee-report" schema-version="1" doc-id="general-conference_95905_000_010" doc-version="2" hash="Sn2A0A">
-  
-  <div class="heading" uri="/general-conference/1995/04/the-church-audit-committee-report.head">
-    <h1 class="title" pid="ELtDR1Tn5UeAPiU0oDbmjw" hash="dXyfag">The Church Audit Committee Report</h1>
-    <p class="authorName" pid="p2dxnePiD0G7Vx_jmNoW7w" hash="BHEkmw">Ted E. Davis</p>
-    <p class="kicker" pid="pZmfs4Ms60iZ_JEriFc3Eg" hash="0QbxOQ">To the First Presidency of The Church of Jesus Christ of Latter-day Saints</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/1995/04/the-church-audit-committee-report.t1">
-      <p class="para" uri="/general-conference/1995/04/the-church-audit-committee-report.p1" pid="pxqILKKl8UiO7e029tLcpg" hash="sd1MbQ">The Church Audit Committee is independent of all Church officers, employees, operations, and departments, including the Church Auditing Department, and reports directly to the First Presidency. We have access to all records and personnel necessary to perform our responsibility. We have reviewed the financial policies and procedures that provide controls over receipts and expenditures of funds and that safeguard assets of the Church and its controlled organizations, including budgeting, accounting and reporting, and the auditing systems and reports, for the year ended 31 December 1994.</p>
-      <p class="para" uri="/general-conference/1995/04/the-church-audit-committee-report.p2" pid="IN-T83ichkCl-q3p-asghw" hash="V7ma6A">Expenditures of Church funds for the year were authorized by the Council on the Disposition of the Tithes according to written policies. The Council is composed of the First Presidency, the Quorum of the Twelve Apostles, and the Presiding Bishopric, as prescribed under revelation. Administration of approved budgets is controlled through the Budget Department under the direction of the Appropriations and Budget Committees.</p>
-      <p class="para" uri="/general-conference/1995/04/the-church-audit-committee-report.p3" pid="_2rHTVSNu0CU-oNPJgMT9w" hash="H0EpmA">The Church Auditing Department is currently conducting an audit of the financial activities of the Church and its affiliated companies for the year ended 31 December 1994, in compliance with recognized professional auditing standards. It also performs financial audits, operational audits, and audits of computerized information systems for all Church operations worldwide. Its staff consists of certified public accountants and other professionally qualified auditors. The Church Auditing Department is independent of all other Church operations and departments and reports its findings directly to the First Presidency. Incorporated businesses owned or controlled by the Church maintain their own accounting and reporting systems in compliance with accepted business practice and are audited by the Church Auditing Department and/or independent public accounting firms. Brigham Young University and other institutions of higher education are audited by independent public accounting firms. The Church Auditing Department has established audit procedures for audits of local ecclesiastical units and also monitors local unit audit results and local unit expenditures.</p>
-      <p class="para" uri="/general-conference/1995/04/the-church-audit-committee-report.p4" pid="EHLBjWcSskaB8rwMYH0ePQ" hash="hiuW6w">The Church Audit Committee, based on its review of financial and control policies and procedures and its review of all audit reports issued in 1994 and responses thereto, is of the opinion that in all material respects, Church funds received and expended during the year ended 31 December 1994 have been controlled and accounted for in accordance with established Church policies and procedures.</p>
-      <p class="para" uri="/general-conference/1995/04/the-church-audit-committee-report.closing">
-        <p class="closing">Respectfully submitted,</p>
-        <p class="closing">CHURCH AUDIT COMMITTEE</p>
-        <p class="signature">James B. Jacobson</p>
-      </p>
-    </div>
-  </div>
-</div>]]></content:encoded>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/1995/04/the-church-audit-committee-report?lang=eng</link>
+      <description><![CDATA[<header>
+<span class="page-break" data-page="21"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/59456b4e4d16eafcdd1570babd6e627a68b759fd/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/59456b4e4d16eafcdd1570babd6e627a68b759fd/full/%21192%2C/0/default" data-video-title="The Church Audit Committee Report" data-video-description="The Church Audit Committee Report" data-video-id="2245802230001" data-ip="Download and Streaming                            " data-duration="218000" data-assetId="b736238f1ec502a27587d8d8f6d6150f786f63ec" data-ref-id="b736238f1ec502a27587d8d8f6d6150f786f63ec" data-duration-string="3:38" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/2245802230001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="480" data-height="360" data-file-size="14546561"/><source src="https://assets.churchofjesuschrist.org/b736238f1ec502a27587d8d8f6d6150f786f63ec-360p-en.mp4" type="video/mp4" data-width="480" data-height="360" data-file-size="14546561"/></video><h1 data-aid="28796886" id="title1">The Church Audit Committee Report</h1>
+<div class="byline">
+<p class="author-name" data-aid="28796887" id="p1">Presented by Ted E. Davis</p>
+<p class="author-role" data-aid="28796894" id="author2">Church Audit Committee</p>
+</div>
+<p class="kicker" data-aid="28796888" id="kicker1">To the First Presidency of The Church of Jesus Christ of Latter-day Saints</p>
+</header>
+<div class="body-block">
+<p data-aid="28796889" id="p2">The Church Audit Committee is independent of all Church officers, employees, operations, and departments, including the Church Auditing Department, and reports directly to the First Presidency. We have access to all records and personnel necessary to perform our responsibility. We have reviewed the financial policies and procedures that provide controls over receipts and expenditures of funds and that safeguard assets of the Church and its controlled organizations, including budgeting, accounting and reporting, and the auditing systems and reports, for the year ended December 31, 1994.</p>
+<p data-aid="28796890" id="p3">Expenditures of Church funds for the year were authorized by the Council on the Disposition of the Tithes according to written policies. The Council is composed of the First Presidency, the Quorum of the Twelve Apostles, and the Presiding Bishopric, as prescribed under revelation. Administration of approved budgets is controlled through the Budget Department under the direction of the Appropriations and Budget Committees.</p>
+<p data-aid="28796891" id="p4">The Church Auditing Department is currently conducting an audit of the financial activities of the Church and its affiliated companies for the year ended December 31, 1994, in compliance with recognized professional auditing standards. It also performs financial audits, operational audits, and audits of computerized information systems for all Church operations worldwide. Its staff consists of certified public accountants and other professionally qualified auditors. The Church Auditing Department is independent of all other Church operations and departments and reports its findings directly to the First Presidency. Incorporated businesses owned or controlled by the Church maintain their own accounting and reporting systems in compliance with accepted business practice and are audited by the Church Auditing Department and/or independent public accounting firms. Brigham Young University and other institutions of higher education are audited by independent public accounting firms. The Church Auditing Department has established audit procedures for audits of local ecclesiastical units and also monitors local unit audit results and local unit expenditures.</p>
+<p data-aid="28796892" id="p5">The Church Audit Committee, based on its review of financial and control policies and procedures and its review of all audit reports issued in 1994 and responses thereto, is of the opinion that in all material respects, Church funds received and expended during the year ended December 31, 1994 have been controlled and accounted for in accordance with established Church policies and procedures.</p>
+<div class="closing-block">
+<p class="closing" data-aid="28796893" id="closing1">Respectfully submitted,</p>
+<p class="closing" data-aid="150151286" id="closing2">Church Audit Committee</p>
+<p class="signature" data-aid="150151288" id="p7">Ted E. Davis, Chairman</p>
+<p class="signature" data-aid="150151289" id="p8">Donald D. Salmon</p>
+<p class="signature" data-aid="28796895" id="p6">James B. Jacobson</p>
+</div>
+</div>]]></description>
       <guid isPermaLink="false">/general-conference/1995/04/the-church-audit-committee-report</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/april-1995-general-conference/1995-04-2010-the-church-audit-committee-report-64k-eng.mp3" length="1764902" type="audio/mpeg"/>
+      <enclosure url="https://assets.churchofjesuschrist.org/EFFB89AE3C48AC377872E186B22DE430768104B2-64k-en.mp3" length="2111517" type="audio/mpeg"/>
       <pubDate>Sat, 01 Apr 1995 14:00:00 -0700</pubDate>
+      <itunes:author>Ted E. Davis</itunes:author>
     </item>
     <item>
       <title>The Church Audit Committee Report</title>
-      <link>http://www.lds.org/general-conference/1996/04/the-church-audit-committee-report?lang=eng</link>
-      <description>To the First Presidency of The Church of Jesus Christ of Latter-day Saints</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/1996/04/the-church-audit-committee-report" schema-version="1" doc-id="general-conference_96905_000_010" doc-version="2" hash="WiKKag">
-  
-  <div class="heading" uri="/general-conference/1996/04/the-church-audit-committee-report.head">
-    <h1 class="title" pid="XzzKxZKpaUe6osTmx7YfqQ" hash="dXyfag">The Church Audit Committee Report</h1>
-    <p class="authorName" pid="MrcR0C9WTUKKY-xMxPPNMA" hash="BHEkmw">Ted E. Davis</p>
-    <p class="kicker" pid="ABaLUiTW-UOpmhDq9S_Vqw" hash="0QbxOQ">To the First Presidency of The Church of Jesus Christ of Latter-day Saints</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/1996/04/the-church-audit-committee-report.t1">
-      <p class="para" uri="/general-conference/1996/04/the-church-audit-committee-report.p1" pid="648ihaRPvUaRKKRAnH-3DA" hash="njrAdg">The Church Audit Committee is independent of all Church officers, employees, operations, and departments, including the Church Auditing Department, and reports directly to the First Presidency. We have access to all records and personnel necessary to perform our responsibility. We have reviewed the financial policies and procedures that provide controls over receipts and expenditures of funds and that safeguard assets of the Church and its controlled organizations, including budgeting, accounting, and reporting, and the auditing systems and reports, for the year ended 31 December 1995.</p>
-      <p class="para" uri="/general-conference/1996/04/the-church-audit-committee-report.p2" pid="3vjMDsNy5U-JgsY-MPPDsw" hash="V7ma6A">Expenditures of Church funds for the year were authorized by the Council on the Disposition of the Tithes according to written policies. The Council is composed of the First Presidency, the Quorum of the Twelve Apostles, and the Presiding Bishopric, as prescribed under revelation. Administration of approved budgets is controlled through the Budget Department under the direction of the Appropriations and Budget Committees.</p>
-      <p class="para" uri="/general-conference/1996/04/the-church-audit-committee-report.p3" pid="HbZdxclwKEKWd1qrJuna0Q" hash="FXHKQw">The Church Auditing Department, which is separate from the Church Audit Committee, is conducting an audit of the financial activities of the Church and its affiliated companies for the year ended 31 December 1995, in compliance with recognized professional auditing standards. It also performs financial audits, operational audits, and audits of computerized information systems for all Church operations. Its staff consists of certified public accountants and other professionally qualified auditors. The Church Auditing Department is independent of all other Church operations and departments and reports its findings directly to the First Presidency. Incorporated businesses owned or controlled by the Church maintain their own accounting and reporting systems in compliance with accepted business practice and are audited by the Church Auditing Department and/or independent public accounting firms. Brigham Young University and other institutions of higher education are audited by independent public accounting firms. The Church Auditing Department has established audit procedures for audits of local ecclesiastical units and also monitors local unit audit results and local unit expenditures.</p>
-      <p class="para" uri="/general-conference/1996/04/the-church-audit-committee-report.p4" pid="EMV576TxL0yNf_jcBNCF5w" hash="8rN1DA">Based on our review of financial and control policies and procedures and our review of all audit reports issued in 1995 and responses thereto, the Church Audit Committee is of the opinion that in all material respects, Church funds received and expended during the year ended 31 December 1995, have been controlled and accounted for in accordance with established Church policies and procedures.</p>
-      <p class="para" uri="/general-conference/1996/04/the-church-audit-committee-report.closing">
-        <p class="closing">Respectfully submitted,</p>
-        <p class="closing">CHURCH AUDIT COMMITTEE</p>
-        <p class="signature">James B. Jacobson</p>
-      </p>
-    </div>
-  </div>
-</div>]]></content:encoded>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/1996/04/the-church-audit-committee-report?lang=eng</link>
+      <description><![CDATA[<header>
+<span class="page-break" data-page="21"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/a69bf3d41f6b10fb0d40a7808b5b5b3c1770f334/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/a69bf3d41f6b10fb0d40a7808b5b5b3c1770f334/full/%21192%2C/0/default" data-video-title="The Church Audit Committee Report" data-video-description="The Church Audit Committee Report" data-video-id="6004127710001" data-ip="Download and Streaming                            " data-duration="235000" data-assetId="267e9b2527328122c7eb1257505b02b893953326" data-ref-id="267e9b2527328122c7eb1257505b02b893953326" data-duration-string="3:55" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6004127710001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="480" data-height="360" data-file-size="16342066"/><source src="https://assets.churchofjesuschrist.org/267e9b2527328122c7eb1257505b02b893953326-360p-en.mp4" type="video/mp4" data-width="480" data-height="360" data-file-size="16342066"/></video><h1 data-aid="28799754" id="title1">The Church Audit Committee Report</h1>
+<div class="byline">
+<p class="author-name" data-aid="28799755" id="p1">Presented by Ted E. Davis</p>
+<p class="author-role" data-aid="28799762" id="author2">Church Audit Committee</p>
+</div>
+<p class="kicker" data-aid="28799756" id="kicker1">To the First Presidency of The Church of Jesus Christ of Latter-day Saints</p>
+</header>
+<div class="body-block">
+<p data-aid="28799757" id="p2">The Church Audit Committee is independent of all Church officers, employees, operations, and departments, including the Church Auditing Department, and reports directly to the First Presidency. We have access to all records and personnel necessary to perform our responsibility. We have reviewed the financial policies and procedures that provide controls over receipts and expenditures of funds and that safeguard assets of the Church and its controlled organizations, including budgeting, accounting, and reporting, and the auditing systems and reports, for the year ended 31 December 1995.</p>
+<p data-aid="28799758" id="p3">Expenditures of Church funds for the year were authorized by the Council on the Disposition of the Tithes according to written policies. The Council is composed of the First Presidency, the Quorum of the Twelve Apostles, and the Presiding Bishopric, as prescribed under revelation. Administration of approved budgets is controlled through the Budget Department under the direction of the Appropriations and Budget Committees.</p>
+<p data-aid="28799759" id="p4">The Church Auditing Department, which is separate from the Church Audit Committee, is conducting an audit of the financial activities of the Church and its affiliated companies for the year ended 31 December 1995, in compliance with recognized professional auditing standards. It also performs financial audits, operational audits, and audits of computerized information systems for all Church operations. Its staff consists of certified public accountants and other professionally qualified auditors. The Church Auditing Department is independent of all other Church operations and departments and reports its findings directly to the First Presidency. Incorporated businesses owned or controlled by the Church maintain their own accounting and reporting systems in compliance with accepted business practice and are audited by the Church Auditing Department and/or independent public accounting firms. Brigham Young University and other institutions of higher education are audited by independent public accounting firms. The Church Auditing Department has established audit procedures for audits of local ecclesiastical units and also monitors local unit audit results and local unit expenditures.</p>
+<p data-aid="28799760" id="p5">Based on our review of financial and control policies and procedures and our review of all audit reports issued in 1995 and responses thereto, the Church Audit Committee is of the opinion that in all material respects, Church funds received and expended during the year ended 31 December 1995, have been controlled and accounted for in accordance with established Church policies and procedures.</p>
+<div class="closing-block">
+<p class="closing" data-aid="28799761" id="closing1">Respectfully submitted,</p>
+<p class="closing" data-aid="150154466" id="closing2">Church Audit Committee</p>
+<p class="signature" data-aid="150154467" id="p7">Ted E. Davis, Chairman</p>
+<p class="signature" data-aid="150154469" id="p8">Donald D. Salmon</p>
+<p class="signature" data-aid="28799763" id="p6">James B. Jacobson</p>
+</div>
+</div>]]></description>
       <guid isPermaLink="false">/general-conference/1996/04/the-church-audit-committee-report</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/april-1996-general-conference/1996-04-2020-the-church-audit-committee-report-64k-eng.mp3" length="1906085" type="audio/mpeg"/>
+      <enclosure url="https://assets.churchofjesuschrist.org/db9d13a332e911ec83ebeeeeac1e20b3237be391-64k-en.mp3" length="2204735" type="audio/mpeg"/>
       <pubDate>Sat, 06 Apr 1996 14:00:00 -0700</pubDate>
+      <itunes:author>Ted E. Davis</itunes:author>
     </item>
     <item>
       <title>The Church Audit Committee Report</title>
-      <link>http://www.lds.org/general-conference/1997/04/the-church-audit-committee-report?lang=eng</link>
-      <description>The Church Audit Committee consists of three members who are independent of all Church officers, employees, departments, and Church-owned businesses and affiliates. We report directly to the First Presidency and have access to all records and personn</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/1997/04/the-church-audit-committee-report" schema-version="1" doc-id="general-conference_97905_000_010" doc-version="2" hash="Sc5LlA">
-  
-  <div class="heading" uri="/general-conference/1997/04/the-church-audit-committee-report.head">
-    <h1 class="title" pid="kvJ6Lg1WtU-1-_A5jwJdyw" hash="dXyfag">The Church Audit Committee Report</h1>
-    <p class="authorName" pid="F05G3LXn8UGLKY-p3BOd0A" hash="BHEkmw">Ted E. Davis</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/1997/04/the-church-audit-committee-report.t1">
-      <p class="para" uri="/general-conference/1997/04/the-church-audit-committee-report.p1" pid="Ko3aaP3vMEyXOXoTD_bjZQ" hash="5BBtGw">The Church Audit Committee consists of three members who are independent of all Church officers, employees, departments, and Church-owned businesses and affiliates. We report directly to the First Presidency and have access to all records and personnel necessary to perform our responsibilities.</p>
-      <p class="para" uri="/general-conference/1997/04/the-church-audit-committee-report.p2" pid="rubjDSjK1Ea3GKsc3LlNfA" hash="cBOfDg">The Church also has an auditing department that is independent of all other Church operations and departments. The Church Auditing Department is separate and independent from the Church Audit Committee. The Church Auditing Department’s staff consists of certified public accountants and other professionally qualified auditors. It has established procedures for audits of Church operations in accordance with recognized professional auditing standards. This includes monitoring of contributions and expenditures of local ecclesiastical units.</p>
-      <p class="para" uri="/general-conference/1997/04/the-church-audit-committee-report.p3" pid="XpPyKjGpxU-4QrxmCTc6Ug" hash="c0kdwQ">The Church Audit Committee has reviewed the financial policies and procedures that provide controls over contributions and expenditures of Church funds and that safeguard assets of the Church. We have also reviewed budgeting, accounting and reporting, and auditing systems and reports of the Church for the year ended 31 December 1996.</p>
-      <p class="para" uri="/general-conference/1997/04/the-church-audit-committee-report.p4" pid="Il2LfLdgs0SkWc3jdKZDJw" hash="yO2TjQ">Expenditures of Church funds for 1996 were authorized by the Council on the Disposition of the Tithes according to written policies. The Council is composed of the First Presidency, the Quorum of the Twelve Apostles, and the Presiding Bishopric, as prescribed under revelation. Administration of approved budgets is controlled through the Budget Department under the direction of the Appropriation and Budget Committees.</p>
-      <p class="para" uri="/general-conference/1997/04/the-church-audit-committee-report.p5" pid="SA3DOzCfqUyia2aPxVU78Q" hash="AqnEXQ">Church-owned businesses are managed by professionals who report to independent boards of directors that do not include General Authorities as members. These companies maintain their own accounting and reporting systems in compliance with accepted business practices and are audited by the Church Auditing Department and/or independent public accounting firms. The board of directors of Deseret Management Corporation consists of General Authorities, who monitor most Church-owned businesses. Brigham Young University and other institutions of higher education are audited by independent public accounting firms.</p>
-      <p class="para" uri="/general-conference/1997/04/the-church-audit-committee-report.p6" pid="1-TpJbsb9Eur4_EwOkGr8g" hash="rvUa7w">Based on our review of financial, budgeting, and other control policies and procedures, and our review of all audit reports issued in 1996 and responses thereto, the Church Audit Committee is of the opinion that, in all material respects, Church contributions received and expended during the year ended 31 December 1996 have been managed in accordance with established Church policies and procedures.</p>
-      <p class="para" uri="/general-conference/1997/04/the-church-audit-committee-report.closing">
-        <p class="closing">Respectfully submitted,</p>
-        <p class="closing">CHURCH AUDIT COMMITTEE</p>
-        <p class="signature">Frank M. McCord</p>
-      </p>
-    </div>
-  </div>
-</div>]]></content:encoded>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/1997/04/the-church-audit-committee-report?lang=eng</link>
+      <description><![CDATA[<header>
+<span class="page-break" data-page="21"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/46fceb5b8326d0219c9c5589567a5b2e98381b02/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/46fceb5b8326d0219c9c5589567a5b2e98381b02/full/%21192%2C/0/default" data-video-title="The Church Audit Committee Report" data-video-description="Presented by Ted E. Davis give The Church Audit Committee Report" data-video-id="2245800265001" data-ip="Download and Streaming                            " data-duration="230000" data-assetId="ac1c4909d98df70b63a17c415cc7069a192249fb" data-ref-id="ac1c4909d98df70b63a17c415cc7069a192249fb" data-duration-string="3:50" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/2245800265001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="480" data-height="360" data-file-size="19058373"/><source src="https://assets.churchofjesuschrist.org/ac1c4909d98df70b63a17c415cc7069a192249fb-360p-en.mp4" type="video/mp4" data-width="480" data-height="360" data-file-size="19058373"/></video><h1 data-aid="28802873" id="title1">The Church Audit Committee Report</h1>
+<div class="byline">
+<p class="author-name" data-aid="28802874" id="p1">Presented by Ted E. Davis</p>
+<p class="author-role" data-aid="150157531" id="author2">Chairman, Church Audit Committee</p>
+</div>
+</header>
+<div class="body-block">
+<p data-aid="28802875" id="p2">The Church Audit Committee consists of three members who are independent of all Church officers, employees, departments, and Church-owned businesses and affiliates. We report directly to the First Presidency and have access to all records and personnel necessary to perform our responsibilities.</p>
+<p data-aid="28802876" id="p3">The Church also has an auditing department that is independent of all other Church operations and departments. The Church Auditing Department is separate and independent from the Church Audit Committee. The Church Auditing Department’s staff consists of certified public accountants and other professionally qualified auditors. It has established procedures for audits of Church operations in accordance with recognized professional auditing standards. This includes monitoring of contributions and expenditures of local ecclesiastical units.</p>
+<p data-aid="28802877" id="p4">The Church Audit Committee has reviewed the financial policies and procedures that provide controls over contributions and expenditures of Church funds and that safeguard assets of the Church. We have also reviewed budgeting, accounting and reporting, and auditing systems and reports of the Church for the year ended 31 December 1996.</p>
+<p data-aid="28802878" id="p5">Expenditures of Church funds for 1996 were authorized by the Council on the Disposition of the Tithes according to written policies. The Council is composed of the First Presidency, the Quorum of the Twelve Apostles, and the Presiding Bishopric, as prescribed under revelation. Administration of approved budgets is controlled through the Budget Department under the direction of the Appropriations and Budget Committees.</p>
+<p data-aid="28802879" id="p6">Church-owned businesses are managed by professionals who report to independent boards of directors that do not include General Authorities as members. These companies maintain their own accounting and reporting systems in compliance with accepted business practices and are audited by the Church Auditing Department and/or independent public accounting firms. The board of directors of Deseret Management Corporation consists of General Authorities, who monitor most Church-owned businesses. Brigham Young University and other institutions of higher education are audited by independent public accounting firms.</p>
+<p data-aid="28802880" id="p7">Based on our review of financial, budgeting, and other control policies and procedures, and our review of all audit reports issued in 1996 and responses thereto, the Church Audit Committee is of the opinion that, in all material respects, Church contributions received and expended during the year ended 31 December 1996 have been managed in accordance with established Church policies and procedures.</p>
+<div class="closing-block">
+<p class="closing" data-aid="28802881" id="closing1">Respectfully submitted,</p>
+<p class="closing" data-aid="28802882" id="closing2">Church Audit Committee</p>
+<p class="signature" data-aid="150157532" id="p9">Ted E. Davis, Chairman</p>
+<p class="signature" data-aid="150157533" id="p10">Donald D. Salmon</p>
+<p class="signature" data-aid="28802883" id="p8">Frank M. McCord</p>
+</div>
+</div>]]></description>
       <guid isPermaLink="false">/general-conference/1997/04/the-church-audit-committee-report</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/april-1997-general-conference/1997-04-2010-the-church-audit-committee-report-64k-eng.mp3" length="1858137" type="audio/mpeg"/>
+      <enclosure url="https://assets.churchofjesuschrist.org/acd17ef032cc11ecac35eeeeac1e7c5904deec46-64k-en.mp3" length="2344113" type="audio/mpeg"/>
       <pubDate>Sat, 05 Apr 1997 14:00:00 -0700</pubDate>
+      <itunes:author>Ted E. Davis</itunes:author>
     </item>
     <item>
       <title>The Church Audit Committee Report</title>
-      <link>http://www.lds.org/general-conference/1998/04/the-church-audit-committee-report?lang=eng</link>
-      <description>To the First Presidency of The Church of Jesus Christ of Latter-day Saints</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/1998/04/the-church-audit-committee-report" schema-version="1" doc-id="general-conference_98905_000_010" doc-version="2" hash="TY82cA">
-  
-  <div class="heading" uri="/general-conference/1998/04/the-church-audit-committee-report.head">
-    <h1 class="title" pid="nLD-nDj7gkKV_WZJIFRjfw" hash="dXyfag">The Church Audit Committee Report</h1>
-    <p class="authorName" pid="LbhXmqE7m0yE0VGTTOkUrA" hash="BHEkmw">Ted E. Davis</p>
-    <p class="kicker" pid="6lRvPSPuXUexH_mIqN0T6w" hash="0QbxOQ">To the First Presidency of The Church of Jesus Christ of Latter-day Saints</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/1998/04/the-church-audit-committee-report.t1">
-      <p class="para" uri="/general-conference/1998/04/the-church-audit-committee-report.p1" pid="3daiKeaGkUaiqYc8ufYA0A" hash="zVF3YQ">Dear Brethren: The Church Audit Committee consists of three members who are independent of all Church officers, employees, departments, and Church-affiliated entities. We report directly to the First Presidency and have access to all records and personnel necessary to perform our responsibilities.</p>
-      <p class="para" uri="/general-conference/1998/04/the-church-audit-committee-report.p2" pid="3ISvss71VEOwYAiqLvAKKA" hash="sqgvQA">The Church also has an auditing department that is independent of all other Church operations and departments. The Church Auditing Department is separate from the Church Audit Committee. The Church Auditing Department’s staff consists of certified public accountants and other professionally qualified auditors. It has established procedures for audits of Church operations in accordance with recognized professional auditing standards. This includes monitoring contributions and expenditures of local ecclesiastical units.</p>
-      <p class="para" uri="/general-conference/1998/04/the-church-audit-committee-report.p3" pid="LYqdl-_oR0KILHQGhExkUA" hash="zREaGA">The Church Audit Committee has reviewed the financial policies and procedures that provide controls over contributions and expenditures of Church funds and that safeguard assets of the Church. We have also reviewed budgeting, accounting and reporting, and auditing systems for the year ended 31 December 1997. Expenditures of Church funds for 1997 were authorized by the Council on the Disposition of the Tithes according to written policies. The Council is composed of the First Presidency, the Quorum of the Twelve Apostles, and the Presiding Bishopric, as prescribed under revelation. Administration of approved budgets is controlled through the Budget Department under the direction of the Appropriation and Budget Committees.</p>
-      <p class="para" uri="/general-conference/1998/04/the-church-audit-committee-report.p4" pid="-CrqaAXSM0ik0e5fz4QG0Q" hash="HwqpSQ">Church-affiliated businesses are managed by professionals who report to independent boards of directors. These businesses maintain their own accounting and reporting systems in compliance with accepted business practices and are audited by the Church Auditing Department and/or independent public accounting firms. Brigham Young University and other institutions of higher education are audited by independent public accounting firms.</p>
-      <p class="para" uri="/general-conference/1998/04/the-church-audit-committee-report.p5" pid="2xtTaPu5VUyofhJfwLiY7g" hash="uNQqdA">Based upon our review of financial, budgeting, and other control policies and procedures, and our review of all audit reports issued in 1997 and responses thereto, the Audit Committee is of the opinion that, in all material respects, Church contributions received and expended during the year ended 31 December 1997 have been managed in accordance with revelation and established Church policies and procedures.</p>
-      <p class="para" uri="/general-conference/1998/04/the-church-audit-committee-report.closing">
-        <p class="closing">Respectfully submitted,</p>
-        <p class="closing">CHURCH AUDIT COMMITTEE</p>
-        <p class="signature">Frank M. McCord</p>
-      </p>
-    </div>
-  </div>
-</div>]]></content:encoded>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/1998/04/the-church-audit-committee-report?lang=eng</link>
+      <description><![CDATA[<header>
+<span class="page-break" data-page="21"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/84a9648e2490b22adffdb1c87b3e19df06abbffd/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/84a9648e2490b22adffdb1c87b3e19df06abbffd/full/%21192%2C/0/default" data-video-title="The Church Audit Committee Report" data-video-description="To the First Presidency of The Church of Jesus Christ of Latter-day Saints" data-video-id="6389229685112" data-ip="Download &amp; Streaming" data-duration="227000" data-assetId="08c97b56cbfc94a57ac271e826d540c5858841ac" data-ref-id="08c97b56cbfc94a57ac271e826d540c5858841ac" data-duration-string="3:47" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6389229685112.m3u8" type="application/vnd.apple.mpegurl" data-width="480" data-height="360" data-file-size="15073272"/><source src="https://assets.churchofjesuschrist.org/08c97b56cbfc94a57ac271e826d540c5858841ac-360p-en.mp4" type="video/mp4" data-width="480" data-height="360" data-file-size="15073272"/></video><h1 data-aid="28806236" id="title1">The Church Audit Committee Report</h1>
+<div class="byline">
+<p class="author-name" data-aid="28806237" id="p1">Presented by Ted E. Davis</p>
+<p class="author-role" data-aid="150157610" id="author2">Chairman, Church Audit Committee</p>
+</div>
+<p class="kicker" data-aid="28806238" id="kicker1">To the First Presidency of The Church of Jesus Christ of Latter-day Saints</p>
+</header>
+<div class="body-block">
+<p data-aid="28806239" id="p2">Dear Brethren: The Church Audit Committee consists of three members who are independent of all Church officers, employees, departments, and Church-affiliated entities. We report directly to the First Presidency and have access to all records and personnel necessary to perform our responsibilities.</p>
+<p data-aid="28806240" id="p3">The Church also has an auditing department that is independent of all other Church operations and departments. The Church Auditing Department is separate from the Church Audit Committee. The Church Auditing Department’s staff consists of certified public accountants and other professionally qualified auditors. It has established procedures for audits of Church operations in accordance with recognized professional auditing standards. This includes monitoring contributions and expenditures of local ecclesiastical units.</p>
+<p data-aid="28806241" id="p4">The Church Audit Committee has reviewed the financial policies and procedures that provide controls over contributions and expenditures of Church funds and that safeguard assets of the Church. We have also reviewed budgeting, accounting and reporting, and auditing systems for the year ended 31 December 1997. Expenditures of Church funds for 1997 were authorized by the Council on the Disposition of the Tithes according to written policies. The Council is composed of the First Presidency, the Quorum of the Twelve Apostles, and the Presiding Bishopric, as prescribed under revelation. Administration of approved budgets is controlled through the Budget Department under the direction of the Appropriations and Budget Committees.</p>
+<p data-aid="28806242" id="p5">Church-affiliated businesses are managed by professionals who report to independent boards of directors. These businesses maintain their own accounting and reporting systems in compliance with accepted business practices and are audited by the Church Auditing Department and/or independent public accounting firms. Brigham Young University and other institutions of higher education are audited by independent public accounting firms.</p>
+<p data-aid="28806243" id="p6">Based upon our review of financial, budgeting, and other control policies and procedures, and our review of all audit reports issued in 1997 and responses thereto, the Church Audit Committee is of the opinion that, in all material respects, Church contributions received and expended during the year ended 31 December 1997 have been managed in accordance with revelation and established Church policies and procedures.</p>
+<div class="closing-block">
+<p class="closing" data-aid="28806244" id="closing1">Respectfully submitted,</p>
+<p class="closing" data-aid="28806245" id="closing2">Church Audit Committee</p>
+<p class="signature" data-aid="150157611" id="p8">Ted E. Davis, Chairman</p>
+<p class="signature" data-aid="150157612" id="p9">Donald D. Salmon</p>
+<p class="signature" data-aid="28806246" id="p7">Frank M. McCord</p>
+</div>
+</div>]]></description>
       <guid isPermaLink="false">/general-conference/1998/04/the-church-audit-committee-report</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/april-1998-general-conference/1998-04-2020-the-church-audit-committee-report-64k-eng.mp3" length="1838075" type="audio/mpeg"/>
+      <enclosure url="https://assets.churchofjesuschrist.org/916bf26632d311eca4deeeeeac1e54b66b20d497-64k-en.mp3" length="2322494" type="audio/mpeg"/>
       <pubDate>Sat, 04 Apr 1998 14:00:00 -0700</pubDate>
+      <itunes:author>Ted E. Davis</itunes:author>
     </item>
     <item>
       <title>The Church Audit Committee Report</title>
-      <link>http://www.lds.org/general-conference/1999/04/the-church-audit-committee-report?lang=eng</link>
-      <description>To the First Presidency of The Church of Jesus Christ of Latter-day Saints</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/1999/04/the-church-audit-committee-report" schema-version="1" doc-id="general-conference_99260_000_010" doc-version="2" hash="U8nXAQ">
-  
-  <div class="heading" uri="/general-conference/1999/04/the-church-audit-committee-report.head">
-    <h1 class="title" pid="Yn55lsQLNkWyRiJHGMg7AQ" hash="dXyfag">The Church Audit Committee Report</h1>
-    <p class="authorName" pid="jO7nIWrPB0aRjcwcBWvE-A" hash="BHEkmw">Ted E. Davis</p>
-    <p class="kicker" pid="olHNksB6sE2K5MvtiRcs7Q" hash="0QbxOQ">To the First Presidency of The Church of Jesus Christ of Latter-day Saints</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/1999/04/the-church-audit-committee-report.t1">
-      <p class="para" uri="/general-conference/1999/04/the-church-audit-committee-report.p1" pid="H6qwgrqs-kWVGUhmiO4vlA" hash="ptLlLg">Dear Brethren: The Church Audit Committee consists of three members who are independent of all Church officers, employees, departments, and Church-affiliated organizations. We report directly to the First Presidency and have access to all records and personnel necessary to perform our responsibilities.</p>
-      <p class="para" uri="/general-conference/1999/04/the-church-audit-committee-report.p2" pid="OP4OasiSHk6iSQ27D2Xy9g" hash="CcFxbw">The Church also has an auditing department that is independent of all other Church operations and departments. The Church Auditing Department is separate and independent from the Church Audit Committee. The Church Auditing Department’s staff consists of certified public accountants and other professionally qualified auditors. The department audits the various financial statements of the Church in accordance with recognized professional auditing standards. It also monitors contributions and expenditures of local ecclesiastical units.</p>
-      <p class="para" uri="/general-conference/1999/04/the-church-audit-committee-report.p3" pid="KCQvDuL55kauY_3NDBmXvA" hash="8ja_2Q">The Church Audit Committee has reviewed the financial policies and procedures that provide controls over contributions and expenditures of Church funds and that safeguard assets of the Church. We have also reviewed budgeting, accounting and reporting, and auditing systems for the year ended 31 December 1998. Expenditures of Church funds for 1998 were authorized by the Council on the Disposition of the Tithes according to written policies. The Council is composed of the First Presidency, the Quorum of the Twelve Apostles, and the Presiding Bishopric, as prescribed under revelation. Administration of approved budgets is controlled through the Budget Department under direction of the Appropriation and Budget Committees.</p>
-      <p class="para" uri="/general-conference/1999/04/the-church-audit-committee-report.p4" pid="3nJ4ktabtEepcoCqFxw8OQ" hash="XBjTmA">Church-affiliated organizations, including Deseret Trust Companies and Deseret Management Corporation and its subsidiaries, report to independent boards of directors, maintain their own accounting systems in accordance with accepted business practices, and report in conformity with generally accepted accounting principles. These organizations are audited by the Church Auditing Department and/or independent public accounting firms. Brigham Young University and other institutions of higher education are also audited by independent public accounting firms.</p>
-      <p class="para" uri="/general-conference/1999/04/the-church-audit-committee-report.p5" pid="FRQ3jB18rkGu1_vrSqXnYQ" hash="jy6Fug">Based on our review of financial, budgeting, and other control policies and procedures, and our review of all audit reports issued in 1998 and responses thereto, the Church Audit Committee is of the opinion that, in all material respects, Church contributions received and expended during the year ended 31 December 1998 have been managed in accordance with revelation and established Church policies and procedures.</p>
-      <p class="para" uri="/general-conference/1999/04/the-church-audit-committee-report.closing">
-        <p class="closing">Respectfully submitted,</p>
-        <p class="closing">CHURCH AUDIT COMMITTEE</p>
-        <p class="signature">Frank M. McCord</p>
-      </p>
-    </div>
-  </div>
-</div>]]></content:encoded>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/1999/04/the-church-audit-committee-report?lang=eng</link>
+      <description><![CDATA[<header>
+<span class="page-break" data-page="21"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/8fbde53159061573e73b260568515128c62a4a54/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/8fbde53159061573e73b260568515128c62a4a54/full/%21192%2C/0/default" data-video-title="The Church Audit Committee Report" data-video-description="To the First Presidency of The Church of Jesus Christ of Latter-day Saints" data-video-id="2235693060001" data-ip="Download and Streaming                            " data-duration="235935" data-assetId="1511c2c4f144704fcd00b60e75d60521616d39a2" data-ref-id="1511c2c4f144704fcd00b60e75d60521616d39a2" data-duration-string="3:55" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/2235693060001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="480" data-height="360" data-file-size="15761628"/><source src="https://assets.churchofjesuschrist.org/1511c2c4f144704fcd00b60e75d60521616d39a2-360p-en.mp4" type="video/mp4" data-width="480" data-height="360" data-file-size="15761628"/></video><h1 data-aid="28809273" id="title1">The Church Audit Committee Report</h1>
+<div class="byline">
+<p class="author-name" data-aid="28809274" id="p1">Presented by Ted E. Davis</p>
+<p class="author-role" data-aid="150157696" id="author2">Chairman, Church Audit Committee</p>
+</div>
+<p class="kicker" data-aid="28809275" id="kicker1">To the First Presidency of The Church of Jesus Christ of Latter-day Saints</p>
+</header>
+<div class="body-block">
+<p data-aid="28809276" id="p2">Dear Brethren: The Church Audit Committee consists of three members who are independent of all Church officers, employees, departments, and Church-affiliated organizations. We report directly to the First Presidency and have access to all records and personnel necessary to perform our responsibilities.</p>
+<p data-aid="28809277" id="p3">The Church also has an auditing department that is independent of all other Church operations and departments. The Church Auditing Department is separate and independent from the Church Audit Committee. The Church Auditing Department’s staff consists of certified public accountants and other professionally qualified auditors. The department audits the various financial statements of the Church in accordance with recognized professional auditing standards. It also monitors contributions and expenditures of local ecclesiastical units.</p>
+<p data-aid="28809278" id="p4">The Church Audit Committee has reviewed the financial policies and procedures that provide controls over contributions and expenditures of Church funds and that safeguard assets of the Church. We have also reviewed budgeting, accounting and reporting, and auditing systems for the year ended 31 December 1998. Expenditures of Church funds for 1998 were authorized by the Council on the Disposition of the Tithes according to written policies. The Council is composed of the First Presidency, the Quorum of the Twelve Apostles, and the Presiding Bishopric, as prescribed under revelation. Administration of approved budgets is controlled through the Budget Department under direction of the Appropriation and Budget Committees.</p>
+<p data-aid="28809279" id="p5">Church-affiliated organizations, including Deseret Trust Companies and Deseret Management Corporation and its subsidiaries, report to independent boards of directors, maintain their own accounting systems in accordance with accepted business practices, and report in conformity with generally accepted accounting principles. These organizations are audited by the Church Auditing Department and/or independent public accounting firms. Brigham Young University and other institutions of higher education are also audited by independent public accounting firms.</p>
+<p data-aid="28809280" id="p6">Based on our review of financial, budgeting, and other control policies and procedures, and our review of all audit reports issued in 1998 and responses thereto, the Church Audit Committee is of the opinion that, in all material respects, Church contributions received and expended during the year ended 31 December 1998 have been managed in accordance with revelation and established Church policies and procedures.</p>
+<div class="closing-block">
+<p class="closing" data-aid="28809281" id="closing1">Respectfully submitted,</p>
+<p class="closing" data-aid="28809282" id="closing2">Church Audit Committee</p>
+<p class="signature" data-aid="150157698" id="p7">Ted E. Davis, Chairman</p>
+<p class="signature" data-aid="150157700" id="p8">Donald D. Salmon</p>
+<p class="signature" data-aid="28809283" id="p9">Frank M. McCord</p>
+</div>
+</div>]]></description>
       <guid isPermaLink="false">/general-conference/1999/04/the-church-audit-committee-report</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/april-1999-general-conference/1999-04-2020-the-church-audit-committee-report-64k-eng.mp3" length="1904948" type="audio/mpeg"/>
+      <enclosure url="https://assets.churchofjesuschrist.org/9dab882a32e911ec89b6eeeeac1e02ba7c2f03ba-64k-en.mp3" length="2420583" type="audio/mpeg"/>
       <pubDate>Sat, 03 Apr 1999 14:00:00 -0700</pubDate>
+      <itunes:author>Ted E. Davis</itunes:author>
     </item>
     <item>
       <title>The Church Audit Committee Report</title>
-      <link>http://www.lds.org/general-conference/2000/04/the-church-audit-committee-report?lang=eng</link>
-      <description>&lt;div type="article" uri="/general-conference/2000/04/the-church-audit-committee-report" schema-version="1" doc-id="general-conference_PD10033256_000_010" doc-version="2" hash="Fi45rg"&gt;
-  
-  &lt;div class="heading" uri="/general-conference/2000/04/the-church-audit-committee-report.head"&gt;
-    &lt;h1 class="title" pid="uK030cF07kuPEn-kb_MUfg" hash="dXyfag"&gt;The Church Audit Committee Report&lt;/h1&gt;
-    &lt;p class="authorName" pid="GKbegTNyV0iwXGxEFI508A" hash="BHEkmw"&gt;Ted E. Davis&lt;/p&gt;
-  &lt;/div&gt;
-  &lt;div class="bodyBlock"&gt;
-    &lt;div class="topic" uri="/general-conference/2000/04/the-church-audit-committee-report.t1"&gt;
-      &lt;p class="para" uri="/general-conference/2000/04/the-church-audit-committee-report.p1" pid="VkZx8w0Oo0CZP5Srv1zX3w" hash="0QbxOQ"&gt;
-        &lt;span class="emphasis"&gt;To the First Presidency of The Church of Jesus Christ of Latter-day Saints&lt;/span&gt;
-      &lt;/p&gt;
-      &lt;p class="para" uri="/general-conference/2000/04/the-church-audit-committee-report.p2" pid="c5odxPSWlkSAIHZdx-to7g" hash="H0FbEA"&gt;Dear Brethren: The Church Audit Committee consists of three members who are independent of all Church officers, employees, departments, and Church-affiliated organizations. We report directly to the First Presidency and have access to Church records and personnel necessary to perform our responsibilities.&lt;/p&gt;
-      &lt;p class="para" uri="/general-conference/2000/04/the-church-audit-committee-report.p3" pid="3r-RKkMF3U-aLSzkwjQUjw" hash="yD3bdA"&gt;The Church Auditing Department is separate and independent from the Church Audit Committee. This department performs internal audits of worldwide Church operations and audits the various financial statements of the Church in accordance with recognized professional auditing standards. It also monitors contributions and expenditures of local ecclesiastical units.&lt;/p&gt;
-      &lt;p class="para" uri="/general-conference/2000/04/the-church-audit-committee-report.p4" pid="oefDPzHW-Ee4cwrHD1TyYA" hash="UKd0UQ"&gt;The Church Audit Committee has reviewed the controls over contributions and expenditures of Church funds that safeguard assets of the Church. We have also reviewed budgeting, accounting and reporting, and auditing systems for the year ended 31 December 1999. Expenditures of Church funds for 1999 were authorized by the Council on the Disposition of the Tithes according to written policies. This Council is composed of the First Presidency, the Quorum of the Twelve Apostles, and the Presiding Bishopric, as prescribed under revelation. Administration of approved budgets is controlled through the Budget Department under direction of the Appropriation and Budget Committees.&lt;/p&gt;
-      &lt;p class="para" uri="/general-conference/2000/04/the-church-audit-committee-report.p5" pid="4LTGp1mIQ0-ogWEJF5jeuw" hash="ZuKqsQ"&gt;Based on our review of financial, budgeting, and other controls and our review of Church audit reports for 1999 and responses thereto, the Church Audit Committee is of the opinion that, in all material respects, Church contributions received and expended during the year ended 31 December 1999 have been managed in accordance with revelation and established Church policies and procedures.&lt;/p&gt;
-      &lt;p class="para" uri="/general-conference/2000/04/the-church-audit-committee-report.p6" pid="XrllppD8UEOxBO1epGBBsg" hash="ktPKdQ"&gt;Church-affiliated organizations, including Deseret Trust Company and Deseret Management Corporation and its subsidiaries, are operated separately from the Church. The financial activities of these affiliated organizations were not reviewed by the Church Audit Committee in 1999. However, we have verified that these organizations, as well as Brigham Young University and other institutions of higher education, are being audited annually by independent public accounting firms.&lt;/p&gt;
-      &lt;p class="para" uri="/general-conference/2000/04/the-church-audit-committee-report.closing"&gt;
-        &lt;p class="closing"&gt;Respectfully submitted,&lt;/p&gt;
-        &lt;p class="closing"&gt;CHURCH AUDIT COMMITTEE&lt;/p&gt;
-        &lt;p class="signature"&gt;Frank M. McCord&lt;/p&gt;
-      &lt;/p&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;</description>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2000/04/the-church-audit-committee-report?lang=eng</link>
+      <description><![CDATA[<header>
+<span class="page-break" data-page="21"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/fb995f292bf056479899af849aae0ec8109fef57/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/fb995f292bf056479899af849aae0ec8109fef57/full/%21192%2C/0/default" data-video-title="The Church Audit Committee Report" data-video-description="April 2000 church auditing report" data-video-id="2245710138001" data-ip="Download and Streaming                            " data-duration="220286" data-assetId="36c31e23542415cf6c480b9539bedbf4c01dbcf8" data-ref-id="36c31e23542415cf6c480b9539bedbf4c01dbcf8" data-duration-string="3:40" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/2245710138001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="480" data-height="360" data-file-size="11931329"/><source src="https://assets.churchofjesuschrist.org/36c31e23542415cf6c480b9539bedbf4c01dbcf8-360p-en.mp4" type="video/mp4" data-width="480" data-height="360" data-file-size="11931329"/></video><h1 data-aid="28812337" id="title1">The Church Audit Committee Report</h1>
+<div class="byline">
+<p class="author-name" data-aid="28812338" id="p1">Presented by Ted E. Davis</p>
+<p class="author-role" data-aid="150294460" id="author2">Chairman, Church Audit Committee</p>
+</div>
+</header>
+<div class="body-block">
+<p data-aid="28812339" id="p2"><em>To the First Presidency of The Church of Jesus Christ of Latter-day Saints</em></p>
+<p data-aid="28812340" id="p3">Dear Brethren: The Church Audit Committee consists of three members who are independent of all Church officers, employees, departments, and Church-affiliated organizations. We report directly to the First Presidency and have access to Church records and personnel necessary to perform our responsibilities.</p>
+<p data-aid="28812341" id="p4">The Church Auditing Department is separate and independent from the Church Audit Committee. This department performs internal audits of worldwide Church operations and audits the various financial statements of the Church in accordance with recognized professional auditing standards. It also monitors contributions and expenditures of local ecclesiastical units.</p>
+<p data-aid="28812342" id="p5">The Church Audit Committee has reviewed the controls over contributions and expenditures of Church funds that safeguard assets of the Church. We have also reviewed budgeting, accounting and reporting, and auditing systems for the year ended 31 December 1999. Expenditures of Church funds for 1999 were authorized by the Council on the Disposition of the Tithes according to written policies. This Council is composed of the First Presidency, the Quorum of the Twelve Apostles, and the Presiding Bishopric, as prescribed under revelation. Administration of approved budgets is controlled through the Budget Department under direction of the Appropriation and Budget Committees.</p>
+<p data-aid="28812343" id="p6">Based on our review of financial, budgeting, and other controls and our review of Church audit reports for 1999 and responses thereto, the Church Audit Committee is of the opinion that, in all material respects, Church contributions received and expended during the year ended 31 December 1999 have been managed in accordance with revelation and established Church policies and procedures.</p>
+<p data-aid="28812344" id="p7">Church-affiliated organizations, including Deseret Trust Company and Deseret Management Corporation and its subsidiaries, are operated separately from the Church. The financial activities of these affiliated organizations were not reviewed by the Church Audit Committee in 1999. However, we have verified that these organizations, as well as Brigham Young University and other institutions of higher education, are being audited annually by independent public accounting firms.</p>
+<div class="closing-block">
+<p class="closing" data-aid="28812345" id="closing1">Respectfully submitted,</p>
+<p class="closing" data-aid="28812346" id="closing2">Church Audit Committee</p>
+<p class="signature" data-aid="150294461" id="p9">Ted E. Davis, Chairman</p>
+<p class="signature" data-aid="150294463" id="p10">Donald D. Salmon</p>
+<p class="signature" data-aid="28812347" id="p8">Frank M. McCord</p>
+</div>
+</div>]]></description>
       <guid isPermaLink="false">/general-conference/2000/04/the-church-audit-committee-report</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/april-2000-general-conference/2000-04-2020-the-church-audit-committee-report-64k-eng.mp3" length="1771672" type="audio/mpeg"/>
+      <enclosure url="https://assets.churchofjesuschrist.org/56e9109232f011ecbcf7eeeeac1e744eb9bf5757-64k-en.mp3" length="2277921" type="audio/mpeg"/>
       <pubDate>Sat, 01 Apr 2000 14:00:00 -0700</pubDate>
+      <itunes:author>Ted E. Davis</itunes:author>
     </item>
   </channel>
 </rss>

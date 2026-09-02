@@ -1,131 +1,95 @@
 <!doctype html>
-<html lang="en" ng-app="speakercastApp">
+<html lang="en">
 <head>
   <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Speakercast — A podcast for your favorite General Conference speakers</title>
+  <meta name="description" content="Speakercast creates a podcast feed for every General Conference speaker, so you can listen to all of a speaker's talks in one place.">
 
-  <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+  <meta property="og:title" content="Speakercast">
+  <meta property="og:description" content="A podcast for every General Conference speaker.">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="assets/images/cover.jpg">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap">
   <link rel="stylesheet" href="assets/css/style.css">
-
-  <script src="assets/js/angular.min.js"></script>
-  <script src="assets/js/controller.js"></script>
-  <title>Speakercast</title>
 </head>
-<body ng-controller="SpeakerController" bs-breakpoint>
-  <div>
-    <section class="intro-section triangle" id="intro-section">
-      <div class="container">
-          <span class="logo">Speakercast</span>
-          <p class="lead subtitle">A podcast for your favorite speakers</p>
+<body>
+
+<header class="hero triangle">
+  <h1 class="logo">Speakercast</h1>
+  <p class="tagline">A podcast for your favorite speakers</p>
+</header>
+
+<section class="about">
+  <p>
+    Speakercast lets you listen to all of the General Conference talks from your favorite
+    speakers. Pick a name to get a personalized podcast feed of their talks.
+  </p>
+</section>
+
+<main class="feeds triangle">
+  <div class="container">
+
+    <section class="panel" id="leaders" hidden>
+      <h2 class="panel-heading">Current Apostles</h2>
+      <div class="panel-body">
+        <div class="group" id="first-presidency"></div>
+        <div class="group" id="twelve-apostles"></div>
       </div>
     </section>
 
-    <section class="about-section">
-      <div class="container">
-        <div class="row">
-          <p class="lead subtitle">Speakercast allows you to listen to all of the talks from your favorite General Conference speakers. Click on a name to create a personalized podcast with their talks.</p>
+    <section class="panel">
+      <h2 class="panel-heading">All General Conference Speakers</h2>
+      <div class="panel-body">
+        <div class="controls">
+          <label class="search">
+            <span class="visually-hidden">Search speaker name</span>
+            <input type="search" id="search" placeholder="Search speaker name" autocomplete="off">
+          </label>
+          <div class="sort" role="group" aria-label="Sort speakers">
+            <span>Sort by:</span>
+            <button type="button" class="sort-button is-active" data-sort="name">Alphabetically</button>
+            <button type="button" class="sort-button" data-sort="count">Number of talks</button>
+          </div>
         </div>
+        <p class="status" id="status" role="status">Loading speakers…</p>
+        <div class="group" id="all-speakers"></div>
       </div>
     </section>
 
-    <section class="feed-section triangle" id="feed-section">
-      <div class="container">
-        <div class="row">
-          <div class="col-sm-12">
-            <div class="panel-group" id="accordion" role="tablist">
-              <div class="panel panel-orange">
-                <div class="panel-heading" role="tab">
-                  <h4 class="panel-title">Current Apostles</h4>
-                </div>
-                <div class="" role="tabpanel">
-                  <div class="panel-body ng-cloak">
-                    <div class="row first-presidency">
-                      <div class="col-md-4 col-sm-6 checkbox" ng-repeat="speaker in first_presidency | orderBy:'index'">
-                        <a href class="speaker-link" ng-click="feed(speaker.name)">{{speaker.name}} <span class="badge">{{speaker.count}}</span></a>
-                      </div>
-                    </div>
-                    <div class="row twelve-apostles">
-                      <div class="col-md-4 col-sm-6" ng-repeat="speaker in twelve_apostles | orderBy:'index'" my-repeat-directive>
-                        <a href class="speaker-link" ng-click="feed(speaker.name)">{{speaker.name}} <span class="badge">{{speaker.count}}</span></a>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="panel panel-orange" id="last-panel">
-                <div class="panel-heading" role="tab">
-                  <h4 class="panel-title">All General Conference Speakers</h4>
-                </div>
-                <div role="tabpanel" aria-labelledby="headingTwo">
-                  <div class="panel-body ng-cloak">
-                    <div class="row speaker-controls">
-                      <div class="col-sm-6 speaker-search">
-                        <form>
-                          <input type="text" id="speaker-search" class="form-control" ng-model="searchText" onkeydown="onkeypressed(event, this);" placeholder="Search Speaker Name">
-                        </form>
-                      </div>
-                      <div class="col-sm-6 sortable-container">
-                        <span>Sort by:</span><a href class="sortable" ng-click="sortBy(getLastName, false)">Alphabetically</a>|<a href class="sortable" ng-click="sortBy('count', true)">Number of talks</a>
-                      </div>
-                    </div>
-                    <div class="row">
-                      <div class="col-md-4 col-sm-6" ng-repeat="speaker in speakers | filter:searchText">
-                        <a href ng-click="feed(speaker.name)" class="speaker-link">{{speaker.name}} <span class="badge">{{speaker.count}}</span></a>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <section class="footer-section" id="footer-section">
-      <div class="container">
-        <div class="row">
-          <div class="col-sm-12">
-            <p>Created by Philip Lundrigan.</p>
-            <p>View on <a href="https://github.com/philipbl/SpeakerCast">Github</a>.</p>
-            <p>This site is not affiliated with The Church of Jesus Christ of Latter-day Saints.</p>
-          </div>
-        </div>
-      </div>
-    </section>
-    <div id="feed-modal" class="modal fade" tabindex="-1" role="dialog">
-      <div class="modal-dialog feed-dialog" role="document">
-        <div class="modal-content">
-          <div class="modal-header">
-            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-            <h4 class="modal-title">Subscribe</h4>
-          </div>
-          <div class="modal-body">
-            <p>Subscribe using the following apps:</p>
-            <p><img src="assets/images/castro.svg" alt="Castro" class="app-icon"><a href="{{castroLink}}">Castro</a></p>
-            <p><img src="assets/images/downcast.svg" alt="Downcast" class="app-icon"><a href="{{downcastLink}}">Downcast</a></p>
-            <p><img src="assets/images/itunes.jpg" alt="iTunes" class="app-icon"><a href="{{itunesLink}}">iTunes (Mac)</a></p>
-            <p><img src="assets/images/pocket_casts.svg" alt="Pocket Casts" class="app-icon"><a href="{{pocketcastsLink}}">Pocket Casts</a></p>
-            <p><img src="assets/images/podcasts.png" alt="Podcasts" class="app-icon"><a href="{{podcastsLink}}">Podcasts</a></p>
-            <p><img src="assets/images/overcast.svg" alt="Overcast" class="app-icon"><a href="{{overcastLink}}">Overcast</a></p>
-            <p>Or use this link to subscribe:</p>
-            <div class="input-group">
-              <input type="text" class="form-control" id="copy-input" value="{{link}}">
-              <span class="input-group-btn">
-                <button class="btn btn-default copy-button" type="button" data-clipboard-target="#copy-input"><img class="clippy" src="assets/images/clippy.svg" width="13" alt="Copy to clipboard"></button>
-              </span>
-            </div>
-          </div>
-        </div><!-- /.modal-content -->
-      </div><!-- /.modal-dialog -->
-    </div><!-- /.modal -->
   </div>
+</main>
 
-  <script src="assets/js/jquery-2.1.4.min.js"></script>
-  <script src="assets/js/bootstrap.min.js"></script>
-  <script src="assets/js/clipboard.min.js"></script>
-  <script type="text/javascript">
-    new Clipboard('.copy-button');
-  </script>
+<footer class="site-footer">
+  <p>Created by Philip Lundrigan.</p>
+  <p>View on <a href="https://github.com/philipbl/Speakercast">GitHub</a>.</p>
+  <p class="disclaimer">This site is not affiliated with The Church of Jesus Christ of Latter-day Saints.</p>
+</footer>
+
+<dialog id="subscribe">
+  <form method="dialog" class="dialog-close-form">
+    <button class="dialog-close" aria-label="Close">&times;</button>
+  </form>
+  <h2 id="subscribe-title">Subscribe</h2>
+  <p>Subscribe using one of these apps:</p>
+  <ul class="apps">
+    <li><a data-app="overcast"><img src="assets/images/overcast.svg" alt="" width="40" height="40">Overcast</a></li>
+    <li><a data-app="pocketcasts"><img src="assets/images/pocket_casts.svg" alt="" width="40" height="40">Pocket Casts</a></li>
+    <li><a data-app="podcasts"><img src="assets/images/podcasts.png" alt="" width="40" height="40">Apple Podcasts</a></li>
+    <li><a data-app="castro"><img src="assets/images/castro.svg" alt="" width="40" height="40">Castro</a></li>
+    <li><a data-app="downcast"><img src="assets/images/downcast.svg" alt="" width="40" height="40">Downcast</a></li>
+    <li><a data-app="itunes"><img src="assets/images/itunes.jpg" alt="" width="40" height="40">iTunes (Mac)</a></li>
+  </ul>
+  <p>Or copy the feed address:</p>
+  <div class="copy-row">
+    <input type="text" id="feed-url" readonly>
+    <button type="button" id="copy-button">Copy</button>
+  </div>
+</dialog>
+
+<script src="assets/js/app.js"></script>
 </body>
 </html>

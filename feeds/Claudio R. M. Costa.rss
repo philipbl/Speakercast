@@ -1,562 +1,618 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Talks By Claudio R. M. Costa</title>
-    <link>http://philip.lundrigan.org/Speakercast/</link>
+    <link>https://philip.lundrigan.org/Speakercast/</link>
     <description>General Conference talks by Claudio R. M. Costa.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Speakercast</generator>
     <image>
-      <url>http://philip.lundrigan.org/Speakercast/covers/Claudio%20R.%20M.%20Costa.jpg</url>
+      <url>https://philip.lundrigan.org/Speakercast/covers/Claudio%20R.%20M.%20Costa.jpg</url>
       <title>General Conference talks by Claudio R. M. Costa.</title>
-      <link>http://philip.lundrigan.org/Speakercast/</link>
+      <link>https://philip.lundrigan.org/Speakercast/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Oct 1994 14:00:00 -0700</lastBuildDate>
-    <pubDate>Sat, 01 Oct 1994 14:00:00 -0700</pubDate>
+    <lastBuildDate>Sun, 04 Oct 2015 10:00:00 -0600</lastBuildDate>
+    <pubDate>Sun, 04 Oct 2015 10:00:00 -0600</pubDate>
+    <itunes:author>Claudio R. M. Costa</itunes:author>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
+    <itunes:image href="https://philip.lundrigan.org/Speakercast/covers/Claudio%20R.%20M.%20Costa.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>General Conference talks by Claudio R. M. Costa.</itunes:summary>
     <item>
       <title>Priceless Principles for Success</title>
-      <link>http://www.lds.org/general-conference/1994/10/priceless-principles-for-success?lang=eng</link>
-      <description>Dear brothers and sisters, I am grateful to my Heavenly Father for having sent me to this earth to loving parents who, from my boyhood, taught me the priceless principles of righteousness, honesty, faithfulness, and how to work.</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/1994/10/priceless-principles-for-success" dup-conf="false" dup-mag="false" schema-version="1" doc-id="general-conference_94911_000_012" doc-version="2" hash="eQAQ9g"><div class="heading" uri="/general-conference/1994/10/priceless-principles-for-success.head1"><h1 class="title" pid="dh1nA64bSUqF8-EMupf6Fw" hash="dM5EFQ">Priceless Principles for Success</h1><p class="authorName" guid="c2781fd4-c761-4070-8c87-e19b2192131d" pid="9fnvbNaKHUKoxtuTSuPwdg" hash="bUG7Tw">Claudio R. M. Costa</p></div><div class="bodyBlock" guid="f311a285-0754-429a-bc97-1965bedb6b1a">
-		<div class="topic" uri="/general-conference/1994/10/priceless-principles-for-success.t1">
-			<img pid="-2BoqlsTuUG79zlwbN-5Vg" hash="AAAAAA" />
-			<p class="para" uri="/general-conference/1994/10/priceless-principles-for-success.p" pid="YYXkO8DTiUKDMkiOi07rvA" hash="SxmLVw">Dear brothers and sisters, I am grateful to my Heavenly Father for having sent me to this earth to loving parents who, from my boyhood, taught me the priceless principles of righteousness, honesty, faithfulness, and how to work.</p>
-			<p class="para" uri="/general-conference/1994/10/priceless-principles-for-success.p" pid="Xq6W3HXS1kW80mMGX0HRwA" hash="6Y6vVg">I was born into a poor family, and early in my life I had to work. This has been a great blessing to me. When I was twelve years old, I had to go to evening school because I worked ten hours during the day. Many times on the way to school I would sleep on the bus or train. Sometimes I would even fall asleep during class. However, upon arriving home late at night, I would always find my loving parents waiting for me.</p>
-			<p class="para" uri="/general-conference/1994/10/priceless-principles-for-success.p" pid="jNRRuM3QCkS9YmGg-gaIWA" hash="_NOZWQ">At that time all I wanted in life was to become a successful man, which to me meant having many material possessions, comfort, and a life of ease. With this as a goal, I went on working and studying.</p>
-			<p class="para" uri="/general-conference/1994/10/priceless-principles-for-success.p" pid="lrEWhdzA6EOS0z-2hb8DPg" hash="rULzrw">After I was baptized into the Church, I came to understand the true meaning of success. Being successful means to be a servant of God, serving our fellowmen, being truly committed to the gospel of Jesus Christ, and keeping the commandments of God.</p>
-			<p class="para" uri="/general-conference/1994/10/priceless-principles-for-success.p" pid="z0Ea8SjGS0-5MrhlwhE3YQ" hash="TRISdg">During the time I presided over the Brazil Manaus Mission, I witnessed great examples of true success, stories which came from people truly devoted to the gospel and to their covenants with God.</p>
-			<p class="para" uri="/general-conference/1994/10/priceless-principles-for-success.p" pid="o3ocXI2xh0yCbXRy5JIjgA" hash="WvzKDQ">One man I met lived simply in a tiny, little town in the middle of the Amazon. After being baptized with his family, he could hardly wait to complete a year’s membership in the Church so he could take his wife and children to the temple. The São Paulo Brazil Temple is very far from the Amazon. It usually takes four days by boat and four days by bus to get to the temple—about a week’s travel. This man was a cabinetmaker. How could he save enough money to pay for himself, his wife, and his children? Although he worked hard for many months, he made very little money.</p>
-			<p class="para" uri="/general-conference/1994/10/priceless-principles-for-success.p" pid="pwgke9QvFE2NAFOJxAX2TQ" hash="YAz8_g">When the time came to go to the temple, he sold all his furniture and appliances, even his electric saw and his only means of transportation, a motorcycle—everything he had—and went to the temple with his wife and children. It required eight days of travel to reach São Paulo. After spending four glorious days in the temple doing the work of the Lord, this family then had to travel seven more days to return to their home. But they went back home happy, feeling that their difficulties and struggles were nothing compared to the great happiness and blessings they had experienced in the house of the Lord.</p>
-			<p class="para" uri="/general-conference/1994/10/priceless-principles-for-success.p" pid="9ec6anoPdkKA8qHXNZTRew" hash="tR65vg">During my mission, I met missionaries—young men and women—who for me were examples of true success. They were so faithful and excited about the gospel that they were never bothered by the scorching high temperatures and excessive humidity of the Amazon climate. They were truly angelic messengers carrying the gospel message to the people of northern Brazil.</p>
-			<p class="para" uri="/general-conference/1994/10/priceless-principles-for-success.p" pid="2sNskScMRESkwLNGaRBOdg" hash="o8FbaQ">I remember a faithful and devoted member of the Church who was always in a good mood and always smiling. But one day I saw him crying. He told me the reason he was sad was because, at the age of seventy, he saw himself as a failure for having never been able to give his family the material comforts he felt they deserved.</p>
-			<p class="para" uri="/general-conference/1994/10/priceless-principles-for-success.p" pid="FEZaFPhgV0C8IMxtfxU2FA" hash="wF-SmA">I asked him, “How many children do you have?” He answered, “Four.” I continued, “How many are members of the Church?” He said, “Four.” I asked further, “How many are faithful members of the Church?” His answer: “Four.” “How many are sealed to you?” “Four.” “How many have married in the temple?” Again his answer was “Four.” Then, moved by the Spirit, I told him that the success he had achieved in his life was one of the greatest success stories I had ever heard.</p>
-			<p class="para" uri="/general-conference/1994/10/priceless-principles-for-success.p" pid="SBmPCytCKEi2BV3EaKgqCQ" hash="BGIgWQ">I have learned much from the scriptures about success. It is wonderful to read about the journey of Lehi and his family to the promised land. Of Lehi’s older sons, Nephi and Sam, through their faithfulness to the Lord, charted their course for true success. For them, being successful meant being faithful in following the Lord’s commandments. Through their example the lives of millions of people have been blessed to this date. And because of their obedience, many people have followed the path of truth and righteousness, striving to be worthy of the Spirit of the Lord in their lives.</p>
-			<p class="para" uri="/general-conference/1994/10/priceless-principles-for-success.p" pid="9T-6qHbtH0u9Zo8wabvWMQ" hash="vt_rfg">I often think about the rich young man who approached the Master to ask Him what he should do to gain eternal life. Upon receiving the answer that eternal life meant giving up his riches and following the Lord, he turned his back and went away sorrowful because he was unwilling to forsake his many possessions.</p>
-			<p class="para" uri="/general-conference/1994/10/priceless-principles-for-success.p" pid="tgxLHy3mkkK7wMjOuNtftQ" hash="E3JnCw">I am grateful to the Lord for having touched my heart and for helping me to choose the better part—that which, so long as I strive for worthiness, cannot be taken from me. Being faithful to God as worthy members of His church, learning about Him and how to truly follow and worship Him, is more priceless than gold, silver, or diamonds.</p>
-			<p class="para" uri="/general-conference/1994/10/priceless-principles-for-success.p" pid="65a88tZaek-lGHmiUucimQ" hash="ysb5CQ">The General Authorities of the Church, for whom I am most grateful, are true heroes for me. I had been a member of the Church for just one week when I met my first General Authority, Elder Royden G. Derrick, a member of the Seventy. I shall never forget the challenge he presented to the members of the Church to be exemplary in all aspects of our lives.</p>
-			<p class="para" uri="/general-conference/1994/10/priceless-principles-for-success.p" pid="D4_eOiAXak-vc68aOK1MJw" hash="Puy0Ug">I shall always remember the counsel given by our beloved President Spencer W. Kimball about not only spiritual matters but also how to manage our temporal lives. I have followed his counsel, and I am happy and grateful for the protection that comes from hearkening to the words of the prophets, Apostles, my Brethren of the Quorum, and my local leaders. Only when we keep the commandments of the Lord and do His will can we feel totally safe. I know that God lives. Jesus is the Christ, our Savior and Redeemer. Joseph Smith was a prophet of God. I know that we are guided by a prophet today. I testify to you that President Howard W. Hunter is a prophet of God. My testimony is renewed every time I hear and follow his counsel. My life has been very blessed through the gospel. For this I am most grateful, in the name of Jesus Christ, amen.</p>
-		</div>
-	</div><div class="resources">
-		<img pid="GGbjWYcveEWH8fPAi0L7oA" hash="AAAAAA1" />
-		<unknown name="digitalAssets" guid="">
-			<unknown name="assetGroup" guid="">
-				<unknown name="path" guid="5d8e1684-c995-44cb-95e4-698582ba2c7f"></unknown>
-			</unknown>
-		</unknown>
-	</div></div>]]></content:encoded>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/1994/10/priceless-principles-for-success?lang=eng</link>
+      <description><![CDATA[<header>
+<span class="page-break" data-page="27"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/cfbf8d01a0ac5dd7e51dfef747cb2fae309e36ef/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/cfbf8d01a0ac5dd7e51dfef747cb2fae309e36ef/full/%21192%2C/0/default" data-video-title="Priceless Principles for Success" data-video-description="Elder Claudio R. M. Costa delivers a message titled &quot;Priceless Principles for Success.&quot;" data-video-id="6389392031112" data-ip="Download &amp; Streaming" data-duration="453920" data-assetId="b08e05158a5f2dbabfc55441908b3d47fb3c7f40" data-ref-id="b08e05158a5f2dbabfc55441908b3d47fb3c7f40" data-duration-string="7:33" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6389392031112.m3u8" type="application/vnd.apple.mpegurl" data-width="480" data-height="360" data-file-size="24736055"/><source src="https://assets.churchofjesuschrist.org/b08e05158a5f2dbabfc55441908b3d47fb3c7f40-360p-en.mp4" type="video/mp4" data-width="480" data-height="360" data-file-size="24736055"/></video><h1 data-aid="28795009" id="title1">Priceless Principles for Success</h1>
+<div class="byline">
+<p class="author-name" data-aid="28795010" id="p1">By Elder Claudio R. M. Costa</p>
+<p class="author-role" data-aid="28795011" id="p2">Of the Seventy</p>
+<div class="image-cropper"><img alt="Elder Claudio R. M. Costa" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/b4bde6f94061aaefc979b6372b63ba97b8c1e20b/full/%21100%2C/0/default" data-assetId="b4bde6f94061aaefc979b6372b63ba97b8c1e20b" srcset="https://www.churchofjesuschrist.org/imgs/b4bde6f94061aaefc979b6372b63ba97b8c1e20b/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/b4bde6f94061aaefc979b6372b63ba97b8c1e20b/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/b4bde6f94061aaefc979b6372b63ba97b8c1e20b/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/b4bde6f94061aaefc979b6372b63ba97b8c1e20b/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/b4bde6f94061aaefc979b6372b63ba97b8c1e20b/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/b4bde6f94061aaefc979b6372b63ba97b8c1e20b/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/b4bde6f94061aaefc979b6372b63ba97b8c1e20b/full/%21640%2C/0/default 640w" data-img-id="b4bde6f94061aaefc979b6372b63ba97b8c1e20b" data-missing-asset="false" data-width="100" data-height="125" data-aspect-ratio="0.8" data-public-title="Costa, Claudio R. M." data-public-description="Former Official portrait of Elder Claudio R. M. Costa.  Replaced March 2017"/></div>
+</div>
+</header>
+<div class="body-block">
+<p data-aid="28795012" id="p3">Dear brothers and sisters, I am grateful to my Heavenly Father for having sent me to this earth to loving parents who, from my boyhood, taught me the priceless principles of righteousness, honesty, faithfulness, and how to work.</p>
+<p data-aid="28795013" id="p4">I was born into a poor family, and early in my life I had to work. This has been a great blessing to me. When I was twelve years old, I had to go to evening school because I worked ten hours during the day. Many times on the way to school I would sleep on the bus or train. Sometimes I would even fall asleep during class. However, upon arriving home late at night, I would always find my loving parents waiting for me.</p>
+<p data-aid="28795014" id="p5">At that time all I wanted in life was to become a successful man, which to me meant having many material possessions, comfort, and a life of ease. With this as a goal, I went on working and studying.</p>
+<p data-aid="28795015" id="p6">After I was baptized into the Church, I came to understand the true meaning of success. Being successful means to be a servant of God, serving our fellowmen, being truly committed to the gospel of Jesus Christ, and keeping the commandments of God.</p>
+<p data-aid="28795016" id="p7">During the time I presided over the Brazil Manaus Mission, I witnessed great examples of true success, stories which came from people truly devoted to the gospel and to their covenants with God.</p>
+<p data-aid="28795017" id="p8">One man I met lived simply in a tiny, little town in the middle of the Amazon. After being baptized with his family, he could hardly wait to complete a year’s membership in the Church so he could take his wife and children to the temple. The São Paulo Brazil Temple is very far from the Amazon. It usually takes four days by boat and four days by bus to get to the temple—about a week’s travel. This man was a cabinetmaker. How could he save enough money to pay for himself, his wife, and his children? Although he worked hard for many months, he made very little money.</p>
+<p data-aid="28795018" id="p9">When the time came to go to the temple, he sold all his furniture and appliances, even his electric saw and his only means of transportation, a motorcycle—everything he had—and went to the temple with his wife and children. It required eight days of travel to reach São Paulo. After spending four glorious days in the temple doing the work of the Lord, this family then had to travel seven more days to return to their home. But they went back home happy, feeling that their difficulties and struggles were nothing compared to the great happiness and blessings they had experienced in the house of the Lord.</p>
+<p data-aid="28795019" id="p10">During my mission, I met missionaries—young men and women—who for me were examples of true success. They were so faithful and excited about the gospel that they were never bothered by the scorching high temperatures and excessive humidity of the Amazon climate. They were truly angelic messengers carrying the gospel message to the people of northern Brazil.</p>
+<p data-aid="28795020" id="p11">I remember a faithful and devoted member of the Church who was always in a good mood and always smiling. But one day I saw him crying. He told me the reason he was sad was because, at the age of seventy, he saw himself as a failure for having never been able to give his family the material comforts he felt they deserved.</p>
+<p data-aid="28795021" id="p12">I asked him, “How many children do you have?” He answered, “Four.” I continued, “How many are members of the Church?” He said, “Four.” I asked further, “How many are faithful members of the Church?” His answer: “Four.” “How many are sealed to you?” “Four.” “How many have married in the temple?” Again his answer was “Four.” Then, moved by the Spirit, I told him that the success he had achieved in his life was one of the greatest success stories I had ever heard.</p>
+<p data-aid="28795022" id="p13">I have learned much from the scriptures about success. It is wonderful to read about the journey of Lehi and his family to the promised land. Of Lehi’s older sons, Nephi and Sam, through their faithfulness to the Lord, charted their course for true success. For them, being successful meant being faithful in following the Lord’s commandments. Through their example the lives of <span class="page-break" data-page="28"></span>millions of people have been blessed to this date. And because of their obedience, many people have followed the path of truth and righteousness, striving to be worthy of the Spirit of the Lord in their lives.</p>
+<p data-aid="28795023" id="p14">I often think about the rich young man who approached the Master to ask Him what he should do to gain eternal life. Upon receiving the answer that eternal life meant giving up his riches and following the Lord, he turned his back and went away sorrowful because he was unwilling to forsake his many possessions.</p>
+<p data-aid="28795024" id="p15">I am grateful to the Lord for having touched my heart and for helping me to choose the better part—that which, so long as I strive for worthiness, cannot be taken from me. Being faithful to God as worthy members of His church, learning about Him and how to truly follow and worship Him, is more priceless than gold, silver, or diamonds.</p>
+<p data-aid="28795025" id="p16">The General Authorities of the Church, for whom I am most grateful, are true heroes for me. I had been a member of the Church for just one week when I met my first General Authority, Elder Royden G. Derrick, a member of the Seventy. I shall never forget the challenge he presented to the members of the Church to be exemplary in all aspects of our lives.</p>
+<p data-aid="28795026" id="p17">I shall always remember the counsel given by our beloved President Spencer W. Kimball about not only spiritual matters but also how to manage our temporal lives. I have followed his counsel, and I am happy and grateful for the protection that comes from hearkening to the words of the prophets, apostles, my Brethren of the Quorum, and my local leaders. Only when we keep the commandments of the Lord and do His will can we feel totally safe. I know that God lives. Jesus is the Christ, our Savior and Redeemer. Joseph Smith was a prophet of God. I know that we are guided by a prophet today. I testify to you that President Howard W. Hunter is a prophet of God. My testimony is renewed every time I hear and follow his counsel. My life has been very blessed through the gospel. For this I am most grateful, in the name of Jesus Christ, amen.</p>
+</div>]]></description>
       <guid isPermaLink="false">/general-conference/1994/10/priceless-principles-for-success</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/october-1994-general-conference/1994-10-2040-elder-claudio-r-m-costa-64k-eng.mp3" length="3648248" type="audio/mpeg"/>
-      <pubDate>Sat, 01 Oct 1994 14:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/161e726532e211ec83ebeeeeac1e20b3466416ec-64k-en.mp3" length="3807478" type="audio/mpeg"/>
+      <pubDate>Sat, 01 Oct 1994 14:00:00 -0600</pubDate>
+      <itunes:author>Claudio R. M. Costa</itunes:author>
     </item>
     <item>
       <title>Fun and Happiness</title>
-      <link>http://www.lds.org/general-conference/2002/10/fun-and-happiness?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2002/10/fun-and-happiness?lang=eng</link>
       <description>We can feel happiness every day in our lives through little things we do, and we are fully happy as we keep the commandments of a loving God.</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/2002/10/fun-and-happiness" schema-version="1" doc-id="general-conference_PD10029898_000_030" doc-version="2" hash="kHH75Q">
-  
-  <div class="heading" uri="/general-conference/2002/10/fun-and-happiness.head">
-    <h1 class="title" pid="vx-8jaVN-EuThOIvp2-Ovg" hash="cPE1Wg">Fun and Happiness</h1>
-    <p class="authorName" pid="Ph9xNjpat0OBssfIGE8fdw" hash="bUG7Tw">Claudio R. M. Costa</p>
-    <p class="kicker" pid="2ooo2BPOMkWDF5JhGYDzIw" hash="kOj-dw">We can feel happiness every day in our lives through little things we do, and we are fully happy as we keep the commandments of a loving God.</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/2002/10/fun-and-happiness.t1">
-      <img src="ensignlp.nfo-o-f05.jpg" alt="Elder Claudio R. M. Costa" pid="DntMYmD5EUCqXL9N3tGPFg" hash="UscRYQ" />
-      <p class="para" uri="/general-conference/2002/10/fun-and-happiness.p1" pid="c_kwo8oZWU6e9IQ7d2lp-Q" hash="7Je5PQ">About four months ago, I received the assignment to serve in Bogotá, Colombia, and moved there. One day, as I was trying to find the way to my new ward’s meetinghouse, I stopped at a park to ask for directions.</p>
-      <p class="para" uri="/general-conference/2002/10/fun-and-happiness.p2" pid="yoo_9zhm9UKZRiTAnNWAWQ" hash="BdwKVg">I could see many families enjoying a pleasant sunny morning. I stood there for a while watching the children as they cheerfully played in the park. They had a special glow in their countenances; their cheeks were flushed from the sun and from the effort they made to run and play together. They were all very friendly with each other.</p>
-      <p class="para" uri="/general-conference/2002/10/fun-and-happiness.p3" pid="d3oHZCGTFEygCOdRaGdc3w" hash="2HdwWQ">I could tell they were really having fun. As I watched them closely, I realized that, more than having a fun time, those pure little children were truly happy.</p>
-      <p class="para" uri="/general-conference/2002/10/fun-and-happiness.p4" pid="3lW6XBX0eUCCO3vf_8Unkw" hash="sq7heg">Later, as I was driving to the chapel, my thoughts went back to the time I was baptized in the Church. An old friend of mine came to me and asked what I had found so different there. I answered, “I have found true happiness.” To which he replied, “There is no such thing as true happiness—only happy moments.”</p>
-      <p class="para" uri="/general-conference/2002/10/fun-and-happiness.p5" pid="H0sbsMFVuE2bE0sQ0IO3wg" hash="kfoLiQ">I understand that my good friend did not know the difference between <span class="emphasis">fun</span> and <span class="emphasis">happiness.</span> What he called “happy moments” were in fact the moments when he had fun. What he did not know then was that happiness is much more than just fun. Fun is just a fleeting moment, but happiness is a lasting thing.</p>
-      <p class="para" uri="/general-conference/2002/10/fun-and-happiness.p6" pid="lYIplz51r0631TuSZFH6Ug" hash="9nPhCg">Many people in this world do not understand the difference between fun and happiness. Many try to find happiness having fun, but the two words have different meanings.</p>
-      <p class="para" uri="/general-conference/2002/10/fun-and-happiness.p7" pid="avpEk5nRKUCflqtncBdu9A" hash="Leoi5Q">I looked them up in the dictionary to find out what each of them meant. <span class="emphasis">Fun</span> is play, pleasure, gaiety, merriment, source of enjoyment, amusement, to behave playfully, playful, often a noisy activity, and teasing. <span class="emphasis">Happiness</span> is contentedness, joy, delight, and satisfaction.</p>
-      <p class="para" uri="/general-conference/2002/10/fun-and-happiness.p8" pid="f6CnJUx1FECzc0MOuejCPA" hash="1QIMhQ">I was taught, after becoming a member of the Church, that there is indeed a big difference between fun and happiness. I learned, even before my baptism, that the Lord has a plan of salvation for all His children (see <a href="/scriptures/bofm/2-ne/2.9" class="scriptureRef">2 Ne. 2:9</a>). Through this plan, depending upon what we accomplish here on earth, we shall return to our Heavenly Father’s presence and live with Him forever in a state of eternal happiness.</p>
-      <p class="para" uri="/general-conference/2002/10/fun-and-happiness.p9" pid="ADTn_T0ILUmH0QaN-vjuRQ" hash="3o1g9w">Both fun and happiness are fine, but certainly happiness is the most worth seeking. Happiness can encompass fun as well, but fun alone will not assure us true happiness.</p>
-      <p class="para" uri="/general-conference/2002/10/fun-and-happiness.p10" pid="VHi1mrDdGUayiy5pWHvhKg" hash="pghStg">In Luke, chapter 15, we find the parable of the prodigal son. In this parable, the younger son asks the father to give him his share of the inheritance. The father does so, and this young man goes out into the world, seeking what he believes to be true happiness. He starts to have fun, and for as long as he has money, he lives surrounded by many people who claim to be his friends. When his fortune is totally wasted with all the fun he has had with his so-called friends, all of them turn their backs on him, and he is left without a penny. He then goes through much suffering and disappointment. He starts working for a man feeding swine, and, starving, he tries to eat even the husks that the swine would eat. He thinks of his father’s servants, who have enough bread to eat and to spare, and he does not have anything to eat.</p>
-      <p class="para" uri="/general-conference/2002/10/fun-and-happiness.p11" pid="RrxWHUF9akylV5oclqDZuQ" hash="TY7kTA">He decides to return home to his father and ask him for a job as one of his hired servants. He returns, repentant from all he has done, and his father, a righteous man, greets him as a special son. He finally understands that true happiness is there, in that simple life with his family.</p>
-      <p class="para" uri="/general-conference/2002/10/fun-and-happiness.p12" pid="D5Luvoe1skWqBW3xS2Au_A" hash="DZpn5A">All who seek full happiness can find it in the gospel of Jesus Christ, taught in His Church. Through Christ’s doctrine, we are taught that we can be part of the great plan of happiness that He has prepared for all of us, His sons and daughters. As we keep His commandments, we are blessed and come to know true happiness. We learn that happiness lies in doing small things that build us up, that increase our faith and testimony. Small things we do in our everyday lives, such as:</p>
-      <p class="para" uri="/general-conference/2002/10/fun-and-happiness.p13" pid="MPdlFbu_5EqEuBFqoj4aHA" hash="_E4VcQ">We are happy as we pray every morning and every night, when we can feel that the Lord hears us and is always willing to bless, forgive, and help us. We are happy as we feel the promptings of the Holy Ghost in our lives—as we feel the Spirit when we have to make important life decisions. We are happy as we go home after a stressful and tiresome day at work to the arms of our families, as they express love and appreciation for us. We are happy to talk to our children, to enjoy the family, to get together on family night. In short, we can feel happiness every day in our lives through little things we do, and we are fully happy as we keep the commandments of a loving God who cares about us.</p>
-      <p class="para" uri="/general-conference/2002/10/fun-and-happiness.p14" pid="hu0mKtn8TUOaIpxUAmT5Lg" hash="e6Eh5Q">True happiness comes from keeping the commandments of God. We are taught in 2 Nephi 2:25 [<a href="/scriptures/bofm/2-ne/2.25" class="scriptureRef">2 Ne. 2:25</a>] that “Adam fell that men might be; and men are, that they might have joy,” or, in other words, that they might be happy.</p>
-      <p class="para" uri="/general-conference/2002/10/fun-and-happiness.p15" pid="JB7l8eys6EiYAGtAjU0UDQ" hash="9SLb9g">I have witnessed this happiness in the lives of many members of the Church. Several weeks ago I had the assignment to preside over a stake conference in Cali, Colombia. I met a very special young man there who is a member of the Church and can well illustrate the meaning of true happiness.</p>
-      <p class="para" uri="/general-conference/2002/10/fun-and-happiness.p16" pid="_zllGxdRrECnx1_Q21fKCA" hash="bBwmBQ">His name is Fabián. His family belongs to the Church, and he learned of the plan of happiness when he was just a little boy. In 1984, when he was three years old, Fabián and his family lived in a house close to a large and busy avenue. That avenue was a route for many city bus lines.</p>
-      <p class="para" uri="/general-conference/2002/10/fun-and-happiness.p17" pid="e8a0sVjA-UaZ15siOGZTEw" hash="RtpJ6g">One day, seeing the gate open, little Fabián tried to cross the avenue and got hit by a bus. Thanks to Heavenly Father’s goodness, Fabián survived the accident. His parents took him to three different hospitals that indicated they could not treat him. They continued looking for help, and upon finding the proper medical assistance, they learned the prognosis was not very good. After undergoing multiple surgeries, the doctors informed the family that the damage to his feet and legs was so extensive that to save him, they had to amputate his right leg.</p>
-      <p class="para" uri="/general-conference/2002/10/fun-and-happiness.p18" pid="wO6uijn3kk-WvVXwe3ls4A" hash="U-4Z9g">Little Fabián started a different life then, without one of his legs. He slowly learned to control his body balance and to walk with the help of crutches. He went to school and had the support of his teachers and friends. Some people used to mock him, but he soon learned not to care about the jokes they played on him.</p>
-      <p class="para" uri="/general-conference/2002/10/fun-and-happiness.p19" pid="8qbVnVoZz0qa_c46U4UIgA" hash="p7CJww">He wanted to participate in all physical activities, and did so frequently. Even though winning was very hard to come by, he was always brave and ready to participate.</p>
-      <p class="para" uri="/general-conference/2002/10/fun-and-happiness.p20" pid="aJSGCtq920uYZg45GxUWOg" hash="92zaPQ">Fabián currently serves as a counselor in the Young Men organization of his stake. He attends institute of religion classes and is active in the student body organization. He plays basketball and soccer. He also plays Ping-Pong with his friends from the institute. He rides a bike and does everything a young man can do. He works as a volunteer teaching English at a foundation that cares for poor children.</p>
-      <p class="para" uri="/general-conference/2002/10/fun-and-happiness.p21" pid="LMRBDdXOnEG7SseFmGo_Zg" hash="nHKwLw">Fabián wants to serve his fellowmen and God with all his strength. He has a smiling face and is always there to help someone in need. Fabián is truly a happy young man. With an overwhelming strength which comes from his faith and trust in God, Fabián is a great example to the citizens of his hometown.</p>
-      <p class="para" uri="/general-conference/2002/10/fun-and-happiness.p22" pid="OrnQiPqUK0qGLiCS4QcT1g" hash="yW2s4w">His happiness comes from striving to live worthily every day and to obey God’s commandments. He reminds me of a scripture found in <a href="/scriptures/bofm/mosiah/2.41" class="scriptureRef">Mosiah 2:41</a>: “And moreover, I would desire that ye should consider on the blessed and happy state of those that keep the commandments of God. For behold, they are blessed in all things, both temporal and spiritual; and if they hold out faithful to the end they are received into heaven, that thereby they may dwell with God in a state of never-ending happiness. O remember, remember that these things are true; for the Lord God hath spoken it.”</p>
-      <p class="para" uri="/general-conference/2002/10/fun-and-happiness.p23" pid="i0pLgh_rV0GZLvvELLPAAg" hash="QbkA7A">Being obedient to God’s commandments, we will live happily for all eternity. The Lord said in <a href="/scriptures/bofm/alma/41.10" class="scriptureRef">Alma 41:10</a> that “wickedness never was happiness.”</p>
-      <p class="para" uri="/general-conference/2002/10/fun-and-happiness.p24" pid="kiv-FWHZMkSsynNmddS4qw" hash="qSbmLA">As a servant of God and as a member of His Church, I invite you to be truly happy by giving heed to His counsels, by living His commandments, and by obeying the words of His living prophets.</p>
-      <p class="para" uri="/general-conference/2002/10/fun-and-happiness.p25" pid="Fgxo6iFMuUuMEzKAGtjeXg" hash="lxYPRQ">I know that one of the factors that greatly influences our happiness is listening to the counsel of the living prophets who teach us in this Church.</p>
-      <p class="para" uri="/general-conference/2002/10/fun-and-happiness.p26" pid="kvL2_X6u6U-VhKgqRFYzow" hash="zHEElg">I have a testimony that God lives, that Jesus is the Christ, our Savior and Redeemer. He gave His precious life for each one of us. I know that Joseph Smith is a prophet of God. This I know with all my heart. I know that the Book of Mormon is the word of God and that it can lead us to the pathways of happiness.</p>
-      <p class="para" uri="/general-conference/2002/10/fun-and-happiness.p27" pid="w9IMMWh6JkCr9LI52CI0sg" hash="ieF_Zg">I know that President Gordon B. Hinckley is the prophet of God today and that he teaches with love and patience how we can be happy in this life and in the life to come.</p>
-      <p class="para" uri="/general-conference/2002/10/fun-and-happiness.p28" pid="9TSCokSueU2Ufqei_dji0g" hash="-2dXDQ">These things are part of my testimony of the truth, and I share them with you, my brothers and sisters, in the name of Jesus Christ, amen.</p>
-    </div>
-  </div>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="92"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/887769a6206b7f8a42d5443e6db5515971aac8b5/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/887769a6206b7f8a42d5443e6db5515971aac8b5/full/%21192%2C/0/default" data-video-title="Fun and Happiness" data-video-description="We can feel happiness every day in our lives through little things we do, and we are fully happy as we keep the commandments of a loving God." data-video-id="2245673240001" data-ip="Download and Streaming                            " data-duration="683516" data-assetId="a23e98f9756b485e453df5e1f359a9694fb58f5f" data-ref-id="a23e98f9756b485e453df5e1f359a9694fb58f5f" data-duration-string="11:23" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/2245673240001.m3u8" type="application/vnd.apple.mpegurl" data-width="1280" data-height="720" data-file-size="46571000"/><source src="https://assets.churchofjesuschrist.org/a23e98f9756b485e453df5e1f359a9694fb58f5f-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="27059219"/><source src="https://assets.churchofjesuschrist.org/a23e98f9756b485e453df5e1f359a9694fb58f5f-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="46571000"/></video><h1 data-aid="28820293" id="title1">Fun and Happiness</h1>
+<div class="byline">
+<p class="author-name" data-aid="28820294" id="p1">By Elder Claudio R. M. Costa</p>
+<p class="author-role" data-aid="28820295" id="p2">Of the Seventy</p>
+<div class="image-cropper"><img alt="Elder Claudio R. M. Costa" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/b4bde6f94061aaefc979b6372b63ba97b8c1e20b/full/%21100%2C/0/default" data-assetId="b4bde6f94061aaefc979b6372b63ba97b8c1e20b" srcset="https://www.churchofjesuschrist.org/imgs/b4bde6f94061aaefc979b6372b63ba97b8c1e20b/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/b4bde6f94061aaefc979b6372b63ba97b8c1e20b/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/b4bde6f94061aaefc979b6372b63ba97b8c1e20b/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/b4bde6f94061aaefc979b6372b63ba97b8c1e20b/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/b4bde6f94061aaefc979b6372b63ba97b8c1e20b/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/b4bde6f94061aaefc979b6372b63ba97b8c1e20b/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/b4bde6f94061aaefc979b6372b63ba97b8c1e20b/full/%21640%2C/0/default 640w" data-img-id="b4bde6f94061aaefc979b6372b63ba97b8c1e20b" data-missing-asset="false" data-width="100" data-height="125" data-aspect-ratio="0.8" data-public-title="Costa, Claudio R. M." data-public-description="Former Official portrait of Elder Claudio R. M. Costa.  Replaced March 2017"/></div>
+</div>
+<p class="kicker" data-aid="28820296" id="kicker1">We can feel happiness every day in our lives through little things we do, and we are fully happy as we keep the commandments of a loving God.</p>
+</header>
+<div class="body-block">
+<p data-aid="28820297" id="p3">About four months ago, I received the assignment to serve in Bogotá, Colombia, and moved there. One day, as I was trying to find the way to my new ward’s meetinghouse, I stopped at a park to ask for directions.</p>
+<p data-aid="28820298" id="p4">I could see many families enjoying a pleasant sunny morning. I stood there for a while, watching the children as they cheerfully played in the park. They had a special glow in their countenances; their cheeks were flushed from the sun and from the effort they made to run and play together. They were all very friendly with each other.</p>
+<p data-aid="28820299" id="p5">I could tell they were really having fun. As I watched them closely, I realized that, more than having a fun time, those pure little children were truly happy.</p>
+<p data-aid="28820300" id="p6">Later, as I was driving to the chapel, my thoughts went back to the time I was baptized in the Church. An old friend of mine came to me and asked what I had found so different there. I answered, “I have found true happiness.” To which he replied, “There is no such thing as true happiness—only happy moments.”</p>
+<p data-aid="28820301" id="p7">I understand that my good friend did not know the difference between <em>fun</em> and <em>happiness.</em> What he called “happy moments” were in fact the moments when he had fun. What he did not know then was that happiness is much more than just fun. Fun is just a fleeting moment, but happiness is a lasting thing.</p>
+<p data-aid="28820302" id="p8">Many people in this world do not understand the difference between fun and happiness. Many try to find happiness by having fun, but the two words have different meanings.</p>
+<p data-aid="28820303" id="p9">I looked them up in the dictionary to find out what each of them meant. <em>Fun</em> is play, pleasure, gaiety, merriment, source of enjoyment, amusement, to behave playfully, playful, often a noisy activity, and teasing. <em>Happiness</em> is contentedness, joy, delight, and satisfaction.</p>
+<p data-aid="28820304" id="p10">I was taught, after becoming a member of the Church, that there is indeed a big difference between fun and happiness. I learned, even before my baptism, that the Lord has a plan of salvation for all His children (see <a class="scripture-ref" href="/study/scriptures/bofm/2-ne/2?lang=eng&amp;id=p9#p9">2 Nephi 2:9</a>). Through this plan, depending upon what we accomplish here on earth, we shall return to our Heavenly Father’s presence and live with Him forever in a state of eternal happiness.</p>
+<p data-aid="28820305" id="p11">Both fun and happiness are fine, but certainly happiness is the most worth seeking. Happiness can encompass fun as well, but fun alone will not ensure us true happiness.</p>
+<p data-aid="28820306" id="p12">In Luke, chapter 15, we find the parable of the prodigal son. In this parable, the younger son asks the father to give him his share of the inheritance. The father does so, and this young man goes out into the world, seeking what he believes to be true happiness. He starts to have fun, and for as long as he has money, he lives surrounded by many people who claim to be his friends. When his fortune is totally wasted with all the fun he has had with his so-called friends, all of them turn their backs on him, and he is left without a penny. He then goes through much suffering and disappointment. He starts working for a man feeding swine, and, starving, he tries to eat even the husks that the swine would eat. He thinks of his father’s servants, who have enough bread to eat and to spare, and he does not have anything to eat.</p>
+<p data-aid="28820307" id="p13">He decides to return home to his father and ask him for a job as one of his hired servants. He returns, repentant from all he has done, and his father, a righteous man, greets him as a special son. He finally understands that true happiness is there, in that simple life with his family.</p>
+<p data-aid="28820308" id="p14">All who seek full happiness can find it in the gospel of Jesus Christ, taught in His Church. Through Christ’s doctrine, we are taught that we can be part of the great plan of happiness that He has prepared for all of us, His sons and daughters. As we keep His commandments, we are blessed and come to know true happiness. We learn that happiness lies in doing small things that build us up, <span class="page-break" data-page="93"></span>that increase our faith and testimony—small things we do in our everyday lives, such as:</p>
+<p data-aid="28820309" id="p15">We are happy as we pray every morning and every night, when we can feel that the Lord hears us and is always willing to bless, forgive, and help us. We are happy as we feel the promptings of the Holy Ghost in our lives—as we feel the Spirit when we have to make important life decisions. We are happy as we go home after a stressful and tiresome day at work to the arms of our families, as they express love and appreciation for us. We are happy to talk to our children, to enjoy the family, to get together on family night. In short, we can feel happiness every day in our lives through little things we do, and we are fully happy as we keep the commandments of a loving God, who cares about us.</p>
+<p data-aid="28820310" id="p16">True happiness comes from keeping the commandments of God. We are taught in <a class="scripture-ref" href="/study/scriptures/bofm/2-ne/2?lang=eng&amp;id=p25#p25">2 Nephi 2:25</a> that “Adam fell that men might be; and men are, that they might have joy,” or, in other words, that they might be happy.</p>
+<p data-aid="28820311" id="p17">I have witnessed this happiness in the lives of many members of the Church. Several weeks ago I had the assignment to preside over a stake conference in Cali, Colombia. I met a very special young man there who is a member of the Church and can well illustrate the meaning of true happiness.</p>
+<p data-aid="28820312" id="p18">His name is Fabián. His family belongs to the Church, and he learned of the plan of happiness when he was just a little boy. In 1984, when he was three years old, Fabián and his family lived in a house close to a large and busy avenue. That avenue was a route for many city bus lines.</p>
+<p data-aid="28820313" id="p19">One day, seeing the gate open, little Fabián tried to cross the avenue and got hit by a bus. Thanks to Heavenly Father’s goodness, Fabián survived the accident. His parents took him to three different hospitals that indicated they could not treat him. They continued looking for help, and, upon finding the proper medical assistance, they learned the prognosis was not very good. After performing multiple surgeries, the doctors informed the family that the damage to his feet and legs was so extensive that to save him, they had to amputate his right leg.</p>
+<p data-aid="28820314" id="p20">Little Fabián started a different life then, without one of his legs. He slowly learned to control his body balance and to walk with the help of crutches. He went to school and had the support of his teachers and friends. Some people used to mock him, but he soon learned not to care about the jokes they played on him.</p>
+<p data-aid="28820315" id="p21">He wanted to participate in all physical activities and did so frequently. Even though winning was very hard to come by, he was always brave and ready to participate.</p>
+<p data-aid="28820316" id="p22">Fabián currently serves as a counselor in the Young Men organization of his stake. He attends institute of religion classes and is active in the student body organization. He plays basketball and soccer. He also plays Ping-Pong with his friends from the institute. He rides a bike and does everything a young man can do. He works as a volunteer teaching English at a foundation that cares for poor children.</p>
+<p data-aid="28820317" id="p23">Fabián wants to serve his fellowmen and God with all his strength. He has a smiling face and is always there to help someone in need. Fabián is truly a happy young man. With an <span class="page-break" data-page="94"></span>overwhelming strength which comes from his faith and trust in God, Fabián is a great example to the citizens of his hometown.</p>
+<p data-aid="28820318" id="p24">His happiness comes from striving to live worthily every day and to obey God’s commandments. He reminds me of a scripture found in <a class="scripture-ref" href="/study/scriptures/bofm/mosiah/2?lang=eng&amp;id=p41#p41">Mosiah 2:41</a>: “And moreover, I would desire that ye should consider on the blessed and happy state of those that keep the commandments of God. For behold, they are blessed in all things, both temporal and spiritual; and if they hold out faithful to the end they are received into heaven, that thereby they may dwell with God in a state of never-ending happiness. O remember, remember that these things are true; for the Lord God hath spoken it.”</p>
+<p data-aid="28820319" id="p25">Being obedient to God’s commandments, we will live happily for all eternity. Alma said in <a class="scripture-ref" href="/study/scriptures/bofm/alma/41?lang=eng&amp;id=p10#p10">Alma 41:10</a> that “wickedness never was happiness.”</p>
+<p data-aid="28820320" id="p26">As a servant of God and as a member of His Church, I invite you to be truly happy by giving heed to His counsel, by living His commandments, and by obeying the words of His living prophets.</p>
+<p data-aid="28820321" id="p27">I know that one of the factors that greatly influences our happiness is listening to the counsel of the living prophets who teach us in this Church.</p>
+<p data-aid="28820322" id="p28">I have a testimony that God lives, that Jesus is the Christ, our Savior and Redeemer. He gave His precious life for each one of us. I know that Joseph Smith is a prophet of God. This I know with all my heart. I know that the Book of Mormon is the word of God and that it can lead us to the pathways of happiness.</p>
+<p data-aid="28820323" id="p29">I know that President Gordon B. Hinckley is the prophet of God today and that he teaches with love and patience how we can be happy in this life and in the life to come.</p>
+<p data-aid="28820324" id="p30">These things are part of my testimony of the truth, and I share them with you, my brothers and sisters, in the name of Jesus Christ, amen.</p>
 </div>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/2002/10/fun-and-happiness</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/october-2002-general-conference/2002-10-5040-elder-claudio-r-m-costa-64k-eng.mp3" length="5469630" type="audio/mpeg"/>
-      <pubDate>Sun, 06 Oct 2002 14:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/0b934f1032cd11ecbcf7eeeeac1e744ee11b0d52-32k-en.mp3" length="2904218" type="audio/mpeg"/>
+      <pubDate>Sun, 06 Oct 2002 14:00:00 -0600</pubDate>
+      <itunes:author>Claudio R. M. Costa</itunes:author>
     </item>
     <item>
       <title>Don’t Leave for Tomorrow What You Can Do Today</title>
-      <link>http://www.lds.org/general-conference/2007/10/don-t-leave-for-tomorrow-what-you-can-do-today?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2007/10/don-t-leave-for-tomorrow-what-you-can-do-today?lang=eng</link>
       <description>Now is the time to perform our God-given duties concerning the family.</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/2007/10/don-t-leave-for-tomorrow-what-you-can-do-today" dup-conf="false" dup-mag="false" schema-version="1" doc-id="general-conference_PD00008332_000_027" doc-version="2" hash="f6FYig"><div class="heading" uri="/general-conference/2007/10/don-t-leave-for-tomorrow-what-you-can-do-today.head1"><h1 class="title" pid="FZ_lkbXRp0mwljC79DRH6A" hash="puNlFw">Don’t Leave for Tomorrow What You Can Do Today</h1><p class="authorName" guid="c87c8292-945a-4f52-a826-41b32665d6e2" pid="sEvP-zpxF0OueNw6UnVpOA" hash="bUG7Tw">Claudio R. M. Costa</p><p class="kicker" pid="XP72ka45GUmEIfETvTGqlg" hash="r9U7dg">Now is the time to perform our God-given duties concerning the family.</p></div><div class="bodyBlock" guid="bb3b2a72-7e05-4515-adfe-e74df22c4d89">
-    <div class="topic" uri="/general-conference/2007/10/don-t-leave-for-tomorrow-what-you-can-do-today.t1">
-      <img src="CostaCRM_all.ob.jpg" alt="Elder Claudio R. M. Costa" guid="9674e630-c00e-4571-b291-e231df8530d2" pid="M6NESRUpbESUJGobki36YA" hash="L9Vq3A" />
-      <p class="para" uri="/general-conference/2007/10/don-t-leave-for-tomorrow-what-you-can-do-today.p" pid="SGPQEGm8kUCgC7fae9hWMQ" hash="SIx0yA">
-        <span class="pageBreak" page-number="73"></span>On September 23, 1995, the First Presidency and the Quorum of the Twelve Apostles introduced to the Church and the world a document called “The Family: A Proclamation to the World.” I quote from the paragraph which reads, “Husband and wife have a solemn responsibility to love and care for each other and for their children.”<span class="noteMarker" ref="f_1">1</span> We live in a day and age in which this counsel is indeed very important. Many parents argue they don’t have time for their families. The fast-paced lifestyle of modern-day life and excessive amounts of work are curbing parents’ attention from what is most important: to give time, to give of oneself to one’s family.</p>
-      <p class="para" uri="/general-conference/2007/10/don-t-leave-for-tomorrow-what-you-can-do-today.p" pid="Ho3V66jB8U6tLytfocZ4Iw" hash="xsFG0w">The Lord taught us that every man has the responsibility to provide for his family,<span class="noteMarker" ref="f_2">2</span> but that does not mean solely to store up the house with food and other items which are needed or desired. We must also have time to provide our family with teachings. What should we teach?</p>
-      <p class="para" uri="/general-conference/2007/10/don-t-leave-for-tomorrow-what-you-can-do-today.p" pid="E6eCtyoqYk-UCgIQoyNV8Q" hash="Sf0flw">Our Father has taught us that parents are obligated to teach the gospel to their children.<span class="noteMarker" ref="f_3">3</span> The prophet Lehi understood well his responsibility to teach his children. Nephi declared that he had been taught “in all the learning of [his] father.”<span class="noteMarker" ref="f_4">4</span></p>
-      <p class="para" uri="/general-conference/2007/10/don-t-leave-for-tomorrow-what-you-can-do-today.p" pid="8-_6uWrTvUi7TjJwqSP8gA" hash="QnDMJQ">The Lord instructed us how to take care of our families when He told us through His prophets in the proclamation to the world, “Parents have a sacred duty to rear their children in love and righteousness, to provide for their physical and spiritual needs, to teach them to love and serve one another, to observe the commandments of God and to be law-abiding citizens wherever they live.”<span class="noteMarker" ref="f_5">5</span></p>
-      <p class="para" uri="/general-conference/2007/10/don-t-leave-for-tomorrow-what-you-can-do-today.p" pid="fNXgbJq-bUeedDp_4tk74w" hash="J1x8uw">We know God has taught us for centuries how to protect and take <span class="pageBreak" page-number="74"></span>care of our families. We also know and can see that the adversary has been attacking the family. Now is the time to use all those teachings. Now is the time to perform our God-given duties concerning the family.</p>
-      <div class="figure" uri="/general-conference/2007/10/don-t-leave-for-tomorrow-what-you-can-do-today.f1"><p pid="2FoaJH16ZUyRCY5Amciqow" hash="e99QDg">President James E. Faust gave us three key things we can do to protect and strengthen our families:</p><ol class="number" guid="b8adfd42-217c-405d-bbc6-5f8799f4ab92"><li guid="38ffb210-0a8e-4246-8b53-43e578a3b2c4" pid="fFhFDKsA40aLo3V8xeNUCA" hash="DZiDSw">
-          <span class="label">1.</span>
-          <p guid="e0031788-26aa-41bc-84f3-e54dd7037fe6" pid="ONidFRZF6kO0y2Eli_HqdA" hash="HWa4Pg">Family prayer. Parents must teach their children that they are God’s children and therefore need to pray to Him daily.</p>
-        </li><li guid="a9142673-9247-4a69-9535-95f86143f777" pid="rqSc7uzgT0qGhNFaaW-2hg" hash="a0z8pg">
-          <span class="label">2.</span>
-          <p guid="fb5c57f9-5488-42a0-b949-8cf48d89c115" pid="uorJz-lnFE26koi_rS1-Uw" hash="Rxmw0A">Family home evening. As President Faust taught us, family home evening is for all of us no matter what stage of life we are in. We must have Monday nights free of all other activities that might keep us from gathering as a family.</p>
-        </li><li guid="714332df-559d-47f7-88c2-b7b62281f710" pid="V7nIfgq1UUCKEK9k_aWXYw" hash="eZJt9w">
-          <span class="label">3.</span>
-          <p guid="931a7623-cc9a-4133-8bf6-5ac62a0e9368" pid="HJadjNkQm0W2UCfSFWG33g" hash="Bl5kGA">Personal and family scripture study. We need to help our children strengthen their faith and testimony through this basic habit.<span class="noteMarker" ref="f_6">6</span></p>
-        </li></ol></div>
-      <p class="para" uri="/general-conference/2007/10/don-t-leave-for-tomorrow-what-you-can-do-today.p" pid="vMizuysvm0GWJA2knTg5xw" hash="ysYhwg">As we follow President Faust’s wise counsel, we will be protecting family members against Satan’s attacks as well as strengthening their faith and testimony in the Lord Jesus Christ.</p>
-      <p class="para" uri="/general-conference/2007/10/don-t-leave-for-tomorrow-what-you-can-do-today.p" pid="dD7W8IChsEOjO5WuIld20g" hash="2_ZppQ">In the family proclamation we also learn that “by divine design, fathers are to preside over their families in love and righteousness and are responsible to provide the necessities of life and protection for their families. Mothers are primarily responsible for the nurture of their children. In these sacred responsibilities, fathers and mothers are obligated to help one another as equal partners.”<span class="noteMarker" ref="f_7">7</span></p>
-      <p class="para" uri="/general-conference/2007/10/don-t-leave-for-tomorrow-what-you-can-do-today.p" pid="Ar_tJM8udU6spw-DI3OV1A" hash="KcBNKA">It is in the home that the family learns and applies gospel principles. Great love is necessary in order to teach and guide a family. Loving fathers and mothers will teach their children to worship God in their home. When a worshipping spirit permeates the home, that spirit is extended into the life of each family member. This will prepare them to make whatever sacrifice is necessary to be able to return to God’s presence and stay together as a family for all eternity.</p>
-      <p class="para" uri="/general-conference/2007/10/don-t-leave-for-tomorrow-what-you-can-do-today.p" pid="Kow5um1SMU-BGYXhwV7ZvQ" hash="ng8iWg">The family proclamation helps us understand much of the love the Savior referred to when He told us we must “love one another.”<span class="noteMarker" ref="f_8">8</span> He gave us the supreme example of love when He declared, “Greater love hath no man than this, that a man lay down his life for his friends.”<span class="noteMarker" ref="f_9">9</span> He later atoned for all our sins and finally gave His life for all of us.</p>
-      <p class="para" uri="/general-conference/2007/10/don-t-leave-for-tomorrow-what-you-can-do-today.p" pid="mswsVLPoXkmqpvV4Ip0KzQ" hash="KzPc2Q">We can lay down our lives for those we love not by physically dying for them but rather by living for them—giving of our time; always being present in their lives; serving them; being courteous, affectionate, and showing true love for those of our family and to all men—as the Savior taught.</p>
-      <p class="para" uri="/general-conference/2007/10/don-t-leave-for-tomorrow-what-you-can-do-today.p" pid="2DzVCzMD_kGO4mxaqEzWUg" hash="w2-ZnA">We don’t know what could happen to us tomorrow, and that is why today is the time to start showing your love through small acts such as a hug and an “I love you” to your spouse and children and those around you.</p>
-      <p class="para" uri="/general-conference/2007/10/don-t-leave-for-tomorrow-what-you-can-do-today.p" pid="cudrDq7-x0-LoXs2X1dQrQ" hash="kUv3Gg">I recently read a text which expresses the urgency of not leaving for tomorrow what you can do today. In July of this year Brazil witnessed the most devastating aircraft accident in its history. There were 199 people killed, including passengers, airline workers, crew members, and others who were at the site when the accident happened. The text I mentioned was said to have been posted on the airline communication board by the husband of one of the flight attendants who died in the accident. It is entitled “Tomorrow Never Comes” and is based upon a poem by Norma Cornett Marek.</p>
-      <div class="poetry" uri="/general-conference/2007/10/don-t-leave-for-tomorrow-what-you-can-do-today.f2" guid="e52ed501-cd7f-42ee-b4fc-0f43b7dd2656">
-        <div class="stanza">
-          <p class="line" pid="gOP0_j3c-kixNnrblWXxDw" hash="keVHDQ">
-            <span class="emphasis">If I knew this would be the last time I would watch you sleep,</span>
-          </p>
-          <p class="line" pid="FZj3AWGzF0OvXA59P-rq9w" hash="IGd6eQ">
-            <span class="emphasis">I would hug you tighter. I would plead with the Lord to protect you.</span>
-          </p>
-          <p class="line" pid="P8kY8RJbNEiZ9Qfrk6EVwA" hash="q7GGtg">
-            <span class="emphasis">If I knew this would be the last time </span>
-            <span class="pageBreak" page-number="75"></span>
-            <span class="emphasis">I saw you walk out the door,</span>
-          </p>
-          <p class="line" pid="rxGTrRPsC0ae-SbKjgFIww" hash="q4yH1Q">
-            <span class="emphasis">I would hug and kiss you and call you back to hug and kiss you one more time.</span>
-          </p>
-          <p class="line" pid="136ews8wk0-uH_g4n1abgw" hash="wOM7bQ">
-            <span class="emphasis">If I knew this would be the last time I would hear your voice in prayer,</span>
-          </p>
-          <p class="line" pid="QW7G5NonREmZrJXhSgFDcw" hash="UeWhnQ">
-            <span class="emphasis">I would record every gesture, every look, every smile, every one of your words,</span>
-          </p>
-          <p class="line" pid="ssBvKcpZ-kmrhIiftIDAdA" hash="Dnp1Lg">
-            <span class="emphasis">So that I could listen to it later, day after day.</span>
-          </p>
-          <p class="line" pid="Hk-hrdIa1kCDyBS0w8Pm0w" hash="_kB7KA">
-            <span class="emphasis">If I knew this would be the last time,</span>
-          </p>
-          <p class="line" pid="fprBd71ke0KgzuDsz_0CHQ" hash="Wp5QpA">
-            <span class="emphasis">I would spend an extra minute or two to tell you, “I love you,” instead of assuming you already knew it.</span>
-          </p>
-          <p class="line" pid="Sp5Fk31XakuCizC0MHWTMg" hash="7Zx1tQ">
-            <span class="emphasis">If I knew this would be our last time, our last moment,</span>
-          </p>
-          <p class="line" pid="Y3OiiDsIhUesTkxgKngUFA" hash="Ec-AqQ">
-            <span class="emphasis">I would be by your side, spending the day with you instead of thinking,</span>
-          </p>
-          <p class="line" pid="hO3ogwNJYEimAL17eu7ttA" hash="FptALQ">
-            <span class="emphasis">“Well, I’m sure other opportunities will come, so I can let this day go by.”</span>
-          </p>
-          <p class="line" pid="4xl_q66WUEm9B1HQ_0TjJw" hash="CjaJGg">
-            <span class="emphasis">Of course there will be a day to revise things,</span>
-          </p>
-          <p class="line" pid="VWV7aryu8EmZHRL-Q5sFug" hash="moKpPQ">
-            <span class="emphasis">And we would have a second chance to do things right.</span>
-          </p>
-          <p class="line" pid="vqGLQPxqRk2RRyPyoGuDow" hash="rx5OGg">
-            <span class="emphasis">Oh, of course there will be another day for us to say, “I love you.”</span>
-          </p>
-          <p class="line" pid="BDMjykZ-zkOT4V_5ZN23CQ" hash="RJ8Rug">
-            <span class="emphasis">And certainly there will be another chance to tell each other, “Can I help with anything?”</span>
-          </p>
-          <p class="line" pid="ZKgOd3v6B0y1vTzo34cEvQ" hash="X1Q-fA">
-            <span class="emphasis">But in my case, there isn’t one!</span>
-          </p>
-          <p class="line" pid="l-sG1UQADE2yHhguyl6q1g" hash="RmsfzQ">
-            <span class="emphasis">I don’t have you here with me, and today is the last day we have—our farewell.</span>
-          </p>
-          <p class="line" pid="Vf4g42x5h06JFEP-kae14A" hash="GhIGOQ">
-            <span class="emphasis">Therefore I would like to say how much I love you,</span>
-          </p>
-          <p class="line" pid="mQWudahJTUi0ixUSnk5QIQ" hash="VHKEdA">
-            <span class="emphasis">And I hope you never forget it.</span>
-          </p>
-          <p class="line" pid="LX-HJl0T90-mroL2KLCKNg" hash="02bMdQ">
-            <span class="emphasis">Tomorrow is not promised to anyone, young or old.</span>
-          </p>
-          <p class="line" pid="42HZVmN7gEqhuEAIfrtZSw" hash="j0axqw">
-            <span class="emphasis">Today might be your last chance to hold tight to the hand of the one you love and show all you feel.</span>
-          </p>
-          <p class="line" pid="3xZuI79kW0WMJfRHsHOVNA" hash="ZC0vOw">
-            <span class="emphasis">If you are waiting for tomorrow, why not do it today?</span>
-          </p>
-          <p class="line" pid="Deb-jX444kqj6mDoSEzI8w" hash="NeOhmQ">
-            <span class="emphasis">Because if tomorrow never comes, you certainly will regret for the rest of your life</span>
-          </p>
-          <p class="line" pid="F9xECjQjPUuzbdFkswmaVw" hash="uNGdeA">
-            <span class="emphasis">Not having spent some extra time for a smile, a conversation, a hug, a kiss,</span>
-          </p>
-          <p class="line" pid="GeU_QzPak0G76ZQN1hZvVQ" hash="uQxpCg">
-            <span class="emphasis">Because you were too busy to give that person what ended up being their last wish.</span>
-          </p>
-          <p class="line" pid="Ycx5-M3r4kSSulqrdxhL6Q" hash="u7i_uQ">
-            <span class="emphasis">Then hug tight today the one you love, your friends, your family, and whisper in their ears how much you love them and want them close to you.</span>
-          </p>
-          <p class="line" pid="tFiyAKFWKUC_tGipR0xnOg" hash="HltkFw">
-            <span class="emphasis">Use your time to say,</span>
-          </p>
-          <p class="line" pid="yFYfZ8nxsEWKU1W0P99oSA" hash="dvyXew">
-            <span class="emphasis">“I’m sorry,”</span>
-          </p>
-          <p class="line" pid="GKzHGfxkhkG9B9Mi1iLAew" hash="TAuz5w">
-            <span class="emphasis">“Please,”</span>
-          </p>
-          <p class="line" pid="DhEj9qAgH0eq3iWPPzcErw" hash="igarXA">
-            <span class="emphasis">“Forgive me,”</span>
-          </p>
-          <p class="line" pid="RBEqOZu5PEy83YmHtJdRtA" hash="IulBpA">
-            <span class="emphasis">“Thank you,”</span>
-          </p>
-          <p class="line" pid="4lj0xKbqsk-1Xa5-dU412g" hash="sa9moA">
-            <span class="emphasis">Or even,</span>
-          </p>
-          <p class="line" pid="cA-ve7VsX0Cq0LUFSq8Urw" hash="XwoPxw">
-            <span class="emphasis">“That was nothing,”</span>
-          </p>
-          <p class="line" pid="CnB3_WASDEOxRrREgM-17g" hash="w8S-Cg">
-            <span class="emphasis">“It’s all right,”</span>
-          </p>
-          <p class="line" pid="DOQp4VGEUEmOc7fXXO4eUg" hash="TeTMsg">
-            <span class="emphasis">Because if tomorrow never comes, you will not have to regret today.</span>
-          </p>
-          <p class="line" pid="_vreYWzvMECQNI8A2bbgTw" hash="4nuPCA">
-            <span class="emphasis">The past doesn’t come back, and the future might not come!</span>
-            <span class="noteMarker" ref="f_10">10</span>
-          </p>
-        </div>
-      </div>
-      <p class="para" uri="/general-conference/2007/10/don-t-leave-for-tomorrow-what-you-can-do-today.p" pid="Cl-0zT3QfUmfXIWw6Iwt_g" hash="M0pzOQ">Let us express our love to our spouse and children and our brothers and sisters today. I know God lives. I know Jesus is the Christ, our Savior and Redeemer. I know that Joseph Smith is a prophet of the Lord and that Gordon B. Hinckley is God’s living prophet on this earth. In the name of Jesus Christ, amen.</p>
-    </div>
-  </div><div class="resources">
-    <div class="figure" uri="/general-conference/2007/10/don-t-leave-for-tomorrow-what-you-can-do-today.f3"><title>Notes</title><ol class="number" guid=""><li guid="ebcb9502-5f33-4b22-a746-dd26dc7fdda1" pid="cnf6zsrPEkeldwCeHdqV0w" hash="rPRIew1">
-        <span class="label">1.</span>
-        <p guid="3af942ba-13fc-48b7-8a0d-21ba309412f7" pid="Qw1RNQHq9USaiIf1YFlQdQ" hash="tyZGeQ">
-          <span class="emphasis">Liahona,</span> Oct. 2004, 49; <span class="emphasis">Ensign, </span>Nov. 1995, 102.</p>
-      </li><li guid="b0cf2a59-5b0e-464d-9b19-4fe0cae61cc2" pid="aNyWJ5k0pk-BtiX6lp-Lyw" hash="-XI1nQ1">
-        <span class="label">2.</span>
-        <p guid="3f67874c-5836-4faf-b315-e1ead31aff19" pid="JfgOUTVktUaadlZ-OU6YVQ" hash="p2gSIw">See <a href="/scriptures/dc-testament/dc/75.28" class="scriptureRef">D&amp;C 75:28</a>.</p>
-      </li><li guid="32d64860-3113-423a-97eb-a905f772d52c" pid="NpYQXP8V4UClTSJygW7cag" hash="x7fLdA1">
-        <span class="label">3.</span>
-        <p guid="8d733118-f7b7-4b75-981e-1bd02a847cc1" pid="cF0Z6MXnrk6AtjuumQBxuA" hash="mXqi4Q">See <a href="/scriptures/dc-testament/dc/68.25" class="scriptureRef">D&amp;C 68:25</a>.</p>
-      </li><li guid="97f4e118-3978-48ca-8c91-be6e45bf2100" pid="ATTBR7X_CkW5QgIEknSapw" hash="j2t9Vw1">
-        <span class="label">4.</span>
-        <p guid="03a4d845-7099-42b3-a2da-0f4a8a370968" pid="r3g6-ysKp0-irFKNtPVYwQ" hash="Jqj78Q">
-          <a href="/scriptures/bofm/1-ne/1.1" class="scriptureRef">1 Nephi 1:1</a>.</p>
-      </li><li guid="7bcbccf7-428a-4167-89b2-9798f279560e" pid="V7AMD7I15UC49A-8LCbvUg" hash="tTAlfA1">
-        <span class="label">5.</span>
-        <p guid="51c38bca-7ad1-4f32-81b7-d25d62ded237" pid="NDNYHWNU2U2ixtflmQAw2A" hash="tyZGeQ1">
-          <span class="emphasis">Liahona,</span> Oct. 2004, 49; <span class="emphasis">Ensign,</span> Nov. 1995, 102.</p>
-      </li><li guid="38aa14a9-144a-48c8-a613-5d39a5c34003" pid="MvX8yxPic0GBJbIii_yw6A" hash="srollA1">
-        <span class="label">6.</span>
-        <p guid="3216c7cd-5c40-41b4-a2dd-9c92bd93f9d0" pid="O3rkvxW6kUeoKFKRdgdueA" hash="5OBjWw">See “Challenges Facing the Family,” <span class="emphasis">Worldwide Leadership Training Meeting,</span> Jan. 10, 2004, 2–3.</p>
-      </li><li guid="56532dac-dc53-4582-9e4c-13b3b7c43659" pid="2VOfaKzngUCNkg9Ff03zmQ" hash="mVErkg1">
-        <span class="label">7.</span>
-        <p guid="a99fdbae-42e1-4765-a2dc-9602c8c17cb7" pid="gLRJ1gjoUUyVuKMK0T9MyA" hash="tyZGeQ2">
-          <span class="emphasis">Liahona,</span> Oct. 2004, 49; <span class="emphasis">Ensign,</span> Nov. 1995, 102.</p>
-      </li><li guid="b26c1a9c-ac5d-408a-8385-59b63b43f531" pid="d67AVq_dBES05ldjhMVUTw" hash="7Iuyvw1">
-        <span class="label">8.</span>
-        <p guid="51379c79-7892-451f-9ccd-3447d701c975" pid="bG579obKTUuqZuYCuIVReA" hash="OxxzNw">
-          <a href="/scriptures/nt/john/13.34" class="scriptureRef">John 13:34</a>.</p>
-      </li><li guid="610be11f-8ada-4885-9a6b-95bf683c2ac7" pid="3Nx-eOTKWUWvCQrWudWk_g" hash="oZX8_Q1">
-        <span class="label">9.</span>
-        <p guid="19d393cb-afbc-4709-9409-7d61135a5be8" pid="Zf5ep2m4ukOG0UthxDV15w" hash="atiUCQ">
-          <a href="/scriptures/nt/john/15.13" class="scriptureRef">John 15:13</a>.</p>
-      </li><li guid="e21ce28c-9d17-4545-85c7-de973978d515" pid="qm71KCGFA0WCR1I2c7gfHA" hash="R3-LDw1">
-        <span class="label">10.</span>
-        <p guid="3f6c628e-9ba0-4d01-a77c-860dee267af3" pid="u3kg38-ST0O3vHyNR0VNNA" hash="LnUtcA">See www.heartwhispers.net; printed with permission.</p>
-      </li></ol></div>
-    <img src="CostaCRM_all.ob.jpg" alt="Elder Claudio R. M. Costa" guid="9674e630-c00e-4571-b291-e231df8530d2" pid="9yKQWE7Mpk2PHiGmdZcmew" hash="L9Vq3A1" />
-    <unknown name="digitalAssets" guid="">
-      <unknown name="assetGroup" guid="">
-        <unknown name="path" guid="9674e630-c00e-4571-b291-e231df8530d2"></unknown>
-      </unknown>
-    </unknown>
-  </div></div>]]></content:encoded>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="73"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/fc162999fc5490f36f976d809504d2c18095debb/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/fc162999fc5490f36f976d809504d2c18095debb/full/%21192%2C/0/default" data-video-title="Don't Leave for Tomorrow What You Can Do Today" data-video-description="Now is the time to perform our God-given duties concerning the family." data-video-id="2235958998001" data-ip="Download and Streaming                            " data-duration="561327" data-assetId="c1bd804cf861e1938ec8f74f2abad0b3333c8e9d" data-ref-id="c1bd804cf861e1938ec8f74f2abad0b3333c8e9d" data-duration-string="9:21" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/2235958998001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="1280" data-height="720" data-file-size="50845600"/><source src="https://assets.churchofjesuschrist.org/c1bd804cf861e1938ec8f74f2abad0b3333c8e9d-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="28312609"/><source src="https://assets.churchofjesuschrist.org/c1bd804cf861e1938ec8f74f2abad0b3333c8e9d-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="50845600"/></video><h1 data-aid="28836847" id="title1">Don’t Leave for Tomorrow What You Can Do Today</h1>
+<div class="byline">
+<p class="author-name" data-aid="28836848" id="p1">By Elder Claudio R. M. Costa</p>
+<p class="author-role" data-aid="28836849" id="p2">Of the Presidency of the Seventy</p>
+<div class="image-cropper"><img alt="Elder Claudio R. M. Costa" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/b4bde6f94061aaefc979b6372b63ba97b8c1e20b/full/%21100%2C/0/default" data-assetId="b4bde6f94061aaefc979b6372b63ba97b8c1e20b" srcset="https://www.churchofjesuschrist.org/imgs/b4bde6f94061aaefc979b6372b63ba97b8c1e20b/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/b4bde6f94061aaefc979b6372b63ba97b8c1e20b/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/b4bde6f94061aaefc979b6372b63ba97b8c1e20b/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/b4bde6f94061aaefc979b6372b63ba97b8c1e20b/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/b4bde6f94061aaefc979b6372b63ba97b8c1e20b/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/b4bde6f94061aaefc979b6372b63ba97b8c1e20b/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/b4bde6f94061aaefc979b6372b63ba97b8c1e20b/full/%21640%2C/0/default 640w" data-img-id="b4bde6f94061aaefc979b6372b63ba97b8c1e20b" data-missing-asset="false" data-width="100" data-height="125" data-aspect-ratio="0.8" data-public-title="Costa, Claudio R. M." data-public-description="Former Official portrait of Elder Claudio R. M. Costa.  Replaced March 2017"/></div>
+</div>
+<p class="kicker" data-aid="28836850" id="kicker1">Now is the time to perform our God-given duties concerning the family.</p>
+</header>
+<div class="body-block">
+<p data-aid="28836851" id="p3">On September 23, 1995, the First Presidency and the Quorum of the Twelve Apostles introduced to the Church and the world a document called “The Family: A Proclamation to the World.” I quote from the paragraph which reads, “Husband and wife have a solemn responsibility to love and care for each other and for their children.”<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a> We live in a day and age in which this counsel is indeed very important. Many parents argue that they don’t have time for their families. The fast-paced lifestyle of modern-day life and excessive amounts of work are curbing parents’ attention from what is most important: to give time, to give of oneself to one’s family.</p>
+<p data-aid="28836852" id="p4">The Lord taught us that every man has the responsibility to provide for his family,<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a> but that does not mean solely to store up the house with food and other items which are needed or desired. We must also have time to provide our family with teachings. What should we teach?</p>
+<p data-aid="28836853" id="p5">Our Father has taught us that parents are obligated to teach the gospel to their children.<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a> The prophet Lehi understood well his responsibility to teach his children. Nephi declared that he had been taught “in all the learning of [his] father.”<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a></p>
+<p data-aid="28836854" id="p6">The Lord instructed us how to take care of our families when He told us through His prophets in the proclamation to the world, “Parents have a sacred duty to rear their children in love and righteousness, to provide for their physical and spiritual needs, to teach them to love and serve one another, to observe the commandments of God and to be law-abiding citizens wherever they live.”<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a></p>
+<p data-aid="28836855" id="p7">We know that God has taught us for centuries how to protect and take <span class="page-break" data-page="74"></span>care of our families. We also know and can see that the adversary has been attacking the family. Now is the time to use all those teachings. Now is the time to perform our God-given duties concerning the family.</p>
+<p data-aid="28836856" id="p8">President James E. Faust gave us three key things we can do to protect and strengthen our families:</p>
+<ol class="decimal" start="1">
+<li data-marker="1.">
+<p data-aid="28836857" id="p9">Family prayer. Parents must teach their children that they are God’s children and therefore need to pray to Him daily.</p>
+</li>
+<li data-marker="2.">
+<p data-aid="28836858" id="p10">Family home evening. As President Faust taught us, family home evening is for all of us no matter what stage of life we are in. We must have Monday nights free of all other activities that might keep us from gathering as a family.</p>
+</li>
+<li data-marker="3.">
+<p data-aid="28836859" id="p11">Personal and family scripture study. We need to help our children strengthen their faith and testimonies through this basic habit.<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a></p>
+</li>
+</ol>
+<p data-aid="28836860" id="p12">As we follow President Faust’s wise counsel, we will be protecting family members against Satan’s attacks as well as strengthening their faith and testimony in the Lord Jesus Christ.</p>
+<p data-aid="28836861" id="p13">In the family proclamation we also learn that “by divine design, fathers are to preside over their families in love and righteousness and are responsible to provide the necessities of life and protection for their families. Mothers are primarily responsible for the nurture of their children. In these sacred responsibilities, fathers and mothers are obligated to help one another as equal partners.”<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a></p>
+<p data-aid="28836862" id="p14">It is in the home that the family learns and applies gospel principles. Great love is necessary in order to teach and guide a family. Loving fathers and mothers will teach their children to worship God in their home. When a worshipping spirit permeates the home, that spirit is extended into the life of each family member. This will prepare them to make whatever sacrifice is necessary to be able to return to God’s presence and stay together as a family for all eternity.</p>
+<p data-aid="28836863" id="p15">The family proclamation helps us understand much of the love the Savior referred to when He told us we must “love one another.”<a class="note-ref" href="#note8"><sup class="marker" data-value="8"></sup></a> He gave us the supreme example of love when He declared, “Greater love hath no man than this, that a man lay down his life for his friends.”<a class="note-ref" href="#note9"><sup class="marker" data-value="9"></sup></a> He later atoned for all our sins and finally gave His life for all of us.</p>
+<p data-aid="28836864" id="p16">We can lay down our lives for those we love not by physically dying for them but rather by living for them—giving of our time, always being present in their lives, serving them, being courteous and affectionate, and showing true love for those of our family and to all men—as the Savior taught.</p>
+<p data-aid="28836865" id="p17">We don’t know what could happen to us tomorrow, and that is why today is the time to start showing your love through small acts such as a hug and an “I love you” to your spouse and children and those around you.</p>
+<p data-aid="28836866" id="p18">I recently read a text which expresses the urgency of not leaving for tomorrow what you can do today. In July of this year, Brazil witnessed the most devastating aircraft accident in its history. There were 199 people killed, including passengers, airline workers, crew members, and others who were at the site when the accident happened. The text I mentioned was said to have been posted on the airline communication board by the husband of one of the flight attendants who died in the accident. It is entitled “Tomorrow Never Comes” and is based upon a poem by Norma Cornett Marek.</p>
+<div class="poetry">
+<div class="stanza">
+<p class="line" data-aid="28836867" id="p19">If I knew this would be the last time I would watch you sleep,</p>
+<p class="line" data-aid="28836868" id="p20">I would hug you tighter. I would plead with the Lord to protect you.</p>
+<p class="line" data-aid="28836869" id="p21">If I knew this would be the last time <span class="page-break" data-page="75"></span>I saw you walk out the door,</p>
+<p class="line" data-aid="28836870" id="p22">I would hug and kiss you and call you back to hug and kiss you one more time.</p>
+<p class="line" data-aid="28836871" id="p23">If I knew this would be the last time I would hear your voice in prayer,</p>
+<p class="line" data-aid="28836872" id="p24">I would record every gesture, every look, every smile, every one of your words,</p>
+<p class="line" data-aid="28836873" id="p25">So that I could listen to it later, day after day.</p>
+<p class="line" data-aid="28836874" id="p26">If I knew this would be the last time,</p>
+<p class="line" data-aid="28836875" id="p27">I would spend an extra minute or two to tell you, “I love you,” instead of assuming you already knew it.</p>
+<p class="line" data-aid="28836876" id="p28">If I knew this would be our last time, our last moment,</p>
+<p class="line" data-aid="28836877" id="p29">I would be by your side, spending the day with you instead of thinking,</p>
+<p class="line" data-aid="28836878" id="p30">“Well, I’m sure other opportunities will come, so I can let this day go by.”</p>
+<p class="line" data-aid="28836879" id="p31">Of course there will be a day to revise things,</p>
+<p class="line" data-aid="28836880" id="p32">And we would have a second chance to do things right.</p>
+<p class="line" data-aid="28836881" id="p33">Oh, of course there will be another day for us to say, “I love you.”</p>
+<p class="line" data-aid="28836882" id="p34">And certainly there will be another chance to tell each other, “Can I help with anything?”</p>
+<p class="line" data-aid="28836883" id="p35">But in my case, there isn’t one!</p>
+<p class="line" data-aid="28836884" id="p36">I don’t have you here with me, and today is the last day we have—our farewell.</p>
+<p class="line" data-aid="28836885" id="p37">Therefore I would like to say how much I love you,</p>
+<p class="line" data-aid="28836886" id="p38">And I hope you never forget it.</p>
+<p class="line" data-aid="28836887" id="p39">Tomorrow is not promised to anyone, young or old.</p>
+<p class="line" data-aid="28836888" id="p40">Today might be your last chance to hold tight to the hand of the one you love and show all you feel.</p>
+<p class="line" data-aid="28836889" id="p41">If you are waiting for tomorrow, why not do it today?</p>
+<p class="line" data-aid="28836890" id="p42">Because if tomorrow never comes, you certainly will regret for the rest of your life</p>
+<p class="line" data-aid="28836891" id="p43">Not having spent some extra time for a smile, a conversation, a hug, a kiss,</p>
+<p class="line" data-aid="28836892" id="p44">Because you were too busy to give that person what ended up being their last wish.</p>
+<p class="line" data-aid="28836893" id="p45">Then hug tight today the one you love, your friends, your family, and whisper in their ears how much you love them and want them close to you.</p>
+<p class="line" data-aid="28836894" id="p46">Use your time to say,</p>
+<p class="line" data-aid="28836895" id="p47">“I’m sorry,”</p>
+<p class="line" data-aid="28836896" id="p48">“Please,”</p>
+<p class="line" data-aid="28836897" id="p49">“Forgive me,”</p>
+<p class="line" data-aid="28836898" id="p50">“Thank you,”</p>
+<p class="line" data-aid="28836899" id="p51">Or even,</p>
+<p class="line" data-aid="28836900" id="p52">“That was nothing,”</p>
+<p class="line" data-aid="28836901" id="p53">“It’s all right,”</p>
+<p class="line" data-aid="28836902" id="p54">Because if tomorrow never comes, you will not have to regret today.</p>
+<p class="line" data-aid="28836903" id="p55">The past doesn’t come back, and the future might not come!<a class="note-ref" href="#note10"><sup class="marker" data-value="10"></sup></a></p>
+</div>
+</div>
+<p data-aid="28836904" id="p56">Let us express our love to our spouse and children and our brothers and sisters today. I know God lives. I know Jesus is the Christ, our Savior and Redeemer. I know that Joseph Smith is a prophet of the Lord and that Gordon B. Hinckley is God’s living prophet on this earth. In the name of Jesus Christ, amen.</p>
+</div>
+<footer class="notes">
+<p class="title" data-aid="28836905" id="notetitle1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="28836906" id="note1_p1"><em>Liahona,</em> Oct. 2004, 49; <em>Ensign,</em> Nov. 1995, 102.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="28836907" id="note2_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/75?lang=eng&amp;id=p28#p28">D&amp;C 75:28</a>.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="28836908" id="note3_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/68?lang=eng&amp;id=p25#p25">D&amp;C 68:25</a>.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="28836909" id="note4_p1"><a class="scripture-ref" href="/study/scriptures/bofm/1-ne/1?lang=eng&amp;id=p1#p1">1 Nephi 1:1</a>.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="28836910" id="note5_p1"><em>Liahona,</em> Oct. 2004, 49; <em>Ensign,</em> Nov. 1995, 102.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="28836911" id="note6_p1">See “Challenges Facing the Family,” <em>Worldwide Leadership Training Meeting,</em> Jan. 10, 2004, 2–3.</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="28836912" id="note7_p1"><em>Liahona,</em> Oct. 2004, 49; <em>Ensign,</em> Nov. 1995, 102.</p>
+</li>
+<li data-marker="8." id="note8" data-full-marker="8.">
+<p data-aid="28836913" id="note8_p1"><a class="scripture-ref" href="/study/scriptures/nt/john/13?lang=eng&amp;id=p34#p34">John 13:34</a>.</p>
+</li>
+<li data-marker="9." id="note9" data-full-marker="9.">
+<p data-aid="28836914" id="note9_p1"><a class="scripture-ref" href="/study/scriptures/nt/john/15?lang=eng&amp;id=p13#p13">John 15:13</a>.</p>
+</li>
+<li data-marker="10." id="note10" data-full-marker="10.">
+<p data-aid="28836915" id="note10_p1">See www.heartwhispers.net; printed with permission.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/2007/10/don-t-leave-for-tomorrow-what-you-can-do-today</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/october-2007-general-conference/2007-10-4030-elder-claudio-r-m-costa-64k-eng.mp3" length="4483711" type="audio/mpeg"/>
-      <pubDate>Sun, 07 Oct 2007 10:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/8f2c5ed632dd11ecb675eeeeac1e6a69e469bf6b-64k-en.mp3" length="4762926" type="audio/mpeg"/>
+      <pubDate>Sun, 07 Oct 2007 10:00:00 -0600</pubDate>
+      <itunes:author>Claudio R. M. Costa</itunes:author>
     </item>
     <item>
       <title>Priesthood Responsibilities</title>
-      <link>http://www.lds.org/general-conference/2009/04/priesthood-responsibilities?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2009/04/priesthood-responsibilities?lang=eng</link>
       <description>As priesthood holders, we can be a powerful influence in the lives of others.</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/2009/04/priesthood-responsibilities" schema-version="1" doc-id="general-conference_PD50015887_000_021" doc-version="2" hash="-iD7Hg">
-  
-  <div class="heading" uri="/general-conference/2009/04/priesthood-responsibilities.head">
-    <h1 class="title" pid="M3yBmKd1m0m636V2TGoRjQ" hash="qBtNhQ">Priesthood Responsibilities</h1>
-    <p class="authorName" pid="cCzj6kcF0k2a6EUF5-Cd6A" hash="bUG7Tw">Claudio R. M. Costa</p>
-    <p class="kicker" pid="pona9YmPwEieHF2rs9U50g" hash="z5I6wQ">As priesthood holders, we can be a powerful influence in the lives of others.</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/2009/04/priesthood-responsibilities.t1">
-      <p class="para" uri="/general-conference/2009/04/priesthood-responsibilities.p1" pid="MGlwTBVGG0qM7xYB0GFUww" hash="pF4dDA">
-        <span class="pageBreak" page-number="56"></span>Elder Andersen, in behalf of the Seventies, I would like to say to you that we love you and we sustain you with our hearts and faith.</p>
-      <p class="para" uri="/general-conference/2009/04/priesthood-responsibilities.p2" pid="AmI0ZVYDp06l1KoQX8NQQA" hash="ix204g">My dear brethren, it is a sacred privilege to be part of the royal army of the Lord.<span class="noteMarker" ref="f_1">1</span> I am humbled as I stand before you, imagining you assembled in locations throughout the world.</p>
-      <p class="para" uri="/general-conference/2009/04/priesthood-responsibilities.p3" pid="JCqmsJ1quEqQrIbwfN4w3A" hash="rm6OOg">In the worldwide leadership training meeting held on June 21, 2003, President Gordon B. Hinckley taught us that as priesthood holders we have a fourfold responsibility. He said: “Each of us has a fourfold responsibility. First, we have a responsibility to our families. Second, we have a responsibility to our employers. Third, we have a responsibility to the Lord’s work. Fourth, we have a responsibility to ourselves.”<span class="noteMarker" ref="f_2">2</span></p>
-      <p class="para" uri="/general-conference/2009/04/priesthood-responsibilities.p4" pid="CDQnGeGRmUCNjMjxjfu9AA" hash="I1EFFg">The four areas of responsibility are vitally important.</p>
-      <p class="para" uri="/general-conference/2009/04/priesthood-responsibilities.p5" pid="NGZkF-_7Jkyi1APg4jDN_w" hash="6d0tCQ">President Hinckley said: “It is imperative that you not neglect your families. Nothing you have is more precious.”<span class="noteMarker" ref="f_3">3</span></p>
-      <p class="para" uri="/general-conference/2009/04/priesthood-responsibilities.p6" pid="aZnjK5FQGEyrxWfYr-4eZw" hash="NAI5JQ">It is our responsibility as fathers to lead our families in daily family prayer, daily study of the scriptures, and in family home evening. We must prioritize and preserve these opportunities to build and strengthen the spiritual underpinnings of our families. President Hinckley said: “Try not to let anything interfere. Consider it sacred.”<span class="noteMarker" ref="f_4">4</span></p>
-      <p class="para" uri="/general-conference/2009/04/priesthood-responsibilities.p7" pid="WnOGdBxLXUuB0Vp4vVMgHA" hash="zYHbZQ">Concerning family home evening, he said, “Keep Monday night sacred for family home evening.”<span class="noteMarker" ref="f_5">5</span></p>
-      <p class="para" uri="/general-conference/2009/04/priesthood-responsibilities.p8" pid="7IUDv-neJUG9fZdXNsLzKQ" hash="XBbixQ">Our children, just like their parents, have time demands on them in every aspect of their lives. They have activities involving church and school and friends. Many of our children are attending schools where they are the minority. Frequently the schools schedule events on Monday evenings—activities like sports, rehearsals or practices, choirs, and other events. We need to keep Monday nights free of other commitments so that we can have our family home evenings. No other activity is more important for our family.</p>
-      <p class="para" uri="/general-conference/2009/04/priesthood-responsibilities.p9" pid="RrDAEEkfJEGOK3E5U0nFzQ" hash="Vl_rGQ">It is during the family home evening and in other family settings that we prepare our children to receive the blessings of the Lord. Elder Russell M. Nelson of the Quorum of the Twelve said: “Ours is the responsibility to ensure that we have family prayer, scripture study, and family home evening. Ours is the responsibility to prepare our children to receive the ordinances of salvation and exaltation.”<span class="noteMarker" ref="f_6">6</span></p>
-      <p class="para" uri="/general-conference/2009/04/priesthood-responsibilities.p10" pid="8NjX3krrzEq5fgVa4OVxJA" hash="5sa9mg">Family home evening is a very special time for us to strengthen ourselves and each family member. It is important to include the whole family in assignments for family home evening. A child could share the Primary lesson that he or she had last Sunday. Family home evening strengthened the faith and testimony of my own family.</p>
-      <p class="para" uri="/general-conference/2009/04/priesthood-responsibilities.p11" pid="Cwua7J8HgUGPzlKxDx4OIA" hash="wZaTww">Daily study of the scriptures is another important family activity. I remember when my son was seven years old. He was taking a shower one night during a storm when we lost the power in our home. My wife called to him and told him to hurry to finish his shower and to then take a candle and come slowly downstairs for our family prayer. She warned him to be careful to not drop the candle on the carpet because it could start a fire and the house could burn down. Several minutes later he came down the stairs struggling to hold the candle in one hand, and with his other arm he was carrying his scriptures. His mother asked him why he was bringing his scriptures. His answer to her was “Mom, if the house burns down, I must save my scriptures!” We knew that our efforts to help him to love the scriptures had been planted in his heart forever.</p>
-      <p class="para" uri="/general-conference/2009/04/priesthood-responsibilities.p12" pid="EuFFnWJ2VEanBYuq9NQ9lg" hash="wan80g">Regarding our responsibility to our employers, President Hinckley said: “You have an obligation. Be honest with your employer. Do not do <span class="pageBreak" page-number="57"></span>Church work on his time.”<span class="noteMarker" ref="f_7">7</span></p>
-      <p class="para" uri="/general-conference/2009/04/priesthood-responsibilities.p13" pid="9GB8xC1v7kqBsZvA811Mcg" hash="gH4cSg">He also reminded us that our employment enables us to take care of our family as well as allowing us to be effective servants in the Church.</p>
-      <p class="para" uri="/general-conference/2009/04/priesthood-responsibilities.p14" pid="eJlusmZ8RkKU_UI_u0codg" hash="hIo-cA">Priesthood holders have many responsibilities and assignments. We have opportunities to visit, interview, teach, and serve people. It is our sacred responsibility to edify Church members and to help strengthen their faith and testimony of our Savior Jesus Christ. We have opportunities to take care of the families whom we serve as home teachers and to teach members to provide for themselves, their families, and the poor and needy in the Lord’s way. Priesthood holders have the responsibility to motivate the youth to prepare to serve honorable full-time missions and to be married in the temple.<span class="noteMarker" ref="f_8">8</span></p>
-      <p class="para" uri="/general-conference/2009/04/priesthood-responsibilities.p15" pid="V_vL6_heg0mO387krVU4dg" hash="OnScKw">President Ezra Taft Benson taught, “Priesthood holders need to provide watchcare over quorum members and their families through organized home teaching.”<span class="noteMarker" ref="f_9">9</span></p>
-      <p class="para" uri="/general-conference/2009/04/priesthood-responsibilities.p16" pid="CNeKGTVK4kiZbJ3vjrvTjw" hash="1KY7iw">We need to be concerned about each member of the Church for whom we have responsibility. Home teaching is one of our great responsibilities.</p>
-      <p class="para" uri="/general-conference/2009/04/priesthood-responsibilities.p17" pid="hvcRRmKVakuKeyIkJZnOZw" hash="_4hZMA">As fathers, we also have the sacred responsibility to set a worthy example for our children to help them to become better parents and leaders in their own homes. Quoting Elder M. Russell Ballard of the Quorum of the Twelve: “May we ask all priesthood leaders, especially you fathers, to help prepare your sons. Prepare them both spiritually and temporally, to look and to act as servants of the Lord.”<span class="noteMarker" ref="f_10">10</span></p>
-      <p class="para" uri="/general-conference/2009/04/priesthood-responsibilities.p18" pid="ffFl8cjO9kuapzNujqIgrA" hash="Uu1u9A">When we receive the priesthood, we make an eternal covenant to serve others.<span class="noteMarker" ref="f_11">11</span> As priesthood holders, we can be a powerful influence in the lives of others.</p>
-      <p class="para" uri="/general-conference/2009/04/priesthood-responsibilities.p19" pid="uNt8TCFtVUe8isWFQbmyMw" hash="Xd-RcA">President Thomas S. Monson reminded us: “How fortunate and blessed we are to be holders of the priesthood of God. …</p>
-      <p class="para" uri="/general-conference/2009/04/priesthood-responsibilities.p20" pid="AFpXUsSm00OY9c-rEZyF-Q" hash="p8S6Iw">“‘… Always remember that people are looking to you for leadership and you are influencing the lives of individuals either for good or for bad, which influence will be felt for generations to come.’”<span class="noteMarker" ref="f_12">12</span></p>
-      <p class="para" uri="/general-conference/2009/04/priesthood-responsibilities.p21" pid="h9JUNUxhhkOU-OcdDXv-Fg" hash="p_ZecQ">Our example will always speak loudly. During my years as a Church member, I have been influenced by the examples of many leaders and Church members. I remember a wonderful couple who were great examples to our family and to the entire ward. They were baptized in 1982. I was their bishop.</p>
-      <p class="para" uri="/general-conference/2009/04/priesthood-responsibilities.p22" pid="D_v9Ii-bXkKiG4UEQBTibg" hash="s1sUdQ">Celso and Irene lived quite far from the chapel. They walked 40 minutes each way to the church, and they never missed a meeting. They were always present with big smiles on their faces. It was their disposition to serve others. Celso and Irene have a son, Marcos, who was born mentally <span class="pageBreak" page-number="58"></span>and physically handicapped. I remember well how they took such loving care of their son. In 1999 Celso had a cerebral brain hemorrhage that left his lower body paralyzed. Celso continued to come to church faithfully with his family. They were faithful in the payment of their tithing and paid generous fast offerings. Our son Moroni is now their bishop, and he shared with me that Celso and Irene continue to serve faithfully. Not only do they serve in their ward callings; they also serve faithfully as ordinance workers in the São Paulo Brazil Temple. They serve every Friday from early morning until night. They always contribute so willingly of their time and resources in faithfully fulfilling their Church responsibilities.</p>
-      <p class="para" uri="/general-conference/2009/04/priesthood-responsibilities.p23" pid="U4NMtNYwyEeUoyEjTQfl0w" hash="QWzc-g">President Monson counseled: “Most service given by priesthood holders is accomplished quietly, without fanfare. A friendly smile, a warm handclasp, a sincere testimony of truth can literally lift lives, change human nature, and save precious souls.”<span class="noteMarker" ref="f_13">13</span></p>
-      <p class="para" uri="/general-conference/2009/04/priesthood-responsibilities.p24" pid="nTT5fy3Sy068QbTtqU_WXQ" hash="qyBcUw">That is the kind of quiet service rendered by Celso and Irene.</p>
-      <p class="para" uri="/general-conference/2009/04/priesthood-responsibilities.p25" pid="fltNVfS6WkaT7FoxgbfA_A" hash="CaFDdQ">As we consider the wise use of our time and resources to meet the needs of our families, our employment, and our Church callings, it is important to remember that every priesthood holder needs to grow spiritually. This is a responsibility we have to ourselves. And it is important to remember that we all have helpers.<span class="noteMarker" ref="f_14">14</span> The counsel from our prophets, seers, and revelators is the most precious help that we receive.</p>
-      <p class="para" uri="/general-conference/2009/04/priesthood-responsibilities.p26" pid="5IAUzakVbEKm5P7S1Ux4Mw" hash="zm6KDA">Our Savior extended this invitation to each and every one of us individually:</p>
-      <p class="para" uri="/general-conference/2009/04/priesthood-responsibilities.p27" pid="SsUq9EURqkS_GNzLZ8Sn2g" hash="NJrEVg">“Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls.</p>
-      <p class="para" uri="/general-conference/2009/04/priesthood-responsibilities.p28" pid="Nn-OMlDVcEeb3bXL9_qIhg" hash="jyDSsg">“For my yoke is easy, and my burden is light.”<span class="noteMarker" ref="f_15">15</span></p>
-      <p class="para" uri="/general-conference/2009/04/priesthood-responsibilities.p29" pid="epc-CTT-8U-ncURtdmVp-A" hash="XDxzHA">When we do His work and His will, rather than our own will, we will realize that the yoke is easy and the burden is light. He will be with us always. He will reveal to us the exact portion that we need for success with our families, our career, and every responsibility that we have in His Church. He will help us to grow individually and as brethren in the priesthood.</p>
-      <p class="para" uri="/general-conference/2009/04/priesthood-responsibilities.p30" pid="zLo-OArnm06zWhoZ1BmUSg" hash="1lfBgw">I know that the Church is true. I know that Joseph Smith is a prophet of God. I know that Thomas S. Monson is the living prophet on the earth today. I know that Jesus is the Christ, our Savior and Redeemer, in the name of Jesus Christ, amen.</p>
-    </div>
-  </div>
-  
-</div>]]></content:encoded>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="56"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/f22c45228a99b3cd19f3938e7ef6f86c4f0ae579/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/f22c45228a99b3cd19f3938e7ef6f86c4f0ae579/full/%21192%2C/0/default" data-video-title="Priesthood Responsibilities" data-video-description="As priesthood holders, we can be a powerful influence in the lives of others." data-video-id="2235859777001" data-ip="Download and Streaming                            " data-duration="673105" data-assetId="6536a675ce2b08bd1893f7c9ae2391cecfc09bd6" data-ref-id="6536a675ce2b08bd1893f7c9ae2391cecfc09bd6" data-duration-string="11:13" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/2235859777001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="640" data-height="360" data-file-size="34029017"/><source src="https://assets.churchofjesuschrist.org/6536a675ce2b08bd1893f7c9ae2391cecfc09bd6-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="34029017"/></video><h1 data-aid="28843284" id="title1">Priesthood Responsibilities</h1>
+<div class="byline">
+<p class="author-name" data-aid="28843285" id="p1">By Elder Claudio R. M. Costa</p>
+<p class="author-role" data-aid="28843286" id="p2">Of the Presidency of the Seventy</p>
+<div class="image-cropper"><img alt="Elder Claudio R. M. Costa" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/b4bde6f94061aaefc979b6372b63ba97b8c1e20b/full/%21100%2C/0/default" data-assetId="b4bde6f94061aaefc979b6372b63ba97b8c1e20b" srcset="https://www.churchofjesuschrist.org/imgs/b4bde6f94061aaefc979b6372b63ba97b8c1e20b/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/b4bde6f94061aaefc979b6372b63ba97b8c1e20b/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/b4bde6f94061aaefc979b6372b63ba97b8c1e20b/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/b4bde6f94061aaefc979b6372b63ba97b8c1e20b/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/b4bde6f94061aaefc979b6372b63ba97b8c1e20b/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/b4bde6f94061aaefc979b6372b63ba97b8c1e20b/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/b4bde6f94061aaefc979b6372b63ba97b8c1e20b/full/%21640%2C/0/default 640w" data-img-id="b4bde6f94061aaefc979b6372b63ba97b8c1e20b" data-missing-asset="false" data-width="100" data-height="125" data-aspect-ratio="0.8" data-public-title="Costa, Claudio R. M." data-public-description="Former Official portrait of Elder Claudio R. M. Costa.  Replaced March 2017"/></div>
+</div>
+<p class="kicker" data-aid="28843287" id="kicker1">As priesthood holders, we can be a powerful influence in the lives of others.</p>
+</header>
+<div class="body-block">
+<p data-aid="28843288" id="p3">Elder Andersen, in behalf of the Seventies, I would like to say to you that we love you and we sustain you with our hearts and faith.</p>
+<p data-aid="28843289" id="p4">My dear brethren, it is a sacred privilege to be part of the royal army of the Lord.<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a> I am humbled as I stand before you, imagining you assembled in locations throughout the world.</p>
+<p data-aid="28843290" id="p5">In the worldwide leadership training meeting held on June 21, 2003, President Gordon B. Hinckley taught us that as priesthood holders we have a fourfold responsibility. He said: “Each of us has a fourfold responsibility. First, we have a responsibility to our families. Second, we have a responsibility to our employers. Third, we have a responsibility to the Lord’s work. Fourth, we have a responsibility to ourselves.”<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a></p>
+<p data-aid="28843291" id="p6">The four areas of responsibility are vitally important.</p>
+<p data-aid="28843292" id="p7">President Hinckley said: “It is imperative that you not neglect your families. Nothing you have is more precious.”<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a></p>
+<p data-aid="28843293" id="p8">It is our responsibility as fathers to lead our families in daily family prayer, daily study of the scriptures, and in family home evening. We must prioritize and preserve these opportunities to build and strengthen the spiritual underpinnings of our families. President Hinckley said: “Try not to let anything interfere. Consider it sacred.”<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a></p>
+<p data-aid="28843294" id="p9">Concerning family home evening, he said, “Keep Monday night sacred for family home evening.”<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a></p>
+<p data-aid="28843295" id="p10">Our children, just like their parents, have time demands on them in every aspect of their lives. They have activities involving church and school and friends. Many of our children are attending schools where they are the minority. Frequently the schools schedule events on Monday evenings—activities like sports, rehearsals or practices, choirs, and other events. We need to keep Monday nights free of other commitments so that we can have our family home evenings. No other activity is more important for our family.</p>
+<p data-aid="28843296" id="p11">It is during the family home evening and in other family settings that we prepare our children to receive the blessings of the Lord. Elder Russell M. Nelson of the Quorum of the Twelve said: “Ours is the responsibility to ensure that we have family prayer, scripture study, and family home evening. Ours is the responsibility to prepare our children to receive the ordinances of salvation and exaltation.”<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a></p>
+<p data-aid="28843297" id="p12">Family home evening is a very special time for us to strengthen ourselves and each family member. It is important to include the whole family in assignments for family home evening. A child could share the Primary lesson that he or she had last Sunday. Family home evening strengthened the faith and testimony of my own family.</p>
+<p data-aid="28843298" id="p13">Daily study of the scriptures is another important family activity. I remember when my son was seven years old. He was taking a shower one night during a storm when we lost the power in our home. My wife called to him and told him to hurry to finish his shower and to then take a candle and come slowly downstairs for our family prayer. She warned him to be careful to not drop the candle on the carpet because it could start a fire and the house could burn down. Several minutes later he came down the stairs struggling to hold the candle in one hand, and with his other arm he was carrying his scriptures. His mother asked him why he was bringing his scriptures. His answer to her was, “Mom, if the house burns down, I must save my scriptures!” We knew that our efforts to help him to love the scriptures had been planted in his heart forever.</p>
+<p data-aid="28843299" id="p14">Regarding our responsibility to our employers, President Hinckley said: “You have an obligation. Be honest with your employer. Do not do <span class="page-break" data-page="57"></span>Church work on his time.”<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a></p>
+<p data-aid="28843300" id="p15">He also reminded us that our employment enables us to take care of our family as well as allowing us to be effective servants in the Church.</p>
+<p data-aid="28843301" id="p16">Priesthood holders have many responsibilities and assignments. We have opportunities to visit, interview, teach, and serve people. It is our sacred responsibility to edify Church members and to help strengthen their faith and testimony of our Savior Jesus Christ. We have opportunities to take care of the families whom we serve as home teachers and to teach members to provide for themselves, their families, and the poor and needy in the Lord’s way. Priesthood holders have the responsibility to motivate the youth to prepare to serve honorable full-time missions and to be married in the temple.<a class="note-ref" href="#note8"><sup class="marker" data-value="8"></sup></a></p>
+<p data-aid="28843302" id="p17">President Ezra Taft Benson taught, “Priesthood holders need to provide watchcare over quorum members and their families through organized home teaching.”<a class="note-ref" href="#note9"><sup class="marker" data-value="9"></sup></a></p>
+<p data-aid="28843303" id="p18">We need to be concerned about each member of the Church for whom we have responsibility. Home teaching is one of our great responsibilities.</p>
+<p data-aid="28843304" id="p19">As fathers, we also have the sacred responsibility to set a worthy example for our children to help them to become better parents and leaders in their own homes. Quoting Elder M. Russell Ballard of the Quorum of the Twelve: “May we ask all priesthood leaders, especially you fathers, to help prepare your sons. Prepare them both spiritually and temporally, to look and to act as servants of the Lord.”<a class="note-ref" href="#note10"><sup class="marker" data-value="10"></sup></a></p>
+<p data-aid="28843305" id="p20">When we receive the priesthood, we make an eternal covenant to serve others.<a class="note-ref" href="#note11"><sup class="marker" data-value="11"></sup></a> As priesthood holders, we can be a powerful influence in the lives of others.</p>
+<p data-aid="28843306" id="p21">President Thomas S. Monson reminded us: “How fortunate and blessed we are to be holders of the priesthood of God. …</p>
+<p data-aid="28843307" id="p22">“‘… Always remember that people are looking to you for leadership and you are influencing the lives of individuals either for good or for bad, which influence will be felt for generations to come.’”<a class="note-ref" href="#note12"><sup class="marker" data-value="12"></sup></a></p>
+<p data-aid="28843308" id="p23">Our example will always speak loudly. During my years as a Church member, I have been influenced by the examples of many leaders and Church members. I remember a wonderful couple who were great examples to our family and to the entire ward. They were baptized in 1982. I was their bishop.</p>
+<p data-aid="28843309" id="p24">Celso and Irene lived quite far from the chapel. They walked 40 minutes each way to the church, and they never missed a meeting. They were always present with big smiles on their faces. It was their disposition to serve others. Celso and Irene have a son, Marcos, who was born mentally <span class="page-break" data-page="58"></span>and physically handicapped. I remember well how they took such loving care of their son. In 1999 Celso had a cerebral brain hemorrhage that left his lower body paralyzed. Celso continued to come to church faithfully with his family. They were faithful in the payment of their tithing and paid generous fast offerings. Our son Moroni is now their bishop, and he shared with me that Celso and Irene continue to serve faithfully. Not only do they serve in their ward callings; they also serve faithfully as ordinance workers in the São Paulo Brazil Temple. They serve every Friday from early morning until night. They always contribute so willingly of their time and resources in faithfully fulfilling their Church responsibilities.</p>
+<p data-aid="28843310" id="p25">President Monson counseled: “Most service given by priesthood holders is accomplished quietly, without fanfare. A friendly smile, a warm handclasp, a sincere testimony of truth can literally lift lives, change human nature, and save precious souls.”<a class="note-ref" href="#note13"><sup class="marker" data-value="13"></sup></a></p>
+<p data-aid="28843311" id="p26">That is the kind of quiet service rendered by Celso and Irene.</p>
+<p data-aid="28843312" id="p27">As we consider the wise use of our time and resources to meet the needs of our families, our employment, and our Church callings, it is important to remember that every priesthood holder needs to grow spiritually. This is a responsibility we have to ourselves. And it is important to remember that we all have helpers.<a class="note-ref" href="#note14"><sup class="marker" data-value="14"></sup></a> The counsel from our prophets, seers, and revelators is the most precious help that we receive.</p>
+<p data-aid="28843313" id="p28">Our Savior extended this invitation to each and every one of us individually:</p>
+<p data-aid="28843314" id="p29">“Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls.</p>
+<p data-aid="28843315" id="p30">“For my yoke is easy, and my burden is light.”<a class="note-ref" href="#note15"><sup class="marker" data-value="15"></sup></a></p>
+<p data-aid="28843316" id="p31">When we do His work and His will, rather than our own will, we will realize that the yoke is easy and the burden is light. He will be with us always. He will reveal to us the exact portion that we need for success with our families, our career, and every responsibility that we have in His Church. He will help us to grow individually and as brethren in the priesthood.</p>
+<p data-aid="28843317" id="p32">I know that the Church is true. I know that Joseph Smith is a prophet of God. I know that Thomas S. Monson is the living prophet on the earth today. I know that Jesus is the Christ, our Savior and Redeemer, in the name of Jesus Christ, amen.</p>
+</div>
+<footer class="notes">
+<p class="title" data-aid="150470627" id="notetitle1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="28843318" id="note1_p1">See “Behold! A Royal Army,” <em>Hymns,</em> no. 251.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="28843319" id="note2_p1">Gordon B. Hinckley, “Rejoicing in the Privilege to Serve,” <em>Worldwide Leadership Training Meeting,</em> June 21, 2003, 22.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="28843320" id="note3_p1">Gordon B. Hinckley, “Rejoicing in the Privilege to Serve,” 22.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="28843321" id="note4_p1">Gordon B. Hinckley, “Rejoicing in the Privilege to Serve,” 22.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="28843322" id="note5_p1">Gordon B. Hinckley, “Rejoicing in the Privilege to Serve,” 23.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="28843323" id="note6_p1">Russell M. Nelson, in Conference Report, Apr. 1999, <a class="cross-ref" href="/study/general-conference/1999/04/our-sacred-duty-to-honor-women?lang=eng&amp;id=p28#p28">53</a>; or <em>Ensign,</em> May 1999, 40.</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="28843324" id="note7_p1">Gordon B. Hinckley, “Rejoicing in the Privilege to Serve,” 23.</p>
+</li>
+<li data-marker="8." id="note8" data-full-marker="8.">
+<p data-aid="28843325" id="note8_p1">See First Presidency letter, Sept. 25, 1996, “Leadership Training Emphasis.”</p>
+</li>
+<li data-marker="9." id="note9" data-full-marker="9.">
+<p data-aid="28843326" id="note9_p1">Ezra Taft Benson, “Strengthen Thy Stakes,” <em>Tambuli,</em> Aug. 1991, 6; <em>Ensign,</em> Jan. 1991, 5.</p>
+</li>
+<li data-marker="10." id="note10" data-full-marker="10.">
+<p data-aid="28843327" id="note10_p1">M. Russell Ballard, in Conference Report, Apr. 1985, <a class="cross-ref" href="/study/general-conference/1985/04/prepare-to-serve?lang=eng&amp;id=p16#p16">55</a>; or <em>Ensign,</em> May 1985, 43.</p>
+</li>
+<li data-marker="11." id="note11" data-full-marker="11.">
+<p data-aid="28843328" id="note11_p1">See M. Russell Ballard, “The Greater Priesthood: Giving a Lifetime of Service in the Kingdom,” <em>Ensign,</em> Sept. 1992, 72.</p>
+</li>
+<li data-marker="12." id="note12" data-full-marker="12.">
+<p data-aid="28843329" id="note12_p1">Thomas S. Monson, in Conference Report, Apr. 2008, <a class="cross-ref" href="/study/general-conference/2008/04/examples-of-righteousness?lang=eng&amp;id=p3%2Cp15#p3">65–66</a>; or <em>Ensign,</em> May 2008, 65–66; see also N. Eldon Tanner, in Conference Report, Oct. 1975, <a class="cross-ref" href="/study/general-conference/1975/10/for-they-loved-the-praise-of-men-more-than-the-praise-of-god?lang=eng&amp;id=p6#p6">112</a>; or <em>Ensign,</em> Nov. 1975, 74.</p>
+</li>
+<li data-marker="13." id="note13" data-full-marker="13.">
+<p data-aid="28843330" id="note13_p1">Thomas S. Monson, in Conference Report, Oct. 2008, <a class="cross-ref" href="/study/general-conference/2008/10/to-learn-to-do-to-be?lang=eng&amp;id=p34#p34">64</a>; or <em>Ensign,</em> Nov. 2008, 62.</p>
+</li>
+<li data-marker="14." id="note14" data-full-marker="14.">
+<p data-aid="28843331" id="note14_p1">See Gordon B. Hinckley, “Rejoicing in the Privilege to Serve,” 23.</p>
+</li>
+<li data-marker="15." id="note15" data-full-marker="15.">
+<p data-aid="28843332" id="note15_p1"><a class="scripture-ref" href="/study/scriptures/nt/matt/11?lang=eng&amp;id=p29-p30#p29">Matthew 11:29–30</a>.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/2009/04/priesthood-responsibilities</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/april-2009-general-conference/2009-04-3030-elder-claudio-r-m-costa-64k-eng.mp3" length="5355289" type="audio/mpeg"/>
-      <pubDate>Sat, 04 Apr 2009 18:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/c42057f232db11ec8868eeeeac1e3d3806c24597-32k-en.mp3" length="2986573" type="audio/mpeg"/>
+      <pubDate>Sat, 04 Apr 2009 18:00:00 -0600</pubDate>
+      <itunes:author>Claudio R. M. Costa</itunes:author>
     </item>
     <item>
       <title>Obedience to the Prophets</title>
-      <link>http://www.lds.org/general-conference/2010/10/obedience-to-the-prophets?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2010/10/obedience-to-the-prophets?lang=eng</link>
       <description>What a great blessing it is to have prophets in our day!</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/2010/10/obedience-to-the-prophets" schema-version="1" doc-id="general-conference_PD50021411_000_1040" doc-version="2" hash="m5XUig">
-  
-  <div class="heading" uri="/general-conference/2010/10/obedience-to-the-prophets.head">
-    <h1 class="title" pid="hDXdZBezQU-WmAOdyfehnw" hash="NT4Bqg">Obedience to the Prophets</h1>
-    <p class="authorName" pid="6etiCF_loUi97iej34LQ0w" hash="bUG7Tw">Claudio R. M. Costa</p>
-    <p class="kicker" pid="I149mQcNnEu2pJ0-ImDjOg" hash="O2hR1Q">What a great blessing it is to have prophets in our day!</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/2010/10/obedience-to-the-prophets.t1">
-      <p class="para" uri="/general-conference/2010/10/obedience-to-the-prophets.p1" pid="YNjbr4rppUWM8dUgtUl8bA" hash="HMHxlg">I am a convert to the Church. I am so grateful that God answered my prayer and gave me a knowledge and a strong testimony that Joseph Smith is a prophet of God.</p>
-      <p class="para" uri="/general-conference/2010/10/obedience-to-the-prophets.p2" pid="_G0Md9ct_kaWg-70PD79DQ" hash="VNzoqA">Before I made the decision to be baptized in The Church of Jesus Christ of Latter-day Saints, I studied extracts from the history of Joseph Smith. I prayed after carefully reading each paragraph. If you would like to do this yourself, it may take you 14 hours.</p>
-      <p class="para" uri="/general-conference/2010/10/obedience-to-the-prophets.p3" pid="ezk7TYgV1kmnLMqhFYx7TA" hash="eJmFFQ">After I read, pondered, and prayed, the Lord gave me the assurance that Joseph Smith was His prophet. I testify to you that Joseph Smith is a prophet, and because I have received this answer from the Lord, I know that all of his successors are prophets too. What a great blessing it is to have prophets in our day!</p>
-      <p class="para" uri="/general-conference/2010/10/obedience-to-the-prophets.p4" pid="rKkifin7VES60GlcGXRPAQ" hash="UpG9Yg">Why is it important to have living prophets to guide the true Church of Jesus Christ and its members?</p>
-      <p class="para" uri="/general-conference/2010/10/obedience-to-the-prophets.p5" pid="9gpzc3_oXkixQneuVwd1-A" hash="MOqzqg">In the Guide to the Scriptures, we find the definition of the word <span class="emphasis">prophet:</span> “A person who has been called by and speaks for God. As a messenger of God, a prophet receives commandments, prophecies, and revelations from God” (<a href="http://scriptures.lds.org/en/gs/p/65">“Prophet,” scriptures.lds.org</a>; see also <a href="http://scriptures.lds.org/en/bd/p/61">Bible Dictionary, “Prophet”</a>).</p>
-      <p class="para" uri="/general-conference/2010/10/obedience-to-the-prophets.p6" pid="jvolAElmtUefBiVmuoiHjg" hash="ZO0G9w">It is a great blessing to receive the word, commandments, and guidance of the Lord in these difficult days of the earth. The prophet can be inspired to see the future in benefit of mankind.</p>
-      <p class="para" uri="/general-conference/2010/10/obedience-to-the-prophets.p7" pid="gLlt6pTlGkKWGQwKW6aY5w" hash="mBw-dg">We are told that “surely the Lord God will do nothing, but he revealeth his secret unto his servants the prophets” (<a href="/scriptures/ot/amos/3.7" class="scriptureRef">Amos 3:7</a>). We learn from this scripture that the Lord will reveal to His prophets absolutely anything that He feels is necessary to communicate to us. He will reveal His will to us, and He will instruct us through His prophets.</p>
-      <p class="para" uri="/general-conference/2010/10/obedience-to-the-prophets.p8" pid="7550dXfwyEaDwn4OJCKykA" hash="taB2_Q">The Lord promised us that if we believe in the holy prophets, we should have eternal life (see <a href="/scriptures/dc-testament/dc/20.26" class="scriptureRef">D&amp;C 20:26</a>). In the sixth article of faith, we declare that we believe in prophets. To believe means to have faith and confidence in them and to follow and do what the prophets ask us to do.</p>
-      <p class="para" uri="/general-conference/2010/10/obedience-to-the-prophets.p9" pid="ArOGznPj9EqMBkPhKM7ojw" hash="fcB8kg">In 1980, when President Ezra Taft Benson was serving as President of the Quorum of the Twelve Apostles, he gave a powerful message about obedience to the prophets at a BYU devotional in the Marriott Center. His great talk, titled “Fourteen Fundamentals in Following the Prophet,” touched my heart. It made me feel good that I had made the decision to follow the prophets for the rest of my life when I accepted baptism in the Lord’s true Church.</p>
-      <p class="para" uri="/general-conference/2010/10/obedience-to-the-prophets.p10" pid="vm8BPv5-50ay7mg8yW9bgg" hash="kmvOMg">I would like to share with you some of the principles that President Benson taught:</p>
-      <p class="para" uri="/general-conference/2010/10/obedience-to-the-prophets.p11" pid="fGyyH5XTjkm1rNokEvuktg" hash="PJOXKQ">“First: <span class="emphasis">The prophet is the only man who speaks for the Lord in everything</span>” (<span class="emphasis">1980 Devotional Speeches of the Year </span>[1981], 26).</p>
-      <p class="para" uri="/general-conference/2010/10/obedience-to-the-prophets.p12" pid="b23cplIRzU-DhT4i4kjdwA" hash="LTpAzQ">In our day the prophet of God has told us to keep the commandments, to love our fellowman, to serve, to take care of the rising generation, to rescue the inactive or less active—to do many things that we call prophetic priorities. We need to understand that these priorities are God’s priorities and the prophet is His voice in communicating them to all of the Church and the world.</p>
-      <p class="para" uri="/general-conference/2010/10/obedience-to-the-prophets.p13" pid="rmelmDReSUmetLTbMViAUA" hash="n5aPoQ">We are counseled to “give heed unto all his words and commandments” (<a href="/scriptures/dc-testament/dc/21.4" class="scriptureRef">D&amp;C 21:4</a>). We also learn:</p>
-      <p class="para" uri="/general-conference/2010/10/obedience-to-the-prophets.p14" pid="ynjcD8RUuUSDFdIM90kFFA" hash="uUD4iA">“For his word ye shall receive, as if from mine own mouth, in all patience and faith.</p>
-      <p class="para" uri="/general-conference/2010/10/obedience-to-the-prophets.p15" pid="Wp6yk0ayDkm0JpLsVMumBg" hash="m42xDw">“For by doing these things the gates of hell shall not prevail against you; yea, and the Lord God will disperse the powers of darkness from before you, and cause the heavens to shake for your good, and his name’s glory” (<a href="/scriptures/dc-testament/dc/21.5-6" class="scriptureRef">D&amp;C 21:5–6</a>).</p>
-      <p class="para" uri="/general-conference/2010/10/obedience-to-the-prophets.p16" pid="cT5aMNoekkqOeMgExx4syg" hash="e4gxXg">Second fundamental: <span class="emphasis">“The living prophet is more vital to us than the standard works” </span>(“Fourteen Fundamentals,” 26).</p>
-      <p class="para" uri="/general-conference/2010/10/obedience-to-the-prophets.p17" pid="SX5JqRwoP0C2NEeuyclpXw" hash="ejVNkQ">The living prophet is receiving specific revelations for us. I can remember many times when I have been present to hear one of the servants of the Lord speak about a specific thing for a city or country. I remember at least three of the living prophets, seers, and revelators who have spoken about my country, Brazil. One of these servants said that Brazil would become a great economy in the world and be free of inflation. At the time, we had two-digit inflation every month. It was difficult for many people to believe what the prophet said, but I believed. Brazil has had about 5 percent inflation each year for many consecutive years now. Brazil has become eighth in the world economy, and the country is doing great!</p>
-      <p class="para" uri="/general-conference/2010/10/obedience-to-the-prophets.p18" pid="0MJP1C3ry0y5yB7cylYSlA" hash="S6VSsA">Third fundamental: <span class="emphasis">“The living prophet is more important to us than a dead prophet” </span>(“Fourteen Fundamentals,” 27).</p>
-      <p class="para" uri="/general-conference/2010/10/obedience-to-the-prophets.p19" pid="YpnMgU7shUySvpg6f5y96w" hash="jEXLoQ">We learn a great lesson about this from the scriptures. In the times of Noah it was easier for the people to believe in the dead prophets, but it was difficult for them to believe in Noah. We know that because of their incredulity they did not survive the Flood (see <a href="/scriptures/ot/gen/6?span=6-7" class="scriptureRef">Genesis 6–7</a>).</p>
-      <p class="para" uri="/general-conference/2010/10/obedience-to-the-prophets.p20" pid="tz9cInMSREijT8_eyjhhdQ" hash="5murMw">Fourth fundamental: <span class="emphasis">“The prophet will never lead the Church astray”</span> (“Fourteen Fundamentals,” 27).</p>
-      <p class="para" uri="/general-conference/2010/10/obedience-to-the-prophets.p21" pid="seXN9DSyYkypTFezg0X-9A" hash="bYY5Rw">Again we learn from the living prophets. President Wilford Woodruff said: “The Lord will never permit me or any other man who stands as President of this Church to lead you astray. It is not in the programme. It is not in the mind of God. If I were to attempt that, the Lord would remove me out of my place, and so He will any other man who attempts to lead the children of men astray from the oracles of God and from their duty” (<a href="/scriptures/dc-testament/od/1" class="scriptureRef">Official Declaration 1</a>).</p>
-      <p class="para" uri="/general-conference/2010/10/obedience-to-the-prophets.p22" pid="apiFl-tVQEqKk3GRYZQPYw" hash="I36aaA">Fifth fundamental: <span class="emphasis">“The prophet is not required to have any particular earthly training or credentials to speak on any subject or act on any matter at any time”</span> (“Fourteen Fundamentals,” 27).</p>
-      <p class="para" uri="/general-conference/2010/10/obedience-to-the-prophets.p23" pid="j_1uXmnnA0yGVUWnU0TCdw" hash="RLExcg">The Lord called a young man, Joseph Smith, to restore His Church. Do you think that the young Joseph Smith was a doctor in theology or science? We know that he was a humble and not academically educated young man. But he was chosen by the Lord, and he received from the Lord all that was necessary to honor and magnify the calling of a prophet of the Restoration.</p>
-      <p class="para" uri="/general-conference/2010/10/obedience-to-the-prophets.p24" pid="I3bGc4cFz02Lg-fCHo2uFA" hash="zVUGHA">President Benson continued:</p>
-      <p class="para" uri="/general-conference/2010/10/obedience-to-the-prophets.p25" pid="dLW2lorpsECE-2PGTt89zw" hash="J1HbCg">“Sixth: <span class="emphasis">The prophet does not have to say ‘Thus saith the Lord’ to give us scripture. …</span></p>
-      <p class="para" uri="/general-conference/2010/10/obedience-to-the-prophets.p26" pid="MSeDOVy110ymUgpgH8lcZw" hash="V2C2WQ">“Seventh: <span class="emphasis">The prophet tells us what we need to know, not always what we want to know</span>” (“Fourteen Fundamentals,” 27, 28).</p>
-      <p class="para" uri="/general-conference/2010/10/obedience-to-the-prophets.p27" pid="VK8aWHSJOUyBSngsTsK67A" hash="QOYieg">And then President Benson quoted from <a href="/scriptures/bofm/1-ne/16.1,3" class="scriptureRef">1 Nephi 16:1, 3</a>:</p>
-      <p class="para" uri="/general-conference/2010/10/obedience-to-the-prophets.p28" pid="gHQrFg02PE-W4_I3DRyxpw" hash="Xw0KcQ">“And now it came to pass that after I, Nephi, had made an end of speaking to my brethren, behold they said unto me: Thou hast declared unto us hard things, more than we are able to bear. …</p>
-      <p class="para" uri="/general-conference/2010/10/obedience-to-the-prophets.p29" pid="m3kh9-Vqt0KR8LgT1lRjvA" hash="jbvIrQ">“And now my brethren, if ye were righteous and were willing to hearken to the truth, and give heed unto it, that ye might walk uprightly before God, then ye would not murmur because of the truth, and say: Thou speakest hard things against us.”</p>
-      <p class="para" uri="/general-conference/2010/10/obedience-to-the-prophets.p30" pid="cD6p403sYUGMckezHbcyjg" hash="cVvZJA">Eighth fundamental: <span class="emphasis">“The prophet is not limited by men’s reasoning. …</span></p>
-      <p class="para" uri="/general-conference/2010/10/obedience-to-the-prophets.p31" pid="DU4_p5hlFUCIRQDjpYYmmQ" hash="o5W65w">“… Does it seem reasonable to cure leprosy by telling a man to wash seven times in a particular river? Yet this is precisely what the prophet Elisha told a leper to do, and he was healed. (See <a href="/scriptures/ot/2-kgs/5" class="scriptureRef">2 Kings 5</a>.)” (“Fourteen Fundamentals,” 28).</p>
-      <p class="para" uri="/general-conference/2010/10/obedience-to-the-prophets.p32" pid="RAL6rViYFkCjCQUgfROfXA" hash="xtPFoA">And President Benson continued giving other principles about obedience to the prophet. I will read the last six and invite you in your next family home evening to find these principles in the words and teachings of our living prophets, seers, and revelators during this general conference.</p>
-      <p class="para" uri="/general-conference/2010/10/obedience-to-the-prophets.p33" pid="RIJjR2xe_Uy21UA4h_WpGw" hash="iKqxnw">“Ninth: <span class="emphasis">The prophet can receive revelation on any matter—temporal or spiritual. …</span></p>
-      <p class="para" uri="/general-conference/2010/10/obedience-to-the-prophets.p34" pid="TSg5aPwt2ECSs7SmKzb4ow" hash="lCm2hA">“Tenth: <span class="emphasis">The prophet may be involved in civic matters. …</span></p>
-      <p class="para" uri="/general-conference/2010/10/obedience-to-the-prophets.p35" pid="nl-JHDAi10OzXWohanbu0g" hash="vP_h8Q">“Eleventh: <span class="emphasis">The two groups who have the greatest difficulty in following the prophet are the proud who are learned and the proud who are rich. …</span></p>
-      <p class="para" uri="/general-conference/2010/10/obedience-to-the-prophets.p36" pid="scOdbvhl6UKA-YDqitXKwg" hash="2Z_AYQ">“Twelfth: <span class="emphasis">The prophet will not necessarily be popular with the world or the worldly. …</span></p>
-      <p class="para" uri="/general-conference/2010/10/obedience-to-the-prophets.p37" pid="HGylTps8zUCzAT8TMQueiw" hash="rfGiqg">“Thirteenth: <span class="emphasis">The prophet and his counselors make up the First Presidency—the highest quorum in the Church. …</span></p>
-      <p class="para" uri="/general-conference/2010/10/obedience-to-the-prophets.p38" pid="7WZWid6PTkaWvaQPxwPBqQ" hash="7fZ9fA">“Fourteenth: <span class="emphasis">The prophet and the presidency—the living prophet and the first presidency—follow them and be blessed; reject them and suffer</span>” (“Fourteen Fundamentals,” 29).</p>
-      <p class="para" uri="/general-conference/2010/10/obedience-to-the-prophets.p39" pid="2Bt6IJ4c3UKlAJUT2_ybPw" hash="P1aqAQ">We are privileged to have the words of our living prophets, seers, and revelators during this wonderful general conference. They will speak the will of the Lord for us, His people. They will transmit the word of God and His counsel to us. Pay attention and follow their instruction and suggestions, and I testify to you that your life will be completely blessed.</p>
-      <p class="para" uri="/general-conference/2010/10/obedience-to-the-prophets.p40" pid="wxixu3SDUESUYY9_hY-Xkw" hash="Q3giig">Jesus is the Christ, our Savior and Redeemer. Thomas S. Monson is the living prophet of God, and the First Presidency and Quorum of the Twelve Apostles are prophets, seers, and revelators. In the name of Jesus Christ, amen.</p>
-    </div>
-  </div>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="11"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/89d6ddba5a3341b1d3c64e5b035305a90c9d66e3/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/89d6ddba5a3341b1d3c64e5b035305a90c9d66e3/full/%21192%2C/0/default" data-video-title="Obedience to the Prophets" data-video-description="What a great blessing it is to have prophets in our day!" data-video-id="2407205435001" data-ip="Download and Streaming                            " data-duration="666000" data-assetId="9c04219564f3968a8288089a171e443a61c27c0e" data-ref-id="9c04219564f3968a8288089a171e443a61c27c0e" data-duration-string="11:06" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/2407205435001.m3u8" type="application/vnd.apple.mpegurl" data-width="1280" data-height="720" data-file-size="52969584"/><source src="https://assets.churchofjesuschrist.org/9c04219564f3968a8288089a171e443a61c27c0e-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="30577873"/><source src="https://assets.churchofjesuschrist.org/9c04219564f3968a8288089a171e443a61c27c0e-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="52969584"/></video><h1 data-aid="28848274" id="title1">Obedience to the Prophets</h1>
+<div class="byline">
+<p class="author-name" data-aid="28848275" id="p1">By Elder Claudio R. M. Costa</p>
+<p class="author-role" data-aid="28848276" id="p2">Of the Presidency of the Seventy</p>
+<div class="image-cropper"><img alt="Elder Claudio R. M. Costa" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/b4bde6f94061aaefc979b6372b63ba97b8c1e20b/full/%21100%2C/0/default" data-assetId="b4bde6f94061aaefc979b6372b63ba97b8c1e20b" srcset="https://www.churchofjesuschrist.org/imgs/b4bde6f94061aaefc979b6372b63ba97b8c1e20b/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/b4bde6f94061aaefc979b6372b63ba97b8c1e20b/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/b4bde6f94061aaefc979b6372b63ba97b8c1e20b/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/b4bde6f94061aaefc979b6372b63ba97b8c1e20b/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/b4bde6f94061aaefc979b6372b63ba97b8c1e20b/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/b4bde6f94061aaefc979b6372b63ba97b8c1e20b/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/b4bde6f94061aaefc979b6372b63ba97b8c1e20b/full/%21640%2C/0/default 640w" data-img-id="b4bde6f94061aaefc979b6372b63ba97b8c1e20b" data-missing-asset="false" data-width="100" data-height="125" data-aspect-ratio="0.8" data-public-title="Costa, Claudio R. M." data-public-description="Former Official portrait of Elder Claudio R. M. Costa.  Replaced March 2017"/></div>
+</div>
+<p class="kicker" data-aid="28848277" id="kicker1">What a great blessing it is to have prophets in our day!</p>
+</header>
+<div class="body-block">
+<p data-aid="28848278" id="p3">I am a convert to the Church. I am so grateful that God answered my prayer and gave me a knowledge and a strong testimony that Joseph Smith is a prophet of God.</p>
+<p data-aid="28848279" id="p4">Before I made the decision to be baptized in The Church of Jesus Christ of Latter-day Saints, I studied extracts from the history of Joseph Smith. I prayed after carefully reading each paragraph. If you would like to do this yourself, it may take you 14 hours.</p>
+<p data-aid="28848280" id="p5">After I read, pondered, and prayed, the Lord gave me the assurance that Joseph Smith was His prophet. I testify to you that Joseph Smith is a prophet, and because I have received this answer from the Lord, I know that all of his successors are prophets too. What a great blessing it is to have prophets in our day!</p>
+<p data-aid="28848281" id="p6">Why is it important to have living prophets to guide the true Church of Jesus Christ and its members?</p>
+<p data-aid="28848282" id="p7">In the Guide to the Scriptures, we find the definition of the word <em>prophet:</em> “A person who has been called by and speaks for God. As a messenger of God, a prophet receives commandments, prophecies, and revelations from God” (“<a class="scripture-ref" href="/study/scriptures/gs/prophet?lang=eng">Prophet</a>,” scriptures.lds.org; see also Bible Dictionary, “<a class="scripture-ref" href="/study/scriptures/bd/prophet?lang=eng">Prophet</a>”).</p>
+<p data-aid="28848283" id="p8">It is a great blessing to receive the word, commandments, and guidance of the Lord in these difficult days of the earth. The prophet can be inspired to see the future in benefit of mankind.</p>
+<p data-aid="28848284" id="p9">We are told that “surely the Lord God will do nothing, but he revealeth his secret unto his servants the prophets” (<a class="scripture-ref" href="/study/scriptures/ot/amos/3?lang=eng&amp;id=p7#p7">Amos 3:7</a>). We learn from this scripture that the Lord will reveal to His prophets absolutely anything that He feels is necessary to communicate to us. He will reveal His will to us, and He will instruct us through His prophets.</p>
+<p data-aid="28848285" id="p10">The Lord promised us that if we believe in the holy prophets, we should have eternal life (see <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/20?lang=eng&amp;id=p26#p26">D&amp;C 20:26</a>). In the sixth article of faith, we declare that we believe in prophets. To believe means to have faith and confidence in them and to follow and do what the prophets ask us to do.</p>
+<p data-aid="28848286" id="p11">In 1980, when President Ezra Taft Benson was serving as President of the Quorum of the Twelve Apostles, he gave a powerful message about obedience to the prophets at a BYU devotional in the Marriott Center. His great talk, titled “Fourteen Fundamentals in Following the Prophet,” touched my heart. It made me feel good that I had made the decision to follow the prophets for the rest of my life when I accepted baptism in the Lord’s true Church.</p>
+<p data-aid="28848287" id="p12">I would like to share with you some of the principles that President Benson taught:</p>
+<p data-aid="28848288" id="p13">“First: <em>The prophet is the only man who speaks for the Lord in everything</em>” (“Fourteen Fundamentals in Following the Prophet,” in <em>1980 Devotional Speeches of the Year</em> [1981], 26).</p>
+<p data-aid="28848289" id="p14">In our day the prophet of God has told us to keep the commandments, to love our fellowman, to serve, to take care of the rising generation, to rescue the inactive or less active—to do many things that we call prophetic priorities. We need to understand that these priorities are God’s priorities and the prophet is His voice in communicating them to all of the Church and the world.</p>
+<p data-aid="28848290" id="p15">We are counseled to “give heed unto all his words and commandments” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/21?lang=eng&amp;id=p4#p4">D&amp;C 21:4</a>). We also learn:</p>
+<p data-aid="28848291" id="p16">“For his word ye shall receive, as if from mine own mouth, in all patience and faith.</p>
+<p data-aid="28848292" id="p17">“For by doing these things the gates of hell shall not prevail against you; yea, and the Lord God will disperse the powers of darkness from before you, and cause the heavens to shake for your good, and his name’s glory” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/21?lang=eng&amp;id=p5-p6#p5">D&amp;C 21:5–6</a>).</p>
+<p data-aid="28848293" id="p18">Second fundamental: <em>“The living prophet is more vital to us than the standard works”</em> (“Fourteen Fundamentals,” 26).</p>
+<p data-aid="28848294" id="p19">The living prophet is receiving specific revelations for us. I can remember many times when I have been present to hear one of the servants of the Lord speak about a specific thing for a city or country. I remember at least three of the living prophets, seers, and revelators who have spoken about my country, Brazil. One of these servants said that Brazil would become a great <span class="page-break" data-page="12"></span>economy in the world and be free of inflation. At the time, we had two-digit inflation every month. It was difficult for many people to believe what the prophet said, but I believed. Brazil has had about 5 percent inflation each year for many consecutive years now. Brazil has become eighth in the world economy, and the country is doing great!</p>
+<p data-aid="28848295" id="p20">Third fundamental: <em>“The living prophet is more important to us than a dead prophet”</em> (“Fourteen Fundamentals,” 27).</p>
+<p data-aid="28848296" id="p21">We learn a great lesson about this from the scriptures. In the times of Noah it was easier for the people to believe in the dead prophets, but it was difficult for them to believe in Noah. We know that because of their incredulity they did not survive the Flood (see <a class="scripture-ref" href="/study/scriptures/ot/gen/6?lang=eng">Genesis 6–7</a>).</p>
+<p data-aid="28848297" id="p22">Fourth fundamental: <em>“The prophet will never lead the Church astray”</em> (“Fourteen Fundamentals,” 27).</p>
+<p data-aid="28848298" id="p23">Again we learn from the living prophets. President Wilford Woodruff said: “The Lord will never permit me or any other man who stands as President of this Church to lead you astray. It is not in the programme. It is not in the mind of God. If I were to attempt that, the Lord would remove me out of my place, and so He will any other man who attempts to lead the children of men astray from the oracles of God and from their duty” (in excerpts from three addresses following <a class="scripture-ref" href="/study/scriptures/dc-testament/od/1?lang=eng">Official Declaration 1</a> in the Doctrine and Covenants).</p>
+<p data-aid="28848299" id="p24">Fifth fundamental: <em>“The prophet is not required to have any particular earthly training or credentials to speak on any subject or act on any matter at any time”</em> (“Fourteen Fundamentals,” 27).</p>
+<p data-aid="28848300" id="p25">The Lord called a young man, Joseph Smith, to restore His Church. Do you think that the young Joseph Smith was a doctor in theology or science? We know that he was a humble and not academically educated young man. But he was chosen by the Lord, and he received from the Lord all that was necessary to honor and magnify the calling of a prophet of the Restoration.</p>
+<p data-aid="28848301" id="p26">President Benson continued:</p>
+<p data-aid="28848302" id="p27">“Sixth: <em>The prophet does not have to say ‘Thus saith the Lord’ to give us scripture. …</em></p>
+<p data-aid="28848303" id="p28">“Seventh: <em>The prophet tells us what we need to know, not always what we want to know</em>” (“Fourteen Fundamentals,” 27, 28).</p>
+<p data-aid="28848304" id="p29">And then President Benson quoted from <a class="scripture-ref" href="/study/scriptures/bofm/1-ne/16?lang=eng&amp;id=p1%2Cp3#p1">1 Nephi 16:1, 3</a>:</p>
+<p data-aid="28848305" id="p30">“And now it came to pass that after I, Nephi, had made an end of speaking to my brethren, behold they said unto me: Thou hast declared unto us hard things, more than we are able to bear. …</p>
+<p data-aid="28848306" id="p31">“And now my brethren, if ye were righteous and were willing to hearken to the truth, and give heed unto it, that ye might walk uprightly before God, then ye would not murmur because of the truth, and say: Thou speakest hard things against us.”</p>
+<p data-aid="28848307" id="p32">Eighth fundamental: <em>“The prophet is not limited by men’s reasoning. …</em></p>
+<p data-aid="28848308" id="p33">“… Does it seem reasonable to cure leprosy by telling a man to wash seven times in a particular river? Yet this is precisely what the prophet Elisha told a leper to do, and he was <span class="page-break" data-page="13"></span>healed. (See <a class="scripture-ref" href="/study/scriptures/ot/2-kgs/5?lang=eng">2 Kings 5</a>.)” (“Fourteen Fundamentals,” 28).</p>
+<p data-aid="28848309" id="p34">And President Benson continued giving other principles about obedience to the prophet. I will read the last six and invite you in your next family home evening to find these principles in the words and teachings of our living prophets, seers, and revelators during this general conference.</p>
+<p data-aid="28848310" id="p35">“Ninth: <em>The prophet can receive revelation on any matter—temporal or spiritual. …</em></p>
+<p data-aid="28848311" id="p36">“Tenth: <em>The prophet may be involved in civic matters. …</em></p>
+<p data-aid="28848312" id="p37">“Eleventh: <em>The two groups who have the greatest difficulty in following the prophet are the proud who are learned and the proud who are rich. …</em></p>
+<p data-aid="28848313" id="p38">“Twelfth: <em>The prophet will not necessarily be popular with the world or the worldly. …</em></p>
+<p data-aid="28848314" id="p39">“Thirteenth: <em>The prophet and his counselors make up the First Presidency—the highest quorum in the Church. …</em></p>
+<p data-aid="28848315" id="p40">“Fourteenth: <em>The prophet and the presidency—the living prophet and the first presidency—follow them and be blessed; reject them and suffer</em>” (“Fourteen Fundamentals,” 29).</p>
+<p data-aid="28848316" id="p41">We are privileged to have the words of our living prophets, seers, and revelators during this wonderful general conference. They will speak the will of the Lord for us, His people. They will transmit the word of God and His counsel to us. Pay attention and follow their instruction and suggestions, and I testify to you that your life will be completely blessed.</p>
+<p data-aid="28848317" id="p42">Jesus is the Christ, our Savior and Redeemer. Thomas S. Monson is the living prophet of God, and the First Presidency and Quorum of the Twelve Apostles are prophets, seers, and revelators. In the name of Jesus Christ, amen.</p>
 </div>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/2010/10/obedience-to-the-prophets</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/october-2010-general-conference/2010-10-1040-elder-claudio-r-m-costa-64k-eng.mp3" length="5341820" type="audio/mpeg"/>
-      <pubDate>Sat, 02 Oct 2010 10:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/7c88145932e511eca29deeeeac1e03f99dde25d2-64k-en.mp3" length="5616553" type="audio/mpeg"/>
+      <pubDate>Sat, 02 Oct 2010 10:00:00 -0600</pubDate>
+      <itunes:author>Claudio R. M. Costa</itunes:author>
     </item>
     <item>
       <title>That They Do Always Remember Him</title>
-      <link>http://www.lds.org/general-conference/2015/10/that-they-do-always-remember-him?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2015/10/that-they-do-always-remember-him?lang=eng</link>
       <description>Elder Costa teaches how pondering the life and Atonement of Christ can make the sacrament more meaningful and invite the companionship of the Spirit.</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/2015/10/that-they-do-always-remember-him" dup-conf="false" dup-mag="false" schema-version="1" doc-id="general-conference_13768_000_56costa" doc-version="3" hash="RWjaGQ">
-	
-	<div class="heading" uri="/general-conference/2015/10/that-they-do-always-remember-him.head1">
-		<h1 class="title" pid="tlsRCmCTkkiOqA4C6QrJvg" hash="uKLZmQ">That They Do Always Remember Him</h1>
-		<div class="byline">
-			<p class="para" uri="/general-conference/2015/10/that-they-do-always-remember-him.p2" pid="307_qAi7vUmEG1OtTKso8g" hash="ZuX66Q">By Elder Claudio R. M. Costa</p>
-			<p class="para" uri="/general-conference/2015/10/that-they-do-always-remember-him.p3" pid="luw_QVV3RUuBYqvthTYntQ" hash="sSmk3g">Of the Seventy</p>
-		<a href="gl://image/?pid=eMZuR-DOG0qqCC_ekHG3TQ"><img xmlns="" alt="Elder Claudio R. M. Costa" src="https://edge.ldscdn.org/mobile/images/1255513/4c2660edf4c24ffab4faa2f069eb4505/100x139.jpg" data-multi-src="true" data-src-50x69="https://edge.ldscdn.org/mobile/images/1255513/4c2660edf4c24ffab4faa2f069eb4505/50x69.jpg" data-src-100x139="https://edge.ldscdn.org/mobile/images/1255513/4c2660edf4c24ffab4faa2f069eb4505/100x139.jpg" data-src-200x279="https://edge.ldscdn.org/mobile/images/1255513/4c2660edf4c24ffab4faa2f069eb4505/200x279.jpg" data-src-320x447="https://edge.ldscdn.org/mobile/images/1255513/4c2660edf4c24ffab4faa2f069eb4505/320x447.jpg" data-src-460x642="https://edge.ldscdn.org/mobile/images/1255513/4c2660edf4c24ffab4faa2f069eb4505/460x642.jpg" data-src-640x894="https://edge.ldscdn.org/mobile/images/1255513/4c2660edf4c24ffab4faa2f069eb4505/640x894.jpg" data-src-1024x1430="https://edge.ldscdn.org/mobile/images/1255513/4c2660edf4c24ffab4faa2f069eb4505/1024x1430.jpg" data-src-2048x2861="https://edge.ldscdn.org/mobile/images/1255513/4c2660edf4c24ffab4faa2f069eb4505/2048x2861.jpg" data-src-4096x5723="https://edge.ldscdn.org/mobile/images/1255513/4c2660edf4c24ffab4faa2f069eb4505/4096x5723.jpg" pid="eMZuR-DOG0qqCC_ekHG3TQ" hash="4FsVig"></img></a></div>
-		<p class="kicker" pid="7Wr-NDMlC0ir8A91Et4rHQ" hash="QoA1mw1">I love to study and ponder the life of Him who gave everything for me and for all of us.</p>
-		<p class="authorName" pid="hKpu0MLXwEStmaHn7teOwA" hash="bUG7Tw">Claudio R. M. Costa</p>
-	</div>
-	<div class="bodyBlock">
-		<p class="para" uri="/general-conference/2015/10/that-they-do-always-remember-him.p5" pid="_GAKun5gekqNzXtllIzUPQ" hash="MI6HUA">I love the Primary song that says:</p>
-		<div class="poetry">
-			<div class="stanza">
-				<p class="line" uri="/general-conference/2015/10/that-they-do-always-remember-him.p6" pid="TcMBHtXA4UuNFRfUJvk-aQ" hash="Sj16Sw">Tell me the stories of Jesus I love to hear,</p>
-				<p class="line" uri="/general-conference/2015/10/that-they-do-always-remember-him.p7" pid="Khis7gk_N0ixL0jFCZQnfg" hash="U69KZw">Things I would ask him to tell me if he were here.</p>
-				<p class="line" uri="/general-conference/2015/10/that-they-do-always-remember-him.p8" pid="8E-MWJHSPES82EvIMCUFjg" hash="ZIINvQ">Scenes by the wayside, tales of the sea,</p>
-				<p class="line" uri="/general-conference/2015/10/that-they-do-always-remember-him.p9" pid="r5RGohUgo0KpiiMHLN7k3g" hash="1pYrsA">Stories of Jesus, tell them to me.<span class="noteMarker" ref="f_1">1</span></p>
-			</div>
-		</div>
-		<p class="para" uri="/general-conference/2015/10/that-they-do-always-remember-him.p10" pid="vnCWzYIeB0i2AtZVJONMrA" hash="aamN8Q">I believe that starting a tradition of telling the stories of Jesus to our children and families is a very special way to keep the Sabbath day holy in our homes.</p>
-		<p class="para" uri="/general-conference/2015/10/that-they-do-always-remember-him.p11" pid="YzVCZQfEak6NYDgfB5u-8g" hash="-iTiKg">This will surely bring a special spirit to our home and provide our family with examples from the Savior Himself.</p>
-		<p class="para" uri="/general-conference/2015/10/that-they-do-always-remember-him.p12" pid="RrhzpuU6K0uxGk0_2roF2A" hash="QoA1mw">I love to study and ponder the life of Him who gave everything for me and for all of us.</p>
-		<p class="para" uri="/general-conference/2015/10/that-they-do-always-remember-him.p13" pid="vYSzqiSXLkWxfmn6-34MEg" hash="gzYOuw">I love to read scriptural passages about His sinless life, and after reading the scriptures which tell about the events experienced by Him, I close my eyes and try to visualize these sacred moments that teach me and strengthen me spiritually.</p>
-		<p class="para" uri="/general-conference/2015/10/that-they-do-always-remember-him.p14" pid="J4Yc_zxpCk-m2O1HE3Wfpw" hash="8TQxrg">Moments such as:</p>
-		<ul class="bullet">
-			<li pid="2sAWpdWGt0y1raIorHNsMw" hash="F2j22A">
-				<span class="label">•</span>
-				<p class="para" uri="/general-conference/2015/10/that-they-do-always-remember-him.p15" pid="qoMro1JStk282RsP3HIZaQ" hash="bxG96A">When He spat on the ground and, having made clay of the spittle, anointed the eyes of the blind man and said unto him, “Go, wash in the pool of Siloam.” And the man obeyed, “and washed, and came seeing.”<span class="noteMarker" ref="f_2">2</span></p>
-			</li>
-			<li pid="DN4ru70AS0qX9zOypj89wA" hash="ri71IQ">
-				<span class="label">•</span>
-				<p class="para" uri="/general-conference/2015/10/that-they-do-always-remember-him.p16" pid="dMEutSV7_ki1MMdqoexxVA" hash="9hcv5Q">When He healed the woman who had an issue of blood and had touched the border of His garment, believing that just by touching Him, she would be healed.<span class="noteMarker" ref="f_3">3</span></p>
-			</li>
-			<li pid="Ju8NXXE8tUeX18WYegAqyw" hash="p4IL_Q">
-				<span class="label">•</span>
-				<p class="para" uri="/general-conference/2015/10/that-they-do-always-remember-him.p17" pid="aSAq-4DsgUOAbVQ142X7bA" hash="StKcgg">When He appeared to His disciples, walking upon the sea.<span class="noteMarker" ref="f_4">4</span></p>
-			</li>
-			<li pid="owVzNGQxD0m7zJAH8G2rDw" hash="HLInHA">
-				<span class="label">•</span>
-				<p class="para" uri="/general-conference/2015/10/that-they-do-always-remember-him.p18" pid="2S0xODMVW0SsGTu1F7N8-Q" hash="eaoU7A">When He went with the disciples on the road to Emmaus and opened the scriptures to their understanding.<span class="noteMarker" ref="f_5">5</span></p>
-			</li>
-			<li pid="DjGhQbzn40idESEeKRPxPQ" hash="5k5GMQ">
-				<span class="label">•</span>
-				<p class="para" uri="/general-conference/2015/10/that-they-do-always-remember-him.p19" pid="KfXNgCAPg0WZ363oWW-fMA" hash="R1xdhg">When He appeared to the people in the Americas and told them to come unto Him and thrust their hands into His side and feel the prints of the nails in His hands and His feet so they could know that He was “the God of Israel, and the God of the whole earth, and [had] been slain for the sins of the world.”<span class="noteMarker" ref="f_6">6</span></p>
-			</li>
-		</ul>
-		<p class="para" uri="/general-conference/2015/10/that-they-do-always-remember-him.p20" pid="lzabxrnL_ESirst-Tqvd-g" hash="hJVoJg">I rejoice in knowing there are parents who tell stories of Christ to their children. I notice this as I watch children in the Church in Primary programs and on other occasions.</p>
-		<p class="para" uri="/general-conference/2015/10/that-they-do-always-remember-him.p21" pid="NzeNyWSihUC4By5Z6qx2EA" hash="bBNbqw">I am grateful to my parents for having taught me about Christ. I continue to see how the Savior’s example helps my dear wife and me as we teach our own children.</p>
-		<p class="para" uri="/general-conference/2015/10/that-they-do-always-remember-him.p22" pid="meBJpC2IuU6EM3mVkbrPZw" hash="cGcneA">My heart is filled with joy when I see my children tell stories of Christ to my grandchildren. It reminds me of one of my favorite scriptures, found in <a href="/scriptures/nt/3-jn/1.4" class="scriptureRef">3 John chapter 1, verse 4</a>, which reads, “I have no greater joy than to hear that my children walk in truth.” And why not our grandchildren as well?</p>
-		<p class="para" uri="/general-conference/2015/10/that-they-do-always-remember-him.p23" pid="atRcwpeiRUu6DMJO8GZyrw" hash="8OcbDA">I am grateful for our leaders, who are constantly teaching us about Christ, about keeping the Sabbath day holy, and about partaking of the sacrament each Sunday in honor of the Savior.</p>
-		<p class="para" uri="/general-conference/2015/10/that-they-do-always-remember-him.p24" pid="jjDs0SCZukWmNZa4PSVAqA" hash="0MP7Dw">The Sabbath and the sacrament become much more enjoyable as we study the stories of Christ. In so doing, we create traditions that build our faith and testimony and also protect our family.</p>
-		<p class="para" uri="/general-conference/2015/10/that-they-do-always-remember-him.p25" pid="9hq3_n0esEKwrYbxAeAMng" hash="rUKAfQ">A few weeks ago, while studying again the message President Russell M. Nelson delivered in the last general conference, and while pondering on the Sabbath day, I felt a deep gratitude for the blessing and privilege of being able to partake of the sacrament. For me that is a very solemn, sacred, and spiritual moment. I greatly enjoy sacrament meeting.</p>
-		<p class="para" uri="/general-conference/2015/10/that-they-do-always-remember-him.p26" pid="rbMhvbUjWUmkD48-X_qN7w" hash="njkeIA">While pondering, I carefully studied the blessings on the bread and the water. I read and deeply meditated on the prayers and the ordinance of the sacrament. I began to go over in my mind and in my heart the events that are connected to it.</p>
-		<p class="para" uri="/general-conference/2015/10/that-they-do-always-remember-him.p27" pid="GCUMx7QvB0GVfzPedJ-d8Q" hash="ad_UCQ">In a spirit of meditation, I reflected upon that day, the first day of the feast of the unleavened bread, when Jesus, in response to His disciples’ question about where to prepare for the Passover, answered them, saying, “Go into the city to such a man, and say unto him, The Master saith, My time is at hand; I will keep the passover at thy house with my disciples.”<span class="noteMarker" ref="f_7">7</span></p>
-		<p class="para" uri="/general-conference/2015/10/that-they-do-always-remember-him.p28" pid="yFQR5xw6GEqyOwVQS-GSAg" hash="Dv5xFA">I tried to visualize in my mind the disciples buying food and carefully preparing the table to eat with Him on that special day: a table for 13 people, Him and His twelve disciples, whom He loved.</p>
-		<p class="para" uri="/general-conference/2015/10/that-they-do-always-remember-him.p29" pid="shMRgSv_bkO39iKOa0MEqA" hash="Rr99Lw">I cried as I visualized Christ eating with them and declaring, “Verily I say unto you, that one of you shall betray me.”<span class="noteMarker" ref="f_8">8</span></p>
-		<p class="para" uri="/general-conference/2015/10/that-they-do-always-remember-him.p30" pid="wrLd-_l9D0OmZZjGuhnscw" hash="NTAP1Q">I thought about the saddened disciples asking Him, “Lord, is it I?”<span class="noteMarker" ref="f_9">9</span></p>
-		<p class="para" uri="/general-conference/2015/10/that-they-do-always-remember-him.p31" pid="zoMVWcdELE-lznn7eLr-pQ" hash="z-iRPQ">And when Judas asked Him the same question, He replied calmly, “Thou hast said.”<span class="noteMarker" ref="f_10">10</span></p>
-		<p class="para" uri="/general-conference/2015/10/that-they-do-always-remember-him.p32" pid="_DSRKg_NtEy9Ac1y8njTIA" hash="FVcS9g">I could visualize hands that had healed, comforted, edified, and blessed, breaking the bread as Jesus said, “Take, eat; this is my body.”<span class="noteMarker" ref="f_11">11</span></p>
-		<p class="para" uri="/general-conference/2015/10/that-they-do-always-remember-him.p33" pid="kPSijaIIkkOpOkiSxJk2mg" hash="M0b4hA">Then He took a cup filled with wine and gave thanks and gave the cup to them, saying, “Drink ye all of it; for this is my blood of the new testament, which is shed for many for the remission of sins.”<span class="noteMarker" ref="f_12">12</span></p>
-		<p class="para" uri="/general-conference/2015/10/that-they-do-always-remember-him.p34" pid="nc9pabnYdEqqgCcmiPw6MQ" hash="3BBr1A">In my mind I looked at the disciples one by one and saw in their eyes their concern for the Master, whom they loved greatly. It was as if I were sitting there with them, watching everything. I felt an intense pain in my heart, full of grief and sorrow for what He was about to experience for me.</p>
-		<p class="para" uri="/general-conference/2015/10/that-they-do-always-remember-him.p35" pid="r8KfgVTbyU2UBqlL6dZJpw" hash="-QMteA">My soul was filled by an overwhelming desire to be a better person. In repentance and sorrow, I fervently wished to be able to dry and avoid the spilling of at least a few drops of His blood shed in Gethsemane.</p>
-		<p class="para" uri="/general-conference/2015/10/that-they-do-always-remember-him.p36" pid="aVXhJIyfJUqOB0qmSZ8yVQ" hash="db-IWw">I then pondered about the sacrament we partake of every week in remembrance of Him. While doing so, I meditated upon each word of the blessings on the bread and the water. I deeply reflected on the words “and always remember him” in the blessing on the bread and “that they do always remember him” in the blessing on the water.<span class="noteMarker" ref="f_13">13</span></p>
-		<p class="para" uri="/general-conference/2015/10/that-they-do-always-remember-him.p37" pid="NwNYTyyR40WPfStdmu4VZQ" hash="Uhe5qg">I meditated on what it means to always remember Him.</p>
-		<p class="para" uri="/general-conference/2015/10/that-they-do-always-remember-him.p38" pid="G3N9y10ls0qccvCRcu4StQ" hash="NkSiww">To me it means:</p>
-		<ul class="bullet">
-			<li pid="X5YXtJ2KOUCJxIcEY0zQ6g" hash="mn6-Zw">
-				<span class="label">•</span>
-				<p class="para" uri="/general-conference/2015/10/that-they-do-always-remember-him.p39" pid="T_Jvp_qzJk-217mseQB-wQ" hash="VBJ92Q">To remember His premortal life, when this beautiful planet was made by Him.<span class="noteMarker" ref="f_14">14</span></p>
-			</li>
-			<li pid="YB_xWdYD2UiQ-z5L7JWudw" hash="Y6B58w">
-				<span class="label">•</span>
-				<p class="para" uri="/general-conference/2015/10/that-they-do-always-remember-him.p40" pid="LFMukt-v00GmhjnrRoEvtA" hash="I_HseA">To remember His humble birth in a manger in Bethlehem of Judea.<span class="noteMarker" ref="f_15">15</span></p>
-			</li>
-			<li pid="i1NccY9ElUqMkOUfUg9Wpg" hash="XaxyIw">
-				<span class="label">•</span>
-				<p class="para" uri="/general-conference/2015/10/that-they-do-always-remember-him.p41" pid="1vxEAYBQIEyFucxPE41XqA" hash="Wi38NQ">To remember when, even as a 12-year-old boy, He taught and preached to the doctors in the temple.<span class="noteMarker" ref="f_16">16</span></p>
-			</li>
-			<li pid="TBRtAvC8r0GvlKmqimLyDQ" hash="nzPJjA">
-				<span class="label">•</span>
-				<p class="para" uri="/general-conference/2015/10/that-they-do-always-remember-him.p42" pid="lbC1_vyKKkOQHV6LsundiQ" hash="mfurSw">To remember when He went aside privately into a desert to prepare for His mortal ministry.<span class="noteMarker" ref="f_17">17</span></p>
-			</li>
-			<li pid="Tjo4Jj9dFkGizieku-srFQ" hash="WVlLXw">
-				<span class="label">•</span>
-				<p class="para" uri="/general-conference/2015/10/that-they-do-always-remember-him.p43" pid="YVz2JLgxMUOWjslw0HSwMg" hash="JCD03g">To remember when He was transfigured before His disciples.<span class="noteMarker" ref="f_18">18</span></p>
-			</li>
-			<li pid="KmugqIyphESZCAxHwmX_Ig" hash="1pjMXA">
-				<span class="label">•</span>
-				<p class="para" uri="/general-conference/2015/10/that-they-do-always-remember-him.p44" pid="RD5XUq8LuE-SbhR88U49og" hash="F1ZjAg">To remember when He instituted the sacrament at the Last Supper with them.<span class="noteMarker" ref="f_19">19</span></p>
-			</li>
-			<li pid="Oo_h0-tnaUKutqXRKHuQ1w" hash="bwWLHg">
-				<span class="label">•</span>
-				<p class="para" uri="/general-conference/2015/10/that-they-do-always-remember-him.p45" pid="bdT0qwG_TEWLmxKzDuVC5g" hash="zIQY0w">To remember when He went to the Garden of Gethsemane and suffered so intensely for our sins, pains, disappointments, and illnesses that He bled from every pore.<span class="noteMarker" ref="f_20">20</span></p>
-			</li>
-			<li pid="yaOWr7hAHUW1gZGerWFRgw" hash="YnYWFQ">
-				<span class="label">•</span>
-				<p class="para" uri="/general-conference/2015/10/that-they-do-always-remember-him.p46" pid="MZNgm7MQKUm2Poq7kLV51A" hash="9KKxXA">To remember when, after so much suffering and severe pain, even yet in Gethsemane, He was betrayed with a kiss by one of the disciples whom He called a friend.<span class="noteMarker" ref="f_21">21</span></p>
-			</li>
-			<li pid="TmPW8-AI20-m6Q9qMTgp4A" hash="_VYodA">
-				<span class="label">•</span>
-				<p class="para" uri="/general-conference/2015/10/that-they-do-always-remember-him.p47" pid="E7BFLv0eEUyNieagKZOVmA" hash="eu54FQ">To remember when He was taken to Pilate and to Herod for trial.<span class="noteMarker" ref="f_22">22</span></p>
-			</li>
-			<li pid="QukdZH4EIkOo_i9vw3caZA" hash="FdiDMw">
-				<span class="label">•</span>
-				<p class="para" uri="/general-conference/2015/10/that-they-do-always-remember-him.p48" pid="gDz4r-idaEy7ObIIyoM4xA" hash="GGVj2Q">To remember when He was humiliated, buffeted, spat upon, smitten, and scourged with a whip that tore His flesh.<span class="noteMarker" ref="f_23">23</span></p>
-			</li>
-			<li pid="uTHX8Yz_JEKI5rAAM4rUwg" hash="dN3fog">
-				<span class="label">•</span>
-				<p class="para" uri="/general-conference/2015/10/that-they-do-always-remember-him.p49" pid="LfVFnmyJ6USUmH-Xf8E1HA" hash="voPjDw">To remember when a crown of thorns was brutally put upon His head.<span class="noteMarker" ref="f_24">24</span></p>
-			</li>
-			<li pid="5Tn8YnUv0U-kNFbAXQRqng" hash="kpMo4A">
-				<span class="label">•</span>
-				<p class="para" uri="/general-conference/2015/10/that-they-do-always-remember-him.p50" pid="fgy8F0uOxk-u_p9kUz9vJw" hash="IVprrw">To remember that He had to carry His own cross to Golgotha and that He was nailed to the cross there, suffering every physical and spiritual pain.<span class="noteMarker" ref="f_25">25</span></p>
-			</li>
-			<li pid="-5wA3Ls_rk-vsSuDSikw-w" hash="5A-01A">
-				<span class="label">•</span>
-				<p class="para" uri="/general-conference/2015/10/that-they-do-always-remember-him.p51" pid="jBMPsYNgr0q6UeR4xsJ6JA" hash="-c3IwQ">To remember that at the cross, with His bowels full of charity, He looked at those who crucified Him and raised His eyes to heaven, pleading, “Father, forgive them; for they know not what they do.”<span class="noteMarker" ref="f_26">26</span></p>
-			</li>
-			<li pid="yD2NGPtWqki2VHpHyuyvmw" hash="ojMXtg">
-				<span class="label">•</span>
-				<p class="para" uri="/general-conference/2015/10/that-they-do-always-remember-him.p52" pid="14iTjFtQ90G24dxlcVdReg" hash="B9mLOA">To remember when He, knowing He had fulfilled His mission of saving all mankind, gave up His spirit into the hands of His Father, our Father.<span class="noteMarker" ref="f_27">27</span></p>
-			</li>
-			<li pid="VQjfaUA3lUudS4wPkYqvAA" hash="6E08Sw">
-				<span class="label">•</span>
-				<p class="para" uri="/general-conference/2015/10/that-they-do-always-remember-him.p53" pid="Cs-3RNRKYUa2Ld76KMv6iA" hash="Dn_50g">To remember His Resurrection, which ensures our own resurrection and the possibility to live beside Him for all eternity, depending on our choices.<span class="noteMarker" ref="f_28">28</span></p>
-			</li>
-		</ul>
-		<p class="para" uri="/general-conference/2015/10/that-they-do-always-remember-him.p54" pid="jUpa9nnPekqWB27YwJUY4Q" hash="OsBJsg">Furthermore, meditating on the sacrament prayers and the very special and meaningful words of the prayers reminds me how wonderful it is to receive the promise, during the blessing of the sacrament, that as we always remember Him, we will always have His Spirit with us.<span class="noteMarker" ref="f_29">29</span></p>
-		<p class="para" uri="/general-conference/2015/10/that-they-do-always-remember-him.p55" pid="AoEFph3IY0ylkIJ88D9_cQ" hash="X1m0Jg">I believe the Lord has His own timing as to when to give revelation unto us. I understood this very clearly while studying <a href="/scriptures/ot/eccl/3.1,6" class="scriptureRef">Ecclesiastes 3:1, 6</a>, which reads:</p>
-		<p class="para" uri="/general-conference/2015/10/that-they-do-always-remember-him.p56" pid="j7Gkb6EAskeVEfDe7yjyTg" hash="-BOhKw">“To every thing there is a season, and a time to every purpose under the heaven: …</p>
-		<p class="para" uri="/general-conference/2015/10/that-they-do-always-remember-him.p57" pid="dhdY3R0SWkCGvsUONa-K4g" hash="8doDbg">“A time to get, and a time to lose; a time to keep, and a time to cast away.”</p>
-		<p class="para" uri="/general-conference/2015/10/that-they-do-always-remember-him.p58" pid="BYRcOfTlVkW_m3jGcJztfQ" hash="i9Vmxw">The sacrament is also a time for Heavenly Father to teach us about the Atonement of His Beloved Son—our Savior, Jesus Christ—and for us to receive revelation about it. It is a time to “knock, and it shall be opened unto you,”<span class="noteMarker" ref="f_30">30</span> to request and to receive this knowledge. It is time for us to reverently ask God for this knowledge. And if we do, I have no doubt that we will receive this knowledge, which will bless our lives beyond measure.</p>
-		<p class="para" uri="/general-conference/2015/10/that-they-do-always-remember-him.p59" pid="gpC_TnSltES8kSBcVVvrUA" hash="MsbCbA">I love the Sabbath, the sacrament, and what they mean. I love the Savior with all my soul. In the name of Jesus Christ, amen.</p>
-	</div>
-	
-</div>]]></content:encoded>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="101"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/e48df991f60664c34fd9b1e762be3dd8d3d754d0/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/e48df991f60664c34fd9b1e762be3dd8d3d754d0/full/%21192%2C/0/default" data-video-title="That They Do Always Remember Him" data-video-description="Elder Costa teaches how pondering the life and Atonement of Christ can make the sacrament more meaningful and invite the companionship of the Spirit." data-video-id="4534324148001" data-ip="Download and Streaming                            " data-duration="646212" data-assetId="6b807df33b0125c7a01a96da5713dea258faf2fb" data-ref-id="6b807df33b0125c7a01a96da5713dea258faf2fb" data-duration-string="10:46" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/4534324148001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="179325858"/><source src="https://assets.churchofjesuschrist.org/6b807df33b0125c7a01a96da5713dea258faf2fb-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="41230663"/><source src="https://assets.churchofjesuschrist.org/6b807df33b0125c7a01a96da5713dea258faf2fb-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="69743140"/><source src="https://assets.churchofjesuschrist.org/6b807df33b0125c7a01a96da5713dea258faf2fb-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="179325858"/></video><h1 data-aid="28867736" id="title1">That They Do Always Remember Him</h1>
+<div class="byline">
+<p class="author-name" data-aid="28867737" id="p1">By Elder Claudio R. M. Costa</p>
+<p class="author-role" data-aid="28867738" id="p2">Of the Seventy</p>
+<div class="image-cropper"><img alt="Elder Claudio R. M. Costa" class="headshot" data-deprecate-web-url="claudio-r-m-costa-first-quorum-seventy_1255513_inl.jpg" id="img1" src="https://www.churchofjesuschrist.org/imgs/b9f11056f84411eb8be4eeeeac1ecdeb6241e760/full/%21100%2C/0/default" data-assetId="b9f11056f84411eb8be4eeeeac1ecdeb6241e760" srcset="https://www.churchofjesuschrist.org/imgs/b9f11056f84411eb8be4eeeeac1ecdeb6241e760/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/b9f11056f84411eb8be4eeeeac1ecdeb6241e760/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/b9f11056f84411eb8be4eeeeac1ecdeb6241e760/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/b9f11056f84411eb8be4eeeeac1ecdeb6241e760/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/b9f11056f84411eb8be4eeeeac1ecdeb6241e760/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/b9f11056f84411eb8be4eeeeac1ecdeb6241e760/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/b9f11056f84411eb8be4eeeeac1ecdeb6241e760/full/%21640%2C/0/default 640w" data-img-id="b9f11056f84411eb8be4eeeeac1ecdeb6241e760" data-missing-asset="false" data-width="100" data-height="139" data-aspect-ratio="0.7194244604316546" data-public-title="Costa, Claudio R. M." data-public-description="Official portrait of Elder Claudio R. M. Costa of the Presidency of the Seventy, 2010. Released from the Presidency of the Seventy and called as the Brazil area president effective 1 August 2011."/></div>
+</div>
+<p class="kicker" data-aid="28867739" id="kicker1">I love to study and ponder the life of Him who gave everything for me and for all of us.</p>
+</header>
+<div class="body-block">
+<p data-aid="28867740" id="p3">I love the Primary song that says:</p>
+<div class="poetry">
+<div class="stanza">
+<p class="line" data-aid="28867741" id="p4">Tell me the stories of Jesus I love to hear,</p>
+<p class="line" data-aid="28867742" id="p5">Things I would ask him to tell me if he were here.</p>
+<p class="line" data-aid="28867743" id="p6">Scenes by the wayside, tales of the sea,</p>
+<p class="line" data-aid="28867744" id="p7">Stories of Jesus, tell them to me.<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a></p>
+</div>
+</div>
+<p data-aid="28867745" id="p8">I believe that starting a tradition of telling the stories of Jesus to our children and families is a very special way to keep the Sabbath day holy in our homes.</p>
+<p data-aid="28867746" id="p9">This will surely bring a special spirit to our home and provide our family with examples from the Savior Himself.</p>
+<p data-aid="28867747" id="p10">I love to study and ponder the life of Him who gave everything for me and for all of us.</p>
+<p data-aid="28867748" id="p11">I love to read scriptural passages about His sinless life, and after reading the scriptures which tell about the events experienced by Him, I close my eyes and try to visualize these sacred moments that teach me and strengthen me spiritually.</p>
+<p data-aid="28867749" id="p12">Moments such as:</p>
+<ul class="bullet">
+<li>
+<p data-aid="28867750" id="p13">When He spat on the ground and, having made clay of the spittle, anointed the eyes of the blind man and said unto him, “Go, wash in the pool of Siloam.” And the man obeyed, “and washed, and came seeing.”<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a></p>
+</li>
+<li>
+<p data-aid="28867751" id="p14">When He healed the woman who had an issue of blood and had touched the border of His garment, believing that just by touching Him, she would be healed.<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a></p>
+</li>
+<li>
+<p data-aid="28867752" id="p15">When He appeared to His disciples, walking upon the sea.<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a></p>
+</li>
+<li>
+<p data-aid="28867753" id="p16">When He went with the disciples on the road to Emmaus and opened the scriptures to their understanding.<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a></p>
+</li>
+<li>
+<p data-aid="28867754" id="p17">When He appeared to the people in the Americas and told them to come unto Him and thrust their hands into His side and feel the prints of the nails in His hands and His feet so they could know that He was “the God of Israel, and the God of the whole earth, and [had] been slain for the sins of the world.”<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a></p>
+</li>
+</ul>
+<p data-aid="28867755" id="p18">I rejoice in knowing there are parents who tell stories of Christ to their children. I notice this as I watch children in the Church in Primary programs and on other occasions.</p>
+<p data-aid="28867756" id="p19">I am grateful to my parents for having taught me about Christ. I continue to see how the Savior’s example helps my dear wife and me as we teach our own children.</p>
+<p data-aid="28867757" id="p20">My heart is filled with joy when I see my children tell stories of Christ to my grandchildren. It reminds me of one of my favorite scriptures, found in <a class="scripture-ref" href="/study/scriptures/nt/3-jn/1?lang=eng&amp;id=p4#p4">3 John chapter 1, verse 4</a>, which reads, “I have no greater joy than to hear that my children walk in truth.” And why not our grandchildren as well?</p>
+<p data-aid="28867758" id="p21">I am grateful for our leaders, who are constantly teaching us about Christ, about keeping the Sabbath day holy, and about partaking of the sacrament each Sunday in honor of the Savior.</p>
+<p data-aid="28867759" id="p22">The Sabbath and the sacrament become much more enjoyable as we study the stories of Christ. In so doing, we create traditions that build our faith and testimony and also protect our family.</p>
+<p data-aid="28867760" id="p23">A few weeks ago, while studying again the message President Russell M. Nelson delivered in the last general conference, and while pondering on the Sabbath day, I felt a deep gratitude for the blessing and privilege of being able to partake of the sacrament. For <span class="page-break" data-page="102"></span>me that is a very solemn, sacred, and spiritual moment. I greatly enjoy sacrament meeting.</p>
+<p data-aid="28867761" id="p24">While pondering, I carefully studied the blessings on the bread and the water. I read and deeply meditated on the prayers and the ordinance of the sacrament. I began to go over in my mind and in my heart the events that are connected to it.</p>
+<p data-aid="28867762" id="p25">In a spirit of meditation, I reflected upon that day, the first day of the feast of the unleavened bread, when Jesus, in response to His disciples’ question about where to prepare for the Passover, answered them, saying, “Go into the city to such a man, and say unto him, The Master saith, My time is at hand; I will keep the passover at thy house with my disciples.”<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a></p>
+<p data-aid="28867763" id="p26">I tried to visualize in my mind the disciples buying food and carefully preparing the table to eat with Him on that special day: a table for 13 people, Him and His twelve disciples, whom He loved.</p>
+<p data-aid="28867764" id="p27">I cried as I visualized Christ eating with them and declaring, “Verily I say unto you, that one of you shall betray me.”<a class="note-ref" href="#note8"><sup class="marker" data-value="8"></sup></a></p>
+<p data-aid="28867765" id="p28">I thought about the saddened disciples asking Him, “Lord, is it I?”<a class="note-ref" href="#note9"><sup class="marker" data-value="9"></sup></a></p>
+<p data-aid="28867766" id="p29">And when Judas asked Him the same question, He replied calmly, “Thou hast said.”<a class="note-ref" href="#note10"><sup class="marker" data-value="10"></sup></a></p>
+<p data-aid="28867767" id="p30">I could visualize hands that had healed, comforted, edified, and blessed, breaking the bread as Jesus said, “Take, eat; this is my body.”<a class="note-ref" href="#note11"><sup class="marker" data-value="11"></sup></a></p>
+<p data-aid="28867768" id="p31">Then He took a cup filled with wine and gave thanks and gave the cup to them, saying, “Drink ye all of it; for this is my blood of the new testament, which is shed for many for the remission of sins.”<a class="note-ref" href="#note12"><sup class="marker" data-value="12"></sup></a></p>
+<p data-aid="28867769" id="p32">In my mind I looked at the disciples one by one and saw in their eyes their concern for the Master, whom they loved greatly. It was as if I were sitting there with them, watching everything. I felt an intense pain in my heart, full of grief and sorrow for what He was about to experience for me.</p>
+<p data-aid="28867770" id="p33">My soul was filled by an overwhelming desire to be a better person. In repentance and sorrow, I fervently wished to be able to dry and avoid the spilling of at least a few drops of His blood shed in Gethsemane.</p>
+<p data-aid="28867771" id="p34">I then pondered about the sacrament we partake of every week in remembrance of Him. While doing so, I meditated upon each word of the blessings on the bread and the water. I deeply reflected on the words “and always remember him” in the blessing on the bread and “that they do always remember him” in the blessing on the water.<a class="note-ref" href="#note13"><sup class="marker" data-value="13"></sup></a></p>
+<p data-aid="28867772" id="p35">I meditated on what it means to always remember Him.</p>
+<p data-aid="28867773" id="p36">To me it means:</p>
+<ul class="bullet">
+<li>
+<p data-aid="28867774" id="p37">To remember His premortal life, when this beautiful planet was made by Him.<a class="note-ref" href="#note14"><sup class="marker" data-value="14"></sup></a></p>
+</li>
+<li>
+<p data-aid="28867775" id="p38">To remember His humble birth in a manger in Bethlehem of Judea.<a class="note-ref" href="#note15"><sup class="marker" data-value="15"></sup></a></p>
+</li>
+<li>
+<p data-aid="28867776" id="p39">To remember when, even as a 12-year-old boy, He taught and preached to the doctors in the temple.<a class="note-ref" href="#note16"><sup class="marker" data-value="16"></sup></a></p>
+</li>
+<li>
+<p data-aid="28867777" id="p40">To remember when He went aside privately into a desert to prepare for His mortal ministry.<a class="note-ref" href="#note17"><sup class="marker" data-value="17"></sup></a></p>
+</li>
+<li>
+<p data-aid="28867778" id="p41">To remember when He was transfigured before His disciples.<a class="note-ref" href="#note18"><sup class="marker" data-value="18"></sup></a></p>
+</li>
+<li>
+<p data-aid="28867779" id="p42">To remember when He instituted the sacrament at the Last Supper with them.<a class="note-ref" href="#note19"><sup class="marker" data-value="19"></sup></a></p>
+</li>
+<li>
+<span class="page-break" data-page="103"></span>
+<p data-aid="28867780" id="p43">To remember when He went to the Garden of Gethsemane and suffered so intensely for our sins, pains, disappointments, and illnesses that He bled from every pore.<a class="note-ref" href="#note20"><sup class="marker" data-value="20"></sup></a></p>
+</li>
+<li>
+<p data-aid="28867781" id="p44">To remember when, after so much suffering and severe pain, even yet in Gethsemane, He was betrayed with a kiss by one of the disciples whom He called a friend.<a class="note-ref" href="#note21"><sup class="marker" data-value="21"></sup></a></p>
+</li>
+<li>
+<p data-aid="28867782" id="p45">To remember when He was taken to Pilate and to Herod for trial.<a class="note-ref" href="#note22"><sup class="marker" data-value="22"></sup></a></p>
+</li>
+<li>
+<p data-aid="28867783" id="p46">To remember when He was humiliated, buffeted, spat upon, smitten, and scourged with a whip that tore His flesh.<a class="note-ref" href="#note23"><sup class="marker" data-value="23"></sup></a></p>
+</li>
+<li>
+<p data-aid="28867784" id="p47">To remember when a crown of thorns was brutally put upon His head.<a class="note-ref" href="#note24"><sup class="marker" data-value="24"></sup></a></p>
+</li>
+<li>
+<p data-aid="28867785" id="p48">To remember that He had to carry His own cross to Golgotha and that He was nailed to the cross there, suffering every physical and spiritual pain.<a class="note-ref" href="#note25"><sup class="marker" data-value="25"></sup></a></p>
+</li>
+<li>
+<p data-aid="28867786" id="p49">To remember that at the cross, with His bowels full of charity, He looked at those who crucified Him and raised His eyes to heaven, pleading, “Father, forgive them; for they know not what they do.”<a class="note-ref" href="#note26"><sup class="marker" data-value="26"></sup></a></p>
+</li>
+<li>
+<p data-aid="28867787" id="p50">To remember when He, knowing He had fulfilled His mission of saving all mankind, gave up His spirit into the hands of His Father, our Father.<a class="note-ref" href="#note27"><sup class="marker" data-value="27"></sup></a></p>
+</li>
+<li>
+<p data-aid="28867788" id="p51">To remember His Resurrection, which ensures our own resurrection and the possibility to live beside Him for all eternity, depending on our choices.<a class="note-ref" href="#note28"><sup class="marker" data-value="28"></sup></a></p>
+</li>
+</ul>
+<p data-aid="28867789" id="p52">Furthermore, meditating on the sacrament prayers and the very special and meaningful words of the prayers reminds me how wonderful it is to receive the promise, during the blessing of the sacrament, that as we always remember Him, we will always have His Spirit with us.<a class="note-ref" href="#note29"><sup class="marker" data-value="29"></sup></a></p>
+<p data-aid="28867790" id="p53">I believe the Lord has His own timing as to when to give revelation unto us. I understood this very clearly while studying <a class="scripture-ref" href="/study/scriptures/ot/eccl/3?lang=eng&amp;id=p1%2Cp6#p1">Ecclesiastes 3:1, 6</a>, which reads:</p>
+<p data-aid="28867791" id="p54">“To every thing there is a season, and a time to every purpose under the heaven: …</p>
+<p data-aid="28867792" id="p55">“A time to get, and a time to lose; a time to keep, and a time to cast away.”</p>
+<p data-aid="28867793" id="p56">The sacrament is also a time for Heavenly Father to teach us about the Atonement of His Beloved Son—our Savior, Jesus Christ—and for us to receive revelation about it. It is a time to “knock, and it shall be opened unto you,”<a class="note-ref" href="#note30"><sup class="marker" data-value="30"></sup></a> to request and to receive this knowledge. It is time for us to reverently ask God for this knowledge. And if we do, I have no doubt that we will receive this knowledge, which will bless our lives beyond measure.</p>
+<p data-aid="28867794" id="p57">I love the Sabbath, the sacrament, and what they mean. I love the Savior with all my soul. In the name of Jesus Christ, amen.</p>
+</div>
+<footer class="notes">
+<p class="title" data-aid="28867795" id="notetitle1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="28867796" id="note1_p1">“Tell Me the Stories of Jesus,” <em>Children’s Songbook,</em> 57.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="28867797" id="note2_p1"><a class="scripture-ref" href="/study/scriptures/nt/john/9?lang=eng&amp;id=p7#p7">John 9:7</a>.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="28867798" id="note3_p1">See <a class="scripture-ref" href="/study/scriptures/nt/luke/8?lang=eng&amp;id=p43-p48#p43">Luke 8:43–48</a>.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="28867799" id="note4_p1">See <a class="scripture-ref" href="/study/scriptures/nt/mark/6?lang=eng&amp;id=p45-p52#p45">Mark 6:45–52</a>.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="28867800" id="note5_p1">See <a class="scripture-ref" href="/study/scriptures/nt/luke/24?lang=eng&amp;id=p13-p35#p13">Luke 24:13–35</a>.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="28867801" id="note6_p1"><a class="scripture-ref" href="/study/scriptures/bofm/3-ne/11?lang=eng&amp;id=p14#p14">3 Nephi 11:14</a>.</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="28867802" id="note7_p1"><a class="scripture-ref" href="/study/scriptures/nt/matt/26?lang=eng&amp;id=p18#p18">Matthew 26:18</a>.</p>
+</li>
+<li data-marker="8." id="note8" data-full-marker="8.">
+<p data-aid="28867803" id="note8_p1"><a class="scripture-ref" href="/study/scriptures/nt/matt/26?lang=eng&amp;id=p21#p21">Matthew 26:21</a>.</p>
+</li>
+<li data-marker="9." id="note9" data-full-marker="9.">
+<p data-aid="28867804" id="note9_p1"><a class="scripture-ref" href="/study/scriptures/nt/matt/26?lang=eng&amp;id=p22#p22">Matthew 26:22</a>.</p>
+</li>
+<li data-marker="10." id="note10" data-full-marker="10.">
+<p data-aid="28867805" id="note10_p1"><a class="scripture-ref" href="/study/scriptures/nt/matt/26?lang=eng&amp;id=p25#p25">Matthew 26:25</a>.</p>
+</li>
+<li data-marker="11." id="note11" data-full-marker="11.">
+<p data-aid="28867806" id="note11_p1"><a class="scripture-ref" href="/study/scriptures/nt/matt/26?lang=eng&amp;id=p26#p26">Matthew 26:26</a>.</p>
+</li>
+<li data-marker="12." id="note12" data-full-marker="12.">
+<p data-aid="28867807" id="note12_p1"><a class="scripture-ref" href="/study/scriptures/nt/matt/26?lang=eng&amp;id=p27-p28#p27">Matthew 26:27–28</a>.</p>
+</li>
+<li data-marker="13." id="note13" data-full-marker="13.">
+<p data-aid="28867808" id="note13_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/20?lang=eng&amp;id=p77%2Cp79#p77">Doctrine and Covenants 20:77, 79</a>.</p>
+</li>
+<li data-marker="14." id="note14" data-full-marker="14.">
+<p data-aid="28867809" id="note14_p1">See <a class="scripture-ref" href="/study/scriptures/nt/john/1?lang=eng&amp;id=p1-p3#p1">John 1:1–3</a>.</p>
+</li>
+<li data-marker="15." id="note15" data-full-marker="15.">
+<p data-aid="28867810" id="note15_p1">See <a class="scripture-ref" href="/study/scriptures/nt/luke/2?lang=eng&amp;id=p1-p7#p1">Luke 2:1–7</a>.</p>
+</li>
+<li data-marker="16." id="note16" data-full-marker="16.">
+<p data-aid="28867811" id="note16_p1">See <a class="scripture-ref" href="/study/scriptures/nt/luke/2?lang=eng&amp;id=p41-p52#p41">Luke 2:41–52</a>.</p>
+</li>
+<li data-marker="17." id="note17" data-full-marker="17.">
+<p data-aid="28867812" id="note17_p1">See <a class="scripture-ref" href="/study/scriptures/nt/matt/4?lang=eng&amp;id=p1-p11#p1">Matthew 4:1–11</a>; <a class="scripture-ref" href="/study/scriptures/nt/mark/1?lang=eng&amp;id=p12-p13#p12">Mark 1:12–13</a>; <a class="scripture-ref" href="/study/scriptures/nt/luke/4?lang=eng&amp;id=p1-p13#p1">Luke 4:1–13</a>.</p>
+</li>
+<li data-marker="18." id="note18" data-full-marker="18.">
+<p data-aid="28867813" id="note18_p1">See <a class="scripture-ref" href="/study/scriptures/nt/matt/17?lang=eng&amp;id=p1-p9#p1">Matthew 17:1–9</a>.</p>
+</li>
+<li data-marker="19." id="note19" data-full-marker="19.">
+<p data-aid="28867814" id="note19_p1">See <a class="scripture-ref" href="/study/scriptures/nt/matt/26?lang=eng&amp;id=p26-p28#p26">Matthew 26:26–28</a>; <a class="scripture-ref" href="/study/scriptures/nt/luke/22?lang=eng&amp;id=p14-p20#p14">Luke 22:14–20</a>.</p>
+</li>
+<li data-marker="20." id="note20" data-full-marker="20.">
+<p data-aid="28867815" id="note20_p1">See <a class="scripture-ref" href="/study/scriptures/nt/luke/22?lang=eng&amp;id=p39-p46#p39">Luke 22:39–46</a>.</p>
+</li>
+<li data-marker="21." id="note21" data-full-marker="21.">
+<p data-aid="28867816" id="note21_p1">See <a class="scripture-ref" href="/study/scriptures/nt/luke/22?lang=eng&amp;id=p47-p48#p47">Luke 22:47–48</a>.</p>
+</li>
+<li data-marker="22." id="note22" data-full-marker="22.">
+<p data-aid="28867817" id="note22_p1">See <a class="scripture-ref" href="/study/scriptures/nt/luke/23?lang=eng&amp;id=p1-p12#p1">Luke 23:1–12</a>.</p>
+</li>
+<li data-marker="23." id="note23" data-full-marker="23.">
+<p data-aid="28867818" id="note23_p1">See <a class="scripture-ref" href="/study/scriptures/nt/matt/26?lang=eng&amp;id=p67#p67">Matthew 26:67</a>; <a class="scripture-ref" href="/study/scriptures/nt/matt/27?lang=eng&amp;id=p26%2Cp28%2Cp30#p26">27:26, 28, 30</a>; <a class="scripture-ref" href="/study/scriptures/nt/luke/22?lang=eng&amp;id=p63-p65#p63">Luke 22:63–65</a>.</p>
+</li>
+<li data-marker="24." id="note24" data-full-marker="24.">
+<p data-aid="28867819" id="note24_p1">See <a class="scripture-ref" href="/study/scriptures/nt/matt/27?lang=eng&amp;id=p29#p29">Matthew 27:29</a>.</p>
+</li>
+<li data-marker="25." id="note25" data-full-marker="25.">
+<p data-aid="28867820" id="note25_p1">See <a class="scripture-ref" href="/study/scriptures/nt/john/19?lang=eng&amp;id=p16-p18#p16">John 19:16–18</a>.</p>
+</li>
+<li data-marker="26." id="note26" data-full-marker="26.">
+<p data-aid="28867821" id="note26_p1"><a class="scripture-ref" href="/study/scriptures/nt/luke/23?lang=eng&amp;id=p34#p34">Luke 23:34</a>.</p>
+</li>
+<li data-marker="27." id="note27" data-full-marker="27.">
+<p data-aid="28867822" id="note27_p1">See <a class="scripture-ref" href="/study/scriptures/nt/luke/23?lang=eng&amp;id=p46#p46">Luke 23:46</a>.</p>
+</li>
+<li data-marker="28." id="note28" data-full-marker="28.">
+<p data-aid="28867823" id="note28_p1">See <a class="scripture-ref" href="/study/scriptures/nt/luke/24?lang=eng&amp;id=p5-p8#p5">Luke 24:5–8</a>.</p>
+</li>
+<li data-marker="29." id="note29" data-full-marker="29.">
+<p data-aid="28867824" id="note29_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/20?lang=eng&amp;id=p77%2Cp79#p77">Doctrine and Covenants 20:77, 79</a>.</p>
+</li>
+<li data-marker="30." id="note30" data-full-marker="30.">
+<p data-aid="28867825" id="note30_p1"><a class="scripture-ref" href="/study/scriptures/nt/matt/7?lang=eng&amp;id=p7#p7">Matthew 7:7</a>.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/2015/10/that-they-do-always-remember-him</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/october-2015-general-conference/2015-10-4070-elder-claudio-r-m-costa-64k-eng.mp3" length="5143628" type="audio/mpeg"/>
-      <pubDate>Sun, 04 Oct 2015 10:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/c195762a32cb11ec8aafeeeeac1e5e365bfe0aaf-64k-en.mp3" length="5432789" type="audio/mpeg"/>
+      <pubDate>Sun, 04 Oct 2015 10:00:00 -0600</pubDate>
+      <itunes:author>Claudio R. M. Costa</itunes:author>
     </item>
   </channel>
 </rss>

@@ -1,154 +1,150 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Talks By J Ballard Washburn</title>
-    <link>http://philip.lundrigan.org/Speakercast/</link>
+    <link>https://philip.lundrigan.org/Speakercast/</link>
     <description>General Conference talks by J Ballard Washburn.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Speakercast</generator>
     <image>
-      <url>http://philip.lundrigan.org/Speakercast/covers/J%20Ballard%20Washburn.jpg</url>
+      <url>https://philip.lundrigan.org/Speakercast/covers/J%20Ballard%20Washburn.jpg</url>
       <title>General Conference talks by J Ballard Washburn.</title>
-      <link>http://philip.lundrigan.org/Speakercast/</link>
+      <link>https://philip.lundrigan.org/Speakercast/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 06 Oct 1990 18:00:00 -0700</lastBuildDate>
-    <pubDate>Sat, 06 Oct 1990 18:00:00 -0700</pubDate>
+    <lastBuildDate>Sat, 01 Apr 1995 10:00:00 -0700</lastBuildDate>
+    <pubDate>Sat, 01 Apr 1995 10:00:00 -0700</pubDate>
+    <itunes:author>J Ballard Washburn</itunes:author>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
+    <itunes:image href="https://philip.lundrigan.org/Speakercast/covers/J%20Ballard%20Washburn.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>General Conference talks by J Ballard Washburn.</itunes:summary>
     <item>
       <title>Follow the Prophet</title>
-      <link>http://www.lds.org/general-conference/1990/10/follow-the-prophet?lang=eng</link>
-      <description>Brethren, it’s an honor to be with you. I humbly pray for the Spirit to guide the things that I say, that we may look at a few brief events in the life of our prophet and resolve to try harder to be like him, to be true disciples of Jesus Christ.</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/1990/10/follow-the-prophet" schema-version="1" doc-id="general-conference_90911_000_020" doc-version="2" hash="G1kWvw">
-  
-  <div class="heading" uri="/general-conference/1990/10/follow-the-prophet.head">
-    <h1 class="title" pid="C9gMMKn0bEeAk27kYXZlcA" hash="JL607Q">Follow the Prophet</h1>
-    <p class="authorName" pid="8SW6iPL4AkKuGvDWjUI3fw" hash="5-ylHg">J Ballard Washburn</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/1990/10/follow-the-prophet.t1">
-      <img src="ensignlp.nfo-o-20f8.jpg" alt="Elder J Ballard Washburn" pid="NdB_wY3mqU2Xn2kOzLousA" hash="sIRiMg" />
-      <p class="para" uri="/general-conference/1990/10/follow-the-prophet.p1" pid="vNRcpY4UMkuw64LQ4pRUwg" hash="kOYWAw">Brethren, it’s an honor to be with you. I humbly pray for the Spirit to guide the things that I say, that we may look at a few brief events in the life of our prophet and resolve to try harder to be like him, to be true disciples of Jesus Christ.</p>
-      <p class="para" uri="/general-conference/1990/10/follow-the-prophet.p2" pid="WD7wh4j6okenxiLn4Jg3qg" hash="YAY9gA">Elder Kimball quoted Mr. F. M. Bareham as saying, “When a wrong wants righting, or a truth wants preaching, or a continent wants discovering [and, we might add, or God wants us to read the Book of Mormon], God sends a baby into the world to do it.” (In Conference Report, Apr. 1960, p. 84.)</p>
-      <p class="para" uri="/general-conference/1990/10/follow-the-prophet.p3" pid="vOsPckyFBU24lZApK0-0GQ" hash="Muqh9Q">And so it was that on August 4, 1899, in Whitney, Idaho, Sarah Benson started into labor. Her husband, George, gave her a blessing. “Dr. Allan Cutler attended her in the bedroom of their farm home, with both grandmothers, Louisa Benson and Margaret Dunkley, there. The delivery was protracted. As the baby, a large boy, was delivered, the doctor couldn’t get him to breathe and quickly laid him on the bed and pronounced, ‘There’s no hope for the child, but I believe we can save the mother.’ While Dr. Cutler feverishly attended to Sarah, the grandmothers rushed to the kitchen, praying silently as they worked, and returned shortly with two pans of water—one cold, the other warm. Alternately, they dipped the baby first in cold and then in warm water, until finally they heard a cry. The 11 3/4 pound boy was alive! Later, both grandmothers bore testimony that the Lord had spared the child. George and Sarah named him Ezra Taft Benson.” (Sheri L. Dew, <span class="emphasis">Ezra Taft Benson: A Biography,</span> Salt Lake City: Deseret Book Co., 1987, pp. 13–14.)</p>
-      <p class="para" uri="/general-conference/1990/10/follow-the-prophet.p4" pid="HOTJNHt4sUSIIljcZfix-w" hash="fj5-6w">When Ezra was age twelve, his father was called on a mission, and being the oldest child, Ezra was left to help care for his mother, who was expecting, and his six brothers and sisters. A smallpox epidemic caused them all to be seriously ill, and the mother became critically ill, but they refused the insistence of the doctor that the father come home. And the Lord blessed them, and they weathered this and many other difficult situations while the father served a mission.</p>
-      <p class="para" uri="/general-conference/1990/10/follow-the-prophet.p5" pid="PV_se2p9_EelDiJia2g_fw" hash="EKc2GQ">“In the early fall of 1920 Ezra spent a weekend in Logan preparatory to enrolling for winter quarter. He and a cousin were standing on a curb on Main Street when an attractive young woman drove by in a Ford convertible and waved to a friend. A few minutes later she drove by a second time and waved again. ‘Who is that?’ Ezra asked. ‘Flora Amussen,’ his cousin replied. There was something about the girl that impressed Ezra, and he responded enthusiastically, ‘When I come down here this winter, I’m going to [court] her.’ ‘Like heck you will,’ the cousin answered, adding, ‘she’s too popular for a farm boy like you.’ ‘That makes it all the more interesting,’ Ezra countered. He received the distinct impression that he would marry her.” (Dew, pp. 46–47.)</p>
-      <p class="para" uri="/general-conference/1990/10/follow-the-prophet.p6" pid="32f6uvIHzE2xTjenlAPtQw" hash="ngTEVw">In the summer of 1921, at age twenty-one, Ezra received a letter from President Heber J. Grant calling him on a mission to Great Britain. July 14, 1921, he went through the Logan Temple with his parents, and two days later, he said good-bye to his parents and girlfriend and started on his way to England. (See Dew, p. 50.) Elder Benson studied and worked hard but didn’t feel like he was doing too well and wrote in his journal that he was disgusted with his “‘frail attempt at speaking.’” But as he matured spiritually, he was invited to speak at the South Shields Branch. He was assigned to speak on the Apostasy, but instead he “‘gave a strong and impressive discourse of the truthfulness of the Book of Mormon.’” He later said, “‘I spoke with a freedom I had never experienced. Afterwards, I couldn’t recall what I had said, but several nonmembers surrounded me and said, “Tonight, we received a witness that Joseph Smith was a prophet of God, and we are ready for baptism.” It was the experience of a lifetime. … It was the first experience of that kind I’d had, where I knew that the Lord was with me.’” (Dew, p. 55.)</p>
-      <p class="para" uri="/general-conference/1990/10/follow-the-prophet.p7" pid="nzLcI-vI5UKtDnpxO1tkEA" hash="zFeeeA">President Benson married his sweetheart September 10, 1926, in the Salt Lake Temple, after they had both served missions. He has said that Sister Benson had more faith in him than he had in himself. After sixty-four years of marriage, they are an example of love and devotion to us all.</p>
-      <p class="para" uri="/general-conference/1990/10/follow-the-prophet.p8" pid="ElrilNqM9kO6DisNzlLPMQ" hash="3Py-dQ">Now, each of you young men can know that the Lord is with you and that he loves each one of you. You can follow this great prophet and serve a mission and be married in the temple. You can live a life of service as he has and be a disciple of Jesus.</p>
-      <p class="para" uri="/general-conference/1990/10/follow-the-prophet.p9" pid="_E0Z5KFROkGbii38kPmr7A" hash="LU2HIw">When President Kimball died, we were living in Arizona. President Kimball had been in our home. We had knelt with him in family prayer, and he had eaten bread and milk with us. We knew he was a prophet of God.</p>
-      <p class="para" uri="/general-conference/1990/10/follow-the-prophet.p10" pid="g1zth0feOkOWBncVKxmxNQ" hash="XBZfNA">I wanted a witness of the Spirit that President Benson was God’s chosen prophet. I wanted to know more than that he was just a good person and next in line after President Kimball. The Lord was kind to me, and, after fasting and prayer, I received, by the Spirit, the witness that President Benson was indeed God’s chosen prophet for this time, with a special calling and a special message for our day.</p>
-      <p class="para" uri="/general-conference/1990/10/follow-the-prophet.p11" pid="b5gCHA4kA0-DbUYECLogAw" hash="IgdltA">Today there are thousands who have had a spiritual awakening because they are studying and following the teachings of the Book of Mormon as the prophet has admonished us to do. There are thousands who feel they have received a special personal message from the prophet as he has spoken to the young men of the Church, the young women of the Church, the children, the elderly, the parents. There are thousands who are better people today because they have stripped themselves of pride, as counseled by this great prophet. Yes,</p>
-      <div class="poetry" uri="/general-conference/1990/10/follow-the-prophet.f2">
-        <div class="stanza">
-          <p class="line" pid="g0JKy_rq1E69wqSFXDAbyw" hash="OUHGlA">
-            <span class="emphasis">We thank thee, O God, for a prophet</span>
-          </p>
-          <p class="line" pid="h2T01qfUtEKb1-Mx8s6m_w" hash="7zCw1Q">
-            <span class="emphasis">To guide us in these latter days.</span>
-          </p>
-        </div>
-      </div>
-      <p class="para" uri="/general-conference/1990/10/follow-the-prophet.p12" pid="BDceoemwz0a8QDHLlE-RWg" hash="ghqLHA">I bear witness that Ezra Taft Benson was born to be a prophet, has lived so he could be a prophet, and has been called of God to be a prophet in our day. He has set a pattern of service and endurance that each of us should seek to follow.</p>
-      <p class="para" uri="/general-conference/1990/10/follow-the-prophet.p13" pid="Qox5fFurJkWh1UoIv-tylA" hash="6muo1w">In closing, may I read the words of a song that were sung this afternoon by the young ladies’ chorus that express our feelings for our prophet.</p>
-      <div class="poetry" uri="/general-conference/1990/10/follow-the-prophet.f3">
-        <div class="stanza">
-          <p class="line" pid="q0NofulQ0kGWqR9qXhC3kw" hash="_aMXbA">
-            <span class="emphasis">We ever pray for thee, our prophet dear,</span>
-          </p>
-          <p class="line" pid="1Uiah43zMEenbj3Q3a3q0A" hash="LNjDgg">
-            <span class="emphasis">That God will give to thee comfort and cheer;</span>
-          </p>
-          <p class="line" pid="5XUVg2L0jkO6agc014bbyw" hash="ieK8JQ">
-            <span class="emphasis">As the advancing years furrow thy brow,</span>
-          </p>
-          <p class="line" pid="FYz8Sb0hYEuVAGe6GSZOfg" hash="r3gQLQ">
-            <span class="emphasis">Still may the light within shine bright as now.</span>
-          </p>
-        </div>
-        <div class="stanza">
-          <p class="line" pid="Xs4dkQt-AkeM5N2rQnY6ZA" hash="Ps5J4g">
-            <span class="emphasis">We ever pray for thee with all our hearts,</span>
-          </p>
-          <p class="line" pid="GwZkB84PWky7Xxv3XeAV2Q" hash="QKMXTw">
-            <span class="emphasis">That strength be given thee to do thy part,</span>
-          </p>
-          <p class="line" pid="4wOoJB2Adkm7AI824FBQbA" hash="8sm_Qw">
-            <span class="emphasis">To guide and counsel us from day to day,</span>
-          </p>
-          <p class="line" pid="cpMdUOE8gkSaELkEjx1HgA" hash="bT8Mqw">
-            <span class="emphasis">To shed a holy light around our way.</span>
-          </p>
-        </div>
-        <div class="stanza">
-          <p class="line" pid="59YeXqFIPEu3PjvE26ujxA" hash="BrdpKQ">
-            <span class="emphasis">We ever pray for thee with fervent love;</span>
-          </p>
-          <p class="line" pid="C4YKpsenSEy5HCDpl1LmFQ" hash="Hj9dYQ">
-            <span class="emphasis">And as the children’s prayer is heard above,</span>
-          </p>
-          <p class="line" pid="PSdzOv2yA0yiW2EbXycnmw" hash="SiJj7w">
-            <span class="emphasis">Thou shalt be ever blest, and God will give</span>
-          </p>
-          <p class="line" pid="uTrkH2K3s0il_l6cuc575A" hash="WhlzUA">
-            <span class="emphasis">All that is meet and best while thou shalt live.</span>
-          </p>
-        </div>
-      </div>
-      <p class="para" uri="/general-conference/1990/10/follow-the-prophet.p14" pid="idksFf4HHk6Y9nWc8ZWPWw" hash="owjXcw">May God bless and sustain his prophet, and may we follow him, is my prayer in the name of Jesus Christ, amen.</p>
-    </div>
-  </div>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/1990/10/follow-the-prophet?lang=eng</link>
+      <description>In the Old Testament, in 2 Kings, we read of a man by the name of Naaman. He was the “captain of the host of the king of Syria, … but he was a leper.” (.)</description>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="41"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/5255213defe9ca83e23131252124f2571bcaacd4/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/5255213defe9ca83e23131252124f2571bcaacd4/full/%21192%2C/0/default" data-video-title="Follow the Prophet" data-video-description="Elder J Ballard Washburn delivers a message titled &quot;Follow the Prophet.&quot;" data-video-id="2255423368001" data-ip="Download and Streaming                            " data-duration="528000" data-assetId="4f98a16e286d099864bff0d1a3f4d082405ae364" data-ref-id="4f98a16e286d099864bff0d1a3f4d082405ae364" data-duration-string="8:48" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/2255423368001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="480" data-height="360" data-file-size="28491751"/><source src="https://assets.churchofjesuschrist.org/4f98a16e286d099864bff0d1a3f4d082405ae364-360p-en.mp4" type="video/mp4" data-width="480" data-height="360" data-file-size="28491751"/></video><h1 data-aid="28782507" id="title1">Follow the Prophet</h1>
+<div class="byline">
+<p class="author-name" data-aid="28782508" id="p1">By Elder J Ballard Washburn</p>
+<p class="author-role" data-aid="150030268" id="p30">Of the Seventy</p>
+<div class="image-cropper"><img alt="Elder J Ballard Washburn" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/49htsmfncta771anetufrfhvxolh5rxnoxb72f6c/full/%21100%2C/0/default" data-assetId="49htsmfncta771anetufrfhvxolh5rxnoxb72f6c" srcset="https://www.churchofjesuschrist.org/imgs/49htsmfncta771anetufrfhvxolh5rxnoxb72f6c/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/49htsmfncta771anetufrfhvxolh5rxnoxb72f6c/full/%21100%2C/0/default 100w" data-img-id="49htsmfncta771anetufrfhvxolh5rxnoxb72f6c" data-missing-asset="false" data-width="100" data-height="143" data-aspect-ratio="0.6993006993006993" data-public-title="J Ballard Washburn" data-public-description="J Ballard Washburn"/></div>
+</div>
+</header>
+<div class="body-block">
+<p data-aid="28782509" id="p2">Brethren, it’s an honor to be with you. I humbly pray for the Spirit to guide the things that I say, that we may look at a few brief events in the life of our prophet and resolve to try harder to be like him, to be true disciples of Jesus Christ.</p>
+<p data-aid="28782510" id="p3">Elder Kimball quoted Mr. F. M. Bareham as saying, “When a wrong wants righting, or a truth wants preaching, or a continent wants discovering [and, we might add, or God wants us to read the Book of Mormon], God sends a baby into the world to do it” (in Conference Report, Apr. 1960, p. 84).</p>
+<p data-aid="28782511" id="p4">And so it was that on August 4, 1899, in Whitney, Idaho, Sarah Benson started into labor. Her husband, George, gave her a blessing. “Dr. Allan Cutler attended her in the bedroom of their farm home, with both grandmothers, Louisa Benson and Margaret Dunkley, there. The delivery was protracted. As the baby, a large boy, was delivered, the doctor couldn’t get him to breathe and quickly laid him on the bed and pronounced, ‘There’s no hope for the child, but I believe we can save the mother.’ While Dr. Cutler feverishly attended to Sarah, the grandmothers rushed to the kitchen, praying silently as they worked, and returned shortly with two pans of water—one cold, the other warm. Alternately, they dipped the baby first in cold and then in warm water, until finally they heard a cry. The 11 3/4 pound boy was alive! Later, both grandmothers bore testimony that the Lord had spared the child. George and Sarah named him Ezra Taft Benson” (Sheri L. Dew, <em>Ezra Taft Benson: A Biography</em> [Salt Lake City: Deseret Book Co., 1987], pp. 13–14).</p>
+<p data-aid="28782512" id="p5">When Ezra was age twelve, his father was called on a mission, and being the oldest child, Ezra was left to help care for his mother, who was expecting, and his six brothers and sisters. A smallpox epidemic caused them all to be seriously ill, and the mother became critically ill, but they refused the insistence of the doctor that the father come home. And the Lord blessed them, and they weathered this and many other difficult situations while the father served a mission.</p>
+<p data-aid="28782513" id="p6">“In the early fall of 1920 Ezra spent a weekend in Logan preparatory to enrolling for winter quarter. He and a cousin were standing on a curb on Main Street when an <span class="page-break" data-page="42"></span>attractive young woman drove by in a Ford convertible and waved to a friend. A few minutes later she drove by a second time and waved again. ‘Who is that?’ Ezra asked. ‘Flora Amussen,’ his cousin replied. There was something about the girl that impressed Ezra, and he responded enthusiastically, ‘When I come down here this winter, I’m going to [court] her.’ ‘Like heck you will,’ the cousin answered, adding, ‘she’s too popular for a farm boy like you.’ ‘That makes it all the more interesting,’ Ezra countered. He received the distinct impression that he would marry her.” (<em>Ezra Taft Benson,</em> pp. 46–47).</p>
+<p data-aid="28782514" id="p7">In the summer of 1921, at age twenty-one, Ezra received a letter from President Heber J. Grant calling him on a mission to Great Britain. July 14, 1921, he went through the Logan Temple with his parents, and two days later, he said good-bye to his parents and girlfriend and started on his way to England (see <em>Ezra Taft Benson, </em> p. 50). Elder Benson studied and worked hard but didn’t feel like he was doing too well and wrote in his journal that he was disgusted with his “‘frail attempt at speaking.’” But as he matured spiritually, he was invited to speak at the South Shields Branch. He was assigned to speak on the Apostasy, but instead he “‘gave a strong and impressive discourse of the truthfulness of the Book of Mormon.’” He later said, “‘I spoke with a freedom I had never experienced. Afterwards, I couldn’t recall what I had said, but several nonmembers surrounded me and said, “Tonight, we received a witness that Joseph Smith was a prophet of God, and we are ready for baptism.” It was the experience of a lifetime. … It was the first experience of that kind I’d had, where I knew that the Lord was with me’” (<em>Ezra Taft Benson,</em> p. 55).</p>
+<p data-aid="28782515" id="p8">President Benson married his sweetheart September 10, 1926, in the Salt Lake Temple, after they had both served missions. He has said that Sister Benson had more faith in him than he had in himself. After sixty-four years of marriage, they are an example of love and devotion to us all.</p>
+<p data-aid="28782516" id="p9">Now, each of you young men can know that the Lord is with you and that he loves each one of you. You can follow this great prophet and serve a mission and be married in the temple. You can live a life of service as he has and be a disciple of Jesus.</p>
+<p data-aid="28782517" id="p10">When President Kimball died, we were living in Arizona. President Kimball had been in our home. We had knelt with him in family prayer, and he had eaten bread and milk with us. We knew he was a prophet of God.</p>
+<p data-aid="28782518" id="p11">I wanted a witness of the Spirit that President Benson was God’s chosen prophet. I wanted to know more than that he was just a good person and next in line after President Kimball. The Lord was kind to me, and, after fasting and prayer, I received, by the Spirit, the witness that President Benson was indeed God’s chosen prophet for this time, with a special calling and a special message for our day.</p>
+<p data-aid="28782519" id="p12">Today there are thousands who have had a spiritual awakening because they are studying and following the teachings of the Book of Mormon as the prophet has admonished us to do. There are thousands who feel they have received a special personal message from the prophet as he has spoken to the young men of the Church, the young women of the Church, the children, the elderly, the parents. There are thousands who are better people today because they have stripped themselves of pride, as counseled by this great prophet. Yes,</p>
+<div class="poetry">
+<div class="stanza">
+<p class="line" data-aid="28782520" id="p13">We thank thee, O God, for a prophet</p>
+<p class="line" data-aid="28782521" id="p14">To guide us in these latter days.</p>
+</div>
+<div class="citation-info">
+<p data-aid="150030269" id="p31">[<em>Hymns,</em> 1985, no. 19]</p>
+</div>
+</div>
+<p data-aid="28782522" id="p15">I bear witness that Ezra Taft Benson was born to be a prophet, has lived so he could be a prophet, and has been called of God to be a prophet in our day. He has set a pattern of service and endurance that each of us should seek to follow.</p>
+<p data-aid="28782523" id="p16">In closing, may I read the words of a song that were sung this afternoon by the young ladies’ chorus that express our feelings for our prophet.</p>
+<div class="poetry">
+<div class="stanza">
+<p class="line" data-aid="28782524" id="p17">We ever pray for thee, our prophet dear,</p>
+<p class="line" data-aid="28782525" id="p18">That God will give to thee comfort and cheer;</p>
+<p class="line" data-aid="28782526" id="p19">As the advancing years furrow thy brow,</p>
+<p class="line" data-aid="28782527" id="p20">Still may the light within shine bright as now.</p>
+</div>
+<div class="stanza">
+<p class="line" data-aid="28782528" id="p21">We ever pray for thee with all our hearts,</p>
+<p class="line" data-aid="28782529" id="p22">That strength be given thee to do thy part,</p>
+<p class="line" data-aid="28782530" id="p23">To guide and counsel us from day to day,</p>
+<p class="line" data-aid="28782531" id="p24">To shed a holy light around our way.</p>
+</div>
+<div class="stanza">
+<p class="line" data-aid="28782532" id="p25">We ever pray for thee with fervent love;</p>
+<p class="line" data-aid="28782533" id="p26">And as the children’s prayer is heard above,</p>
+<p class="line" data-aid="28782534" id="p27">Thou shalt be ever blest, and God will give</p>
+<p class="line" data-aid="28782535" id="p28">All that is meet and best while thou shalt live.</p>
+</div>
+<div class="citation-info">
+<p data-aid="150030270" id="p32">[<em>Hymns,</em> 1985, no. 23]</p>
+</div>
+</div>
+<p data-aid="28782536" id="p29">May God bless and sustain his prophet, and may we follow him, is my prayer in the name of Jesus Christ, amen.</p>
 </div>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/1990/10/follow-the-prophet</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/october-1990-general-conference/1990-10-3030-elder-j-ballard-washburn-64k-eng.mp3" length="4248909" type="audio/mpeg"/>
-      <pubDate>Sat, 06 Oct 1990 18:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/e73b20c032ef11eca0a3eeeeac1ed9039769b067-64k-en.mp3" length="4527693" type="audio/mpeg"/>
+      <pubDate>Sat, 06 Oct 1990 18:00:00 -0600</pubDate>
+      <itunes:author>J Ballard Washburn</itunes:author>
     </item>
     <item>
       <title>The Temple Is a Family Affair</title>
-      <link>http://www.lds.org/general-conference/1995/04/the-temple-is-a-family-affair?lang=eng</link>
-      <description>Dear brothers and sisters, it’s my honor and privilege to join with you in expressing our love and support for President Hinckley, President Monson, President Faust, President Packer, and the Twelve. I am happy to say that I love you. I am grateful t</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/1995/04/the-temple-is-a-family-affair" schema-version="1" doc-id="general-conference_95905_000_006" doc-version="2" hash="7r7vCg">
-  
-  <div class="heading" uri="/general-conference/1995/04/the-temple-is-a-family-affair.head">
-    <h1 class="title" pid="FvpCWGmI60mlDek-HZLVww" hash="FMyijg">The Temple Is a Family Affair</h1>
-    <p class="authorName" pid="p2kvNUfbS0q4FkwK1FLESg" hash="5-ylHg">J Ballard Washburn</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/1995/04/the-temple-is-a-family-affair.t1">
-      <img src="ensignlp.nfo-o-20f8.jpg" alt="Elder J Ballard Washburn" pid="jeP9yqhk806BUv0b7GoRIg" hash="sIRiMg" />
-      <p class="para" uri="/general-conference/1995/04/the-temple-is-a-family-affair.p1" pid="eoTtnn5JRku9PRn3ODo5TQ" hash="V5Pi-A">Dear brothers and sisters, it’s my honor and privilege to join with you in expressing our love and support for President Hinckley, President Monson, President Faust, President Packer, and the Twelve. I am happy to say that I love you. I am grateful to be one with you in the work of the kingdom.</p>
-      <p class="para" uri="/general-conference/1995/04/the-temple-is-a-family-affair.p2" pid="45p5_M0YaEKYFmG2OXqNUg" hash="fgzN9A">Recently, after a stake conference, I was talking with a family with teenage children. I said to them, “You must live righteously so that someday you can go to the temple with your parents.” A sixteen-year-old daughter responded, “Oh, we go to the temple with our parents almost every week. We go and do baptisms for our family file names.” I thought, <span class="emphasis">What a wonderful thing, for families to go to the temple together.</span></p>
-      <p class="para" uri="/general-conference/1995/04/the-temple-is-a-family-affair.p3" pid="EyiIvl1Cl06g7Ji2peUBaA" hash="9k3_Nw">When Jesus was twelve years old, his parents took him to the temple. I think it is more than coincidental that our sons and daughters can go to the temple with us when they are twelve years old. Joseph and Mary did not say, “Bishop, will you take our son to the temple?” They took him.</p>
-      <p class="para" uri="/general-conference/1995/04/the-temple-is-a-family-affair.p4" pid="RdigM85rZkm63mqevq1k0Q" hash="q0clBg">Our efforts as parents, wards, and stakes should be to help our youth live worthily to go to the temple <span class="emphasis">now.</span> The goal is the same for young women as for young men—<span class="emphasis">be temple worthy now.</span> When the bishop interviews the youth each year, it will include a worthiness interview.</p>
-      <p class="para" uri="/general-conference/1995/04/the-temple-is-a-family-affair.p5" pid="x_1Ly47-Z0W11DgpjrFwoQ" hash="T8VpdQ">What a wonderful goal for priesthood leaders and young women leaders to help parents inspire every young woman and every young man to go to the temple every year. What a great blessing for parents to be in the temple with their children, age twelve and over, at least once a year where circumstances allow.</p>
-      <p class="para" uri="/general-conference/1995/04/the-temple-is-a-family-affair.p6" pid="QyGbdCyoEECf9fAjJcFIBg" hash="SZEEFw">One thing that will help us more than anything else to want to be in the temple is to have the Holy Ghost with us.</p>
-      <p class="para" uri="/general-conference/1995/04/the-temple-is-a-family-affair.p7" pid="ybiU9UHwkEm1n3mbXaagbg" hash="NZ8Huw">Two important things are necessary to have the Holy Ghost: First, we must live worthy of it, and second, we must ask for it.</p>
-      <p class="para" uri="/general-conference/1995/04/the-temple-is-a-family-affair.p8" pid="4T_evo3OQ0OwtDXoZWYzVw" hash="pUaWyQ">“Ask the Father in my name, in faith believing that you shall receive, and you shall have the Holy Ghost, which manifesteth all things which are expedient unto the children of men.”<span class="noteMarker" ref="f_1">1</span></p>
-      <p class="para" uri="/general-conference/1995/04/the-temple-is-a-family-affair.p9" pid="V9ifOnGmpUKcFDx4sfjQAw" hash="UDQcJQ">If we will ask in faith, we will receive the Holy Ghost, and it will lead us to the temple.</p>
-      <p class="para" uri="/general-conference/1995/04/the-temple-is-a-family-affair.p10" pid="LU-gxTIle0CCmSIXbf0gEw" hash="WHBkTA">Let me give a word of caution here. We cannot go to His holy house unworthily without bringing upon ourselves the judgments of God. For God will not be mocked.</p>
-      <p class="para" uri="/general-conference/1995/04/the-temple-is-a-family-affair.p11" pid="Sa1IHS6W_kerZJ9GbuhPaA" hash="jbHtxw">When couples who have not fully repented of past sins go to the temple to be married, they are starting their marriages on very shaky ground. I believe this is one of the main causes of divorce in temple marriages. If a man who is <span class="emphasis">dishonest</span> in his personal life, as it pertains to his wife and children or his business dealings, goes to the temple, he is heaping damnation upon his own soul and is in great need of repentance.</p>
-      <p class="para" uri="/general-conference/1995/04/the-temple-is-a-family-affair.p12" pid="CQVAftf4V0ehX7ImnUpDOQ" hash="_iC8nA">President Hunter said: “It is the deepest desire of my heart to have every member of the Church <span class="emphasis">worthy</span> to enter the temple.”<span class="noteMarker" ref="f_2">2</span> If our young men or young women on their way to the mission field, go to the temple unworthily, it is a great mistake. We must prepare them for the temple <span class="emphasis">first,</span> and then they will be prepared for missions. President Hunter said, “Let us prepare every missionary to go to the temple <span class="emphasis">worthily</span> and to make that experience an even greater highlight than receiving the mission call.”<span class="noteMarker" ref="f_3">3</span></p>
-      <p class="para" uri="/general-conference/1995/04/the-temple-is-a-family-affair.p13" pid="PT0Bg7QmSka-oH7pCo0Sxg" hash="MfBeHw">The greatest blessings of eternity come to us through the temple. God’s greatest gift, eternal life, can only come to a man and woman together. And every worthy person will someday have this blessing. In Doctrine and Covenants 131 we read:</p>
-      <p class="para" uri="/general-conference/1995/04/the-temple-is-a-family-affair.p14" pid="eF3mnH9cakybSskV1t9Aww" hash="_hQ37w">“In the celestial glory there are three heavens or degrees;</p>
-      <p class="para" uri="/general-conference/1995/04/the-temple-is-a-family-affair.p15" pid="RLEqQFdiAUGC2ekHF-peCA" hash="xscRkg">“And in order to obtain the highest, a man must enter into this order of the priesthood [meaning the new and everlasting covenant of marriage];</p>
-      <p class="para" uri="/general-conference/1995/04/the-temple-is-a-family-affair.p16" pid="jRWiU3nfZEGsuaxgabKEjA" hash="buzxpg">“And if he does not, he cannot obtain it.</p>
-      <p class="para" uri="/general-conference/1995/04/the-temple-is-a-family-affair.p17" pid="8UezruJr6k-Cc6WrmAuYKw" hash="7iD2ag">“He may enter into the other, but that is the end of his kingdom; he cannot have an increase” (<a href="/scriptures/dc-testament/dc/131.1-4" class="scriptureRef">D&amp;C 131:1–4</a>).</p>
-      <p class="para" uri="/general-conference/1995/04/the-temple-is-a-family-affair.p18" pid="yjTf6l7ZOUKOU_f3UOjfwg" hash="_CqItw">Thus we see that in marriage, a husband and wife enter into an order of the priesthood called the new and everlasting covenant of marriage. This covenant includes a willingness to have children and to teach them the gospel. Many problems of the world today are brought about when parents do not accept the responsibilities of this covenant. It is contradictory to this covenant to prevent the birth of children if the parents are in good health.</p>
-      <p class="para" uri="/general-conference/1995/04/the-temple-is-a-family-affair.p19" pid="ZD9fV0X-hkGkrarrxArPLA" hash="yW_-7g">Thirty-five years ago when I first started practicing medicine, it was a rare thing for a married woman to seek advice about how she could keep from having babies. When I finished practicing medicine, it was a rare thing, except for some faithful Latter-day Saint women, for a married woman to want to have more than one or two children, and some did not want <span class="emphasis">any</span> children. We in the Church must not be caught up in the false doctrines of the world that would cause us to break sacred temple covenants.</p>
-      <p class="para" uri="/general-conference/1995/04/the-temple-is-a-family-affair.p20" pid="jM4BR8KkmE2861IQYhf6pA" hash="hpXZkg">We go to the temple to make covenants, but we go home to keep the covenants that we have made. The home is the testing ground. The home is the place where we learn to be more Christlike. The home is the place where we learn to overcome selfishness and give ourselves in service to others.</p>
-      <p class="para" uri="/general-conference/1995/04/the-temple-is-a-family-affair.p21" pid="knHXKknYn0m-88q2MyR7Rw" hash="kQB-SA">I hope you will not think it simplistic to suggest that it is the “little things” like family prayer and family home evening that are important. Little things like a father helping his children say their nightly prayers and telling them a bedtime story instead of watching TV. Little things like making time in the family schedule for reading the scriptures. Little things like a husband being big enough to say, “Sweetheart, I’m sorry. I should not have said that. I’m going to do better.” Or a mother saying to a child, “I’m sorry I became angry. Please forgive me.” Yes, it is the little things that we do each day and each week that make the difference.</p>
-      <p class="para" uri="/general-conference/1995/04/the-temple-is-a-family-affair.p22" pid="rWDJXiilEkOOUWWVB0LcrA" hash="lJ_GGQ">By keeping the temple covenants, all of God’s children may be exalted. I say again that <span class="emphasis">we go to the temple to make the covenants, but we go home to keep those covenants.</span></p>
-      <p class="para" uri="/general-conference/1995/04/the-temple-is-a-family-affair.p23" pid="7etPcgT_TEiQovUxw1u_Mg" hash="kYQhVQ">The story is told of Elder Boyd K. Packer: After traveling all over the world and seeing many exotic places, he was asked that if he could go anywhere in the world he wanted, where would he go. He replied, “I would go home.” I feel the same way. If I were asked that same question, I would say, “I would go home and sit in a big rocking chair and take a couple of grandbabies in my arms and hope that a little of the heavenly dust they still have on them would rub off on me.” I’m grateful for homes where we can go to learn how to love, how to share, how to be Christlike.</p>
-      <p class="para" uri="/general-conference/1995/04/the-temple-is-a-family-affair.p24" pid="wMkpbqToakeMKjpsinRGWg" hash="-3RF3g">I am grateful for temples where we can go to be sealed together as families for eternity. I am grateful for temples, where we can go to pray and to worship, where we can call down the blessings of heaven upon our families. I am grateful for temples where we can go as families to strengthen the eternal bonds that will make us forever families, where we can go to do the great redemptive work for our forefathers who cannot do it for themselves … even as Jesus did for us what we cannot do for ourselves. I am grateful that God in his eternal wisdom has made these blessings available to all his children. Some, however, have to wait until the hereafter to enjoy these blessings. But all who live worthily will have every blessing. I testify that Jesus loved to go to the temple. Part of becoming more Christlike is to learn to love to go to the temple. I pray that we may become eternal families that we may have eternal life. In the name of Jesus Christ, amen.</p>
-    </div>
-  </div>
-  
-</div>]]></content:encoded>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/1995/04/the-temple-is-a-family-affair?lang=eng</link>
+      <description><![CDATA[<header>
+<span class="page-break" data-page="11"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/a2738e441f5c1786b437535cb314dc0c4f67012d/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/a2738e441f5c1786b437535cb314dc0c4f67012d/full/%21192%2C/0/default" data-video-title="The Temple Is a Family Affair" data-video-description="J Ballard Washburn delivers a message titled &quot;The Temple Is a Family Affair.&quot;" data-video-id="6389450701112" data-ip="Download &amp; Streaming" data-duration="558724" data-assetId="d333910ea3984cb107bf27f72a5edf7e8b06e5ab" data-ref-id="d333910ea3984cb107bf27f72a5edf7e8b06e5ab" data-duration-string="9:18" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6389450701112.m3u8" type="application/vnd.apple.mpegurl" data-width="480" data-height="360" data-file-size="30859144"/><source src="https://assets.churchofjesuschrist.org/d333910ea3984cb107bf27f72a5edf7e8b06e5ab-360p-en.mp4" type="video/mp4" data-width="480" data-height="360" data-file-size="30859144"/></video><h1 data-aid="28797011" id="title1">The Temple Is a Family Affair</h1>
+<div class="byline">
+<p class="author-name" data-aid="28797012" id="p1">By Elder J Ballard Washburn</p>
+<p class="author-role" data-aid="150151298" id="author2">Of the Seventy</p>
+<div class="image-cropper"><img alt="Elder J Ballard Washburn" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/49htsmfncta771anetufrfhvxolh5rxnoxb72f6c/full/%21100%2C/0/default" data-assetId="49htsmfncta771anetufrfhvxolh5rxnoxb72f6c" srcset="https://www.churchofjesuschrist.org/imgs/49htsmfncta771anetufrfhvxolh5rxnoxb72f6c/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/49htsmfncta771anetufrfhvxolh5rxnoxb72f6c/full/%21100%2C/0/default 100w" data-img-id="49htsmfncta771anetufrfhvxolh5rxnoxb72f6c" data-missing-asset="false" data-width="100" data-height="143" data-aspect-ratio="0.6993006993006993" data-public-title="J Ballard Washburn" data-public-description="J Ballard Washburn"/></div>
+</div>
+</header>
+<div class="body-block">
+<p data-aid="28797013" id="p2">Dear brothers and sisters, it’s my honor and privilege to join with you in expressing our love and support for President Hinckley, President Monson, President Faust, President Packer, and the Twelve. I am happy to say that I love you. I am grateful to be one with you in the work of the kingdom.</p>
+<p data-aid="28797014" id="p3">Recently, after a stake conference, I was talking with a family with teenage children. I said to them, “You must live righteously so that someday you can go to the temple with your parents.” A sixteen-year-old daughter responded, “Oh, we go to the temple with our parents almost every week. We go and do baptisms for our family file names.” I thought, <em>What a wonderful thing, for families to go to the temple together.</em></p>
+<p data-aid="28797015" id="p4">When Jesus was twelve years old, his parents took him to the temple. I think it is more than coincidental that our sons and daughters can go to the temple with us when they are twelve years old. Joseph and Mary did not say, “Bishop, will you take our son to the temple?” They took him.</p>
+<p data-aid="28797016" id="p5">Our efforts as parents, wards, and stakes should be to help our youth live worthily to go to the temple <em>now.</em> The goal is the same for young women as for young men: <em>be temple worthy now.</em> When the bishop interviews the youth each year, it will include a worthiness interview.</p>
+<p data-aid="28797017" id="p6">What a wonderful goal for priesthood leaders and young women leaders to help parents inspire every young woman and every young man to go to the temple every year. What a great blessing for parents to be in the temple with their children, age twelve and over, at least once a year where circumstances allow.</p>
+<p data-aid="28797018" id="p7">One thing that will help us more than anything else to want to be in the temple is to have the Holy Ghost with us.</p>
+<p data-aid="28797019" id="p8">Two important things are necessary to have the Holy Ghost: first, we must live worthy of it; and second, we must ask for it.</p>
+<p data-aid="28797020" id="p9">“Ask the Father in my name, in faith believing that you shall receive, and you shall have the Holy Ghost, which manifesteth all things which are expedient unto the children of men.”<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a></p>
+<p data-aid="28797021" id="p10">If we will ask in faith, we will receive the Holy Ghost, and it will lead us to the temple.</p>
+<p data-aid="28797022" id="p11">Let me give a word of caution here. We cannot go to His holy house unworthily without bringing <span class="page-break" data-page="12"></span>upon ourselves the judgments of God. For God will not be mocked.</p>
+<p data-aid="28797023" id="p12">When couples who have not fully repented of past sins go to the temple to be married, they are starting their marriages on very shaky ground. I believe this is one of the main causes of divorce in temple marriages. If a man who is <em>dishonest</em> in his personal life, as it pertains to his wife and children or his business dealings, goes to the temple, he is heaping damnation upon his own soul and is in great need of repentance.</p>
+<p data-aid="28797024" id="p13">President Hunter said, “It is the deepest desire of my heart to have every member of the Church <em>worthy</em> to enter the temple.”<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a> If our young men or young women on their way to the mission field go to the temple unworthily, it is a great mistake. We must prepare them for the temple <em>first,</em> and then they will be prepared for missions. President Hunter said, “Let us prepare every missionary to go to the temple <em>worthily</em> and to make that experience an even greater highlight than receiving the mission call.”<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a></p>
+<p data-aid="28797025" id="p14">The greatest blessings of eternity come to us through the temple. God’s greatest gift, eternal life, can only come to a man and woman together. And every worthy person will someday have this blessing. In <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/131?lang=eng">Doctrine and Covenants 131</a> we read:</p>
+<p data-aid="28797026" id="p15">“In the celestial glory there are three heavens or degrees;</p>
+<p data-aid="28797027" id="p16">“And in order to obtain the highest, a man must enter into this order of the priesthood [meaning the new and everlasting covenant of marriage];</p>
+<p data-aid="28797028" id="p17">“And if he does not, he cannot obtain it.</p>
+<p data-aid="28797029" id="p18">“He may enter into the other, but that is the end of his kingdom; he cannot have an increase” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/131?lang=eng&amp;id=p1-p4#p1">D&amp;C 131:1–4</a>).</p>
+<p data-aid="28797030" id="p19">Thus we see that in marriage, a husband and wife enter into an order of the priesthood called the new and everlasting covenant of marriage. This covenant includes a willingness to have children and to teach them the gospel. Many problems of the world today are brought about when parents do not accept the responsibilities of this covenant. It is contradictory to this covenant to prevent the birth of children if the parents are in good health.</p>
+<p data-aid="28797031" id="p20">Thirty-five years ago when I first started practicing medicine, it was a rare thing for a married woman to seek advice about how she could keep from having babies. When I finished practicing medicine, it was a rare thing, except for some faithful Latter-day Saint women, for a married woman to want to have more than one or two children, and some did not want <em>any</em> children. We in the Church must not be caught up in the false doctrines of the world that would cause us to break sacred temple covenants.</p>
+<p data-aid="28797032" id="p21">We go to the temple to make covenants, but we go home to keep the covenants that we have made. The home is the testing ground. The home is the place where we learn to be more Christlike. The home is the place where we learn to overcome selfishness and give ourselves in service to others.</p>
+<p data-aid="28797033" id="p22">I hope you will not think it simplistic to suggest that it is the “little things” like family prayer and family home evening that are important. Little things like a father helping his children say their nightly prayers and telling them a bedtime story instead of watching TV. Little things like making time in the family schedule for reading the scriptures. Little things like a husband being big enough to say, “Sweetheart, I’m sorry. I should not have said that. I’m going to do better.” Or a mother saying to a child, “I’m sorry I became angry. Please forgive me.” Yes, it is the little things that we do each day and each week that make the difference.</p>
+<p data-aid="28797034" id="p23">By keeping the temple covenants, all of God’s children may be exalted. I say again that <em>we go to the temple to make the covenants, but we go home to keep those covenants.</em></p>
+<p data-aid="28797035" id="p24">The story is told of Elder Boyd K. Packer: After traveling all over the world and seeing many exotic places, he was asked where he would go if he could go anywhere in the world he wanted. He replied, “I would go home.” I feel the same way. If I were asked that same question, I would say, “I would go home and sit in a big rocking chair and take a couple of grandbabies in my arms and hope that a little of the heavenly dust they still have on them would rub off on me.” I’m grateful for homes where we can go to learn how to love, how to share, how to be Christlike.</p>
+<p data-aid="28797036" id="p25">I am grateful for temples where we can go to be sealed together as families for eternity. I am grateful for temples, where we can go to pray and to worship, where we can call down the blessings of heaven upon our families. I am grateful for temples where we can go as families to strengthen the eternal bonds that will make us forever families, where we can go to do the great redemptive work for our forefathers, who cannot do it for themselves, even as Jesus did for us what we cannot do for ourselves. I am grateful that God in his eternal wisdom has made these blessings available to all his children. Some, however, have to wait until the hereafter to enjoy these blessings. But all who live worthily will have every blessing. I testify that Jesus loved to go to the temple. Part of becoming more Christlike is to learn to love to go to the temple. I pray that we may become eternal families, that we may have eternal life. In the name of Jesus Christ, amen.</p>
+</div>
+<footer class="notes">
+<p class="title" data-aid="150151299" id="notetitle1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="28797037" id="note1_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/18?lang=eng&amp;id=p18#p18">D&amp;C 18:18</a>.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="28797038" id="note2_p1">In Conference Report, Oct. 1994, <a class="cross-ref" href="/study/general-conference/1994/10/exceeding-great-and-precious-promises?lang=eng&amp;id=p26#p26">p. 8</a>; or <em>Ensign,</em> Nov. 1994, p. 8; emphasis added.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="28797039" id="note3_p1">In Conference Report, Oct. 1994, <a class="cross-ref" href="/study/general-conference/1994/10/follow-the-son-of-god?lang=eng&amp;id=p10#p10">p. 118</a>; or <em>Ensign,</em> Nov. 1994, p. 88; emphasis added.</p>
+</li>
+</ol>
+</footer>]]></description>
       <guid isPermaLink="false">/general-conference/1995/04/the-temple-is-a-family-affair</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/april-1995-general-conference/1995-04-1040-elder-j-ballard-washburn-64k-eng.mp3" length="4488158" type="audio/mpeg"/>
+      <enclosure url="https://assets.churchofjesuschrist.org/ADC038F654C27F8BC8A7C54C269EA72B1E91EAB3-64k-en.mp3" length="4659955" type="audio/mpeg"/>
       <pubDate>Sat, 01 Apr 1995 10:00:00 -0700</pubDate>
+      <itunes:author>J Ballard Washburn</itunes:author>
     </item>
   </channel>
 </rss>

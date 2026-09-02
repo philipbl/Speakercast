@@ -1,60 +1,65 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Talks By Keith W. Wilcox</title>
-    <link>http://philip.lundrigan.org/Speakercast/</link>
+    <link>https://philip.lundrigan.org/Speakercast/</link>
     <description>General Conference talks by Keith W. Wilcox.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Speakercast</generator>
     <image>
-      <url>http://philip.lundrigan.org/Speakercast/covers/Keith%20W.%20Wilcox.jpg</url>
+      <url>https://philip.lundrigan.org/Speakercast/covers/Keith%20W.%20Wilcox.jpg</url>
       <title>General Conference talks by Keith W. Wilcox.</title>
-      <link>http://philip.lundrigan.org/Speakercast/</link>
+      <link>https://philip.lundrigan.org/Speakercast/</link>
     </image>
     <language>en</language>
     <lastBuildDate>Sat, 06 Apr 1985 14:00:00 -0700</lastBuildDate>
     <pubDate>Sat, 06 Apr 1985 14:00:00 -0700</pubDate>
+    <itunes:author>Keith W. Wilcox</itunes:author>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
+    <itunes:image href="https://philip.lundrigan.org/Speakercast/covers/Keith%20W.%20Wilcox.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>General Conference talks by Keith W. Wilcox.</itunes:summary>
     <item>
       <title>Look for the Beautiful</title>
-      <link>http://www.lds.org/general-conference/1985/04/look-for-the-beautiful?lang=eng</link>
-      <description>Not long ago, President Gordon B. Hinckley, in a commencement address at BYU—Hawaii, admonished graduates to “stop seeking out the storms and enjoy more fully the sunlight.” ( 3 July 1983, p. 10.) He pointed out that we can be negative and look for t</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/1985/04/look-for-the-beautiful" schema-version="1" doc-id="general-conference_03187_000_014" doc-version="2" hash="lj75AA">
-  
-  <div class="heading" uri="/general-conference/1985/04/look-for-the-beautiful.head">
-    <h1 class="title" pid="xariJCLm00-liYjgCCoDow" hash="wy2Yig">Look for the Beautiful</h1>
-    <p class="authorName" pid="8NUVc59JzUCT2rdaz4ydHg" hash="OlwdXw">Keith W. Wilcox</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/1985/04/look-for-the-beautiful.t1">
-      <img src="ensignlp.nfo-o-26fa.jpg" alt="Elder Keith W. Wilcox" pid="birrYpLutUevMa7_7Uwbyw" hash="83Sn6Q" />
-      <p class="para" uri="/general-conference/1985/04/look-for-the-beautiful.p1" pid="2xVODkCJMkGi7sB91NEt_A" hash="CUO5VA">Not long ago, President Gordon B. Hinckley, in a commencement address at BYU—Hawaii, admonished graduates to “stop seeking out the storms and enjoy more fully the sunlight.” (<span class="emphasis">Church News,</span> 3 July 1983, p. 10.) He pointed out that we can be negative and look for the ugly in life and the faults and failings of those around us, or we can develop positive attitudes and see the beautiful in life and the good, the strong, the decent, and the virtuous in people, which brings joy and happiness. It is a matter of attitude.</p>
-      <p class="para" uri="/general-conference/1985/04/look-for-the-beautiful.p2" pid="zQxtxVbemUSNti0filEP8A" hash="GyG75A">Shortly after beginning three years of service as a mission president, I was reminded of my personal attitude concerning the world and the people in it. One evening I looked up to see my thirteen-year-old daughter walking up to my desk. She stopped and looked intently at me, with her hands on her hips. She finally said, “Dad, I think I have you figured out.” Now she had my complete attention. Then she said, “You have devoted your life to the beautiful, haven’t you?”</p>
-      <p class="para" uri="/general-conference/1985/04/look-for-the-beautiful.p3" pid="T9Bo43fvYUKkWHbvZQGZsQ" hash="4O4UaQ">I thought for a few moments and then replied, “Yes, Carole, you do have me figured out. Thank you.”</p>
-      <p class="para" uri="/general-conference/1985/04/look-for-the-beautiful.p4" pid="MB-OCjktK0Gv6Xf_XADcBw" hash="w9cWiw">My lovely wife and our six beautiful daughters had long been aware of my interest in the beauty of buildings, as expressed in my practice as a professional architect, and also of my interest in the beauty of this world, as expressed in my landscape paintings. Carole had now correctly concluded that I had an even greater interest in the creation of beautiful people—the type of radiant beauty that comes from righteous living and acceptance of the gospel of Jesus Christ, as taught by our missionaries.</p>
-      <p class="para" uri="/general-conference/1985/04/look-for-the-beautiful.p5" pid="NYr4dcBGnUO2v7wde871Ig" hash="rV5CfA">In recent months in traveling to many parts of the world, I have observed this same beauty and spiritual glow in so many of those with whom I have associated.</p>
-      <p class="para" uri="/general-conference/1985/04/look-for-the-beautiful.p6" pid="b3CheAJctk683oQEmAd-RA" hash="ZIHfyw">During these travels I have also observed many types of buildings. More and more I see how buildings and people resemble each other. The most beautiful buildings I have seen are our sacred temples.</p>
-      <p class="para" uri="/general-conference/1985/04/look-for-the-beautiful.p7" pid="PBeUHyxQgESXBSHiCQ2kEg" hash="CdXhrg">The Lord has told us that we can be beautiful, even like a temple. In 1 Corinthians he said, “Know ye not that ye are the temple of God, and that the Spirit of God dwelleth in you?” (<a href="/scriptures/nt/1-cor/3.16" class="scriptureRef">1 Cor. 3:16</a>.)</p>
-      <p class="para" uri="/general-conference/1985/04/look-for-the-beautiful.p8" pid="asPN8sGuU0y32lh2LIAY3A" hash="trCDyw">In 2 Corinthians we read, “For ye are the temple of the living God.” (<a href="/scriptures/nt/2-cor/6.16" class="scriptureRef">2 Cor. 6:16</a>.)</p>
-      <p class="para" uri="/general-conference/1985/04/look-for-the-beautiful.p9" pid="F4CfrDpwF0ahceHzrrPU2Q" hash="uJs6ng">When the Lord Jesus Christ finalized his immortal Sermon on the Mount, he used a comparison of buildings and people to emphasize the importance of foundations common to both:</p>
-      <p class="para" uri="/general-conference/1985/04/look-for-the-beautiful.p10" pid="TrLcxtMNAEqUw0imzQvfzQ" hash="mpAa5g">“Therefore whosoever heareth these sayings of mine, and doeth them, I will liken him unto a wise man, which built his house upon a rock:</p>
-      <p class="para" uri="/general-conference/1985/04/look-for-the-beautiful.p11" pid="6Pxk0FFWcUey2OKYRQyaww" hash="boT1ww">“And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell not: for it was founded upon a rock.</p>
-      <p class="para" uri="/general-conference/1985/04/look-for-the-beautiful.p12" pid="dcanc9e5o06MJhFul3a1Lw" hash="LNi1dg">“And every one that heareth these sayings of mine, and doeth them not, shall be likened unto a foolish man, which built his house upon the sand:</p>
-      <p class="para" uri="/general-conference/1985/04/look-for-the-beautiful.p13" pid="bFxOCoD5H0agmOvDlvBeDw" hash="AopcyQ">“And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell: and great was the fall of it.” (<a href="/scriptures/nt/matt/7.24-27" class="scriptureRef">Matt. 7:24–27</a>.)</p>
-      <p class="para" uri="/general-conference/1985/04/look-for-the-beautiful.p14" pid="jNrJWmZDdEeAB29JZJF_nQ" hash="EDQopw">A solid foundation is the most important part of a building or of a person. President Benson has emphasized that in the Sermon on the Mount “we are told to be a light to others, to control our anger, to reconcile bad feelings with others … , [and] to love our enemy. … We are further instructed how to pray, how to fast, and how to regulate our priorities.” (<span class="emphasis">Come unto Christ</span> [Salt Lake City: Deseret Book Co., 1983], p. 37.)</p>
-      <p class="para" uri="/general-conference/1985/04/look-for-the-beautiful.p15" pid="6KY1uZhUNEWza7x2vp9hfA" hash="9BgmCA">As we live the principles of the Sermon on the Mount, we build a rock-solid foundation upon which our lives can safely be constructed.</p>
-      <p class="para" uri="/general-conference/1985/04/look-for-the-beautiful.p16" pid="PphYq-v5bU2iBI6IxvGG5g" hash="Umjoww">The Lord, the great Master Architect, has given us perfect plans and specifications to guide us in the building of our lives. These are the sacred scriptures. They contain the words of the Lord and should be frequently read and pondered.</p>
-      <p class="para" uri="/general-conference/1985/04/look-for-the-beautiful.p17" pid="ml5fuqekGkKsBjp_XDC08A" hash="uvQ2CQ">By seeking the Lord through prayer and through his holy scriptures, we learn to look for the beautiful and to develop positive attitudes. We achieve guidance in the building of our foundations and our lives.</p>
-      <p class="para" uri="/general-conference/1985/04/look-for-the-beautiful.p18" pid="_qM2aczdxESPInlgiBQvcw" hash="OY2M5A">As we live righteous and unselfish lives, the Spirit of the Lord enters our souls and then radiates from us. We become beautiful, even as a holy temple is beautiful. And as missionaries we can help others to become beautiful. “How beautiful upon the mountains are the feet of him that bringeth good tidings.” (<a href="/scriptures/ot/isa/52.7" class="scriptureRef">Isa. 52:7</a>, <a href="/scriptures/bofm/mosiah/12.21" class="scriptureRef">Mosiah 12:21</a>, <a href="/scriptures/bofm/3-ne/20.40" class="scriptureRef">3 Ne. 20:40</a>.)</p>
-      <p class="para" uri="/general-conference/1985/04/look-for-the-beautiful.p19" pid="trpYtK2LPUS0z_SIB0V0OA" hash="kq4dww">I leave you my testimony that I know this is the restored Church of Jesus Christ, with a message for all mankind. Jesus is the Christ. We are led by a prophet of the Lord, President Spencer W. Kimball. Our church provides the way for each of us to construct that which is truly beautiful—a Christlike life, which brings joy and happiness now and into the eternities. In the name of Jesus Christ, amen.</p>
-    </div>
-  </div>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/1985/04/look-for-the-beautiful?lang=eng</link>
+      <description>Not long ago, President Gordon B. Hinckley, in a commencement address at BYU—Hawaii, admonished graduates to “stop seeking out the storms and enjoy more fully the sunlight.” ( 3 July 1983, p. 10.) He pointed out that we can be negative and look for the ugly in life and the faults and failings of those around us, or we can develop positive attitudes and see the beautiful in life and the good, the strong, the decent, and the virtuous in people, which brings joy and happiness. It is a matter of attitude.</description>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="27"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/5480ebce945337e38432f858c35dd8d362cabd1a/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/5480ebce945337e38432f858c35dd8d362cabd1a/full/%21192%2C/0/default" data-video-title="Look for the Beautiful" data-video-description="Elder Keith W. Wilcox delivers a message titled &quot;Look for the Beautiful.&quot;" data-video-id="6389396975112" data-ip="Download &amp; Streaming" data-duration="357757" data-assetId="a140901caa8fc98814e10e2fe1430c3ac8fba857" data-ref-id="a140901caa8fc98814e10e2fe1430c3ac8fba857" data-duration-string="5:57" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6389396975112.m3u8" type="application/vnd.apple.mpegurl" data-width="480" data-height="360" data-file-size="19137755"/><source src="https://assets.churchofjesuschrist.org/a140901caa8fc98814e10e2fe1430c3ac8fba857-360p-en.mp4" type="video/mp4" data-width="480" data-height="360" data-file-size="19137755"/></video><h1 data-aid="28766650" id="title1">Look for the Beautiful</h1>
+<div class="byline">
+<p class="author-name" data-aid="28766651" id="p1">By Elder Keith W. Wilcox</p>
+<p class="author-role" data-aid="150026014" id="p21">Of the First Quorum of the Seventy</p>
+<div class="image-cropper"><img alt="Elder Keith W. Wilcox" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/nybxwk3fm0486zvqezvs0rekuqj1phc589b8ke0y/full/%21100%2C/0/default" data-assetId="nybxwk3fm0486zvqezvs0rekuqj1phc589b8ke0y" srcset="https://www.churchofjesuschrist.org/imgs/nybxwk3fm0486zvqezvs0rekuqj1phc589b8ke0y/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/nybxwk3fm0486zvqezvs0rekuqj1phc589b8ke0y/full/%21100%2C/0/default 100w" data-img-id="nybxwk3fm0486zvqezvs0rekuqj1phc589b8ke0y" data-missing-asset="false" data-width="100" data-height="117" data-aspect-ratio="0.8547008547008547" data-public-title="Keith W. Wilcox" data-public-description="Keith W. Wilcox"/></div>
+</div>
+</header>
+<div class="body-block">
+<p data-aid="28766652" id="p2">Not long ago, President Gordon B. Hinckley, in a commencement address at BYU—Hawaii, admonished graduates to “stop seeking out the storms and enjoy more fully the sunlight.” (<em>Church News,</em> 3 July 1983, p. 10.) He pointed out that we can be negative and look for the ugly in life and the faults and failings of those around us, or we can develop positive attitudes and see the beautiful in life and the good, the strong, the decent, and the virtuous in people, which brings joy and happiness. It is a matter of attitude.</p>
+<p data-aid="28766653" id="p3">Shortly after beginning three years of service as a mission president, I was reminded of my personal attitude concerning the world and the people in it. One evening I looked up to see my thirteen-year-old daughter walking up to my desk. She stopped and looked intently at me, with her hands on her hips. She finally said, “Dad, I think I have you figured out.” Now she had my complete attention. Then she said, “You have devoted your life to the beautiful, haven’t you?”</p>
+<p data-aid="28766654" id="p4">I thought for a few moments and then replied, “Yes, Carole, you do have me figured out. Thank you.”</p>
+<p data-aid="28766655" id="p5">My lovely wife and our six beautiful daughters had long been aware of my interest in the beauty of buildings, as expressed in my practice as a professional architect, and also of my interest in the beauty of this world, as expressed in my landscape paintings. Carole had now correctly concluded that I had an even greater interest in the creation of beautiful people—the type of radiant beauty that comes from righteous living and acceptance of the gospel of Jesus Christ, as taught by our missionaries.</p>
+<p data-aid="28766656" id="p6">In recent months in traveling to many parts of the world, I have observed this same beauty and spiritual glow in so many of those with whom I have associated.</p>
+<p data-aid="28766657" id="p7">During these travels I have also observed many types of buildings. More and more I see how buildings and people resemble each other. The most beautiful buildings I have seen are our sacred temples.</p>
+<p data-aid="28766658" id="p8">The Lord has told us that we can be beautiful, even like a temple. In 1 Corinthians he said, “Know ye not that ye are the temple of God, and that the Spirit of God dwelleth in you?” (<a class="scripture-ref" href="/study/scriptures/nt/1-cor/3?lang=eng&amp;id=p16#p16">1 Cor. 3:16</a>.)</p>
+<p data-aid="28766659" id="p9">In 2 Corinthians we read, “For ye are the temple of the living God.” (<a class="scripture-ref" href="/study/scriptures/nt/2-cor/6?lang=eng&amp;id=p16#p16">2 Cor. 6:16</a>.)</p>
+<p data-aid="28766660" id="p10">When the Lord Jesus Christ finalized his immortal Sermon on the Mount, he used a comparison of buildings and people to emphasize the importance of foundations common to both:</p>
+<p data-aid="28766661" id="p11">“Therefore whosoever heareth these sayings of mine, and doeth them, I will liken him unto a wise man, which built his house upon a rock:</p>
+<p data-aid="28766662" id="p12">“And the rain descended, and the floods came, and the winds blew, and <span class="page-break" data-page="28"></span>beat upon that house; and it fell not: for it was founded upon a rock.</p>
+<p data-aid="28766663" id="p13">“And every one that heareth these sayings of mine, and doeth them not, shall be likened unto a foolish man, which built his house upon the sand:</p>
+<p data-aid="28766664" id="p14">“And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell: and great was the fall of it.” (<a class="scripture-ref" href="/study/scriptures/nt/matt/7?lang=eng&amp;id=p24-p27#p24">Matt. 7:24–27</a>.)</p>
+<p data-aid="28766665" id="p15">A solid foundation is the most important part of a building or of a person. President Benson has emphasized that in the Sermon on the Mount “we are told to be a light to others, to control our anger, to reconcile bad feelings with others … , [and] to love our enemy. … We are further instructed how to pray, how to fast, and how to regulate our priorities.” (<em>Come unto Christ</em> [Salt Lake City: Deseret Book Co., 1983], p. 37.)</p>
+<p data-aid="28766666" id="p16">As we live the principles of the Sermon on the Mount, we build a rock-solid foundation upon which our lives can safely be constructed.</p>
+<p data-aid="28766667" id="p17">The Lord, the great Master Architect, has given us perfect plans and specifications to guide us in the building of our lives. These are the sacred scriptures. They contain the words of the Lord and should be frequently read and pondered.</p>
+<p data-aid="28766668" id="p18">By seeking the Lord through prayer and through his holy scriptures, we learn to look for the beautiful and to develop positive attitudes. We achieve guidance in the building of our foundations and our lives.</p>
+<p data-aid="28766669" id="p19">As we live righteous and unselfish lives, the Spirit of the Lord enters our souls and then radiates from us. We become beautiful, even as a holy temple is beautiful. And as missionaries we can help others to become beautiful. “How beautiful upon the mountains are the feet of him that bringeth good tidings.” (<a class="scripture-ref" href="/study/scriptures/ot/isa/52?lang=eng&amp;id=p7#p7">Isa. 52:7</a>, <a class="scripture-ref" href="/study/scriptures/bofm/mosiah/12?lang=eng&amp;id=p21#p21">Mosiah 12:21</a>, <a class="scripture-ref" href="/study/scriptures/bofm/3-ne/20?lang=eng&amp;id=p40#p40">3 Ne. 20:40</a>.)</p>
+<p data-aid="28766670" id="p20">I leave you my testimony that I know this is the restored Church of Jesus Christ, with a message for all mankind. Jesus is the Christ. We are led by a prophet of the Lord, President Spencer W. Kimball. Our church provides the way for each of us to construct that which is truly beautiful—a Christlike life, which brings joy and happiness now and into the eternities. In the name of Jesus Christ, amen.</p>
 </div>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/1985/04/look-for-the-beautiful</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/april-1985-general-conference/1985-04-2060-elder-keith-w-wilcox-64k-eng.mp3" length="2881279" type="audio/mpeg"/>
+      <enclosure url="https://assets.churchofjesuschrist.org/5b06a69832de11ecb890eeeeac1e0eb40ef32bc7-32k-en.mp3" length="1664999" type="audio/mpeg"/>
       <pubDate>Sat, 06 Apr 1985 14:00:00 -0700</pubDate>
+      <itunes:author>Keith W. Wilcox</itunes:author>
     </item>
   </channel>
 </rss>

@@ -1,270 +1,282 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Talks By L. Lionel Kendrick</title>
-    <link>http://philip.lundrigan.org/Speakercast/</link>
+    <link>https://philip.lundrigan.org/Speakercast/</link>
     <description>General Conference talks by L. Lionel Kendrick.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Speakercast</generator>
     <image>
-      <url>http://philip.lundrigan.org/Speakercast/covers/L.%20Lionel%20Kendrick.jpg</url>
+      <url>https://philip.lundrigan.org/Speakercast/covers/L.%20Lionel%20Kendrick.jpg</url>
       <title>General Conference talks by L. Lionel Kendrick.</title>
-      <link>http://philip.lundrigan.org/Speakercast/</link>
+      <link>https://philip.lundrigan.org/Speakercast/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Oct 1988 14:00:00 -0700</lastBuildDate>
-    <pubDate>Sat, 01 Oct 1988 14:00:00 -0700</pubDate>
+    <lastBuildDate>Sun, 01 Apr 2001 14:00:00 -0600</lastBuildDate>
+    <pubDate>Sun, 01 Apr 2001 14:00:00 -0600</pubDate>
+    <itunes:author>L. Lionel Kendrick</itunes:author>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
+    <itunes:image href="https://philip.lundrigan.org/Speakercast/covers/L.%20Lionel%20Kendrick.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>General Conference talks by L. Lionel Kendrick.</itunes:summary>
     <item>
       <title>Christlike Communications</title>
-      <link>http://www.lds.org/general-conference/1988/10/christlike-communications?lang=eng</link>
-      <description>Heavenly Father has given us a priceless gift in our capacity to communicate with each other. Our communications are at the core of our relationships with others. If we are to return home safely to Heavenly Father, we must develop righteous relations</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/1988/10/christlike-communications" schema-version="1" doc-id="general-conference_03232_000_011" doc-version="2" hash="B94hwg">
-  
-  <div class="heading" uri="/general-conference/1988/10/christlike-communications.head">
-    <h1 class="title" pid="yayekgdqokK_XnmL9PdkKg" hash="_iXKuw">Christlike Communications</h1>
-    <p class="authorName" pid="f9-goRS1JEaZ6PatJNp-wA" hash="ZqNzIA">L. Lionel Kendrick</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/1988/10/christlike-communications.t1">
-      <img src="ensignlp.nfo-o-2304.jpg" alt="Elder L. Lionel Kendrick" pid="dO6qh9Bm2kqsjZSlj_PRrg" hash="Mec1vA" />
-      <p class="para" uri="/general-conference/1988/10/christlike-communications.p1" pid="loxkOJmtLkyv21yYn0F2WQ" hash="cKJ5ug">Heavenly Father has given us a priceless gift in our capacity to communicate with each other. Our communications are at the core of our relationships with others. If we are to return home safely to Heavenly Father, we must develop righteous relationships with His children here in mortality.</p>
-      <p class="para" uri="/general-conference/1988/10/christlike-communications.p2" pid="q0eiu4uYEU6GQOaI8w8s-Q" hash="F6IxIg">Our communications reflect in our countenance. Therefore, we must be careful not only <span class="emphasis">what</span> we communicate, but also <span class="emphasis">how</span> we do so. Souls can be strengthened or shattered by the message and the manner in which we communicate.</p>
-      <div class="topic" uri="/general-conference/1988/10/christlike-communications.t2">
-        <h3 class="title" pid="8Uj1LF5C506Rg20II7AoeA" hash="Yr76og">Accountability</h3>
-        <p class="para" uri="/general-conference/1988/10/christlike-communications.p3" pid="iFYa7n8c-0Gc2JAIYMrEXQ" hash="2sJ_Hg">We will be held accountable for all that we say. The Savior has warned “that every idle word that men shall speak, they shall give account thereof in the day of judgment.” (<a href="/scriptures/nt/matt/12.36" class="scriptureRef">Matt. 12:36</a>.) This means that no communication shall be without consequence. This includes the slight slips of the tongue, the caustic communications that canker the soul, and the vain, vulgar, and profane words which desecrate the name of Deity.</p>
-      </div>
-      <div class="topic" uri="/general-conference/1988/10/christlike-communications.t3">
-        <h3 class="title" pid="5pnRvZyLq0uWu3o1E3p5ZQ" hash="6G4kbA">Un-Christlike Communication</h3>
-        <p class="para" uri="/general-conference/1988/10/christlike-communications.p4" pid="BlYNft9mkUWYv1oSn7Ylkw" hash="cWjjjw">There are certain kinds of un-Christlike communications which destroy relationships and are not for our development but are for our destruction. They result in a diminished opportunity of returning home safely to Heavenly Father. One of the major ways that Satan uses to retard the development of righteous relationships is in the use of gossip, rumor, and slander on his communication network. Perhaps the more common un-Christlike communications are those of lying, blaming, criticizing, and anger.</p>
-        <div class="figure" uri="/general-conference/1988/10/christlike-communications.f2">
-	  <ol class="number">
-	    <li pid="fKk5VVnl-0upfKMN9QaTsw" hash="11o1pA">
-            <span class="label">1.</span>
-            <p pid="EgSp97BZJUm0uqSAU233ZQ" hash="bK8Glg">Lying. The first of these communications is that of lying. To lie is to be untruthful, deceptive, deceitful, and dishonest. This is a basic communications problem which is not new; it goes back to the Garden of Eden.</p>
-          </li>
-	  </ol>
-	</div>
-        <p class="para" uri="/general-conference/1988/10/christlike-communications.p5" pid="Kzr8eNzeCUiEFqnoGUMBgA" hash="5VTt9w">Satan introduced the first recorded communications problem in the form of lying in his conversation with Eve. He asked recorded history’s first question: “Yea, hath God said, Ye shall not eat of every tree of the garden?” (<a href="/scriptures/ot/gen/3.1" class="scriptureRef">Gen. 3:1</a>.)</p>
-        <p class="para" uri="/general-conference/1988/10/christlike-communications.p6" pid="KQB5nZ-XoUyAI4sv5WWDVQ" hash="Avr0Zg">Eve responded, “We may eat of the fruit of the trees of the garden:</p>
-        <p class="para" uri="/general-conference/1988/10/christlike-communications.p7" pid="XJNQZO6jzE2pltJA8VKfkA" hash="kU2mxw">“But of the fruit of the tree which is in the midst of the garden, God hath said, Ye shall not eat of it, … lest ye die.” (<a href="/scriptures/ot/gen/3.2-3" class="scriptureRef">Gen. 3:2–3</a>.)</p>
-        <p class="para" uri="/general-conference/1988/10/christlike-communications.p8" pid="4uC9abr84EKdk4qNO30rBg" hash="pHzv6A">Satan, in a spirit of deception and defiance, responded, “Ye shall not surely die.” (<a href="/scriptures/ot/gen/3.4" class="scriptureRef">Gen. 3:4</a>.) He distorted the truth, denied the word of God, and planted the seeds of doubt about the word of Deity. Thus, Satan became the father of lies, deception, and doubt.</p>
-        <p class="para" uri="/general-conference/1988/10/christlike-communications.p9" pid="4AAG42zQ1kmAY58fvXfwvQ" hash="ma4zvA">It is a serious sin to lie. The scriptures teach us that “lying lips are abomination to the Lord” (<a href="/scriptures/ot/prov/12.22" class="scriptureRef">Prov. 12:22</a>) and that “he that lieth and will not repent shall be cast out” (<a href="/scriptures/dc-testament/dc/42.21" class="scriptureRef">D&amp;C 42:21</a>). They also teach us that to lie about a person is a form of hatred, for “a lying tongue hateth those that are afflicted by it.” (<a href="/scriptures/ot/prov/26.28" class="scriptureRef">Prov. 26:28</a>.) The Apostle Paul gave us counsel concerning this matter: “Wherefore putting away lying, speak every man truth with his neighbour.” (<a href="/scriptures/nt/eph/4.25" class="scriptureRef">Eph. 4:25</a>.)</p>
-        <p class="para" uri="/general-conference/1988/10/christlike-communications.p10" pid="OBKMbAxdHEi4NecTWoH_MQ" hash="OxjE-A">Integrity is the core of our character. Without integrity we have a weak foundation upon which to build other Christlike characteristics.</p>
-        <div class="figure" uri="/general-conference/1988/10/christlike-communications.f3">
-	  <ol class="number">
-	    <li pid="yi6RQ0NR20WLArjxPE-FKA" hash="lqQcSQ">
-            <span class="label">2.</span>
-            <p pid="iib9Qz-4pUySRzzTMEhP4Q" hash="surG3w">Blaming. A second un-Christlike communication is that of blaming. This is a condemning communication. It is interesting that when the Lord confronted Adam in his fallen state, Adam began to place the blame on Eve for his actions. He said, “The woman whom thou gavest to be with me, she gave me of the tree, and I did eat.” (Gen. 3:12.) When Eve was confronted, she placed the blame on Satan. She said, “The serpent beguiled me, and I did eat.” (Gen. 3:13.)</p>
-          </li>
-	  </ol>
-	</div>
-        <p class="para" uri="/general-conference/1988/10/christlike-communications.p11" pid="VCfR2q8TgE6oboE8sCMU6A" hash="byNhJg">It has been from the beginning and it will be till the end that the natural man will have a tendency to rationalize and to blame his behaviors on others or on certain circumstances. When we attempt to place responsibility for our choices on others, we are responding in a less than Christlike manner. Blaming is an unrighteous form of communication.</p>
-        <div class="figure" uri="/general-conference/1988/10/christlike-communications.f4">
-	  <ol class="number">
-	    <li pid="mLJq6s9ZQUmxftPpHPY8PA" hash="Dk4IwQ">
-            <span class="label">3.</span>
-            <p pid="PAaW48VtSE2XUY4USuYTtA" hash="uOsKxw">Criticizing. A third un-Christlike communication is that of criticizing. Positive criticism is feedback given with the purpose of helping another person to grow and to develop. This is both helpful and needful and is generally accepted and appreciated.</p>
-            <p pid="3rPVBzUsrUGhuzgqy88k3w" hash="oHU9Zw">Negative criticism is intended to hurt and often to defame and to destroy. This caustic communication is cruel, and it tends to crush the character of all of those about whom it is directed. King Benjamin urged his people to “not have a mind to injure one another, but to live peaceably.” (<a href="/scriptures/bofm/mosiah/4.13" class="scriptureRef">Mosiah 4:13</a>.) We should surely follow this counsel and defend those who are defamed by these denouncements.</p>
-          </li>
-	    <li pid="zLkzCNDxIE6cN9KQmimbxA" hash="a-RWeA">
-            <span class="label">4.</span>
-            <p pid="JyNk0wdU-0WfnX1bjclI7g" hash="e6Geww">Anger. A fourth is anger. This is perhaps the most common form of un-Christlike communication. Anger causes anguish to the souls of all of those who experience the feeling as well as to those who are the recipients of this emotional explosion.</p>
-            <p pid="Zkgtchb7gUG3dy1OWAhtVg" hash="dIHQag">Anger shows a lack of self-control and an inability to relate in a righteous way to others. It is a senseless substitute for self-control. It is sometimes used as a selfish strategy to gain control of a relationship. President Wilford Woodruff counseled that “the moment a man or a woman becomes angry they show a great weakness.” (In <span class="emphasis">Journal of Discourses,</span> 4:98.)</p>
-          </li>
-	  </ol>
-	</div>
-        <p class="para" uri="/general-conference/1988/10/christlike-communications.p12" pid="xPH7n8EYiEWnxFTkd6_ozQ" hash="JPYPYA">We are instructed to “let all bitterness, … and anger, … and evil speaking, be put away.” (<a href="/scriptures/nt/eph/4.31" class="scriptureRef">Eph. 4:31</a>.) The implication is clear: we have the capacity to control this carnal communication.</p>
-      </div>
-      <div class="topic" uri="/general-conference/1988/10/christlike-communications.t4">
-        <h3 class="title" pid="hFXm88W0e0W-nCOmTYzFPg" hash="_DcRZQ">Counsel</h3>
-        <p class="para" uri="/general-conference/1988/10/christlike-communications.p13" pid="NmAnejiC6EywHPk_OtVY4Q" hash="r3pg0Q">Much counsel has been given concerning our communications with others. The counsel given by the Apostle Paul to the Ephesian Saints seems to be most appropriate for the Latter-day Saints. He cautioned, “Let no corrupt communication proceed out of your mouth, but that which is good.” (<a href="/scriptures/nt/eph/4.29" class="scriptureRef">Eph. 4:29</a>.) He further counseled to be “kind one to another, tenderhearted, forgiving one another, even as God for Christ’s sake hath forgiven you.” (<a href="/scriptures/nt/eph/4.32" class="scriptureRef">Eph. 4:32</a>.)</p>
-      </div>
-      <div class="topic" uri="/general-conference/1988/10/christlike-communications.t5">
-        <h3 class="title" pid="FoJfvEJAMEOzoGv0x99lZQ" hash="_iXKuw1">Christlike Communications</h3>
-        <p class="para" uri="/general-conference/1988/10/christlike-communications.p14" pid="4WpcKVYxM0uysGD2XXZw3A" hash="acVciQ">May we be found communicating with each other in a manner in which the Savior would communicate. Christlike communications are expressed in tones of love rather than loudness. They are intended to be helpful rather than hurtful. They tend to bind us together rather than to drive us apart. They tend to build rather than to belittle.</p>
-        <p class="para" uri="/general-conference/1988/10/christlike-communications.p15" pid="BnySgW3ZDE6r9yW-Vg2S5A" hash="7c6rOA">Christlike communications are expressions of affection and not anger, truth and not fabrication, compassion and not contention, respect and not ridicule, counsel and not criticism, correction and not condemnation. They are spoken with clarity and not with confusion. They may be tender or they may be tough, but they must always be tempered.</p>
-        <p class="para" uri="/general-conference/1988/10/christlike-communications.p16" pid="pHrUWyJEVkq8_uLlcsUQmw" hash="XP3Ytg">The real challenge that we face in our communications with others is to condition our hearts to have Christlike feelings for all of Heavenly Father’s children. When we develop this concern for the condition of others, we then will communicate with them as the Savior would. We will then warm the hearts of those who may be suffering in silence. As we meet people with special needs along life’s way, we can then make their journey brighter by the things that we say.</p>
-        <p class="para" uri="/general-conference/1988/10/christlike-communications.p17" pid="LmgpzjJnfUGYOHBqKSWjow" hash="z6FkZg">Christlike communications will help us to develop righteous relationships and ultimately to return to our heavenly home safely. May we treasure the divine gift of communication, and may we use it wisely to build and to assist others on this marvelous journey through mortality. May Heavenly Father bless us to this end, in the name of Jesus Christ, amen.</p>
-      </div>
-    </div>
-  </div>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/1988/10/christlike-communications?lang=eng</link>
+      <description>Heavenly Father has given us a priceless gift in our capacity to communicate with each other. Our communications are at the core of our relationships with others. If we are to return home safely to Heavenly Father, we must develop righteous relationships with His children here in mortality.</description>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="23"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/dc3a1f13adbe52863b68a3869e9b15b6b5b03563/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/dc3a1f13adbe52863b68a3869e9b15b6b5b03563/full/%21192%2C/0/default" data-video-title="Christlike Communications" data-video-description="Elder L. Lionel Kendrick delivers a message titled &quot;Christlike Communications.&quot;" data-video-id="6389359598112" data-ip="Download &amp; Streaming" data-duration="543175" data-assetId="7f0ca48d3b9ce8c2458e9b1a79fb0e359353f6e0" data-ref-id="7f0ca48d3b9ce8c2458e9b1a79fb0e359353f6e0" data-duration-string="9:03" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6389359598112.m3u8" type="application/vnd.apple.mpegurl" data-width="480" data-height="360" data-file-size="27349703"/><source src="https://assets.churchofjesuschrist.org/7f0ca48d3b9ce8c2458e9b1a79fb0e359353f6e0-360p-en.mp4" type="video/mp4" data-width="480" data-height="360" data-file-size="27349703"/></video><h1 data-aid="28776460" id="title1">Christlike Communications</h1>
+<div class="byline">
+<p class="author-name" data-aid="28776461" id="p1">By Elder L. Lionel Kendrick</p>
+<p class="author-role" data-aid="150028780" id="p25">Of the First Quorum of the Seventy</p>
+<div class="image-cropper"><img alt="Elder L. Lionel Kendrick" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/3svzxjxk9nl9wwnze41u2cvk1vdizpyyq8qg6m7q/full/%21100%2C/0/default" data-assetId="3svzxjxk9nl9wwnze41u2cvk1vdizpyyq8qg6m7q" srcset="https://www.churchofjesuschrist.org/imgs/3svzxjxk9nl9wwnze41u2cvk1vdizpyyq8qg6m7q/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/3svzxjxk9nl9wwnze41u2cvk1vdizpyyq8qg6m7q/full/%21100%2C/0/default 100w" data-img-id="3svzxjxk9nl9wwnze41u2cvk1vdizpyyq8qg6m7q" data-missing-asset="false" data-width="100" data-height="139" data-aspect-ratio="0.7194244604316546" data-public-title="L. Lionel Kendrick" data-public-description="L. Lionel Kendrick"/></div>
+</div>
+</header>
+<div class="body-block">
+<p data-aid="28776462" id="p2">Heavenly Father has given us a priceless gift in our capacity to communicate with each other. Our communications are at the core of our relationships with others. If we are to return home safely to Heavenly Father, we must develop righteous relationships with His children here in mortality.</p>
+<p data-aid="28776463" id="p3">Our communications reflect in our countenance. Therefore, we must be careful not only <em>what</em> we communicate, but also <em>how</em> we do so. Souls can be strengthened or shattered by the message and the manner in which we communicate.</p>
+<section>
+<header>
+<h2 data-aid="28776464" id="title2">Accountability</h2>
+</header>
+<p data-aid="28776465" id="p4">We will be held accountable for all that we say. The Savior has warned “that every idle word that men shall speak, they shall give account thereof in the day of judgment.” (<a class="scripture-ref" href="/study/scriptures/nt/matt/12?lang=eng&amp;id=p36#p36">Matt. 12:36</a>.) This means that no communication shall be without consequence. This includes the slight slips of the tongue, the caustic communications that canker the soul, and the vain, vulgar, and profane words which desecrate the name of Deity.</p>
+</section>
+<section>
+<header>
+<h2 data-aid="28776466" id="title3">Un-Christlike Communication</h2>
+</header>
+<p data-aid="28776467" id="p5">There are certain kinds of un-Christlike communications which destroy relationships and are not for our development but are for our destruction. They result in a diminished opportunity of returning home safely to Heavenly Father. One of the major ways that Satan uses to retard the development of righteous relationships is in the use of gossip, rumor, and slander on his communication network. Perhaps the more common un-Christlike communications are those of lying, blaming, criticizing, and anger.</p>
+<ol class="decimal" start="1">
+<li data-marker="1.">
+<p data-aid="28776468" id="p6"><em>Lying.</em> The first of these communications is that of lying. To lie is to be untruthful, deceptive, deceitful, and dishonest. This is a basic communications problem which is not new; it goes back to the Garden of Eden.</p>
+<p data-aid="28776469" id="p7">Satan introduced the first recorded communications problem in the form of lying in his conversation with Eve. He asked recorded history’s first question: “Yea, hath God said, Ye shall not eat of every tree of the garden?” (<a class="scripture-ref" href="/study/scriptures/ot/gen/3?lang=eng&amp;id=p1#p1">Gen. 3:1</a>.)</p>
+<p data-aid="28776470" id="p8">Eve responded, “We may eat of the fruit of the trees of the garden:</p>
+<p data-aid="28776471" id="p9">“But of the fruit of the tree which is in the midst of the garden, God hath said, Ye shall not eat of it, … lest ye die.” (<a class="scripture-ref" href="/study/scriptures/ot/gen/3?lang=eng&amp;id=p2-p3#p2">Vs. 2–3</a>.)</p>
+<p data-aid="28776472" id="p10">Satan, in a spirit of deception and defiance, responded, “Ye shall not surely die.” (<a class="scripture-ref" href="/study/scriptures/ot/gen/3?lang=eng&amp;id=p4#p4">V. 4</a>.) He distorted the truth, denied the word of God, and planted the seeds of doubt about the word of Deity. Thus, Satan became the father of lies, deception, and doubt.</p>
+<p data-aid="28776473" id="p11">It is a serious sin to lie. The scriptures teach us that “lying lips are abomination to the Lord” (<a class="scripture-ref" href="/study/scriptures/ot/prov/12?lang=eng&amp;id=p22#p22">Prov. 12:22</a>) and that “he that lieth and will not repent shall be cast out” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/42?lang=eng&amp;id=p21#p21">D&amp;C 42:21</a>). They also teach us that to lie about a person is a form of hatred, for “a lying tongue hateth those that are afflicted by it.” (<a class="scripture-ref" href="/study/scriptures/ot/prov/26?lang=eng&amp;id=p28#p28">Prov. 26:28</a>.) The Apostle Paul gave us counsel concerning this matter: “Wherefore putting away lying, speak every man truth with his neighbour.” (<a class="scripture-ref" href="/study/scriptures/nt/eph/4?lang=eng&amp;id=p25#p25">Eph. 4:25</a>.)</p>
+<p data-aid="28776474" id="p12">Integrity is the core of our character. Without integrity we have a weak foundation upon which to build other Christlike characteristics.</p>
+</li>
+<li data-marker="2.">
+<p data-aid="28776475" id="p13"><em>Blaming.</em> A second un-Christlike communication is that of blaming. This is a condemning communication. It is interesting that when the Lord confronted Adam in his fallen state, Adam began to place the blame on Eve for his actions. He said, “The woman whom thou gavest to be with me, she gave me of the tree, and I did eat.” (<a class="scripture-ref" href="/study/scriptures/ot/gen/3?lang=eng&amp;id=p12#p12">Gen. 3:12</a>.) When Eve was confronted, she placed the blame on Satan. She said, “The serpent beguiled me, and I did eat.” (<a class="scripture-ref" href="/study/scriptures/ot/gen/3?lang=eng&amp;id=p13#p13">V. 13</a>.)</p>
+<p data-aid="28776476" id="p14">It has been from the beginning and it will be till the end that the natural man will have a tendency to rationalize and to blame his behaviors on others or on certain circumstances. When we attempt to place responsibility for our choices on others, we are responding in a less than Christlike manner. Blaming is an unrighteous form of communication.</p>
+</li>
+<li data-marker="3.">
+<p data-aid="28776477" id="p15"><em>Criticizing.</em> A third un-Christlike communication is that of criticizing. Positive criticism is feedback given with the purpose of <span class="page-break" data-page="24"></span>helping another person to grow and to develop. This is both helpful and needful and is generally accepted and appreciated.</p>
+<p data-aid="28776478" id="p16">Negative criticism is intended to hurt and often to defame and to destroy. This caustic communication is cruel, and it tends to crush the character of all of those about whom it is directed. King Benjamin urged his people not to “have a mind to injure one another, but to live peaceably.” (<a class="scripture-ref" href="/study/scriptures/bofm/mosiah/4?lang=eng&amp;id=p13#p13">Mosiah 4:13</a>.) We should surely follow this counsel and defend those who are defamed by these denouncements.</p>
+</li>
+<li data-marker="4.">
+<p data-aid="28776479" id="p17"><em>Anger.</em> A fourth is anger. This is perhaps the most common form of un-Christlike communication. Anger causes anguish to the souls of all of those who experience the feeling as well as to those who are the recipients of this emotional explosion.</p>
+<p data-aid="28776480" id="p18">Anger shows a lack of self-control and an inability to relate in a righteous way to others. It is a senseless substitute for self-control. It is sometimes used as a selfish strategy to gain control of a relationship. President Wilford Woodruff counseled that “the moment a man or a woman becomes angry they show a great weakness.” (In <em>Journal of Discourses,</em> 4:98.)</p>
+<p data-aid="28776481" id="p19">We are instructed to “let all bitterness, … and anger, … and evil speaking, be put away.” (<a class="scripture-ref" href="/study/scriptures/nt/eph/4?lang=eng&amp;id=p31#p31">Eph. 4:31</a>.) The implication is clear: we have the capacity to control this carnal communication.</p>
+</li>
+</ol>
+</section>
+<section>
+<header>
+<h2 data-aid="28776482" id="title4">Counsel</h2>
+</header>
+<p data-aid="28776483" id="p20">Much counsel has been given concerning our communications with others. The counsel given by the Apostle Paul to the Ephesian Saints seems to be most appropriate for the Latter-day Saints. He cautioned, “Let no corrupt communication proceed out of your mouth, but that which is good.” (<a class="scripture-ref" href="/study/scriptures/nt/eph/4?lang=eng&amp;id=p29#p29">Eph. 4:29</a>.) He further counseled to be “kind one to another, tenderhearted, forgiving one another, even as God for Christ’s sake hath forgiven you.” (<a class="scripture-ref" href="/study/scriptures/nt/eph/4?lang=eng&amp;id=p32#p32">V. 32</a>.)</p>
+</section>
+<section>
+<header>
+<h2 data-aid="28776484" id="title5">Christlike Communications</h2>
+</header>
+<p data-aid="28776485" id="p21">May we be found communicating with each other in a manner in which the Savior would communicate. Christlike communications are expressed in tones of love rather than loudness. They are intended to be helpful rather than hurtful. They tend to bind us together rather than to drive us apart. They tend to build rather than to belittle.</p>
+<p data-aid="28776486" id="p22">Christlike communications are expressions of affection and not anger, truth and not fabrication, compassion and not contention, respect and not ridicule, counsel and not criticism, correction and not condemnation. They are spoken with clarity and not with confusion. They may be tender or they may be tough, but they must always be tempered.</p>
+<p data-aid="28776487" id="p23">The real challenge that we face in our communications with others is to condition our hearts to have Christlike feelings for all of Heavenly Father’s children. When we develop this concern for the condition of others, we will then communicate with them as the Savior would. We will then warm the hearts of those who may be suffering in silence. As we meet people with special needs along life’s way, we can then make their journey brighter by the things that we say.</p>
+<p data-aid="28776488" id="p24">Christlike communications will help us to develop righteous relationships and ultimately to return to our heavenly home safely. May we treasure the divine gift of communication, and may we use it wisely to build and to assist others on this marvelous journey through mortality. May Heavenly Father bless us to this end, in the name of Jesus Christ, amen.</p>
+</section>
 </div>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/1988/10/christlike-communications</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/october-1988-general-conference/1988-10-2040-elder-l-lionel-kendrick-64k-eng.mp3" length="4354965" type="audio/mpeg"/>
-      <pubDate>Sat, 01 Oct 1988 14:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/5d3fc2c132dd11ec8193eeeeac1ebf62e83a3b48-64k-en.mp3" length="4572618" type="audio/mpeg"/>
+      <pubDate>Sat, 01 Oct 1988 14:00:00 -0600</pubDate>
+      <itunes:author>L. Lionel Kendrick</itunes:author>
     </item>
     <item>
       <title>Search the Scriptures</title>
-      <link>http://www.lds.org/general-conference/1993/04/search-the-scriptures?lang=eng</link>
-      <description>When we left our heavenly home to take this trip through mortality, we received instructions and divine directions that would assist us in returning home safely to our Heavenly Father. These directions were clearly communicated to prepare us for our </description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/1993/04/search-the-scriptures" schema-version="1" doc-id="general-conference_93905_000_007" doc-version="2" hash="v84zag">
-  
-  <div class="heading" uri="/general-conference/1993/04/search-the-scriptures.head">
-    <h1 class="title" pid="td6UXn0GVUmxkcBdi3oL5w" hash="ULU1tg">Search the Scriptures</h1>
-    <p class="authorName" pid="qqtD2yB2J0yM4dSDefMdAA" hash="ZqNzIA">L. Lionel Kendrick</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/1993/04/search-the-scriptures.t1">
-      <img src="ensignlp.nfo-o-2304.jpg" alt="Elder L. Lionel Kendrick" pid="CBkBIjgh1UWnws5q-Lwi3g" hash="Mec1vA" />
-      <p class="para" uri="/general-conference/1993/04/search-the-scriptures.p1" pid="kTetFs5I2EOaJP7SBx8TGA" hash="JxKD2w">When we left our heavenly home to take this trip through mortality, we received instructions and divine directions that would assist us in returning home safely to our Heavenly Father. These directions were clearly communicated to prepare us for our earthly experiences.</p>
-      <p class="para" uri="/general-conference/1993/04/search-the-scriptures.p2" pid="aaJwyljVm02_g_GjrQQ3Dw" hash="BKlAuw">Our Heavenly Father continues to communicate with us through revelation. These revelations are communications of divine directions. They may come to us personally or through the voice of the Lord’s chosen servants, the prophets, seers, and revelators. Those revelations received by prophets are given to us in the form of scripture or by the voice of the living prophets. Thus the scriptures become a road map, a set of divine directions to assist us on our journey through mortality and our return trip home. Just as a road map not read, the scriptures not searched are of little value to us in providing directions.</p>
-      <p class="para" uri="/general-conference/1993/04/search-the-scriptures.p3" pid="ahhWj0VPCU23H9mT1hz1AQ" hash="lOszdg">Are we studying our divine directions daily? When was the last time we checked our celestial compass to see if we are still on course? The road to the celestial kingdom is one way. When we fail to search the scriptures, we may find ourselves going the wrong way on a one-way highway.</p>
-      <div class="topic" uri="/general-conference/1993/04/search-the-scriptures.t2">
-        <h3 class="title" pid="ID2-xmYytkmYuKZaAMZ-Yw" hash="TaHKyg">Scriptures</h3>
-        <p class="para" uri="/general-conference/1993/04/search-the-scriptures.p4" pid="qwVaYTbKcEa9EJy3tJE-FA" hash="-34H6A">The Savior gave us a clear concept of what constitutes scripture. Speaking of the early elders in this dispensation, he said: “And whatsoever they shall speak when moved upon by the Holy Ghost shall be scripture, shall be the will of the Lord.” (<a href="/scriptures/dc-testament/dc/68.4" class="scriptureRef">D&amp;C 68:4</a>.)</p>
-        <p class="para" uri="/general-conference/1993/04/search-the-scriptures.p5" pid="sg6rozWgnU2RtChefFnurw" hash="7IYeJQ">Scriptures reveal the divine desires of the Lord in our behalf. Each of us should have a burning desire to search the scriptures diligently and daily to seek the will of the Lord in our life. For some it may be necessary to develop the discipline to search the scriptures daily.</p>
-      </div>
-      <div class="topic" uri="/general-conference/1993/04/search-the-scriptures.t3">
-        <h3 class="title" pid="FAVtBhIGpUOeK6WM1MD-NA" hash="rwhyKA">Feelings</h3>
-        <p class="para" uri="/general-conference/1993/04/search-the-scriptures.p6" pid="TvlVMYqNNUa1a6N8IEYkQQ" hash="zi7JRg">How do we feel about the scriptures? Do we have the same love for the scriptures that was expressed by Nephi when he said: “For my soul delighteth in the scriptures, and my heart pondereth them. …</p>
-        <p class="para" uri="/general-conference/1993/04/search-the-scriptures.p7" pid="n9IE8_peDUiPXYNwaJWaLw" hash="h375tw">“Behold, my soul delighteth in the things of the Lord; and my heart pondereth continually upon the things which I have seen and heard.” (<a href="/scriptures/bofm/2-ne/4.15-16" class="scriptureRef">2 Ne. 4:15–16</a>.)</p>
-        <p class="para" uri="/general-conference/1993/04/search-the-scriptures.p8" pid="n2ZSMF6He021fpOXxYv3KQ" hash="pSWvpw">We should show great respect and reverence for these sacred revelations. We should have feelings of gratitude for those who recorded and preserved these revelations for our research.</p>
-        <p class="para" uri="/general-conference/1993/04/search-the-scriptures.p9" pid="bo8DwTdPi0WaKIKj1FtrNQ" hash="EJGxjw">Jacob, one of the four major writers of the Book of Mormon, expressed concerns that he could write but a small portion of his words on the plates. He recorded that he would be limited in his writing “because of the difficulty of engraving our words upon plates.” (<a href="/scriptures/bofm/jacob/4.1" class="scriptureRef">Jacob 4:1</a>.) Even with the difficulty of the task, Jacob felt it important to use a portion of the plates to express his tender feelings as to how he hoped that we would receive the words he had written. He said: “And we labor diligently to engraven these words upon plates, hoping that our beloved brethren and our children will receive them with thankful hearts, and look upon them that they may learn with joy and not with sorrow, neither with contemp.” (<a href="/scriptures/bofm/jacob/4.3" class="scriptureRef">Jacob 4:3</a>.)</p>
-        <p class="para" uri="/general-conference/1993/04/search-the-scriptures.p10" pid="mEnEUbTOpEGK9ScmqL0GGg" hash="ZwTO3w">Some have suffered death to make it possible for us to have the scriptures today. Historically, the scriptures in the Bible were reserved for the clergy, with the reading of them by others being denounced. At times laws even prohibited the public or private reading of them. What a marvelous blessing we have to not only possess the most complete collection of scripture in history but also to have the freedom to search and to use them!</p>
-      </div>
-      <div class="topic" uri="/general-conference/1993/04/search-the-scriptures.t4">
-        <h3 class="title" pid="nPhbNrGZiEyz1IDlVT6slQ" hash="At79_g">Purpose</h3>
-        <p class="para" uri="/general-conference/1993/04/search-the-scriptures.p11" pid="84IqEqreJE-lWYkdInMmCA" hash="FbiZ4w">One of the most sacred purposes for which the scriptures were written was to make it possible for all to know Christ. The scriptures teach and testify of Jesus Christ. They teach us much that we need to know and to do to return to the presence of the Savior. John was specific in giving the purpose of the scriptures when he said: “But these [things] are written, that ye might believe that Jesus is the Christ, the Son of God; and that believing ye might have life through his name.” (<a href="/scriptures/nt/john/20.31" class="scriptureRef">John 20:31</a>.)</p>
-        <p class="para" uri="/general-conference/1993/04/search-the-scriptures.p12" pid="RnX_1pIRdkKkvfRVpsumxg" hash="huTBjg">Nephi bore witness as to the reason he had recorded the revelations when he said: “And I, Nephi, have written these things unto my people, that perhaps I might persuade them that they would remember the Lord their Redeemer.” (<a href="/scriptures/bofm/1-ne/19.18" class="scriptureRef">1 Ne. 19:18</a>.)</p>
-      </div>
-      <div class="topic" uri="/general-conference/1993/04/search-the-scriptures.t5">
-        <h3 class="title" pid="IA3spnG530SJ2MG-ZzZ27w" hash="F0ZTVg">Importance</h3>
-        <p class="para" uri="/general-conference/1993/04/search-the-scriptures.p13" pid="d901J8QMyEypmSE1MYsOAQ" hash="zpMX9w">The scriptures should be of the greatest importance in our lives. Our spiritual survival during the stresses of our society and the temptations of our time is greatly dependent upon the strength that we will receive from searching the scriptures and listening to the words of the prophets, seers, and revelators.</p>
-        <p class="para" uri="/general-conference/1993/04/search-the-scriptures.p14" pid="Tgz5fdwusUmptX50EEJxJA" hash="cqYRKQ">People as well as nations perish without scriptures. The scriptures are spiritual food for our spirit, which is just as important as physical food for our body. It was so important for Lehi to have the scriptures and records which were engraven on the brass plates that the Lord commanded Nephi to slay Laban in order to obtain them. The Lord knew of their importance for the spiritual nourishment of Lehi and his descendants. He explained: “It is better that one man should perish than that a nation should dwindle and perish in unbelief.” (<a href="/scriptures/bofm/1-ne/4.13" class="scriptureRef">1 Ne. 4:13</a>.)</p>
-        <p class="para" uri="/general-conference/1993/04/search-the-scriptures.p15" pid="jXmM2tbfA0-h1ldBHsXhQw" hash="Qm0SuQ">In contrast, the Mulekites, who migrated to the American continent shortly after Lehi and his family left Jerusalem, failed to bring with them any sacred scriptures or records. Omni recorded the condition of a nation without scriptures:</p>
-        <p class="para" uri="/general-conference/1993/04/search-the-scriptures.p16" pid="uVma1z5FZUqN491D2udtLg" hash="s5ePfA">“They had had many wars and serious contentions, and had fallen by the sword from time to time; and their language had become corrupted; and they had brought no records with them; and they denied the being of their Creator.” (<a href="/scriptures/bofm/omni/1.17" class="scriptureRef">Omni 1:17</a>.)</p>
-        <p class="para" uri="/general-conference/1993/04/search-the-scriptures.p17" pid="a8ElKANy7EidA-5X3-qhpQ" hash="uMkLgA">Even more serious than their continuous contentions and wars and the corruption of their language was the tragedy that they did not know the Savior. The pattern is the same for individuals as it is for nations. Without searching the scriptures, they cease to know the Savior.</p>
-      </div>
-      <div class="topic" uri="/general-conference/1993/04/search-the-scriptures.t6">
-        <h3 class="title" pid="wW0_OZofE0SDOqYisaJhjQ" hash="ddt2dQ">Study</h3>
-        <p class="para" uri="/general-conference/1993/04/search-the-scriptures.p18" pid="_QvPhH02IEmyPQPkQy5Esg" hash="wHYqhQ">The Savior provided counsel as to the way we should study scripture. He said: “And now, whoso readeth, let him understand; he that hath the scriptures, let him search them.” (<a href="/scriptures/bofm/3-ne/10.14" class="scriptureRef">3 Ne. 10:14</a>.) The Prophet Joseph Smith counseled:</p>
-        <p class="para" uri="/general-conference/1993/04/search-the-scriptures.p19" pid="ck-l8Pt15UCAUEz6alu6qQ" hash="iKJb0w">“Search the scriptures—search the revelations … and ask your Heavenly Father, in the name of His Son Jesus Christ, to manifest the truth unto you, and if you do it with an eye single to His glory nothing doubting, He will answer you by the power of His Holy Spirit. You will then know for yourselves and not for another. You will not then be dependent on man for the knowledge of God; nor will there be any room for speculation.” (<span class="emphasis">Teachings of the Prophet Joseph Smith,</span> pp. 11–12.)</p>
-        <p class="para" uri="/general-conference/1993/04/search-the-scriptures.p20" pid="4HHR1bGReEWz6PEXuwu6uQ" hash="kjPmbw">It is not enough to read the scriptures. Random reading results in reduced retention. We must search for specifics. We must seek for truth and increased understanding of its application in our lives.</p>
-        <p class="para" uri="/general-conference/1993/04/search-the-scriptures.p21" pid="UBi84mxCX0m1CBjDUmv85g" hash="XUr_Iw">If we are to be effective in our study of the scriptures, we must prepare for it to be a special spiritual experience. The following suggestions may be helpful.</p>
-        <div class="figure" uri="/general-conference/1993/04/search-the-scriptures.f2">
-	  <ol class="number">
-	    <li pid="MfmZ-T6V4k2ddka6Qb8Xyw" hash="dfsM3A">
-            <span class="label">1.</span>
-            <p pid="TbMBYJCjC0uTtUR_ZYlVlQ" hash="UkHj0Q">Schedule</p>
-          </li>
-	    <li pid="vyV24at_I0CwrkTwfhLTKQ" hash="Dv0N3g">
-            <span class="label">2.</span>
-            <p pid="XHsfVPZAK0u6AyBgyuRH2g" hash="0uypuw">Pray</p>
-          </li>
-	    <li pid="mqqtgY4Tl0Sxy2wWHInKXA" hash="PWIBeg">
-            <span class="label">3.</span>
-            <p pid="51XAiO9aGki9Onwu0OVMVg" hash="nE6JtQ">Search</p>
-          </li>
-	    <li pid="UUQU2jgpPkOPh9Ey-V-6ig" hash="3S7HHQ">
-            <span class="label">4.</span>
-            <p pid="R4FFeW4SZ0eMv0_w_YuGuQ" hash="EEEKmA">Ponder</p>
-          </li>
-	    <li pid="ip7XgkqY0ki2_sBHHxFyHQ" hash="q3kjXQ">
-            <span class="label">5.</span>
-            <p pid="f1uUXUZQPEmi3T92OhqsFA" hash="V14dbw">Relate</p>
-          </li>
-	    <li pid="lX5J7pLlyEKknD7OrjoYqw" hash="Ipm_TA">
-            <span class="label">6.</span>
-            <p pid="pY8QA5HKRUOcapy3rWsKMg" hash="9sPJeg">Apply</p>
-          </li>
-	  </ol>
-	</div>
-      </div>
-      <div class="topic" uri="/general-conference/1993/04/search-the-scriptures.t7">
-        <h3 class="title" pid="1TUZqhZNm0KVveED3j9Cjg" hash="JZFLeA">Conclusion</h3>
-        <p class="para" uri="/general-conference/1993/04/search-the-scriptures.p22" pid="LeHlNt3vtka4C4JSliQMVA" hash="WjIauw">The scriptures are priceless possessions. If we search the scriptures, seeking for the plain and precious principles, the Lord will reveal his will unto us and we will be richly blessed. If we research the revelations and respond correctly to them, we will return home safely to Heavenly Father. To this I so testify in the sacred name of Jesus Christ, amen.</p>
-      </div>
-    </div>
-  </div>
-</div>]]></content:encoded>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/1993/04/search-the-scriptures?lang=eng</link>
+      <description><![CDATA[<header>
+<span class="page-break" data-page="13"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/0d885dab4b4c291f85cfd126da40b102f147f5f6/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/0d885dab4b4c291f85cfd126da40b102f147f5f6/full/%21192%2C/0/default" data-video-title="Search the Scriptures" data-video-description="Elder L. Lionel Kendrick delivers a message titled &quot;Search the Scriptures.&quot;" data-video-id="2255396827001" data-ip="Download and Streaming                            " data-duration="712645" data-assetId="50a02ec03eba5a433af1c9f2f081bc2d8fc59664" data-ref-id="50a02ec03eba5a433af1c9f2f081bc2d8fc59664" data-duration-string="11:52" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/2255396827001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="480" data-height="360" data-file-size="33575045"/><source src="https://assets.churchofjesuschrist.org/50a02ec03eba5a433af1c9f2f081bc2d8fc59664-360p-en.mp4" type="video/mp4" data-width="480" data-height="360" data-file-size="33575045"/></video><h1 data-aid="28790454" id="title1">Search the Scriptures</h1>
+<div class="byline">
+<p class="author-name" data-aid="28790455" id="p1">By Elder L. Lionel Kendrick</p>
+<p class="author-role" data-aid="150150689" id="author2">Of the Seventy</p>
+<div class="image-cropper"><img alt="Elder L. Lionel Kendrick" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/3svzxjxk9nl9wwnze41u2cvk1vdizpyyq8qg6m7q/full/%21100%2C/0/default" data-assetId="3svzxjxk9nl9wwnze41u2cvk1vdizpyyq8qg6m7q" srcset="https://www.churchofjesuschrist.org/imgs/3svzxjxk9nl9wwnze41u2cvk1vdizpyyq8qg6m7q/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/3svzxjxk9nl9wwnze41u2cvk1vdizpyyq8qg6m7q/full/%21100%2C/0/default 100w" data-img-id="3svzxjxk9nl9wwnze41u2cvk1vdizpyyq8qg6m7q" data-missing-asset="false" data-width="100" data-height="139" data-aspect-ratio="0.7194244604316546" data-public-title="L. Lionel Kendrick" data-public-description="L. Lionel Kendrick"/></div>
+</div>
+</header>
+<div class="body-block">
+<p data-aid="28790456" id="p2">When we left our heavenly home to take this trip through mortality, we received instructions and divine directions that would assist us in returning home safely to our Heavenly Father. These directions were clearly communicated to prepare us for our earthly experiences.</p>
+<p data-aid="28790457" id="p3">Our Heavenly Father continues to communicate with us through revelation. These revelations are communications of divine directions. They may come to us personally or through the voice of the Lord’s chosen servants—the prophets, seers, and revelators. Those revelations received by prophets are given to us in the form of scripture or by the voice of the living prophets. Thus the scriptures become a road map, a set of divine directions to assist us on our journey through mortality and our return trip home. Just as a road map that is not read, the scriptures that are not searched are of little value to us in providing directions.</p>
+<p data-aid="28790458" id="p4">Are we studying our divine directions daily? When was the last time we checked our celestial compass to see if we are still on course? The road to the celestial kingdom is one way. When we fail to search the scriptures, we may find ourselves going the wrong way on a one-way highway.</p>
+<section>
+<header>
+<h2 data-aid="28790459" id="title2">Scriptures</h2>
+</header>
+<p data-aid="28790460" id="p5">The Savior gave us a clear concept of what constitutes scripture. Speaking of the early elders in this dispensation, he said, “And whatsoever they shall speak when moved upon by the Holy Ghost shall be scripture, shall be the will of the Lord” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/68?lang=eng&amp;id=p4#p4">D&amp;C 68:4</a>).</p>
+<p data-aid="28790461" id="p6">Scriptures reveal the divine desires of the Lord in our behalf. Each of us should have a burning desire to search the scriptures diligently and daily to seek the will of the Lord in our life. For some it may be necessary to develop the discipline to search the scriptures daily.</p>
+</section>
+<section>
+<header>
+<h2 data-aid="28790462" id="title3">Feelings</h2>
+</header>
+<p data-aid="28790463" id="p7">How do we feel about the scriptures? Do we have the same love for the scriptures that was expressed by Nephi when he said: “For my soul delighteth in the scriptures, and my heart pondereth them. …</p>
+<p data-aid="28790464" id="p8">“Behold, my soul delighteth in the things of the Lord; and my heart pondereth continually upon the things which I have seen and heard” (<a class="scripture-ref" href="/study/scriptures/bofm/2-ne/4?lang=eng&amp;id=p15-p16#p15">2 Ne. 4:15–16</a>).</p>
+<p data-aid="28790465" id="p9">We should show great respect and reverence for these sacred revelations. We should have feelings of gratitude for those who recorded and preserved these revelations for our research.</p>
+<p data-aid="28790466" id="p10">Jacob, one of the four major writers of the Book of Mormon, expressed concerns that he could write but a small portion of his words on the plates. He recorded that he would be limited in his writing “because of the difficulty of engraving our words upon plates” (<a class="scripture-ref" href="/study/scriptures/bofm/jacob/4?lang=eng&amp;id=p1#p1">Jacob 4:1</a>). Even with the difficulty of the task, Jacob felt it important to use a portion of the plates to express his tender feelings as to how he hoped that we would receive the words he had written. He said, “And we labor diligently to engraven these words upon plates, hoping that our beloved brethren and our children will receive them with thankful hearts, and look upon them that they may learn with joy and not with sorrow, neither with contempt” (<a class="scripture-ref" href="/study/scriptures/bofm/jacob/4?lang=eng&amp;id=p3#p3">Jacob 4:3</a>).</p>
+<p data-aid="28790467" id="p11">Some have suffered death to make it possible for us to have the scriptures today. Historically, the scriptures in the Bible were reserved for the clergy, with the reading of them by others being denounced. At times laws even prohibited the public or private reading of them. What a marvelous blessing we have to not only possess the most complete collection of scripture in history but also to have the freedom to search and to use them!</p>
+</section>
+<section>
+<header>
+<h2 data-aid="28790468" id="title4">Purpose</h2>
+</header>
+<p data-aid="28790469" id="p12">One of the most sacred purposes for which the scriptures were written was to make it possible for all to know Christ. The scriptures teach and testify of Jesus Christ. They teach us much that we need to know and to do to return to the presence of the Savior. John was specific in giving the purpose of the scriptures when he said, “But these [things] are written, that ye might believe that Jesus is the Christ, the Son of God; and that believing ye might have life through his name” (<a class="scripture-ref" href="/study/scriptures/nt/john/20?lang=eng&amp;id=p31#p31">John 20:31</a>).</p>
+<p data-aid="28790470" id="p13">Nephi bore witness as to the reason he had recorded the revelations when he said, “And I, Nephi, have written these things unto my people, that perhaps I might persuade them that they would remember the Lord their Redeemer” (<a class="scripture-ref" href="/study/scriptures/bofm/1-ne/19?lang=eng&amp;id=p18#p18">1 Ne. 19:18</a>).</p>
+</section>
+<section>
+<header>
+<span class="page-break" data-page="14"></span>
+<h2 data-aid="28790471" id="title5">Importance</h2>
+</header>
+<p data-aid="28790472" id="p14">The scriptures should be of the greatest importance in our lives. Our spiritual survival during the stresses of our society and the temptations of our time is greatly dependent upon the strength that we will receive from searching the scriptures and listening to the words of the prophets, seers, and revelators.</p>
+<p data-aid="28790473" id="p15">People as well as nations perish without scriptures. The scriptures are spiritual food for our spirit, which is just as important as physical food for our body. It was so important for Lehi to have the scriptures and records which were engraven on the brass plates that the Lord commanded Nephi to slay Laban in order to obtain them. The Lord knew of their importance for the spiritual nourishment of Lehi and his descendants. He explained, “It is better that one man should perish than that a nation should dwindle and perish in unbelief” (<a class="scripture-ref" href="/study/scriptures/bofm/1-ne/4?lang=eng&amp;id=p13#p13">1 Ne. 4:13</a>).</p>
+<p data-aid="28790474" id="p16">In contrast, the Mulekites, who migrated to the American continent shortly after Lehi and his family left Jerusalem, failed to bring with them any sacred scriptures or records. Omni recorded the condition of a nation without scriptures:</p>
+<p data-aid="28790475" id="p17">“They had had many wars and serious contentions, and had fallen by the sword from time to time; and their language had become corrupted; and they had brought no records with them; and they denied the being of their Creator” (<a class="scripture-ref" href="/study/scriptures/bofm/omni/1?lang=eng&amp;id=p17#p17">Omni 1:17</a>).</p>
+<p data-aid="28790476" id="p18">Even more serious than their continuous contentions and wars and the corruption of their language was the tragedy that they did not know the Savior. The pattern is the same for individuals as it is for nations. Without searching the scriptures, they cease to know the Savior.</p>
+</section>
+<section>
+<header>
+<h2 data-aid="28790477" id="title6">Study</h2>
+</header>
+<p data-aid="28790478" id="p19">The Savior provided counsel as to the way we should study scripture. He said, “And now, whoso readeth, let him understand; he that hath the scriptures, let him search them” (<a class="scripture-ref" href="/study/scriptures/bofm/3-ne/10?lang=eng&amp;id=p14#p14">3 Ne. 10:14</a>). The Prophet Joseph Smith counseled:</p>
+<p data-aid="28790479" id="p20">“Search the scriptures—search the revelations … and ask your Heavenly Father, in the name of His Son Jesus Christ, to manifest the truth unto you, and if you do it with an eye single to His glory nothing doubting, He will answer you by the power of His Holy Spirit. You will then know for yourselves and not for another. You will not then be dependent on man for the knowledge of God; nor will there be any room for speculation” (<em>Teachings of the Prophet Joseph Smith,</em> sel. Joseph Fielding Smith [Salt Lake City: Deseret Book Co., 1938], pp. 11–12).</p>
+<p data-aid="28790480" id="p21">It is not enough to read the scriptures. Random reading results in reduced retention. We must search for specifics. We must seek for truth and increased understanding of its application in our lives.</p>
+<p data-aid="28790481" id="p22">If we are to be effective in our study of the scriptures, we must prepare for it to be a special spiritual experience. The following suggestions may be helpful.</p>
+<ol class="decimal" start="1">
+<li data-marker="1.">
+<p data-aid="28790482" id="p23"><em>Schedule</em></p>
+<p data-aid="136909528" id="p30">Schedule a time to search the scriptures daily. Scripture study is such an essential part of our spiritual development that we must take time and make it a priority in our daily schedule. Our spirits should never be deprived of the much-needed spiritual nourishment which comes from scripture study. Without this spiritual food our spirits become starved and weakened to temptation.</p>
+<p data-aid="136909529" id="p31">President Kimball taught the principle that “no father, no son, no mother, no daughter should get so busy that he or she does not have time to study the scriptures and the words of modern prophets” (in Conference Report, Apr. 1976, <a class="cross-ref" href="/study/general-conference/1976/04/boys-need-heroes-close-by?lang=eng&amp;id=p49#p49">p. 71</a>; or <em>Ensign,</em> May 1976, p. 47).</p>
+</li>
+<li data-marker="2.">
+<p data-aid="28790483" id="p24"><em>Pray</em></p>
+<p data-aid="136909530" id="p32">We should begin and end each study session with prayer. We must invite the Spirit to teach us. Nephi taught that: “the mysteries of God shall be unfolded … by the power of the Holy Ghost” (<a class="scripture-ref" href="/study/scriptures/bofm/1-ne/10?lang=eng&amp;id=p19#p19">1 Ne. 10:19</a>).</p>
+</li>
+<li data-marker="3.">
+<p data-aid="28790484" id="p25"><em>Search</em></p>
+<p data-aid="136909531" id="p33">To search is to seek, to explore, to examine carefully. As we study we should do so with purpose, searching for specifics and an expansion of our vision of eternal truth. We must search for principles, doctrines, answers to questions, and solutions to problems. We should look for doctrinal relationships and for possible hidden meanings of that which has been recorded.</p>
+</li>
+<li data-marker="4.">
+<p data-aid="28790485" id="p26"><em>Ponder</em></p>
+<p data-aid="136909532" id="p34">To ponder is to meditate, to think, to feast, and to treasure. It is more than a mental method; it is a spiritual striving to obtain and to understand truth. We should follow the <span class="page-break" data-page="15"></span>process taught by the Savior to the Nephites as he taught them sacred principles. He then instructed them, “Go ye unto your homes, and ponder upon the things which I have said, and ask of the Father, in my name, that ye may understand, and prepare your minds for the morrow” (<a class="scripture-ref" href="/study/scriptures/bofm/3-ne/17?lang=eng&amp;id=p3#p3">3 Ne. 17:3</a>).</p>
+<p data-aid="136909533" id="p35">We should ponder the meanings of the things we learn from our search of the scriptures. The Apostle Paul instructed the Philippian Saints to “think on these things” (<a class="scripture-ref" href="/study/scriptures/nt/philip/4?lang=eng&amp;id=p8#p8">Philip. 4:8</a>). To think involves forming mental images in the mind and focusing intently upon that which has been discovered. Nephi counseled to “feast upon the words of Christ; for behold, the words of Christ will tell you all things what ye should do” (<a class="scripture-ref" href="/study/scriptures/bofm/2-ne/32?lang=eng&amp;id=p3#p3">2 Ne. 32:3</a>). To feast is to consume, to digest, to absorb.</p>
+<p data-aid="136909534" id="p36">As we ponder, we should follow the counsel of the Savior when he said, “Treasure up in your minds continually the words of life” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/84?lang=eng&amp;id=p85#p85">D&amp;C 84:85</a>). This implies that we should repeat in our minds the principles we have learned and draw upon them in each of our decisions.</p>
+</li>
+<li data-marker="5.">
+<p data-aid="28790486" id="p27"><em>Relate</em></p>
+<p data-aid="136909535" id="p37">Nephi has counseled to “liken all scriptures unto us, that it might be for our profit and learning” (<a class="scripture-ref" href="/study/scriptures/bofm/1-ne/19?lang=eng&amp;id=p23#p23">1 Ne. 19:23</a>). We must read as if the Lord were speaking directly to us in a personal manner.</p>
+</li>
+<li data-marker="6.">
+<p data-aid="28790487" id="p28"><em>Apply</em></p>
+<p data-aid="136909536" id="p38">President Marion G. Romney counseled: “Learning the gospel from the written word … is not enough. It must also be lived. … One cannot fully learn the gospel without living it” (“Records of Great Worth,” <em>Ensign,</em> Sept. 1980, p. 4). As we learn a principle, we must make a real effort to apply and to live it in our life.</p>
+</li>
+</ol>
+</section>
+<section>
+<header>
+<h2 data-aid="28790488" id="title7">Conclusion</h2>
+</header>
+<p data-aid="28790489" id="p29">The scriptures are priceless possessions. If we search the scriptures, seeking for the plain and precious principles, the Lord will reveal his will unto us and we will be richly blessed. If we research the revelations and respond correctly to them, we will return home safely to Heavenly Father. To this I so testify in the sacred name of Jesus Christ, amen.</p>
+</section>
+</div>]]></description>
       <guid isPermaLink="false">/general-conference/1993/04/search-the-scriptures</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/april-1993-general-conference/1993-04-1050-elder-l-lionel-kendrick-64k-eng.mp3" length="5710235" type="audio/mpeg"/>
+      <enclosure url="https://assets.churchofjesuschrist.org/d178112c32dc11ec95e0eeeeac1ece452d720e02-64k-en.mp3" length="5964859" type="audio/mpeg"/>
       <pubDate>Sat, 03 Apr 1993 10:00:00 -0700</pubDate>
+      <itunes:author>L. Lionel Kendrick</itunes:author>
     </item>
     <item>
       <title>Enhancing Our Temple Experience</title>
-      <link>http://www.lds.org/general-conference/2001/04/enhancing-our-temple-experience?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2001/04/enhancing-our-temple-experience?lang=eng</link>
       <description>There is a difference in just attending the temple and having a rich spiritual experience.</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/2001/04/enhancing-our-temple-experience" schema-version="1" doc-id="general-conference_PD10029247_000_033" doc-version="2" hash="I7HcTA">
-  
-  <div class="heading" uri="/general-conference/2001/04/enhancing-our-temple-experience.head">
-    <h1 class="title" pid="3ZSC2g4q5UOA6_eXCBCIJw" hash="r_0Txg">Enhancing Our Temple Experience</h1>
-    <p class="authorName" pid="TpqBuezh6Uei5eBrWk8bRQ" hash="ZqNzIA">L. Lionel Kendrick</p>
-    <p class="kicker" pid="a1HvDteQb0OEq3cI4sXO1A" hash="v4PQew">There is a difference in just attending the temple and having a rich spiritual experience.</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/2001/04/enhancing-our-temple-experience.t1">
-      <img src="ensignlp.nfo-o-e8d.jpg" alt="Elder L. Lionel Kendrick" pid="OaC2VHstjkmoxJQO5loo9w" hash="Fjsgeg" />
-      <p class="para" uri="/general-conference/2001/04/enhancing-our-temple-experience.p1" pid="9LB147msiU-otSTa2zhQPQ" hash="-37SPA">One of the great blessings that we enjoy today is the opportunity to attend the temple. With an ever-increasing number of temples, the blessings of the temple are available to a growing number of Church members.</p>
-      <p class="para" uri="/general-conference/2001/04/enhancing-our-temple-experience.p2" pid="dWm96bhkL0S0AMIK9e_xpQ" hash="rpuxlA">These blessings should not be taken lightly. The Savior has commanded that we should “trifle not with sacred things” (<a href="/scriptures/dc-testament/dc/6.12" class="scriptureRef">D&amp;C 6:12</a>). The temple and the holy ordinances are indeed sacred, and we should be spiritually sensitive to them. It is a sacred blessing to attend the temple to worship the Lord.</p>
-      <p class="para" uri="/general-conference/2001/04/enhancing-our-temple-experience.p3" pid="A-hUdgcyQE2JK_tYmdMrfg" hash="KII0Ng">There is a difference in just attending the temple and having a rich spiritual experience. The real blessings of the temple come as we enhance our temple experience. To do so, we must feel a spirit of reverence for the temple and a spirit of worship.</p>
-      <div class="topic" uri="/general-conference/2001/04/enhancing-our-temple-experience.t2">
-        <h3 class="title" pid="jHTdglapX0azEyRNa4TnjA" hash="lTszWw">Spirit of Reverence</h3>
-        <p class="para" uri="/general-conference/2001/04/enhancing-our-temple-experience.p4" pid="lrYULAlV90-Hok7FpMXUdA" hash="uIVq-A">All who attend the temple should remember the counsel of the Lord when He said, “Reverence my sanctuary” (<a href="/scriptures/ot/lev/19.30" class="scriptureRef">Lev. 19:30</a>). Reverence is an expression of deep respect, honor, and adoration for the Lord. It is having reverence for His name, for His words, for His ordinances and covenants, for His servants, for His chapels, and for His temples.</p>
-        <p class="para" uri="/general-conference/2001/04/enhancing-our-temple-experience.p5" pid="rqOdJrGizUOro2hrQZPXNw" hash="zRLOGQ">It is an outward indication of an inner feeling that we have for Him. We should always remember that it is by His invitation that we come to His holy house, the temple of the Lord. We should respond to His invitation by being worthy, by being prepared, and by having the temple as a priority in our lives. While in the temple we should act as if we are in His holy presence.</p>
-        <p class="para" uri="/general-conference/2001/04/enhancing-our-temple-experience.p6" pid="lGW4fNg-SUC-nf9difDCag" hash="fOHSuA">To be reverent is not just to be quiet. It involves an awareness of what is taking place. It involves a divine desire to learn and to be receptive to the promptings of the Spirit. It involves a striving to seek added light and knowledge. Irreverence is not only an act of disrespect for Deity, but it makes it impossible for the Spirit to teach us the things that we need to know.</p>
-        <p class="para" uri="/general-conference/2001/04/enhancing-our-temple-experience.p7" pid="7hgnVLYFS0KVtEj6iGqHPQ" hash="SH_Clw">It is in the temple that we must speak in reverent tones. Reverence is no minor nor mundane matter. It has eternal consequences and should be treated as divine in nature. To be reverent in the temple, we must sense it to be a place of purity and a place of holiness.</p>
-        <p class="para" uri="/general-conference/2001/04/enhancing-our-temple-experience.p8" pid="9m54QI_F0Eir42S6_RGsWA" hash="xL-tEA">
-          <span class="emphasis">Place of purity.</span> The temple is a place of purity. It is of the utmost importance that we keep the temple pure and holy. The Savior promised:</p>
-        <p class="para" uri="/general-conference/2001/04/enhancing-our-temple-experience.p9" pid="_uaXX1ldkUa7Mm3fcoRGtw" hash="AUAz-w">“And inasmuch as my people build a house unto me in the name of the Lord, and do not suffer any unclean thing to come into it, … my glory shall rest upon it;</p>
-        <p class="para" uri="/general-conference/2001/04/enhancing-our-temple-experience.p10" pid="4t5M-Yljv0mbk9_mU97j8w" hash="0dnlOw">“Yea, and my presence shall be there, for I will come into it” (<a href="/scriptures/dc-testament/dc/97.15-16" class="scriptureRef">D&amp;C 97:15–16</a>).</p>
-        <p class="para" uri="/general-conference/2001/04/enhancing-our-temple-experience.p11" pid="jRW7aroETkq-iGKwj_liYw" hash="tPI8iQ">Those who enter the temple should prepare both their hearts and their minds. They should be able to answer in the affirmative to the questions asked by Alma when he said: “Can ye look up to God at that day with a pure heart and clean hands? I say unto you, can you look up, having the image of God engraven upon your countenances?” (<a href="/scriptures/bofm/alma/5.19" class="scriptureRef">Alma 5:19</a>).</p>
-        <p class="para" uri="/general-conference/2001/04/enhancing-our-temple-experience.p12" pid="nNgoOCuKkUudZraQu8jjFQ" hash="tTyfWA">When we are reverent in the temple, we help to keep it pure and holy, free from distractions and offenses to the Spirit. We must remember to say or do nothing that would be offensive to the Lord.</p>
-        <p class="para" uri="/general-conference/2001/04/enhancing-our-temple-experience.p13" pid="u7Mvh1Gq_0CGQ2Tt48mDwA" hash="FVpj1g">President David O. McKay counseled, “When you enter a Church building, you are coming into the presence of our Father in heaven; and that thought should be sufficient incentive for you to prepare your hearts, your minds, and even your attire, that you might appropriately and properly sit in his presence” (<span class="emphasis">Improvement Era,</span> July 1962, 509).</p>
-        <p class="para" uri="/general-conference/2001/04/enhancing-our-temple-experience.p14" pid="t6l3aOKkhU-CIPG8CgEe8w" hash="kLbYVg">Reverence involves thinking, speaking, feeling, and acting as we would in the presence of the Lord.</p>
-        <p class="para" uri="/general-conference/2001/04/enhancing-our-temple-experience.p15" pid="cQBLWbXYokO9q93B__BGOg" hash="Ee3d1Q">
-          <span class="emphasis">Place of holiness.</span> The temple is a place of holiness. It is the most sacred and holy place on earth and should be treated with the greatest degree of reverence and respect. Reverence in the temple is an expression to the Lord that we consider it to be sacred and that we recognize it to be, indeed, His holy house.</p>
-      </div>
-      <div class="topic" uri="/general-conference/2001/04/enhancing-our-temple-experience.t3">
-        <h3 class="title" pid="bnzJeNz6UkWNkFAHXbzs4A" hash="JxsycQ">Spirit of Worship</h3>
-        <p class="para" uri="/general-conference/2001/04/enhancing-our-temple-experience.p16" pid="UE5faIV3YEqIndMWHyOK8g" hash="50wwZg">The temple is a place of worship. Reverence is a supernal form of worship. It is the form of worship that is found in the celestial kingdom. In the vision of the degrees of glory given to the Prophet Joseph Smith, this celestial worship was described with these words:</p>
-        <p class="para" uri="/general-conference/2001/04/enhancing-our-temple-experience.p17" pid="xW9X3j_HhECsjN4eiB9brA" hash="ATTZDA">“And thus we saw the glory of the celestial, … where God, even the Father, reigns upon his throne forever and ever;</p>
-        <p class="para" uri="/general-conference/2001/04/enhancing-our-temple-experience.p18" pid="qtxDLa5HLUKR18WoOvKV7g" hash="66rGlw">“Before whose throne all things bow in humble reverence, and give him glory forever and ever” (<a href="/scriptures/dc-testament/dc/76.92-93" class="scriptureRef">D&amp;C 76:92–93</a>).</p>
-        <p class="para" uri="/general-conference/2001/04/enhancing-our-temple-experience.p19" pid="J0q0dnJjRky9o6AUgVPk1w" hash="XnSZng">Our worship in the temple is in preparation to live in the presence of our Heavenly Father and His Son. We should worship Them in a spirit of humility and in a spirit of reverence.</p>
-        <p class="para" uri="/general-conference/2001/04/enhancing-our-temple-experience.p20" pid="bbYMaTioLUavqQUyMtYM1A" hash="H_m9TQ">True worship of the Lord in His holy house means that we should enhance our temple experience. We can obtain a rich spiritual experience in the temple by doing the following:</p>
-        <p class="para" uri="/general-conference/2001/04/enhancing-our-temple-experience.p21" pid="5NWO3vBQjU2_2QyQpF_OKw" hash="GO4zzg">First, we must leave the world behind as we enter the temple.</p>
-        <p class="para" uri="/general-conference/2001/04/enhancing-our-temple-experience.p22" pid="XyhD1rVsTkKpzo7vyx6NJg" hash="_lyE0g">Second, we must seek to gain added light and knowledge.</p>
-        <p class="para" uri="/general-conference/2001/04/enhancing-our-temple-experience.p23" pid="nqCevqVXvU-D9DibHYwsvg" hash="fTbhxw">
-          <span class="emphasis">Leave the world behind.</span> When we enter the temple, we should leave the world behind. We should feel what it would be like when we enter the presence of the Lord. We may consider what thoughts we would think and what communications we would have in His holy presence. If we can catch the vision of this eventual event, it will help us in preparing to enter His presence and in leaving the world behind as we enter His temple.</p>
-        <div class="figure" uri="/general-conference/2001/04/enhancing-our-temple-experience.f2">
-	  <ol class="number">
-	    <li pid="XQANmyp8q0OWKXGPMFYQYQ" hash="2W0Xrw">
-            <span class="label">1.</span>
-            <p pid="420v065A6UG2w_9XjL6mmg" hash="zfBfQg">Thoughts</p>
-            <p pid="c_-xeINqq0uJLJO-eTdNzg" hash="3CdeDA">As we enter the temple grounds, we should leave our worldly thoughts behind and focus on the sacred responsibilities that are ours as we serve in the house of the Lord.</p>
-            <p pid="7puo43-xVUKGyDNTbTwcrg" hash="blGA0Q">Our thoughts should be spiritual in nature. We must remember that the Lord is aware of our thoughts. He spoke to Ezekiel and said, “I know the things that come into your mind, every one of them” (<a href="/scriptures/ot/ezek/11.5" class="scriptureRef">Ezek. 11:5</a>).</p>
-          </li>
-	    <li pid="JA17-ezJ20S-LtRJ8HHl0Q" hash="OtqxyQ">
-            <span class="label">2.</span>
-            <p pid="Q_TFkcLyYUOjn2iq9UqMzg" hash="NYkW2g">Communications</p>
-            <p pid="KjCooTAQdkWjHHAafkMctA" hash="4hfvuQ">The Savior has given us great counsel concerning our communications in the temple. He said: “Therefore, cease from all your light speeches, from all laughter, … from all your pride and light-mindedness” (<a href="/scriptures/dc-testament/dc/88.121" class="scriptureRef">D&amp;C 88:121</a>).</p>
-          </li>
-	  </ol>
-	</div>
-        <p class="para" uri="/general-conference/2001/04/enhancing-our-temple-experience.p24" pid="swpjCYLd-kubjOUhvt3nug" hash="23Sqtg">Just as we leave our worldly thoughts behind as we enter the temple grounds, we should also leave our worldly discussions behind. It is inappropriate to discuss matters of business, pleasure, or current events in the temple.</p>
-        <p class="para" uri="/general-conference/2001/04/enhancing-our-temple-experience.p25" pid="0f7mg_76h0C0hrjz2rVdfw" hash="y8BjTg">It is important not only what we speak in the temple, but also the manner in which we speak. We must always speak in soft and subdued tones in all places in the temple. This should be our temple voice.</p>
-        <p class="para" uri="/general-conference/2001/04/enhancing-our-temple-experience.p26" pid="Z54pCQPXWEyv2WWYrWs8Gg" hash="FicI-A">There should be silence in the sacred ordinance areas of the temple, except for the necessary communications concerning the performance of the ordinances. These ordinance areas are sacred and should not be used for any worldly conversations.</p>
-        <p class="para" uri="/general-conference/2001/04/enhancing-our-temple-experience.p27" pid="eoKI9IJwL0mUmOdNXAVZ4Q" hash="woxYZw">The Savior has given us loving counsel that will assist us in enhancing our temple experience by leaving the world behind: “And verily I say unto thee that thou shalt lay aside the things of this world, and seek for the things of a better” (<a href="/scriptures/dc-testament/dc/25.10" class="scriptureRef">D&amp;C 25:10</a>).</p>
-        <p class="para" uri="/general-conference/2001/04/enhancing-our-temple-experience.p28" pid="pEWhrPL10kKCMjqCigT7ig" hash="MG29Yw">Perhaps the chastening words of the Savior to David Whitmer may be appropriate for us to remember:</p>
-        <p class="para" uri="/general-conference/2001/04/enhancing-our-temple-experience.p29" pid="D71rAM-OekCkA7p_pZR7Ug" hash="ze69Vw">“But your mind has been on the things of the earth more than on the things of me, your Maker, … and you have not given heed unto my Spirit. …</p>
-        <p class="para" uri="/general-conference/2001/04/enhancing-our-temple-experience.p30" pid="6_SgfSidO0SM--5hF8oyRg" hash="KzNT-w">“Wherefore, you are left to inquire for yourself” (<a href="/scriptures/dc-testament/dc/30.2-3" class="scriptureRef">D&amp;C 30:2–3</a>).</p>
-        <p class="para" uri="/general-conference/2001/04/enhancing-our-temple-experience.p31" pid="bwAkd5agSkO08Yh7nwjcJQ" hash="VvXX5g">
-          <span class="emphasis">Seek to gain added light and knowledge.</span> Gaining added light and knowledge is not a passive process. It involves focusing on the things of the Spirit and seeking the spiritual lessons to be learned. The Savior counseled: “And if your eye be single to my glory, your whole bodies shall be filled with light, and there shall be no darkness in you; and that body which is filled with light comprehendeth all things” (<a href="/scriptures/dc-testament/dc/88.67" class="scriptureRef">D&amp;C 88:67</a>).</p>
-        <p class="para" uri="/general-conference/2001/04/enhancing-our-temple-experience.p32" pid="Q60TaukDiEO73NRDcCqLnA" hash="9wtJyA">The Spirit of the Holy Ghost is the teacher in the temple. He teaches principles of eternal significance. It is during these instructions that we see the relationship between the earthly and the eternal. We must remember that the Spirit teaches only those who are teachable. If we enter the temple seeking added light and knowledge, we can learn and understand something new during the temple experience. The Savior promised: “That which is of God is light; and he that … continueth in God, receiveth more light; and that light groweth brighter and brighter until the perfect day” (<a href="/scriptures/dc-testament/dc/50.24" class="scriptureRef">D&amp;C 50:24</a>).</p>
-      </div>
-      <div class="topic" uri="/general-conference/2001/04/enhancing-our-temple-experience.t4">
-        <h3 class="title" pid="o6y5vL-HdUSwsd1U_ItoMg" hash="JZFLeA">Conclusion</h3>
-        <p class="para" uri="/general-conference/2001/04/enhancing-our-temple-experience.p33" pid="FQfCYsQUnka91f2IPG_Zvw" hash="Vf4Zaw">May we enhance our temple experience with a spirit of reverence, treating it as a place of purity and a place of holiness. May we enhance our temple experience with a spirit of worship by leaving the world behind and seeking to obtain added light and knowledge. If we do these things, the Lord will bless us and we will become prepared to live in His holy presence. To this I testify in the sacred name of Jesus Christ, amen.</p>
-      </div>
-    </div>
-  </div>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="78"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/3f3edaa604eca20e70d2a4ccbfa79907477d180c/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/3f3edaa604eca20e70d2a4ccbfa79907477d180c/full/%21192%2C/0/default" data-video-title="Enhancing Our Temple Experience" data-video-description="There is a difference in just attending the temple and having a rich spiritual experience." data-video-id="6389399248112" data-ip="Download &amp; Streaming" data-duration="640373" data-assetId="b35a72e00766b242b82a9f64bc05470499740dd5" data-ref-id="b35a72e00766b242b82a9f64bc05470499740dd5" data-duration-string="10:40" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6389399248112.m3u8" type="application/vnd.apple.mpegurl" data-width="1280" data-height="720" data-file-size="46080559"/><source src="https://assets.churchofjesuschrist.org/b35a72e00766b242b82a9f64bc05470499740dd5-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="24694184"/><source src="https://assets.churchofjesuschrist.org/b35a72e00766b242b82a9f64bc05470499740dd5-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="46080559"/></video><h1 data-aid="28815187" id="title1">Enhancing Our Temple Experience</h1>
+<div class="byline">
+<p class="author-name" data-aid="28815188" id="p1">By Elder L. Lionel Kendrick</p>
+<p class="author-role" data-aid="150470173" id="author2">Of the Seventy</p>
+<div class="image-cropper"><img alt="Elder L. Lionel Kendrick" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/yvwagndcyieg9p5li4jvb5djb49lg03gmphr1jfy/full/%21100%2C/0/default" data-assetId="yvwagndcyieg9p5li4jvb5djb49lg03gmphr1jfy" srcset="https://www.churchofjesuschrist.org/imgs/yvwagndcyieg9p5li4jvb5djb49lg03gmphr1jfy/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/yvwagndcyieg9p5li4jvb5djb49lg03gmphr1jfy/full/%21100%2C/0/default 100w" data-img-id="yvwagndcyieg9p5li4jvb5djb49lg03gmphr1jfy" data-missing-asset="false" data-width="100" data-height="139" data-aspect-ratio="0.7194244604316546" data-public-title="L. Lionel Kendrick" data-public-description="L. Lionel Kendrick"/></div>
+</div>
+<p class="kicker" data-aid="28815189" id="kicker1">There is a difference in just attending the temple and having a rich spiritual experience.</p>
+</header>
+<div class="body-block">
+<p data-aid="28815190" id="p2">One of the great blessings that we enjoy today is the opportunity to attend the temple. With an ever-increasing number of temples, the blessings of the temple are available to a growing number of Church members.</p>
+<p data-aid="28815191" id="p3">These blessings should not be taken lightly. The Savior has commanded that we should “trifle not with sacred things” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/6?lang=eng&amp;id=p12#p12">D&amp;C 6:12</a>). The temple and the holy ordinances are indeed sacred, and we should be spiritually sensitive to them. It is a sacred blessing to attend the temple to worship the Lord.</p>
+<p data-aid="28815192" id="p4">There is a difference in just attending the temple and having a rich spiritual experience. The real blessings of the temple come as we enhance our temple experience. To do so, we must feel a spirit of reverence for the temple and a spirit of worship.</p>
+<section>
+<header>
+<h2 data-aid="28815193" id="title2">Spirit of Reverence</h2>
+</header>
+<p data-aid="28815194" id="p5">All who attend the temple should remember the counsel of the Lord when He said, “Reverence my sanctuary” (<a class="scripture-ref" href="/study/scriptures/ot/lev/19?lang=eng&amp;id=p30#p30">Lev. 19:30</a>). Reverence is an expression of deep respect, honor, and adoration for the Lord. It is having reverence for His name, for His words, for His ordinances and covenants, for His servants, for His chapels, and for His temples.</p>
+<p data-aid="28815195" id="p6">It is an outward indication of an inner feeling that we have for Him. We should always remember that it is by His invitation that we come to His holy house, the temple of the Lord. We should respond to His invitation by being worthy, by being prepared, and by having the temple as a priority in our lives. While in the temple we should act as if we are in His holy presence.</p>
+<p data-aid="28815196" id="p7">To be reverent is not just to be quiet. It involves an awareness of what is taking place. It involves a divine desire to learn and to be receptive to the promptings of the Spirit. It involves a striving to seek added light and knowledge. Irreverence is not only an act of disrespect for Deity, but it makes it impossible for the Spirit to teach us the things that we need to know.</p>
+<p data-aid="28815197" id="p8">It is in the temple that we must speak in reverent tones. Reverence is no minor nor mundane matter. It has eternal consequences and should be treated as divine in nature. To be reverent in the temple, we must sense it to be a place of purity and a place of holiness.</p>
+<p data-aid="28815198" id="p9"><em>Place of purity.</em> The temple is a place of purity. It is of the utmost importance that we keep the temple pure and holy. The Savior promised:</p>
+<p data-aid="28815199" id="p10">“And inasmuch as my people build a house unto me in the name of the Lord, and do not suffer any unclean thing to come into it, … my glory shall rest upon it;</p>
+<p data-aid="28815200" id="p11">“Yea, and my presence shall be there, for I will come into it” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/97?lang=eng&amp;id=p15-p16#p15">D&amp;C 97:15–16</a>).</p>
+<p data-aid="28815201" id="p12">Those who enter the temple should prepare both their hearts and their minds. They should be able to answer in the affirmative to the questions asked by Alma when he said: “Can ye look up to God at that day with a pure heart and clean hands? I say unto you, can you look up, having the image of God engraven upon your countenances?” (<a class="scripture-ref" href="/study/scriptures/bofm/alma/5?lang=eng&amp;id=p19#p19">Alma 5:19</a>).</p>
+<p data-aid="28815202" id="p13">When we are reverent in the temple, we help to keep it pure and holy, free from distractions and offenses to the Spirit. We must remember to say or do nothing that would be offensive to the Lord.</p>
+<p data-aid="28815203" id="p14">President David O. McKay counseled, “When you enter a church building, you are coming into the presence of our Father in heaven; and that thought should be sufficient incentive for you to prepare your hearts, your minds, and even your attire, that you might appropriately and properly sit in his presence” (<em>Improvement Era,</em> July 1962, 509).</p>
+<p data-aid="28815204" id="p15">Reverence involves thinking, speaking, feeling, and acting as we would in the presence of the Lord.</p>
+<p data-aid="28815205" id="p16"><em>Place of holiness.</em> The temple is a place of holiness. It is the most sacred and holy place on earth and should be treated with the greatest degree of reverence and respect. Reverence in the temple is an expression to the Lord that we consider it to be sacred and that we recognize it to be, indeed, His holy house.</p>
+</section>
+<section>
+<header>
+<h2 data-aid="28815206" id="title3">Spirit of Worship</h2>
+</header>
+<p data-aid="28815207" id="p17">The temple is a place of worship. Reverence is a supernal form of <span class="page-break" data-page="79"></span>worship. It is the form of worship that is found in the celestial kingdom. In the vision of the degrees of glory given to the Prophet Joseph Smith, this celestial worship was described with these words:</p>
+<p data-aid="28815208" id="p18">“And thus we saw the glory of the celestial, … where God, even the Father, reigns upon his throne forever and ever;</p>
+<p data-aid="28815209" id="p19">“Before whose throne all things bow in humble reverence, and give him glory forever and ever” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/76?lang=eng&amp;id=p92-p93#p92">D&amp;C 76:92–93</a>).</p>
+<p data-aid="28815210" id="p20">Our worship in the temple is in preparation to live in the presence of our Heavenly Father and His Son. We should worship Them in a spirit of humility and in a spirit of reverence.</p>
+<p data-aid="28815211" id="p21">True worship of the Lord in His holy house means that we should enhance our temple experience. We can obtain a rich spiritual experience in the temple by doing the following:</p>
+<p data-aid="28815212" id="p22">First, we must leave the world behind as we enter the temple.</p>
+<p data-aid="28815213" id="p23">Second, we must seek to gain added light and knowledge.</p>
+<p data-aid="28815214" id="p24"><em>Leave the world behind.</em> When we enter the temple, we should leave the world behind. We should feel what it would be like when we enter the presence of the Lord. We may consider what thoughts we would think and what communications we would have in His holy presence. If we can catch the vision of this eventual event, it will help us in preparing to enter His presence and in leaving the world behind as we enter His temple.</p>
+<ol class="decimal" start="1">
+<li data-marker="1.">
+<p data-aid="28815215" id="p25">Thoughts</p>
+<p data-aid="28815216" id="p26">As we enter the temple grounds, we should leave our worldly thoughts behind and focus on the sacred responsibilities that are ours as we serve in the house of the Lord.</p>
+<p data-aid="28815217" id="p27">Our thoughts should be spiritual in nature. We must remember that the Lord is aware of our thoughts. He spoke to Ezekiel and said, “I know the things that come into your mind, every one of them” (<a class="scripture-ref" href="/study/scriptures/ot/ezek/11?lang=eng&amp;id=p5#p5">Ezek. 11:5</a>).</p>
+</li>
+<li data-marker="2.">
+<p data-aid="28815218" id="p28">Communications</p>
+<p data-aid="28815219" id="p29">The Savior has given us great counsel concerning our communications in the temple. He said: “Therefore, cease from all your light speeches, from all laughter, … from all your pride and light-mindedness” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/88?lang=eng&amp;id=p121#p121">D&amp;C 88:121</a>).</p>
+</li>
+</ol>
+<p data-aid="28815220" id="p30">Just as we leave our worldly thoughts behind as we enter the temple grounds, we should also leave our worldly discussions behind. It is inappropriate to discuss matters of business, pleasure, or current events in the temple.</p>
+<p data-aid="28815221" id="p31">It is important not only what we speak in the temple, but also the manner in which we speak. We must always speak in soft and subdued tones in all places in the temple. This should be our temple voice.</p>
+<p data-aid="28815222" id="p32">There should be silence in the sacred ordinance areas of the temple, except for the necessary communications concerning the performance of the ordinances. These ordinance areas are sacred and should not be used for any worldly conversations.</p>
+<p data-aid="28815223" id="p33">The Savior has given us loving counsel that will assist us in enhancing our temple experience by leaving the world behind: “And verily I say unto thee that thou shalt lay aside the things of this world, and seek for the things of a better” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/25?lang=eng&amp;id=p10#p10">D&amp;C 25:10</a>).</p>
+<p data-aid="28815224" id="p34">Perhaps the chastening words of the Savior to David Whitmer may be appropriate for us to remember:</p>
+<p data-aid="28815225" id="p35">“Your mind has been on the things of the earth more than on the things of me, your Maker, … and you have not given heed unto my Spirit. …</p>
+<p data-aid="28815226" id="p36">“Wherefore, you are left to inquire for yourself” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/30?lang=eng&amp;id=p2-p3#p2">D&amp;C 30:2–3</a>).</p>
+<p data-aid="28815227" id="p37"><em>Seek to gain added light and knowledge.</em> Gaining added light and knowledge is not a passive process. It involves focusing on the things of the Spirit and seeking the spiritual lessons to be learned. The Savior counseled: “And if your eye be single to my glory, your whole bodies shall be filled with light, and there shall be no darkness in you; and that body which is filled with light comprehendeth all things” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/88?lang=eng&amp;id=p67#p67">D&amp;C 88:67</a>).</p>
+<p data-aid="28815228" id="p38">The Spirit of the Holy Ghost is the teacher in the temple. He teaches principles of eternal significance. It is during these instructions that we see the relationship between the earthly and the eternal. We must remember that the Spirit teaches only those who are teachable. If we enter the temple seeking added light and knowledge, we can learn and understand something new during the temple experience. The Savior promised: “That which is of God is light; and he that … continueth in God, receiveth more light; and that light groweth brighter and brighter until the perfect day” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/50?lang=eng&amp;id=p24#p24">D&amp;C 50:24</a>).</p>
+</section>
+<section>
+<header>
+<h2 data-aid="28815229" id="title4">Conclusion</h2>
+</header>
+<p data-aid="28815230" id="p39">May we enhance our temple experience with a spirit of reverence, treating it as a place of purity and a place of holiness. May we enhance our temple experience with a spirit of worship by leaving the world behind and seeking to obtain added light and knowledge. If we do these things, the Lord will bless us and we will become prepared to live in His holy presence. To this I testify in the sacred name of Jesus Christ, amen.</p>
+</section>
 </div>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/2001/04/enhancing-our-temple-experience</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/april-2001-general-conference/2001-04-5040-elder-l-lionel-kendrick-64k-eng.mp3" length="5131571" type="audio/mpeg"/>
-      <pubDate>Sun, 01 Apr 2001 14:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/48000f5a32cd11ec8ef9eeeeac1e99aaa1dcdd3f-64k-en.mp3" length="5230219" type="audio/mpeg"/>
+      <pubDate>Sun, 01 Apr 2001 14:00:00 -0600</pubDate>
+      <itunes:author>L. Lionel Kendrick</itunes:author>
     </item>
   </channel>
 </rss>

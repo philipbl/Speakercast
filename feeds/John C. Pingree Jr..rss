@@ -1,106 +1,517 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Talks By John C. Pingree Jr.</title>
-    <link>http://philip.lundrigan.org/Speakercast/</link>
+    <link>https://philip.lundrigan.org/Speakercast/</link>
     <description>General Conference talks by John C. Pingree Jr..</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Speakercast</generator>
     <image>
-      <url>http://philip.lundrigan.org/Speakercast/covers/John%20C.%20Pingree%20Jr..jpg</url>
+      <url>https://philip.lundrigan.org/Speakercast/covers/John%20C.%20Pingree%20Jr..jpg</url>
       <title>General Conference talks by John C. Pingree Jr..</title>
-      <link>http://philip.lundrigan.org/Speakercast/</link>
+      <link>https://philip.lundrigan.org/Speakercast/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 30 Sep 2017 10:00:00 -0700</lastBuildDate>
-    <pubDate>Sat, 30 Sep 2017 10:00:00 -0700</pubDate>
+    <lastBuildDate>Sun, 01 Oct 2023 14:00:00 -0600</lastBuildDate>
+    <pubDate>Sun, 01 Oct 2023 14:00:00 -0600</pubDate>
+    <itunes:author>John C. Pingree Jr.</itunes:author>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
+    <itunes:image href="https://philip.lundrigan.org/Speakercast/covers/John%20C.%20Pingree%20Jr..jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>General Conference talks by John C. Pingree Jr..</itunes:summary>
     <item>
       <title>“I Have a Work for Thee”</title>
-      <link>http://www.lds.org/general-conference/2017/10/i-have-a-work-for-thee?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2017/10/i-have-a-work-for-thee?lang=eng</link>
       <description>Elder Pingree testifies that God has a work for all of us. He also shares principles to help us perform that work and warns of ways Satan will oppose us.</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/2017/10/i-have-a-work-for-thee" dup-conf="false" dup-mag="false" schema-version="1" doc-id="general-conference_PD60003502_000_24pingree" doc-version="1" hash="LL3o_A">
-		
-		<div class="heading" uri="/general-conference/2017/10/i-have-a-work-for-thee.head1">
-			<h1 class="title" pid="XedSIO6dnU6BLlO4zc1_XQ" hash="20Qvig">“I Have a Work for Thee”</h1>
-			<div class="byline">
-				<p class="para" uri="/general-conference/2017/10/i-have-a-work-for-thee.p2" pid="7d2eOHphsUmWzUsztU3GRw" hash="761V3g1">By Elder John C. Pingree Jr.</p>
-				<p class="para" uri="/general-conference/2017/10/i-have-a-work-for-thee.p3" pid="n_2jODRF-k2zLnGWZJYWig" hash="sSmk3g">Of the Seventy</p>
-			</div>
-			<p class="kicker" pid="b_aYRaurAkW5PDA7zQpHOQ" hash="3d1SDw">Every one of us has a meaningful role to play in furthering God’s work.</p>
-		<p class="authorName" pid="5jGWUwAs5kCjj0H3RVRarg" hash="761V3g">By Elder John C. Pingree Jr.</p></div>
-		<div class="bodyBlock">
-			<p class="para" uri="/general-conference/2017/10/i-have-a-work-for-thee.p5" pid="7nSR1XHFcEaWeZkTugyzfQ" hash="rAllMQ">To Moses, God declared, “I have a work for thee” (<a href="/scriptures/pgp/moses/1.6" class="scriptureRef">Moses 1:6</a>). Have you ever wondered if Heavenly Father has a work for you? Are there important things He has prepared you—and specifically you—to accomplish? I testify the answer is yes!</p>
-			<a href="gl://image/?pid=VNduhnR9qEWTVUpaV49b9A"><img xmlns="" xmlns:xi="http://www.w3.org/2001/XInclude" src="https://edge.ldscdn.org/mobile/images/1974888/ac09aa32adb3457b9b5957a0556750b5/100x129.jpg" data-multi-src="true" data-src-50x64="https://edge.ldscdn.org/mobile/images/1974888/ac09aa32adb3457b9b5957a0556750b5/50x64.jpg" data-src-100x129="https://edge.ldscdn.org/mobile/images/1974888/ac09aa32adb3457b9b5957a0556750b5/100x129.jpg" data-src-200x258="https://edge.ldscdn.org/mobile/images/1974888/ac09aa32adb3457b9b5957a0556750b5/200x258.jpg" data-src-320x413="https://edge.ldscdn.org/mobile/images/1974888/ac09aa32adb3457b9b5957a0556750b5/320x413.jpg" data-src-460x594="https://edge.ldscdn.org/mobile/images/1974888/ac09aa32adb3457b9b5957a0556750b5/460x594.jpg" data-src-640x826="https://edge.ldscdn.org/mobile/images/1974888/ac09aa32adb3457b9b5957a0556750b5/640x826.jpg" data-src-1024x1323="https://edge.ldscdn.org/mobile/images/1974888/ac09aa32adb3457b9b5957a0556750b5/1024x1323.jpg" data-src-1393x1800="https://edge.ldscdn.org/mobile/images/1974888/ac09aa32adb3457b9b5957a0556750b5/1393x1800.jpg" altText="Girish Ghimire" pid="VNduhnR9qEWTVUpaV49b9A" hash="AAAAAA2"></img></a>
-			<p class="para" uri="/general-conference/2017/10/i-have-a-work-for-thee.p6" pid="n9pw14Nkc0mzNHocB70MwQ" hash="PZexDQ">Consider Girish Ghimire, who was born and raised in the country of Nepal. As a teenager, he studied in China, where a classmate introduced him to the gospel of Jesus Christ. Eventually, Girish came to Brigham Young University for graduate work and met his future wife. They settled in the Salt Lake Valley and adopted two children from Nepal.</p>
-			<p class="para" uri="/general-conference/2017/10/i-have-a-work-for-thee.p7" pid="qEuCg2ls_ES5REv5PDrSyw" hash="vBrZzA">Years later, when more than 1,500 refugees from camps in Nepal were relocated to Utah,<span class="noteMarker" ref="f_1">1</span> Girish felt inspired to help. With native-language fluency and cultural understanding, Girish served as an interpreter, teacher, and mentor. After resettling in the community, some of the Nepali refugees demonstrated interest in the gospel. A Nepali-speaking branch was organized, and Girish later served as its branch president. He was also instrumental in translating the Book of Mormon into Nepali.</p>
-			<a href="gl://image/?pid=wXzNoUFQ-EKsJ25RQ8Z3aA"><img xmlns="" xmlns:xi="http://www.w3.org/2001/XInclude" src="https://edge.ldscdn.org/mobile/images/1974889/37b11fa525cf421798b56a14ae709e1c/100x103.jpg" data-multi-src="true" data-src-50x51="https://edge.ldscdn.org/mobile/images/1974889/37b11fa525cf421798b56a14ae709e1c/50x51.jpg" data-src-100x103="https://edge.ldscdn.org/mobile/images/1974889/37b11fa525cf421798b56a14ae709e1c/100x103.jpg" data-src-200x207="https://edge.ldscdn.org/mobile/images/1974889/37b11fa525cf421798b56a14ae709e1c/200x207.jpg" data-src-320x331="https://edge.ldscdn.org/mobile/images/1974889/37b11fa525cf421798b56a14ae709e1c/320x331.jpg" data-src-460x476="https://edge.ldscdn.org/mobile/images/1974889/37b11fa525cf421798b56a14ae709e1c/460x476.jpg" data-src-640x663="https://edge.ldscdn.org/mobile/images/1974889/37b11fa525cf421798b56a14ae709e1c/640x663.jpg" data-src-1024x1061="https://edge.ldscdn.org/mobile/images/1974889/37b11fa525cf421798b56a14ae709e1c/1024x1061.jpg" data-src-1737x1800="https://edge.ldscdn.org/mobile/images/1974889/37b11fa525cf421798b56a14ae709e1c/1737x1800.jpg" altText="Girish Ghimire with Nepali Book of Mormon" pid="wXzNoUFQ-EKsJ25RQ8Z3aA" hash="AAAAAA1"></img></a>
-			<p class="para" uri="/general-conference/2017/10/i-have-a-work-for-thee.p8" pid="ryvzyuXNoUCPmj8XMDHnnA" hash="XHG8uA">Can you see how Heavenly Father prepared and is using Girish?</p>
-			<div class="topic" uri="/general-conference/2017/10/i-have-a-work-for-thee.t1">
-				<h2 pid="PfLuRapOjEyJtZ8fqlPElw" hash="IJr1gQ">God Has a Work for Each of Us</h2>
-				<p class="para" uri="/general-conference/2017/10/i-have-a-work-for-thee.p10" pid="GrTbd1I2IEiHxZsAe2JXbQ" hash="LMkcjA">Brothers and sisters, God has important work for each of us. Speaking to sisters but teaching truths that apply to all, President Spencer W. Kimball taught: “Before we came [to earth, we] were given certain assignments. … While we do not now remember the particulars, this does not alter the glorious reality of what we once agreed to.”<span class="noteMarker" ref="f_2">2</span> What an ennobling truth! Our Heavenly Father has specific and significant things for you and me to accomplish (see <a href="/scriptures/nt/eph/2.10" class="scriptureRef">Ephesians 2:10</a>).</p>
-				<p class="para" uri="/general-conference/2017/10/i-have-a-work-for-thee.p11" pid="5otbKu2x7k6mOJvhlBQ-wQ" hash="XEHTBA">These divine assignments are not reserved for a privileged few but are for all of us—regardless of gender, age, race, nationality, income level, social status, or Church calling. Every one of us has a meaningful role to play in furthering God’s work (see <a href="/scriptures/pgp/moses/1.39" class="scriptureRef">Moses 1:39</a>).</p>
-				<p class="para" uri="/general-conference/2017/10/i-have-a-work-for-thee.p12" pid="J0dad7urXkyfHA1eQEBEkg" hash="wgMYJA">Some of us question whether Heavenly Father can use <span class="emphasis">us</span> to make important contributions. But remember, He has always used ordinary people to accomplish extraordinary things (see <a href="/scriptures/nt/1-cor/1.27-28" class="scriptureRef">1 Corinthians 1:27–28</a>; <a href="/scriptures/dc-testament/dc/35.13" class="scriptureRef">D&amp;C 35:13</a>; <a href="/scriptures/dc-testament/dc/124.1" class="scriptureRef">124:1</a>). “[We] are agents,” and “the power is in [us]” to “bring to pass much righteousness” (<a href="/scriptures/dc-testament/dc/58.27-28" class="scriptureRef">D&amp;C 58:27–28</a>).<span class="noteMarker" ref="f_3">3</span></p>
-				<p class="para" uri="/general-conference/2017/10/i-have-a-work-for-thee.p13" pid="NKNzfiej6Eu_Xqzn6KiBaw" hash="kJofxg">President Russell M. Nelson explained:</p>
-				<p class="para" uri="/general-conference/2017/10/i-have-a-work-for-thee.p14" pid="72qU117ao0a_pyz691SRVw" hash="3C4XSQ">“The Lord has more in mind for you than you have in mind for yourself! You have been reserved and preserved for this time and place. …</p>
-				<p class="para" uri="/general-conference/2017/10/i-have-a-work-for-thee.p15" pid="xICwee8-D0eRHzy-QOH-Kw" hash="CbeTyQ">“The Lord needs you to change the world. As you accept and follow His will for you, you will find yourself accomplishing the impossible!”<span class="noteMarker" ref="f_4">4</span></p>
-				<p class="para" uri="/general-conference/2017/10/i-have-a-work-for-thee.p16" pid="kVhhEnyhmkewme8e368plA" hash="f48m7w">So how do we come to understand and perform the work God intends for us? Let me share four principles that will help.</p>
-			</div>
-			<div class="topic" uri="/general-conference/2017/10/i-have-a-work-for-thee.t2">
-				<h2 pid="NH5LfToVqEy2XZmgYkRCFg" hash="ImzyIA">Focus on Others</h2>
-				<p class="para" uri="/general-conference/2017/10/i-have-a-work-for-thee.p18" pid="lNRihnItIk6vjhvNexv9pQ" hash="PgNKRA">First, focus on others. We can follow Christ, “who went about doing good” (<a href="/scriptures/nt/acts/10.38" class="scriptureRef">Acts 10:38</a>; see also <a href="/scriptures/bofm/2-ne/26.24" class="scriptureRef">2 Nephi 26:24</a>).</p>
-				<p class="para" uri="/general-conference/2017/10/i-have-a-work-for-thee.p19" pid="TY_ALw9uSU2VzcxyJclNNg" hash="w443Yg">After returning from a full-time mission, I missed the daily purpose I had enjoyed. Clearly, I needed to keep my covenants, get an education, start a family, and earn a living. But I wondered if there was something more, or even special, that the Lord wanted me to do. After pondering for several months, I came across this verse: “If you desire, you shall be the means of doing much good in this generation” (<a href="/scriptures/dc-testament/dc/11.8" class="scriptureRef">D&amp;C 11:8</a>). The Spirit helped me understand that the primary purpose of divine assignments is to bless others and to do “much good.”</p>
-				<p class="para" uri="/general-conference/2017/10/i-have-a-work-for-thee.p20" pid="ziUc98Jw50ivVsXB6EE5dg" hash="TW5DSQ">We can approach decision points in our lives—like what to study, what to do for work, or where to live—in the context of helping others.</p>
-				<p class="para" uri="/general-conference/2017/10/i-have-a-work-for-thee.p21" pid="pVQWwk6q7Uy3C37kVdIWMw" hash="4_iy9A">One family moved to a new city. Instead of finding a home in an affluent neighborhood, they felt impressed to locate to an area with considerable social and economic needs. Over the years, the Lord has worked through them to support many individuals and to build up their ward and stake.</p>
-				<p class="para" uri="/general-conference/2017/10/i-have-a-work-for-thee.p22" pid="ud0JXDiy9EOFXdNIUIddnw" hash="UJcF5A">A medical professional maintained a typical practice but felt guided to set aside one day each week to provide free care to individuals with no health insurance. Because of this man’s and his wife’s willingness to bless others, the Lord provided a way for them to support hundreds of patients in need while also raising their large family.</p>
-			</div>
-			<div class="topic" uri="/general-conference/2017/10/i-have-a-work-for-thee.t3">
-				<h2 pid="vAFjSgrpBUCt9n-bZBIB2A" hash="xdqpYg">Discover and Develop Spiritual Gifts</h2>
-				<p class="para" uri="/general-conference/2017/10/i-have-a-work-for-thee.p24" pid="Ni90CKWplEmlahIpW1qvkw" hash="ljNXQQ">Second, discover and develop spiritual gifts. Heavenly Father gave us these gifts to help us identify, perform, and enjoy the work He has for us.</p>
-				<p class="para" uri="/general-conference/2017/10/i-have-a-work-for-thee.p25" pid="dMfZyWo5YEaebimlWNfGWw" hash="VgY8yg">Some of us wonder, “Do I have <span class="emphasis">any</span> gifts?” Again, the answer is yes! “To <span class="emphasis">every</span> man [and woman] is given a gift by the Spirit of God … that all may be profited thereby” (<a href="/scriptures/dc-testament/dc/46.11-12" class="scriptureRef">D&amp;C 46:11–12</a>; emphasis added).<span class="noteMarker" ref="f_5">5</span> A number of spiritual gifts are documented in scripture (see <a href="/scriptures/nt/1-cor/12.1-11,31" class="scriptureRef">1 Corinthians 12:1–11, 31</a>; <a href="/scriptures/bofm/moro/10.8-18" class="scriptureRef">Moroni 10:8–18</a>; <a href="/scriptures/dc-testament/dc/46.8-26" class="scriptureRef">D&amp;C 46:8–26</a>), but there are many others.<span class="noteMarker" ref="f_6">6</span> Some might include having compassion, expressing hope, relating well with people, organizing effectively, speaking or writing persuasively, teaching clearly, and working hard.</p>
-				<p class="para" uri="/general-conference/2017/10/i-have-a-work-for-thee.p26" pid="-sGvprrPR0KYp-6RgqI9kA" hash="jN0CBg">So how do we come to know our gifts? We can reference our patriarchal blessing, ask those who know us best, and personally identify what we are naturally good at and enjoy. Most important, we can ask God (see <a href="/scriptures/nt/james/1.5" class="scriptureRef">James 1:5</a>; <a href="/scriptures/dc-testament/dc/112.10" class="scriptureRef">D&amp;C 112:10</a>). He knows our gifts, since He gave them to us (see <a href="/scriptures/dc-testament/dc/46.26" class="scriptureRef">D&amp;C 46:26</a>).</p>
-				<p class="para" uri="/general-conference/2017/10/i-have-a-work-for-thee.p27" pid="ubjv0k4y7kyLTjEBhFQ6kg" hash="gfxVsg">As we discover our gifts, we have a responsibility to develop them (see <a href="/scriptures/nt/matt/25.14-30" class="scriptureRef">Matthew 25:14–30</a>). Even Jesus Christ “received not of the fulness at first, but [developed] from grace to grace” (<a href="/scriptures/dc-testament/dc/93.13" class="scriptureRef">D&amp;C 93:13</a>).</p>
-				<a href="gl://image/?pid=ZCampUoaHkex9Cpv3b4F2g"><img xmlns="" src="https://edge.ldscdn.org/mobile/images/1974890/fc8f7baf29b4419da2d85679f60c3030/100x123.jpg" data-multi-src="true" data-src-50x61="https://edge.ldscdn.org/mobile/images/1974890/fc8f7baf29b4419da2d85679f60c3030/50x61.jpg" data-src-100x123="https://edge.ldscdn.org/mobile/images/1974890/fc8f7baf29b4419da2d85679f60c3030/100x123.jpg" data-src-200x246="https://edge.ldscdn.org/mobile/images/1974890/fc8f7baf29b4419da2d85679f60c3030/200x246.jpg" data-src-320x393="https://edge.ldscdn.org/mobile/images/1974890/fc8f7baf29b4419da2d85679f60c3030/320x393.jpg" data-src-460x565="https://edge.ldscdn.org/mobile/images/1974890/fc8f7baf29b4419da2d85679f60c3030/460x565.jpg" data-src-640x787="https://edge.ldscdn.org/mobile/images/1974890/fc8f7baf29b4419da2d85679f60c3030/640x787.jpg" data-src-878x1080="https://edge.ldscdn.org/mobile/images/1974890/fc8f7baf29b4419da2d85679f60c3030/878x1080.jpg" altText="Painting of the Savior by Ben Simonsen" pid="ZCampUoaHkex9Cpv3b4F2g" hash="AAAAAA"></img></a>
-				<p class="para" uri="/general-conference/2017/10/i-have-a-work-for-thee.p28" pid="9pSB6W85e0KDvsolUpF15A" hash="mApAsA">One young man produced illustrations to promote religious values. My favorite is a portrait of the Savior, a copy of which hangs in our home. This brother developed and used his artistic gifts. Working through him, Heavenly Father has inspired others to improve their discipleship.</p>
-				<p class="para" uri="/general-conference/2017/10/i-have-a-work-for-thee.p29" pid="YLfyVtAw-UOGph5BPhuS3g" hash="fBOY5w">Sometimes we feel that we don’t have any particularly important gifts. One day, a discouraged sister pleaded, “Lord, what is my personal ministry?” He answered, “Notice others.” It was a spiritual gift! Since then, she has found joy in noticing those who are regularly forgotten, and God has worked through her to bless many. While some spiritual gifts may not be prominent by the world’s standards, they are essential to God and His work.<span class="noteMarker" ref="f_7">7</span></p>
-			</div>
-			<div class="topic" uri="/general-conference/2017/10/i-have-a-work-for-thee.t4">
-				<h2 pid="uswD4ZIsXU2Qfpq6SxTKMA" hash="anK5aA">Make Use of Adversity</h2>
-				<p class="para" uri="/general-conference/2017/10/i-have-a-work-for-thee.p31" pid="gPmIp4BA4EeZCJSnTXYu9w" hash="I3aeOw">Third, make use of adversity. Our trials help us discover and prepare for the work Heavenly Father has for us. Alma explained, “After much tribulation, the Lord … made me an instrument in his hands” (<a href="/scriptures/bofm/mosiah/23.10" class="scriptureRef">Mosiah 23:10</a>).<span class="noteMarker" ref="f_8">8</span> Like the Savior, whose atoning sacrifice enables Him to succor us (see <a href="/scriptures/bofm/alma/7.11-12" class="scriptureRef">Alma 7:11–12</a>), we can use knowledge gained from difficult experiences to lift, strengthen, and bless others.</p>
-				<p class="para" uri="/general-conference/2017/10/i-have-a-work-for-thee.p32" pid="uvEeRolroUudGTfy3luGbg" hash="sM41yw">After a successful human resources executive was laid off, he read his patriarchal blessing and felt inspired to start a company to help other professionals find employment. (He even helped me find work when our family returned from serving a mission.) The Lord used his trial as a stepping-stone to bless others, while providing him with a more meaningful career.</p>
-				<p class="para" uri="/general-conference/2017/10/i-have-a-work-for-thee.p33" pid="8axV_5ayM0uLzNi6RLJNmw" hash="9nDKQQ">A young couple experienced a stillbirth. With broken hearts, they decided to honor their daughter by providing counseling and material support to parents enduring similar situations. The Lord has worked through this couple because of their specialized empathy, developed through adversity.</p>
-			</div>
-			<div class="topic" uri="/general-conference/2017/10/i-have-a-work-for-thee.t5">
-				<h2 pid="4erzeBsr5kynKLC0S5DA7A" hash="35O4Qw">Rely on God</h2>
-				<p class="para" uri="/general-conference/2017/10/i-have-a-work-for-thee.p35" pid="Qk6EXIH8L0KdncocSvjCeQ" hash="BExChg">And fourth, rely on God. When we ask Him in faith with real intent, He will reveal our divine assignments to us.<span class="noteMarker" ref="f_9">9</span> Once we discover them, He will help us fulfill those assignments. “All things are present before [His] eyes” (<a href="/scriptures/dc-testament/dc/38.2" class="scriptureRef">D&amp;C 38:2</a>; see also <a href="/scriptures/pgp/abr/2.8" class="scriptureRef">Abraham 2:8</a>), and at the right times, He will open the doors necessary for us (see <a href="/scriptures/nt/rev/3.8" class="scriptureRef">Revelation 3:8</a>). He even sent His Son, Jesus Christ, so that we can depend on Him for strength beyond our natural abilities (see <a href="/scriptures/nt/philip/4.13" class="scriptureRef">Philippians 4:13</a>; <a href="/scriptures/bofm/alma/26.12" class="scriptureRef">Alma 26:12</a>).</p>
-				<p class="para" uri="/general-conference/2017/10/i-have-a-work-for-thee.p36" pid="3YY_ko36PUeRQ35dskepcQ" hash="nhTAaQ">One brother, concerned with local government decisions, felt impressed to run for public office. Despite a daunting campaign process, he exercised faith and gathered the resources to run. Ultimately, he did not win but felt the Lord gave him guidance and strength to raise issues important to the community.</p>
-				<p class="para" uri="/general-conference/2017/10/i-have-a-work-for-thee.p37" pid="JPaDqFJFuEuo0L4aHdr2Ag" hash="2Vh4-A">A single mother, raising children with developmental disabilities, questioned whether she could adequately meet her family’s needs. Though it has been difficult, she feels strengthened by the Lord to fulfill her most important mission successfully.</p>
-			</div>
-			<div class="topic" uri="/general-conference/2017/10/i-have-a-work-for-thee.t6">
-				<h2 pid="QG3O6RMKi0a6G0fX4fkRvQ" hash="qgZj2w">A Word of Warning</h2>
-				<p class="para" uri="/general-conference/2017/10/i-have-a-work-for-thee.p39" pid="pce9aMxBd0axfZIQHDTijw" hash="9dGWww">At the same time God helps us fulfill divine assignments, the adversary works to distract and dissuade us from a life of meaning.</p>
-				<p class="para" uri="/general-conference/2017/10/i-have-a-work-for-thee.p40" pid="vjZAR-oBZ0SsnlGgdWenHA" hash="2qH1Gg">Sin is perhaps our greatest stumbling block, dulling our sensitivity to the Holy Ghost and restricting our access to spiritual power. To perform the work Heavenly Father has for us, we must strive to be clean (see <a href="/scriptures/bofm/3-ne/8.1" class="scriptureRef">3 Nephi 8:1</a>). Are we living in such a way that God can work through us?</p>
-				<p class="para" uri="/general-conference/2017/10/i-have-a-work-for-thee.p41" pid="tWmYsP2YD0eO57ipBDf6Ig" hash="rwpvfA">Satan also seeks to distract us with less important matters. The Lord warned an early Church leader, “Your mind has been on the things of the earth more than on the things of me … and the ministry whereunto you have been called” (<a href="/scriptures/dc-testament/dc/30.2" class="scriptureRef">D&amp;C 30:2</a>). Are we so preoccupied with worldly things that we are diverted from our divine assignments?</p>
-				<p class="para" uri="/general-conference/2017/10/i-have-a-work-for-thee.p42" pid="TlEJIinYZ0yrs58IMNhkJA" hash="BhFnTg">In addition, Satan discourages us with feelings of inadequacy. He makes our work appear too difficult or intimidating. However, we can trust God! He loves us. He wants us to succeed. He “doth go before [us]; he will be with [us], he will not fail [us]” (<a href="/scriptures/ot/deut/31.8" class="scriptureRef">Deuteronomy 31:8</a>; see also <a href="/scriptures/ot/ps/32.8" class="scriptureRef">Psalm 32:8</a>; <a href="/scriptures/ot/prov/3.5-6" class="scriptureRef">Proverbs 3:5–6</a>; <a href="/scriptures/nt/matt/19.26" class="scriptureRef">Matthew 19:26</a>; <a href="/scriptures/dc-testament/dc/78.18" class="scriptureRef">D&amp;C 78:18</a>).</p>
-				<p class="para" uri="/general-conference/2017/10/i-have-a-work-for-thee.p43" pid="X3AL4vEBWkqRnCGpEfPLeA" hash="x76ewA">Satan may also coax us to view our work as less valuable than the work assigned to others. But every assignment from God is important, and we will find fulfillment as we “glory in that which the Lord hath commanded [us]” (<a href="/scriptures/bofm/alma/29.9" class="scriptureRef">Alma 29:9</a>).</p>
-				<p class="para" uri="/general-conference/2017/10/i-have-a-work-for-thee.p44" pid="DtcAC1wp0kioitZ8LWVLJw" hash="r75GRQ">As God works through us, the adversary may tempt us to take credit for any accomplishments. However, we can emulate the Savior’s humility by deflecting personal praise and glorifying the Father (see <a href="/scriptures/nt/matt/5.16" class="scriptureRef">Matthew 5:16</a>; <a href="/scriptures/pgp/moses/4.2" class="scriptureRef">Moses 4:2</a>). When a reporter tried to recognize Mother Teresa for her life’s mission to help the poor, she retorted: “It’s [God’s] work. I am like a … pencil in his hand. … He does the thinking. He does the writing. The pencil has nothing to do with it. The pencil has only to be allowed to be used.”<span class="noteMarker" ref="f_10">10</span></p>
-			</div>
-			<div class="topic" uri="/general-conference/2017/10/i-have-a-work-for-thee.t7">
-				<h2 pid="CYHp2eM9dEqZe1a6VvgFIw" hash="JZFLeA">Conclusion</h2>
-				<p class="para" uri="/general-conference/2017/10/i-have-a-work-for-thee.p46" pid="0gF4X6x7BUiX-3ZG-VOz5w" hash="hfQTlA">My beloved brothers and sisters, I invite each of us to “yield [ourselves] unto God … as instruments of righteousness” (<a href="/scriptures/nt/rom/6.13" class="scriptureRef">Romans 6:13</a>). Yielding ourselves involves letting Him know we want to be of use, seeking His direction, and accessing His strength.</p>
-				<p class="para" uri="/general-conference/2017/10/i-have-a-work-for-thee.p47" pid="FJ3ZyPTPiU-rQ2NzQ3fuLw" hash="ufT1WQ">As always, we can look to Jesus Christ, our perfect example. In the pre-earth life, Heavenly Father asked, “Whom shall I send?”</p>
-				<p class="para" uri="/general-conference/2017/10/i-have-a-work-for-thee.p48" pid="cunV65OYz02Xp-9g34BSqw" hash="YcbUtA">And Jesus answered, “Here am I, send me” (<a href="/scriptures/pgp/abr/3.27" class="scriptureRef">Abraham 3:27</a>; see also <a href="/scriptures/ot/isa/6.8" class="scriptureRef">Isaiah 6:8</a>).</p>
-				<p class="para" uri="/general-conference/2017/10/i-have-a-work-for-thee.p49" pid="il7Jku1vB0qjTsp4hU_S7g" hash="WX_OKQ">Jesus Christ accepted, prepared for, and performed His preordained role as our Savior and Redeemer. He did the Father’s will (see <a href="/scriptures/nt/john/5.30" class="scriptureRef">John 5:30</a>; <a href="/scriptures/nt/john/6.38" class="scriptureRef">6:38</a>; <a href="/scriptures/bofm/3-ne/27.13" class="scriptureRef">3 Nephi 27:13</a>) and completed His divine assignments.</p>
-				<p class="para" uri="/general-conference/2017/10/i-have-a-work-for-thee.p50" pid="Mc1jSW87ekudbWAGVfaXbA" hash="LUtADw">As we follow Christ’s example and yield ourselves to God, I testify that He will also use us to further His work and to bless others. In the name of Jesus Christ, amen.</p>
-			</div>
-		</div>
-		
-	</div>]]></content:encoded>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="32"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/9f4e7bc29cc314a3885f2e2547612aa0782c0f2c/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/9f4e7bc29cc314a3885f2e2547612aa0782c0f2c/full/%21192%2C/0/default" data-video-title="&quot;I Have a Work for Thee&quot;" data-video-description="Elder Pingree testifies that God has a work for all of us. He also shares principles to help us perform that work and warns of ways Satan will oppose us." data-video-id="5594221483001" data-ip="Download and Streaming                            " data-duration="625000" data-assetId="efa90d55d07a3634eb5c5acba10c7942e0ac600d" data-ref-id="efa90d55d07a3634eb5c5acba10c7942e0ac600d" data-duration-string="10:25" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/5594221483001.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="191621149"/><source src="https://assets.churchofjesuschrist.org/efa90d55d07a3634eb5c5acba10c7942e0ac600d-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="41877551"/><source src="https://assets.churchofjesuschrist.org/efa90d55d07a3634eb5c5acba10c7942e0ac600d-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="70656626"/><source src="https://assets.churchofjesuschrist.org/efa90d55d07a3634eb5c5acba10c7942e0ac600d-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="191621149"/></video><h1 data-aid="134631786" id="title1">“I Have a Work for Thee”</h1>
+<div class="byline">
+<p class="author-name" data-aid="134631787" id="p1">By Elder John C. Pingree Jr.</p>
+<p class="author-role" data-aid="134631788" id="p2">Of the Seventy</p>
+<div class="image-cropper"><img alt="Elder John C. Pingree Jr." class="headshot" data-deprecate-web-url="john-pingree-jr-official-portrait-2017_1913251.jpg" id="img4" src="https://www.churchofjesuschrist.org/imgs/e960856bb77c35d95bbdb9eac83676917590af25/full/%21100%2C/0/default" data-assetId="e960856bb77c35d95bbdb9eac83676917590af25" srcset="https://www.churchofjesuschrist.org/imgs/e960856bb77c35d95bbdb9eac83676917590af25/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/e960856bb77c35d95bbdb9eac83676917590af25/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/e960856bb77c35d95bbdb9eac83676917590af25/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/e960856bb77c35d95bbdb9eac83676917590af25/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/e960856bb77c35d95bbdb9eac83676917590af25/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/e960856bb77c35d95bbdb9eac83676917590af25/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/e960856bb77c35d95bbdb9eac83676917590af25/full/%21640%2C/0/default 640w" data-img-id="e960856bb77c35d95bbdb9eac83676917590af25" data-missing-asset="false" data-width="100" data-height="139" data-aspect-ratio="0.7194244604316546" data-public-title="Pingree, John C. Jr." data-public-description="Official Portrait of Elder John C. Pingree, Jr.  Photographed in March 2017."/></div>
+</div>
+<p class="kicker" data-aid="134631789" id="kicker1">Every one of us has a meaningful role to play in furthering God’s work.</p>
+</header>
+<div class="body-block">
+<p data-aid="134631790" id="p3">To Moses, God declared, “I have a work for thee” (<a class="scripture-ref" href="/study/scriptures/pgp/moses/1?lang=eng&amp;id=p6#p6">Moses 1:6</a>). Have you ever wondered if Heavenly Father has a work for you? Are there important things He has prepared you—and specifically you—to accomplish? I testify the answer is yes!</p>
+<img alt="Girish Ghimire" id="img1" src="https://www.churchofjesuschrist.org/imgs/bbd876aeae9c7b22a02206226e720d105b12dac4/full/%21500%2C/0/default" data-assetId="bbd876aeae9c7b22a02206226e720d105b12dac4" srcset="https://www.churchofjesuschrist.org/imgs/bbd876aeae9c7b22a02206226e720d105b12dac4/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/bbd876aeae9c7b22a02206226e720d105b12dac4/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/bbd876aeae9c7b22a02206226e720d105b12dac4/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/bbd876aeae9c7b22a02206226e720d105b12dac4/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/bbd876aeae9c7b22a02206226e720d105b12dac4/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/bbd876aeae9c7b22a02206226e720d105b12dac4/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/bbd876aeae9c7b22a02206226e720d105b12dac4/full/%21640%2C/0/default 640w" data-img-id="bbd876aeae9c7b22a02206226e720d105b12dac4" data-missing-asset="false" data-width="500" data-height="646" data-aspect-ratio="0.7739938080495357" data-public-title="Girish Gemera" data-public-description="A photograph of Girish Gemera. A native of Nepal. He first heard about the Church when studying in China and eventually came to Brigham Young University and was baptized."/>
+<p data-aid="134631791" id="p4">Consider Girish Ghimire, who was born and raised in the country of Nepal. As a teenager, he studied in China, where a classmate introduced him to the gospel of Jesus Christ. Eventually, Girish came to Brigham Young University for graduate work and met his future wife. They settled in the Salt Lake Valley and adopted two children from Nepal.</p>
+<p data-aid="134631792" id="p5">Years later, when more than 1,500 refugees from camps in Nepal were relocated to Utah,<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a> Girish felt inspired to help. With native-language fluency and cultural understanding, Girish served as an interpreter, teacher, and mentor. After resettling in the community, some of the Nepali refugees demonstrated interest in the gospel. A Nepali-speaking branch was organized, and Girish later served as its branch president. He was also instrumental in translating the Book of Mormon into Nepali.</p>
+<img alt="Girish Ghimire with Nepali Book of Mormon" id="img2" src="https://www.churchofjesuschrist.org/imgs/c01d515c21f4550ba801a1cf9ea54213d0724765/full/%21500%2C/0/default" data-assetId="c01d515c21f4550ba801a1cf9ea54213d0724765" srcset="https://www.churchofjesuschrist.org/imgs/c01d515c21f4550ba801a1cf9ea54213d0724765/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/c01d515c21f4550ba801a1cf9ea54213d0724765/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/c01d515c21f4550ba801a1cf9ea54213d0724765/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/c01d515c21f4550ba801a1cf9ea54213d0724765/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/c01d515c21f4550ba801a1cf9ea54213d0724765/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/c01d515c21f4550ba801a1cf9ea54213d0724765/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/c01d515c21f4550ba801a1cf9ea54213d0724765/full/%21640%2C/0/default 640w" data-img-id="c01d515c21f4550ba801a1cf9ea54213d0724765" data-missing-asset="false" data-width="500" data-height="518" data-aspect-ratio="0.9652509652509652" data-public-title="Girish Gemera" data-public-description="A photograph of Girish Gemera. A native of Nepal. He is holding a copy of the Nepali Book of Mormon."/>
+<p data-aid="134631793" id="p6">Can you see how Heavenly Father prepared and is using Girish?</p>
+<section>
+<header>
+<h2 data-aid="134631794" id="title2">God Has a Work for Each of Us</h2>
+</header>
+<p data-aid="134631795" id="p7">Brothers and sisters, God has important work for each of us. Speaking to sisters but teaching truths that apply to all, President Spencer W. Kimball taught: “Before we came [to earth, we] were given certain assignments. … While we do not now remember the particulars, this does not alter the glorious reality of what we once agreed to.”<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a> What an ennobling truth! Our Heavenly Father has specific and significant things for you and me to accomplish (see <a class="scripture-ref" href="/study/scriptures/nt/eph/2?lang=eng&amp;id=p10#p10">Ephesians 2:10</a>).</p>
+<p data-aid="134631796" id="p8">These divine assignments are not reserved for a privileged few but are for all of us—regardless of gender, age, race, nationality, income level, social status, or Church calling. Every one of us has a meaningful role to play in furthering God’s work (see <a class="scripture-ref" href="/study/scriptures/pgp/moses/1?lang=eng&amp;id=p39#p39">Moses 1:39</a>).</p>
+<p data-aid="134631797" id="p9">Some of us question whether Heavenly Father can use <em>us</em> to make important contributions. But remember, He has always used ordinary people to accomplish extraordinary things (see <a class="scripture-ref" href="/study/scriptures/nt/1-cor/1?lang=eng&amp;id=p27-p28#p27">1 Corinthians 1:27–28</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/35?lang=eng&amp;id=p13#p13">D&amp;C 35:13</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/124?lang=eng&amp;id=p1#p1">124:1</a>). “[We] are agents,” and “the power is in [us]” to “bring to pass much righteousness” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/58?lang=eng&amp;id=p27-p28#p27">D&amp;C 58:27–28</a>).<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a></p>
+<p data-aid="134631798" id="p10">President Russell M. Nelson explained:</p>
+<p data-aid="134631799" id="p11">“The Lord has more in mind for you than you have in mind for yourself! You have been reserved and preserved for this time and place. …</p>
+<p data-aid="134631800" id="p12">“The Lord needs you to change the world. As you accept and follow <span class="page-break" data-page="33"></span>His will for you, you will find yourself accomplishing the impossible!”<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a></p>
+<p data-aid="134631801" id="p13">So how do we come to understand and perform the work God intends for us? Let me share four principles that will help.</p>
+</section>
+<section>
+<header>
+<h2 data-aid="134631802" id="title3">Focus on Others</h2>
+</header>
+<p data-aid="134631803" id="p14">First, focus on others. We can follow Christ, “who went about doing good” (<a class="scripture-ref" href="/study/scriptures/nt/acts/10?lang=eng&amp;id=p38#p38">Acts 10:38</a>; see also <a class="scripture-ref" href="/study/scriptures/bofm/2-ne/26?lang=eng&amp;id=p24#p24">2 Nephi 26:24</a>).</p>
+<p data-aid="134631804" id="p15">After returning from a full-time mission, I missed the daily purpose I had enjoyed. Clearly, I needed to keep my covenants, get an education, start a family, and earn a living. But I wondered if there was something more, or even special, that the Lord wanted me to do. After pondering for several months, I came across this verse: “If you desire, you shall be the means of doing much good in this generation” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/11?lang=eng&amp;id=p8#p8">D&amp;C 11:8</a>). The Spirit helped me understand that the primary purpose of divine assignments is to bless others and to do “much good.”</p>
+<p data-aid="134631805" id="p16">We can approach decision points in our lives—like what to study, what to do for work, or where to live—in the context of helping others.</p>
+<p data-aid="134631806" id="p17">One family moved to a new city. Instead of finding a home in an affluent neighborhood, they felt impressed to locate to an area with considerable social and economic needs. Over the years, the Lord has worked through them to support many individuals and to build up their ward and stake.</p>
+<p data-aid="134631807" id="p18">A medical professional maintained a typical practice but felt guided to set aside one day each week to provide free care to individuals with no health insurance. Because of this man’s and his wife’s willingness to bless others, the Lord provided a way for them to support hundreds of patients in need while also raising their large family.</p>
+</section>
+<section>
+<header>
+<h2 data-aid="134631808" id="title4">Discover and Develop Spiritual Gifts</h2>
+</header>
+<p data-aid="134631809" id="p19">Second, discover and develop spiritual gifts. Heavenly Father gave us these gifts to help us identify, perform, and enjoy the work He has for us.</p>
+<p data-aid="134631810" id="p20">Some of us wonder, “Do I have <em>any</em> gifts?” Again, the answer is yes! “To <em>every</em> man [and woman] is given a gift by the Spirit of God … that all may be profited thereby” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/46?lang=eng&amp;id=p11-p12#p11">D&amp;C 46:11–12</a>; emphasis added).<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a> A number of spiritual gifts are documented in scripture (see <a class="scripture-ref" href="/study/scriptures/nt/1-cor/12?lang=eng&amp;id=p1-p11%2Cp31#p1">1 Corinthians 12:1–11, 31</a>; <a class="scripture-ref" href="/study/scriptures/bofm/moro/10?lang=eng&amp;id=p8-p18#p8">Moroni 10:8–18</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/46?lang=eng&amp;id=p8-p26#p8">D&amp;C 46:8–26</a>), but there are many others.<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a> Some might include having compassion, expressing hope, relating well with people, organizing effectively, speaking or writing persuasively, teaching clearly, and working hard.</p>
+<p data-aid="134631811" id="p21">So how do we come to know our gifts? We can reference our patriarchal blessing, ask those who know us best, and personally identify what we are naturally good at and enjoy. Most important, we can ask God (see <a class="scripture-ref" href="/study/scriptures/nt/james/1?lang=eng&amp;id=p5#p5">James 1:5</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/112?lang=eng&amp;id=p10#p10">D&amp;C 112:10</a>). He knows our gifts, since He gave them to us (see <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/46?lang=eng&amp;id=p26#p26">D&amp;C 46:26</a>).</p>
+<p data-aid="134631812" id="p22">As we discover our gifts, we have a responsibility to develop them (see <a class="scripture-ref" href="/study/scriptures/nt/matt/25?lang=eng&amp;id=p14-p30#p14">Matthew 25:14–30</a>). Even Jesus Christ “received not of the fulness at first, but [developed] from grace to grace” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/93?lang=eng&amp;id=p13#p13">D&amp;C 93:13</a>).</p>
+<img alt="Painting of the Savior by Ben Simonsen" id="img3" src="https://www.churchofjesuschrist.org/imgs/534ebef66f96b7ec0423ae63f29d6dc02e18d6fb/full/%21500%2C/0/default" data-assetId="534ebef66f96b7ec0423ae63f29d6dc02e18d6fb" srcset="https://www.churchofjesuschrist.org/imgs/534ebef66f96b7ec0423ae63f29d6dc02e18d6fb/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/534ebef66f96b7ec0423ae63f29d6dc02e18d6fb/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/534ebef66f96b7ec0423ae63f29d6dc02e18d6fb/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/534ebef66f96b7ec0423ae63f29d6dc02e18d6fb/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/534ebef66f96b7ec0423ae63f29d6dc02e18d6fb/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/534ebef66f96b7ec0423ae63f29d6dc02e18d6fb/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/534ebef66f96b7ec0423ae63f29d6dc02e18d6fb/full/%21640%2C/0/default 640w" data-img-id="534ebef66f96b7ec0423ae63f29d6dc02e18d6fb" data-missing-asset="false" data-width="500" data-height="615" data-aspect-ratio="0.8130081300813008" data-public-title="The Christ" data-public-description="The Christ, by Ben Simonsen"/>
+<p data-aid="134631813" id="p23">One young man produced illustrations to promote religious values. My favorite is a portrait of the Savior, a copy of which hangs in our home. This brother developed and used his artistic gifts. Working through him, Heavenly Father has inspired others to improve their discipleship.</p>
+<p data-aid="134631814" id="p24">Sometimes we feel that we don’t have any particularly important gifts. One day, a discouraged sister pleaded, <span class="page-break" data-page="34"></span>“Lord, what is my personal ministry?” He answered, “Notice others.” It was a spiritual gift! Since then, she has found joy in noticing those who are regularly forgotten, and God has worked through her to bless many. While some spiritual gifts may not be prominent by the world’s standards, they are essential to God and His work.<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a></p>
+</section>
+<section>
+<header>
+<h2 data-aid="134631815" id="title5">Make Use of Adversity</h2>
+</header>
+<p data-aid="134631816" id="p25">Third, make use of adversity. Our trials help us discover and prepare for the work Heavenly Father has for us. Alma explained, “After much tribulation, the Lord … made me an instrument in his hands” (<a class="scripture-ref" href="/study/scriptures/bofm/mosiah/23?lang=eng&amp;id=p10#p10">Mosiah 23:10</a>).<a class="note-ref" href="#note8"><sup class="marker" data-value="8"></sup></a> Like the Savior, whose atoning sacrifice enables Him to succor us (see <a class="scripture-ref" href="/study/scriptures/bofm/alma/7?lang=eng&amp;id=p11-p12#p11">Alma 7:11–12</a>), we can use knowledge gained from difficult experiences to lift, strengthen, and bless others.</p>
+<p data-aid="134631817" id="p26">After a successful human resources executive was laid off, he read his patriarchal blessing and felt inspired to start a company to help other professionals find employment. (He even helped me find work when our family returned from serving a mission.) The Lord used his trial as a stepping-stone to bless others, while providing him with a more meaningful career.</p>
+<p data-aid="134631818" id="p27">A young couple experienced a stillbirth. With broken hearts, they decided to honor their daughter by providing counseling and material support to parents enduring similar situations. The Lord has worked through this couple because of their specialized empathy, developed through adversity.</p>
+</section>
+<section>
+<header>
+<h2 data-aid="134631819" id="title6">Rely on God</h2>
+</header>
+<p data-aid="134631820" id="p28">And fourth, rely on God. When we ask Him in faith with real intent, He will reveal our divine assignments to us.<a class="note-ref" href="#note9"><sup class="marker" data-value="9"></sup></a> Once we discover them, He will help us fulfill those assignments. “All things are present before [His] eyes” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/38?lang=eng&amp;id=p2#p2">D&amp;C 38:2</a>; see also <a class="scripture-ref" href="/study/scriptures/pgp/abr/2?lang=eng&amp;id=p8#p8">Abraham 2:8</a>), and at the right times, He will open the doors necessary for us (see <a class="scripture-ref" href="/study/scriptures/nt/rev/3?lang=eng&amp;id=p8#p8">Revelation 3:8</a>). He even sent His Son, Jesus Christ, so that we can depend on Him for strength beyond our natural abilities (see <a class="scripture-ref" href="/study/scriptures/nt/philip/4?lang=eng&amp;id=p13#p13">Philippians 4:13</a>; <a class="scripture-ref" href="/study/scriptures/bofm/alma/26?lang=eng&amp;id=p12#p12">Alma 26:12</a>).</p>
+<p data-aid="134631821" id="p29">One brother, concerned with local government decisions, felt impressed to run for public office. Despite a daunting campaign process, he exercised faith and gathered the resources to run. Ultimately, he did not win but felt the Lord gave him guidance and strength to raise issues important to the community.</p>
+<p data-aid="134631822" id="p30">A single mother, raising children with developmental disabilities, questioned whether she could adequately meet her family’s needs. Though it has been difficult, she feels strengthened by the Lord to fulfill her most important mission successfully.</p>
+</section>
+<section>
+<header>
+<h2 data-aid="134631823" id="title7">A Word of Warning</h2>
+</header>
+<p data-aid="134631824" id="p31">At the same time God helps us fulfill divine assignments, the adversary works to distract and dissuade us from a life of meaning.</p>
+<p data-aid="134631825" id="p32">Sin is perhaps our greatest stumbling block, dulling our sensitivity to the Holy Ghost and restricting our access to spiritual power. To perform the work Heavenly Father has for us, we must strive to be clean (see <a class="scripture-ref" href="/study/scriptures/bofm/3-ne/8?lang=eng&amp;id=p1#p1">3 Nephi 8:1</a>). Are we living in such a way that God can work through us?</p>
+<p data-aid="134631826" id="p33">Satan also seeks to distract us with less important matters. The Lord warned an early Church leader, “Your mind has been on the things of the earth more than on the things of me … and the ministry whereunto you <span class="page-break" data-page="35"></span>have been called” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/30?lang=eng&amp;id=p2#p2">D&amp;C 30:2</a>). Are we so preoccupied with worldly things that we are diverted from our divine assignments?</p>
+<p data-aid="134631827" id="p34">In addition, Satan discourages us with feelings of inadequacy. He makes our work appear too difficult or intimidating. However, we can trust God! He loves us. He wants us to succeed. He “doth go before [us]; he will be with [us], he will not fail [us]” (<a class="scripture-ref" href="/study/scriptures/ot/deut/31?lang=eng&amp;id=p8#p8">Deuteronomy 31:8</a>; see also <a class="scripture-ref" href="/study/scriptures/ot/ps/32?lang=eng&amp;id=p8#p8">Psalm 32:8</a>; <a class="scripture-ref" href="/study/scriptures/ot/prov/3?lang=eng&amp;id=p5-p6#p5">Proverbs 3:5–6</a>; <a class="scripture-ref" href="/study/scriptures/nt/matt/19?lang=eng&amp;id=p26#p26">Matthew 19:26</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/78?lang=eng&amp;id=p18#p18">D&amp;C 78:18</a>).</p>
+<p data-aid="134631828" id="p35">Satan may also coax us to view our work as less valuable than the work assigned to others. But every assignment from God is important, and we will find fulfillment as we “glory in that which the Lord hath commanded [us]” (<a class="scripture-ref" href="/study/scriptures/bofm/alma/29?lang=eng&amp;id=p9#p9">Alma 29:9</a>).</p>
+<p data-aid="134631829" id="p36">As God works through us, the adversary may tempt us to take credit for any accomplishments. However, we can emulate the Savior’s humility by deflecting personal praise and glorifying the Father (see <a class="scripture-ref" href="/study/scriptures/nt/matt/5?lang=eng&amp;id=p16#p16">Matthew 5:16</a>; <a class="scripture-ref" href="/study/scriptures/pgp/moses/4?lang=eng&amp;id=p2#p2">Moses 4:2</a>). When a reporter tried to recognize Mother Teresa for her life’s mission to help the poor, she retorted: “It’s [God’s] work. I am like a … pencil in his hand. … He does the thinking. He does the writing. The pencil has nothing to do with it. The pencil has only to be allowed to be used.”<a class="note-ref" href="#note10"><sup class="marker" data-value="10"></sup></a></p>
+</section>
+<section>
+<header>
+<h2 data-aid="134631830" id="title8">Conclusion</h2>
+</header>
+<p data-aid="134631831" id="p37">My beloved brothers and sisters, I invite each of us to “yield [ourselves] unto God … as instruments of righteousness” (<a class="scripture-ref" href="/study/scriptures/nt/rom/6?lang=eng&amp;id=p13#p13">Romans 6:13</a>). Yielding ourselves involves letting Him know we want to be of use, seeking His direction, and accessing His strength.</p>
+<p data-aid="134631832" id="p38">As always, we can look to Jesus Christ, our perfect example. In the pre-earth life, Heavenly Father asked, “Whom shall I send?”</p>
+<p data-aid="134631833" id="p39">And Jesus answered, “Here am I, send me” (<a class="scripture-ref" href="/study/scriptures/pgp/abr/3?lang=eng&amp;id=p27#p27">Abraham 3:27</a>; see also <a class="scripture-ref" href="/study/scriptures/ot/isa/6?lang=eng&amp;id=p8#p8">Isaiah 6:8</a>).</p>
+<p data-aid="134631834" id="p40">Jesus Christ accepted, prepared for, and performed His preordained role as our Savior and Redeemer. He did the Father’s will (see <a class="scripture-ref" href="/study/scriptures/nt/john/5?lang=eng&amp;id=p30#p30">John 5:30</a>; <a class="scripture-ref" href="/study/scriptures/nt/john/6?lang=eng&amp;id=p38#p38">6:38</a>; <a class="scripture-ref" href="/study/scriptures/bofm/3-ne/27?lang=eng&amp;id=p13#p13">3 Nephi 27:13</a>) and completed His divine assignments.</p>
+<p data-aid="134631835" id="p41">As we follow Christ’s example and yield ourselves to God, I testify that He will also use us to further His work and to bless others. In the name of Jesus Christ, amen.</p>
+</section>
+</div>
+<footer class="notes">
+<p class="title" data-aid="134631836" id="notetitle1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="134631837" id="note1_p1">See Refugee Processing Center, “Admissions and Arrivals,” ireports.wrapsnet.org/Interactive-Reporting.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="134631838" id="note2_p1">Spencer W. Kimball, “<a class="cross-ref" href="/study/general-conference/1979/10/the-role-of-righteous-women?lang=eng">The Role of Righteous Women</a>,” <em>Ensign,</em> Nov. 1979, 102.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="134631839" id="note3_p1">President Gordon B. Hinckley encouraged: “Believe in yourself. Believe in your capacity to do great … things. … You are a child of God, of infinite capacity” (<em><a class="cross-ref" href="/study/manual/teachings-of-presidents-of-the-church-gordon-b-hinckley/chapter-3-cultivating-an-attitude-of-happiness-and-a-spirit-of-optimism?lang=eng">Teachings of Presidents of the Church: Gordon B. Hinckley</a></em> [2016], 77).</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="134631840" id="note4_p1">Russell M. Nelson, <em>Accomplishing the Impossible: What God Does, What We Can Do</em> (2015), 147.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="134631841" id="note5_p1">President Dieter F. Uchtdorf noted:</p>
+<p data-aid="134631842" id="note5_p2">“Our Heavenly Father sees our real potential. He knows things about us that we do not know ourselves. He prompts us during our lifetime to fulfill the measure of our creation. …</p>
+<p data-aid="134631843" id="note5_p3">“Let us resolve to follow the Savior and work with diligence to become the person we were designed to become. Let us listen to and obey the promptings of the Holy Spirit. As we do so, Heavenly Father will reveal to us things we never knew about ourselves. He will illuminate the path ahead and open our eyes to see our unknown and perhaps unimagined talents” (“<a class="cross-ref" href="/study/general-conference/2012/10/of-regrets-and-resolutions?lang=eng">Of Regrets and Resolutions</a>,” <em>Ensign</em> or <em>Liahona,</em> Nov. 2012, 22, 23).</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="134631844" id="note6_p1">Elder Bruce R. McConkie explained: “Spiritual gifts are endless in number and infinite in variety. Those listed in the revealed word are simply illustrations of the boundless outpouring of divine grace that a gracious God gives those who love and serve him” (<em>A New Witness for the Articles of Faith</em> [1985], 371).</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="134631845" id="note7_p1">Elder Marvin J. Ashton taught:</p>
+<p data-aid="134631846" id="note7_p2">“Taken at random, let me mention a few gifts that are not always evident or noteworthy but that are very important. Among these may be your gifts—gifts not so evident but nevertheless real and valuable.</p>
+<p data-aid="134631847" id="note7_p3">“Let us review some of these less-conspicuous gifts: the gift of asking; the gift of listening; the gift of hearing and using a still, small voice; the gift of being able to weep; the gift of avoiding contention; the gift of being agreeable; the gift of avoiding vain repetition; the gift of seeking that which is righteous; the gift of not passing judgment; the gift of looking to God for guidance; the gift of being a disciple; the gift of caring for others; the gift of being able to ponder; the gift of offering prayer; the gift of bearing a mighty testimony; and the gift of receiving the Holy Ghost” (“<a class="cross-ref" href="/study/general-conference/1987/10/there-are-many-gifts?lang=eng">There Are Many Gifts</a>,” <em>Ensign,</em> Nov. 1987, 20).</p>
+</li>
+<li data-marker="8." id="note8" data-full-marker="8.">
+<p data-aid="134631848" id="note8_p1">Paul also instructed, “[God] comforteth us in all our tribulation, that we may be able to comfort them which are in any trouble, by the comfort wherewith we ourselves are comforted of God” (<a class="scripture-ref" href="/study/scriptures/nt/2-cor/1?lang=eng&amp;id=p4#p4">2 Corinthians 1:4</a>).</p>
+</li>
+<li data-marker="9." id="note9" data-full-marker="9.">
+<p data-aid="134631849" id="note9_p1">Elder Richard G. Scott explained: “God has a specific plan for your life. He will reveal parts of that plan to you as you look for it with faith and consistent obedience” (“<a class="cross-ref" href="/study/general-conference/2004/04/how-to-live-well-amid-increasing-evil?lang=eng">How to Live Well amid Increasing Evil</a>,” <em>Ensign</em> or <em>Liahona,</em> May 2004, 102).</p>
+</li>
+<li data-marker="10." id="note10" data-full-marker="10.">
+<p data-aid="134631850" id="note10_p1">Mother Teresa, in Edward W. Desmond, “Interview with Mother Teresa: A Pencil in the Hand of God,” <em>Time,</em> Dec. 4, 1989, time.com.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/2017/10/i-have-a-work-for-thee</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/october-2017-general-conference/2017-09-1040-john-c-pingree-jr-64k-eng.mp3" length="5013607" type="audio/mpeg"/>
-      <pubDate>Sat, 30 Sep 2017 10:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/11c72b7110bf11ec99c6eeeeac1e03b23fe8f26b-64k-en.mp3" length="5145380" type="audio/mpeg"/>
+      <pubDate>Sat, 30 Sep 2017 10:00:00 -0600</pubDate>
+      <itunes:author>John C. Pingree Jr.</itunes:author>
+    </item>
+    <item>
+      <title>Eternal Truth</title>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2023/10/52pingree?lang=eng</link>
+      <description>Elder Pingree explains what truth is, why it is important, how we can find it, and how we should share it with others.</description>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="99"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/8705fd1967d223f9a01fefe27a5353ba245d16db/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/8705fd1967d223f9a01fefe27a5353ba245d16db/full/%21192%2C/0/default" data-video-title="Eternal Truth" data-video-description="Elder Pingree explains what truth is, why it is important, how we can find it, and how we should share it with others." data-video-id="6338207276112" data-ip="Download and Streaming                            " data-duration="640000" data-assetId="491e40d6609f11ee87c3eeeeac1e2efb1e475245" data-ref-id="7CE8989BFCA00203B6C54206075C3512DA2B6873" data-duration-string="10:40" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6338207276112/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="181134323"/><source src="https://assets.churchofjesuschrist.org/491e40d6609f11ee87c3eeeeac1e2efb1e475245-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="44214704"/><source src="https://assets.churchofjesuschrist.org/491e40d6609f11ee87c3eeeeac1e2efb1e475245-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="78080265"/><source src="https://assets.churchofjesuschrist.org/491e40d6609f11ee87c3eeeeac1e2efb1e475245-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="181134323"/></video><h1 data-aid="156931807" id="title1">Eternal Truth</h1>
+<div class="byline">
+<p class="author-name" data-aid="156931816" id="author1">By Elder John C. Pingree Jr.</p>
+<p class="author-role" data-aid="156932825" id="author2">Of the Seventy</p>
+</div>
+<p class="kicker" data-aid="156932834" id="kicker1">Our need to recognize truth has never been more important!</p>
+</header>
+<div class="body-block">
+<p data-aid="156932843" id="p1">Brothers and sisters, thank you for your devotion to God the Father and to His Son, Jesus Christ, and thank you for your love and service to each other. You truly are remarkable!</p>
+<section>
+<header>
+<h2 data-aid="156932852" id="title2">Introduction</h2>
+</header>
+<p data-aid="156932863" id="p3">After my wife, Anne, and I received a call to serve as full-time mission leaders, our family determined to learn each missionary’s name before arriving in the field. We obtained photos, created flash cards, and began studying faces and memorizing names.</p>
+<p data-aid="156932871" id="p51">Once we arrived, we held introductory conferences with the missionaries. As we mingled, I overheard our nine-year-old son:</p>
+<p data-aid="156932880" id="p52">“Nice to meet you, Sam!”</p>
+<p data-aid="156932889" id="p53">“Rachel, where are you from?”</p>
+<p data-aid="156932897" id="p54">“Wow, David, you’re tall!”</p>
+<p data-aid="156932904" id="p55">Alarmed, I went to our son and whispered, “Hey, let’s remember to refer to the missionaries as Elder or Sister.”</p>
+<p data-aid="156932911" id="p56">He gave me a puzzled look and said, “Dad, I thought we were supposed to memorize their <em>names</em>.” Our son did what he thought was right based on his understanding.</p>
+<p data-aid="156932918" id="p57">So, what is our understanding of truth in today’s world? We are constantly bombarded with strong opinions, biased reporting, and incomplete data. At the same time, the volume and sources of this information are proliferating. Our need to recognize truth has never been more important!</p>
+<p data-aid="156932926" id="p4">Truth is critical for us to establish and strengthen our relationship with God, find peace and joy, and reach our divine potential. Today, let us consider the following questions:</p>
+<ul class="bullet">
+<li>
+<p data-aid="156932936" id="p5">What is truth, and why is it important?</p>
+</li>
+<li>
+<p data-aid="156932946" id="p6">How do we find truth?</p>
+</li>
+<li>
+<p data-aid="156932957" id="p7">When we find truth, how can we share it?</p>
+</li>
+</ul>
+</section>
+<section>
+<header>
+<h2 data-aid="156932963" id="title3">Truth Is Eternal</h2>
+</header>
+<p data-aid="156932974" id="p8">The Lord has taught us in scripture that “truth is knowledge of things as they are, and as they were, and as they are to come” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/93?lang=eng&amp;id=p24#p24">Doctrine and Covenants 93:24</a>). It “was not created or made” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/93?lang=eng&amp;id=p29#p29">Doctrine and Covenants 93:29</a>) and has “no end” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/88?lang=eng&amp;id=p66#p66">Doctrine and Covenants 88:66</a>).<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a> Truth is absolute, fixed, and immutable. In other words, truth is eternal.<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a></p>
+<p data-aid="156932983" id="p9">Truth helps us avoid deception,<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a> discern good from evil,<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a> receive protection,<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a> and find comfort and healing.<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a> Truth can also guide our actions,<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a> make us free,<a class="note-ref" href="#note8"><sup class="marker" data-value="8"></sup></a> sanctify us,<a class="note-ref" href="#note9"><sup class="marker" data-value="9"></sup></a> and lead us to eternal life.<a class="note-ref" href="#note10"><sup class="marker" data-value="10"></sup></a></p>
+</section>
+<section>
+<header>
+<span class="page-break" data-page="100"></span>
+<h2 data-aid="156932992" id="title4">God Reveals Eternal Truth</h2>
+</header>
+<p data-aid="156933001" id="p10">God reveals eternal truth to us through a <em>network of revelatory relationships</em> involving Himself, Jesus Christ, the Holy Ghost, prophets, and us. Let us discuss the distinct yet interconnected roles each participant plays in this process.</p>
+<p data-aid="156933010" id="p11">First, God is <em>the</em> source of eternal truth.<a class="note-ref" href="#note11"><sup class="marker" data-value="11"></sup></a> He and His Son, Jesus Christ,<a class="note-ref" href="#note12"><sup class="marker" data-value="12"></sup></a> have a perfect understanding of truth and always act in harmony with true principles and laws.<a class="note-ref" href="#note13"><sup class="marker" data-value="13"></sup></a> This power allows Them to create and govern worlds<a class="note-ref" href="#note14"><sup class="marker" data-value="14"></sup></a> as well as to love, guide, and nurture each one of us perfectly.<a class="note-ref" href="#note15"><sup class="marker" data-value="15"></sup></a> They want <em>us</em> to understand and apply truth so <em>we</em> can enjoy the blessings They do.<a class="note-ref" href="#note16"><sup class="marker" data-value="16"></sup></a> They may impart truth in person or, more typically, through messengers such as the Holy Ghost, angels, or living prophets.</p>
+<p data-aid="156933020" id="p12">Second, the Holy Ghost testifies of all truth.<a class="note-ref" href="#note17"><sup class="marker" data-value="17"></sup></a> He reveals truths to us directly and witnesses of truth taught by others. Impressions from the Spirit typically come as thoughts to our minds and feelings to our hearts.<a class="note-ref" href="#note18"><sup class="marker" data-value="18"></sup></a></p>
+<p data-aid="156933029" id="p14">Third, prophets receive truth from God and share that truth with us.<a class="note-ref" href="#note19"><sup class="marker" data-value="19"></sup></a> We learn the truth from past prophets in the scriptures<a class="note-ref" href="#note20"><sup class="marker" data-value="20"></sup></a> and from living prophets at general conference and through other official channels.</p>
+<p data-aid="156933037" id="p15">Finally, you and I play a crucial role in this process. God expects us to seek, recognize, and act on truth. Our ability to receive and apply truth is dependent on the strength of our relationship with the Father and the Son, our responsiveness to the influence of the Holy Ghost, and our alignment with latter-day prophets.</p>
+<p data-aid="156933045" id="p58">We need to remember that Satan works to keep us from truth. He knows that without truth, we cannot gain eternal life. He weaves strands of truth with worldly philosophies to confuse us and distract us from what is communicated by God.<a class="note-ref" href="#note21"><sup class="marker" data-value="21"></sup></a></p>
+</section>
+<section>
+<header>
+<h2 data-aid="156933053" id="title5">Seeking, Recognizing, and Applying Eternal Truth</h2>
+</header>
+<p data-aid="156933061" id="p16">As we seek eternal truth,<a class="note-ref" href="#note22"><sup class="marker" data-value="22"></sup></a> the following two questions can help us recognize whether a concept comes from God or from another source:</p>
+<ul class="bullet">
+<li>
+<p data-aid="156933070" id="p17">Is the concept taught consistently in the scriptures and by living prophets?</p>
+</li>
+<li>
+<p data-aid="156933077" id="p18">Is the concept confirmed by the witness of the Holy Ghost?</p>
+</li>
+</ul>
+<p data-aid="156933084" id="p19">God reveals doctrinal truths through prophets, and the Holy Ghost confirms those truths to us and helps us apply them.<a class="note-ref" href="#note23"><sup class="marker" data-value="23"></sup></a> We must seek and be prepared to receive these spiritual impressions when they come.<a class="note-ref" href="#note24"><sup class="marker" data-value="24"></sup></a> We are most receptive to the witness of the Spirit when we are humble,<a class="note-ref" href="#note25"><sup class="marker" data-value="25"></sup></a> pray sincerely and study God’s words,<a class="note-ref" href="#note26"><sup class="marker" data-value="26"></sup></a> and keep His commandments.<a class="note-ref" href="#note27"><sup class="marker" data-value="27"></sup></a></p>
+<p data-aid="156933091" id="p21">Once the Holy Ghost confirms a specific truth to us, our understanding deepens as we put that principle into practice. Over time, as we consistently live the principle, we gain a sure knowledge of that truth.<a class="note-ref" href="#note28"><sup class="marker" data-value="28"></sup></a></p>
+<p data-aid="156933098" id="p22">For example, I have made mistakes and felt remorse for poor choices. But through prayer, study, and faith in Jesus Christ, I received a witness of the principle of repentance.<a class="note-ref" href="#note29"><sup class="marker" data-value="29"></sup></a> As I continued to repent, my understanding of repentance grew stronger. I felt closer to God and His Son. I now <em>know</em> that sin can be forgiven through Jesus Christ, because I experience the blessings of repentance each day.<a class="note-ref" href="#note30"><sup class="marker" data-value="30"></sup></a></p>
+</section>
+<section>
+<header>
+<span class="page-break" data-page="101"></span>
+<h2 data-aid="156933105" id="title6">Trusting God When Truth Is Not Yet Revealed</h2>
+</header>
+<p data-aid="156933112" id="p23">So, what should we do when we sincerely seek for truth not yet revealed? I have empathy for those of us who yearn for answers that do not seem to come.</p>
+<p data-aid="156933119" id="p24">To Joseph Smith, the Lord counseled, “Hold your peace until I shall see fit to make all things known … concerning the matter” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/10?lang=eng&amp;id=p37#p37">Doctrine and Covenants 10:37</a>).</p>
+<p data-aid="156933126" id="p25">And to Emma Smith, He explained, “Murmur not because of the things which thou hast not seen, for they are withheld from thee and from the world, which is wisdom in me in a time to come” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/25?lang=eng&amp;id=p4#p4">Doctrine and Covenants 25:4</a>).</p>
+<p data-aid="156933132" id="p26">I too have sought answers to heartfelt questions. Many answers have come; some have not.<a class="note-ref" href="#note31"><sup class="marker" data-value="31"></sup></a> As we hold on—trusting God’s wisdom and love, keeping His commandments, and relying on what we <em>do</em> know—He helps us find peace until He reveals the truth of all things.<a class="note-ref" href="#note32"><sup class="marker" data-value="32"></sup></a></p>
+</section>
+<section>
+<header>
+<h2 data-aid="156933138" id="title7">Understanding Doctrine and Policy</h2>
+</header>
+<p data-aid="156933143" id="p28">When seeking truth, it helps to understand the difference between doctrine and policy. Doctrine refers to eternal truths, such as the nature of the Godhead, the plan of salvation, and Jesus Christ’s atoning sacrifice. Policy is the application of doctrine based on current circumstances. Policy helps us administer the Church in an orderly way.</p>
+<p data-aid="156933149" id="p29">While doctrine never changes, policy adjusts from time to time. The Lord works through His prophets to uphold His doctrine <em>and</em> to modify Church policies according to the needs of His children.</p>
+<p data-aid="156933155" id="p30">Unfortunately, we sometimes confuse policy with doctrine. If we do not understand the difference, we risk becoming disillusioned when policies change and may even begin to question God’s wisdom or the revelatory role of prophets.<a class="note-ref" href="#note33"><sup class="marker" data-value="33"></sup></a></p>
+</section>
+<section>
+<header>
+<h2 data-aid="156933162" id="title8">Teaching Eternal Truth</h2>
+</header>
+<p data-aid="156933168" id="p31">When we obtain truth from God, He encourages us to share that knowledge with others.<a class="note-ref" href="#note34"><sup class="marker" data-value="34"></sup></a> We do this when we teach a class, guide a child, or discuss gospel truths with a friend.</p>
+<p data-aid="156933173" id="p32"><em>Our aim is to teach truth in a way that invites the converting power of the Holy Ghost</em>.<a class="note-ref" href="#note35"><sup class="marker" data-value="35"></sup></a> Let me share some simple invitations from the Lord and His prophets that can help.<a class="note-ref" href="#note36"><sup class="marker" data-value="36"></sup></a></p>
+<ol class="decimal" start="1">
+<li data-marker="1.">
+<p data-aid="156933178" id="p33">Center on Heavenly Father, Jesus Christ, and Their fundamental doctrine.<a class="note-ref" href="#note37"><sup class="marker" data-value="37"></sup></a></p>
+</li>
+<li data-marker="2.">
+<p data-aid="156933181" id="p34">Stay grounded in the scriptures and the teachings of latter-day prophets.<a class="note-ref" href="#note38"><sup class="marker" data-value="38"></sup></a></p>
+</li>
+<li data-marker="3.">
+<p data-aid="156933186" id="p35">Rely on doctrine established through multiple authoritative witnesses.<a class="note-ref" href="#note39"><sup class="marker" data-value="39"></sup></a></p>
+</li>
+<li data-marker="4.">
+<p data-aid="156933191" id="p36">Avoid speculation, personal opinions, or worldly ideas.<a class="note-ref" href="#note40"><sup class="marker" data-value="40"></sup></a></p>
+</li>
+<li data-marker="5.">
+<p data-aid="156933196" id="p37">Teach a point of doctrine within the context of related gospel truths.<a class="note-ref" href="#note41"><sup class="marker" data-value="41"></sup></a></p>
+</li>
+<li data-marker="6.">
+<p data-aid="156933201" id="p38">Use teaching methods that invite the influence of the Spirit.<a class="note-ref" href="#note42"><sup class="marker" data-value="42"></sup></a></p>
+</li>
+<li data-marker="7.">
+<p data-aid="156933206" id="p39">Communicate clearly to avoid misunderstanding.<a class="note-ref" href="#note43"><sup class="marker" data-value="43"></sup></a></p>
+</li>
+</ol>
+</section>
+<section>
+<header>
+<h2 data-aid="156933211" id="title9">Speaking Truth in Love</h2>
+</header>
+<p data-aid="156933216" id="p42">How we teach truth really matters. Paul encouraged us to speak “the truth in love” (see <a class="scripture-ref" href="/study/scriptures/nt/eph/4?lang=eng&amp;id=p14-p15#p14">Ephesians 4:14–15</a>). Truth has the best chance of blessing another when conveyed with Christlike love.<a class="note-ref" href="#note44"><sup class="marker" data-value="44"></sup></a></p>
+<p data-aid="156933221" id="p43">Truth taught without love can cause feelings of judgment, discouragement, and loneliness. It often leads to resentment and division—even conflict. On the other hand, love without truth is hollow and lacks the promise of growth.</p>
+<p data-aid="156933226" id="p44">Both truth and love are essential for our spiritual development.<a class="note-ref" href="#note45"><sup class="marker" data-value="45"></sup></a> Truth provides the doctrine, principles, and laws necessary to gain eternal life, while love engenders the motivation needed to embrace and act upon what is true.</p>
+<p data-aid="156933231" id="p45">I am forever grateful for others who patiently taught me eternal truth with love.</p>
+</section>
+<section>
+<header>
+<h2 data-aid="156933236" id="title10">Conclusion</h2>
+</header>
+<p data-aid="156933241" id="p46">In conclusion, let me share <em>eternal truths</em> that have become an anchor to my soul. I have come to know these truths by following the principles discussed today.</p>
+<p data-aid="156933246" id="p47">I know that God is our Heavenly Father.<a class="note-ref" href="#note46"><sup class="marker" data-value="46"></sup></a> He is all knowing,<a class="note-ref" href="#note47"><sup class="marker" data-value="47"></sup></a> all powerful,<a class="note-ref" href="#note48"><sup class="marker" data-value="48"></sup></a> and perfectly loving.<a class="note-ref" href="#note49"><sup class="marker" data-value="49"></sup></a> He created a plan for us to gain eternal life and become like Him.<a class="note-ref" href="#note50"><sup class="marker" data-value="50"></sup></a></p>
+<p data-aid="156933251" id="p60">As part of that plan, He sent His Son, Jesus Christ, to help us.<a class="note-ref" href="#note51"><sup class="marker" data-value="51"></sup></a> Jesus taught us to do the Father’s will<a class="note-ref" href="#note52"><sup class="marker" data-value="52"></sup></a> and to love one another.<a class="note-ref" href="#note53"><sup class="marker" data-value="53"></sup></a> He atoned for our sins<a class="note-ref" href="#note54"><sup class="marker" data-value="54"></sup></a> and gave up His life on the cross.<a class="note-ref" href="#note55"><sup class="marker" data-value="55"></sup></a> He arose from the dead after three days.<a class="note-ref" href="#note56"><sup class="marker" data-value="56"></sup></a> Through Christ and His grace, we will be resurrected,<a class="note-ref" href="#note57"><sup class="marker" data-value="57"></sup></a> we can be forgiven,<a class="note-ref" href="#note58"><sup class="marker" data-value="58"></sup></a> and we can find strength in affliction.<a class="note-ref" href="#note59"><sup class="marker" data-value="59"></sup></a></p>
+<p data-aid="156933256" id="p49">During His earthly ministry, Jesus established His Church.<a class="note-ref" href="#note60"><sup class="marker" data-value="60"></sup></a> Over time, that Church was changed, and truths were lost.<a class="note-ref" href="#note61"><sup class="marker" data-value="61"></sup></a> Jesus Christ restored His Church and the truths of the gospel through the Prophet Joseph Smith.<a class="note-ref" href="#note62"><sup class="marker" data-value="62"></sup></a> And today, Christ continues to lead His Church through living prophets and apostles.<a class="note-ref" href="#note63"><sup class="marker" data-value="63"></sup></a></p>
+<p data-aid="156933261" id="p50">I know that as we come unto Christ, we can eventually “be <span class="page-break" data-page="102"></span>perfected in him” (<a class="scripture-ref" href="/study/scriptures/bofm/moro/10?lang=eng&amp;id=p32#p32">Moroni 10:32</a>), obtain “a fulness of joy” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/93?lang=eng&amp;id=p33#p33">Doctrine and Covenants 93:33</a>), and receive “all that [the] Father hath” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/84?lang=eng&amp;id=p38#p38">Doctrine and Covenants 84:38</a>). To these eternal truths I bear witness in the holy name of Jesus Christ, amen.</p>
+</section>
+</div>
+<footer class="notes">
+<p class="title" data-aid="156933265" id="note_title1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="156933269" id="note1_p1">See also <a class="scripture-ref" href="/study/scriptures/ot/ps/117?lang=eng&amp;id=p2#p2">Psalm 117:2</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/1?lang=eng&amp;id=p39#p39">Doctrine and Covenants 1:39</a>.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="156933273" id="note2_p1">“Contrary to the doubts of some, there really <em>is</em> such a thing as right and wrong. There really <em>is</em> absolute truth—eternal truth. One of the plagues of our day is that too few people know where to turn for truth” (Russell M. Nelson, “<a class="cross-ref" href="/study/general-conference/2021/10/11nelson?lang=eng">Pure Truth, Pure Doctrine, and Pure Revelation</a>,” <cite>Liahona</cite>, Nov. 2021, 6).</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="156933277" id="note3_p1">See <a class="scripture-ref" href="/study/scriptures/pgp/js-m/1?lang=eng&amp;id=p37#p37">Joseph Smith—Matthew 1:37</a>.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="156933278" id="note4_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/moro/7?lang=eng&amp;id=p19#p19">Moroni 7:19</a>.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="156933279" id="note5_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/2-ne/1?lang=eng&amp;id=p9#p9">2 Nephi 1:9</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/17?lang=eng&amp;id=p8#p8">Doctrine and Covenants 17:8</a>.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="156933280" id="note6_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/jacob/2?lang=eng&amp;id=p8#p8">Jacob 2:8</a>.</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="156933281" id="note7_p1">See <a class="scripture-ref" href="/study/scriptures/ot/ps/119?lang=eng&amp;id=p105#p105">Psalm 119:105</a>; <a class="scripture-ref" href="/study/scriptures/bofm/2-ne/32?lang=eng&amp;id=p3#p3">2 Nephi 32:3</a>.</p>
+</li>
+<li data-marker="8." id="note8" data-full-marker="8.">
+<p data-aid="156933282" id="note8_p1">See <a class="scripture-ref" href="/study/scriptures/nt/john/8?lang=eng&amp;id=p32#p32">John 8:32</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/98?lang=eng&amp;id=p8#p8">Doctrine and Covenants 98:8</a>.</p>
+</li>
+<li data-marker="9." id="note9" data-full-marker="9.">
+<p data-aid="156933283" id="note9_p1">See <a class="scripture-ref" href="/study/scriptures/nt/john/17?lang=eng&amp;id=p17#p17">John 17:17</a>.</p>
+</li>
+<li data-marker="10." id="note10" data-full-marker="10.">
+<p data-aid="156933284" id="note10_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/2-ne/31?lang=eng&amp;id=p20#p20">2 Nephi 31:20</a>.</p>
+</li>
+<li data-marker="11." id="note11" data-full-marker="11.">
+<p data-aid="156933285" id="note11_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/88?lang=eng&amp;id=p11-p13#p11">Doctrine and Covenants 88:11–13</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/93?lang=eng&amp;id=p36#p36">93:36</a>.</p>
+</li>
+<li data-marker="12." id="note12" data-full-marker="12.">
+<p data-aid="156933286" id="note12_p1">See <a class="scripture-ref" href="/study/scriptures/nt/john/5?lang=eng&amp;id=p19-p20#p19">John 5:19–20</a>; <a class="scripture-ref" href="/study/scriptures/nt/john/7?lang=eng&amp;id=p16#p16">7:16</a>; <a class="scripture-ref" href="/study/scriptures/nt/john/8?lang=eng&amp;id=p26#p26">8:26</a>; <a class="scripture-ref" href="/study/scriptures/nt/john/18?lang=eng&amp;id=p37#p37">18:37</a>; <a class="scripture-ref" href="/study/scriptures/pgp/moses/1?lang=eng&amp;id=p6#p6">Moses 1:6</a>.</p>
+</li>
+<li data-marker="13." id="note13" data-full-marker="13.">
+<p data-aid="156933287" id="note13_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/alma/42?lang=eng&amp;id=p12-p26#p12">Alma 42:12–26</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/88?lang=eng&amp;id=p41#p41">Doctrine and Covenants 88:41</a>.</p>
+</li>
+<li data-marker="14." id="note14" data-full-marker="14.">
+<p data-aid="156933288" id="note14_p1">See <a class="scripture-ref" href="/study/scriptures/pgp/moses/1?lang=eng&amp;id=p30-p39#p30">Moses 1:30–39</a>.</p>
+</li>
+<li data-marker="15." id="note15" data-full-marker="15.">
+<p data-aid="156933289" id="note15_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/2-ne/26?lang=eng&amp;id=p24#p24">2 Nephi 26:24</a>.</p>
+</li>
+<li data-marker="16." id="note16" data-full-marker="16.">
+<p data-aid="156933290" id="note16_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/82?lang=eng&amp;id=p8-p9#p8">Doctrine and Covenants 82:8–9</a>.</p>
+</li>
+<li data-marker="17." id="note17" data-full-marker="17.">
+<p data-aid="156933291" id="note17_p1">See <a class="scripture-ref" href="/study/scriptures/nt/john/16?lang=eng&amp;id=p13#p13">John 16:13</a>; <a class="scripture-ref" href="/study/scriptures/bofm/jacob/4?lang=eng&amp;id=p13#p13">Jacob 4:13</a>; <a class="scripture-ref" href="/study/scriptures/bofm/moro/10?lang=eng&amp;id=p5#p5">Moroni 10:5</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/50?lang=eng&amp;id=p14#p14">Doctrine and Covenants 50:14</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/75?lang=eng&amp;id=p10#p10">75:10</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/76?lang=eng&amp;id=p12#p12">76:12</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/91?lang=eng&amp;id=p4#p4">91:4</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/124?lang=eng&amp;id=p97#p97">124:97</a>.</p>
+</li>
+<li data-marker="18." id="note18" data-full-marker="18.">
+<p data-aid="156933292" id="note18_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/6?lang=eng&amp;id=p22-p23#p22">Doctrine and Covenants 6:22–23</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/8?lang=eng&amp;id=p2-p3#p2">8:2–3</a>.</p>
+</li>
+<li data-marker="19." id="note19" data-full-marker="19.">
+<p data-aid="156933293" id="note19_p1">See <a class="scripture-ref" href="/study/scriptures/ot/jer/1?lang=eng&amp;id=p5%2C7#p5">Jeremiah 1:5, 7</a>; <a class="scripture-ref" href="/study/scriptures/ot/amos/3?lang=eng&amp;id=p7#p7">Amos 3:7</a>; <a class="scripture-ref" href="/study/scriptures/nt/matt/28?lang=eng&amp;id=p16-p20#p16">Matthew 28:16–20</a>; <a class="scripture-ref" href="/study/scriptures/bofm/moro/7?lang=eng&amp;id=p31#p31">Moroni 7:31</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/1?lang=eng&amp;id=p38#p38">Doctrine and Covenants 1:38</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/21?lang=eng&amp;id=p1-p6#p1">21:1–6</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/43?lang=eng&amp;id=p1-p7#p1">43:1–7</a>. A prophet is “a person who has been called by and speaks for God. As a messenger of God, a prophet receives commandments, prophecies, and revelations from God. His responsibility is to make known God’s will and true character to mankind and to show the meaning of His dealings with them. A prophet denounces sin and foretells its consequences. He is a preacher of righteousness. On occasion, prophets may be inspired to foretell the future for the benefit of mankind. His primary responsibility, however, is to bear witness of Christ. The President of The Church of Jesus Christ of Latter-day Saints is God’s prophet on earth today. Members of the First Presidency and the Twelve Apostles are sustained as prophets, seers, and revelators” (Guide to the Scriptures, “<a class="scripture-ref" href="/study/scriptures/gs/prophet?lang=eng">Prophet</a>,” Gospel Library). Examples of these principles are found in the lives of Adam (see <a class="scripture-ref" href="/study/scriptures/pgp/moses/6?lang=eng&amp;id=p51-p62#p51">Moses 6:51–62</a>), Enoch (see <a class="scripture-ref" href="/study/scriptures/pgp/moses/6?lang=eng&amp;id=p26-p36#p26">Moses 6:26–36</a>), Noah (see <a class="scripture-ref" href="/study/scriptures/pgp/moses/8?lang=eng&amp;id=p19%2C23-p24#p19">Moses 8:19, 23–24</a>), Abraham (see <a class="scripture-ref" href="/study/scriptures/ot/gen/12?lang=eng&amp;id=p1-p3#p1">Genesis 12:1–3</a>; <a class="scripture-ref" href="/study/scriptures/pgp/abr/2?lang=eng&amp;id=p8-p9#p8">Abraham 2:8–9</a>), Moses (see <a class="scripture-ref" href="/study/scriptures/ot/ex/3?lang=eng&amp;id=p1-p15#p1">Exodus 3:1–15</a>; <a class="scripture-ref" href="/study/scriptures/pgp/moses/1?lang=eng&amp;id=p1-p6%2C25-p26#p1">Moses 1:1–6, 25–26</a>), Peter (see <a class="scripture-ref" href="/study/scriptures/nt/matt/16?lang=eng&amp;id=p13-p19#p13">Matthew 16:13–19</a>), and Joseph Smith (see <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/5?lang=eng&amp;id=p6-p10#p6">Doctrine and Covenants 5:6–10</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/20?lang=eng&amp;id=p2#p2">20:2</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/21?lang=eng&amp;id=p4-p6#p4">21:4–6</a>).</p>
+</li>
+<li data-marker="20." id="note20" data-full-marker="20.">
+<p data-aid="156933294" id="note20_p1">See <a class="scripture-ref" href="/study/scriptures/nt/2-tim/3?lang=eng&amp;id=p16#p16">2 Timothy 3:16</a>.</p>
+</li>
+<li data-marker="21." id="note21" data-full-marker="21.">
+<p data-aid="156933295" id="note21_p1">See <a class="scripture-ref" href="/study/scriptures/nt/john/8?lang=eng&amp;id=p44#p44">John 8:44</a>; <a class="scripture-ref" href="/study/scriptures/bofm/2-ne/2?lang=eng&amp;id=p18#p18">2 Nephi 2:18</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/93?lang=eng&amp;id=p39#p39">Doctrine and Covenants 93:39</a>; <a class="scripture-ref" href="/study/scriptures/pgp/moses/4?lang=eng&amp;id=p4#p4">Moses 4:4</a>.</p>
+</li>
+<li data-marker="22." id="note22" data-full-marker="22.">
+<p data-aid="156933296" id="note22_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/1-ne/10?lang=eng&amp;id=p19#p19">1 Nephi 10:19</a>. President Dallin H. Oaks instructed: “We need to be cautious as we seek [God’s] truth and choose sources for that search. We should not consider secular prominence or authority as qualified sources. … When we seek the truth about religion, we should use spiritual methods appropriate for that search: prayer, the witness of the Holy Ghost, and study of the scriptures and the words of modern prophets” (“<a class="cross-ref" href="/study/general-conference/2018/10/truth-and-the-plan?lang=eng">Truth and the Plan</a>,” <cite>Ensign</cite> or <cite>Liahona</cite>, Nov. 2018, 25).</p>
+</li>
+<li data-marker="23." id="note23" data-full-marker="23.">
+<p data-aid="156933297" id="note23_p1">Elder D. Todd Christofferson taught: “Apostles and prophets … declare God’s word, but in addition, we believe men and women generally and even children can learn from and be guided by divine inspiration in response to prayer and study of the scriptures. … Members of the Church of Jesus Christ are given the gift of the Holy Ghost, which facilitates an ongoing communication with their Heavenly Father. … This is not to say that every member speaks for the Church or can define its doctrines but that each can receive divine guidance in dealing with the challenges and opportunities of his or her life” (“<a class="cross-ref" href="/study/general-conference/2012/04/the-doctrine-of-christ?lang=eng">The Doctrine of Christ</a>,” <cite>Ensign</cite> or <cite>Liahona</cite>, May 2012, 89–90, note 2).</p>
+</li>
+<li data-marker="24." id="note24" data-full-marker="24.">
+<p data-aid="156933298" id="note24_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/2-ne/33?lang=eng&amp;id=p1-p2#p1">2 Nephi 33:1–2</a>.</p>
+</li>
+<li data-marker="25." id="note25" data-full-marker="25.">
+<p data-aid="156933299" id="note25_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/1?lang=eng&amp;id=p28#p28">Doctrine and Covenants 1:28</a>.</p>
+</li>
+<li data-marker="26." id="note26" data-full-marker="26.">
+<p data-aid="156933300" id="note26_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/moro/10?lang=eng&amp;id=p3-p5#p3">Moroni 10:3–5</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/9?lang=eng&amp;id=p7-p9#p7">Doctrine and Covenants 9:7–9</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/84?lang=eng&amp;id=p85#p85">84:85</a>.</p>
+</li>
+<li data-marker="27." id="note27" data-full-marker="27.">
+<p data-aid="156933301" id="note27_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/5?lang=eng&amp;id=p35#p35">Doctrine and Covenants 5:35</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/63?lang=eng&amp;id=p23#p23">63:23</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/93?lang=eng&amp;id=p27-p28#p27">93:27–28</a>. Despite our earnest efforts, some of us may still struggle to feel the Spirit due to mental health challenges. Depression, anxiety, and other neurological conditions can add complexity to recognizing the Holy Ghost. In such cases, the Lord invites us to continue living the gospel, and He will bless us (see <a class="scripture-ref" href="/study/scriptures/bofm/mosiah/2?lang=eng&amp;id=p41#p41">Mosiah 2:41</a>). We can look for additional activities—such as listening to sacred music, engaging in service, or spending time in nature—that help us feel the fruits of the Spirit (see <a class="scripture-ref" href="/study/scriptures/nt/gal/5?lang=eng&amp;id=p22-p23#p22">Galatians 5:22–23</a>) and strengthen our connection to God.</p>
+<p data-aid="156933302" id="note27_p2">Elder Jeffrey R. Holland expressed: “So how do you best respond when mental or emotional challenges confront you or those you love? Above all, never lose faith in your Father in Heaven, who loves you more than you can comprehend. … Faithfully pursue the time-tested devotional practices that bring the Spirit of the Lord into your life. Seek the counsel of those who hold keys for your spiritual well-being. Ask for and cherish priesthood blessings. Take the sacrament every week, and hold fast to the perfecting promises of the Atonement of Jesus Christ. Believe in miracles. I have seen so many of them come when every other indication would say that hope was lost. Hope is <em>never</em> lost” (“<a class="cross-ref" href="/study/general-conference/2013/10/like-a-broken-vessel?lang=eng">Like a Broken Vessel</a>,” <cite>Ensign</cite> or <cite>Liahona</cite>, Nov. 2013, 40–41).</p>
+</li>
+<li data-marker="28." id="note28" data-full-marker="28.">
+<p data-aid="156933303" id="note28_p1">See <a class="scripture-ref" href="/study/scriptures/nt/john/7?lang=eng&amp;id=p17#p17">John 7:17</a>; <a class="scripture-ref" href="/study/scriptures/bofm/alma/32?lang=eng&amp;id=p26-p34#p26">Alma 32:26–34</a>. Ultimately, God desires for us to gain truth “line upon line, precept upon precept,” until we comprehend all things (see <a class="scripture-ref" href="/study/scriptures/ot/prov/28?lang=eng&amp;id=p5#p5">Proverbs 28:5</a>; <a class="scripture-ref" href="/study/scriptures/bofm/2-ne/28?lang=eng&amp;id=p30#p30">2 Nephi 28:30</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/88?lang=eng&amp;id=p67#p67">Doctrine and Covenants 88:67</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/93?lang=eng&amp;id=p28#p28">93:28</a>).</p>
+</li>
+<li data-marker="29." id="note29" data-full-marker="29.">
+<p data-aid="156933304" id="note29_p1">See <a class="scripture-ref" href="/study/scriptures/nt/1-jn/1?lang=eng&amp;id=p9-p10#p9">1 John 1:9–10</a>; <a class="scripture-ref" href="/study/scriptures/nt/1-jn/2?lang=eng&amp;id=p1-p2#p1">2:1–2</a>.</p>
+</li>
+<li data-marker="30." id="note30" data-full-marker="30.">
+<p data-aid="156933305" id="note30_p1">President Russell M. Nelson explained: “Nothing is more liberating, more ennobling, or more crucial to our individual progression than is a regular, daily focus on repentance. Repentance is not an event; it is a process. It is the key to happiness and peace of mind. When coupled with faith, repentance opens our access to the power of the Atonement of Jesus Christ” (“<a class="cross-ref" href="/study/general-conference/2019/04/36nelson?lang=eng">We Can Do Better and Be Better</a>,” <cite>Ensign</cite> or <cite>Liahona</cite>, May 2019, 67).</p>
+</li>
+<li data-marker="31." id="note31" data-full-marker="31.">
+<p data-aid="156933306" id="note31_p1">I do not know all the reasons that God withholds some eternal truths from us, but Elder Orson F. Whitney provided an interesting insight: “It is blessed to believe without seeing, since by the exercise of faith comes spiritual development, one of the great objects of man’s earthly existence; while knowledge, by swallowing up faith, prevents its exercise, thus hindering that development. ‘Knowledge is power;’ and all things are to be known in due season. But premature knowledge—knowing at the wrong time—is fatal both to progress and to happiness” (“<a class="cross-ref" href="/study/liahona/2003/12/the-divinity-of-jesus-christ?lang=eng">The Divinity of Jesus Christ</a>,” <cite>Improvement Era</cite>, Jan. 1926, 222; see also <cite>Ensign</cite>, Dec. 2003, 8–9; <cite>Liahona</cite>, Dec. 2003, 14–15).</p>
+</li>
+<li data-marker="32." id="note32" data-full-marker="32.">
+<p data-aid="156933307" id="note32_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/76?lang=eng&amp;id=p5-p10#p5">Doctrine and Covenants 76:5–10</a>. The Lord also counseled Hyrum Smith to “seek not to declare my word, but first seek to obtain my word. … Hold your peace [and] study my word” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/11?lang=eng&amp;id=p21-p22#p21">Doctrine and Covenants 11:21–22</a>). The prophet Alma provides an example for handling unanswered questions: “These mysteries are not yet fully made known unto me; therefore I shall forbear” (<a class="scripture-ref" href="/study/scriptures/bofm/alma/37?lang=eng&amp;id=p11#p11">Alma 37:11</a>). He also explained to his son Corianton that “there are many mysteries which are kept, that no one knoweth them save God himself” (<a class="scripture-ref" href="/study/scriptures/bofm/alma/40?lang=eng&amp;id=p3#p3">Alma 40:3</a>). I have also found strength from the response of Nephi when he was presented with a question he could not answer: “I know that [God] loveth his children; nevertheless, I do not know the meaning of all things” (<a class="scripture-ref" href="/study/scriptures/bofm/1-ne/11?lang=eng&amp;id=p17#p17">1 Nephi 11:17</a>).</p>
+</li>
+<li data-marker="33." id="note33" data-full-marker="33.">
+<p data-aid="156933308" id="note33_p1">Similarly, cultural traditions are not doctrine or policy. They can be useful if they help us follow doctrine and policy, but they can also impede our spiritual growth if they are not based on true principles. We should avoid traditions that do not build our faith in Jesus Christ or help us progress toward eternal life.</p>
+</li>
+<li data-marker="34." id="note34" data-full-marker="34.">
+<p data-aid="156933309" id="note34_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/15?lang=eng&amp;id=p5#p5">Doctrine and Covenants 15:5</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/88?lang=eng&amp;id=p77-p78#p77">88:77–78</a>.</p>
+</li>
+<li data-marker="35." id="note35" data-full-marker="35.">
+<p data-aid="156933310" id="note35_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/50?lang=eng&amp;id=p21-p23#p21">Doctrine and Covenants 50:21–23</a>.</p>
+</li>
+<li data-marker="36." id="note36" data-full-marker="36.">
+<p data-aid="156933311" id="note36_p1">Adapted from the document “Principles for Ensuring Doctrinal Purity,” approved by the First Presidency and the Quorum of the Twelve Apostles in February 2023.</p>
+</li>
+<li data-marker="37." id="note37" data-full-marker="37.">
+<p data-aid="156933312" id="note37_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/1-ne/15?lang=eng&amp;id=p14#p14">1 Nephi 15:14</a>. The Lord directed His servants to avoid focusing on tenets, or concepts, that are not central to His gospel: “And of tenets thou shalt not talk, but thou shalt declare repentance and faith on the Savior, and remission of sins by baptism, and by fire, yea, even the Holy Ghost” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/19?lang=eng&amp;id=p31#p31">Doctrine and Covenants 19:31</a>).</p>
+<p data-aid="156933313" id="note37_p2">Elder Neil L. Andersen explained: “Let us focus on the Savior Jesus Christ and the gift of His atoning sacrifice. This does not mean we cannot tell an experience from our own life or share thoughts from others. While our subject might be about families or service or temples or a recent mission, everything … should point to the Lord Jesus Christ” (“<a class="cross-ref" href="/study/general-conference/2020/10/45andersen?lang=eng">We Talk of Christ</a>,” <cite>Ensign</cite> or <cite>Liahona</cite>, Nov. 2020, 89–90).</p>
+</li>
+<li data-marker="38." id="note38" data-full-marker="38.">
+<p data-aid="156933314" id="note38_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/28?lang=eng&amp;id=p2-p3%2C8#p2">Doctrine and Covenants 28:2–3, 8</a>. The prophet Alma admonished those appointed to preach the gospel to “teach nothing save it were the things which he had taught, and which had been spoken by the mouth of the holy prophets” (<a class="scripture-ref" href="/study/scriptures/bofm/mosiah/18?lang=eng&amp;id=p19#p19">Mosiah 18:19</a>).</p>
+<p data-aid="156933315" id="note38_p3">President Henry B. Eyring declared, “We must teach the fundamental doctrines of the Church as contained in the standard works and the teachings of the prophets, whose responsibility it is to declare doctrine” (“<a class="cross-ref" href="/study/manual/teaching-seminary-preservice-readings-religion-370-471-and-475/the-lord-will-multiply-the-harvest?lang=eng">The Lord Will Multiply the Harvest</a>” [evening with a General Authority, Feb. 6, 1998], in <cite>Teaching Seminary: Preservice Readings</cite> [2004], 96).</p>
+<p data-aid="156933316" id="note38_p4">Elder D. Todd Christofferson testified that “in the Church today, just as anciently, establishing the doctrine of Christ or correcting doctrinal deviations is a matter of divine revelation to those the Lord endows with apostolic authority” (“<a class="cross-ref" href="/study/general-conference/2012/04/the-doctrine-of-christ?lang=eng">The Doctrine of Christ</a>,” 86).</p>
+</li>
+<li data-marker="39." id="note39" data-full-marker="39.">
+<p data-aid="156933317" id="note39_p1">See <a class="scripture-ref" href="/study/scriptures/nt/2-cor/13?lang=eng&amp;id=p1#p1">2 Corinthians 13:1</a>; <a class="scripture-ref" href="/study/scriptures/bofm/2-ne/11?lang=eng&amp;id=p3#p3">2 Nephi 11:3</a>; <a class="scripture-ref" href="/study/scriptures/bofm/ether/5?lang=eng&amp;id=p4#p4">Ether 5:4</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/6?lang=eng&amp;id=p28#p28">Doctrine and Covenants 6:28</a>. Elder Neil L. Andersen observed: “A few question their faith when they find a statement made by a Church leader decades ago that seems incongruent with our doctrine. There is an important principle that governs the doctrine of the Church. The doctrine is taught by all 15 members of the First Presidency and Quorum of the Twelve. It is not hidden in an obscure paragraph of one talk. True principles are taught frequently and by many. Our doctrine is not difficult to find” (“<a class="cross-ref" href="/study/general-conference/2012/10/trial-of-your-faith?lang=eng">Trial of Your Faith</a>,” <cite>Ensign</cite> or <cite>Liahona</cite>, Nov. 2012, 41).</p>
+<p data-aid="156933318" id="note39_p3">Elder D. Todd Christofferson similarly taught: “It should be remembered that not every statement made by a Church leader, past or present, necessarily constitutes doctrine. It is commonly understood in the Church that a statement made by one leader on a single occasion often represents a personal, though well-considered, opinion, not meant to be official or binding for the whole Church” (“<a class="cross-ref" href="/study/general-conference/2012/04/the-doctrine-of-christ?lang=eng">The Doctrine of Christ</a>,” 88).</p>
+</li>
+<li data-marker="40." id="note40" data-full-marker="40.">
+<p data-aid="156933319" id="note40_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/3-ne/11?lang=eng&amp;id=p32%2C40#p32">3 Nephi 11:32, 40</a>. President Gordon B. Hinckley said: “I have spoken before about the importance of keeping the doctrine of the Church pure. … I worry about this. Small aberrations in doctrinal teaching can lead to large and evil falsehoods” (<cite>Teachings of Gordon B. Hinckley</cite> [1997], 620).</p>
+<p data-aid="156933320" id="note40_p5">President Dallin H. Oaks warned that there are some “who select a few sentences from the teachings of a prophet and use these to support their political agenda or other personal purposes. … To wrest the words of a prophet to support a private agenda, political or financial or otherwise, is to try to <em>manipulate</em> the prophet, not to <em>follow</em> him” (“<a href="https://speeches.byu.edu/talks/dallin-h-oaks/strengths-can-become-downfall">Our Strengths Can Become Our Downfall</a>” [Brigham Young University fireside, June 7, 1992], 7, speeches.byu.edu).</p>
+<p data-aid="156933321" id="note40_p3">President Henry B. Eyring cautioned: “Doctrine gains its power as the Holy Ghost confirms that it is true. … Because we need the Holy Ghost, we must be cautious and careful not to go beyond teaching true doctrine. The Holy Ghost is the Spirit of Truth. His confirmation is invited by our avoiding speculation or personal interpretation. That can be hard to do. … It is tempting to try something new or sensational. But we invite the Holy Ghost as our companion when we are careful to teach only true doctrine. One of the surest ways to avoid even getting near false doctrine is to choose to be simple in our teaching. Safety is gained by that simplicity, and little is lost” (“<a class="cross-ref" href="/study/general-conference/1999/04/the-power-of-teaching-doctrine?lang=eng">The Power of Teaching Doctrine</a>,” <cite>Ensign</cite>, May 1999, 74; <cite>Liahona</cite>, July 1999, 86).</p>
+<p data-aid="156933322" id="note40_p4">Elder Dale G. Renlund taught: “Seeking greater understanding is an important part of our spiritual development, but please be cautious. Reason cannot replace revelation. Speculation will not lead to greater spiritual knowledge, but it can lead us to deception or divert our focus from what has been revealed” (“<a class="cross-ref" href="/study/general-conference/2022/04/36renlund?lang=eng">Your Divine Nature and Eternal Destiny</a>,” <cite>Liahona</cite>, May 2022, 70).</p>
+</li>
+<li data-marker="41." id="note41" data-full-marker="41.">
+<p data-aid="156933323" id="note41_p1">See <a class="scripture-ref" href="/study/scriptures/nt/matt/23?lang=eng&amp;id=p23#p23">Matthew 23:23</a>. President Joseph F. Smith warned: “It is very unwise to take a fragment of truth and treat it as if it were the whole thing. … All the revealed principles of the gospel of Christ are necessary and essential in the plan of salvation.” He further explained: “It is neither good policy nor sound doctrine to take any one of these, single it out from the whole plan of gospel truth, make it a special hobby, and depend upon it for our salvation and progress. … They are all necessary” (<cite>Gospel Doctrine</cite>, 5th ed. [1939], 122).</p>
+<p data-aid="156933324" id="note41_p2">Elder Neal A. Maxwell explained: “The gospel’s principles … require synchronization. When pulled apart from each other or isolated, men’s interpretations and implementations of these doctrines may be wild. Love, if not checked by the seventh commandment, could become carnal. The fifth commandment’s laudable emphasis upon honoring parents, unless checked by the first commandment, could result in unconditional loyalty to errant parents rather than to God. … Even patience is balanced by ‘reproving betimes with sharpness, when moved upon by the Holy Ghost’ [<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/121?lang=eng&amp;id=p43#p43">Doctrine and Covenants 121:43</a>]” (“<a class="cross-ref" href="/study/general-conference/1993/04/behold-the-enemy-is-combined-d-c-38-12?lang=eng">Behold, the Enemy Is Combined</a>,” <cite>Ensign</cite>, May 1993, 78–79).</p>
+<p data-aid="156933325" id="note41_p3">President Marion G. Romney instructed, “Searching [the scriptures] for the purpose of discovering what they teach as enjoined by Jesus is a far cry from hunting through them for the purpose of finding passages which can be pressed into service to support a predetermined conclusion” (“<a class="cross-ref" href="/study/ensign/1980/09/records-of-great-worth?lang=eng">Records of Great Worth</a>,” <cite>Ensign</cite>, Sept. 1980, 3).</p>
+</li>
+<li data-marker="42." id="note42" data-full-marker="42.">
+<p data-aid="156933326" id="note42_p1">See <a class="scripture-ref" href="/study/scriptures/nt/1-cor/2?lang=eng&amp;id=p4#p4">1 Corinthians 2:4</a>; <a class="scripture-ref" href="/study/scriptures/bofm/moro/6?lang=eng&amp;id=p9#p9">Moroni 6:9</a>. Elder Jeffrey R. Holland emphasized the need to communicate the gospel of Jesus Christ in a way that leads to spiritual edification through the power of the Holy Ghost: “The Lord has never given more emphatic counsel to the Church than that we are to teach the gospel ‘by the Spirit, even the Comforter which was sent forth to teach the truth.’ Do we teach the gospel ‘by the Spirit of truth?’ He has inquired. Or do we teach it ‘some other way? And if it be by some other way,’ He warns, ‘it is not of God’ [<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/50?lang=eng&amp;id=p14%2C17-p18#p14">Doctrine and Covenants 50:14, 17–18</a>]. … No eternal learning can take place without that quickening of the Spirit from heaven. … That is what our members really want. … They want their faith fortified and their hope renewed. They want, in short, to be nourished by the good word of God, to be strengthened by the powers of heaven” (“<a class="cross-ref" href="/study/general-conference/1998/04/a-teacher-come-from-god?lang=eng">A Teacher Come from God</a>,” <cite>Ensign</cite>, May 1998, 26).</p>
+</li>
+<li data-marker="43." id="note43" data-full-marker="43.">
+<p data-aid="156933327" id="note43_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/alma/13?lang=eng&amp;id=p23#p23">Alma 13:23</a>. Speaking of our Heavenly Father, President Russell M. Nelson testified, “He communicates simply, quietly, and with such stunning plainness that we cannot misunderstand Him” (“<a class="cross-ref" href="/study/general-conference/2020/04/45nelson?lang=eng">Hear Him</a>,” <cite>Ensign</cite> or <cite>Liahona</cite>, May 2020, 89).</p>
+</li>
+<li data-marker="44." id="note44" data-full-marker="44.">
+<p data-aid="156933328" id="note44_p1">See <a class="scripture-ref" href="/study/scriptures/ot/ps/26?lang=eng&amp;id=p3#p3">Psalm 26:3</a>; <a class="scripture-ref" href="/study/scriptures/nt/rom/13?lang=eng&amp;id=p10#p10">Romans 13:10</a>; <a class="scripture-ref" href="/study/scriptures/nt/1-cor/13?lang=eng&amp;id=p1-p8#p1">1 Corinthians 13:1–8</a>; <a class="scripture-ref" href="/study/scriptures/nt/1-jn/3?lang=eng&amp;id=p18#p18">1 John 3:18</a>.</p>
+</li>
+<li data-marker="45." id="note45" data-full-marker="45.">
+<p data-aid="156933329" id="note45_p1">See <a class="scripture-ref" href="/study/scriptures/ot/ps/40?lang=eng&amp;id=p11#p11">Psalm 40:11</a>.</p>
+</li>
+<li data-marker="46." id="note46" data-full-marker="46.">
+<p data-aid="156933330" id="note46_p1">See <a class="scripture-ref" href="/study/scriptures/nt/rom/8?lang=eng&amp;id=p16#p16">Romans 8:16</a>.</p>
+</li>
+<li data-marker="47." id="note47" data-full-marker="47.">
+<p data-aid="156933331" id="note47_p1">See <a class="scripture-ref" href="/study/scriptures/ot/1-sam/2?lang=eng&amp;id=p3#p3">1 Samuel 2:3</a>; <a class="scripture-ref" href="/study/scriptures/nt/matt/6?lang=eng&amp;id=p8#p8">Matthew 6:8</a>; <a class="scripture-ref" href="/study/scriptures/bofm/2-ne/2?lang=eng&amp;id=p24#p24">2 Nephi 2:24</a>; <a class="scripture-ref" href="/study/scriptures/bofm/2-ne/9?lang=eng&amp;id=p20#p20">9:20</a>.</p>
+</li>
+<li data-marker="48." id="note48" data-full-marker="48.">
+<p data-aid="156933332" id="note48_p1">See <a class="scripture-ref" href="/study/scriptures/ot/gen/17?lang=eng&amp;id=p1#p1">Genesis 17:1</a>; <a class="scripture-ref" href="/study/scriptures/ot/jer/32?lang=eng&amp;id=p17#p17">Jeremiah 32:17</a>; <a class="scripture-ref" href="/study/scriptures/bofm/1-ne/7?lang=eng&amp;id=p12#p12">1 Nephi 7:12</a>; <a class="scripture-ref" href="/study/scriptures/bofm/alma/26?lang=eng&amp;id=p35#p35">Alma 26:35</a>.</p>
+</li>
+<li data-marker="49." id="note49" data-full-marker="49.">
+<p data-aid="156933333" id="note49_p1">See <a class="scripture-ref" href="/study/scriptures/ot/jer/31?lang=eng&amp;id=p3#p3">Jeremiah 31:3</a>; <a class="scripture-ref" href="/study/scriptures/nt/1-jn/4?lang=eng&amp;id=p7-p10#p7">1 John 4:7–10</a>; <a class="scripture-ref" href="/study/scriptures/bofm/alma/26?lang=eng&amp;id=p37#p37">Alma 26:37</a>.</p>
+</li>
+<li data-marker="50." id="note50" data-full-marker="50.">
+<p data-aid="156933334" id="note50_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/2-ne/9?lang=eng">2 Nephi 9</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/20?lang=eng&amp;id=p17-p31#p17">Doctrine and Covenants 20:17–31</a>; <a class="scripture-ref" href="/study/scriptures/pgp/moses/6?lang=eng&amp;id=p52-p62#p52">Moses 6:52–62</a>.</p>
+</li>
+<li data-marker="51." id="note51" data-full-marker="51.">
+<p data-aid="156933335" id="note51_p1">See <a class="scripture-ref" href="/study/scriptures/nt/john/3?lang=eng&amp;id=p16#p16">John 3:16</a>; <a class="scripture-ref" href="/study/scriptures/nt/1-jn/4?lang=eng&amp;id=p9-p10#p9">1 John 4:9–10</a>.</p>
+</li>
+<li data-marker="52." id="note52" data-full-marker="52.">
+<p data-aid="156933336" id="note52_p1">See <a class="scripture-ref" href="/study/scriptures/nt/john/8?lang=eng&amp;id=p29#p29">John 8:29</a>; <a class="scripture-ref" href="/study/scriptures/bofm/3-ne/27?lang=eng&amp;id=p13#p13">3 Nephi 27:13</a>.</p>
+</li>
+<li data-marker="53." id="note53" data-full-marker="53.">
+<p data-aid="156933337" id="note53_p1">See <a class="scripture-ref" href="/study/scriptures/nt/john/15?lang=eng&amp;id=p12#p12">John 15:12</a>; <a class="scripture-ref" href="/study/scriptures/nt/1-jn/3?lang=eng&amp;id=p11#p11">1 John 3:11</a>.</p>
+</li>
+<li data-marker="54." id="note54" data-full-marker="54.">
+<p data-aid="156933338" id="note54_p1">See <a class="scripture-ref" href="/study/scriptures/nt/luke/22?lang=eng&amp;id=p39-p46#p39">Luke 22:39–46</a>.</p>
+</li>
+<li data-marker="55." id="note55" data-full-marker="55.">
+<p data-aid="156933339" id="note55_p1">See <a class="scripture-ref" href="/study/scriptures/nt/john/19?lang=eng&amp;id=p16-p30#p16">John 19:16–30</a>.</p>
+</li>
+<li data-marker="56." id="note56" data-full-marker="56.">
+<p data-aid="156933340" id="note56_p1">See <a class="scripture-ref" href="/study/scriptures/nt/john/20?lang=eng&amp;id=p1-p18#p1">John 20:1–18</a>.</p>
+</li>
+<li data-marker="57." id="note57" data-full-marker="57.">
+<p data-aid="156933341" id="note57_p1">See <a class="scripture-ref" href="/study/scriptures/nt/1-cor/15?lang=eng&amp;id=p20-p22#p20">1 Corinthians 15:20–22</a>; <a class="scripture-ref" href="/study/scriptures/bofm/mosiah/15?lang=eng&amp;id=p20-p24#p20">Mosiah 15:20–24</a>; <a class="scripture-ref" href="/study/scriptures/bofm/mosiah/16?lang=eng&amp;id=p7-p9#p7">16:7–9</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/76?lang=eng&amp;id=p16-p17#p16">Doctrine and Covenants 76:16–17</a>.</p>
+</li>
+<li data-marker="58." id="note58" data-full-marker="58.">
+<p data-aid="156933342" id="note58_p1">See <a class="scripture-ref" href="/study/scriptures/nt/acts/11?lang=eng&amp;id=p17-p18#p17">Acts 11:17–18</a>; <a class="scripture-ref" href="/study/scriptures/nt/1-tim/1?lang=eng&amp;id=p14-p16#p14">1 Timothy 1:14–16</a>; <a class="scripture-ref" href="/study/scriptures/bofm/alma/34?lang=eng&amp;id=p8-p10#p8">Alma 34:8–10</a>; <a class="scripture-ref" href="/study/scriptures/bofm/moro/6?lang=eng&amp;id=p2-p3%2C8#p2">Moroni 6:2–3, 8</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/19?lang=eng&amp;id=p13-p19#p13">Doctrine and Covenants 19:13–19</a>.</p>
+</li>
+<li data-marker="59." id="note59" data-full-marker="59.">
+<p data-aid="156933343" id="note59_p1">See <a class="scripture-ref" href="/study/scriptures/nt/matt/11?lang=eng&amp;id=p28-p30#p28">Matthew 11:28–30</a>; <a class="scripture-ref" href="/study/scriptures/nt/2-cor/12?lang=eng&amp;id=p7-p10#p7">2 Corinthians 12:7–10</a>; <a class="scripture-ref" href="/study/scriptures/nt/philip/4?lang=eng&amp;id=p13#p13">Philippians 4:13</a>; <a class="scripture-ref" href="/study/scriptures/bofm/alma/26?lang=eng&amp;id=p11-p13#p11">Alma 26:11–13</a>.</p>
+</li>
+<li data-marker="60." id="note60" data-full-marker="60.">
+<p data-aid="156933344" id="note60_p1">See <a class="scripture-ref" href="/study/scriptures/nt/matt/16?lang=eng&amp;id=p18-p19#p18">Matthew 16:18–19</a>; <a class="scripture-ref" href="/study/scriptures/nt/eph/2?lang=eng&amp;id=p20#p20">Ephesians 2:20</a>.</p>
+</li>
+<li data-marker="61." id="note61" data-full-marker="61.">
+<p data-aid="156933345" id="note61_p1">See <a class="scripture-ref" href="/study/scriptures/nt/matt/24?lang=eng&amp;id=p24#p24">Matthew 24:24</a>; <a class="scripture-ref" href="/study/scriptures/nt/acts/20?lang=eng&amp;id=p28-p30#p28">Acts 20:28–30</a>.</p>
+</li>
+<li data-marker="62." id="note62" data-full-marker="62.">
+<p data-aid="156933346" id="note62_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/20?lang=eng&amp;id=p1-p4#p1">Doctrine and Covenants 20:1–4</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/21?lang=eng&amp;id=p1-p7#p1">21:1–7</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/27?lang=eng&amp;id=p12#p12">27:12</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/110?lang=eng">110</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/135?lang=eng&amp;id=p3#p3">135:3</a>; <a class="scripture-ref" href="/study/scriptures/pgp/js-h/1?lang=eng&amp;id=p1-p20#p1">Joseph Smith—History 1:1–20</a>.</p>
+</li>
+<li data-marker="63." id="note63" data-full-marker="63.">
+<p data-aid="156933347" id="note63_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/1?lang=eng&amp;id=p14%2C38#p14">Doctrine and Covenants 1:14, 38</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/43?lang=eng&amp;id=p1-p7#p1">43:1–7</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/107?lang=eng&amp;id=p91-p92#p91">107:91–92</a>.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
+      <guid isPermaLink="false">/general-conference/2023/10/52pingree</guid>
+      <enclosure url="https://assets.churchofjesuschrist.org/3e62ad4760b711ee81b6eeeeac1e48444fed9552-32k-en.m4a" length="2471948" type="audio/mpeg"/>
+      <pubDate>Sun, 01 Oct 2023 14:00:00 -0600</pubDate>
+      <itunes:author>John C. Pingree Jr.</itunes:author>
     </item>
   </channel>
 </rss>
