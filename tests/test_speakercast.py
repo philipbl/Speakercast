@@ -735,3 +735,58 @@ def test_bounded_end_also_skips_pruning(tmp_path, monkeypatch, talks):
     sc.generate_feeds(end=(2000, 4), feed_dir=feeds, cover_dir=covers)
 
     assert (feeds / "Historic Speaker.rss").exists()
+
+
+# --------------------------------------------------------------------------
+# Duration
+# --------------------------------------------------------------------------
+
+
+def test_talk_duration_reads_the_player_metadata():
+    assert sc.talk_duration('<video data-duration="909700" data-duration-string="15:09">') == 909
+
+
+def test_talk_duration_is_none_when_the_page_has_no_player():
+    assert sc.talk_duration("<p>Just text, no media.</p>") is None
+    assert sc.talk_duration('<video data-duration="0">') is None
+
+
+def test_talk_duration_from_the_real_talk_fixture():
+    assert sc.talk_duration(fixture("talk-13holland.json")["content"]["body"]) == 909
+
+
+@pytest.mark.parametrize(
+    ("seconds", "expected"),
+    [(909, "00:15:09"), (59, "00:00:59"), (3600, "01:00:00"), (3661, "01:01:01"), (0, "00:00:00")],
+)
+def test_format_duration(seconds, expected):
+    assert sc.format_duration(seconds) == expected
+
+
+def test_resolve_talk_captures_duration(monkeypatch):
+    monkeypatch.setattr(sc, "fetch_page", lambda uri: fixture("talk-13holland.json"))
+    monkeypatch.setattr(sc, "audio_size", lambda url: 14363134)
+    stub = next(s for s in sc.parse_toc(toc("2025-04")) if s["uri"].endswith("13holland"))
+
+    assert sc._resolve_talk(stub, 2025, 4)["duration"] == 909
+
+
+def test_feed_publishes_itunes_duration(tmp_path, talks):
+    talks[0]["duration"] = 909
+    path = tmp_path / "feed.rss"
+    sc.build_feed("Test Speaker", talks, path)
+
+    items = ET.parse(path).getroot().find("channel").findall("item")
+    durations = [item.findtext(f"{ITUNES}duration") for item in items]
+    assert "00:15:09" in durations
+
+
+def test_feed_omits_duration_when_unknown(tmp_path, talks):
+    """18 talks have no player metadata; itunes:duration is optional."""
+    for talk in talks:
+        talk.pop("duration", None)
+    path = tmp_path / "feed.rss"
+    sc.build_feed("Test Speaker", talks, path)
+
+    items = ET.parse(path).getroot().find("channel").findall("item")
+    assert all(item.find(f"{ITUNES}duration") is None for item in items)

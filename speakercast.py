@@ -41,7 +41,9 @@ FIRST_CONFERENCE = (1971, 4)
 CONFERENCE_MONTHS = (4, 10)
 
 ROOT = Path(__file__).resolve().parent
-CACHE_DIR = ROOT / ".cache"
+# Bump the version when the shape of a cached talk changes, so stale entries
+# from an older build are ignored rather than silently missing new fields.
+CACHE_DIR = ROOT / ".cache" / "v2"
 FEED_DIR = ROOT / "feeds"
 COVER_DIR = ROOT / "covers"
 ASSET_DIR = ROOT / "assets"
@@ -311,6 +313,28 @@ def audio_url(page: dict) -> str | None:
     return None
 
 
+def talk_duration(body: str) -> int | None:
+    """Run time in whole seconds, from the media player embedded in the page.
+
+    Present for 99.6% of talks, back to 1971. `<itunes:duration>` is optional,
+    so the handful without it simply omit the tag.
+    """
+    match = re.search(r'data-duration="(\d+)"', body)
+    if match is None:
+        return None
+    # Truncate, matching the page's own data-duration-string label:
+    # 909700ms is shown as "15:09", not "15:10".
+    seconds = int(match.group(1)) // 1000
+    return seconds or None
+
+
+def format_duration(seconds: int) -> str:
+    """Seconds as HH:MM:SS, the format podcast apps display."""
+    hours, rest = divmod(seconds, 3600)
+    minutes, secs = divmod(rest, 60)
+    return f"{hours:02}:{minutes:02}:{secs:02}"
+
+
 # --------------------------------------------------------------------------
 # Fetching
 # --------------------------------------------------------------------------
@@ -342,6 +366,7 @@ def _resolve_talk(stub: dict, year: int, month: int) -> dict | None:
         "html": page["content"]["body"],
         "audio_url": url,
         "audio_size": size,
+        "duration": talk_duration(page["content"]["body"]),
     }
 
 
@@ -429,6 +454,8 @@ def build_feed(speaker: str, talks: list[dict], path: Path) -> None:
         entry.link(href=talk["url"])
         entry.published(datetime.fromisoformat(talk["time"]))
         entry.podcast.itunes_author(talk["speaker"])
+        if talk.get("duration"):
+            entry.podcast.itunes_duration(format_duration(talk["duration"]))
 
     path.parent.mkdir(parents=True, exist_ok=True)
     feed.rss_file(str(path), pretty=True)
