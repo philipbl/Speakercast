@@ -7,3 +7,7 @@ __pycache__/
 .pytest_cache/
 .ruff_cache/
 .claude/
+feeds/
+covers/
+_site/
+assets/data.json
