@@ -1,5 +1,9 @@
 .DS_Store
-db
-mongod.conf
-.python-version
-env
+.cache/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.claude/

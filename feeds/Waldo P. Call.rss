@@ -1,107 +1,114 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Talks By Waldo P. Call</title>
-    <link>http://philip.lundrigan.org/Speakercast/</link>
+    <link>https://philip.lundrigan.org/Speakercast/</link>
     <description>General Conference talks by Waldo P. Call.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Speakercast</generator>
     <image>
-      <url>http://philip.lundrigan.org/Speakercast/covers/Waldo%20P.%20Call.jpg</url>
+      <url>https://philip.lundrigan.org/Speakercast/covers/Waldo%20P.%20Call.jpg</url>
       <title>General Conference talks by Waldo P. Call.</title>
-      <link>http://philip.lundrigan.org/Speakercast/</link>
+      <link>https://philip.lundrigan.org/Speakercast/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Apr 1985 14:00:00 -0700</lastBuildDate>
-    <pubDate>Sun, 07 Apr 1985 14:00:00 -0700</pubDate>
+    <lastBuildDate>Sun, 07 Oct 1990 14:00:00 -0600</lastBuildDate>
+    <pubDate>Sun, 07 Oct 1990 14:00:00 -0600</pubDate>
+    <itunes:author>Waldo P. Call</itunes:author>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
+    <itunes:image href="https://philip.lundrigan.org/Speakercast/covers/Waldo%20P.%20Call.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>General Conference talks by Waldo P. Call.</itunes:summary>
     <item>
       <title>This Is the Work of the Lord</title>
-      <link>http://www.lds.org/general-conference/1985/04/this-is-the-work-of-the-lord?lang=eng</link>
-      <description>My dear brothers and sisters, this is, as our missionaries would say, an awesome situation. At this time, I want to thank my parents for the good example they set for me. There was one time in my life—and my mother, who I imagine might be listening, </description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/1985/04/this-is-the-work-of-the-lord" schema-version="1" doc-id="general-conference_03187_000_035" doc-version="2" hash="KFPdZg">
-  
-  <div class="heading" uri="/general-conference/1985/04/this-is-the-work-of-the-lord.head">
-    <h1 class="title" pid="9yGEjAgQfE-_L_nAqPn25g" hash="_LIRYw">This Is the Work of the Lord</h1>
-    <p class="authorName" pid="7eiImYEaw02ZQw4UQMXq0g" hash="c0ADQw">Waldo P. Call</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/1985/04/this-is-the-work-of-the-lord.t1">
-      <img src="ensignlp.nfo-o-262a.jpg" alt="Elder Waldo P. Call" pid="Wih4gHPZE0qnjMsyPV2g-A" hash="d3Rfyg" />
-      <p class="para" uri="/general-conference/1985/04/this-is-the-work-of-the-lord.p1" pid="IZpcVW1EhkatL7H0MssOdQ" hash="SAjpDQ">My dear brothers and sisters, this is, as our missionaries would say, an awesome situation. At this time, I want to thank my parents for the good example they set for me. There was one time in my life—and my mother, who I imagine might be listening, doesn’t know this—when the love I knew she had for me saved me. I knelt down one night to pray, as she had taught me. I was about to throw away everything that I had. As I started praying, I started thinking of her and of the love that she had for me. As I cried and prayed—and it took most of the night—I was so grateful that I knew that she loved me.</p>
-      <p class="para" uri="/general-conference/1985/04/this-is-the-work-of-the-lord.p2" pid="JjxZqUedKkqk7OpEfDbPPQ" hash="LBmu9w">I am grateful for my wife. Throughout the many years we have been together, I have known that she has loved me. It is because of this love I have felt for my family, and they have felt for me, that I am here today.</p>
-      <p class="para" uri="/general-conference/1985/04/this-is-the-work-of-the-lord.p3" pid="f8Edns5mGEC7z7TQ0JCixg" hash="KjReJg">I am grateful for President Kimball. I was watching some young people sitting in front of me as we were singing “We Thank Thee, O God, for a Prophet” (<span class="emphasis">Hymns,</span> no. 196), and I imagine they would have liked to have come up and sat beside President Kimball where I sat just now.</p>
-      <p class="para" uri="/general-conference/1985/04/this-is-the-work-of-the-lord.p4" pid="aYXRLnAJNkukyULx_3SJ8Q" hash="9vbRXg">I know that this is the work of the Lord. I know that he lives. I know this. I know that these men, the First Presidency and the Quorum of the Twelve, are prophets and Apostles, seers and revelators, and if we will follow them, we will have eternal life. I say this in the name of Jesus Christ, amen.</p>
-    </div>
-  </div>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/1985/04/this-is-the-work-of-the-lord?lang=eng</link>
+      <description>My dear brothers and sisters, this is, as our missionaries would say, an awesome situation. At this time, I want to thank my parents for the good example they set for me. There was one time in my life—and my mother, who I imagine might be listening, doesn’t know this—when the love I knew she had for me saved me. I knelt down one night to pray, as she had taught me. I was about to throw away everything that I had. As I started praying, I started thinking of her and of the love that she had for me. As I cried and prayed—and it took most of the night—I was so grateful that I knew that she loved me.</description>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="84"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/40cbd42051321a6fecbf4d2f00b81fb2203a730f/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/40cbd42051321a6fecbf4d2f00b81fb2203a730f/full/%21192%2C/0/default" data-video-title="This Is the Work of the Lord" data-video-description="Elder Waldo P. Call delivers a message titled &quot;This Is the Work of the Lord.&quot;" data-video-id="2255437963001" data-ip="Download and Streaming                            " data-duration="131464" data-assetId="47a13a47fd60b1178c5c5cd78f62002d723d5f7f" data-ref-id="47a13a47fd60b1178c5c5cd78f62002d723d5f7f" data-duration-string="2:11" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/2255437963001.m3u8" type="application/vnd.apple.mpegurl" data-width="480" data-height="360" data-file-size="6719045"/><source src="https://assets.churchofjesuschrist.org/47a13a47fd60b1178c5c5cd78f62002d723d5f7f-360p-en.mp4" type="video/mp4" data-width="480" data-height="360" data-file-size="6719045"/></video><h1 data-aid="28767573" id="title1">This Is the Work of the Lord</h1>
+<div class="byline">
+<p class="author-name" data-aid="28767574" id="p1">By Elder Waldo P. Call</p>
+<p class="author-role" data-aid="150026051" id="p6">Of the First Quorum of the Seventy</p>
+<div class="image-cropper"><img alt="Elder Waldo P. Call" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/ayyvnxhr2f26jz5gx12ht2rexhbabog8uk7z2ae0/full/%21100%2C/0/default" data-assetId="ayyvnxhr2f26jz5gx12ht2rexhbabog8uk7z2ae0" srcset="https://www.churchofjesuschrist.org/imgs/ayyvnxhr2f26jz5gx12ht2rexhbabog8uk7z2ae0/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/ayyvnxhr2f26jz5gx12ht2rexhbabog8uk7z2ae0/full/%21100%2C/0/default 100w" data-img-id="ayyvnxhr2f26jz5gx12ht2rexhbabog8uk7z2ae0" data-missing-asset="false" data-width="100" data-height="123" data-aspect-ratio="0.8130081300813008" data-public-title="Waldo P. Call" data-public-description="Waldo P. Call"/></div>
+</div>
+</header>
+<div class="body-block">
+<p data-aid="28767575" id="p2">My dear brothers and sisters, this is, as our missionaries would say, an awesome situation. At this time, I want to thank my parents for the good example they set for me. There was one time in my life—and my mother, who I imagine might be listening, doesn’t know this—when the love I knew she had for me saved me. I knelt down one night to pray, as she had taught me. I was about to throw away everything that I had. As I started praying, I started thinking of her and of the love that she had for me. As I cried and prayed—and it took most of the night—I was so grateful that I knew that she loved me.</p>
+<p data-aid="28767576" id="p3">I am grateful for my wife. Throughout the many years we have been together, I have known that she has loved me. It is because of this love I have felt for my family, and they have felt for me, that I am here today.</p>
+<p data-aid="28767577" id="p4">I am grateful for President Kimball. I was watching some young people sitting in front of me as we were singing “We Thank Thee, O God, for a Prophet” (<em>Hymns,</em> no. 196), and I imagine they would have liked to have come up and sat beside President Kimball where I sat just now.</p>
+<p data-aid="28767578" id="p5">I know that this is the work of the Lord. I know that he lives. I know this. I know that these men, the First Presidency and the Quorum of the Twelve, are prophets and Apostles, seers and revelators, and if we will follow them, we will have eternal life. I say this in the name of Jesus Christ, amen.</p>
 </div>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/1985/04/this-is-the-work-of-the-lord</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/april-1985-general-conference/1985-04-5070-elder-waldo-p-call-64k-eng.mp3" length="2104792" type="audio/mpeg"/>
+      <enclosure url="https://assets.churchofjesuschrist.org/5950c18632f011ec8aafeeeeac1e5e36b1d00bce-128k-en.mp3" length="2456478" type="audio/mpeg"/>
       <pubDate>Sun, 07 Apr 1985 14:00:00 -0700</pubDate>
+      <itunes:author>Waldo P. Call</itunes:author>
     </item>
     <item>
       <title>Follow the Prophets</title>
-      <link>http://www.lds.org/general-conference/1990/10/follow-the-prophets?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/1990/10/follow-the-prophets?lang=eng</link>
       <description>In the Old Testament, in 2 Kings, we read of a man by the name of Naaman. He was the “captain of the host of the king of Syria, … but he was a leper.” (.)</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/1990/10/follow-the-prophets" schema-version="1" doc-id="general-conference_90911_000_034" doc-version="2" hash="MhBK_g">
-  
-  <div class="heading" uri="/general-conference/1990/10/follow-the-prophets.head">
-    <h1 class="title" pid="eMReJ51yy0eS06nVJbYxCw" hash="YlERkA">Follow the Prophets</h1>
-    <p class="authorName" pid="z9fQ1-ScD02dG0WyNN2TlQ" hash="c0ADQw">Waldo P. Call</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/1990/10/follow-the-prophets.t1">
-      <img src="ensignlp.nfo-o-262a.jpg" alt="Elder Waldo P. Call" pid="cKAJqbum1kuxxU1vPcgjzg" hash="d3Rfyg" />
-      <p class="para" uri="/general-conference/1990/10/follow-the-prophets.p1" pid="UnNJ5SxAfkSYUr8O9IcC2A" hash="AjCp0w">In the Old Testament, in 2 Kings, we read of a man by the name of Naaman. He was the “captain of the host of the king of Syria, … but he was a leper.” (<a href="/scriptures/ot/2-kgs/5.1" class="scriptureRef">2 Kgs. 5:1</a>.)</p>
-      <p class="para" uri="/general-conference/1990/10/follow-the-prophets.p2" pid="HDaxMMSEm0mnq7tXLhIiEA" hash="MuCCZQ">An Israelite maid who “waited on Naaman’s wife” said: “Would God my lord were with the prophet that is in Samaria! for he would recover him of his leprosy.” (<a href="/scriptures/ot/2-kgs/5.2-3" class="scriptureRef">2 Kgs. 5:2–3</a>.)</p>
-      <p class="para" uri="/general-conference/1990/10/follow-the-prophets.p3" pid="41ABje52LkyTlKzyIvRGFQ" hash="0B_SJw">Captain Naaman, not a member of the Church, accepted this in full faith and hope. The Syrian king gave him a letter for the king of Israel, and gold, silver, and fine clothing as gifts.</p>
-      <p class="para" uri="/general-conference/1990/10/follow-the-prophets.p4" pid="XK_DvdsXc0q7MMzeE6vuOA" hash="OgKHYg">The king of Israel, a man of little faith, was upset about this because he knew he could not heal Naaman, and he said, “See how he seeketh a quarrel against me.” (<a href="/scriptures/ot/2-kgs/5.7" class="scriptureRef">2 Kgs. 5:7</a>.)</p>
-      <p class="para" uri="/general-conference/1990/10/follow-the-prophets.p5" pid="6OieFjnqLkqUnWAFPzqCkg" hash="c8AJxg">“When Elisha the man of God had heard” this “he sent to the king, saying, … let him come … to me, and he shall know that there is a prophet in Israel.” (<a href="/scriptures/ot/2-kgs/5.8" class="scriptureRef">2 Kgs. 5:8</a>.)</p>
-      <p class="para" uri="/general-conference/1990/10/follow-the-prophets.p6" pid="ISGdrBVFMkKaf0zwCgjgyg" hash="Oa-06g">Naaman went to the prophet. “Elisha sent a messenger unto him, saying, Go and wash in Jordan seven times, and thy flesh shall come again to thee, and thou shalt be clean.</p>
-      <p class="para" uri="/general-conference/1990/10/follow-the-prophets.p7" pid="FaPpvXbUJkyrAVQAnClgQA" hash="b-N6xQ">“But Naaman was wroth, and went away, and said, Behold, I thought, He will surely come out to me, and stand, and call on the name of the Lord his God, and strike his hand over the place, and recover the leper.</p>
-      <p class="para" uri="/general-conference/1990/10/follow-the-prophets.p8" pid="EE0XInLyF0ywAbJiR_tOaQ" hash="QsqO5Q">“Are not … rivers of Damascus, better than all the waters of Israel? … So he turned and went away in a rage.” (<a href="/scriptures/ot/2-kgs/5.10-12" class="scriptureRef">2 Kgs. 5:10–12</a>.)</p>
-      <p class="para" uri="/general-conference/1990/10/follow-the-prophets.p9" pid="Ml_TogpwPUaCzlRsjUIGiQ" hash="Ve4O4A">His pride would not let him follow the prophet’s direction. He was going home, and he was leprous still. Could this be because of a proud heart?</p>
-      <p class="para" uri="/general-conference/1990/10/follow-the-prophets.p10" pid="RTzsLmkuVEO5uVXvkzjhLg" hash="jKxt-Q">His good servants convinced him that he should do as the prophet had said, saying, “If the prophet had bid thee do some great thing, wouldest thou not have done it?</p>
-      <p class="para" uri="/general-conference/1990/10/follow-the-prophets.p11" pid="ziU_j08tnkytTfgE4q5y5g" hash="8sKU0Q">“Then went he down, and dipped himself seven times in Jordan, according to the saying of the man of God: and his flesh came again like unto the flesh of a little child, and he was clean.” (<a href="/scriptures/ot/2-kgs/5.13-14" class="scriptureRef">2 Kgs. 5:13–14</a>.)</p>
-      <p class="para" uri="/general-conference/1990/10/follow-the-prophets.p12" pid="fDOYKHL8bkKwhCMNiBIKbg" hash="uOPbZg">Naaman was grateful for this and went to the prophet with the gold and silver and fine clothes. But the prophet of God, of course, would not accept payment for the blessings of God.</p>
-      <p class="para" uri="/general-conference/1990/10/follow-the-prophets.p13" pid="6T_mNJ06AEeEyb17NTKTWg" hash="wAqXfg">So Naaman and his company started home. The servant of Elisha, the prophet, found it hard to see these riches slip from his hands, so he ran after Naaman. Naaman stopped when he saw him coming. The servant said that his master had company and asked for a talent of silver and two changes of clothing.</p>
-      <p class="para" uri="/general-conference/1990/10/follow-the-prophets.p14" pid="f0vZQQOrwEe7yCYgUgRuQA" hash="ZvTI_g">Naaman was delighted to give them to him and even sent two of his servants to carry them. Before coming to the house of Elisha, the servant stopped and put them in a house. Then he went in to Elisha.</p>
-      <p class="para" uri="/general-conference/1990/10/follow-the-prophets.p15" pid="7IjHve_mhEGgWqk_dRZqaw" hash="7VRYEw">And Elisha said: “Whence comest thou? …</p>
-      <p class="para" uri="/general-conference/1990/10/follow-the-prophets.p16" pid="pHBsaIm0FEOMifRx2EnSkg" hash="j-v6vw">“Went not mine heart with thee? … Is it a time to receive money? …</p>
-      <p class="para" uri="/general-conference/1990/10/follow-the-prophets.p17" pid="zea9C404FkKtY0ZN7ORJ_w" hash="QjMpnA">“The leprosy therefore of Naaman shall cleave unto thee, and unto thy seed for ever. And he went out from his presence a leper as white as snow.” (<a href="/scriptures/ot/2-kgs/5.25-27" class="scriptureRef">2 Kgs. 5:25–27</a>.)</p>
-      <p class="para" uri="/general-conference/1990/10/follow-the-prophets.p18" pid="4Krwgd-Y5kWN9jqI5876rQ" hash="-z2fGw">President Benson, the prophet of God, has counseled us on so many important things. Are we doing them? Or do we say:</p>
-      <p class="para" uri="/general-conference/1990/10/follow-the-prophets.p19" pid="6M-LcLjeV0ey8OyuTZ7KBg" hash="o3f6IQ">“Oh, yes, he is the Lord’s prophet, but I don’t want to go on a mission.”</p>
-      <p class="para" uri="/general-conference/1990/10/follow-the-prophets.p20" pid="KWbvVmz45kOWwUyaGswseg" hash="J00oiA">“I don’t want to get married.”</p>
-      <p class="para" uri="/general-conference/1990/10/follow-the-prophets.p21" pid="Giwqo5nRK0GFQ-VLm2jxGQ" hash="CvdCKg">“I don’t have time to read the Book of Mormon every day. I’m too busy with my work or studies.”</p>
-      <p class="para" uri="/general-conference/1990/10/follow-the-prophets.p22" pid="dQ8nFSL7rEWU7GzYxO4XaQ" hash="bDFUwQ">“We don’t have time for family prayer or home evening.”</p>
-      <p class="para" uri="/general-conference/1990/10/follow-the-prophets.p23" pid="NxiUpwcqNkmi4TTWYiKoyQ" hash="8GHkYg">“But I need to sleep in on Sunday after the big activity. I cannot go to church.”</p>
-      <p class="para" uri="/general-conference/1990/10/follow-the-prophets.p24" pid="m1Bk7Mr6ZEi4D70vHE6MlA" hash="L_QEdA">“But Sunday is the only day I have to shop because of my work and studies.”</p>
-      <p class="para" uri="/general-conference/1990/10/follow-the-prophets.p25" pid="UzeO2pv5w0-uLWz0rCiVEA" hash="UfRo9g">A quote from the sermon of King Benjamin says, “For the natural man is an enemy to God, and has been from the fall of Adam, and will be, forever and ever, unless he yields to the enticings of the Holy Spirit, and putteth off the natural man and becometh a saint through the atonement of Christ the Lord, and becometh as a child, <span class="emphasis">submissive,</span> meek, humble, patient, full of love, <span class="emphasis">willing to submit to all things which the Lord seeth fit to inflict upon him, even as a child doth submit to his father.</span>” (<a href="/scriptures/bofm/mosiah/3.19" class="scriptureRef">Mosiah 3:19</a>; italics added.)</p>
-      <p class="para" uri="/general-conference/1990/10/follow-the-prophets.p26" pid="Sn6t3IVw2Umr7DaiHEEonw" hash="1iU7Kw">The prophet Lehi said to his son Nephi, “And now, behold thy brothers <span class="emphasis">murmur,</span> saying it is a hard thing which I have required of them; but behold I have not required it of them, but it is a commandment of the Lord.” (<a href="/scriptures/bofm/1-ne/3.5" class="scriptureRef">1 Ne. 3:5</a>; italics added.)</p>
-      <p class="para" uri="/general-conference/1990/10/follow-the-prophets.p27" pid="6CAvhJ7RdUu6fBKrcafudw" hash="aRsGtg">Can you hear President Benson saying, “But behold, I have not told you to go on a mission or marry in the temple; but it is a commandment of the Lord”?</p>
-      <p class="para" uri="/general-conference/1990/10/follow-the-prophets.p28" pid="cLJ0YQ9HYEaaeXxNpjzJpA" hash="ZlTPBA">Lehi continues, “Therefore go, my son, and thou shalt be favored of the Lord, because thou hast <span class="emphasis">not murmured.</span></p>
-      <p class="para" uri="/general-conference/1990/10/follow-the-prophets.p29" pid="z3MvAF9dxECuFkfDSAok9g" hash="4epDdw">“And it came to pass that I, Nephi, said unto my father: I will go and do the things which the Lord hath commanded, for I know that the Lord giveth no commandments unto the children of men, save he shall prepare a way for them that they may accomplish the thing which he commandeth them.” (<a href="/scriptures/bofm/1-ne/3.6-7" class="scriptureRef">1 Ne. 3:6–7</a>; italics added.)</p>
-      <p class="para" uri="/general-conference/1990/10/follow-the-prophets.p30" pid="fgCEWPmTVEenxqwXj_O0lQ" hash="ddmkEQ">Do we have the faith of Nephi?</p>
-      <p class="para" uri="/general-conference/1990/10/follow-the-prophets.p31" pid="OkNQ3b40xUylEPkUqSucUw" hash="OFstxA">The Lord told his disciples on this continent, “And it shall come to pass, that whoso repenteth and is baptized in my name shall be filled; <span class="emphasis">and if he endureth to the end,</span> behold, him will I hold guiltless before my Father at that day when I shall stand to judge the world.” (<a href="/scriptures/bofm/3-ne/27.16" class="scriptureRef">3 Ne. 27:16</a>; italics added.)</p>
-      <p class="para" uri="/general-conference/1990/10/follow-the-prophets.p32" pid="HK7FhLsA8Eef0vgmZ31acw" hash="GBIiDw">My dear brothers and sisters and family, can’t you see what we need to do? <span class="emphasis">Be submissive—do not murmur—endure to the end.</span> If we will do this, the Lord will show us the way, if we will but follow his prophets and Apostles.</p>
-      <p class="para" uri="/general-conference/1990/10/follow-the-prophets.p33" pid="qo3oXganSUeXMl4a5tSu_w" hash="okBVpg">Do not question their direction! It is as simple as that. No, I am not saying to have blind faith or blind obedience.</p>
-      <p class="para" uri="/general-conference/1990/10/follow-the-prophets.p34" pid="qk3Pd3KKY0GWhsm85_TPAw" hash="t47TlQ">Sometimes you may want proof of this doctrine or that saying of the prophet. Keep the commandments! Pray, walk in righteousness, and through the Holy Spirit you can know by that sweet, calm feeling that it is true.</p>
-      <p class="para" uri="/general-conference/1990/10/follow-the-prophets.p35" pid="ZgESg4Q-RkKisDoDtfxZtg" hash="fBohGA">Moroni said, “By the power of the Holy Ghost ye may know the truth of all things.” (<a href="/scriptures/bofm/moro/10.5" class="scriptureRef">Moro. 10:5</a>.)</p>
-      <p class="para" uri="/general-conference/1990/10/follow-the-prophets.p36" pid="S39psoyCh0euvT1C-yEbWA" hash="duusAA">We can know by the Spirit that it is right, if, like Nephi, we have faith, are obedient, and keep the commandments.</p>
-      <p class="para" uri="/general-conference/1990/10/follow-the-prophets.p37" pid="qrZxa7A40EGL9Ps47HLx5g" hash="UUfm6g">What if Naaman had let his pride rule him? He would have remained a leper.</p>
-      <p class="para" uri="/general-conference/1990/10/follow-the-prophets.p38" pid="Xs-oIpDtOESSw7IfBHqVDg" hash="Gh8exg">Could we take the servant of Elisha as a type for us when we look at riches, worldly things, and the wisdom of men instead of following the prophets? Will we and our descendants be out of the Church or unclean forever more because of disobedience?</p>
-      <p class="para" uri="/general-conference/1990/10/follow-the-prophets.p39" pid="0AREywL5TkSzFSvJwEEs7Q" hash="QI_MWg">The Lord told the Prophet Joseph Smith, “And the arm of the Lord shall be revealed; and the day cometh that they who will not hear the voice of the Lord, neither the voice of his servants, neither give heed to the words of the prophets and apostles, shall be cut off from among the people.” (<a href="/scriptures/dc-testament/dc/1.14" class="scriptureRef">D&amp;C 1:14</a>.)</p>
-      <p class="para" uri="/general-conference/1990/10/follow-the-prophets.p40" pid="clRZ8uhHA0yKsQvQrXtSeg" hash="VpxHXw">I testify that God, our Heavenly Father, lives. His Son, Jesus Christ, lives, and he is our Savior and Redeemer. This is his church, and he directs it through his prophets. I testify that President Ezra Taft Benson is his prophet; that President Hinckley and President Monson and the Twelve Apostles are worthy prophets and God’s servants.</p>
-      <p class="para" uri="/general-conference/1990/10/follow-the-prophets.p41" pid="k8G9eWPwLkGqU9RHBc4tkA" hash="3D_AfQ">I love my Heavenly Father and Jesus Christ. I love these prophets, Apostles, seers, and revelators. I respect them, I sustain them, and I pray for them.</p>
-      <p class="para" uri="/general-conference/1990/10/follow-the-prophets.p42" pid="heEHu5yzeEOGuwP55hwjtg" hash="2-57WA">I love my family; and I love you, my brothers and sisters; and I pray that we will follow the prophets and Apostles and keep the commandments of God. In the name of Jesus Christ, amen.</p>
-    </div>
-  </div>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="82"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/e67a6b997e67a58ff85bbe192e6042a2e83ef63c/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/e67a6b997e67a58ff85bbe192e6042a2e83ef63c/full/%21192%2C/0/default" data-video-title="Follow the Prophets" data-video-description="Elder Waldo P. Call delivers a message titled &quot;Follow the Prophets.&quot;" data-video-id="2255413914001" data-ip="Download and Streaming                            " data-duration="584850" data-assetId="eab63b1be4ea204707de4a54739e061be76a4098" data-ref-id="eab63b1be4ea204707de4a54739e061be76a4098" data-duration-string="9:44" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/2255413914001.m3u8" type="application/vnd.apple.mpegurl" data-width="480" data-height="360" data-file-size="31486452"/><source src="https://assets.churchofjesuschrist.org/eab63b1be4ea204707de4a54739e061be76a4098-360p-en.mp4" type="video/mp4" data-width="480" data-height="360" data-file-size="31486452"/></video><h1 data-aid="28782538" id="title1">Follow the Prophets</h1>
+<div class="byline">
+<p class="author-name" data-aid="28782539" id="p1">By Elder Waldo P. Call</p>
+<p class="author-role" data-aid="150030271" id="p44">Of the Seventy</p>
+<div class="image-cropper"><img alt="Elder Waldo P. Call" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/ayyvnxhr2f26jz5gx12ht2rexhbabog8uk7z2ae0/full/%21100%2C/0/default" data-assetId="ayyvnxhr2f26jz5gx12ht2rexhbabog8uk7z2ae0" srcset="https://www.churchofjesuschrist.org/imgs/ayyvnxhr2f26jz5gx12ht2rexhbabog8uk7z2ae0/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/ayyvnxhr2f26jz5gx12ht2rexhbabog8uk7z2ae0/full/%21100%2C/0/default 100w" data-img-id="ayyvnxhr2f26jz5gx12ht2rexhbabog8uk7z2ae0" data-missing-asset="false" data-width="100" data-height="123" data-aspect-ratio="0.8130081300813008" data-public-title="Waldo P. Call" data-public-description="Waldo P. Call"/></div>
+</div>
+</header>
+<div class="body-block">
+<p data-aid="28782540" id="p2">In the Old Testament, in 2 Kings, we read of a man by the name of Naaman. He was the “captain of the host of the king of Syria, … but he was a leper” (<a class="scripture-ref" href="/study/scriptures/ot/2-kgs/5?lang=eng&amp;id=p1#p1">2 Kgs. 5:1</a>).</p>
+<p data-aid="28782541" id="p3">An Israelite maid who “waited on Naaman’s wife” said: “Would God my lord were with the prophet that is in Samaria! for he would recover him of his leprosy” (<a class="scripture-ref" href="/study/scriptures/ot/2-kgs/5?lang=eng&amp;id=p2-p3#p2">vs. 2–3</a>).</p>
+<p data-aid="28782542" id="p4">Captain Naaman, not a member of the Church, accepted this in full faith and hope. The Syrian king gave him a letter for the king of Israel, and gold, silver, and fine clothing as gifts.</p>
+<p data-aid="28782543" id="p5">The king of Israel, a man of little faith, was upset about this because he knew he could not heal Naaman, and he said, “See how he seeketh a quarrel against me” (<a class="scripture-ref" href="/study/scriptures/ot/2-kgs/5?lang=eng&amp;id=p7#p7">v. 7</a>).</p>
+<p data-aid="28782544" id="p6">“When Elisha the man of God had heard” this, “he sent to the king, saying, … let him come … to me, and he shall know that there is a prophet in Israel” (<a class="scripture-ref" href="/study/scriptures/ot/2-kgs/5?lang=eng&amp;id=p8#p8">v. 8</a>).</p>
+<p data-aid="28782545" id="p7">Naaman went to the prophet. “Elisha sent a messenger unto him, saying, Go and wash in Jordan seven times, and thy flesh shall come again to thee, and thou shalt be clean.</p>
+<p data-aid="28782546" id="p8">“But Naaman was wroth, and went away, and said, Behold, I thought, He will surely come out to me, and stand, and call on the name of the Lord his God, and strike his hand over the place, and recover the leper.</p>
+<p data-aid="28782547" id="p9">“Are not … rivers of Damascus, better than all the waters of Israel? … So he turned and went away in a rage” (<a class="scripture-ref" href="/study/scriptures/ot/2-kgs/5?lang=eng&amp;id=p10-p12#p10">vs. 10–12</a>).</p>
+<p data-aid="28782548" id="p10">His pride would not let him follow the prophet’s direction. He was going home, and he was leprous still. Could this be because of a proud heart?</p>
+<p data-aid="28782549" id="p11">His good servants convinced him that he should do as the prophet had said, saying: “If the prophet had bid thee do some great thing, wouldest thou not have done it?</p>
+<p data-aid="28782550" id="p12">“Then went he down, and dipped himself seven times in Jordan, according to the saying of the man of God: and his flesh came again like unto the flesh of a little child, and he was clean” (<a class="scripture-ref" href="/study/scriptures/ot/2-kgs/5?lang=eng&amp;id=p13-p14#p13">vs. 13–14</a>).</p>
+<p data-aid="28782551" id="p13">Naaman was grateful for this and went to the prophet with the gold and silver and fine clothes. But the prophet of God, of course, would not accept payment for the blessings of God.</p>
+<p data-aid="28782552" id="p14">So Naaman and his company started home. The servant of Elisha, the prophet, found it hard to see these riches slip from his hands, so he ran after Naaman. Naaman stopped when he saw him coming. The servant said that his master had company and asked for a talent of silver and two changes of clothing.</p>
+<p data-aid="28782553" id="p15">Naaman was delighted to give them to him and even sent two of his servants to carry them. Before coming to the house of Elisha, the servant stopped and put them in a house. Then he went in to Elisha.</p>
+<p data-aid="28782554" id="p16">And Elisha said: “Whence comest thou? …</p>
+<p data-aid="28782555" id="p17">“Went not mine heart with thee? … Is it a time to receive money? …</p>
+<p data-aid="28782556" id="p18">“The leprosy therefore of Naaman shall cleave unto thee, and unto thy seed for ever. And he went out from his presence a leper as white as snow” (<a class="scripture-ref" href="/study/scriptures/ot/2-kgs/5?lang=eng&amp;id=p25-p27#p25">vs. 25–27</a>).</p>
+<p data-aid="28782557" id="p19">President Benson, the prophet of God, has counseled us on so many important things. Are we doing them? Or do we say:</p>
+<p data-aid="28782558" id="p20">“Oh, yes, he is the Lord’s prophet, but I don’t want to go on a mission.”</p>
+<p data-aid="28782559" id="p21">“I don’t want to get married.”</p>
+<p data-aid="28782560" id="p22">“I don’t have time to read the Book of Mormon every day. I’m too busy with my work or studies.”</p>
+<p data-aid="28782561" id="p23">“We don’t have time for family prayer or home evening.”</p>
+<p data-aid="28782562" id="p24">“But I need to sleep in on Sunday after the big activity. I cannot go to church.”</p>
+<p data-aid="28782563" id="p25">“But Sunday is the only day I have to shop because of my work and studies.”</p>
+<p data-aid="28782564" id="p26">A quote from the sermon of King Benjamin says, “For the natural man is an enemy to God, and has been from the fall of Adam, and will be, forever and ever, unless he yields to the enticings of the Holy Spirit, and putteth off the natural man and becometh a saint through the atonement of Christ the Lord, and becometh as a child, <em>submissive,</em> meek, humble, patient, full of love, <em>willing to submit to all things which the Lord seeth fit to inflict upon him, even as a child doth submit to his father</em>” (<a class="scripture-ref" href="/study/scriptures/bofm/mosiah/3?lang=eng&amp;id=p19#p19">Mosiah 3:19</a>; italics added).</p>
+<p data-aid="28782565" id="p27">The prophet Lehi said to his son Nephi, “And now, behold thy brothers <em>murmur,</em> saying it is a hard thing which I have required of them; but behold I have not required it of them, but it is a commandment of the Lord” (<a class="scripture-ref" href="/study/scriptures/bofm/1-ne/3?lang=eng&amp;id=p5#p5">1 Ne. 3:5</a>; italics added).</p>
+<p data-aid="28782566" id="p28">Can you hear President Benson saying, “But behold, I have not told you to go on a mission or marry in the temple; but it is a commandment of the Lord”?</p>
+<span class="page-break" data-page="83"></span>
+<p data-aid="28782567" id="p29">Lehi continues: “Therefore go, my son, and thou shalt be favored of the Lord, because thou hast <em>not murmured.</em></p>
+<p data-aid="28782568" id="p30">“And it came to pass that I, Nephi, said unto my father: I will go and do the things which the Lord hath commanded, for I know that the Lord giveth no commandments unto the children of men, save he shall prepare a way for them that they may accomplish the thing which he commandeth them” (<a class="scripture-ref" href="/study/scriptures/bofm/1-ne/3?lang=eng&amp;id=p6-p7#p6">1 Ne. 3:6–7</a>; italics added).</p>
+<p data-aid="28782569" id="p31">Do we have the faith of Nephi?</p>
+<p data-aid="28782570" id="p32">The Lord told his disciples on this continent, “And it shall come to pass, that whoso repenteth and is baptized in my name shall be filled; <em>and if he endureth to the end,</em> behold, him will I hold guiltless before my Father at that day when I shall stand to judge the world” (<a class="scripture-ref" href="/study/scriptures/bofm/3-ne/27?lang=eng&amp;id=p16#p16">3 Ne. 27:16</a>; italics added).</p>
+<p data-aid="28782571" id="p33">My dear brothers and sisters and family, can’t you see what we need to do? <em>Be submissive—do not murmur—endure to the end.</em> If we will do this, the Lord will show us the way, if we will but follow his prophets and Apostles.</p>
+<p data-aid="28782572" id="p34">Do not question their direction! It is as simple as that. No, I am not saying to have blind faith or blind obedience.</p>
+<p data-aid="28782573" id="p35">Sometimes you may want proof of this doctrine or that saying of the prophet. Keep the commandments! Pray, walk in righteousness, and through the Holy Spirit you can know by that sweet, calm feeling that it is true.</p>
+<p data-aid="28782574" id="p36">Moroni said, “By the power of the Holy Ghost ye may know the truth of all things” (<a class="scripture-ref" href="/study/scriptures/bofm/moro/10?lang=eng&amp;id=p5#p5">Moro. 10:5</a>).</p>
+<p data-aid="28782575" id="p37">We can know by the Spirit that it is right, if, like Nephi, we have faith, are obedient, and keep the commandments.</p>
+<p data-aid="28782576" id="p38">What if Naaman had let his pride rule him? He would have remained a leper.</p>
+<p data-aid="28782577" id="p39">Could we take the servant of Elisha as a type for us when we look at riches, worldly things, and the wisdom of men instead of following the prophets? Will we and our descendants be out of the Church or unclean forevermore because of disobedience?</p>
+<p data-aid="28782578" id="p40">The Lord told the Prophet Joseph Smith, “And the arm of the Lord shall be revealed; and the day cometh that they who will not hear the voice of the Lord, neither the voice of his servants, neither give heed to the words of the prophets and apostles, shall be cut off from among the people” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/1?lang=eng&amp;id=p14#p14">D&amp;C 1:14</a>).</p>
+<p data-aid="28782579" id="p41">I testify that God, our Heavenly Father, lives. His Son, Jesus Christ, lives, and he is our Savior and Redeemer. This is his church, and he directs it through his prophets. I testify that President Ezra Taft Benson is his prophet; that President Hinckley and President Monson and the Twelve Apostles are worthy prophets and God’s servants.</p>
+<p data-aid="28782580" id="p42">I love my Heavenly Father and Jesus Christ. I love these prophets, Apostles, seers, and revelators. I respect them, I sustain them, and I pray for them.</p>
+<p data-aid="28782581" id="p43">I love my family; and I love you, my brothers and sisters; and I pray that we will follow the prophets and Apostles and keep the commandments of God. In the name of Jesus Christ, amen.</p>
 </div>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/1990/10/follow-the-prophets</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/october-1990-general-conference/1990-10-5060-elder-waldo-p-call-64k-eng.mp3" length="4697730" type="audio/mpeg"/>
-      <pubDate>Sun, 07 Oct 1990 14:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/6d55ed0432cb11ec8193eeeeac1ebf62f0022ab6-64k-en.mp3" length="4928474" type="audio/mpeg"/>
+      <pubDate>Sun, 07 Oct 1990 14:00:00 -0600</pubDate>
+      <itunes:author>Waldo P. Call</itunes:author>
     </item>
   </channel>
 </rss>

@@ -1,178 +1,262 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Talks By Adhemar Damiani</title>
-    <link>http://philip.lundrigan.org/Speakercast/</link>
+    <link>https://philip.lundrigan.org/Speakercast/</link>
     <description>General Conference talks by Adhemar Damiani.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Speakercast</generator>
     <image>
-      <url>http://philip.lundrigan.org/Speakercast/covers/Adhemar%20Damiani.jpg</url>
+      <url>https://philip.lundrigan.org/Speakercast/covers/Adhemar%20Damiani.jpg</url>
       <title>General Conference talks by Adhemar Damiani.</title>
-      <link>http://philip.lundrigan.org/Speakercast/</link>
+      <link>https://philip.lundrigan.org/Speakercast/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 02 Oct 1999 14:00:00 -0700</lastBuildDate>
-    <pubDate>Sat, 02 Oct 1999 14:00:00 -0700</pubDate>
+    <lastBuildDate>Sun, 03 Apr 2005 14:00:00 -0600</lastBuildDate>
+    <pubDate>Sun, 03 Apr 2005 14:00:00 -0600</pubDate>
+    <itunes:author>Adhemar Damiani</itunes:author>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
+    <itunes:image href="https://philip.lundrigan.org/Speakercast/covers/Adhemar%20Damiani.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>General Conference talks by Adhemar Damiani.</itunes:summary>
     <item>
       <title>Serving the Lord</title>
-      <link>http://www.lds.org/general-conference/1999/10/serving-the-lord?lang=eng</link>
-      <description>We cannot choose to serve God and the world at the same time.</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/1999/10/serving-the-lord" schema-version="1" doc-id="general-conference_99265_000_013" doc-version="2" hash="oqsBXQ">
-  
-  <div class="heading" uri="/general-conference/1999/10/serving-the-lord.head">
-    <h1 class="title" pid="oBg7Dj8ArkuhKORLKLL9Zw" hash="2AxAMw">Serving the Lord</h1>
-    <p class="authorName" pid="hdLIIKYBNkebWRYEy5_uxA" hash="umx4wg">Elder Adhemar Damiani</p>
-    <p class="kicker" pid="zgGrQudfqkKkq_IQT-1INQ" hash="EvprOw">We cannot choose to serve God and the world at the same time.</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/1999/10/serving-the-lord.t1">
-      <img src="ensignlp.nfo-o-eb.jpg" alt="Elder Adhemar Damiani" pid="ba_oj2etfUmeL7GubxU6iw" hash="wQUjBA" />
-      <p class="para" uri="/general-conference/1999/10/serving-the-lord.p1" pid="DpJT7BgDM0yvIv3azLtjgw" hash="AbsMuA">When Joshua’s life was coming to a close, he gathered the tribes of Israel and recalled the mercy and blessings which God had bestowed upon them.</p>
-      <p class="para" uri="/general-conference/1999/10/serving-the-lord.p2" pid="kzkftYsACESsqn_8ZestdQ" hash="I_6USg">Because of the kind of life they were living, Joshua admonished them and said:</p>
-      <p class="para" uri="/general-conference/1999/10/serving-the-lord.p3" pid="BGOeIBgNlUG6kfRYk6gfZA" hash="DvveLg">“Now therefore fear the Lord, and serve him in sincerity and in truth: and put away the gods which your fathers served on the other side of the flood, and in Egypt; and serve ye the Lord.</p>
-      <p class="para" uri="/general-conference/1999/10/serving-the-lord.p4" pid="yPELTo8CWESURYFeCBpFtA" hash="dUsdnQ">“And if it seem evil unto you to serve the Lord, choose you this day whom ye will serve; … but as for me and my house, we will serve the Lord.”<span class="noteMarker" ref="f_1">1</span></p>
-      <p class="para" uri="/general-conference/1999/10/serving-the-lord.p5" pid="IDWi5jDMI024QCdeCvquOw" hash="3JmNiQ">In our day, we are being admonished in the same manner through apostles and prophets. We are to fear the Lord, serve the Lord, put away worldly gods, and choose whom we will serve.</p>
-      <p class="para" uri="/general-conference/1999/10/serving-the-lord.p6" pid="awmACgILkEyCgSMZa68VtQ" hash="1yTZ1w">Fearing the Lord means to be reverent and to love Him and to keep His commandments.</p>
-      <p class="para" uri="/general-conference/1999/10/serving-the-lord.p7" pid="11Pin4XwEECLPmONwoZWgw" hash="a1eXkA">We show that we serve the Lord by the way in which we live the commandments received from Him, by the work we do to help establish the kingdom of God on earth, and by the way we act towards our neighbor.</p>
-      <p class="para" uri="/general-conference/1999/10/serving-the-lord.p8" pid="7e_Mqt3SJkqFYwU3PXZH1A" hash="FhsE0Q">Putting away worldly gods means keeping impure thoughts out of our minds, shedding all hateful feelings from our hearts, and ridding our lives of everything which may prevent the Holy Ghost from being always with us.</p>
-      <p class="para" uri="/general-conference/1999/10/serving-the-lord.p9" pid="8TtE6xrpVUeBqIdWpgc12g" hash="Z9JGqQ">For some, putting away worldly gods may mean giving up a small habit. For others, it may mean giving up serious sins they are committing. For others still, it may mean forgetting sad events which happened earlier in their lives. Whatever the situation, in each one of us there is the power to change our life, the power to transform the bad feelings we have in our hearts. The Lord Jesus Christ will give us this power and will help us. All He asks from us is that we have faith in Him, follow His example, and obey His commandments.</p>
-      <p class="para" uri="/general-conference/1999/10/serving-the-lord.p10" pid="c6KB2kPDp0SnCrt-FHe4Bw" hash="SO7DEQ">When we love God, serve the Lord sincerely, and give up the things of this world, we become true followers of Christ.</p>
-      <p class="para" uri="/general-conference/1999/10/serving-the-lord.p11" pid="ESWbwdWMYE-yWO5cZaM29w" hash="WefmpQ">Many times in our lives, as it happened to the people of Israel, we stop and wonder. Was it worthwhile serving the Lord? Jesus said:</p>
-      <p class="para" uri="/general-conference/1999/10/serving-the-lord.p12" pid="2mW-DwMcQEi6q7OKxZBV5Q" hash="mpAa5g">“Therefore whosoever heareth these sayings of mine, and doeth them, I will liken him unto a wise man, which built his house upon a rock:</p>
-      <p class="para" uri="/general-conference/1999/10/serving-the-lord.p13" pid="GsWLPkCBDUablLU20dXnQg" hash="boT1ww">“And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell not: for it was founded upon a rock.</p>
-      <p class="para" uri="/general-conference/1999/10/serving-the-lord.p14" pid="Bu54_-sMHUqMGixmOuUjTg" hash="LNi1dg">“And every one that heareth these sayings of mine, and doeth them not, shall be likened unto a foolish man, which built his house upon the sand:</p>
-      <p class="para" uri="/general-conference/1999/10/serving-the-lord.p15" pid="IXNMn5ZhKUmRDaPuDOgYjg" hash="iTgNOA">“And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell: and great was the fall of it.”<span class="noteMarker" ref="f_2">2</span></p>
-      <p class="para" uri="/general-conference/1999/10/serving-the-lord.p16" pid="k4YAHxlSl0GPL8VQ8flnqg" hash="XODNKg">Serving Christ is not in itself a way to escape the hard reality of life.</p>
-      <p class="para" uri="/general-conference/1999/10/serving-the-lord.p17" pid="z4s-VtC80UaTWNt7fO2PiQ" hash="togshg">As the Bible says, “All things come alike to all: there is one event to the righteous, and to the wicked; to the good and to the clean, and to the unclean.”<span class="noteMarker" ref="f_3">3</span></p>
-      <p class="para" uri="/general-conference/1999/10/serving-the-lord.p18" pid="IEspZPu30EqLBWmVN92jIQ" hash="yJM_bw">The rain, the floods, and the winds beat not only upon the house which had been built upon the sand, but also upon the other, which had been built upon the rock.</p>
-      <p class="para" uri="/general-conference/1999/10/serving-the-lord.p19" pid="C3u_oRUDn0-nyzYjbNPgsw" hash="ng6msA">Both the person who serves the Lord as well as the one who disdains Him live in a world ruled by the same laws of nature.</p>
-      <p class="para" uri="/general-conference/1999/10/serving-the-lord.p20" pid="A_Mz3dRUMU-msrycFFb_5g" hash="bSNhHA">Many are the things that come upon him who is a saint as well as upon him who is a sinner—disease, death, catastrophes, accidents, and so forth.</p>
-      <p class="para" uri="/general-conference/1999/10/serving-the-lord.p21" pid="jE4728Tg80ijt8gMRRxVJA" hash="yuqC8w">Neither prosperity nor poverty indicate whether a person is living a Christian life.</p>
-      <p class="para" uri="/general-conference/1999/10/serving-the-lord.p22" pid="SXx-jJ_sAE6Fmg34jRU-Ng" hash="Wqn6OQ">Physical suffering is not evidence of wickedness, nor is it punishment for sin.</p>
-      <p class="para" uri="/general-conference/1999/10/serving-the-lord.p23" pid="jeJYVg12FUiYuHuLXQNPEw" hash="GDtuOw">What then are the rewards of serving the Lord?</p>
-      <p class="para" uri="/general-conference/1999/10/serving-the-lord.p24" pid="KM-h7ZiUjECPXtmsBvXpDQ" hash="G6RTlg">The gospel of Jesus Christ does not promise that we will be free from tribulation. But it does strengthen our spirit so that we can accept adversity and face it when it comes.</p>
-      <p class="para" uri="/general-conference/1999/10/serving-the-lord.p25" pid="pTDUNQIf8ESs90qN7N4MjQ" hash="IMYIeA">The house founded upon a rock does not fall with strong winds or rain.</p>
-      <div class="figure" uri="/general-conference/1999/10/serving-the-lord.f2">
-	<p pid="ZopOzIjsaUKfcarZ-HUQmA" hash="C9fK3Q">The person whose life is founded upon the gospel of Jesus Christ is able to:</p>
-	<ul class="bullet">
-	  <li pid="diun5ELL-E2WLvabHf-EdQ" hash="bFIOEA">
-          <span class="label">•</span>
-          <p pid="PXpDbmsLiEGGYjl1TQMBsw" hash="1JP-yA">Face adversity with hope;</p>
-        </li>
-	  <li pid="ZhGYTdLI0EK98pSvps6G6g" hash="3YN-7w">
-          <span class="label">•</span>
-          <p pid="6Z0gHrn7uU6hDHFDG1Ey5A" hash="1aFzyg">Withstand offense with forgiveness; and</p>
-        </li>
-	  <li pid="UHYhvyDoJ0KfmJkDvUvNKg" hash="gnjntw">
-          <span class="label">•</span>
-          <p pid="V5d37QuGLk6DI0OxLQLUoQ" hash="u-M30w">Face death with serenity.</p>
-        </li>
-	</ul>
-      </div>
-      <div class="figure" uri="/general-conference/1999/10/serving-the-lord.f3">
-	<p pid="iW4MsVSlU0yYrVPbTgnbBw" hash="tl5feQ">The person who chooses to follow the Lord and who keeps His commandments:</p>
-	<ul class="bullet">
-	  <li pid="dNVpRIzo0EKrWXJfJsoxIg" hash="Zory6A">
-          <span class="label">•</span>
-          <p pid="1f5KWnAvQUuxvr3S8Q5lHA" hash="f6rTWw">In his weaknesses, he knows where the source of his strength is;</p>
-        </li>
-	  <li pid="bAsAzKQIeUyQy137RJJBRg" hash="kfvyPg">
-          <span class="label">•</span>
-          <p pid="h3CYRBTBWE2cUkD35swvMw" hash="5OAs6A">In his strength, he remains humble;</p>
-        </li>
-	  <li pid="sX27Ac5rt0uZUw_f4oQGLg" hash="fGQryg">
-          <span class="label">•</span>
-          <p pid="Uh2oHkHhbE27Avq8eH47vg" hash="_c5xZA">In his poverty, he knows what his riches are;</p>
-        </li>
-	  <li pid="iUF5hy7NZECNTS6A1NGMsw" hash="PSNN8g">
-          <span class="label">•</span>
-          <p pid="VIEIIs0Ps06bf1BDzjb4xg" hash="R8GgjQ">In his prosperity, he remembers his brethren with tenderness.</p>
-        </li>
-	</ul>
-      </div>
-      <p class="para" uri="/general-conference/1999/10/serving-the-lord.p26" pid="KRKfKMJftEKhnLixMQKP0Q" hash="782NMA">A person who can live this way, without fear or hate but with love, is a happy person.</p>
-      <p class="para" uri="/general-conference/1999/10/serving-the-lord.p27" pid="HmpLSTgugkC5wSrCJQzGNA" hash="19CT7g">The fruits obtained from serving the Lord are essentially spiritual.</p>
-      <p class="para" uri="/general-conference/1999/10/serving-the-lord.p28" pid="zP8cL6VjU0q6VP4A3PeI9A" hash="xkde0A">Jesus taught that every tree brings forth fruit according to its species: “A good tree cannot bring forth evil fruit, neither can a corrupt tree bring forth good fruit.”<span class="noteMarker" ref="f_4">4</span></p>
-      <p class="para" uri="/general-conference/1999/10/serving-the-lord.p29" pid="MZLbYZR5Yk2wsfR-nvZ7VA" hash="RaBobg">Jesus promised eternal life to His followers: “Verily I say unto you, There is no man that hath left house, or parents, or brethren, or wife, or children, for the kingdom of God’s sake,</p>
-      <p class="para" uri="/general-conference/1999/10/serving-the-lord.p30" pid="3dXSiSZ--kqaBP6Wothkdg" hash="B-HhTg">“Who shall not receive manifold more in this present time, and in the world to come life everlasting.”<span class="noteMarker" ref="f_5">5</span></p>
-      <p class="para" uri="/general-conference/1999/10/serving-the-lord.p31" pid="r7Mq8bkjxkSddeF-c6wLwQ" hash="-i1rpg">In this life, we are building our eternal dwelling.</p>
-      <p class="para" uri="/general-conference/1999/10/serving-the-lord.p32" pid="7Rhk2Pbk7UqKZsCjvwn79w" hash="UgojDA">Are we building upon the rock which is the gospel of Jesus Christ, or are we building upon the sand which lies in the falsehoods of this world?</p>
-      <p class="para" uri="/general-conference/1999/10/serving-the-lord.p33" pid="v03L_4BGkE2z6VuaxSTxOg" hash="7sXf5Q">Each moment we must choose whom we will serve, for we have been placed upon this earth to be proven and tested.<span class="noteMarker" ref="f_6">6</span></p>
-      <p class="para" uri="/general-conference/1999/10/serving-the-lord.p34" pid="3JgvzqNcakmRn7rMPIjW3Q" hash="JayOUQ">We cannot choose to serve God and the world at the same time.<span class="noteMarker" ref="f_7">7</span></p>
-      <p class="para" uri="/general-conference/1999/10/serving-the-lord.p35" pid="E89J1QJ_dEC4EhZt4s3z8g" hash="BKkdrw">If we want to follow the Lord, we should keep His commandments and follow our prophet and his teachings: “And if it seem evil unto you to serve the Lord, choose you this day whom ye will serve; … but as for me and my house, we will serve the Lord.”<span class="noteMarker" ref="f_8">8</span></p>
-      <p class="para" uri="/general-conference/1999/10/serving-the-lord.p36" pid="6Vc2kGRxB0y0kufSe2JeLg" hash="-DjD5Q">I bear my witness that I know these principles are true. My family and I have been very blessed for following the advice of the apostles and prophets and for choosing to serve the Lord. We are guided today by a prophet of God. In the name of Jesus Christ, amen.</p>
-    </div>
-  </div>
-  
-</div>]]></content:encoded>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/1999/10/serving-the-lord?lang=eng</link>
+      <description><![CDATA[<header>
+<span class="page-break" data-page="28"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/d87d6846d2ca01738563e3086d3ea9135ea4c1de/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/d87d6846d2ca01738563e3086d3ea9135ea4c1de/full/%21192%2C/0/default" data-video-title="Serving the Lord" data-video-description="We cannot choose to serve God and the world at the same time." data-video-id="2245721452001" data-ip="Download and Streaming                            " data-duration="417450" data-assetId="2f4d8e25f17e2a9e2e66500188595ad62fd1d85d" data-ref-id="2f4d8e25f17e2a9e2e66500188595ad62fd1d85d" data-duration-string="6:57" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/2245721452001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="480" data-height="360" data-file-size="18573634"/><source src="https://assets.churchofjesuschrist.org/2f4d8e25f17e2a9e2e66500188595ad62fd1d85d-360p-en.mp4" type="video/mp4" data-width="480" data-height="360" data-file-size="18573634"/></video><h1 data-aid="28811142" id="title1">Serving the Lord</h1>
+<div class="byline">
+<p class="author-name" data-aid="28811143" id="p1">By Elder Adhemar Damiani</p>
+<p class="author-role" data-aid="28811144" id="p2">Of the Seventy</p>
+<div class="image-cropper"><img alt="Elder Adhemar Damiani" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/45157945f99755dab1cd81b509554b173aa94cb9/full/%21100%2C/0/default" data-assetId="45157945f99755dab1cd81b509554b173aa94cb9" srcset="https://www.churchofjesuschrist.org/imgs/45157945f99755dab1cd81b509554b173aa94cb9/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/45157945f99755dab1cd81b509554b173aa94cb9/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/45157945f99755dab1cd81b509554b173aa94cb9/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/45157945f99755dab1cd81b509554b173aa94cb9/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/45157945f99755dab1cd81b509554b173aa94cb9/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/45157945f99755dab1cd81b509554b173aa94cb9/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/45157945f99755dab1cd81b509554b173aa94cb9/full/%21640%2C/0/default 640w" data-img-id="45157945f99755dab1cd81b509554b173aa94cb9" data-missing-asset="false" data-width="100" data-height="120" data-aspect-ratio="0.8333333333333334" data-public-title="Damiani, Adhemar" data-public-description="Former official portrait of Elder Adhemar Damiani of the Second Quorum of the Seventy, 1999.  Released at October 2005 general conference.  Served as president of the Campinas Brazil Temple from 2005 to 2007.  Died 16 Jun 2013."/></div>
+</div>
+<p class="kicker" data-aid="28811145" id="kicker1">We cannot choose to serve God and the world at the same time.</p>
+</header>
+<div class="body-block">
+<p data-aid="28811146" id="p3">When Joshua’s life was coming to a close, he gathered the tribes of Israel and recalled the mercy and blessings which God had bestowed upon them.</p>
+<p data-aid="28811147" id="p4">Because of the kind of life they were living, Joshua admonished them and said:</p>
+<p data-aid="28811148" id="p5">“Now therefore fear the Lord, and serve him in sincerity and in truth: and put away the gods which your fathers served on the other side of the flood, and in Egypt; and serve ye the Lord.</p>
+<p data-aid="28811149" id="p6">“And if it seem evil unto you to serve the Lord, choose you this day whom ye will serve; … but as for me and my house, we will serve the Lord.”<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a></p>
+<p data-aid="28811150" id="p7">In our day we are being admonished in the same manner through apostles and prophets. We are to fear the Lord, serve the Lord, put away worldly gods, and choose whom we will serve.</p>
+<p data-aid="28811151" id="p8">Fearing the Lord means to be reverent and to love Him and to keep His commandments.</p>
+<p data-aid="28811152" id="p9">We show that we serve the Lord by the way in which we live the commandments received from Him, by the work we do to help establish the kingdom of God on earth, and by the way we act towards our neighbor.</p>
+<p data-aid="28811153" id="p10">Putting away worldly gods means keeping impure thoughts out of our minds, shedding all hateful feelings from our hearts, and ridding our lives of everything which may prevent the Holy Ghost from being always with us.</p>
+<p data-aid="28811154" id="p11">For some, putting away worldly gods may mean giving up a small habit. For others, it may mean giving up serious sins they are committing. For others still, it may mean forgetting sad events which happened earlier in their lives. Whatever the situation, in each one of us there is the power to change our life, the power to transform the bad feelings we have in our hearts. The Lord Jesus Christ will give us this power and will help us. All He asks from us is that we have faith in Him, follow His example, and obey His commandments.</p>
+<p data-aid="28811155" id="p12">When we love God, serve the Lord sincerely, and give up the things of this world, we become true followers of Christ.</p>
+<p data-aid="28811156" id="p13">Many times in our lives, as it happened to the people of Israel, we stop and wonder, Was it worthwhile serving the Lord? Jesus said:</p>
+<p data-aid="28811157" id="p14">“Therefore whosoever heareth these sayings of mine, and doeth them, I will liken him unto a wise man, which built his house upon a rock:</p>
+<p data-aid="28811158" id="p15">“And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell not: for it was founded upon a rock.</p>
+<p data-aid="28811159" id="p16">“And every one that heareth these sayings of mine, and doeth them not, shall be likened unto a foolish man, which built his house upon the sand:</p>
+<p data-aid="28811160" id="p17">“And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell: and great was the fall of it.”<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a></p>
+<p data-aid="28811161" id="p18">Serving Christ is not in itself a way to escape the hard reality of life.</p>
+<p data-aid="28811162" id="p19">As the Bible says, “All things come alike to all: there is one event to the righteous, and to the wicked; to the good and to the clean, and to the unclean.”<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a></p>
+<p data-aid="28811163" id="p20">The rain, the floods, and the winds beat not only upon the house which had been built upon the sand, but also upon the other, which had been built upon the rock.</p>
+<p data-aid="28811164" id="p21">Both the person who serves the Lord as well as the one who disdains Him live in a world ruled by the same laws of nature.</p>
+<p data-aid="28811165" id="p22">Many are the things that come upon him who is a saint as well as upon him who is a sinner—disease, death, catastrophes, accidents, and so forth.</p>
+<p data-aid="28811166" id="p23">Neither prosperity nor poverty indicates whether a person is living a Christian life.</p>
+<p data-aid="28811167" id="p24">Physical suffering is not evidence of wickedness, nor is it punishment for sin.</p>
+<p data-aid="28811168" id="p25">What, then, are the rewards of serving the Lord?</p>
+<p data-aid="28811169" id="p26">The gospel of Jesus Christ does not promise that we will be free from tribulation. But it does strengthen our spirit so that we can accept adversity and face it when it comes.</p>
+<p data-aid="28811170" id="p27">The house founded upon a rock does not fall with strong winds or rain.</p>
+<p data-aid="28811171" id="p28">The person whose life is founded upon the gospel of Jesus Christ is able to:</p>
+<ul class="bullet">
+<li>
+<p data-aid="28811172" id="p29">Face adversity with hope.</p>
+</li>
+<li>
+<p data-aid="28811173" id="p30">Withstand offense with forgiveness.</p>
+</li>
+<li>
+<p data-aid="28811174" id="p31">Face death with serenity.</p>
+</li>
+</ul>
+<p data-aid="28811175" id="p32">The person who chooses to follow the Lord and who keeps His commandments:</p>
+<ul class="bullet">
+<li>
+<p data-aid="28811176" id="p33">In his weaknesses, he knows where the source of his strength is.</p>
+</li>
+<li>
+<span class="page-break" data-page="29"></span>
+<p data-aid="28811177" id="p34">In his strength, he remains humble.</p>
+</li>
+<li>
+<p data-aid="28811178" id="p35">In his poverty, he knows what his riches are.</p>
+</li>
+<li>
+<p data-aid="28811179" id="p36">In his prosperity, he remembers his brethren with tenderness.</p>
+</li>
+</ul>
+<p data-aid="28811180" id="p37">A person who can live this way, without fear or hate but with love, is a happy person.</p>
+<p data-aid="28811181" id="p38">The fruits obtained from serving the Lord are essentially spiritual.</p>
+<p data-aid="28811182" id="p39">Jesus taught that every tree brings forth fruit according to its species: “A good tree cannot bring forth evil fruit, neither can a corrupt tree bring forth good fruit.”<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a></p>
+<p data-aid="28811183" id="p40">Jesus promised eternal life to His followers: “Verily I say unto you, There is no man that hath left house, or parents, or brethren, or wife, or children, for the kingdom of God’s sake,</p>
+<p data-aid="28811184" id="p41">“Who shall not receive manifold more in this present time, and in the world to come life everlasting.”<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a></p>
+<p data-aid="28811185" id="p42">In this life, we are building our eternal dwelling.</p>
+<p data-aid="28811186" id="p43">Are we building upon the rock which is the gospel of Jesus Christ, or are we building upon the sand which lies in the falsehoods of this world?</p>
+<p data-aid="28811187" id="p44">Each moment we must choose whom we will serve, for we have been placed upon this earth to be proven and tested.<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a></p>
+<p data-aid="28811188" id="p45">We cannot choose to serve God and the world at the same time.<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a></p>
+<p data-aid="28811189" id="p46">If we want to follow the Lord, we should keep His commandments and follow our prophet and his teachings: “And if it seem evil unto you to serve the Lord, choose you this day whom ye will serve; … but as for me and my house, we will serve the Lord.”<a class="note-ref" href="#note8"><sup class="marker" data-value="8"></sup></a></p>
+<p data-aid="28811190" id="p47">I bear my witness that I know these principles are true. My family and I have been very blessed for following the advice of the apostles and prophets and for choosing to serve the Lord. We are guided today by a prophet of God. In the name of Jesus Christ, amen.</p>
+</div>
+<footer class="notes">
+<p class="title" data-aid="150157759" id="notetitle1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="28811191" id="note1_p1"><a class="scripture-ref" href="/study/scriptures/ot/josh/24?lang=eng&amp;id=p14-p15#p14">Josh. 24:14–15</a>.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="28811192" id="note2_p1"><a class="scripture-ref" href="/study/scriptures/nt/matt/7?lang=eng&amp;id=p24-p27#p24">Matt. 7:24–27</a>.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="28811193" id="note3_p1"><a class="scripture-ref" href="/study/scriptures/ot/eccl/9?lang=eng&amp;id=p2#p2">Eccl. 9:2</a>.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="28811194" id="note4_p1"><a class="scripture-ref" href="/study/scriptures/nt/matt/7?lang=eng&amp;id=p18#p18">Matt. 7:18</a>.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="28811195" id="note5_p1"><a class="scripture-ref" href="/study/scriptures/nt/luke/18?lang=eng&amp;id=p29-p30#p29">Luke 18:29–30</a>.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="28811196" id="note6_p1">See <a class="scripture-ref" href="/study/scriptures/pgp/abr/3?lang=eng&amp;id=p25#p25">Abr. 3:25</a>.</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="28811197" id="note7_p1">See <a class="scripture-ref" href="/study/scriptures/nt/matt/6?lang=eng&amp;id=p24#p24">Matt. 6:24</a>.</p>
+</li>
+<li data-marker="8." id="note8" data-full-marker="8.">
+<p data-aid="28811198" id="note8_p1"><a class="scripture-ref" href="/study/scriptures/ot/josh/24?lang=eng&amp;id=p15#p15">Josh. 24:15</a>.</p>
+</li>
+</ol>
+</footer>]]></description>
       <guid isPermaLink="false">/general-conference/1999/10/serving-the-lord</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/october-1999-general-conference/1999-10-2040-elder-adhemar-damiani-64k-eng.mp3" length="3352925" type="audio/mpeg"/>
-      <pubDate>Sat, 02 Oct 1999 14:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/561b2abc32da11ecbc25eeeeac1e296286a8a1f8-64k-en.mp3" length="3460380" type="audio/mpeg"/>
+      <pubDate>Sat, 02 Oct 1999 14:00:00 -0600</pubDate>
+      <itunes:author>Adhemar Damiani</itunes:author>
     </item>
     <item>
       <title>Be of Good Cheer and Faithful in Adversity</title>
-      <link>http://www.lds.org/general-conference/2005/04/be-of-good-cheer-and-faithful-in-adversity?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2005/04/be-of-good-cheer-and-faithful-in-adversity?lang=eng</link>
       <description>The gospel of Jesus Christ gives us the strength and the eternal perspective to face what is coming with good cheer.</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/2005/04/be-of-good-cheer-and-faithful-in-adversity" schema-version="1" doc-id="general-conference_PD10032029_000_033" doc-version="2" hash="pMMLqg">
-  
-  <div class="heading" uri="/general-conference/2005/04/be-of-good-cheer-and-faithful-in-adversity.head">
-    <h1 class="title" pid="SfvrOlhk_0CdQuj77SGUOg" hash="NpAoLA">Be of Good Cheer and Faithful in Adversity</h1>
-    <p class="authorName" pid="593T8-lRdEiCL-JYEL-7hQ" hash="umx4wg">Elder Adhemar Damiani</p>
-    <p class="kicker" pid="ma5YIj8CxkW38pYz_0ht9A" hash="PD0SSg">The gospel of Jesus Christ gives us the strength and the eternal perspective to face what is coming with good cheer.</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/2005/04/be-of-good-cheer-and-faithful-in-adversity.t1">
-      <img src="ensignlp.nfo-o-eb.jpg" alt="Elder Adhemar Damiani" pid="Qg4KLe1IjE6_sR4uskuOpQ" hash="wQUjBA" />
-      <p class="para" uri="/general-conference/2005/04/be-of-good-cheer-and-faithful-in-adversity.p1" pid="rqU_UKjDgEmxuGZRM47g_Q" hash="XbELYw">How can we find peace in this world? How can we endure to the end? How can we overcome the difficulties and trials we are facing?</p>
-      <p class="para" uri="/general-conference/2005/04/be-of-good-cheer-and-faithful-in-adversity.p2" pid="l6X82qKzjUa5sU9f60Ur3g" hash="9p7hlg">The Savior Jesus Christ said: “These things I have spoken unto you, that in me ye might have peace. In the world ye shall have tribulation: but be of good cheer; I have overcome the world.”<span class="noteMarker" ref="f_1">1</span></p>
-      <p class="para" uri="/general-conference/2005/04/be-of-good-cheer-and-faithful-in-adversity.p3" pid="D1wvTeznT06JbMmD_YOpvA" hash="CZ8Xng">As part of our mortal probation, we pass through affliction, pain, and disappointment. Only in Jesus Christ can we find peace. He can help us to be of good cheer and to overcome all the challenges of this life.</p>
-      <p class="para" uri="/general-conference/2005/04/be-of-good-cheer-and-faithful-in-adversity.p4" pid="VIm1zB8L9U6qyB8JA4-aeA" hash="K8wVdA">What does it mean to be of good cheer? It means having hope, not getting discouraged, not losing faith, and living life joyfully. “Men are, that they might have joy.”<span class="noteMarker" ref="f_2">2</span> It means facing life with confidence.</p>
-      <p class="para" uri="/general-conference/2005/04/be-of-good-cheer-and-faithful-in-adversity.p5" pid="DvEpoJJ19ECQovm6vl3IJQ" hash="SwsOSg">The gospel of Jesus Christ gives us the strength and the eternal perspective to face what is coming with good cheer. We must, however, not underestimate the difficulties that are prophesied for our day.</p>
-      <p class="para" uri="/general-conference/2005/04/be-of-good-cheer-and-faithful-in-adversity.p6" pid="igx0kjrmp0C2N2lO-jXBlg" hash="0qClbQ">What are some of these difficulties? How can we face them?</p>
-      <p class="para" uri="/general-conference/2005/04/be-of-good-cheer-and-faithful-in-adversity.p7" pid="HoAqFqMW7Ee7YV03ZCafBg" hash="x6EWsQ">Some of these difficulties are lack of hope, lack of love, and lack of peace.</p>
-      <p class="para" uri="/general-conference/2005/04/be-of-good-cheer-and-faithful-in-adversity.p8" pid="M_ydLB8sRkW45Ohv6HPPzQ" hash="jgPcLA">The prophet Moroni taught, “If ye have no hope ye must needs be in despair; and despair cometh because of iniquity.”<span class="noteMarker" ref="f_3">3</span> For many, the coming years may be years of despair. The greater the iniquity, the greater the despair will be.</p>
-      <p class="para" uri="/general-conference/2005/04/be-of-good-cheer-and-faithful-in-adversity.p9" pid="2G1W0MzQ4UCjtr2GHo_VSg" hash="j_Xk5g">The Savior said, “Because iniquity shall abound, the love of many shall wax cold.”<span class="noteMarker" ref="f_4">4</span> As iniquity increases, true love disappears. As a result, fear, insecurity, and despair grow!</p>
-      <p class="para" uri="/general-conference/2005/04/be-of-good-cheer-and-faithful-in-adversity.p10" pid="ndof3rgLV0ScdA5aolRhWw" hash="GQnv5Q">To the Prophet Joseph Smith, the Lord said: “I … will that all men shall know that the day speedily cometh … when peace shall be taken from the earth, and the devil shall have power over his own dominion. And also the Lord shall have power over his saints, and shall reign in their midst.”<span class="noteMarker" ref="f_5">5</span> We live in a time when peace has been taken from the earth.</p>
-      <p class="para" uri="/general-conference/2005/04/be-of-good-cheer-and-faithful-in-adversity.p11" pid="sV2l7aTysECL5zWt7-0iyQ" hash="LAGABw">On the other hand, we live in a glorious time, a time when the Lord has restored His priesthood. The true gospel has been restored. The Church of Jesus Christ of Latter-day Saints is the kingdom of God on earth! We are helping to prepare the earth for the time when the Lord Jesus Christ will come and personally reign.</p>
-      <p class="para" uri="/general-conference/2005/04/be-of-good-cheer-and-faithful-in-adversity.p12" pid="0008wt6GfU2ARmTVWlJBAg" hash="B5Jimw">Why must we pass through trials in this life?</p>
-      <p class="para" uri="/general-conference/2005/04/be-of-good-cheer-and-faithful-in-adversity.p13" pid="sizrziDZTUul5cREWx3jfg" hash="fJmz1Q">The Lord makes no secret that He will test our faith and our obedience. “We will prove them herewith,” He said, “to see if they will do all things whatsoever the Lord their God shall command them.”<span class="noteMarker" ref="f_6">6</span></p>
-      <p class="para" uri="/general-conference/2005/04/be-of-good-cheer-and-faithful-in-adversity.p14" pid="QSnmplTeYEyKV0ovl8Ov6Q" hash="Ow1kYg">We learn from the book of Ecclesiastes: “All things come alike to all: there is one event to the righteous, and to the wicked; to the good and to the clean, and to the unclean; … as is the good, so is the sinner. … There is one event unto all.”<span class="noteMarker" ref="f_7">7</span> Tempests may occur in the life of the man who built his life upon the rock of the gospel, as well as in the life of the foolish who built his life upon the things of this world.<span class="noteMarker" ref="f_8">8</span></p>
-      <p class="para" uri="/general-conference/2005/04/be-of-good-cheer-and-faithful-in-adversity.p15" pid="AO0qXJeA50CwEZ4rx1hetQ" hash="gvJnVw">How should we react to these trials?</p>
-      <p class="para" uri="/general-conference/2005/04/be-of-good-cheer-and-faithful-in-adversity.p16" pid="6Zk2Bg9C5kajYEUGjQW_6g" hash="zVDQ9w">The Lord has said, “If any man will come after me, let him deny himself, and take up his cross daily, and follow me.”<span class="noteMarker" ref="f_9">9</span> Each day we must take up our cross and press forward—and not just linger on the sidelines of our eternal journey.</p>
-      <p class="para" uri="/general-conference/2005/04/be-of-good-cheer-and-faithful-in-adversity.p17" pid="c8ElyxQ8a06KnGSq44Xf3Q" hash="dDstuQ">How can we know whether we are being tried or whether the Lord is punishing us?</p>
-      <p class="para" uri="/general-conference/2005/04/be-of-good-cheer-and-faithful-in-adversity.p18" pid="j50f0bUrJU6_Pz26gkVbvg" hash="JpyfeQ">Trials are opportunities for our growth. The Lord said, “My people must be tried in all things, that they may be prepared to receive the glory that I have for them, even the glory of Zion; and he that will not bear chastisement is not worthy of my kingdom.”<span class="noteMarker" ref="f_10">10</span></p>
-      <p class="para" uri="/general-conference/2005/04/be-of-good-cheer-and-faithful-in-adversity.p19" pid="H2btarYM70Gxl_cNNwtbLA" hash="PUkvTA">When we are being tried, we should ponder and ask, “What does the Lord want me to do in this situation?”</p>
-      <p class="para" uri="/general-conference/2005/04/be-of-good-cheer-and-faithful-in-adversity.p20" pid="d65jV6Zxi02G_y2yIb_z9A" hash="SOZwyA">The Lord spoke these comforting words to the Prophet Joseph Smith: “Know thou, my son, that all these things shall give thee experience, and shall be for thy good. The Son of Man hath descended below them all. Art thou greater than he?”<span class="noteMarker" ref="f_11">11</span> We need to view each trial as an opportunity for growth. Someday we will understand the <span class="emphasis">why.</span></p>
-      <p class="para" uri="/general-conference/2005/04/be-of-good-cheer-and-faithful-in-adversity.p21" pid="XNay2TTIeEGuapAhup16Mw" hash="f7iw9w">The Lord has said, “Whom I love I also chasten that their sins may be forgiven, for with the chastisement I prepare a way for their deliverance.”<span class="noteMarker" ref="f_12">12</span> The Lord loves each one of us. He wants us to be happy. This happiness comes by our faith in Jesus Christ, by our sincere and true repentance, by our obedience to His commandments, and by our endurance to the end.</p>
-      <p class="para" uri="/general-conference/2005/04/be-of-good-cheer-and-faithful-in-adversity.p22" pid="86C9BLaaYkyP5wFuY0VffQ" hash="-R78Lw">Sometimes we might think that the Lord does not hear or answer our prayers. At such times, we need to stop and ponder what we have done throughout our lives. If necessary, we must put our lives in harmony with the gospel of Jesus Christ. Through the Prophet Joseph Smith, the Lord revealed:</p>
-      <p class="para" uri="/general-conference/2005/04/be-of-good-cheer-and-faithful-in-adversity.p23" pid="wY3QQdXBSUCtXN_obNsiWg" hash="J0cq8g">“I, the Lord, have suffered the affliction to come upon them, wherewith they have been afflicted, in consequence of their transgressions. …</p>
-      <p class="para" uri="/general-conference/2005/04/be-of-good-cheer-and-faithful-in-adversity.p24" pid="tA94B-UjUEezzMVi3F93qA" hash="v1_-WA">“They were slow to hearken unto the voice of the Lord their God; therefore, the Lord their God is slow to hearken unto their prayers, to answer them in the day of their trouble.</p>
-      <p class="para" uri="/general-conference/2005/04/be-of-good-cheer-and-faithful-in-adversity.p25" pid="hjxrGjpxMUulAwHt11T46Q" hash="Unx04Q">“In the day of their peace they esteemed lightly my counsel; but, in the day of their trouble, of necessity they feel after me.”<span class="noteMarker" ref="f_13">13</span></p>
-      <p class="para" uri="/general-conference/2005/04/be-of-good-cheer-and-faithful-in-adversity.p26" pid="4l5XL3VWEEyGpfNzObuZkQ" hash="dmBvmQ">When we have the sincere desire to put our lives in harmony with the will of the Lord, He will always be ready to help ease our burdens.</p>
-      <p class="para" uri="/general-conference/2005/04/be-of-good-cheer-and-faithful-in-adversity.p27" pid="R54CF0ir5UidP0J1CVQitQ" hash="0t6bJA">What destroys our good cheer and our hope?</p>
-      <p class="para" uri="/general-conference/2005/04/be-of-good-cheer-and-faithful-in-adversity.p28" pid="XWC9aY6skkqeSYyUo4tpFg" hash="2hz2YA">Jesus Christ told the Twelve Apostles some of the things that can destroy our hope and make us give up: allowing ourselves to fall into temptation; not enduring affliction, tribulation, and persecution; fearing “the cares” of the world; seeking wealth first; giving up instead of enduring to the end; and allowing false prophets to deceive us.<span class="noteMarker" ref="f_14">14</span></p>
-      <p class="para" uri="/general-conference/2005/04/be-of-good-cheer-and-faithful-in-adversity.p29" pid="xposT2CAxE27khbVSzS4Bg" hash="cMPKMw">What gives us courage and hope?</p>
-      <p class="para" uri="/general-conference/2005/04/be-of-good-cheer-and-faithful-in-adversity.p30" pid="FscofMIM4k2J3Ya1TEOjjg" hash="Y9JdYA">The Lord’s invitation to each of us is “come unto me, all ye that labour and are heavy laden, and I will give you rest.”<span class="noteMarker" ref="f_15">15</span> Jesus Christ has the power to give us rest from our pain and suffering.</p>
-      <p class="para" uri="/general-conference/2005/04/be-of-good-cheer-and-faithful-in-adversity.p31" pid="qbWSVYw2rEaGfIJfI4W93Q" hash="oBgGcA">The prophet Mormon taught:</p>
-      <p class="para" uri="/general-conference/2005/04/be-of-good-cheer-and-faithful-in-adversity.p32" pid="AoWLh0FEokaVQqa8VVhTxQ" hash="0oCh4w">“Wherefore, if a man have faith he must needs have hope; for without faith there cannot be any hope. …</p>
-      <p class="para" uri="/general-conference/2005/04/be-of-good-cheer-and-faithful-in-adversity.p33" pid="UeRP4HqFRUaDg6ujavut0Q" hash="PcbL5A">“… And if a man be meek and lowly in heart, and confesses by the power of the Holy Ghost that Jesus is the Christ, he must needs have charity.”<span class="noteMarker" ref="f_16">16</span></p>
-      <p class="para" uri="/general-conference/2005/04/be-of-good-cheer-and-faithful-in-adversity.p34" pid="qHTZYV2WcUqvTNE6zAG9eQ" hash="cPXz0A">If we daily exercise faith, meekness, charity, and lowliness in heart, confessing that Jesus is the Christ, and accepting His Atonement, we will be blessed with the strength and hope to face and overcome the trials and pains of this life.</p>
-      <p class="para" uri="/general-conference/2005/04/be-of-good-cheer-and-faithful-in-adversity.p35" pid="Y3ZcfUStn0KB8T8ohdwhgw" hash="xcMz7w">What are some of the Lord’s promises to each one of us?</p>
-      <p class="para" uri="/general-conference/2005/04/be-of-good-cheer-and-faithful-in-adversity.p36" pid="KdU-GxYc-k-syU4pTJFA8Q" hash="X3SFvw">“Be of good cheer, little children; for I am in your midst, and I have not forsaken you.”<span class="noteMarker" ref="f_17">17</span></p>
-      <p class="para" uri="/general-conference/2005/04/be-of-good-cheer-and-faithful-in-adversity.p37" pid="daDWm7KFpkC4ugQZ4CroTg" hash="xUelcw">“Be of good cheer, for I will lead you along. The kingdom is yours and the blessings thereof are yours, and the riches of eternity are yours.”<span class="noteMarker" ref="f_18">18</span></p>
-      <p class="para" uri="/general-conference/2005/04/be-of-good-cheer-and-faithful-in-adversity.p38" pid="r_VcLjFOZkmp6KjMXc4Djg" hash="eEL7fg">Quoting the words of the prophet Ether: “Wherefore, whoso believeth in God might with surety hope for a better world, yea, even a place at the right hand of God, which hope cometh of faith, maketh an anchor to the souls of men.”<span class="noteMarker" ref="f_19">19</span></p>
-      <p class="para" uri="/general-conference/2005/04/be-of-good-cheer-and-faithful-in-adversity.p39" pid="IaY1rf0dx0m7lIU0yDObsw" hash="4-mAaA">God is our Father. We are His children. He loves us. He desires our happiness here in this life and for all eternity. We are led by a true prophet of God today. Jesus is the Christ. Through Him, we can find peace in this world. In the name of Jesus Christ, amen.</p>
-    </div>
-  </div>
-  
-</div>]]></content:encoded>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="94"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/5a5252e51f347b14bd0d20c88fdee4f222db0f58/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/5a5252e51f347b14bd0d20c88fdee4f222db0f58/full/%21192%2C/0/default" data-video-title="Be of Good Cheer and Faithful in Adversity" data-video-description="The gospel of Jesus Christ gives us the strength and the eternal perspective to face what is coming with good cheer." data-video-id="2235979206001" data-ip="Download and Streaming                            " data-duration="617000" data-assetId="6a70c134cfd911ecafc3eeeeac1e38d17094e44d" data-ref-id="c7f1f79f61dc80afd62ee765a44ff1f33b9e91e5" data-duration-string="10:17" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/2235979206001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="195113755"/><source src="https://assets.churchofjesuschrist.org/6a70c134cfd911ecafc3eeeeac1e38d17094e44d-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="25316960"/><source src="https://assets.churchofjesuschrist.org/6a70c134cfd911ecafc3eeeeac1e38d17094e44d-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="49530415"/><source src="https://assets.churchofjesuschrist.org/6a70c134cfd911ecafc3eeeeac1e38d17094e44d-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="195113755"/></video><h1 data-aid="28828331" id="title1">Be of Good Cheer and Faithful in Adversity</h1>
+<div class="byline">
+<p class="author-name" data-aid="28828332" id="p1">By Elder Adhemar Damiani</p>
+<p class="author-role" data-aid="28828333" id="p2">Of the Seventy</p>
+<div class="image-cropper"><img alt="Elder Adhemar Damiani" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/c1b2d0550f8211ec89f8eeeeac1ec0ed372eaac9/full/%21100%2C/0/default" data-assetId="c1b2d0550f8211ec89f8eeeeac1ec0ed372eaac9" srcset="https://www.churchofjesuschrist.org/imgs/c1b2d0550f8211ec89f8eeeeac1ec0ed372eaac9/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/c1b2d0550f8211ec89f8eeeeac1ec0ed372eaac9/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/c1b2d0550f8211ec89f8eeeeac1ec0ed372eaac9/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/c1b2d0550f8211ec89f8eeeeac1ec0ed372eaac9/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/c1b2d0550f8211ec89f8eeeeac1ec0ed372eaac9/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/c1b2d0550f8211ec89f8eeeeac1ec0ed372eaac9/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/c1b2d0550f8211ec89f8eeeeac1ec0ed372eaac9/full/%21640%2C/0/default 640w" data-img-id="c1b2d0550f8211ec89f8eeeeac1ec0ed372eaac9" data-missing-asset="false" data-width="100" data-height="120" data-aspect-ratio="0.8333333333333334" data-public-title="Damiani, Adhemar" data-public-description="Former official portrait of Elder Adhemar Damiani of the Second Quorum of the Seventy, 1999.Released at October 2005 general conference.Served as president of the Campinas Brazil Temple from 2005 to 2007.Died 16 Jun 2013."/></div>
+</div>
+<p class="kicker" data-aid="28828334" id="kicker1">The gospel of Jesus Christ gives us the strength and the eternal perspective to face what is coming with good cheer.</p>
+</header>
+<div class="body-block">
+<p data-aid="28828335" id="p3">How can we find peace in this world? How can we endure to the end? How can we overcome the difficulties and trials we are facing?</p>
+<p data-aid="28828336" id="p4">The Savior Jesus Christ said: “These things I have spoken unto you, that in me ye might have peace. In the world ye shall have tribulation: but be of good cheer; I have overcome the world.”<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a></p>
+<p data-aid="28828337" id="p5">As part of our mortal probation, we pass through affliction, pain, and disappointment. Only in Jesus Christ can we find peace. He can help us to be of good cheer and to overcome all the challenges of this life.</p>
+<p data-aid="28828338" id="p6">What does it mean to be of good cheer? It means having hope, not getting discouraged, not losing faith, and living life joyfully. “Men are, that they might have joy.”<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a> It means facing life with confidence.</p>
+<p data-aid="28828339" id="p7">The gospel of Jesus Christ gives us the strength and the eternal perspective to face what is coming with good cheer. We must, however, not underestimate the difficulties that are prophesied for our day.</p>
+<p data-aid="28828340" id="p8">What are some of these difficulties? How can we face them?</p>
+<p data-aid="28828341" id="p9">Some of these difficulties are lack of hope, lack of love, and lack of peace.</p>
+<p data-aid="28828342" id="p10">The prophet Moroni taught, “If ye have no hope ye must needs be in despair; and despair cometh because of iniquity.”<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a> For many, the coming years may be years of despair. The greater the iniquity, the greater the despair will be.</p>
+<p data-aid="28828343" id="p11">The Savior said, “Because iniquity shall abound, the love of many shall wax cold.”<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a> As iniquity increases, true love disappears. As a result, fear, insecurity, and despair grow!</p>
+<p data-aid="28828344" id="p12">To the Prophet Joseph Smith, the Lord said: “I … will that all men shall know that the day speedily cometh … when peace shall be taken from the earth, and the devil shall have power over his own dominion. And also the Lord shall have power over his saints, and shall reign in their midst.”<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a> We live in a time when peace has been taken from the earth.</p>
+<p data-aid="28828345" id="p13">On the other hand, we live in a glorious time, a time when the Lord has restored His priesthood. The true gospel has been restored. The Church of Jesus Christ of Latter-day Saints is the kingdom of God on earth! We are helping to prepare the earth for the time when the Lord Jesus Christ will come and personally reign.</p>
+<p data-aid="28828346" id="p14">Why must we pass through trials in this life?</p>
+<p data-aid="28828347" id="p15">The Lord makes no secret that He will test our faith and our obedience. “We will prove them herewith,” He said, “to see if they will do all things whatsoever the Lord their God shall command them.”<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a></p>
+<p data-aid="28828348" id="p16">We learn from the book of Ecclesiastes: “All things come alike to all: there is one event to the righteous, and to the wicked; to the good and to the clean, and to the unclean; … as is the good, so is the sinner. … There is one event unto all.”<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a> Tempests may occur in the life of the man who built his life upon the rock of the gospel, as well as in the life of the foolish who built his life upon the things of this world.<a class="note-ref" href="#note8"><sup class="marker" data-value="8"></sup></a></p>
+<p data-aid="28828349" id="p17">How should we react to these trials?</p>
+<p data-aid="28828350" id="p18">The Lord has said, “If any man will come after me, let him deny himself, and take up his cross daily, and follow me.”<a class="note-ref" href="#note9"><sup class="marker" data-value="9"></sup></a> Each day we must take up our cross and press forward—and not just linger on the sidelines of our eternal journey.</p>
+<p data-aid="28828351" id="p19">How can we know whether we are being tried or whether the Lord is punishing us?</p>
+<p data-aid="28828352" id="p20">Trials are opportunities for our growth. The Lord said, “My people must be tried in all things, that they may be prepared to receive the glory <span class="page-break" data-page="95"></span>that I have for them, even the glory of Zion; and he that will not bear chastisement is not worthy of my kingdom.”<a class="note-ref" href="#note10"><sup class="marker" data-value="10"></sup></a></p>
+<p data-aid="28828353" id="p21">When we are being tried, we should ponder and ask, “What does the Lord want me to do in this situation?”</p>
+<p data-aid="28828354" id="p22">The Lord spoke these comforting words to the Prophet Joseph Smith: “Know thou, my son, that all these things shall give thee experience, and shall be for thy good. The Son of Man hath descended below them all. Art thou greater than he?”<a class="note-ref" href="#note11"><sup class="marker" data-value="11"></sup></a> We need to view each trial as an opportunity for growth. Someday we will understand the <em>why.</em></p>
+<p data-aid="28828355" id="p23">The Lord has said, “Whom I love I also chasten that their sins may be forgiven, for with the chastisement I prepare a way for their deliverance.”<a class="note-ref" href="#note12"><sup class="marker" data-value="12"></sup></a> The Lord loves each one of us. He wants us to be happy. This happiness comes by our faith in Jesus Christ, by our sincere and true repentance, by our obedience to His commandments, and by our endurance to the end.</p>
+<p data-aid="28828356" id="p24">Sometimes we might think that the Lord does not hear or answer our prayers. At such times we need to stop and ponder what we have done throughout our lives. If necessary we must put our lives in harmony with the gospel of Jesus Christ. Through the Prophet Joseph Smith, the Lord revealed:</p>
+<p data-aid="28828357" id="p25">“I, the Lord, have suffered the affliction to come upon them, wherewith they have been afflicted, in consequence of their transgressions. …</p>
+<p data-aid="28828358" id="p26">“They were slow to hearken unto the voice of the Lord their God; therefore, the Lord their God is slow to hearken unto their prayers, to answer them in the day of their trouble.</p>
+<p data-aid="28828359" id="p27">“In the day of their peace they esteemed lightly my counsel; but, in the day of their trouble, of necessity they feel after me.”<a class="note-ref" href="#note13"><sup class="marker" data-value="13"></sup></a></p>
+<p data-aid="28828360" id="p28">When we have the sincere desire to put our lives in harmony with the will of the Lord, He will always be ready to help ease our burdens.</p>
+<p data-aid="28828361" id="p29">What destroys our good cheer and our hope?</p>
+<p data-aid="28828362" id="p30">Jesus Christ told the Twelve Apostles some of the things that can destroy our hope and make us give up: allowing ourselves to fall into temptation; not enduring affliction, tribulation, and persecution; fearing “the cares” of the world; seeking wealth first; giving up instead of enduring to the end; and allowing false prophets to deceive us.<a class="note-ref" href="#note14"><sup class="marker" data-value="14"></sup></a></p>
+<p data-aid="28828363" id="p31">What gives us courage and hope?</p>
+<p data-aid="28828364" id="p32">The Lord’s invitation to each of us is “come unto me, all ye that labour and are heavy laden, and I will give you rest.”<a class="note-ref" href="#note15"><sup class="marker" data-value="15"></sup></a> Jesus Christ has the power to give us rest from our pain and suffering.</p>
+<p data-aid="28828365" id="p33">The prophet Mormon taught:</p>
+<p data-aid="28828366" id="p34">“Wherefore, if a man have faith he must needs have hope; for without <span class="page-break" data-page="96"></span>faith there cannot be any hope. …</p>
+<p data-aid="28828367" id="p35">“… And if a man be meek and lowly in heart, and confesses by the power of the Holy Ghost that Jesus is the Christ, he must needs have charity.”<a class="note-ref" href="#note16"><sup class="marker" data-value="16"></sup></a></p>
+<p data-aid="28828368" id="p36">If we daily exercise faith, meekness, charity, and lowliness in heart, confessing that Jesus is the Christ, and accepting His Atonement, we will be blessed with the strength and hope to face and overcome the trials and pains of this life.</p>
+<p data-aid="28828369" id="p37">What are some of the Lord’s promises to each one of us?</p>
+<p data-aid="28828370" id="p38">“Be of good cheer, little children; for I am in your midst, and I have not forsaken you.”<a class="note-ref" href="#note17"><sup class="marker" data-value="17"></sup></a></p>
+<p data-aid="28828371" id="p39">“Be of good cheer, for I will lead you along. The kingdom is yours and the blessings thereof are yours, and the riches of eternity are yours.”<a class="note-ref" href="#note18"><sup class="marker" data-value="18"></sup></a></p>
+<p data-aid="28828372" id="p40">Quoting the words of the prophet Ether: “Wherefore, whoso believeth in God might with surety hope for a better world, yea, even a place at the right hand of God, which hope cometh of faith, maketh an anchor to the souls of men.”<a class="note-ref" href="#note19"><sup class="marker" data-value="19"></sup></a></p>
+<p data-aid="28828373" id="p41">God is our Father. We are His children. He loves us. He desires our happiness here in this life and for all eternity. We are led by a true prophet of God today. Jesus is the Christ. Through Him we can find peace in this world. In the name of Jesus Christ, amen.</p>
+</div>
+<footer class="notes">
+<p class="title" data-aid="150471409" id="notetitle1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="28828374" id="note1_p1"><a class="scripture-ref" href="/study/scriptures/nt/john/16?lang=eng&amp;id=p33#p33">John 16:33</a>.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="28828375" id="note2_p1"><a class="scripture-ref" href="/study/scriptures/bofm/2-ne/2?lang=eng&amp;id=p25#p25">2 Nephi 2:25</a>.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="28828376" id="note3_p1"><a class="scripture-ref" href="/study/scriptures/bofm/moro/10?lang=eng&amp;id=p22#p22">Moroni 10:22</a>.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="28828377" id="note4_p1"><a class="scripture-ref" href="/study/scriptures/nt/matt/24?lang=eng&amp;id=p12#p12">Matthew 24:12</a>.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="28828378" id="note5_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/1?lang=eng&amp;id=p35-p36#p35">D&amp;C 1:35–36</a>.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="28828379" id="note6_p1"><a class="scripture-ref" href="/study/scriptures/pgp/abr/3?lang=eng&amp;id=p25#p25">Abraham 3:25</a>.</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="28828380" id="note7_p1"><a class="scripture-ref" href="/study/scriptures/ot/eccl/9?lang=eng&amp;id=p2-p3#p2">Ecclesiastes 9:2–3</a>.</p>
+</li>
+<li data-marker="8." id="note8" data-full-marker="8.">
+<p data-aid="28828381" id="note8_p1">See <a class="scripture-ref" href="/study/scriptures/nt/matt/7?lang=eng&amp;id=p24-p27#p24">Matthew 7:24–27</a>.</p>
+</li>
+<li data-marker="9." id="note9" data-full-marker="9.">
+<p data-aid="28828382" id="note9_p1"><a class="scripture-ref" href="/study/scriptures/nt/luke/9?lang=eng&amp;id=p23#p23">Luke 9:23</a>.</p>
+</li>
+<li data-marker="10." id="note10" data-full-marker="10.">
+<p data-aid="28828383" id="note10_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/136?lang=eng&amp;id=p31#p31">D&amp;C 136:31</a>.</p>
+</li>
+<li data-marker="11." id="note11" data-full-marker="11.">
+<p data-aid="28828384" id="note11_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/122?lang=eng&amp;id=p7-p8#p7">D&amp;C 122:7–8</a>.</p>
+</li>
+<li data-marker="12." id="note12" data-full-marker="12.">
+<p data-aid="28828385" id="note12_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/95?lang=eng&amp;id=p1#p1">D&amp;C 95:1</a>.</p>
+</li>
+<li data-marker="13." id="note13" data-full-marker="13.">
+<p data-aid="28828386" id="note13_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/101?lang=eng&amp;id=p2%2Cp7-p8#p2">D&amp;C 101:2, 7–8</a>.</p>
+</li>
+<li data-marker="14." id="note14" data-full-marker="14.">
+<p data-aid="28828387" id="note14_p1">See <a class="scripture-ref" href="/study/scriptures/nt/matt/13?lang=eng&amp;id=p19-p23#p19">Matthew 13:19–23</a>.</p>
+</li>
+<li data-marker="15." id="note15" data-full-marker="15.">
+<p data-aid="28828388" id="note15_p1"><a class="scripture-ref" href="/study/scriptures/nt/matt/11?lang=eng&amp;id=p28#p28">Matthew 11:28</a>.</p>
+</li>
+<li data-marker="16." id="note16" data-full-marker="16.">
+<p data-aid="28828389" id="note16_p1"><a class="scripture-ref" href="/study/scriptures/bofm/moro/7?lang=eng&amp;id=p42%2Cp44#p42">Moroni 7:42, 44</a>.</p>
+</li>
+<li data-marker="17." id="note17" data-full-marker="17.">
+<p data-aid="28828390" id="note17_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/61?lang=eng&amp;id=p36#p36">D&amp;C 61:36</a>.</p>
+</li>
+<li data-marker="18." id="note18" data-full-marker="18.">
+<p data-aid="28828391" id="note18_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/78?lang=eng&amp;id=p18#p18">D&amp;C 78:18</a>.</p>
+</li>
+<li data-marker="19." id="note19" data-full-marker="19.">
+<p data-aid="28828392" id="note19_p1"><a class="scripture-ref" href="/study/scriptures/bofm/ether/12?lang=eng&amp;id=p4#p4">Ether 12:4</a>.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/2005/04/be-of-good-cheer-and-faithful-in-adversity</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/april-2005-general-conference/2005-04-5040-elder-adhemar-damiani-64k-eng.mp3" length="4953256" type="audio/mpeg"/>
-      <pubDate>Sun, 03 Apr 2005 14:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/671e13c2caf711ecbba4eeeeac1ed38a60d5723c-32k-en.mp3" length="2784915" type="audio/mpeg"/>
+      <pubDate>Sun, 03 Apr 2005 14:00:00 -0600</pubDate>
+      <itunes:author>Adhemar Damiani</itunes:author>
     </item>
   </channel>
 </rss>

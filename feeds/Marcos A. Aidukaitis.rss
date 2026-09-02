@@ -1,156 +1,268 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Talks By Marcos A. Aidukaitis</title>
-    <link>http://philip.lundrigan.org/Speakercast/</link>
+    <link>https://philip.lundrigan.org/Speakercast/</link>
     <description>General Conference talks by Marcos A. Aidukaitis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Speakercast</generator>
     <image>
-      <url>http://philip.lundrigan.org/Speakercast/covers/Marcos%20A.%20Aidukaitis.jpg</url>
+      <url>https://philip.lundrigan.org/Speakercast/covers/Marcos%20A.%20Aidukaitis.jpg</url>
       <title>General Conference talks by Marcos A. Aidukaitis.</title>
-      <link>http://philip.lundrigan.org/Speakercast/</link>
+      <link>https://philip.lundrigan.org/Speakercast/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 04 Oct 2008 10:00:00 -0700</lastBuildDate>
-    <pubDate>Sat, 04 Oct 2008 10:00:00 -0700</pubDate>
+    <lastBuildDate>Sat, 02 Apr 2022 14:00:00 -0600</lastBuildDate>
+    <pubDate>Sat, 02 Apr 2022 14:00:00 -0600</pubDate>
+    <itunes:author>Marcos A. Aidukaitis</itunes:author>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
+    <itunes:image href="https://philip.lundrigan.org/Speakercast/covers/Marcos%20A.%20Aidukaitis.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>General Conference talks by Marcos A. Aidukaitis.</itunes:summary>
     <item>
       <title>Because My Father Read the Book of Mormon</title>
-      <link>http://www.lds.org/general-conference/2008/10/because-my-father-read-the-book-of-mormon?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2008/10/because-my-father-read-the-book-of-mormon?lang=eng</link>
       <description>I invite all who hear me today to read the Book of Mormon and to apply the promise it contains. Those who do will know that the book is true.</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/2008/10/because-my-father-read-the-book-of-mormon" schema-version="1" doc-id="general-conference_PD00009501_000_007" doc-version="2" hash="hptPWg">
-  
-  <div class="heading" uri="/general-conference/2008/10/because-my-father-read-the-book-of-mormon.head">
-    <h1 class="title" pid="2QyvdwO6CEiyC8gkmZcpNw" hash="yq9Rvg">Because My Father Read the Book of Mormon</h1>
-    <p class="authorName" pid="KebedQS-m06YWEGfLiJ77g" hash="0NNABQ">Elder Marcos A. Aidukaitis</p>
-    <p class="kicker" pid="6GC5rLSznUadxd17LYPqug" hash="07PaQQ">I invite all who hear me today to read the Book of Mormon and to apply the promise it contains. Those who do will know that the book is true.</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/2008/10/because-my-father-read-the-book-of-mormon.t1">
-      <p class="para" uri="/general-conference/2008/10/because-my-father-read-the-book-of-mormon.p1" pid="IK6aBTiy6Um7WjdYCiu6zg" hash="kwVcsA">
-        <span class="pageBreak" page-number="15"></span>Good morning, dear brothers and sisters. I feel a profound joy and honor in speaking to you today. I pray that God may guide my words and that His Spirit may be with us so that “he that preacheth and he that receiveth, [may] understand one another, and both [may be] edified and rejoice together” (<a href="/scriptures/dc-testament/dc/50.22" class="scriptureRef">D&amp;C 50:22</a>).</p>
-      <p class="para" uri="/general-conference/2008/10/because-my-father-read-the-book-of-mormon.p2" pid="qvdxnmbh606yKmADNeId3w" hash="qEc8bQ">I consider June 2, 1940, to be a very important day in the history of my family. On this day my father was baptized into this Church.</p>
-      <p class="para" uri="/general-conference/2008/10/because-my-father-read-the-book-of-mormon.p3" pid="Fb3e22keLUWs0qC2bnRWUw" hash="gBmGkg">Writing to his father, Elder Jack McDonald, one of the missionaries who baptized my father, described the day with these words:</p>
-      <p class="para" uri="/general-conference/2008/10/because-my-father-read-the-book-of-mormon.p4" pid="65__aA6Q9kWKb5kXkAOkiA" hash="8yiX5Q">“Last Sunday was an especially beautiful day. We missionaries went out to a secluded spot on the river’s edge, out in the country, and there Elder Jones and I [Elder McDonald] made our first baptism. Antony Aidukaitis entered into the icy waters and became a member of the Church. … Everything was perfect. The sky so blue, the countryside so still, so green, so lovely that none of us could help feeling the presence of some great influence.</p>
-      <p class="para" uri="/general-conference/2008/10/because-my-father-read-the-book-of-mormon.p5" pid="_JkpyFmlxUyj-MQ9tOzHqQ" hash="ccAxwg">“[As we walked] with our new member, he said that he just couldn’t explain how wonderful this day had been for him, how he actually felt like a new man. … That was our first baptism—no credit to me or anybody. He converted himself.”</p>
-      <p class="para" uri="/general-conference/2008/10/because-my-father-read-the-book-of-mormon.p6" pid="Qgqs0ZzMjESOFCyqcyHxXg" hash="BFPzhA">This event changed the history of my life. I am not sure my father was able to foresee the wisdom of his act, but I love him for what he did that day. He passed away more than 30 years ago, but I will honor and bless his name forever.</p>
-      <p class="para" uri="/general-conference/2008/10/because-my-father-read-the-book-of-mormon.p7" pid="mucsnNKFg0OK1B0LCqt34w" hash="UGweuw">My father was the son of Lithuanians, but he was born in Scotland. He moved to Brazil when he was still young. His ability to speak English facilitated his conversion since he could read the Book of Mormon in English, and there was not yet a reliable translation into Portuguese. This language barrier prevented my mother from joining the Church until a few years later, but when she did, she became a powerful example of dedication to others and love of God in our family. She is now 92 years old, and she is here today. It gives me great joy to say that I love her for her great faithfulness. I will also honor and bless her name forever.</p>
-      <p class="para" uri="/general-conference/2008/10/because-my-father-read-the-book-of-mormon.p8" pid="4xFIQmwiHEGV_yZ1gabi-g" hash="QVYbRw">I admire the courage my father had to be baptized into the Church in spite of the circumstances he faced at the time. It was not easy for him. His wife did not get baptized with him. The vices of drinking alcohol and smoking were strong temptations for him. He was poor. His mother was against his joining the Church, and she told him that if he were baptized, she would no longer consider him her son. With fewer than 300 members in Brazil, the Church did not have a single chapel there. I am truly astonished by my father’s determination and courage.</p>
-      <p class="para" uri="/general-conference/2008/10/because-my-father-read-the-book-of-mormon.p9" pid="p2yTsl0qQkyPjOGCEEOgSQ" hash="115g8A">How could he make such a decision in the face of so many unfavorable circumstances? The answer is simple: it was because my father read the Book of Mormon. When he read it, he came to know of the truthfulness of the message of the Restoration. The Book of Mormon is a proof that The Church of Jesus Christ of Latter-day Saints is true. <span class="emphasis">Preach My Gospel</span> teaches that “the Book of Mormon, combined with the Spirit, is [the] most powerful resource in conversion” ([2004], 104).</p>
-      <p class="para" uri="/general-conference/2008/10/because-my-father-read-the-book-of-mormon.p10" pid="DO6UQbguTEGRS587XPKO9A" hash="fynmbA">President Gordon B. Hinckley declared: “Those who have read [the Book of Mormon] prayerfully, be they <span class="pageBreak" page-number="16"></span>rich or poor, learned or unlearned, have grown under its power. …</p>
-      <p class="para" uri="/general-conference/2008/10/because-my-father-read-the-book-of-mormon.p11" pid="OTx7s1Ogik-hPFRc6I8s-g" hash="tEdqFQ">“… Without reservation I promise you that if you will prayerfully read the Book of Mormon, regardless of how many times you previously have read it, there will come into your hearts … the Spirit of the Lord. There will come a strengthened resolution to walk in obedience to his commandments, and there will come a stronger testimony of the living reality of the Son of God” (“The Power of the Book of Mormon,” <span class="emphasis">Ensign,</span> June 1988, 6; see also “The Book of Mormon,” <span class="emphasis">Tambuli,</span> Oct. 1988, 7).</p>
-      <p class="para" uri="/general-conference/2008/10/because-my-father-read-the-book-of-mormon.p12" pid="_XkEdPKsvEqy3yyoFk9QWw" hash="0Huv9w">These promises came true for my father and for my family. In accordance with what we have been taught, we read the scriptures as a family every day. We have done so for many years. We have read the Book of Mormon several times in our home, and we will continue to do so. As promised, the Spirit of the Lord has come into the heart of our family, and we have felt a strengthened resolution to walk in obedience to His commandments and a stronger testimony of the living reality of the Son of God.</p>
-      <p class="para" uri="/general-conference/2008/10/because-my-father-read-the-book-of-mormon.p13" pid="OS4cO6rxmEaB26lKS5Xlnw" hash="XY9fPQ">When you know that the Book of Mormon is true, you know that Joseph Smith was called by God to restore the Church of Jesus Christ to the earth. You know that Joseph Smith saw the Father and the Son. You know that there is only one faith and one valid baptism. You know that a prophet of God lives on the earth today and that he has all the keys of the priesthood and the right to exercise them, as Peter did anciently. You know that Jesus Christ is the Son of God, the only name whereby you can receive salvation. You know that God the Father lives and that He loves us. You know that His plan of salvation is perfect, and you have the desire to perform ordinances, live the commandments, and endure to the end.</p>
-      <p class="para" uri="/general-conference/2008/10/because-my-father-read-the-book-of-mormon.p14" pid="iFb19hli4E-nBpg1M2-o9A" hash="IomG1Q">I feel sad when someone who has been given the Book of Mormon and had these things explained to him still refuses to read it. I feel sad that some people allow themselves to be influenced by others, refuse to investigate the book, and set it aside as something without worth, never participating in the spiritual banquet it offers. To me, this is incomprehensible. It is as if a son or a daughter, separated from a loving father, refused to read a letter from him without even opening the envelope. Those who make such a choice are like spoiled children who refuse to even taste the meal tenderly prepared for them by their loving mother.</p>
-      <div class="figure" uri="/general-conference/2008/10/because-my-father-read-the-book-of-mormon.f2">
-	<p pid="HqJYnWAPY0ez4Dg_LngWpw" hash="ocHb1Q">God reveals His truth when people follow Moroni’s exhortation in Moroni 10:3–5. Preach My Gospel summarizes Moroni’s instructions as follows:</p>
-	<ul class="bullet">
-	  <li pid="73N7gKwYJEKK00GI20I5Iw" hash="-4K72A">
-          <span class="label">•</span>
-          <p pid="g1U8XxiSFEqlWNtin2UkxA" hash="oiFyKQ">One, “read the Book of Mormon and ponder its message concerning Jesus Christ.”</p>
-        </li>
-	  <li pid="Kd-cznEZJUCiQjxx6FMDiw" hash="Pj7ocA">
-          <span class="label">•</span>
-          <p pid="3VydBaRflk-GicH6--O17g" hash="UQ2Gpg">Two, “pray to God with faith in Jesus Christ to receive a testimony that the Book of Mormon is true <span class="pageBreak" page-number="17"></span>and that Joseph Smith is the prophet of the Restoration.”</p>
-        </li>
-	  <li pid="-4D2rY_9FESChYooTL0LCg" hash="QHgPbQ">
-          <span class="label">•</span>
-          <p pid="JizRt6kGBE-NA1FD6n5pOA" hash="-SXtFA">Three, “pray sincerely and have real intent, which means that they intend to act on the answer they receive from God” (111).</p>
-        </li>
-	</ul>
-      </div>
-      <p class="para" uri="/general-conference/2008/10/because-my-father-read-the-book-of-mormon.p15" pid="RymMrQ_YZE2ufzgJ0qPBpw" hash="pKpe9A">To those who may argue that we cannot know these things, I testify that we can, when we are humble enough to do as God has instructed us through His prophets on this earth. To believe otherwise would be to accept the absurd notion that God also does not know where truth can be found or does not have the power to show it to us. Just because someone has not acted on the promise of this book does not mean that others have not done so.</p>
-      <p class="para" uri="/general-conference/2008/10/because-my-father-read-the-book-of-mormon.p16" pid="yT9w5Yziwka7GELh0fzn_w" hash="y_RaSw">Why do I love and honor the name of my father? Because my father read and acted on the promise of the Book of Mormon. Why do I love and honor the name of my father? Because he did not recoil from the answer he received, even while facing great challenges. Why do I love and honor the name of my father? Because he blessed my life, even before I was born, by having the courage to do what God expected him to do.</p>
-      <p class="para" uri="/general-conference/2008/10/because-my-father-read-the-book-of-mormon.p17" pid="5pbnhZxSaUqMNu4gkFbc3Q" hash="07PaQQ1">I invite all who hear me today to read the Book of Mormon and to apply the promise it contains. Those who do will know that the book is true.</p>
-      <p class="para" uri="/general-conference/2008/10/because-my-father-read-the-book-of-mormon.p18" pid="IpkODlQUpkeTSfDMab2gvw" hash="HUUOkg">I bear my testimony that the Book of Mormon is the word of God. Because of this, I know that Joseph Smith is a prophet of God. I know that he did not write the Book of Mormon but translated it by the power of God. I know that Thomas S. Monson is a prophet of God on the earth today, the only man on the earth who holds all the keys of the priesthood and has the right to exercise them. I know that Jesus Christ is our Savior and that He lives. I know that God lives and loves us. In the name of Jesus Christ, amen.</p>
-    </div>
-  </div>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="15"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/99a652f80b1e56a1c50a27d967059a1fc7e64af0/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/99a652f80b1e56a1c50a27d967059a1fc7e64af0/full/%21192%2C/0/default" data-video-title="Because My Father Read the Book of Mormon" data-video-description="I invite all who hear me today to read the Book of Mormon and to apply the promise it contains. Those who do will know that the book is true." data-video-id="2235879713001" data-ip="Download and Streaming                            " data-duration="613879" data-assetId="504378f3f4a316801805afe2b4e2a7416d0534c7" data-ref-id="504378f3f4a316801805afe2b4e2a7416d0534c7" data-duration-string="10:13" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/2235879713001.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="172957409"/><source src="https://assets.churchofjesuschrist.org/504378f3f4a316801805afe2b4e2a7416d0534c7-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="38405503"/><source src="https://assets.churchofjesuschrist.org/504378f3f4a316801805afe2b4e2a7416d0534c7-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="75367745"/><source src="https://assets.churchofjesuschrist.org/504378f3f4a316801805afe2b4e2a7416d0534c7-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="172957409"/></video><h1 data-aid="28840308" id="title1">Because My Father Read the Book of Mormon</h1>
+<div class="byline">
+<p class="author-name" data-aid="28840309" id="p1">By Elder Marcos A. Aidukaitis</p>
+<p class="author-role" data-aid="28840310" id="p2">Of the Seventy</p>
+<div class="image-cropper"><img alt="Elder Marcos A. Aidukaitis" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/d56fbfa40fa811ec80e5eeeeac1e3718f6556c53/full/%21100%2C/0/default" data-assetId="d56fbfa40fa811ec80e5eeeeac1e3718f6556c53" srcset="https://www.churchofjesuschrist.org/imgs/d56fbfa40fa811ec80e5eeeeac1e3718f6556c53/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/d56fbfa40fa811ec80e5eeeeac1e3718f6556c53/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/d56fbfa40fa811ec80e5eeeeac1e3718f6556c53/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/d56fbfa40fa811ec80e5eeeeac1e3718f6556c53/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/d56fbfa40fa811ec80e5eeeeac1e3718f6556c53/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/d56fbfa40fa811ec80e5eeeeac1e3718f6556c53/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/d56fbfa40fa811ec80e5eeeeac1e3718f6556c53/full/%21640%2C/0/default 640w" data-img-id="d56fbfa40fa811ec80e5eeeeac1e3718f6556c53" data-missing-asset="false" data-width="100" data-height="155" data-aspect-ratio="0.6451612903225806" data-public-title="Aidukaitis, Marcos A." data-public-description="Official Portrait of Elder Marcos A. Aidukaitis.  Photographed March 2017."/></div>
+</div>
+<p class="kicker" data-aid="28840311" id="kicker1">I invite all who hear me today to read the Book of Mormon and to apply the promise it contains. Those who do will know that the book is true.</p>
+</header>
+<div class="body-block">
+<p data-aid="28840312" id="p3">Good morning, dear brothers and sisters. I feel a profound joy and honor in speaking to you today. I pray that God may guide my words and that His Spirit may be with us so that “he that preacheth and he that receiveth, [may] understand one another, and both [may be] edified and rejoice together” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/50?lang=eng&amp;id=p22#p22">D&amp;C 50:22</a>).</p>
+<p data-aid="28840313" id="p4">I consider June 2, 1940, to be a very important day in the history of my family. On this day my father was baptized into this Church.</p>
+<p data-aid="28840314" id="p5">Writing to his father, Elder Jack McDonald, one of the missionaries who baptized my father, described the day with these words:</p>
+<p data-aid="28840315" id="p6">“Last Sunday was an especially beautiful day. We missionaries went out to a secluded spot on the river’s edge, out in the country, and there Elder Jones and I [Elder McDonald] made our first baptism. Antony Aidukaitis entered into the icy waters and became a member of the Church. … Everything was perfect. The sky so blue, the countryside so still, so green, so lovely that none of us could help feeling the presence of some great influence.</p>
+<p data-aid="28840316" id="p7">“[As we walked] with our new member, he said that he just couldn’t explain how wonderful this day had been for him, how he actually felt like a new man. … That was our first baptism—no credit to me or anybody. He converted himself.”</p>
+<p data-aid="28840317" id="p8">This event changed the history of my life. I am not sure my father was able to foresee the wisdom of his act, but I love him for what he did that day. He passed away more than 30 years ago, but I will honor and bless his name forever.</p>
+<p data-aid="28840318" id="p9">My father was the son of Lithuanians, but he was born in Scotland. He moved to Brazil when he was still young. His ability to speak English facilitated his conversion, since he could read the Book of Mormon in English and there was not yet a reliable translation into Portuguese. This language barrier prevented my mother from joining the Church until a few years later, but when she did, she became a powerful example of dedication to others and love of God in our family. She is now 92 years old, and she is here today. It gives me great joy to say that I love her for her great faithfulness. I will also honor and bless her name forever.</p>
+<p data-aid="28840319" id="p10">I admire the courage my father had to be baptized into the Church in spite of the circumstances he faced at the time. It was not easy for him. His wife did not get baptized with him. The vices of drinking alcohol and smoking were strong temptations for him. He was poor. His mother was against his joining the Church, and she told him that if he were baptized, she would no longer consider him her son. With fewer than 300 members in Brazil, the Church did not have a single chapel there. I am truly astonished by my father’s determination and courage.</p>
+<p data-aid="28840320" id="p11">How could he make such a decision in the face of so many unfavorable circumstances? The answer is simple: it was because my father read the Book of Mormon. When he read it, he came to know of the truthfulness of the message of the Restoration. The Book of Mormon is a proof that The Church of Jesus Christ of Latter-day Saints is true. <em>Preach My Gospel</em> teaches that “the Book of Mormon, combined with the Spirit, is [the] most powerful resource in conversion” ([2004], 104).</p>
+<p data-aid="28840321" id="p12">President Gordon B. Hinckley declared: “Those who have read [the Book of Mormon] prayerfully, be they <span class="page-break" data-page="16"></span>rich or poor, learned or unlearned, have grown under its power. …</p>
+<p data-aid="28840322" id="p13">“… Without reservation I promise you that if you will prayerfully read the Book of Mormon, regardless of how many times you previously have read it, there will come into your hearts … the Spirit of the Lord. There will come a strengthened resolution to walk in obedience to his commandments, and there will come a stronger testimony of the living reality of the Son of God” (“The Power of the Book of Mormon,” <em>Ensign,</em> June 1988, 6; see also “The Book of Mormon,” <em>Tambuli,</em> Oct. 1988, 7).</p>
+<p data-aid="28840323" id="p14">These promises came true for my father and for my family. In accordance with what we have been taught, we read the scriptures as a family every day. We have done so for many years. We have read the Book of Mormon several times in our home, and we will continue to do so. As promised, the Spirit of the Lord has come into the heart of our family, and we have felt a strengthened resolution to walk in obedience to His commandments and a stronger testimony of the living reality of the Son of God.</p>
+<p data-aid="28840324" id="p15">When you know that the Book of Mormon is true, you know that Joseph Smith was called by God to restore the Church of Jesus Christ to the earth. You know that Joseph Smith saw the Father and the Son. You know that there is only one faith and one valid baptism. You know that a prophet of God lives on the earth today and that he has all the keys of the priesthood and the right to exercise them, as Peter did anciently. You know that Jesus Christ is the Son of God, the only name whereby you can receive salvation. You know that God the Father lives and that He loves us. You know that His plan of salvation is perfect, and you have the desire to perform ordinances, live the commandments, and endure to the end.</p>
+<p data-aid="28840325" id="p16">I feel sad when someone who has been given the Book of Mormon and had these things explained to him still refuses to read it. I feel sad that some people allow themselves to be influenced by others, refuse to investigate the book, and set it aside as something without worth, never participating in the spiritual banquet it offers. To me, this is incomprehensible. It is as if a son or a daughter, separated from a loving father, refused to read a letter from him without even opening the envelope. Those who make such a choice are like spoiled children who refuse to even taste the meal tenderly prepared for them by their loving mother.</p>
+<p data-aid="28840326" id="p17">God reveals His truth when people follow Moroni’s exhortation in <a class="scripture-ref" href="/study/scriptures/bofm/moro/10?lang=eng&amp;id=p3-p5#p3">Moroni 10:3–5</a>. <em>Preach My Gospel</em> summarizes Moroni’s instructions as follows:</p>
+<ul class="bullet">
+<li>
+<p data-aid="28840327" id="p18">One, “read the Book of Mormon and ponder its message concerning Jesus Christ.”</p>
+</li>
+<li>
+<p data-aid="28840328" id="p19">Two, “pray to God with faith in Jesus Christ to receive a testimony that the Book of Mormon is true <span class="page-break" data-page="17"></span>and that Joseph Smith is the prophet of the Restoration.”</p>
+</li>
+<li>
+<p data-aid="28840329" id="p20">Three, “pray sincerely and have real intent, which means that they intend to act on the answer they receive from God” (111).</p>
+</li>
+</ul>
+<p data-aid="28840330" id="p21">To those who may argue that we cannot know these things, I testify that we can, when we are humble enough to do as God has instructed us through His prophets on this earth. To believe otherwise would be to accept the absurd notion that God also does not know where truth can be found or does not have the power to show it to us. Just because someone has not acted on the promise of this book does not mean that others have not done so.</p>
+<p data-aid="28840331" id="p22">Why do I love and honor the name of my father? Because my father read and acted on the promise of the Book of Mormon. Why do I love and honor the name of my father? Because he did not recoil from the answer he received, even while facing great challenges. Why do I love and honor the name of my father? Because he blessed my life, even before I was born, by having the courage to do what God expected him to do.</p>
+<p data-aid="28840332" id="p23">I invite all who hear me today to read the Book of Mormon and to apply the promise it contains. Those who do will know that the book is true.</p>
+<p data-aid="28840333" id="p24">I bear my testimony that the Book of Mormon is the word of God. Because of this, I know that Joseph Smith is a prophet of God. I know that he did not write the Book of Mormon but translated it by the power of God. I know that Thomas S. Monson is a prophet of God on the earth today, the only man on the earth who holds all the keys of the priesthood and has the right to exercise them. I know that Jesus Christ is our Savior and that He lives. I know that God lives and loves us. In the name of Jesus Christ, amen.</p>
 </div>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/2008/10/because-my-father-read-the-book-of-mormon</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/october-2008-general-conference/2008-10-1050-elder-marcos-a-aidukaitis-64k-eng.mp3" length="4871372" type="audio/mpeg"/>
-      <pubDate>Sat, 04 Oct 2008 10:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/28b54db832cc11ecbcf7eeeeac1e744e6a2a81b7-64k-en.mp3" length="5189713" type="audio/mpeg"/>
+      <pubDate>Sat, 04 Oct 2008 10:00:00 -0600</pubDate>
+      <itunes:author>Marcos A. Aidukaitis</itunes:author>
     </item>
     <item>
       <title>If Ye Lack Wisdom</title>
-      <link>http://www.lds.org/general-conference/2014/04/if-ye-lack-wisdom?lang=eng</link>
-      <description>Marcos A. Aidukaitis gives guidance for recognizing truth—observing its fruits, experimenting on the word of God, and seeking personal revelation.
-		</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/2014/04/if-ye-lack-wisdom" dup-conf="false" dup-mag="false" schema-version="1" doc-id="general-conference_10985_000_56aidukaitis" doc-version="3" hash="Z0PLMQ">
-	
-	<div class="heading" uri="/general-conference/2014/04/if-ye-lack-wisdom.head1">
-		<h1 class="title" pid="GIvoMndd_k-5QoHgkUHWmg" hash="Jj91JQ">If Ye Lack Wisdom</h1>
-		<div class="byline">
-			<p class="para" uri="/general-conference/2014/04/if-ye-lack-wisdom.p" pid="ufFYMlF87UmeHDZuLp6HbQ" hash="fF4ryQ">By Elder Marcos A. Aidukaitis</p>
-			<p class="para" uri="/general-conference/2014/04/if-ye-lack-wisdom.p" pid="VE1IkKIs30-1iEucYG5SqA" hash="sSmk3g">Of the Seventy</p>
-		</div>
-		<img src="https://www.lds.org/bc/content/shared/content/images/leaders/marcos-a-aidukaitis.jpg" altText="Elder Marcos A. Aidukaitis" pid="r8_UvRe5bEKl8TJRxDzy_Q" hash="GF7MdQ" />
-		<p class="kicker" pid="-tYfY9SyWEOLhCvBeqenkA" hash="YtSa_Q">God will reveal truth to those who seek for it as prescribed in the scriptures.</p>
-		<p class="authorName" pid="dWgu-v5PHUmrfYohpHBYfQ" hash="fF4ryQ1">By Elder Marcos A. Aidukaitis</p>
-	</div>
-	<div class="bodyBlock">
-		<p class="para" uri="/general-conference/2014/04/if-ye-lack-wisdom.p5" pid="wtJyu4B5K02SZ44ljM57Zw" hash="f9AXyA">The other day my 10-year-old son was studying about the human brain on the Internet. He wants to be a surgeon one day. It’s not difficult to note that he is a lot smarter than I am.</p>
-		<p class="para" uri="/general-conference/2014/04/if-ye-lack-wisdom.p6" pid="966Rf_q76kmLMnhLU8QC8g" hash="WRsCTQ">We like the Internet. At home we communicate with family and friends through social media, by email, and in other ways. My children do much of their schoolwork through the Internet.</p>
-		<p class="para" uri="/general-conference/2014/04/if-ye-lack-wisdom.p7" pid="Q11-7asrH0muMtJAHn1Dyw" hash="dINxQA">Whatever the question is, if we need more information, we search it online. In seconds we have a lot of material. This is marvelous.</p>
-		<p class="para" uri="/general-conference/2014/04/if-ye-lack-wisdom.p8" pid="5e3lH50GaEasuwIP7mLd9A" hash="QPfHFg">The Internet provides many opportunities for learning. However, Satan wants us to be miserable, and he distorts the real purpose of things. He uses this great tool to promote doubt and fear and to destroy faith and hope.</p>
-		<p class="para" uri="/general-conference/2014/04/if-ye-lack-wisdom.p9" pid="gB2537iRfkCHLRX0IQCb6w" hash="OfO8tA">With so much available on the Internet, we must carefully consider where to apply our efforts. Satan can keep us busy, distracted, and infected by sifting through information, much of which can be pure garbage.</p>
-		<p class="para" uri="/general-conference/2014/04/if-ye-lack-wisdom.p10" pid="uomXh0Bt0kmkFYM1Mts7Lg" hash="UKokFw">One should not roam through garbage.</p>
-		<p class="para" uri="/general-conference/2014/04/if-ye-lack-wisdom.p11" pid="C9mbXEvJTEunNKFQ1e-vcg" hash="8BRAHQ">Listen to this guidance, provided by the scriptures: “The Spirit of Christ is given to every man, that he may know good from evil; wherefore, I show unto you the way to judge; for every thing which inviteth to do good, and to persuade to believe in Christ, is sent forth by the power and gift of Christ; wherefore ye may know … it is of God.”<span class="noteMarker" ref="f_1">1</span>
-		</p>
-		<p class="para" uri="/general-conference/2014/04/if-ye-lack-wisdom.p12" pid="7ZU790v5T0Sb_8J8luXaMQ" hash="1s_e2g">In a real sense, we face the same dilemma that Joseph Smith faced in his youth. We too often find ourselves lacking wisdom.</p>
-		<p class="para" uri="/general-conference/2014/04/if-ye-lack-wisdom.p13" pid="6x1bD6loGUWPLmljax1LUg" hash="s2OBqw">In the kingdom of God, the search for truth is appreciated, encouraged, and in no way repressed or feared. Church members are strongly counseled by the Lord Himself to seek for knowledge.<span class="noteMarker" ref="f_2">2</span> He said, “Seek ye diligently … ; yea, seek ye out of the best books words of wisdom; seek learning, even by study and also by faith.”<span class="noteMarker" ref="f_3">3</span> However, how can we recognize truth in a world that is increasingly blunt in its attacks on the things pertaining to God?</p>
-		<p class="para" uri="/general-conference/2014/04/if-ye-lack-wisdom.p14" pid="y7d4v5VxWU6N4Fvzv9vi9g" hash="scip9w">The scriptures teach us how:</p>
-		<p class="para" uri="/general-conference/2014/04/if-ye-lack-wisdom.p15" pid="xdMiFB62dEiBp-u7pnUGEA" hash="OF2iNQ">First, we can know the truth by observing its fruits.</p>
-		<p class="para" uri="/general-conference/2014/04/if-ye-lack-wisdom.p16" pid="pwECb_5wCEuo9oIbL3zWsw" hash="zbcCXQ">During His great Sermon on the Mount, the Lord said:</p>
-		<p class="para" uri="/general-conference/2014/04/if-ye-lack-wisdom.p17" pid="J2wFQWpDhU-HQwvR17USoQ" hash="hDTDpQ">“Even so every good tree bringeth forth good fruit; but a corrupt tree bringeth forth evil fruit. …</p>
-		<p class="para" uri="/general-conference/2014/04/if-ye-lack-wisdom.p18" pid="-E7EGg6MtECOUxGXfvJo9A" hash="ajmeKA">“Wherefore by their fruits ye shall know them.”<span class="noteMarker" ref="f_4">4</span>
-		</p>
-		<p class="para" uri="/general-conference/2014/04/if-ye-lack-wisdom.p19" pid="f3vzC6zQFUSBO30qVap64g" hash="S2J18w">The prophet Mormon taught this same principle when he said, “By <span class="pageBreak" page-number="109"></span>their works ye shall know them; for if their works be good, then they are good also.”<span class="noteMarker" ref="f_5">5</span>
-		</p>
-		<p class="para" uri="/general-conference/2014/04/if-ye-lack-wisdom.p20" pid="oO1lxQav3UauWk_Z0SG0Pg" hash="y9DwAA">We invite all to study the fruits and the works of this Church.</p>
-		<p class="para" uri="/general-conference/2014/04/if-ye-lack-wisdom.p21" pid="x6KaFfKcEk6GfpWiCJtoWQ" hash="RcjTJg">Those who are interested in the truth will be able to recognize the difference that the Church and its members make in the communities where they are established. They will also note the improvement in the lives of those who follow its teachings. Those who examine these fruits will discover that the fruits of The Church of Jesus Christ of Latter-day Saints are delicious and desirable.</p>
-		<p class="para" uri="/general-conference/2014/04/if-ye-lack-wisdom.p22" pid="Ms4O3zQqPUCAC-ddynd4uA" hash="GwLYsg">Second, we can find truth by experimenting on the word ourselves.</p>
-		<p class="para" uri="/general-conference/2014/04/if-ye-lack-wisdom.p23" pid="qeTF8ecI1UGJm85TyK40Hw" hash="2SYPxg">The prophet Alma taught:</p>
-		<p class="para" uri="/general-conference/2014/04/if-ye-lack-wisdom.p24" pid="59VGDUP-0EGKIEWrejFtSg" hash="lUQc5A">“We will compare the word unto a seed. … If ye give place, that a seed may be planted in your heart, behold, if it be a true seed, [and] … if ye do not cast it out by your unbelief, … behold, it will begin to swell within your breasts; and … ye will begin to say within yourselves—It must … be that this is a good seed, … for it beginneth to enlarge my soul; yea, it beginneth to enlighten my understanding, yea, it beginneth to be delicious to me. …</p>
-		<p class="para" uri="/general-conference/2014/04/if-ye-lack-wisdom.p25" pid="7gfVXKf4B0-2ThQ0_sleog" hash="2HVbAQ">“… And now, … will not this strengthen your faith? Yea, it will strengthen your faith. …</p>
-		<p class="para" uri="/general-conference/2014/04/if-ye-lack-wisdom.p26" pid="0C5PAf6YM0yKM0qOlKySag" hash="ux6s-w">“… For every seed bringeth forth unto its own likeness.”<span class="noteMarker" ref="f_6">6</span>
-		</p>
-		<p class="para" uri="/general-conference/2014/04/if-ye-lack-wisdom.p27" pid="4jVoSgEwdk2Jl52YWCNASQ" hash="pAZYOA">What a superb invitation by a prophet of the Lord! This could be compared to a scientific experiment. We are invited to test the word, we are given parameters, and we are told the outcome of the test if we follow the instructions.</p>
-		<p class="para" uri="/general-conference/2014/04/if-ye-lack-wisdom.p28" pid="hAGLBwBsJk-CW1IkRAHjXA" hash="tad4AA">Thus the scriptures teach us that we can know the truth by observing its fruits or by experimenting with it personally, giving place for the word in our hearts and cultivating it like unto a seed.</p>
-		<p class="para" uri="/general-conference/2014/04/if-ye-lack-wisdom.p29" pid="Rj1gF-f-bEuIqi4ud831oA" hash="lnTgCw">However, there is yet a third way to know the truth, and that is by personal revelation.</p>
-		<p class="para" uri="/general-conference/2014/04/if-ye-lack-wisdom.p30" pid="abms08RgeE6ZEbI8XyjIHw" hash="OVJAXg">
-			<a href="/scriptures/dc-testament/dc/8" class="scriptureRef">Doctrine and Covenants section 8</a> teaches that revelation is knowledge—“knowledge of whatsoever things [we] ask in faith, with an honest heart, believing that [we] shall receive.”<span class="noteMarker" ref="f_7">7</span>
-		</p>
-		<p class="para" uri="/general-conference/2014/04/if-ye-lack-wisdom.p31" pid="9hH0SJDPeUmwqivo6cWA3w" hash="aEJyUA">And the Lord tells us how we will receive this revelation. He says, “I will tell you in your mind and in your heart, by the Holy Ghost, which shall come upon you and which shall dwell in your heart.”<span class="noteMarker" ref="f_8">8</span>
-		</p>
-		<p class="para" uri="/general-conference/2014/04/if-ye-lack-wisdom.p32" pid="kPSwZF_OJ0KIXBLuzRPxVw" hash="byFyOw">Thus we are taught that revelation can be obtained by asking in faith, <span class="pageBreak" page-number="110"></span>with an honest heart, and believing we will receive.</p>
-		<p class="para" uri="/general-conference/2014/04/if-ye-lack-wisdom.p33" pid="SWmOGEySpkawTlCMwamXcw" hash="BiwGhg">But notice that the Lord made it very clear when He warned, “Remember that without faith you can do nothing; therefore ask in faith.”<span class="noteMarker" ref="f_9">9</span> Faith requires work, such as studying it out in your mind, then asking in prayer if it is right.</p>
-		<p class="para" uri="/general-conference/2014/04/if-ye-lack-wisdom.p34" pid="16bzPmUMpUSaGNBgCFNquA" hash="COtYvQ">The Lord said:</p>
-		<p class="para" uri="/general-conference/2014/04/if-ye-lack-wisdom.p35" pid="HCXQPzvqoEqVtgvpn0cG3A" hash="9BwyGw">“If it is right I will cause that your bosom shall burn within you; therefore, you shall feel that it is right.</p>
-		<p class="para" uri="/general-conference/2014/04/if-ye-lack-wisdom.p36" pid="bqaMmB96_UiHgQpLelQojQ" hash="NjETFw">“But if it be not right you shall have no such feelings, but you shall have a stupor of thought that shall cause you to forget the thing which is wrong.”<span class="noteMarker" ref="f_10">10</span>
-		</p>
-		<p class="para" uri="/general-conference/2014/04/if-ye-lack-wisdom.p37" pid="BhRW9AQQJEqe3bJi0vYMaQ" hash="wknWAw">Faith without works is dead.<span class="noteMarker" ref="f_11">11</span> Thus, “ask in faith, nothing wavering.”<span class="noteMarker" ref="f_12">12</span>
-		</p>
-		<p class="para" uri="/general-conference/2014/04/if-ye-lack-wisdom.p38" pid="bJefVyFwr0eyVvGfOyhXtA" hash="LM4oLw">I have a friend, not of our faith, who indicated to me that he is not a spiritual person. He will not study the scriptures or pray because he says he cannot understand the words of God, nor is he sure that God exists. This attitude explains his lack of spirituality and will lead to the opposite of revelation, as explained by Alma. He said, “And therefore, he that will harden his heart, the same receiveth the lesser portion of the word.”</p>
-		<p class="para" uri="/general-conference/2014/04/if-ye-lack-wisdom.p39" pid="AZVV6Exlnk-dpG8-alhL4A" hash="9bvOGQ">But, Alma added, “he that will not harden his heart, to him is given the greater portion of the word, until it is given unto him to know the mysteries of God until he know them in full.”<span class="noteMarker" ref="f_13">13</span>
-		</p>
-		<p class="para" uri="/general-conference/2014/04/if-ye-lack-wisdom.p40" pid="GXKTmbPe-kKwHAd_-BD3Xw" hash="LjQfeQ">Alma and the sons of Mosiah are examples of the principle that faith requires works. In the Book of Mormon we read:</p>
-		<p class="para" uri="/general-conference/2014/04/if-ye-lack-wisdom.p41" pid="w3aYi0sZDEekFTqUUG8eSg" hash="FVdYIw">“They had searched the scriptures diligently, that they might know the word of God.</p>
-		<p class="para" uri="/general-conference/2014/04/if-ye-lack-wisdom.p42" pid="GGZ7u_TRU0-EIj15AOpKgA" hash="7iA99w">“But this is not all; they had given themselves to much prayer, and fasting; therefore they had the spirit of prophecy, and the spirit of revelation.”<span class="noteMarker" ref="f_14">14</span>
-		</p>
-		<p class="para" uri="/general-conference/2014/04/if-ye-lack-wisdom.p43" pid="vqUxoeeU4k-ovtp-zf0mwA" hash="9SVTZQ">Asking with an honest heart is equally important in this process. If we are sincerely seeking the truth, we will do all in our power to find it, which can include reading the scriptures, going to church, and doing our best to keep the commandments of God. It also means that we are willing to do God’s will when we find it.</p>
-		<p class="para" uri="/general-conference/2014/04/if-ye-lack-wisdom.p44" pid="jtQZq1CvkkaBEZMT-RVNvg" hash="Pjxopw">Joseph Smith’s actions when he was seeking for wisdom are a perfect example of what it means to have an honest heart. He said he wanted to know which of the sects was true so “that [he] might know which to join.”<span class="noteMarker" ref="f_15">15</span> Even before he prayed, he was ready to act upon the answer he would receive.</p>
-		<p class="para" uri="/general-conference/2014/04/if-ye-lack-wisdom.p45" pid="JvY4ixaNx02DXlFDZc4jiA" hash="YKYiyg">We must ask in faith and with an honest heart. But that is not all. We must also believe that we will receive the revelation. We must trust the Lord and have hope in His promises. Remember what is written: “If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.”<span class="noteMarker" ref="f_16">16</span> What a wonderful promise!</p>
-		<p class="para" uri="/general-conference/2014/04/if-ye-lack-wisdom.p46" pid="6sr-51FvAEyyJYBi6QL_iQ" hash="GFe6VA">I invite all to seek truth from any of these methods but especially from God through personal revelation. God will reveal truth to those who seek for it as prescribed in the scriptures. It requires more effort than to just search the Internet, but it is worth it.</p>
-		<p class="para" uri="/general-conference/2014/04/if-ye-lack-wisdom.p47" pid="EFqoh--pRkme_iarL4n6VA" hash="GjhlTg">I bear my testimony that this is the true Church of Jesus Christ. I have seen its fruits in communities and in the lives of many thousands, including family members; thus I know it is true. I have also tried the word in my life for many years, and I have felt its effects on my soul; thus I know it is true. But most important, I have learned of its truthfulness for myself by revelation through the power of the Holy Ghost; thus I know it is true. I invite all of you to do the same. In the name of Jesus Christ, amen.</p>
-	</div>
-	
-</div>]]></content:encoded>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2014/04/if-ye-lack-wisdom?lang=eng</link>
+      <description>Marcos A. Aidukaitis gives guidance for recognizing truth—observing its fruits, experimenting on the word of God, and seeking personal revelation.</description>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="108"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/96c7b1ce4d36138fbf5a17e14359ad42d1789568/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/96c7b1ce4d36138fbf5a17e14359ad42d1789568/full/%21192%2C/0/default" data-video-title="If Ye Lack Wisdom" data-video-description="Marcos A. Aidukaitis gives guidance for recognizing truth—observing its fruits, experimenting on the word of God, and seeking personal revelation." data-video-id="3441600009001" data-ip="Download and Streaming                            " data-duration="611000" data-assetId="8cc52ef3a06625e31db9cccde98e0aa0d23a0c09" data-ref-id="8cc52ef3a06625e31db9cccde98e0aa0d23a0c09" data-duration-string="10:11" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/3441600009001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="206461502"/><source src="https://assets.churchofjesuschrist.org/8cc52ef3a06625e31db9cccde98e0aa0d23a0c09-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="35720879"/><source src="https://assets.churchofjesuschrist.org/8cc52ef3a06625e31db9cccde98e0aa0d23a0c09-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="65010182"/><source src="https://assets.churchofjesuschrist.org/8cc52ef3a06625e31db9cccde98e0aa0d23a0c09-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="206461502"/></video><h1 data-aid="28861223" id="title1">If Ye Lack Wisdom</h1>
+<div class="byline">
+<p class="author-name" data-aid="28861224" id="p1">By Elder Marcos A. Aidukaitis</p>
+<p class="author-role" data-aid="28861225" id="p2">Of the Seventy</p>
+<div class="image-cropper"><img alt="Elder Marcos A. Aidukaitis" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/c3bb586ef85711eb9dd6eeeeac1ebaf64e2563d8/full/%21100%2C/0/default" data-assetId="c3bb586ef85711eb9dd6eeeeac1ebaf64e2563d8" srcset="https://www.churchofjesuschrist.org/imgs/c3bb586ef85711eb9dd6eeeeac1ebaf64e2563d8/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/c3bb586ef85711eb9dd6eeeeac1ebaf64e2563d8/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/c3bb586ef85711eb9dd6eeeeac1ebaf64e2563d8/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/c3bb586ef85711eb9dd6eeeeac1ebaf64e2563d8/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/c3bb586ef85711eb9dd6eeeeac1ebaf64e2563d8/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/c3bb586ef85711eb9dd6eeeeac1ebaf64e2563d8/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/c3bb586ef85711eb9dd6eeeeac1ebaf64e2563d8/full/%21640%2C/0/default 640w" data-img-id="c3bb586ef85711eb9dd6eeeeac1ebaf64e2563d8" data-missing-asset="false" data-width="100" data-height="125" data-aspect-ratio="0.8" data-public-title="Aidukaitis, Marcos A." data-public-description="Former Official portrait of Elder Marcos A. Aidukaitis.  Replaced March 2017."/></div>
+</div>
+<p class="kicker" data-aid="28861226" id="kicker1">God will reveal truth to those who seek for it as prescribed in the scriptures.</p>
+</header>
+<div class="body-block">
+<p data-aid="28861227" id="p3">The other day my 10-year-old son was studying about the human brain on the Internet. He wants to be a surgeon one day. It’s not difficult to note that he is a lot smarter than I am.</p>
+<p data-aid="28861228" id="p4">We like the Internet. At home we communicate with family and friends through social media, by email, and in other ways. My children do much of their schoolwork through the Internet.</p>
+<p data-aid="28861229" id="p5">Whatever the question is, if we need more information, we search it online. In seconds we have a lot of material. This is marvelous.</p>
+<p data-aid="28861230" id="p6">The Internet provides many opportunities for learning. However, Satan wants us to be miserable, and he distorts the real purpose of things. He uses this great tool to promote doubt and fear and to destroy faith and hope.</p>
+<p data-aid="28861231" id="p7">With so much available on the Internet, we must carefully consider where to apply our efforts. Satan can keep us busy, distracted, and infected by sifting through information, much of which can be pure garbage.</p>
+<p data-aid="28861232" id="p8">One should not roam through garbage.</p>
+<p data-aid="28861233" id="p9">Listen to this guidance, provided by the scriptures: “The Spirit of Christ is given to every man, that he may know good from evil; wherefore, I show unto you the way to judge; for every thing which inviteth to do good, and to persuade to believe in Christ, is sent forth by the power and gift of Christ; wherefore ye may know … it is of God.”<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a></p>
+<p data-aid="28861234" id="p10">In a real sense, we face the same dilemma that Joseph Smith faced in his youth. We too often find ourselves lacking wisdom.</p>
+<p data-aid="28861235" id="p11">In the kingdom of God, the search for truth is appreciated, encouraged, and in no way repressed or feared. Church members are strongly counseled by the Lord Himself to seek for knowledge.<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a> He said, “Seek ye diligently … ; yea, seek ye out of the best books words of wisdom; seek learning, even by study and also by faith.”<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a> However, how can we recognize truth in a world that is increasingly blunt in its attacks on the things pertaining to God?</p>
+<p data-aid="28861236" id="p12">The scriptures teach us how:</p>
+<p data-aid="28861237" id="p13">First, we can know the truth by observing its fruits.</p>
+<p data-aid="28861238" id="p14">During His great Sermon on the Mount, the Lord said:</p>
+<p data-aid="28861239" id="p15">“Even so every good tree bringeth forth good fruit; but a corrupt tree bringeth forth evil fruit. …</p>
+<p data-aid="28861240" id="p16">“Wherefore by their fruits ye shall know them.”<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a></p>
+<p data-aid="28861241" id="p17">The prophet Mormon taught this same principle when he said, “By <span class="page-break" data-page="109"></span>their works ye shall know them; for if their works be good, then they are good also.”<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a></p>
+<p data-aid="28861242" id="p18">We invite all to study the fruits and the works of this Church.</p>
+<p data-aid="28861243" id="p19">Those who are interested in the truth will be able to recognize the difference that the Church and its members make in the communities where they are established. They will also note the improvement in the lives of those who follow its teachings. Those who examine these fruits will discover that the fruits of The Church of Jesus Christ of Latter-day Saints are delicious and desirable.</p>
+<p data-aid="28861244" id="p20">Second, we can find truth by experimenting on the word ourselves.</p>
+<p data-aid="28861245" id="p21">The prophet Alma taught:</p>
+<p data-aid="28861246" id="p22">“We will compare the word unto a seed. … If ye give place, that a seed may be planted in your heart, behold, if it be a true seed, [and] … if ye do not cast it out by your unbelief, … behold, it will begin to swell within your breasts; and … ye will begin to say within yourselves—It must … be that this is a good seed, … for it beginneth to enlarge my soul; yea, it beginneth to enlighten my understanding, yea, it beginneth to be delicious to me. …</p>
+<p data-aid="28861247" id="p23">“… And now, … will not this strengthen your faith? Yea, it will strengthen your faith. …</p>
+<p data-aid="28861248" id="p24">“… For every seed bringeth forth unto its own likeness.”<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a></p>
+<p data-aid="28861249" id="p25">What a superb invitation by a prophet of the Lord! This could be compared to a scientific experiment. We are invited to test the word, we are given parameters, and we are told the outcome of the test if we follow the instructions.</p>
+<p data-aid="28861250" id="p26">Thus the scriptures teach us that we can know the truth by observing its fruits or by experimenting with it personally, giving place for the word in our hearts and cultivating it like unto a seed.</p>
+<p data-aid="28861251" id="p27">However, there is yet a third way to know the truth, and that is by personal revelation.</p>
+<p data-aid="28861252" id="p28"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/8?lang=eng">Doctrine and Covenants section 8</a> teaches that revelation is knowledge—“knowledge of whatsoever things [we] ask in faith, with an honest heart, believing that [we] shall receive.”<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a></p>
+<p data-aid="28861253" id="p29">And the Lord tells us how we will receive this revelation. He says, “I will tell you in your mind and in your heart, by the Holy Ghost, which shall come upon you and which shall dwell in your heart.”<a class="note-ref" href="#note8"><sup class="marker" data-value="8"></sup></a></p>
+<p data-aid="28861254" id="p30">Thus we are taught that revelation can be obtained by asking in faith, <span class="page-break" data-page="110"></span>with an honest heart, and believing we will receive.</p>
+<p data-aid="28861255" id="p31">But notice that the Lord made it very clear when He warned, “Remember that without faith you can do nothing; therefore ask in faith.”<a class="note-ref" href="#note9"><sup class="marker" data-value="9"></sup></a> Faith requires work, such as studying it out in your mind, then asking in prayer if it is right.</p>
+<p data-aid="28861256" id="p32">The Lord said:</p>
+<p data-aid="28861257" id="p33">“If it is right I will cause that your bosom shall burn within you; therefore, you shall feel that it is right.</p>
+<p data-aid="28861258" id="p34">“But if it be not right you shall have no such feelings, but you shall have a stupor of thought that shall cause you to forget the thing which is wrong.”<a class="note-ref" href="#note10"><sup class="marker" data-value="10"></sup></a></p>
+<p data-aid="28861259" id="p35">Faith without works is dead.<a class="note-ref" href="#note11"><sup class="marker" data-value="11"></sup></a> Thus, “ask in faith, nothing wavering.”<a class="note-ref" href="#note12"><sup class="marker" data-value="12"></sup></a></p>
+<p data-aid="28861260" id="p36">I have a friend, not of our faith, who indicated to me that he is not a spiritual person. He will not study the scriptures or pray because he says he cannot understand the words of God, nor is he sure that God exists. This attitude explains his lack of spirituality and will lead to the opposite of revelation, as explained by Alma. He said, “And therefore, he that will harden his heart, the same receiveth the lesser portion of the word.”</p>
+<p data-aid="28861261" id="p37">But, Alma added, “he that will not harden his heart, to him is given the greater portion of the word, until it is given unto him to know the mysteries of God until he know them in full.”<a class="note-ref" href="#note13"><sup class="marker" data-value="13"></sup></a></p>
+<p data-aid="28861262" id="p38">Alma and the sons of Mosiah are examples of the principle that faith requires works. In the Book of Mormon we read:</p>
+<p data-aid="28861263" id="p39">“They had searched the scriptures diligently, that they might know the word of God.</p>
+<p data-aid="28861264" id="p40">“But this is not all; they had given themselves to much prayer, and fasting; therefore they had the spirit of prophecy, and the spirit of revelation.”<a class="note-ref" href="#note14"><sup class="marker" data-value="14"></sup></a></p>
+<p data-aid="28861265" id="p41">Asking with an honest heart is equally important in this process. If we are sincerely seeking the truth, we will do all in our power to find it, which can include reading the scriptures, going to church, and doing our best to keep the commandments of God. It also means that we are willing to do God’s will when we find it.</p>
+<p data-aid="28861266" id="p42">Joseph Smith’s actions when he was seeking for wisdom are a perfect example of what it means to have an honest heart. He said he wanted to know which of the sects was true so “that [he] might know which to join.”<a class="note-ref" href="#note15"><sup class="marker" data-value="15"></sup></a> Even before he prayed, he was ready to act upon the answer he would receive.</p>
+<p data-aid="28861267" id="p43">We must ask in faith and with an honest heart. But that is not all. We must also believe that we will receive the revelation. We must trust the Lord and have hope in His promises. Remember what is written: “If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.”<a class="note-ref" href="#note16"><sup class="marker" data-value="16"></sup></a> What a wonderful promise!</p>
+<p data-aid="28861268" id="p44">I invite all to seek truth from any of these methods but especially from God through personal revelation. God will reveal truth to those who seek for it as prescribed in the scriptures. It requires more effort than to just search the Internet, but it is worth it.</p>
+<p data-aid="28861269" id="p45">I bear my testimony that this is the true Church of Jesus Christ. I have seen its fruits in communities and in the lives of many thousands, including family members; thus I know it is true. I have also tried the word in my life for many years, and I have felt its effects on my soul; thus I know it is true. But most important, I have learned of its truthfulness for myself by revelation through the power of the Holy Ghost; thus I know it is true. I invite all of you to do the same. In the name of Jesus Christ, amen.</p>
+</div>
+<footer class="notes">
+<p class="title" data-aid="28861270" id="notetitle1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="28861271" id="note1_p1"><a class="scripture-ref" href="/study/scriptures/bofm/moro/7?lang=eng&amp;id=p16#p16">Moroni 7:16</a>.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="28861272" id="note2_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/88?lang=eng&amp;id=p78#p78">Doctrine and Covenants 88:78</a>.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="28861273" id="note3_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/88?lang=eng&amp;id=p118#p118">Doctrine and Covenants 88:118</a>.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="28861274" id="note4_p1"><a class="scripture-ref" href="/study/scriptures/nt/matt/7?lang=eng&amp;id=p17%2Cp20#p17">Matthew 7:17, 20</a>.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="28861275" id="note5_p1"><a class="scripture-ref" href="/study/scriptures/bofm/moro/7?lang=eng&amp;id=p5#p5">Moroni 7:5</a>.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="28861276" id="note6_p1"><a class="scripture-ref" href="/study/scriptures/bofm/alma/32?lang=eng&amp;id=p28%2Cp30-p31#p28">Alma 32:28, 30–31</a>.</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="28861277" id="note7_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/8?lang=eng&amp;id=p1#p1">Doctrine and Covenants 8:1</a>.</p>
+</li>
+<li data-marker="8." id="note8" data-full-marker="8.">
+<p data-aid="28861278" id="note8_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/8?lang=eng&amp;id=p2#p2">Doctrine and Covenants 8:2</a>.</p>
+</li>
+<li data-marker="9." id="note9" data-full-marker="9.">
+<p data-aid="28861279" id="note9_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/8?lang=eng&amp;id=p10#p10">Doctrine and Covenants 8:10</a>.</p>
+</li>
+<li data-marker="10." id="note10" data-full-marker="10.">
+<p data-aid="28861280" id="note10_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/9?lang=eng&amp;id=p8-p9#p8">Doctrine and Covenants 9:8–9</a>.</p>
+</li>
+<li data-marker="11." id="note11" data-full-marker="11.">
+<p data-aid="28861281" id="note11_p1">See <a class="scripture-ref" href="/study/scriptures/nt/james/2?lang=eng&amp;id=p17#p17">James 2:17</a>.</p>
+</li>
+<li data-marker="12." id="note12" data-full-marker="12.">
+<p data-aid="28861282" id="note12_p1"><a class="scripture-ref" href="/study/scriptures/nt/james/1?lang=eng&amp;id=p6#p6">James 1:6</a>.</p>
+</li>
+<li data-marker="13." id="note13" data-full-marker="13.">
+<p data-aid="28861283" id="note13_p1"><a class="scripture-ref" href="/study/scriptures/bofm/alma/12?lang=eng&amp;id=p10#p10">Alma 12:10</a>.</p>
+</li>
+<li data-marker="14." id="note14" data-full-marker="14.">
+<p data-aid="28861284" id="note14_p1"><a class="scripture-ref" href="/study/scriptures/bofm/alma/17?lang=eng&amp;id=p2-p3#p2">Alma 17:2–3</a>.</p>
+</li>
+<li data-marker="15." id="note15" data-full-marker="15.">
+<p data-aid="28861285" id="note15_p1"><a class="scripture-ref" href="/study/scriptures/pgp/js-h/1?lang=eng&amp;id=p18#p18">Joseph Smith—History 1:18</a>.</p>
+</li>
+<li data-marker="16." id="note16" data-full-marker="16.">
+<p data-aid="28861286" id="note16_p1"><a class="scripture-ref" href="/study/scriptures/nt/james/1?lang=eng&amp;id=p5#p5">James 1:5</a>.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/2014/04/if-ye-lack-wisdom</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/april-2014-general-conference/2014-04-5060-elder-marcos-a-aidukaitis-64k-eng.mp3" length="4938481" type="audio/mpeg"/>
-      <pubDate>Sun, 06 Apr 2014 14:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/fcbd983032d411ec83ebeeeeac1e20b3bdaeb09b-64k-en.mp3" length="5112156" type="audio/mpeg"/>
+      <pubDate>Sun, 06 Apr 2014 14:00:00 -0600</pubDate>
+      <itunes:author>Marcos A. Aidukaitis</itunes:author>
+    </item>
+    <item>
+      <title>Lift Up Your Heart and Rejoice</title>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2022/04/25aidukaitis?lang=eng</link>
+      <description>Elder Aidukaitis teaches youth that God will richly bless them as they overcome fears and insecurities and serve Him as full-time missionaries.</description>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="40"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/b51ff4a3a0e1fd1cd23ce5d8b2f740603184e240/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/b51ff4a3a0e1fd1cd23ce5d8b2f740603184e240/full/%21192%2C/0/default" data-video-title="Lift Up Your Heart and Rejoice" data-video-description="Elder Aidukaitis teaches youth that God will richly bless them as they overcome fears and insecurities and serve Him as full-time missionaries." data-video-id="6302716507001" data-ip="Download and Streaming                            " data-duration="687000" data-assetId="af626110b2ce11ec8a27eeeeac1eae13bc306ec2" data-ref-id="59A5787A61B4C41D686825E2ACA8F68BD0F1C170" data-duration-string="11:27" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6302716507001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="207279985"/><source src="https://assets.churchofjesuschrist.org/af626110b2ce11ec8a27eeeeac1eae13bc306ec2-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="41792360"/><source src="https://assets.churchofjesuschrist.org/af626110b2ce11ec8a27eeeeac1eae13bc306ec2-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="86047105"/><source src="https://assets.churchofjesuschrist.org/af626110b2ce11ec8a27eeeeac1eae13bc306ec2-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="207279985"/></video><h1 data-aid="149807401" id="title1">Lift Up Your Heart and Rejoice</h1>
+<div class="byline">
+<p class="author-name" data-aid="149807407" id="author1">By Elder Marcos A. Aidukaitis</p>
+<p class="author-role" data-aid="149807413" id="author2">Of the Seventy</p>
+</div>
+<p class="kicker" data-aid="149807419" id="kicker1">We were born at this time for a divine purpose, the gathering of Israel.</p>
+</header>
+<div class="body-block">
+<p data-aid="149807425" id="p1">Speaking to Thomas B. Marsh, a recent convert, the Lord said encouragingly, “Lift up your heart and rejoice, for the hour of your mission is come” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/31?lang=eng&amp;id=p3#p3">Doctrine and Covenants 31:3</a>).</p>
+<p data-aid="149807431" id="p2">I believe this invitation can serve as an inspiration for all members of the Church. After all, we have each received from our Heavenly Father the mission of gathering Israel on both sides of the veil.</p>
+<p data-aid="149807437" id="p3">“That gathering,” President Russell M. Nelson has said, “is the most important thing taking place on earth today. Nothing else compares in magnitude, nothing else compares in importance, nothing else compares in majesty.”<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a></p>
+<p data-aid="149807443" id="p4">Certainly, there are many worthy causes in the world. It is impossible to name them all. But wouldn’t you like to participate in a great cause within your reach and where your contribution makes a vital difference? The gathering makes an eternal difference to all. People of all ages can participate in this cause regardless of their circumstances and where they live. <span class="page-break" data-page="41"></span>There is no other cause in the world more inclusive.</p>
+<p data-aid="149807450" id="p5">Speaking specifically to the youth, President Nelson said that “our Heavenly Father has reserved many of His most noble spirits—perhaps … His finest team—for this final phase. Those noble spirits—those finest players, those heroes—are <em>you</em>!”<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a></p>
+<p data-aid="149807454" id="p6">Yes, you have been prepared from before this life and born now to participate in the great work of the gathering of Israel on both sides of the veil in these latter days (see <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/138?lang=eng&amp;id=p53-p56#p53">Doctrine and Covenants 138:53–56</a>).</p>
+<p data-aid="149807460" id="p7">Why is this cause so important? Because “the worth of souls is great in the sight of God” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/18?lang=eng&amp;id=p10#p10">Doctrine and Covenants 18:10</a>). And because “whoso believeth in [Jesus Christ], and is baptized, the same shall be saved; and … shall inherit the kingdom of God” (<a class="scripture-ref" href="/study/scriptures/bofm/3-ne/11?lang=eng&amp;id=p33#p33">3 Nephi 11:33</a>). Furthermore, “all that [the] Father hath shall be given unto” those who receive His ordinances and keep His covenants (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/84?lang=eng&amp;id=p38#p38">Doctrine and Covenants 84:38</a>). In addition, “the labourers are few” (<a class="scripture-ref" href="/study/scriptures/nt/luke/10?lang=eng&amp;id=p2#p2">Luke 10:2</a>).</p>
+<p data-aid="149807466" id="p8">Only in The Church of Jesus Christ of Latter-day Saints do we find the power, the authority, and the way to offer such a blessing to others, whether living or dead.</p>
+<p data-aid="149807472" id="p9">As President Nelson said: “<em>Anytime</em> you do <em>anything</em> that helps <em>anyone</em>—on either side of the veil—take a step toward making covenants with God and receiving their essential baptismal and temple ordinances, you are helping to gather Israel. It is as simple as that.”<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a></p>
+<p data-aid="149807480" id="p10">While there are many ways to help in the gathering, I would like to speak of one in particular: serving as a full-time missionary. For many of you, this will mean being a teaching missionary. For many others, it will mean being a service missionary. But the world tries to distract youth from this most sacred responsibility using fear and insecurities.</p>
+<p data-aid="149807488" id="p11">Some other distractions might be experiencing a pandemic, leaving a good job, putting off education, or being particularly interested in someone romantically. Everyone will have his or her own set of challenges. Such distractions can arise at precisely the time of embarking in the service of the Lord, and choices that seem obvious later are not always as easy in the moment.</p>
+<p data-aid="149807496" id="p12">I know from experience the troubled mind of such a young person. When I was preparing to go on my mission, some surprising forces tried to discourage me. One was my dentist. When he realized my appointment was so I could be a missionary, he tried to dissuade me from serving. I had not had the least notion that my dentist was against the Church.</p>
+<p data-aid="149807502" id="p13">The interruption of my education was also complicated. When I asked for a two-year leave of absence from my university program, I was informed that it was not possible. I would lose my place at the university if I did not return after one year. In Brazil, this was serious since the only criterion for admittance in a university program was a very difficult and competitive examination.</p>
+<p data-aid="149807508" id="p14">After repeatedly insisting, I was reluctantly informed that after being absent for one year, I could apply <span class="page-break" data-page="42"></span>for an exception on extraordinary grounds. It might be approved or not. I was terrified at the idea of retaking that difficult admissions test after two years away from my studies.</p>
+<p data-aid="149807514" id="p15">I also was especially interested in a young woman. Several of my friends shared that same interest. I thought to myself, “If I go on a mission, I’m running a risk.”</p>
+<p data-aid="149807521" id="p16">But the Lord Jesus Christ was my great inspiration not to be afraid of the future as I strove to serve Him with all my heart.</p>
+<p data-aid="149807528" id="p17">He also had a mission to fulfill. In His own words, He explained, “For I came down from heaven, not to do mine own will, but the will of him that sent me” (<a class="scripture-ref" href="/study/scriptures/nt/john/6?lang=eng&amp;id=p38#p38">John 6:38</a>). And was His mission easy? Of course not. His suffering, which was an essential part of His mission, caused Him, “even God, the greatest of all, to tremble because of pain, and to bleed at every pore, and to suffer both body and spirit—and would that [He] might not drink the bitter cup, and shrink—</p>
+<p data-aid="149807536" id="p18">“Nevertheless, glory be to the Father, and [He] partook and finished [His] preparations unto the children of men” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/19?lang=eng&amp;id=p18-p19#p18">Doctrine and Covenants 19:18–19</a>).</p>
+<p data-aid="149807545" id="p19">Serving a full-time mission may seem difficult to us. Perhaps it requires that we give up important things for a moment. The Lord certainly knows this, and He will always be by our side.</p>
+<p data-aid="149807554" id="p20">In fact, in their message to missionaries in <em>Preach My Gospel</em>, the First Presidency promises, “The Lord will reward and richly bless you as you humbly and prayerfully serve Him.”<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a> It is true that all the children of God are blessed in one way or another, but there is a difference between being blessed and being richly blessed in His service.</p>
+<p data-aid="149807563" id="p21">Remember the challenges that I thought I faced prior to my mission? My dentist? I found another. My university? They made an exception for me. Remember that young woman? She married one of my good friends.</p>
+<p data-aid="149807571" id="p22">But God truly blessed me richly. And I learned that the blessings of the Lord can come in ways different from how we expect. After all, His thoughts are not our thoughts (see <a class="scripture-ref" href="/study/scriptures/ot/isa/55?lang=eng&amp;id=p8-p9#p8">Isaiah 55:8–9</a>).</p>
+<p data-aid="149807581" id="p23">Among the many rich blessings He has given me for serving Him as a full-time missionary are a greater faith in Jesus Christ and His Atonement and a stronger knowledge and testimony of His teachings, so that I am not easily swayed by “every wind of doctrine” (<a class="scripture-ref" href="/study/scriptures/nt/eph/4?lang=eng&amp;id=p14#p14">Ephesians 4:14</a>). I lost my fear of teaching. My capacity to face challenges with optimism increased. By observing individuals and families I met or taught as a missionary, I learned that the teachings of God are true when He says that sin does not bring true happiness and that obedience to the commandments of God helps us prosper both temporally and spiritually (see <a class="scripture-ref" href="/study/scriptures/bofm/mosiah/2?lang=eng&amp;id=p41#p41">Mosiah 2:41</a>; <a class="scripture-ref" href="/study/scriptures/bofm/alma/41?lang=eng&amp;id=p10#p10">Alma 41:10</a>). And I learned for myself that God is a God of miracles (see <a class="scripture-ref" href="/study/scriptures/bofm/morm/9?lang=eng">Mormon 9</a>).</p>
+<p data-aid="149807590" id="p24">All of these things were instrumental in my preparation for adult life, including possible marriage and parenthood, Church service, and professional and community life.</p>
+<p data-aid="149807598" id="p25">After my mission, I benefited from my increased courage to present myself as a faithful follower of Jesus Christ and His Church in all circumstances and to all people, even sharing the gospel with a beautiful woman who would become my virtuous, wise, fun, and beloved eternal companion, the sunshine of my life.</p>
+<p data-aid="149807608" id="p26">Yes, God has blessed me richly, far beyond what I imagined, just as He will all those who “humbly and prayerfully serve Him.” I am eternally grateful to God for His goodness.</p>
+<p data-aid="149807617" id="p27"><span class="page-break" data-page="43"></span>My mission completely shaped my life. I learned it is worth the effort to trust in God, to trust in His wisdom and mercy and in His promises. After all, He is our Father, and without any doubt, He wants the best for us.</p>
+<p data-aid="149807626" id="p28">Dear youth throughout the world, I extend the same invitation that our prophet, President Nelson, has made to all of you “to enlist in the youth battalion of the Lord to help gather Israel.” President Nelson said:</p>
+<p data-aid="149807635" id="p32">“There is <em>nothing</em> of greater consequence. Absolutely <em>nothing</em>.</p>
+<p data-aid="149807643" id="p31">“This gathering should mean <em>everything</em> to you. This <em>is</em> the mission for which you were sent to earth.”<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a></p>
+<p data-aid="149807651" id="p29">We were born at this time for a divine purpose, the gathering of Israel. When we serve as full-time missionaries, we will be challenged at times, but the Lord Himself is our great exemplar and guide in such circumstances. He understands what a difficult mission is. With His help, we can do hard things. He will be by our side (see <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/84?lang=eng&amp;id=p88#p88">Doctrine and Covenants 84:88</a>), and He will bless us greatly as we humbly serve Him.</p>
+<p data-aid="149807659" id="p30">For all these reasons, I am not surprised that the Lord said to Thomas B. Marsh and to all of us, “Lift up your heart and rejoice, for the hour of your mission is come.” In the name of Jesus Christ, amen.</p>
+</div>
+<footer class="notes">
+<p class="title" data-aid="149807668" id="note_title1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="149807676" id="note1_p1">Russell M. Nelson, “<a class="cross-ref" href="/study/broadcasts/worldwide-devotional-for-young-adults/2018/06/hope-of-israel?lang=eng&amp;id=p58#p58">Hope of Israel</a>” (worldwide youth devotional, June 3, 2018), HopeofIsrael.ChurchofJesusChrist.org.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="149807684" id="note2_p1">Russell M. Nelson, “<a class="cross-ref" href="/study/broadcasts/worldwide-devotional-for-young-adults/2018/06/hope-of-israel?lang=eng&amp;id=p66#p66">Hope of Israel</a>.”</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="149807692" id="note3_p1">Russell M. Nelson, “<a class="cross-ref" href="/study/broadcasts/worldwide-devotional-for-young-adults/2018/06/hope-of-israel?lang=eng&amp;id=p100#p100">Hope of Israel</a>.”</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="149807700" id="note4_p1"><cite><a class="cross-ref" href="/study/manual/preach-my-gospel-a-guide-to-missionary-service/first-presidency-message?lang=eng&amp;id=p5#p5">Preach My Gospel: A Guide to Missionary Service</a></cite> (2019), v.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="149807708" id="note5_p1">Russell M. Nelson, “<a class="cross-ref" href="/study/broadcasts/worldwide-devotional-for-young-adults/2018/06/hope-of-israel?lang=eng&amp;id=p79-p80#p79">Hope of Israel</a>.”</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
+      <guid isPermaLink="false">/general-conference/2022/04/25aidukaitis</guid>
+      <enclosure url="https://assets.churchofjesuschrist.org/2303dd4eb3b911ec867aeeeeac1ee15da38523fe-32k-en.m4a" length="2655934" type="audio/mpeg"/>
+      <pubDate>Sat, 02 Apr 2022 14:00:00 -0600</pubDate>
+      <itunes:author>Marcos A. Aidukaitis</itunes:author>
     </item>
   </channel>
 </rss>

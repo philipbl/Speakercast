@@ -1,67 +1,310 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Talks By Randy D. Funk</title>
-    <link>http://philip.lundrigan.org/Speakercast/</link>
+    <link>https://philip.lundrigan.org/Speakercast/</link>
     <description>General Conference talks by Randy D. Funk.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Speakercast</generator>
     <image>
-      <url>http://philip.lundrigan.org/Speakercast/covers/Randy%20D.%20Funk.jpg</url>
+      <url>https://philip.lundrigan.org/Speakercast/covers/Randy%20D.%20Funk.jpg</url>
       <title>General Conference talks by Randy D. Funk.</title>
-      <link>http://philip.lundrigan.org/Speakercast/</link>
+      <link>https://philip.lundrigan.org/Speakercast/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 05 Oct 2013 18:00:00 -0700</lastBuildDate>
-    <pubDate>Sat, 05 Oct 2013 18:00:00 -0700</pubDate>
+    <lastBuildDate>Sun, 03 Apr 2022 14:00:00 -0600</lastBuildDate>
+    <pubDate>Sun, 03 Apr 2022 14:00:00 -0600</pubDate>
+    <itunes:author>Randy D. Funk</itunes:author>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
+    <itunes:image href="https://philip.lundrigan.org/Speakercast/covers/Randy%20D.%20Funk.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>General Conference talks by Randy D. Funk.</itunes:summary>
     <item>
       <title>Called of Him to Declare His Word</title>
-      <link>http://www.lds.org/general-conference/2013/10/called-of-him-to-declare-his-word?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2013/10/called-of-him-to-declare-his-word?lang=eng</link>
       <description>If you are humble and obedient and hearken to the voice of the Spirit, you will find great happiness in your service as a missionary.</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/2013/10/called-of-him-to-declare-his-word" dup-conf="false" dup-mag="false" schema-version="1" doc-id="general-conference_10791_000_33funk" doc-version="6" hash="0WkMzA">
-	
-	<div class="heading" uri="/general-conference/2013/10/called-of-him-to-declare-his-word.head1">
-		<h1 class="title" pid="BDSvhaJyr0GaQgDYHhEJCA" hash="kgJnRA">Called of Him to Declare His Word</h1>
-		<p class="authorName" pid="8tWBD1x98U2ZOiWpxtVOaQ" hash="A9iNBQ">By Elder Randy D. Funk</p>
-		<p class="kicker" pid="yt3bRqHNPkKap3vPTVezLQ" hash="yWOGJg">If you are humble and obedient and hearken to the voice of the Spirit, you will find great happiness in your service as a missionary.</p>
-	</div>
-	<div class="bodyBlock" pid="6APn6-uZ0keZ02LkDWzfLw" hash="5DCyUg">
-		<p class="para" uri="/general-conference/2013/10/called-of-him-to-declare-his-word.p5" pid="LfL9tfInP0C6bkNs2XpisA" hash="Yv1tUw"><span class="pageBreak" page-number="52"></span>When I was sustained as a General Authority last April, I was serving as a mission president in India. I observed firsthand what another former mission president had told me: “The missionaries of this Church are simply stunning.”<span class="noteMarker" ref="f_1">1</span></p>
-		<span class="story">
-			<p class="para" uri="/general-conference/2013/10/called-of-him-to-declare-his-word.p6" pid="r_t6SzcYB0uv2los2zL61g" hash="5OzXnQ">One of many outstanding missionaries with whom Sister Funk and I served was Elder Pokhrel from Nepal. After being a member of the Church for only two years, he was called to serve in the India Bangalore Mission, an English-speaking mission. He would tell you he was not well prepared. That was understandable. He had never seen a missionary until he was one, because no young missionaries serve in Nepal. He did not read English well enough to understand the instructions included with his call. When he reported to the missionary training center, instead of bringing nice slacks, white shirts, and ties, he packed, in his words, “five pairs of denim jeans, a couple of T-shirts, and a lot of hair gel.”<span class="noteMarker" ref="f_2">2</span></p>
-			<p class="para" uri="/general-conference/2013/10/called-of-him-to-declare-his-word.p7" pid="PttRqB5tok69gve63WXg3w" hash="34jW3Q">Even after he obtained appropriate clothing, he said he felt inadequate every day during the first few weeks. He described that time of his mission: “Not only was the English difficult, but the work was just as challenging. … On top of all of that, I was hungry, tired, and homesick. … Even though the circumstances were tough, I was determined. I felt weak and inadequate. I would pray at those times for Heavenly Father to help me. Without fail, every time I prayed, I would feel comforted.”<span class="noteMarker" ref="f_3">3</span></p>
-			<p class="para" uri="/general-conference/2013/10/called-of-him-to-declare-his-word.p8" pid="gkY6WoFUekaqO9NoEOlU-Q" hash="fBcqDQ">Though missionary work was new and challenging for Elder Pokhrel, he served with great faith and faithfulness, seeking to understand and follow what he was learning from the scriptures, <span class="emphasis">Preach My Gospel,</span> and his mission leaders. He became a powerful teacher of the gospel—in English—and an excellent leader. After his mission and some time in Nepal, he returned to India to continue his education. Since January he has served as a branch president in New Delhi. Because of the real growth he experienced as a missionary, he continues to contribute to the real growth of the Church in India.</p>
-		</span>
-		<p class="para" uri="/general-conference/2013/10/called-of-him-to-declare-his-word.p9" pid="0LDQTZ6ui0yjxyCgAKyZfQ" hash="aFq0tQ">How did a young man who had never seen a missionary become one with such spiritual strength? How will you receive spiritual power as a missionary to open the doors, in-boxes, and hearts of those in the mission where you will serve? As usual, the answers are found in the scriptures and the words of living prophets and apostles.</p>
-		<p class="para" uri="/general-conference/2013/10/called-of-him-to-declare-his-word.p10" pid="qZNHBblpyEKLZ8N3Q06m1Q" hash="NM9Bjw">When the gospel was first preached in England in July 1837, the Lord revealed, “Whosoever ye shall send in my name, by the voice of your brethren, the Twelve, duly recommended and authorized by you, shall have power to open the door of my kingdom unto any nation whithersoever ye shall send them.”<span class="noteMarker" ref="f_4">4</span></p>
-		<p class="para" uri="/general-conference/2013/10/called-of-him-to-declare-his-word.p11" pid="LEv4ZHs3BUaQ-aeKyoaKnQ" hash="cC_aLA">Wherever you are sent, to whichever mission you are assigned, know that a member of the Twelve duly recommended that assignment and you are called by the Lord’s prophet. You are called “by prophecy, and by the laying on of hands.”<span class="noteMarker" ref="f_5">5</span></p>
-		<p class="para" uri="/general-conference/2013/10/called-of-him-to-declare-his-word.p12" pid="_rjIPsLwuUmprIqM1axoCw" hash="eaLkFA">The Lord then gave the conditions for this promise to be fulfilled. He said, “Inasmuch as [which means the promise will be fulfilled <span class="emphasis">if</span>] they [meaning the missionaries who are sent] shall [1] humble themselves before me, and [2] abide in my word, and [3] hearken to the voice of my Spirit.”<span class="noteMarker" ref="f_6">6</span></p>
-		<p class="para" uri="/general-conference/2013/10/called-of-him-to-declare-his-word.p13" pid="DUgBtno9IUyHtrpP04yqjw" hash="z_0okw">The Lord’s promises are clear. In order to have the spiritual power necessary to open the door of the kingdom of God in the nation to which you are sent, you must be humble and obedient and have the ability to hear and follow the Spirit.</p>
-		<p class="para" uri="/general-conference/2013/10/called-of-him-to-declare-his-word.p14" pid="3F_fERPUxUqTSCdZeH0YHA" hash="hdo-VA">These three attributes are closely interrelated. If you are humble, you will want to be obedient. If you are obedient, you will feel the Spirit. The Spirit is essential, for, as President Ezra Taft Benson taught, “Without the Spirit, you will never succeed <span class="emphasis">regardless</span> of your talent and ability.”<span class="noteMarker" ref="f_7">7</span></p>
-		<p class="para" uri="/general-conference/2013/10/called-of-him-to-declare-his-word.p15" pid="-oGSpkwmSEWO8UzNISq1IA" hash="IF9ipA"><span class="pageBreak" page-number="53"></span>As a mission president, I occasionally interviewed missionaries who struggled because they were not yet fully clean. They lived below their spiritual potential. No matter how hard they worked or how much good they did, they were unable to feel at peace and enjoy the companionship of the Holy Ghost until they had humbled themselves, fully repented, and partaken of the mercy and grace of the Savior.</p>
-		<p class="para" uri="/general-conference/2013/10/called-of-him-to-declare-his-word.p16" pid="NdPz6arQK0OMLSI1h0h82w" hash="caPwlQ">The Lord instructs His servants to be humble because the process of being made whole spiritually begins with a broken heart. Think of the good that comes from broken things: Soil is broken to plant wheat. Wheat is broken to make bread. Bread is broken to become the emblems of the sacrament. When one who is repentant partakes of the sacrament with a broken heart and a contrite spirit, he or she becomes whole.<span class="noteMarker" ref="f_8">8</span> As we repent and become whole through the Atonement of Jesus Christ, we have much more to offer the Savior as we serve Him. “Yea, come unto him, and offer your whole souls as an offering unto him.”<span class="noteMarker" ref="f_9">9</span></p>
-		<p class="para" uri="/general-conference/2013/10/called-of-him-to-declare-his-word.p17" pid="njRPsycZ3kCFU16cXYFkOw" hash="3rMRHQ">If you are burdened by sin and need to repent, please do so immediately. When the Savior healed those who were afflicted, He often invited them to rise up. The scriptures record that they did so straightway, or immediately.<span class="noteMarker" ref="f_10">10</span> To be healed of your spiritual afflictions, please accept His invitation to rise up. Without delay, talk to your bishop, branch president, or mission president and begin the process of repentance now.</p>
-		<p class="para" uri="/general-conference/2013/10/called-of-him-to-declare-his-word.p18" pid="C3VR9IUY-0KiRtdLxhx-JQ" hash="yyYLOA">The healing power of the Atonement will bring peace to your soul and enable you to feel the Holy Spirit. The Savior’s sacrifice is beyond measure, but our sins, though numerous and serious, may be counted and confessed, forsaken and forgiven. “And how great is his joy in the soul that repenteth!”<span class="noteMarker" ref="f_11">11</span></p>
-		<p class="para" uri="/general-conference/2013/10/called-of-him-to-declare-his-word.p19" pid="kdCveDlJJEueZ9ltNdgqXg" hash="iORg2w">This promise in the Doctrine and Covenants is powerful: “Let virtue garnish thy thoughts unceasingly; then shall thy confidence wax strong in the presence of God.”<span class="noteMarker" ref="f_12">12</span> As you live a virtuous life, you will feel a peaceful confidence in your standing before God and you will have the power of the Spirit to be with you.<span class="noteMarker" ref="f_13">13</span></p>
-		<p class="para" uri="/general-conference/2013/10/called-of-him-to-declare-his-word.p20" pid="5s4RiVsA0kqqrhAvvAP7aw" hash="VOv2MQ">Some who are newer members of the Church or who have recently returned to full activity may say, “I am now worthy and have a desire to serve, but I don’t know if I know enough.” In April President Thomas S. Monson taught us, “A knowledge of truth and the answers to our greatest questions come to us as we are obedient to the commandments of God.”<span class="noteMarker" ref="f_14">14</span> How reassuring it is to know that through our obedience we gain knowledge.</p>
-		<p class="para" uri="/general-conference/2013/10/called-of-him-to-declare-his-word.p21" pid="n8kOR6-iMkuzBXoQzy2Ylg" hash="VILv2g">Others may feel they have limited talents, abilities, or experience to offer. If you have such concerns, remember the experience of Elder Pokhrel. Prepare as well as you can, and know that our Heavenly Father will magnify your humble and obedient efforts. Elder Richard G. Scott offered this encouraging counsel: “When we obey the commandments of the Lord and serve His children unselfishly, the natural consequence is power from God—power to do more than we can do by ourselves. Our insights, our talents, our abilities are expanded because we receive strength and power from the Lord.”<span class="noteMarker" ref="f_15">15</span></p>
-		<span class="story">
-			<p class="para" uri="/general-conference/2013/10/called-of-him-to-declare-his-word.p22" pid="LT_-rdFMW0iMI3rVgyHGRA" hash="eWmqHg">As you trust in the Lord and His goodness, the Almighty God will bless His children through you.<span class="noteMarker" ref="f_16">16</span> Elder <span class="pageBreak" page-number="54"></span>Hollings from Nevada learned that early in his mission. The day after he arrived in India, he traveled with Sister Funk and me to Rajahmundry, his first area. That afternoon Elder Hollings and Elder Ganaparam went to visit a Church member and her mother. The mother wanted to learn about the Church because she had seen how the gospel blessed the life of her daughter. Sister Funk joined them to provide fellowship. Because the lesson would be taught in English and the mother spoke only Telugu, a brother in the branch was there to interpret what was taught.</p>
-			<p class="para" uri="/general-conference/2013/10/called-of-him-to-declare-his-word.p23" pid="AxjrYO3hLkuwFy2AwIs6Iw" hash="qPsqIg">Elder Hollings’s assignment in his very first teaching appointment was to teach the First Vision, using the words of the Prophet Joseph. At that point in the lesson, he turned to Sister Funk and asked, “Should I say it word for word?” knowing it would be interpreted.</p>
-			<p class="para" uri="/general-conference/2013/10/called-of-him-to-declare-his-word.p24" pid="rUAMdiDshk6DLje1WVqWyw" hash="dvFj9w">She replied, “Say it word for word so the Spirit can testify of what you say.”</p>
-			<p class="para" uri="/general-conference/2013/10/called-of-him-to-declare-his-word.p25" pid="H22oSKW3V02NDSmF9sWeSw" hash="vQygVw">When this new missionary sincerely taught the First Vision, using the words of the Prophet, the countenance of that dear sister changed. Tears appeared. As Elder Hollings finished that glorious message and before what he said could be interpreted, she asked through her tears in her native language, “May I be baptized? And will you teach my son?”</p>
-		</span>
-		<p class="para" uri="/general-conference/2013/10/called-of-him-to-declare-his-word.p26" pid="OOtjh5Rem0OFJz27FtL6TA" hash="CW11gQ">My young fellow servants, doors and hearts open daily to the gospel message—a message that brings hope and peace and joy to the children of God throughout the world. If you are humble and obedient and hearken to the voice of the Spirit, you will find great happiness in your service as a missionary.<span class="noteMarker" ref="f_17">17</span> What a wonderful season it is to be a missionary—a time when the Lord is hastening His work!</p>
-		<p class="para" uri="/general-conference/2013/10/called-of-him-to-declare-his-word.p27" pid="oN5yM69PoUiHs-Eru9YjIg" hash="TnV_MA">I bear witness of our Savior, Jesus Christ, and of His “divine command”<span class="noteMarker" ref="f_18">18</span> to “go ye therefore, and teach all nations.”<span class="noteMarker" ref="f_19">19</span> This is His Church. He leads it through living prophets and apostles. During the next hour, the First Presidency will teach us. May we be “quick to observe,”<span class="noteMarker" ref="f_20">20</span> as was Mormon, so when the call comes, we are worthy and able to declare with the power of the Spirit: “Behold, I am a disciple of Jesus Christ, the Son of God. I have been called of him to declare his word among his people, that they might have everlasting life.”<span class="noteMarker" ref="f_21">21</span> In the name of Jesus Christ, amen.</p>
-	</div>
-	
-</div>]]></content:encoded>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="52"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/3afbfa14fdba47d1f6478496402ac90fcfcfe450/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/3afbfa14fdba47d1f6478496402ac90fcfcfe450/full/%21192%2C/0/default" data-video-title="Called of Him to Declare His Word" data-video-description="If you are humble and obedient and hearken to the voice of the Spirit, you will find great happiness in your service as a missionary." data-video-id="6389199450112" data-ip="Download &amp; Streaming" data-duration="778000" data-assetId="0069321f2ad29e46cce0601fb95cc8ae97cffb5c" data-ref-id="0069321f2ad29e46cce0601fb95cc8ae97cffb5c" data-duration-string="12:58" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6389199450112.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="258381473"/><source src="https://assets.churchofjesuschrist.org/0069321f2ad29e46cce0601fb95cc8ae97cffb5c-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="37755110"/><source src="https://assets.churchofjesuschrist.org/0069321f2ad29e46cce0601fb95cc8ae97cffb5c-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="76851384"/><source src="https://assets.churchofjesuschrist.org/0069321f2ad29e46cce0601fb95cc8ae97cffb5c-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="258381473"/></video><h1 data-aid="28858979" id="title1">Called of Him to Declare His Word</h1>
+<div class="byline">
+<p class="author-name" data-aid="28858980" id="p1">By Elder Randy D. Funk</p>
+<p class="author-role" data-aid="28858981" id="p2">Of the Seventy</p>
+<div class="image-cropper"><img alt="Elder Randy D. Funk" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/64e4117c23f5dcc742ddeb4846fca6ad669d4b95/full/%21100%2C/0/default" data-assetId="64e4117c23f5dcc742ddeb4846fca6ad669d4b95" srcset="https://www.churchofjesuschrist.org/imgs/64e4117c23f5dcc742ddeb4846fca6ad669d4b95/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/64e4117c23f5dcc742ddeb4846fca6ad669d4b95/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/64e4117c23f5dcc742ddeb4846fca6ad669d4b95/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/64e4117c23f5dcc742ddeb4846fca6ad669d4b95/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/64e4117c23f5dcc742ddeb4846fca6ad669d4b95/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/64e4117c23f5dcc742ddeb4846fca6ad669d4b95/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/64e4117c23f5dcc742ddeb4846fca6ad669d4b95/full/%21640%2C/0/default 640w" data-img-id="64e4117c23f5dcc742ddeb4846fca6ad669d4b95" data-missing-asset="false" data-width="100" data-height="139" data-aspect-ratio="0.7194244604316546" data-public-title="Funk, Randy D." data-public-description="Official Portrait of Elder Randy D. Funk.  Photographed March 2017."/></div>
+</div>
+<p class="kicker" data-aid="28858982" id="kicker1">If you are humble and obedient and hearken to the voice of the Spirit, you will find great happiness in your service as a missionary.</p>
+</header>
+<div class="body-block">
+<p data-aid="28858983" id="p3">When I was sustained as a General Authority last April, I was serving as a mission president in India. I observed firsthand what another former mission president had told me: “The missionaries of this Church are simply stunning.”<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a></p>
+<p data-aid="28858984" id="p4">One of many outstanding missionaries with whom Sister Funk and I served was Elder Pokhrel from Nepal. After being a member of the Church for only two years, he was called to serve in the India Bangalore Mission, an English-speaking mission. He would tell you he was not well prepared. That was understandable. He had never seen a missionary until he was one, because no young missionaries serve in Nepal. He did not read English well enough to understand the instructions included with his call. When he reported to the missionary training center, instead of bringing nice slacks, white shirts, and ties, he packed, in his words, “five pairs of denim jeans, a couple of T-shirts, and a lot of hair gel.”<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a></p>
+<p data-aid="28858985" id="p5">Even after he obtained appropriate clothing, he said he felt inadequate every day during the first few weeks. He described that time of his mission: “Not only was the English difficult, but the work was just as challenging. … On top of all of that, I was hungry, tired, and homesick. … Even though the circumstances were tough, I was determined. I felt weak and inadequate. I would pray at those times for Heavenly Father to help me. Without fail, every time I prayed, I would feel comforted.”<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a></p>
+<p data-aid="28858986" id="p6">Though missionary work was new and challenging for Elder Pokhrel, he served with great faith and faithfulness, seeking to understand and follow what he was learning from the scriptures, <em>Preach My Gospel,</em> and his mission leaders. He became a powerful teacher of the gospel—in English—and an excellent leader. After his mission and some time in Nepal, he returned to India to continue his education. Since January he has served as a branch president in New Delhi. Because of the real growth he experienced as a missionary, he continues to contribute to the real growth of the Church in India.</p>
+<p data-aid="28858987" id="p7">How did a young man who had never seen a missionary become one with such spiritual strength? How will you receive spiritual power as a missionary to open the doors, in-boxes, and hearts of those in the mission where you will serve? As usual, the answers are found in the scriptures and the words of living prophets and apostles.</p>
+<p data-aid="28858988" id="p8">When the gospel was first preached in England in July 1837, the Lord revealed, “Whosoever ye shall send in my name, by the voice of your brethren, the Twelve, duly recommended and authorized by you, shall have power to open the door of my kingdom unto any nation whithersoever ye shall send them.”<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a></p>
+<p data-aid="28858989" id="p9">Wherever you are sent, to whichever mission you are assigned, know that a member of the Twelve duly recommended that assignment and you are called by the Lord’s prophet. You are called “by prophecy, and by the laying on of hands.”<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a></p>
+<p data-aid="28858990" id="p10">The Lord then gave the conditions for this promise to be fulfilled. He said, “Inasmuch as [which means the promise will be fulfilled <em>if</em>] they [meaning the missionaries who are sent] shall [1] humble themselves before me, and [2] abide in my word, and [3] hearken to the voice of my Spirit.”<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a></p>
+<p data-aid="28858991" id="p11">The Lord’s promises are clear. In order to have the spiritual power necessary to open the door of the kingdom of God in the nation to which you are sent, you must be humble and obedient and have the ability to hear and follow the Spirit.</p>
+<p data-aid="28858992" id="p12">These three attributes are closely interrelated. If you are humble, you will want to be obedient. If you are obedient, you will feel the Spirit. The Spirit is essential, for, as President Ezra Taft Benson taught, “Without the Spirit, you will never succeed <em>regardless</em> of your talent and ability.”<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a></p>
+<span class="page-break" data-page="53"></span>
+<p data-aid="28858993" id="p13">As a mission president, I occasionally interviewed missionaries who struggled because they were not yet fully clean. They lived below their spiritual potential. No matter how hard they worked or how much good they did, they were unable to feel at peace and enjoy the companionship of the Holy Ghost until they had humbled themselves, fully repented, and partaken of the mercy and grace of the Savior.</p>
+<p data-aid="28858994" id="p14">The Lord instructs His servants to be humble because the process of being made whole spiritually begins with a broken heart. Think of the good that comes from broken things: Soil is broken to plant wheat. Wheat is broken to make bread. Bread is broken to become the emblems of the sacrament. When one who is repentant partakes of the sacrament with a broken heart and a contrite spirit, he or she becomes whole.<a class="note-ref" href="#note8"><sup class="marker" data-value="8"></sup></a> As we repent and become whole through the Atonement of Jesus Christ, we have much more to offer the Savior as we serve Him. “Yea, come unto him, and offer your whole souls as an offering unto him.”<a class="note-ref" href="#note9"><sup class="marker" data-value="9"></sup></a></p>
+<p data-aid="28858995" id="p15">If you are burdened by sin and need to repent, please do so immediately. When the Savior healed those who were afflicted, He often invited them to rise up. The scriptures record that they did so straightway, or immediately.<a class="note-ref" href="#note10"><sup class="marker" data-value="10"></sup></a> To be healed of your spiritual afflictions, please accept His invitation to rise up. Without delay, talk to your bishop, branch president, or mission president and begin the process of repentance now.</p>
+<p data-aid="28858996" id="p16">The healing power of the Atonement will bring peace to your soul and enable you to feel the Holy Spirit. The Savior’s sacrifice is beyond measure, but our sins, though numerous and serious, may be counted and confessed, forsaken and forgiven. “And how great is his joy in the soul that repenteth!”<a class="note-ref" href="#note11"><sup class="marker" data-value="11"></sup></a></p>
+<p data-aid="28858997" id="p17">This promise in the Doctrine and Covenants is powerful: “Let virtue garnish thy thoughts unceasingly; then shall thy confidence wax strong in the presence of God.”<a class="note-ref" href="#note12"><sup class="marker" data-value="12"></sup></a> As you live a virtuous life, you will feel a peaceful confidence in your standing before God and you will have the power of the Spirit to be with you.<a class="note-ref" href="#note13"><sup class="marker" data-value="13"></sup></a></p>
+<p data-aid="28858998" id="p18">Some who are newer members of the Church or who have recently returned to full activity may say, “I am now worthy and have a desire to serve, but I don’t know if I know enough.” In April President Thomas S. Monson taught us, “A knowledge of truth and the answers to our greatest questions come to us as we are obedient to the commandments of God.”<a class="note-ref" href="#note14"><sup class="marker" data-value="14"></sup></a> How reassuring it is to know that through our obedience we gain knowledge.</p>
+<p data-aid="28858999" id="p19">Others may feel they have limited talents, abilities, or experience to offer. If you have such concerns, remember the experience of Elder Pokhrel. Prepare as well as you can, and know that our Heavenly Father will magnify your humble and obedient efforts. Elder Richard G. Scott offered this encouraging counsel: “When we obey the commandments of the Lord and serve His children unselfishly, the natural consequence is power from God—power to do more than we can do by ourselves. Our insights, our talents, our abilities are expanded because we receive strength and power from the Lord.”<a class="note-ref" href="#note15"><sup class="marker" data-value="15"></sup></a></p>
+<p data-aid="28859000" id="p20">As you trust in the Lord and His goodness, the Almighty God will bless His children through you.<a class="note-ref" href="#note16"><sup class="marker" data-value="16"></sup></a> Elder <span class="page-break" data-page="54"></span>Hollings from Nevada learned that early in his mission. The day after he arrived in India, he traveled with Sister Funk and me to Rajahmundry, his first area. That afternoon Elder Hollings and Elder Ganaparam went to visit a Church member and her mother. The mother wanted to learn about the Church because she had seen how the gospel blessed the life of her daughter. Sister Funk joined them to provide fellowship. Because the lesson would be taught in English and the mother spoke only Telugu, a brother in the branch was there to interpret what was taught.</p>
+<p data-aid="28859001" id="p21">Elder Hollings’s assignment in his very first teaching appointment was to teach the First Vision, using the words of the Prophet Joseph. At that point in the lesson, he turned to Sister Funk and asked, “Should I say it word for word?” knowing it would be interpreted.</p>
+<p data-aid="28859002" id="p22">She replied, “Say it word for word so the Spirit can testify of what you say.”</p>
+<p data-aid="28859003" id="p23">When this new missionary sincerely taught the First Vision, using the words of the Prophet, the countenance of that dear sister changed. Tears appeared. As Elder Hollings finished that glorious message and before what he said could be interpreted, she asked through her tears in her native language, “May I be baptized? And will you teach my son?”</p>
+<p data-aid="28859004" id="p24">My young fellow servants, doors and hearts open daily to the gospel message—a message that brings hope and peace and joy to the children of God throughout the world. If you are humble and obedient and hearken to the voice of the Spirit, you will find great happiness in your service as a missionary.<a class="note-ref" href="#note17"><sup class="marker" data-value="17"></sup></a> What a wonderful season it is to be a missionary—a time when the Lord is hastening His work!</p>
+<p data-aid="28859005" id="p25">I bear witness of our Savior, Jesus Christ, and of His “divine command”<a class="note-ref" href="#note18"><sup class="marker" data-value="18"></sup></a> to “go ye therefore, and teach all nations.”<a class="note-ref" href="#note19"><sup class="marker" data-value="19"></sup></a> This is His Church. He leads it through living prophets and apostles. During the next hour, the First Presidency will teach us. May we be “quick to observe,”<a class="note-ref" href="#note20"><sup class="marker" data-value="20"></sup></a> as was Mormon, so when the call comes, we are worthy and able to declare with the power of the Spirit: “Behold, I am a disciple of Jesus Christ, the Son of God. I have been called of him to declare his word among his people, that they might have everlasting life.”<a class="note-ref" href="#note21"><sup class="marker" data-value="21"></sup></a> In the name of Jesus Christ, amen.</p>
+</div>
+<footer class="notes">
+<p class="title" data-aid="28859006" id="notetitle1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="28859007" id="note1_p1">Personal conversations with Dennis C. Brimhall, president of the Kentucky Louisville Mission, 2005–8.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="28859008" id="note2_p1">Ashish Pokhrel, “My Name Is Ashish Pokhrel and This Is My Story” (unpublished personal history, Sept. 2011).</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="28859009" id="note3_p1">Pokhrel, “My Name Is Ashish Pokhrel.”</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="28859010" id="note4_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/112?lang=eng&amp;id=p21#p21">Doctrine and Covenants 112:21</a>.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="28859011" id="note5_p1"><a class="scripture-ref" href="/study/scriptures/pgp/a-of-f/1?lang=eng&amp;id=p5#p5">Articles of Faith 1:5</a>.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="28859012" id="note6_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/112?lang=eng&amp;id=p22#p22">Doctrine and Covenants 112:22</a>.</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="28859013" id="note7_p1">Ezra Taft Benson, in <em>Preach My Gospel: A Guide to Missionary Service</em> (2004), 176.</p>
+</li>
+<li data-marker="8." id="note8" data-full-marker="8.">
+<p data-aid="28859014" id="note8_p1">Ideas taken from a talk given by Elder Jeffrey R. Holland at the Bountiful Utah North Stake conference, June 8–9, 2013.</p>
+</li>
+<li data-marker="9." id="note9" data-full-marker="9.">
+<p data-aid="28859015" id="note9_p1"><a class="scripture-ref" href="/study/scriptures/bofm/omni/1?lang=eng&amp;id=p26#p26">Omni 1:26</a>.</p>
+</li>
+<li data-marker="10." id="note10" data-full-marker="10.">
+<p data-aid="28859016" id="note10_p1">See <a class="scripture-ref" href="/study/scriptures/nt/mark/5?lang=eng&amp;id=p41-p42#p41">Mark 5:41–42</a>; <a class="scripture-ref" href="/study/scriptures/nt/john/5?lang=eng&amp;id=p8-p9#p8">John 5:8–9</a>.</p>
+</li>
+<li data-marker="11." id="note11" data-full-marker="11.">
+<p data-aid="28859017" id="note11_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/18?lang=eng&amp;id=p13#p13">Doctrine and Covenants 18:13</a>.</p>
+</li>
+<li data-marker="12." id="note12" data-full-marker="12.">
+<p data-aid="28859018" id="note12_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/121?lang=eng&amp;id=p45#p45">Doctrine and Covenants 121:45</a>.</p>
+</li>
+<li data-marker="13." id="note13" data-full-marker="13.">
+<p data-aid="28859019" id="note13_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/121?lang=eng&amp;id=p46#p46">Doctrine and Covenants 121:46</a>.</p>
+</li>
+<li data-marker="14." id="note14" data-full-marker="14.">
+<p data-aid="28859020" id="note14_p1">Thomas S. Monson, “Obedience Brings Blessings,” <em>Ensign</em> or <em>Liahona,</em> May 2013, 89.</p>
+</li>
+<li data-marker="15." id="note15" data-full-marker="15.">
+<p data-aid="28859021" id="note15_p1">Richard G. Scott, “For Peace at Home,” <em>Ensign</em> or <em>Liahona,</em> May 2013, 30.</p>
+</li>
+<li data-marker="16." id="note16" data-full-marker="16.">
+<p data-aid="28859022" id="note16_p1">In describing what the many new missionaries will do, Elder Russell M. Nelson said: “They will do what missionaries have always done. They will preach the gospel! They will bless the children of Almighty God!” (“Catch the Wave,” <em>Ensign</em> or <em>Liahona,</em> May 2013, 45).</p>
+</li>
+<li data-marker="17." id="note17" data-full-marker="17.">
+<p data-aid="28859023" id="note17_p1">See <em>Preach My Gospel,</em> v.</p>
+</li>
+<li data-marker="18." id="note18" data-full-marker="18.">
+<p data-aid="28859024" id="note18_p1">Thomas S. Monson, “Come, All Ye Sons of God,” <em>Ensign</em> or <em>Liahona,</em> May 2013, 66.</p>
+</li>
+<li data-marker="19." id="note19" data-full-marker="19.">
+<p data-aid="28859025" id="note19_p1"><a class="scripture-ref" href="/study/scriptures/nt/matt/28?lang=eng&amp;id=p19#p19">Matthew 28:19</a>.</p>
+</li>
+<li data-marker="20." id="note20" data-full-marker="20.">
+<p data-aid="28859026" id="note20_p1"><a class="scripture-ref" href="/study/scriptures/bofm/morm/1?lang=eng&amp;id=p2#p2">Mormon 1:2</a>.</p>
+</li>
+<li data-marker="21." id="note21" data-full-marker="21.">
+<p data-aid="28859027" id="note21_p1"><a class="scripture-ref" href="/study/scriptures/bofm/3-ne/5?lang=eng&amp;id=p13#p13">3 Nephi 5:13</a>.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/2013/10/called-of-him-to-declare-his-word</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/october-2013-general-conference/2013-10-3030-elder-randy-d-funk-64k-eng.mp3" length="6261032" type="audio/mpeg"/>
-      <pubDate>Sat, 05 Oct 2013 18:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/e22afc5232d211ecbc25eeeeac1e296236231c26-64k-en.mp3" length="6400745" type="audio/mpeg"/>
+      <pubDate>Sat, 05 Oct 2013 18:00:00 -0600</pubDate>
+      <itunes:author>Randy D. Funk</itunes:author>
+    </item>
+    <item>
+      <title>Come into the Fold of God</title>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2022/04/56funk?lang=eng</link>
+      <description>Elder Funk testifies of the blessings that come to those who choose to come into the fold of God by obeying the gospel of Jesus Christ.</description>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="118"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/144f7976639497c249a957bb650c8f6f57bc6c42/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/144f7976639497c249a957bb650c8f6f57bc6c42/full/%21192%2C/0/default" data-video-title="Come into the Fold of God" data-video-description="Elder Funk testifies of the blessings that come to those who choose to come into the fold of God by obeying the gospel of Jesus Christ." data-video-id="6302792730001" data-ip="Download and Streaming                            " data-duration="620086" data-assetId="e38cfe64b3a011ec867aeeeeac1ee15dc1b86ce7" data-ref-id="EEF58CF1CCC4D290262094F7C0D32B7BD99C1F3B" data-duration-string="10:20" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6302792730001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="146074047"/><source src="https://assets.churchofjesuschrist.org/e38cfe64b3a011ec867aeeeeac1ee15dc1b86ce7-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="33218130"/><source src="https://assets.churchofjesuschrist.org/e38cfe64b3a011ec867aeeeeac1ee15dc1b86ce7-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="58677061"/><source src="https://assets.churchofjesuschrist.org/e38cfe64b3a011ec867aeeeeac1ee15dc1b86ce7-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="146074047"/></video><h1 data-aid="149807903" id="title1">Come into the Fold of God</h1>
+<div class="byline">
+<p class="author-name" data-aid="149807911" id="author1">By Elder Randy D. Funk</p>
+<p class="author-role" data-aid="149807919" id="author2">Of the Seventy</p>
+</div>
+<p class="kicker" data-aid="149807926" id="kicker1">Within the fold of God, we experience the Good Shepherd’s watchful, nurturing care and are blessed to feel His redeeming love.</p>
+</header>
+<div class="body-block">
+<p data-aid="149807933" id="p1">As young parents, Brother and Sister Samad learned the gospel of Jesus Christ in their simple two-room home in Semarang, Indonesia.<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a> Seated around a small table, with a dim light that seemed to provide more mosquitoes than illumination, two young missionaries taught them eternal truths. Through sincere prayer and the guidance of the Holy Ghost, they came to believe what they were taught and chose to be baptized and become members of The Church of Jesus Christ of Latter-day Saints. That decision, and their pattern of living since, has blessed Brother and Sister Samad and their family in every aspect of their lives.<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a></p>
+<p data-aid="149807940" id="p2">They are among the early pioneer Saints in Indonesia. Later they received the ordinances of the temple, and Brother Samad served as the branch president and then district president, driving throughout Central Java to <span class="page-break" data-page="119"></span>fulfill his responsibilities. For the past decade, he has served as the first patriarch of the Surakarta Indonesia Stake.</p>
+<img alt="Elder Funk with Sister and Brother Samad" id="img1" src="https://www.churchofjesuschrist.org/imgs/a1e9b6f2b11911ec8275eeeeac1ee811858141a9/full/%21500%2C/0/default" data-assetId="a1e9b6f2b11911ec8275eeeeac1ee811858141a9" srcset="https://www.churchofjesuschrist.org/imgs/a1e9b6f2b11911ec8275eeeeac1ee811858141a9/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/a1e9b6f2b11911ec8275eeeeac1ee811858141a9/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/a1e9b6f2b11911ec8275eeeeac1ee811858141a9/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/a1e9b6f2b11911ec8275eeeeac1ee811858141a9/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/a1e9b6f2b11911ec8275eeeeac1ee811858141a9/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/a1e9b6f2b11911ec8275eeeeac1ee811858141a9/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/a1e9b6f2b11911ec8275eeeeac1ee811858141a9/full/%21640%2C/0/default 640w" data-img-id="a1e9b6f2b11911ec8275eeeeac1ee811858141a9" data-missing-asset="false" data-width="500" data-height="732" data-aspect-ratio="0.6830601092896175" data-public-title="Indonesia: Randy Funk" data-public-description="Elder Randy Funk stands with two church members outside a Latter-day Saint Meetinghouse in Indonesia."/>
+<p data-aid="149807946" id="p3">As one of the missionaries in that humble, faith-filled home 49 years ago, I have witnessed in them what King Benjamin taught in the Book of Mormon: “I would desire that ye should consider on the blessed and happy state of those that keep the commandments of God. For behold, they are blessed in all things, both temporal and spiritual.”<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a> The blessings that flow into the lives of those who follow the example and teachings of Jesus Christ, who choose to be counted among His disciples, are numerous, joyful, and eternal.<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a></p>
+<section>
+<header>
+<h2 data-aid="149807953" id="title2">The Fold of God</h2>
+</header>
+<p data-aid="149807960" id="p4">Alma’s baptismal covenant invitation to those gathered at the Waters of Mormon begins with this phrase: “Now, as ye are desirous to come into the fold of God.”<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a></p>
+<img id="img2" src="https://www.churchofjesuschrist.org/imgs/a2e18472b11911ecbc74eeeeac1e7455a8ec2056/full/%21500%2C/0/default" data-assetId="a2e18472b11911ecbc74eeeeac1e7455a8ec2056" srcset="https://www.churchofjesuschrist.org/imgs/a2e18472b11911ecbc74eeeeac1e7455a8ec2056/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/a2e18472b11911ecbc74eeeeac1e7455a8ec2056/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/a2e18472b11911ecbc74eeeeac1e7455a8ec2056/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/a2e18472b11911ecbc74eeeeac1e7455a8ec2056/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/a2e18472b11911ecbc74eeeeac1e7455a8ec2056/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/a2e18472b11911ecbc74eeeeac1e7455a8ec2056/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/a2e18472b11911ecbc74eeeeac1e7455a8ec2056/full/%21640%2C/0/default 640w" data-img-id="a2e18472b11911ecbc74eeeeac1e7455a8ec2056" data-missing-asset="false" data-width="500" data-height="750" data-aspect-ratio="0.6666666666666666" data-public-title="Sheep" data-public-description="Flock of sheep in the country side standing next to a rock fence." alt="Flock of sheep in the country side standing next to a rock fence."/>
+<p data-aid="149807967" id="p5">A fold, or sheepfold, is a large enclosure, often constructed with stone walls, where the sheep are protected at night. It has only one opening. At the end of the day, the shepherd calls the sheep. They know his voice, and through the gate they enter the safety of the fold.</p>
+<p data-aid="149807974" id="p6">The people of Alma would have known that shepherds stand at the narrow opening of the fold so that when the sheep enter, they are numbered<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a> and their wounds and ailments noted and cared for one by one. The safety and well-being of the sheep depend on their willingness to come into the fold and to stay in the fold.</p>
+<p data-aid="149807979" id="p7">Among us there may be some who feel they are at the edge of the flock, perhaps thinking they are less needed or valued or that they don’t belong in the fold. And, as in the sheepfold, in the fold of God we sometimes step on one another’s toes and need to repent or forgive.</p>
+<p data-aid="149807984" id="p8">But the Good Shepherd<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a>—our true shepherd—is always good. Within the fold of God, we experience His watchful, nurturing care and are blessed to feel His redeeming love. He said, “I have graven thee upon the palms of my hands; thy walls are continually before me.”<a class="note-ref" href="#note8"><sup class="marker" data-value="8"></sup></a> Our Savior has graven upon His palms our sins, pains, afflictions,<a class="note-ref" href="#note9"><sup class="marker" data-value="9"></sup></a> and all that is unfair in life.<a class="note-ref" href="#note10"><sup class="marker" data-value="10"></sup></a> All are welcome to receive these blessings, as they “are desirous to come”<a class="note-ref" href="#note11"><sup class="marker" data-value="11"></sup></a> and choose to be in the fold. The gift of agency is not simply the right to choose; it is the opportunity to choose the right. And the walls of the fold are not a constraint but a source of spiritual safety.</p>
+<p data-aid="149807989" id="p9">Jesus taught that there is “one fold, and one shepherd.”<a class="note-ref" href="#note12"><sup class="marker" data-value="12"></sup></a> He said:</p>
+<p data-aid="149807994" id="p24">“He that entereth in by the door is the shepherd of the sheep. …</p>
+<p data-aid="149807999" id="p25">“And the sheep hear his voice … ,</p>
+<p data-aid="149808004" id="p26">“… and the sheep follow him: for they know his voice.”<a class="note-ref" href="#note13"><sup class="marker" data-value="13"></sup></a></p>
+<p data-aid="149808009" id="p27">Jesus then stated, “I am the door: by me if any man enter in, he shall be saved,”<a class="note-ref" href="#note14"><sup class="marker" data-value="14"></sup></a> teaching clearly that there is only one way into the fold of God and only one way to be saved. It is by and through Jesus Christ.<a class="note-ref" href="#note15"><sup class="marker" data-value="15"></sup></a></p>
+</section>
+<section>
+<header>
+<h2 data-aid="149808013" id="title3">Blessings Come to Those in the Fold of God</h2>
+</header>
+<p data-aid="149808018" id="p10"><span class="page-break" data-page="120"></span>We learn how to come into the fold from the word of God, which is the doctrine taught by Jesus Christ and His prophets.<a class="note-ref" href="#note16"><sup class="marker" data-value="16"></sup></a> When we follow the doctrine of Christ and come into the fold through faith in Jesus Christ, repentance, baptism and confirmation, and continuing faithfulness,<a class="note-ref" href="#note17"><sup class="marker" data-value="17"></sup></a> Alma promised four specific, personal blessings. <em>You</em> may (1) “be redeemed of God,” (2) “be numbered with those of the first resurrection,” (3) “have eternal life,” and (4) the Lord will “pour out his Spirit more abundantly upon you.”<a class="note-ref" href="#note18"><sup class="marker" data-value="18"></sup></a></p>
+<p data-aid="149808023" id="p11">After Alma taught about these blessings, the people clapped their hands for joy. Here’s why:</p>
+<p data-aid="149808028" id="p12">First: To <em>redeem</em> means to pay off a debt or obligation or to free from what distresses or harms.<a class="note-ref" href="#note19"><sup class="marker" data-value="19"></sup></a> No amount of personal improvement on our part can make us clean from the sins we have committed or whole from the wounds we have suffered without the Atonement of Jesus Christ. He is our Redeemer.<a class="note-ref" href="#note20"><sup class="marker" data-value="20"></sup></a></p>
+<p data-aid="149808033" id="p13">Second: Because of Christ’s Resurrection, all will be resurrected.<a class="note-ref" href="#note21"><sup class="marker" data-value="21"></sup></a> After our spirits depart our mortal bodies, we will undoubtedly look forward to when we can again with a resurrected body embrace those we love. We will eagerly look forward to being among those of the First Resurrection.</p>
+<p data-aid="149808038" id="p14">Third: Eternal life means to live with God and as He lives. It is “the greatest of all the gifts of God”<a class="note-ref" href="#note22"><sup class="marker" data-value="22"></sup></a> and will bring a fulness of joy.<a class="note-ref" href="#note23"><sup class="marker" data-value="23"></sup></a> It is the ultimate purpose and objective of our lives.</p>
+<p data-aid="149808043" id="p15">Fourth: The companionship of a member of the Godhead, the Holy Ghost, provides much-needed guidance and comfort during this mortal life.<a class="note-ref" href="#note24"><sup class="marker" data-value="24"></sup></a></p>
+<p data-aid="149808048" id="p16">Consider some causes of unhappiness: misery comes from sin,<a class="note-ref" href="#note25"><sup class="marker" data-value="25"></sup></a> sadness and loneliness from the death of a loved one, and fear from the uncertainty of what happens when we die. But when we enter the fold of God <span class="page-break" data-page="121"></span>and keep our covenants with Him, we feel the peace of knowing and trusting that Christ will redeem us from our sins, that the separation of our body and spirit will end more quickly, and that we will live eternally with God in a most glorious manner.</p>
+</section>
+<section>
+<header>
+<h2 data-aid="149808053" id="title4">Trust in Christ and Act in Faith</h2>
+</header>
+<p data-aid="149808058" id="p17">Brothers and sisters, the scriptures are filled with examples of the Savior’s majestic power and His compassionate mercy and grace. During His earthly ministry, His blessings of healing came to those who trusted Him and acted in faith. For example, the infirm man at the pool of Bethesda walked when, with faith, he followed the Savior’s command to “rise, take up thy bed, and walk.”<a class="note-ref" href="#note26"><sup class="marker" data-value="26"></sup></a> Those who were sick or afflicted in any manner in the land of Bountiful were healed when “with one accord” they “did go forth.”<a class="note-ref" href="#note27"><sup class="marker" data-value="27"></sup></a></p>
+<p data-aid="149808063" id="p18">Similarly, to receive the marvelous blessings promised to those who come into the fold of God requires us to do just that—we need to choose to come. Alma the Younger taught, “And now I say unto you that the good shepherd doth call after you; and if you will hearken unto his voice he will bring you into his fold.”<a class="note-ref" href="#note28"><sup class="marker" data-value="28"></sup></a></p>
+<p data-aid="149808067" id="p19">Several years ago a dear friend passed away from cancer. When his wife, Sharon, first wrote about his diagnosis, she said: “We Choose Faith. Faith in our Savior, Jesus Christ. Faith in our Heavenly Father’s plan, and faith that He knows our needs and fulfills His promises.”<a class="note-ref" href="#note29"><sup class="marker" data-value="29"></sup></a></p>
+<p data-aid="149808071" id="p20">I have met many Latter-day Saints like Sharon who feel the inward peace of being securely within the fold of God, especially when temptation, opposition, or adversity comes.<a class="note-ref" href="#note30"><sup class="marker" data-value="30"></sup></a> They have chosen to have faith in Jesus Christ and to follow His prophet. Our dear prophet, President Russell M. Nelson, has taught, “Everything good in life—every potential blessing of eternal significance—begins with faith.”<a class="note-ref" href="#note31"><sup class="marker" data-value="31"></sup></a></p>
+</section>
+<section>
+<header>
+<h2 data-aid="149808075" id="title5">Come Fully into the Fold of God</h2>
+</header>
+<p data-aid="149808079" id="p21">My great-great-great-grandfather James Sawyer Holman came to Utah in 1847, but he wasn’t among those to arrive in July with Brigham Young. He came later that year and, according to family records, was responsible to bring the sheep. He didn’t reach the Salt Lake Valley until October, but he and the sheep made it.<a class="note-ref" href="#note32"><sup class="marker" data-value="32"></sup></a></p>
+<p data-aid="149808083" id="p22">Figuratively speaking, some of us are still on the plains. Not everyone arrives in the first group. My dear friends, please continue the journey—and help others—to come fully into the fold of God. The blessings of the gospel of Jesus Christ are immeasurable because they are eternal.</p>
+<p data-aid="149808087" id="p23">I am profoundly grateful to be a member of The Church of Jesus Christ of Latter-day Saints. I bear witness of the love of our Heavenly Father and our Redeemer, Jesus Christ, and of the peace that comes only from Them—the inner peace and the blessings found in the fold of God. In the name of Jesus Christ, amen.</p>
+</section>
+</div>
+<footer class="notes">
+<p class="title" data-aid="149808091" id="note_title1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="149808095" id="note1_p1">Like many Indonesians of his generation, Brother Samad has just one name. His wife, Sri Katoningsih, and their children use Samad as their surname.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="149808099" id="note2_p1">Brother and Sister Samad report that at least 44 of their extended family are now members of the Church. Many others also enjoy the blessings of the gospel because of their example and service.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="149808103" id="note3_p1"><a class="scripture-ref" href="/study/scriptures/bofm/mosiah/2?lang=eng&amp;id=p41#p41">Mosiah 2:41</a>.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="149808107" id="note4_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/59?lang=eng&amp;id=p23#p23">Doctrine and Covenants 59:23</a>.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="149808111" id="note5_p1"><a class="scripture-ref" href="/study/scriptures/bofm/mosiah/18?lang=eng&amp;id=p8#p8">Mosiah 18:8</a>.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="149808115" id="note6_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/moro/6?lang=eng&amp;id=p4#p4">Moroni 6:4</a>.</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="149808119" id="note7_p1">See <a class="scripture-ref" href="/study/scriptures/nt/john/10?lang=eng&amp;id=p14#p14">John 10:14</a>; see also Gerrit W. Gong, “<a class="cross-ref" href="/study/general-conference/2019/04/53gong?lang=eng">Good Shepherd, Lamb of God</a>,” <cite>Ensign</cite> or <cite>Liahona</cite>, May 2019, 97–101.</p>
+</li>
+<li data-marker="8." id="note8" data-full-marker="8.">
+<p data-aid="149808123" id="note8_p1"><a class="scripture-ref" href="/study/scriptures/ot/isa/49?lang=eng&amp;id=p16#p16">Isaiah 49:16</a>.</p>
+</li>
+<li data-marker="9." id="note9" data-full-marker="9.">
+<p data-aid="149808126" id="note9_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/alma/7?lang=eng&amp;id=p11-p13#p11">Alma 7:11–13</a>.</p>
+</li>
+<li data-marker="10." id="note10" data-full-marker="10.">
+<p data-aid="149808130" id="note10_p1">See Dale G. Renlund, “<a class="cross-ref" href="/study/general-conference/2021/04/25renlund?lang=eng">Infuriating Unfairness</a>,” <cite>Ensign</cite> or <cite>Liahona</cite>, May 2021, 41–44.</p>
+</li>
+<li data-marker="11." id="note11" data-full-marker="11.">
+<p data-aid="149808134" id="note11_p1"><a class="scripture-ref" href="/study/scriptures/bofm/mosiah/18?lang=eng&amp;id=p8#p8">Mosiah 18:8</a>.</p>
+</li>
+<li data-marker="12." id="note12" data-full-marker="12.">
+<p data-aid="149808138" id="note12_p1"><a class="scripture-ref" href="/study/scriptures/nt/john/10?lang=eng&amp;id=p16#p16">John 10:16</a>.</p>
+</li>
+<li data-marker="13." id="note13" data-full-marker="13.">
+<p data-aid="149808142" id="note13_p1"><a class="scripture-ref" href="/study/scriptures/nt/john/10?lang=eng&amp;id=p2-p4#p2">John 10:2–4</a>.</p>
+</li>
+<li data-marker="14." id="note14" data-full-marker="14.">
+<p data-aid="149808146" id="note14_p1"><a class="scripture-ref" href="/study/scriptures/nt/john/10?lang=eng&amp;id=p9#p9">John 10:9</a>.</p>
+</li>
+<li data-marker="15." id="note15" data-full-marker="15.">
+<p data-aid="149808150" id="note15_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/2-ne/31?lang=eng&amp;id=p21#p21">2 Nephi 31:21</a>; <a class="scripture-ref" href="/study/scriptures/bofm/hel/5?lang=eng&amp;id=p9#p9">Helaman 5:9</a>.</p>
+</li>
+<li data-marker="16." id="note16" data-full-marker="16.">
+<p data-aid="149808154" id="note16_p1">See Henry B. Eyring, “<a class="cross-ref" href="/study/general-conference/1999/04/the-power-of-teaching-doctrine?lang=eng&amp;id=p5#p5">The Power of Teaching Doctrine</a>,” <cite>Ensign</cite>, May 1999, 73; <cite>Liahona</cite>, July 1999, 85. When we seek to come unto Christ, we must come according to the words of Christ, “for there is one God and one Shepherd over all the earth” (see <a class="scripture-ref" href="/study/scriptures/bofm/1-ne/13?lang=eng&amp;id=p40-p41#p40">1 Nephi 13:40–41</a>).</p>
+</li>
+<li data-marker="17." id="note17" data-full-marker="17.">
+<p data-aid="149808158" id="note17_p1">The doctrine of Christ, simply stated, is that all people everywhere must exercise faith in Jesus Christ and His Atonement, repent, be baptized, receive the Holy Ghost, and endure to the end, or, as the Savior taught in <a class="scripture-ref" href="/study/scriptures/bofm/3-ne/11?lang=eng&amp;id=p38#p38">3 Nephi 11:38</a>, “ye can in nowise inherit the kingdom of God.”</p>
+</li>
+<li data-marker="18." id="note18" data-full-marker="18.">
+<p data-aid="149808162" id="note18_p1"><a class="scripture-ref" href="/study/scriptures/bofm/mosiah/18?lang=eng&amp;id=p9-p10#p9">Mosiah 18:9, 10</a>.</p>
+</li>
+<li data-marker="19." id="note19" data-full-marker="19.">
+<p data-aid="149808166" id="note19_p1">See <cite>Merriam-Webster.com Dictionary</cite>, “redeem”; see also D. Todd Christofferson, “<a class="cross-ref" href="/study/general-conference/2013/04/redemption?lang=eng">Redemption</a>,” <cite>Ensign</cite> or <cite>Liahona</cite>, May 2013, 109.</p>
+</li>
+<li data-marker="20." id="note20" data-full-marker="20.">
+<p data-aid="149808170" id="note20_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/alma/11?lang=eng&amp;id=p40#p40">Alma 11:40</a>.</p>
+</li>
+<li data-marker="21." id="note21" data-full-marker="21.">
+<p data-aid="149808173" id="note21_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/2-ne/2?lang=eng&amp;id=p8#p8">2 Nephi 2:8</a>; <a class="scripture-ref" href="/study/scriptures/bofm/2-ne/9?lang=eng&amp;id=p12#p12">9:12</a>.</p>
+</li>
+<li data-marker="22." id="note22" data-full-marker="22.">
+<p data-aid="149808176" id="note22_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/14?lang=eng&amp;id=p7#p7">Doctrine and Covenants 14:7</a>.</p>
+</li>
+<li data-marker="23." id="note23" data-full-marker="23.">
+<p data-aid="149808180" id="note23_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/2-ne/9?lang=eng&amp;id=p18#p18">2 Nephi 9:18</a>.</p>
+</li>
+<li data-marker="24." id="note24" data-full-marker="24.">
+<p data-aid="149808184" id="note24_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/1-ne/4?lang=eng&amp;id=p6#p6">1 Nephi 4:6</a>; <a class="scripture-ref" href="/study/scriptures/bofm/moro/8?lang=eng&amp;id=p26#p26">Moroni 8:26</a>.</p>
+</li>
+<li data-marker="25." id="note25" data-full-marker="25.">
+<p data-aid="149808187" id="note25_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/mosiah/3?lang=eng&amp;id=p24-p25#p24">Mosiah 3:24–25</a>; <a class="scripture-ref" href="/study/scriptures/bofm/alma/41?lang=eng&amp;id=p10#p10">Alma 41:10</a>.</p>
+</li>
+<li data-marker="26." id="note26" data-full-marker="26.">
+<p data-aid="149808190" id="note26_p1"><a class="scripture-ref" href="/study/scriptures/nt/john/5?lang=eng&amp;id=p8#p8">John 5:8</a>.</p>
+</li>
+<li data-marker="27." id="note27" data-full-marker="27.">
+<p data-aid="149808193" id="note27_p1"><a class="scripture-ref" href="/study/scriptures/bofm/3-ne/17?lang=eng&amp;id=p9#p9">3 Nephi 17:9</a>.</p>
+</li>
+<li data-marker="28." id="note28" data-full-marker="28.">
+<p data-aid="149808196" id="note28_p1"><a class="scripture-ref" href="/study/scriptures/bofm/alma/5?lang=eng&amp;id=p60#p60">Alma 5:60</a>. In <a class="scripture-ref" href="/study/scriptures/pgp/moses/7?lang=eng&amp;id=p53#p53">Moses 7:53</a>, the Messiah also said, “Whoso cometh in at the gate and climbeth up by me shall never fall.”</p>
+</li>
+<li data-marker="29." id="note29" data-full-marker="29.">
+<p data-aid="149808199" id="note29_p1">Sharon Jones, “Diagnosis,” wechoosefaith.blogspot.com, Mar. 18, 2012.</p>
+</li>
+<li data-marker="30." id="note30" data-full-marker="30.">
+<p data-aid="149808202" id="note30_p1"><a class="cross-ref" href="/study/manual/preach-my-gospel-a-guide-to-missionary-service/lesson-3-the-gospel-of-jesus-christ?lang=eng&amp;id=p39#p39"><cite>Preach My Gospel</cite></a> defines “endure to the end” as follows: “To remain true to the commandments of God and be true to the endowment and sealing ordinances of the temple despite temptation, opposition, and adversity throughout life” ([2019], 73). This suggests that we will experience temptation, opposition, and adversity throughout life.</p>
+</li>
+<li data-marker="31." id="note31" data-full-marker="31.">
+<p data-aid="149808205" id="note31_p1">Russell M. Nelson, “<a class="cross-ref" href="/study/general-conference/2021/04/49nelson?lang=eng&amp;id=p9#p9">Christ Is Risen; Faith in Him Will Move Mountains</a>,” <cite>Ensign</cite> or <cite>Liahona</cite>, May 2021, 102.</p>
+</li>
+<li data-marker="32." id="note32" data-full-marker="32.">
+<p data-aid="149808208" id="note32_p1">See brief biographies of James Sawyer Holman and Naomi Roxina LeBaron Holman by their granddaughter Grace H. Sainsbury in the possession of the speaker (Charles C. Rich diary, Sept. 28, 1847, Church History Library, Salt Lake City; Journal History of The Church of Jesus Christ of Latter-day Saints, June 21, 1847, 49, Church History Library). Holman was a captain in the 1847 Charles C. Rich company.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
+      <guid isPermaLink="false">/general-conference/2022/04/56funk</guid>
+      <enclosure url="https://assets.churchofjesuschrist.org/0b44488eb44511ecab6eeeeeac1ed5aef57b55b3-32k-en.mp3" length="2733292" type="audio/mpeg"/>
+      <pubDate>Sun, 03 Apr 2022 14:00:00 -0600</pubDate>
+      <itunes:author>Randy D. Funk</itunes:author>
     </item>
   </channel>
 </rss>

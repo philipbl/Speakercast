@@ -1,68 +1,122 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Talks By Kent D. Watson</title>
-    <link>http://philip.lundrigan.org/Speakercast/</link>
+    <link>https://philip.lundrigan.org/Speakercast/</link>
     <description>General Conference talks by Kent D. Watson.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Speakercast</generator>
     <image>
-      <url>http://philip.lundrigan.org/Speakercast/covers/Kent%20D.%20Watson.jpg</url>
+      <url>https://philip.lundrigan.org/Speakercast/covers/Kent%20D.%20Watson.jpg</url>
       <title>General Conference talks by Kent D. Watson.</title>
-      <link>http://philip.lundrigan.org/Speakercast/</link>
+      <link>https://philip.lundrigan.org/Speakercast/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Oct 2009 14:00:00 -0700</lastBuildDate>
-    <pubDate>Sat, 03 Oct 2009 14:00:00 -0700</pubDate>
+    <lastBuildDate>Sat, 03 Oct 2009 14:00:00 -0600</lastBuildDate>
+    <pubDate>Sat, 03 Oct 2009 14:00:00 -0600</pubDate>
+    <itunes:author>Kent D. Watson</itunes:author>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
+    <itunes:image href="https://philip.lundrigan.org/Speakercast/covers/Kent%20D.%20Watson.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>General Conference talks by Kent D. Watson.</itunes:summary>
     <item>
       <title>Being Temperate in All Things</title>
-      <link>http://www.lds.org/general-conference/2009/10/being-temperate-in-all-things?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2009/10/being-temperate-in-all-things?lang=eng</link>
       <description>Learning to be temperate in all things is a spiritual gift available through the Holy Ghost.</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/2009/10/being-temperate-in-all-things" schema-version="1" doc-id="general-conference_PD50019113_000_015" doc-version="2" hash="WtTYOQ">
-  
-  <div class="heading" uri="/general-conference/2009/10/being-temperate-in-all-things.head">
-    <h1 class="title" pid="dJkwg5XSgkWDhQxSgKkHGA" hash="CAv9Bg">Being Temperate in All Things</h1>
-    <p class="authorName" pid="a_53Xb6yCUCBwFBKUj88hw" hash="vXjV0Q">Kent D. Watson</p>
-    <p class="kicker" pid="xekQmIfYQkipoLirfSnY-A" hash="MVd1qg">Learning to be temperate in all things is a spiritual gift available through the Holy Ghost.</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/2009/10/being-temperate-in-all-things.t1">
-      <p class="para" uri="/general-conference/2009/10/being-temperate-in-all-things.p1" pid="7n9dK_uRWUG22WdDxk8FeA" hash="UyvAxw">
-        <span class="pageBreak" page-number="38"></span>In response to the Prophet Joseph Smith’s inquiry, the Lord instructed: “And no one can assist in this work except he shall be humble and full of love, having faith, hope, and charity, being temperate in all things, whatsoever shall be entrusted to his care.”<span class="noteMarker" ref="f_1">1</span></p>
-      <p class="para" uri="/general-conference/2009/10/being-temperate-in-all-things.p2" pid="VWh89hkRQEqcjeQEBjOdbw" hash="QPnZTw">The instruction on being temperate in all things applies to each of us. What is temperance, and why would the Lord want us to be temperate? A narrow definition might be “exercising restraint when it comes to food and drink.” Indeed, this meaning of temperance could be a good prescription for keeping the Word of Wisdom. Sometimes <span class="emphasis">temperance</span> might be defined as “refraining from anger or not losing one’s temper.” These definitions, however, are a subset of the scriptural usage of the word.</p>
-      <p class="para" uri="/general-conference/2009/10/being-temperate-in-all-things.p3" pid="InT1wqVyD0iu4DFxY80OZA" hash="7FNKcA">In a spiritual sense, temperance is a divine attribute of Jesus Christ. He desires for each of us to develop this attribute. Learning to be temperate in all things is a spiritual gift available through the Holy Ghost.</p>
-      <p class="para" uri="/general-conference/2009/10/being-temperate-in-all-things.p4" pid="Hj9y1FtpJkeaQz6Ni5mZVg" hash="ixeQ1g">When the Apostle Paul described certain fruits of the Spirit in his Epistle to the Galatians, he talked of “love, joy, peace, longsuffering, gentleness, goodness, faith, meekness, [and] temperance.”<span class="noteMarker" ref="f_2">2</span></p>
-      <p class="para" uri="/general-conference/2009/10/being-temperate-in-all-things.p5" pid="Y_jxWkDub0-hBQCKE3IBLg" hash="4h_weg">When Paul wrote Titus, describing the attributes necessary for a bishop to assist in this work, he said a bishop must “not [be] selfwilled, not soon angry, … [but] temperate.”<span class="noteMarker" ref="f_3">3</span> Being temperate is to use moderation in all things or to exercise self-control.</p>
-      <p class="para" uri="/general-conference/2009/10/being-temperate-in-all-things.p6" pid="E5YxwQSx00m2NpsL9d70rw" hash="Qn4_Ow">When Alma the Younger taught in the land of Gideon, he said:</p>
-      <p class="para" uri="/general-conference/2009/10/being-temperate-in-all-things.p7" pid="7cG0ljLaxku40n26i1QJEA" hash="hQ8bpA">“I trust that ye are not lifted up in the pride of your hearts; yea, I trust that ye have not set your hearts upon riches and the vain things of the world. …</p>
-      <p class="para" uri="/general-conference/2009/10/being-temperate-in-all-things.p8" pid="ZKXGqeJVSE-cIkvnx8LYiA" hash="fYC_dQ">“I would that ye should be humble, and be submissive and gentle; easy to be entreated; full of patience and long-suffering; being temperate in all things.”<span class="noteMarker" ref="f_4">4</span></p>
-      <p class="para" uri="/general-conference/2009/10/being-temperate-in-all-things.p9" pid="62jMqGjEmUqYUkq1kwDyOw" hash="ZJZA2A">In a later message, Alma instructed his son Shiblon, and by extension instructs all of us, to “see that ye are not lifted up unto pride.”<span class="noteMarker" ref="f_5">5</span> Rather, we should “be diligent and temperate in all things.”<span class="noteMarker" ref="f_6">6</span> Being temperate means to carefully examine our expectations and desires, to be diligent and patient in seeking righteous goals.</p>
-      <p class="para" uri="/general-conference/2009/10/being-temperate-in-all-things.p10" pid="7msZ1XKQ80ymviAgFr-dUg" hash="1qySRw">A few years ago, I was driving home from work when a large semitruck, traveling in the opposite direction, lost one of its dual tires. The tire flew over the median separating our lanes. It came bouncing down my side of the freeway. Cars were swerving in both directions, drivers not knowing which direction the tire would bounce next. I dodged left when I should have dodged right, and the tire took its final bounce right on the corner of my windshield.</p>
-      <p class="para" uri="/general-conference/2009/10/being-temperate-in-all-things.p11" pid="-69q4YTckUSwE15H9h7GGg" hash="CZwPpw">A friend called my wife to inform her of the accident. She told me later that her first thought was of lacerations from shattered glass. Indeed, I was covered with beads of broken glass but did not suffer a single scratch. It was definitely not because of my driving skills; rather, it was because the windshield of my little car was made of tempered glass.</p>
-      <p class="para" uri="/general-conference/2009/10/being-temperate-in-all-things.p12" pid="w7NjKSHCbUyxP680sfauAQ" hash="kNC_6A">Tempered glass, like tempered steel, undergoes a well-controlled heating process which increases strength. Thus, when tempered glass is under stress, it will not easily break into jagged shards that can injure.</p>
-      <p class="para" uri="/general-conference/2009/10/being-temperate-in-all-things.p13" pid="6edWiwJKEkemo7mTcGpXfA" hash="h3NPsg">Likewise, a temperate soul—one who is humble and full of love—is also a person of increased spiritual strength. With increased spiritual strength, we are able to develop self-mastery and to live with moderation. We learn to control, or temper, our anger, vanity, and pride. With increased spiritual strength, we can protect ourselves from the dangerous excesses and destructive addictions of today’s world.</p>
-      <p class="para" uri="/general-conference/2009/10/being-temperate-in-all-things.p14" pid="yQOH8-rn-US-dRaJORWf1g" hash="gebteg">We all seek peace of mind, and we all desire security and happiness for our families. If we look for silver <span class="pageBreak" page-number="39"></span>linings in this past year’s economic downturn, perhaps the trials some have faced have taught us that peace of mind, security, and happiness do not come from buying a home or accumulating possessions for which the debt incurred is larger than our savings or income can afford.</p>
-      <p class="para" uri="/general-conference/2009/10/being-temperate-in-all-things.p15" pid="aktXdSo2xk2K_1rhFz2DFw" hash="dXqvVQ">We live in an impatient and intemperate world full of uncertainty and contention. It is like the community of converts to various religions where Joseph Smith lived when he was a 14-year-old boy seeking answers to his questions. Young Joseph said, “All their good feelings one for another, if they ever had any, were entirely lost in a strife of words and a contest about opinions.”<span class="noteMarker" ref="f_7">7</span></p>
-      <p class="para" uri="/general-conference/2009/10/being-temperate-in-all-things.p16" pid="C-A--q63kUmwlgiM2pYK3w" hash="YOJUrg">Security for our families comes from learning self-control, avoiding the excesses of this world, and being temperate in all things. Peace of mind comes from strengthened faith in Jesus Christ. Happiness comes from being diligent in keeping covenants made at baptism and in the holy temples of the Lord.</p>
-      <p class="para" uri="/general-conference/2009/10/being-temperate-in-all-things.p17" pid="F7l4VAcBXkGO0TQI-uFMqg" hash="N6swHw">What better example do we have of temperance than our Savior, Jesus Christ?</p>
-      <p class="para" uri="/general-conference/2009/10/being-temperate-in-all-things.p18" pid="cUZTUkIzQki2uZHxtrIQXw" hash="c-Nf4w">When our hearts are stirred to anger by disputation and contention, the Savior taught that we should “repent, and become as a little child.”<span class="noteMarker" ref="f_8">8</span> We should be reconciled with our brother and come to the Savior with full purpose of heart.<span class="noteMarker" ref="f_9">9</span></p>
-      <p class="para" uri="/general-conference/2009/10/being-temperate-in-all-things.p19" pid="9SuoLXk0nUi0ECmVpUplVg" hash="DfuhXg">When others are unkind, Jesus taught that “my kindness shall not depart from thee.”<span class="noteMarker" ref="f_10">10</span></p>
-      <p class="para" uri="/general-conference/2009/10/being-temperate-in-all-things.p20" pid="SHUb9MjA8EOTo6Uwwa1ffg" hash="EJqMnA">When we are confronted with affliction, He said: “Be patient in afflictions, revile not against those that revile. Govern your house in meekness, and be steadfast.”<span class="noteMarker" ref="f_11">11</span></p>
-      <p class="para" uri="/general-conference/2009/10/being-temperate-in-all-things.p21" pid="bQoDCb3-4UC8mpu67a9RRg" hash="Biq4XA">When we are oppressed, we can be comforted in knowing “he was oppressed, and he was afflicted, yet he opened not his mouth.”<span class="noteMarker" ref="f_12">12</span> “Surely he has borne our griefs, and carried our sorrows.”<span class="noteMarker" ref="f_13">13</span></p>
-      <p class="para" uri="/general-conference/2009/10/being-temperate-in-all-things.p22" pid="RBlEccDEAker9FE-XGepKQ" hash="wXDpDw">When Jesus Christ, the greatest of all, suffered for us to the extent that He bled from every pore, He did not express anger or revile in suffering. With unsurpassed self-restraint, or temperance, His thoughts were not of Himself but of you and of me. And then, in humility and full of love, He said, “Nevertheless, glory be to the Father, and I partook and finished my preparations unto the children of men.”<span class="noteMarker" ref="f_14">14</span></p>
-      <p class="para" uri="/general-conference/2009/10/being-temperate-in-all-things.p23" pid="cdnINt4LbkOwK1w_yaJg5g" hash="v6mxow">During this past year, it has been my privilege to bear testimony of the reality of our Savior and the Restoration of the gospel to Saints and friends throughout Asia. Most are first-generation Latter-day Saints who live on the frontier of the Church. This latter-day journey in their realm is reminiscent of that experienced by the first Latter-day Saints of yesteryear.</p>
-      <p class="para" uri="/general-conference/2009/10/being-temperate-in-all-things.p24" pid="ES90dBzjcEOmDiZTS4Xd1Q" hash="JeZ8SA">In this marvelous world of diversity in Asia, where members of The Church of Jesus Christ of Latter-day Saints are a mere fraction of one percent of the vast population, I have gained a better appreciation for the Christlike attribute of temperance. I love and honor these Saints, who have taught me by example what it means to be humble and full of love, “being temperate in all things, whatsoever shall be entrusted to [their] care.”<span class="noteMarker" ref="f_15">15</span> Through them I have come to better understand God’s love for all of His children.</p>
-      <p class="para" uri="/general-conference/2009/10/being-temperate-in-all-things.p25" pid="pNgv6-uwCUewA-Nr8zFFvA" hash="JVEQgA">I leave my witness that our Redeemer lives and His divine gift of temperance is available to each of God’s children, in the name of Jesus Christ, amen.</p>
-    </div>
-  </div>
-  
-</div>]]></content:encoded>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="38"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/85C0119D32B870292ED81AFF5C9318C0F4EED2F7/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/85C0119D32B870292ED81AFF5C9318C0F4EED2F7/full/%21192%2C/0/default" data-video-title="Being Temperate in All Things" data-video-description="Learning to be temperate in all things is a spiritual gift available through the Holy Ghost." data-video-id="6010293650001" data-ip="Download and Streaming                            " data-duration="564630" data-assetId="ab26106f43524a0c9fc06f5c1f29d013e579f2da" data-ref-id="ab26106f43524a0c9fc06f5c1f29d013e579f2da" data-duration-string="9:24" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6010293650001.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="219747311"/><source src="https://assets.churchofjesuschrist.org/ab26106f43524a0c9fc06f5c1f29d013e579f2da-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="26593497"/><source src="https://assets.churchofjesuschrist.org/ab26106f43524a0c9fc06f5c1f29d013e579f2da-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="61076100"/><source src="https://assets.churchofjesuschrist.org/ab26106f43524a0c9fc06f5c1f29d013e579f2da-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="219747311"/></video><h1 data-aid="28844107" id="title1">Being Temperate in All Things</h1>
+<div class="byline">
+<p class="author-name" data-aid="28844108" id="p1">By Elder Kent D. Watson</p>
+<p class="author-role" data-aid="28844109" id="p2">Of the Seventy</p>
+<div class="image-cropper"><img alt="Elder Kent D. Watson" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/0b960c27e83e60e3e51207b27bb86d07b5cc116a/full/%21100%2C/0/default" data-assetId="0b960c27e83e60e3e51207b27bb86d07b5cc116a" srcset="https://www.churchofjesuschrist.org/imgs/0b960c27e83e60e3e51207b27bb86d07b5cc116a/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/0b960c27e83e60e3e51207b27bb86d07b5cc116a/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/0b960c27e83e60e3e51207b27bb86d07b5cc116a/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/0b960c27e83e60e3e51207b27bb86d07b5cc116a/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/0b960c27e83e60e3e51207b27bb86d07b5cc116a/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/0b960c27e83e60e3e51207b27bb86d07b5cc116a/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/0b960c27e83e60e3e51207b27bb86d07b5cc116a/full/%21640%2C/0/default 640w" data-img-id="0b960c27e83e60e3e51207b27bb86d07b5cc116a" data-missing-asset="false" data-width="100" data-height="125" data-aspect-ratio="0.8" data-public-title="Watson, Kent D." data-public-description="Final official portrait of Elder Kent D. Watson of the Second Quorum of the Seventy, 2008.  Released at the October 2013 general conference." data-credit-line="Craig Dimond, (c) IRI"/></div>
+</div>
+<p class="kicker" data-aid="28844110" id="kicker1">Learning to be temperate in all things is a spiritual gift available through the Holy Ghost.</p>
+</header>
+<div class="body-block">
+<p data-aid="28844111" id="p3">In response to the Prophet Joseph Smith’s inquiry, the Lord instructed, “And no one can assist in this work except he shall be humble and full of love, having faith, hope, and charity, being temperate in all things, whatsoever shall be entrusted to his care.”<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a></p>
+<p data-aid="28844112" id="p4">The instruction on being temperate in all things applies to each of us. What is temperance, and why would the Lord want us to be temperate? A narrow definition might be “exercising restraint when it comes to food and drink.” Indeed, this meaning of temperance could be a good prescription for keeping the Word of Wisdom. Sometimes <em>temperance</em> might be defined as “refraining from anger or not losing one’s temper.” These definitions, however, are a subset of the scriptural usage of the word.</p>
+<p data-aid="28844113" id="p5">In a spiritual sense, temperance is a divine attribute of Jesus Christ. He desires for each of us to develop this attribute. Learning to be temperate in all things is a spiritual gift available through the Holy Ghost.</p>
+<p data-aid="28844114" id="p6">When the Apostle Paul described certain fruits of the Spirit in his Epistle to the Galatians, he talked of “love, joy, peace, longsuffering, gentleness, goodness, faith, meekness, [and] temperance.”<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a></p>
+<p data-aid="28844115" id="p7">When Paul wrote Titus, describing the attributes necessary for a bishop to assist in this work, he said a bishop must “not [be] selfwilled, not soon angry, … [but] temperate.”<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a> Being temperate is to use moderation in all things or to exercise self-control.</p>
+<p data-aid="28844116" id="p8">When Alma the Younger taught in the land of Gideon, he said:</p>
+<p data-aid="28844117" id="p9">“I trust that ye are not lifted up in the pride of your hearts; yea, I trust that ye have not set your hearts upon riches and the vain things of the world. …</p>
+<p data-aid="28844118" id="p10">“I would that ye should be humble, and be submissive and gentle; easy to be entreated; full of patience and long-suffering; being temperate in all things.”<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a></p>
+<p data-aid="28844119" id="p11">In a later message, Alma instructed his son Shiblon, and by extension instructs all of us, to “see that ye are not lifted up unto pride.”<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a> Rather, we should “be diligent and temperate in all things.”<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a> Being temperate means to carefully examine our expectations and desires, to be diligent and patient in seeking righteous goals.</p>
+<p data-aid="28844120" id="p12">A few years ago, I was driving home from work when a large semitruck, traveling in the opposite direction, lost one of its dual tires. The tire flew over the median separating our lanes. It came bouncing down my side of the freeway. Cars were swerving in both directions, drivers not knowing which direction the tire would bounce next. I dodged left when I should have dodged right, and the tire took its final bounce right on the corner of my windshield.</p>
+<p data-aid="28844121" id="p13">A friend called my wife to inform her of the accident. She told me later that her first thought was of lacerations from shattered glass. Indeed, I was covered with beads of broken glass but did not suffer a single scratch. It was definitely not because of my driving skills; rather, it was because the windshield of my little car was made of tempered glass.</p>
+<p data-aid="28844122" id="p14">Tempered glass, like tempered steel, undergoes a well-controlled heating process which increases strength. Thus, when tempered glass is under stress, it will not easily break into jagged shards that can injure.</p>
+<p data-aid="28844123" id="p15">Likewise, a temperate soul—one who is humble and full of love—is also a person of increased spiritual strength. With increased spiritual strength, we are able to develop self-mastery and to live with moderation. We learn to control, or temper, our anger, vanity, and pride. With increased spiritual strength, we can protect ourselves from the dangerous excesses and destructive addictions of today’s world.</p>
+<p data-aid="28844124" id="p16">We all seek peace of mind, and we all desire security and happiness for our families. If we look for silver <span class="page-break" data-page="39"></span>linings in this past year’s economic downturn, perhaps the trials some have faced have taught us that peace of mind, security, and happiness do not come from buying a home or accumulating possessions for which the debt incurred is larger than our savings or income can afford.</p>
+<p data-aid="28844125" id="p17">We live in an impatient and intemperate world full of uncertainty and contention. It is like the community of converts to various religions where Joseph Smith lived when he was a 14-year-old boy seeking answers to his questions. Young Joseph said, “All their good feelings one for another, if they ever had any, were entirely lost in a strife of words and a contest about opinions.”<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a></p>
+<p data-aid="28844126" id="p18">Security for our families comes from learning self-control, avoiding the excesses of this world, and being temperate in all things. Peace of mind comes from strengthened faith in Jesus Christ. Happiness comes from being diligent in keeping covenants made at baptism and in the holy temples of the Lord.</p>
+<p data-aid="28844127" id="p19">What better example do we have of temperance than our Savior, Jesus Christ?</p>
+<p data-aid="28844128" id="p20">When our hearts are stirred to anger by disputation and contention, the Savior taught that we should “repent, and become as a little child.”<a class="note-ref" href="#note8"><sup class="marker" data-value="8"></sup></a> We should be reconciled with our brother and come to the Savior with full purpose of heart.<a class="note-ref" href="#note9"><sup class="marker" data-value="9"></sup></a></p>
+<p data-aid="28844129" id="p21">When others are unkind, Jesus taught that “my kindness shall not depart from thee.”<a class="note-ref" href="#note10"><sup class="marker" data-value="10"></sup></a></p>
+<p data-aid="28844130" id="p22">When we are confronted with affliction, He said: “Be patient in afflictions, revile not against those that revile. Govern your house in meekness, and be steadfast.”<a class="note-ref" href="#note11"><sup class="marker" data-value="11"></sup></a></p>
+<p data-aid="28844131" id="p23">When we are oppressed, we can be comforted in knowing “he was oppressed, and he was afflicted, yet he opened not his mouth.”<a class="note-ref" href="#note12"><sup class="marker" data-value="12"></sup></a> “Surely he has borne our griefs, and carried our sorrows.”<a class="note-ref" href="#note13"><sup class="marker" data-value="13"></sup></a></p>
+<p data-aid="28844132" id="p24">When Jesus Christ, the greatest of all, suffered for us to the extent that He bled from every pore, He did not express anger or revile in suffering. With unsurpassed self-restraint, or temperance, His thoughts were not of Himself but of you and of me. And then, in humility and full of love, He said, “Nevertheless, glory be to the Father, and I partook and finished my preparations unto the children of men.”<a class="note-ref" href="#note14"><sup class="marker" data-value="14"></sup></a></p>
+<p data-aid="28844133" id="p25">During this past year, it has been my privilege to bear testimony of the reality of our Savior and the Restoration of the gospel to Saints and friends throughout Asia. Most are first-generation Latter-day Saints who live on the frontier of the Church. This latter-day journey in their realm is reminiscent of that experienced by the first Latter-day Saints of yesteryear.</p>
+<p data-aid="28844134" id="p26">In this marvelous world of diversity in Asia, where members of The Church of Jesus Christ of Latter-day Saints are a mere fraction of one percent of the vast population, I have gained a better appreciation for the Christlike attribute of temperance. I love and honor these Saints, who have taught me by example what it means to be humble and full of love, “being temperate in all things, whatsoever shall be entrusted to [their] care.”<a class="note-ref" href="#note15"><sup class="marker" data-value="15"></sup></a> Through them I have come to better understand God’s love for all of His children.</p>
+<p data-aid="28844135" id="p27">I leave my witness that our Redeemer lives and His divine gift of temperance is available to each of God’s children, in the name of Jesus Christ, amen.</p>
+</div>
+<footer class="notes">
+<p class="title" data-aid="150470655" id="notetitle1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="28844136" id="note1_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/12?lang=eng&amp;id=p8#p8">D&amp;C 12:8</a>.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="28844137" id="note2_p1"><a class="scripture-ref" href="/study/scriptures/nt/gal/5?lang=eng&amp;id=p22-p23#p22">Galatians 5:22–23</a>.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="28844138" id="note3_p1"><a class="scripture-ref" href="/study/scriptures/nt/titus/1?lang=eng&amp;id=p7-p8#p7">Titus 1:7–8</a>.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="28844139" id="note4_p1"><a class="scripture-ref" href="/study/scriptures/bofm/alma/7?lang=eng&amp;id=p6%2Cp23#p6">Alma 7:6, 23</a>.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="28844140" id="note5_p1"><a class="scripture-ref" href="/study/scriptures/bofm/alma/38?lang=eng&amp;id=p11#p11">Alma 38:11</a>.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="28844141" id="note6_p1"><a class="scripture-ref" href="/study/scriptures/bofm/alma/38?lang=eng&amp;id=p10#p10">Alma 38:10</a>.</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="28844142" id="note7_p1"><a class="scripture-ref" href="/study/scriptures/pgp/js-h/1?lang=eng&amp;id=p6#p6">Joseph Smith—History 1:6</a>.</p>
+</li>
+<li data-marker="8." id="note8" data-full-marker="8.">
+<p data-aid="28844143" id="note8_p1"><a class="scripture-ref" href="/study/scriptures/bofm/3-ne/11?lang=eng&amp;id=p37#p37">3 Nephi 11:37</a>.</p>
+</li>
+<li data-marker="9." id="note9" data-full-marker="9.">
+<p data-aid="28844144" id="note9_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/3-ne/12?lang=eng&amp;id=p24#p24">3 Nephi 12:24</a>.</p>
+</li>
+<li data-marker="10." id="note10" data-full-marker="10.">
+<p data-aid="28844145" id="note10_p1"><a class="scripture-ref" href="/study/scriptures/bofm/3-ne/22?lang=eng&amp;id=p10#p10">3 Nephi 22:10</a>.</p>
+</li>
+<li data-marker="11." id="note11" data-full-marker="11.">
+<p data-aid="28844146" id="note11_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/31?lang=eng&amp;id=p9#p9">D&amp;C 31:9</a>.</p>
+</li>
+<li data-marker="12." id="note12" data-full-marker="12.">
+<p data-aid="28844147" id="note12_p1"><a class="scripture-ref" href="/study/scriptures/bofm/mosiah/14?lang=eng&amp;id=p7#p7">Mosiah 14:7</a>.</p>
+</li>
+<li data-marker="13." id="note13" data-full-marker="13.">
+<p data-aid="28844148" id="note13_p1"><a class="scripture-ref" href="/study/scriptures/bofm/mosiah/14?lang=eng&amp;id=p4#p4">Mosiah 14:4</a>.</p>
+</li>
+<li data-marker="14." id="note14" data-full-marker="14.">
+<p data-aid="28844149" id="note14_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/19?lang=eng&amp;id=p19#p19">D&amp;C 19:19</a>.</p>
+</li>
+<li data-marker="15." id="note15" data-full-marker="15.">
+<p data-aid="28844150" id="note15_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/12?lang=eng&amp;id=p8#p8">D&amp;C 12:8</a>.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/2009/10/being-temperate-in-all-things</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/october-2009-general-conference/2009-10-2060-elder-kent-d-watson-64k-eng.mp3" length="4483240" type="audio/mpeg"/>
-      <pubDate>Sat, 03 Oct 2009 14:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/da5b78e632cb11eca29deeeeac1e03f9d9815abc-64k-en.mp3" length="4827083" type="audio/mpeg"/>
+      <pubDate>Sat, 03 Oct 2009 14:00:00 -0600</pubDate>
+      <itunes:author>Kent D. Watson</itunes:author>
     </item>
   </channel>
 </rss>

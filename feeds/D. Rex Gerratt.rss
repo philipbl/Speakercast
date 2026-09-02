@@ -1,79 +1,82 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Talks By D. Rex Gerratt</title>
-    <link>http://philip.lundrigan.org/Speakercast/</link>
+    <link>https://philip.lundrigan.org/Speakercast/</link>
     <description>General Conference talks by D. Rex Gerratt.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Speakercast</generator>
     <image>
-      <url>http://philip.lundrigan.org/Speakercast/covers/D.%20Rex%20Gerratt.jpg</url>
+      <url>https://philip.lundrigan.org/Speakercast/covers/D.%20Rex%20Gerratt.jpg</url>
       <title>General Conference talks by D. Rex Gerratt.</title>
-      <link>http://philip.lundrigan.org/Speakercast/</link>
+      <link>https://philip.lundrigan.org/Speakercast/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Apr 2003 14:00:00 -0700</lastBuildDate>
-    <pubDate>Sun, 06 Apr 2003 14:00:00 -0700</pubDate>
+    <lastBuildDate>Sun, 06 Apr 2003 14:00:00 -0600</lastBuildDate>
+    <pubDate>Sun, 06 Apr 2003 14:00:00 -0600</pubDate>
+    <itunes:author>D. Rex Gerratt</itunes:author>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
+    <itunes:image href="https://philip.lundrigan.org/Speakercast/covers/D.%20Rex%20Gerratt.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>General Conference talks by D. Rex Gerratt.</itunes:summary>
     <item>
       <title>Follow the Instructions</title>
-      <link>http://www.lds.org/general-conference/2003/04/follow-the-instructions?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2003/04/follow-the-instructions?lang=eng</link>
       <description>As you open your mind and heart to feel the Spirit, the Lord in His own time and in His own way will give you the instructions which will bless your life.</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/2003/04/follow-the-instructions" schema-version="1" doc-id="general-conference_PD10030371_000_033" doc-version="2" hash="fiULEA">
-  
-  <div class="heading" uri="/general-conference/2003/04/follow-the-instructions.head">
-    <h1 class="title" pid="vmV3pUy1ukKr5ROb7oRVZQ" hash="1ulk0w">Follow the Instructions</h1>
-    <p class="authorName" pid="uKNDXNIfdkqLFnp-wdnNDQ" hash="eEPgNQ">D. Rex Gerratt</p>
-    <p class="kicker" pid="uXkiduK4CEejZedgmrJlRQ" hash="LvQwEQ">As you open your mind and heart to feel the Spirit, the Lord in His own time and in His own way will give you the instructions which will bless your life.</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/2003/04/follow-the-instructions.t1">
-      <img src="ensignlp.nfo-o-a9f.jpg" alt="Elder D. Rex Gerratt" pid="5j0EJLGGb0mvh65tTeJtJg" hash="cCEAMw" />
-      <p class="para" uri="/general-conference/2003/04/follow-the-instructions.p1" pid="cUixl9yGj0adFxQjFQzLfg" hash="Ay6mKQ">Some years ago while I was serving as a ward clerk, the ward supplies for the new year arrived on my doorstep. Among the numerous boxes, one box addressed to the ward clerk caught my attention. Taped to the box was a tag with bold type: <span class="strong">“If all else fails—Please! Follow instructions.”</span></p>
-      <p class="para" uri="/general-conference/2003/04/follow-the-instructions.p2" pid="e000Pq8pCkSRJ-ijXbLNmg" hash="CF_irw">I did not consider this generic, and I was sure that someone at Church headquarters knew me personally.</p>
-      <p class="para" uri="/general-conference/2003/04/follow-the-instructions.p3" pid="g44iWeRPP0WXQi2vf4p1tQ" hash="6XbEwQ">Although humorous at the time, the image of this little tag has permanently attached its message to my mind: <span class="strong">“If all else fails—Please! Follow instructions.”</span></p>
-      <p class="para" uri="/general-conference/2003/04/follow-the-instructions.p4" pid="m9x77288c0aMlpmNrtZzqA" hash="AvriWQ">Every person experiences many challenges in this mortal life. Each has personal agency to make choices that affect his or her progress. Good choices bring promised blessings, and bad choices always bring undesired consequences.</p>
-      <p class="para" uri="/general-conference/2003/04/follow-the-instructions.p5" pid="uRsxjgtACkOSpBtY0GqFwQ" hash="gGg_nA">Life is uncertain. Our time is short. Our time is precious. This is the time “to prepare to meet God” (<a href="/scriptures/bofm/alma/34.32" class="scriptureRef">Alma 34:32</a>). There is not time to waste in personal experimentation or involvement with those things that have been proven harmful to our bodies and our souls.</p>
-      <p class="para" uri="/general-conference/2003/04/follow-the-instructions.p6" pid="cGZ9QctT-0KH66zg2T2TyQ" hash="6RUH2w">None of us are perfect, and we all need help. But we are not left alone if we are teachable, with hearts to feel and ears to hear.</p>
-      <p class="para" uri="/general-conference/2003/04/follow-the-instructions.p7" pid="XgUfc09YKEGHsm5h6cxzDQ" hash="FVxn3Q">“Trust in the Lord with all thine heart; and lean not unto thine own understanding.</p>
-      <p class="para" uri="/general-conference/2003/04/follow-the-instructions.p8" pid="rpzbpVZNnkqk4rERu5l_Zw" hash="9fWkRw">“In all thy ways acknowledge him, and he shall direct thy paths” (<a href="/scriptures/ot/prov/3.5-6" class="scriptureRef">Prov. 3:5–6</a>).</p>
-      <p class="para" uri="/general-conference/2003/04/follow-the-instructions.p9" pid="5DqG4sAW3EybJfTQBZd-NQ" hash="rUQe5g">How do we receive instruction?</p>
-      <p class="para" uri="/general-conference/2003/04/follow-the-instructions.p10" pid="M-NiLMFyJ0iG4YWkMVcQiQ" hash="rfMbFQ">First, we must have a sincere desire.</p>
-      <p class="para" uri="/general-conference/2003/04/follow-the-instructions.p11" pid="MzEJvqwBJ0uUQPZs7G1OAw" hash="F72orQ">Second, we must have faith—to believe the Lord knows us, that He loves us, and that He will give us answers to our prayers.</p>
-      <p class="para" uri="/general-conference/2003/04/follow-the-instructions.p12" pid="IP23gBZMaE2-tVOkxLhcXQ" hash="Wq84eg">As Joseph Smith was reading the Bible, he read in <a href="/scriptures/nt/james/1.5" class="scriptureRef">James 1:5</a>:</p>
-      <p class="para" uri="/general-conference/2003/04/follow-the-instructions.p13" pid="GXroL5lWFUebJW-UosUz6Q" hash="47_z1w">“If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.</p>
-      <p class="para" uri="/general-conference/2003/04/follow-the-instructions.p14" pid="uqm3ZI5Erk26HIxGlIRviA" hash="Ex2g8A">“But let him ask in faith, nothing wavering.”</p>
-      <p class="para" uri="/general-conference/2003/04/follow-the-instructions.p15" pid="gbhui_g-1k-QLYZQDs8j0g" hash="0dCScg">Joseph followed instructions and received an answer to his prayer. We will also receive answers to our prayers.</p>
-      <p class="para" uri="/general-conference/2003/04/follow-the-instructions.p16" pid="oU1Obl7LuEKrjoIRJu6gMw" hash="vYxI5g">During my lifetime, I have been a farmer and a father of a large family. Even though personal and family prayer have always been a daily part of our lives, on occasion I have felt an overwhelming need to go into the field at night or kneel by the haystack, look up into the heavens, and speak aloud to my Father in Heaven. I have always felt His warmth and knew then, as I know now, that He is listening to me and will answer my prayers in His wisdom, for my best good.</p>
-      <p class="para" uri="/general-conference/2003/04/follow-the-instructions.p17" pid="PgrKBI0P_0WBoyVfTVLD9Q" hash="oVyCAg">To all, wherever you are—to you who need hope, to you who need comfort, to you who are unhappy, to you who need direction and need to feel a purpose in your lives—my dear friends, I encourage you, I urge you to bow your head or drop to your knees! In your own words, thank your Heavenly Father for His Son’s atoning sacrifice for you and for all the blessings He has given you. Tears will moisten your eyes, and the warmth of the Spirit will come into your heart.</p>
-      <p class="para" uri="/general-conference/2003/04/follow-the-instructions.p18" pid="eNyLGvGno0u5b4l_gymQjA" hash="b-6VUQ">Then talk to the Lord, asking for comfort, direction, and understanding. As you open your mind and heart to feel the Spirit, the Lord in His own time and in His own way will give you the instructions which will bless your life.</p>
-      <p class="para" uri="/general-conference/2003/04/follow-the-instructions.p19" pid="na3qooDvvkifvM4XJCEF5w" hash="-lAzfg">The scriptures also contain instructions of ancient and modern prophets. “All scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness” (<a href="/scriptures/nt/2-tim/3.16" class="scriptureRef">2 Tim. 3:16</a>).</p>
-      <p class="para" uri="/general-conference/2003/04/follow-the-instructions.p20" pid="5h0fDkOr8kC1zz6pEl0bVg" hash="M7zeBw">In this dispensation the Lord has given us the comforting counsel to “be not afraid of your enemies, for I have decreed in my heart … that I will prove you in all things, whether you will abide in my covenant, even unto death, that you may be found worthy” (<a href="/scriptures/dc-testament/dc/98.14" class="scriptureRef">D&amp;C 98:14</a>).</p>
-      <p class="para" uri="/general-conference/2003/04/follow-the-instructions.p21" pid="GsO2JfPzXUmeCPqCMbx8OQ" hash="6cQqVg">Following instructions requires hard work, commitment, and enduring to the end.</p>
-      <p class="para" uri="/general-conference/2003/04/follow-the-instructions.p22" pid="bf_Lksjsw0iGC-5T9INfHg" hash="6CNaZg">“Wherefore, ye must press forward with a steadfastness in Christ, having a perfect brightness of hope, and a love of God and of all men. Wherefore, if ye shall press forward, feasting upon the word of Christ, and endure to the end, behold, thus saith the Father: Ye shall have eternal life” (<a href="/scriptures/bofm/2-ne/31.20" class="scriptureRef">2 Ne. 31:20</a>).</p>
-      <p class="para" uri="/general-conference/2003/04/follow-the-instructions.p23" pid="PMsFVsj9gky-LnKNXAZtGw" hash="MV0XqQ">“And again I say unto you, if ye observe to do whatsoever I command you, I, the Lord, will turn away all wrath and indignation from you, and the gates of hell shall not prevail against you” (<a href="/scriptures/dc-testament/dc/98.22" class="scriptureRef">D&amp;C 98:22</a>).</p>
-      <p class="para" uri="/general-conference/2003/04/follow-the-instructions.p24" pid="WqVL00IgS0--MrivU-d7oA" hash="o79Z9g">“If ye are prepared ye shall not fear” (<a href="/scriptures/dc-testament/dc/38.30" class="scriptureRef">D&amp;C 38:30</a>).</p>
-      <p class="para" uri="/general-conference/2003/04/follow-the-instructions.p25" pid="YRnQtkObW0e3CftVsY9oWg" hash="aENOjA">As in times past, we receive instructions from the Lord’s living prophet. I testify to you that I know President Gordon B. Hinckley is the Lord’s prophet today. He gives to us inspired counsel for our time.</p>
-      <p class="para" uri="/general-conference/2003/04/follow-the-instructions.p26" pid="eNG69E2x2Uu3KkDPZYbDPA" hash="sL0_6w">In the October 2001 general conference he said:</p>
-      <p class="para" uri="/general-conference/2003/04/follow-the-instructions.p27" pid="9l9xPXPBOkuGqSc8DMWLGg" hash="L_hNlg">“Now, today, we are faced with particular problems, serious and consuming and difficult and of great concern to us. Surely we have need for the Lord. …</p>
-      <p class="para" uri="/general-conference/2003/04/follow-the-instructions.p28" pid="W2mWFsBa_UaP0ftaLhYAdQ" hash="C8sVXg">“Our safety lies in the virtue of our lives. Our strength lies in our righteousness. God has made it clear that if we will not forsake Him, He will not forsake us” (“Till We Meet Again,” <span class="emphasis">Ensign,</span> Nov. 2001, 90; <span class="emphasis">Liahona,</span> Jan. 2002, 104–5).</p>
-      <p class="para" uri="/general-conference/2003/04/follow-the-instructions.p29" pid="TKQRcrqP-E2_NDFcrFS9xQ" hash="-ZXRUQ">After receiving instructions, we need to be obedient and hearken to the counsel we receive. We need to listen to and follow our appointed leaders.</p>
-      <p class="para" uri="/general-conference/2003/04/follow-the-instructions.p30" pid="bq4FPSjKekWU5KThXn5whw" hash="mXqqyw">On one occasion, the Savior looked upon the multitude as sheep having no shepherd (see <a href="/scriptures/nt/matt/9.36" class="scriptureRef">Matt. 9:36</a>). Every member in this Church has shepherds. We call them quorum leaders, bishops, and stake presidents.</p>
-      <p class="para" uri="/general-conference/2003/04/follow-the-instructions.p31" pid="4KGoe-KA_k-q8ZLSgXSfXQ" hash="1mm5Lw">The Lord admonishes us to search the scriptures and to follow the commandments.</p>
-      <p class="para" uri="/general-conference/2003/04/follow-the-instructions.p32" pid="YG-oqPfGvk6gWe1uhEG7cg" hash="Ir6-2Q">He has promised that all His words shall be fulfilled, “whether by mine own voice or by the voice of my servants, it is the same” (<a href="/scriptures/dc-testament/dc/1.37-38" class="scriptureRef">D&amp;C 1:37–38</a>).</p>
-      <p class="para" uri="/general-conference/2003/04/follow-the-instructions.p33" pid="lFbbbdPSQE-3TeI4v0ck_Q" hash="OMdd9A">The Lord declared that “whatsoever they shall speak when moved upon by the Holy Ghost shall be scripture, shall be the will of the Lord, shall be the mind of the Lord, shall be the word of the Lord, shall be the voice of the Lord, and the power of God unto salvation” (<a href="/scriptures/dc-testament/dc/68.4" class="scriptureRef">D&amp;C 68:4</a>).</p>
-      <p class="para" uri="/general-conference/2003/04/follow-the-instructions.p34" pid="8Ag8_2giVUinTG79xOmh4w" hash="GaXA2Q">
-        <span class="strong">“If all else fails—Please! Follow instructions.”</span>
-      </p>
-      <p class="para" uri="/general-conference/2003/04/follow-the-instructions.p35" pid="BxlfHeuYd0aGVfKnFCyvzQ" hash="1v7HnQ">May we do this, I pray, in the name of Jesus Christ, amen.</p>
-    </div>
-  </div>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="90"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/1a4369eda7a401aa231d2e9cb6de94bccc905e46/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/1a4369eda7a401aa231d2e9cb6de94bccc905e46/full/%21192%2C/0/default" data-video-title="Follow the Instructions" data-video-description="As you open your mind and heart to feel the Spirit, the Lord in His own time and in His own way will give you the instructions which will bless your life." data-video-id="6389203532112" data-ip="Download &amp; Streaming" data-duration="512845" data-assetId="0ced90f1a847c07f4cd6d7f6d7e754832aa26ac9" data-ref-id="0ced90f1a847c07f4cd6d7f6d7e754832aa26ac9" data-duration-string="8:32" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6389203532112.m3u8" type="application/vnd.apple.mpegurl" data-width="1280" data-height="720" data-file-size="44859208"/><source src="https://assets.churchofjesuschrist.org/0ced90f1a847c07f4cd6d7f6d7e754832aa26ac9-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="22485036"/><source src="https://assets.churchofjesuschrist.org/0ced90f1a847c07f4cd6d7f6d7e754832aa26ac9-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="44859208"/></video><h1 data-aid="28821892" id="title1">Follow the Instructions</h1>
+<div class="byline">
+<p class="author-name" data-aid="28821893" id="p1">By Elder D. Rex Gerratt</p>
+<p class="author-role" data-aid="28821894" id="p2">Of the Seventy</p>
+<div class="image-cropper"><img alt="Elder D. Rex Gerratt" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/6db1ac99078111ec86fceeeeac1ed7dc8708637a/full/%21100%2C/0/default" data-assetId="6db1ac99078111ec86fceeeeac1ed7dc8708637a" srcset="https://www.churchofjesuschrist.org/imgs/6db1ac99078111ec86fceeeeac1ed7dc8708637a/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/6db1ac99078111ec86fceeeeac1ed7dc8708637a/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/6db1ac99078111ec86fceeeeac1ed7dc8708637a/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/6db1ac99078111ec86fceeeeac1ed7dc8708637a/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/6db1ac99078111ec86fceeeeac1ed7dc8708637a/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/6db1ac99078111ec86fceeeeac1ed7dc8708637a/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/6db1ac99078111ec86fceeeeac1ed7dc8708637a/full/%21640%2C/0/default 640w" data-img-id="6db1ac99078111ec86fceeeeac1ed7dc8708637a" data-missing-asset="false" data-width="100" data-height="124" data-aspect-ratio="0.8064516129032258" data-public-title="Gerratt, D. Rex" data-public-description="Former official portrait of Elder D. Rex Gerratt of the Second Quorum of the Seventy, 2002.  Released 6 October 2007.  Called as president of the Twin Falls Idaho Temple."/></div>
+</div>
+<p class="kicker" data-aid="28821895" id="kicker1">As you open your mind and heart to feel the Spirit, the Lord in His own time and in His own way will give you the instructions which will bless your life.</p>
+</header>
+<div class="body-block">
+<p data-aid="28821896" id="p3">Some years ago while I was serving as a ward clerk, the ward supplies for the new year arrived on my doorstep. Among the numerous boxes, one box addressed to the ward clerk caught my attention. Taped to the box was a tag with bold type: <strong>“If all else fails—Please! Follow instructions.”</strong></p>
+<p data-aid="28821897" id="p4">I did not consider this generic, and I was sure that someone at Church headquarters knew me personally.</p>
+<p data-aid="28821898" id="p5">Although humorous at the time, the image of this little tag has permanently attached its message to my mind: <strong>“If all else fails—Please! Follow instructions.”</strong></p>
+<p data-aid="28821899" id="p6">Every person experiences many challenges in this mortal life. Each has personal agency to make choices that affect his or her progress. Good choices bring promised blessings, and bad choices always bring undesired consequences.</p>
+<p data-aid="28821900" id="p7">Life is uncertain. Our time is short. Our time is precious. This is the time “to prepare to meet God” (<a class="scripture-ref" href="/study/scriptures/bofm/alma/34?lang=eng&amp;id=p32#p32">Alma 34:32</a>). There is not time to waste in personal experimentation or involvement with those things that have been proven harmful to our bodies and our souls.</p>
+<p data-aid="28821901" id="p8">None of us are perfect, and we all need help. But we are not left alone if we are teachable, with hearts to feel and ears to hear.</p>
+<p data-aid="28821902" id="p9">“Trust in the Lord with all thine heart; and lean not unto thine own understanding.</p>
+<p data-aid="28821903" id="p10">“In all thy ways acknowledge him, and he shall direct thy paths” (<a class="scripture-ref" href="/study/scriptures/ot/prov/3?lang=eng&amp;id=p5-p6#p5">Proverbs 3:5–6</a>).</p>
+<p data-aid="28821904" id="p11">How do we receive instruction?</p>
+<p data-aid="28821905" id="p12">First, we must have a sincere desire.</p>
+<p data-aid="28821906" id="p13">Second, we must have faith—to believe the Lord knows us, that He loves us, and that He will give us answers to our prayers.</p>
+<p data-aid="28821907" id="p14">As Joseph Smith was reading the Bible, he read in <a class="scripture-ref" href="/study/scriptures/nt/james/1?lang=eng&amp;id=p5#p5">James 1:5</a>:</p>
+<p data-aid="28821908" id="p15">“If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.</p>
+<p data-aid="28821909" id="p16">“But let him ask in faith, nothing wavering.”</p>
+<p data-aid="28821910" id="p17">Joseph followed instructions and received an answer to his prayer. We will also receive answers to our prayers.</p>
+<p data-aid="28821911" id="p18">During my lifetime I have been a farmer and a father of a large family. Even though personal and family prayer have always been a daily part of our lives, on occasion I have felt an overwhelming need to go into the field at night or kneel by the haystack, look up into the heavens, and speak aloud to my Father in Heaven. I have always felt His warmth and knew then, as I know now, that He is listening to me and will answer my prayers in His wisdom for my best good.</p>
+<p data-aid="28821912" id="p19">To all, wherever you are—to you who need hope, to you who need comfort, to you who are unhappy, to you who need direction and need to feel a purpose in your lives—my dear friends, I encourage you, I urge you to bow your head or drop to your knees! In your own words, thank your Heavenly Father for His Son’s atoning sacrifice for you and for all the blessings He has given you. Tears will moisten your eyes, and the warmth of the Spirit will come into your heart.</p>
+<p data-aid="28821913" id="p20">Then talk to the Lord, asking for comfort, direction, and understanding. As you open your mind and heart to feel the Spirit, the Lord in His own time and in His own way will give you the instructions which will bless your life.</p>
+<p data-aid="28821914" id="p21">The scriptures also contain instructions of ancient and modern prophets. “All scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness” (<a class="scripture-ref" href="/study/scriptures/nt/2-tim/3?lang=eng&amp;id=p16#p16">2 Timothy 3:16</a>).</p>
+<p data-aid="28821915" id="p22">In this dispensation the Lord has given us the comforting counsel to “be not afraid of your enemies, for I <span class="page-break" data-page="91"></span>have decreed in my heart … that I will prove you in all things, whether you will abide in my covenant, even unto death, that you may be found worthy” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/98?lang=eng&amp;id=p14#p14">D&amp;C 98:14</a>).</p>
+<p data-aid="28821916" id="p23">Following instructions requires hard work, commitment, and enduring to the end.</p>
+<p data-aid="28821917" id="p24">“Wherefore, ye must press forward with a steadfastness in Christ, having a perfect brightness of hope, and a love of God and of all men. Wherefore, if ye shall press forward, feasting upon the word of Christ, and endure to the end, behold, thus saith the Father: Ye shall have eternal life” (<a class="scripture-ref" href="/study/scriptures/bofm/2-ne/31?lang=eng&amp;id=p20#p20">2 Nephi 31:20</a>).</p>
+<p data-aid="28821918" id="p25">“And again I say unto you, if ye observe to do whatsoever I command you, I, the Lord, will turn away all wrath and indignation from you, and the gates of hell shall not prevail against you” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/98?lang=eng&amp;id=p22#p22">D&amp;C 98:22</a>).</p>
+<p data-aid="28821919" id="p26">“If ye are prepared ye shall not fear” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/38?lang=eng&amp;id=p30#p30">D&amp;C 38:30</a>).</p>
+<p data-aid="28821920" id="p27">As in times past, we receive instructions from the Lord’s living prophet. I testify to you that I know President Gordon B. Hinckley is the Lord’s prophet today. He gives to us inspired counsel for our time.</p>
+<p data-aid="28821921" id="p28">In the October 2001 general conference he said:</p>
+<p data-aid="28821922" id="p29">“Now, today, we are faced with particular problems, serious and consuming and difficult and of great concern to us. Surely we have need for the Lord. …</p>
+<p data-aid="28821923" id="p30">“Our safety lies in the virtue of our lives. Our strength lies in our righteousness. God has made it clear that if we will not forsake Him, He will not forsake us” (in Conference Report, Oct. 2001, <a class="cross-ref" href="/study/general-conference/2001/10/till-we-meet-again?lang=eng&amp;id=p24%2Cp32#p24">112</a>; or <em>Ensign,</em> Nov. 2001, 90).</p>
+<p data-aid="28821924" id="p31">After receiving instructions, we need to be obedient and hearken to the counsel we receive. We need to listen to and follow our appointed leaders.</p>
+<p data-aid="28821925" id="p32">On one occasion, the Savior looked upon the multitude as sheep having no shepherd (see <a class="scripture-ref" href="/study/scriptures/nt/matt/9?lang=eng&amp;id=p36#p36">Matthew 9:36</a>). Every member in this Church has shepherds. We call them quorum leaders, bishops, and stake presidents.</p>
+<p data-aid="28821926" id="p33">The Lord admonishes us to search the scriptures and to follow the commandments.</p>
+<p data-aid="28821927" id="p34">He has promised that all His words shall be fulfilled, “whether by mine own voice or by the voice of my servants, it is the same” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/1?lang=eng&amp;id=p38#p38">D&amp;C 1:38</a>).</p>
+<p data-aid="28821928" id="p35">The Lord declared that “whatsoever they shall speak when moved upon by the Holy Ghost shall be scripture, shall be the will of the Lord, shall be the mind of the Lord, shall be the word of the Lord, shall be the voice of the Lord, and the power of God unto salvation” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/68?lang=eng&amp;id=p4#p4">D&amp;C 68:4</a>).</p>
+<p data-aid="28821929" id="p36">“If all else fails—Please! Follow instructions.”</p>
+<p data-aid="28821930" id="p37">May we do this, I pray, in the name of Jesus Christ, amen.</p>
 </div>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/2003/04/follow-the-instructions</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/april-2003-general-conference/2003-04-5040-elder-d-rex-gerratt-64k-eng.mp3" length="4111727" type="audio/mpeg"/>
-      <pubDate>Sun, 06 Apr 2003 14:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/d05f361632cc11ecac35eeeeac1e7c59748d7f98-64k-en.mp3" length="4373101" type="audio/mpeg"/>
+      <pubDate>Sun, 06 Apr 2003 14:00:00 -0600</pubDate>
+      <itunes:author>D. Rex Gerratt</itunes:author>
     </item>
   </channel>
 </rss>

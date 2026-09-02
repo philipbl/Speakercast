@@ -1,83 +1,144 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Talks By Richard B. Wirthlin</title>
-    <link>http://philip.lundrigan.org/Speakercast/</link>
+    <link>https://philip.lundrigan.org/Speakercast/</link>
     <description>General Conference talks by Richard B. Wirthlin.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Speakercast</generator>
     <image>
-      <url>http://philip.lundrigan.org/Speakercast/covers/Richard%20B.%20Wirthlin.jpg</url>
+      <url>https://philip.lundrigan.org/Speakercast/covers/Richard%20B.%20Wirthlin.jpg</url>
       <title>General Conference talks by Richard B. Wirthlin.</title>
-      <link>http://philip.lundrigan.org/Speakercast/</link>
+      <link>https://philip.lundrigan.org/Speakercast/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 04 Oct 1997 10:00:00 -0700</lastBuildDate>
-    <pubDate>Sat, 04 Oct 1997 10:00:00 -0700</pubDate>
+    <lastBuildDate>Sat, 04 Oct 1997 10:00:00 -0600</lastBuildDate>
+    <pubDate>Sat, 04 Oct 1997 10:00:00 -0600</pubDate>
+    <itunes:author>Richard B. Wirthlin</itunes:author>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
+    <itunes:image href="https://philip.lundrigan.org/Speakercast/covers/Richard%20B.%20Wirthlin.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>General Conference talks by Richard B. Wirthlin.</itunes:summary>
     <item>
       <title>Four Absolute Truths Provide an Unfailing Moral Compass</title>
-      <link>http://www.lds.org/general-conference/1997/10/four-absolute-truths-provide-an-unfailing-moral-compass?lang=eng</link>
-      <description>There is a loving Father in Heaven, and His Son, Jesus Christ; there is an adversary, Satan; through agency, all of us choose our own course; the temptations of the devil can always be overcome.</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/1997/10/four-absolute-truths-provide-an-unfailing-moral-compass" schema-version="1" doc-id="general-conference_97911_000_005" doc-version="2" hash="czNw-A">
-  
-  <div class="heading" uri="/general-conference/1997/10/four-absolute-truths-provide-an-unfailing-moral-compass.head">
-    <h1 class="title" pid="sJ_clxUyhkednKakAhvYUg" hash="G-AARg">Four Absolute Truths Provide an Unfailing Moral Compass</h1>
-    <p class="authorName" pid="QjvC_qZsR0aCnvA5P3knkw" hash="0FV4Ag">Richard B. Wirthlin</p>
-    <p class="kicker" pid="pppl4-SiwUqUJx_DHz0mlw" hash="Dgcbxw">There is a loving Father in Heaven, and His Son, Jesus Christ; there is an adversary, Satan; through agency, all of us choose our own course; the temptations of the devil can always be overcome.</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/1997/10/four-absolute-truths-provide-an-unfailing-moral-compass.t1">
-      <img src="ensignlp.nfo-o-1eec.jpg" alt="Elder Richard B. Wirthlin" pid="bPSEM0hzwkaT3wTfjzfv3w" hash="C-vf-A" />
-      <p class="para" uri="/general-conference/1997/10/four-absolute-truths-provide-an-unfailing-moral-compass.p1" pid="J31mftmz-065RBsfdDPDYQ" hash="fNfeUw">As a young missionary in Switzerland, I was strongly impressed with the power of the gospel of Jesus Christ to change dramatically people’s lives for the better, bringing to those who follow the precepts of the restored gospel peace of mind, self-worth, and joy. Such feelings are not always easy to achieve. After all, we live in an often mean and brutal world. Our societies too frequently reflect violence, hatred, and immorality.</p>
-      <div class="topic" uri="/general-conference/1997/10/four-absolute-truths-provide-an-unfailing-moral-compass.t2">
-        <h3 class="title" pid="Be-eGHorVEGJd29elZJwxw" hash="SGkJ2Q">Our Day Foreseen</h3>
-        <p class="para" uri="/general-conference/1997/10/four-absolute-truths-provide-an-unfailing-moral-compass.p2" pid="RYQX849z8US7g6EYdTLgZA" hash="m4jucg">The Apostle Paul accurately described our day in his letter to Timothy: “In the last days,” he said, “perilous times shall come. For men shall be lovers of their own selves, … despisers of those that are good, … lovers of pleasures more than lovers of God; … Ever learning, and never able to come to the knowledge of the truth.”<span class="noteMarker" ref="f_1">1</span></p>
-      </div>
-      <div class="topic" uri="/general-conference/1997/10/four-absolute-truths-provide-an-unfailing-moral-compass.t3">
-        <h3 class="title" pid="PIN5M58wrEaE_0zI30AvJQ" hash="xahq8A">Information, Not Wisdom</h3>
-        <p class="para" uri="/general-conference/1997/10/four-absolute-truths-provide-an-unfailing-moral-compass.p3" pid="6IwMwNIatEq1d5vVMs4hXg" hash="PBKLIw">Clearly, the stresses and strains that assault us cannot be attributed to a lack of knowledge. In fact, a current weekday edition of the <span class="emphasis">New York Times</span> contains more information than the average person was likely to come across in a whole lifetime in 17th-century England.<span class="noteMarker" ref="f_2">2</span></p>
-        <p class="para" uri="/general-conference/1997/10/four-absolute-truths-provide-an-unfailing-moral-compass.p4" pid="ZA-FqppFcE-qEUDYP_VIpw" hash="HBW6Aw">But unfortunately, the explosive increase in information has not led to a parallel increase in true wisdom. For example, Medicare has one of the largest data banks in the world. Yet it sent an official letter to a retired housekeeper which explained the reason for terminating her benefits in this way: “Your benefits have been denied because of your death. If you believe this information is not correct, please contact the Social Security Administration.”<span class="noteMarker" ref="f_3">3</span></p>
-      </div>
-      <div class="topic" uri="/general-conference/1997/10/four-absolute-truths-provide-an-unfailing-moral-compass.t4">
-        <h3 class="title" pid="-o_5Psq9PkSucGZoXbzgvg" hash="1X0idA">Situational Ethics</h3>
-        <p class="para" uri="/general-conference/1997/10/four-absolute-truths-provide-an-unfailing-moral-compass.p5" pid="ppLQwPS0dEiHbdfP7gKf3A" hash="34Wl-g">Many have referred to the current era as the information age. But it is ironic that, in an information-rich era, the biggest threat to our world’s societies, rich or poor, and to each of us personally is the absence of moral clarity and purpose. Take the United States, for example, where 96 percent say they believe there is a God,<span class="noteMarker" ref="f_4">4</span> yet a full 79 percent also believe that “there are few moral absolutes—what is right or wrong [they believe] usually varies from situation to situation.”<span class="noteMarker" ref="f_5">5</span></p>
-        <p class="para" uri="/general-conference/1997/10/four-absolute-truths-provide-an-unfailing-moral-compass.p6" pid="WgaDHLdPn0ySu05O8XTUvg" hash="u2g3Qw">Societies structured by situational ethics—the belief that all truths are relative—create a moral environment defined by undistinguished shades of gray.</p>
-      </div>
-      <div class="topic" uri="/general-conference/1997/10/four-absolute-truths-provide-an-unfailing-moral-compass.t5">
-        <h3 class="title" pid="d78JaKps5EihBlfl6Fej-g" hash="fVNkGg">An Imperative Need: A Consistent Moral Compass</h3>
-        <p class="para" uri="/general-conference/1997/10/four-absolute-truths-provide-an-unfailing-moral-compass.p7" pid="5mULQOzLGUSjOFO9OmEQAQ" hash="O9VYig">We cannot cope with the confusions and the challenges of this world unless we use a clear and consistent moral compass that will unerringly take us through our own personal trials and the tugs and pulls of our own temptations—a compass that will chart our way to peace of mind, self-worth, and joy.</p>
-      </div>
-      <div class="topic" uri="/general-conference/1997/10/four-absolute-truths-provide-an-unfailing-moral-compass.t6">
-        <h3 class="title" pid="M7WhQVbtZUqxGMKtuk8uFg" hash="cQ3mWw">Four Absolute Truths</h3>
-        <p class="para" uri="/general-conference/1997/10/four-absolute-truths-provide-an-unfailing-moral-compass.p8" pid="yNimDDWGsE6GQK_1k04oRw" hash="j0m6NA">This moral compass is built around four absolute truths. The first absolute truth is that there is a loving Father in Heaven, and His Son, Jesus Christ, is our personal Savior—a more certain truth than any worldly fact. This concept is expressed with unmatched eloquence in 1 John: “Hereby perceive we the <span class="emphasis">love</span> of God, because he laid down his life for us: and we ought to lay down our lives for the brethren.”<span class="noteMarker" ref="f_6">6</span> Nothing could provide a truer “north” for every person’s own moral compass.</p>
-        <p class="para" uri="/general-conference/1997/10/four-absolute-truths-provide-an-unfailing-moral-compass.p9" pid="vgMXht3FxUK1HLkCTrwJtg" hash="6drCIQ">The second absolute truth is that there is an adversary, Satan, the tempter, who would lead us away from God and His infinite peace.</p>
-        <p class="para" uri="/general-conference/1997/10/four-absolute-truths-provide-an-unfailing-moral-compass.p10" pid="axvVMgSGL026DIj3uoIvIw" hash="II-tmQ">Note that the Hebrew translation for <span class="emphasis">devil</span> is the “spoiler.”<span class="noteMarker" ref="f_7">7</span> Satan is the spoiler because he would confound our moral compass and spoil our journey back to a loving Father in Heaven.</p>
-        <p class="para" uri="/general-conference/1997/10/four-absolute-truths-provide-an-unfailing-moral-compass.p11" pid="eKPC8GXYX0OeEhew7JEmdw" hash="wX2Zzw">Satan, “the father of lies,”<span class="noteMarker" ref="f_8">8</span> increasingly uses various devices, ancient and modern, to confuse us. He would convince us that joy <span class="emphasis">is not</span> where it is. And contrarily, he would have us believe that joy <span class="emphasis">is</span> where it is <span class="emphasis">not.</span> One of Satan’s most spiritually damaging lies which undermines our sense of self-worth and hope is that we cannot be forgiven of our sins.</p>
-        <p class="para" uri="/general-conference/1997/10/four-absolute-truths-provide-an-unfailing-moral-compass.p12" pid="7BQYcQihA0KtUvwajqe9qw" hash="GmR-cw">The third absolute truth is that all of us choose our own course, endowed by agency. This truth is clearly expressed in the Book of Mormon: “Wherefore, men are free … free to choose liberty and eternal life, … or to choose captivity and death, … for [the devil] seeketh that all men might be miserable like unto himself.”<span class="noteMarker" ref="f_9">9</span></p>
-        <p class="para" uri="/general-conference/1997/10/four-absolute-truths-provide-an-unfailing-moral-compass.p13" pid="qD8oUP3h_UK4uO3s1OZbtw" hash="f6oDAg">Yes, who we are is the sum of all the choices we make. We should always remember that our choices do not begin with the act, but in the mind with the idea. As a poet stated, “Sow a thought, and you reap an act; sow an act, and you reap a habit; sow a habit, and you reap a character; sow a character, and you reap a destiny.”<span class="noteMarker" ref="f_10">10</span></p>
-        <p class="para" uri="/general-conference/1997/10/four-absolute-truths-provide-an-unfailing-moral-compass.p14" pid="wtexqfD-HEiK-q8AfHQPuQ" hash="bobfoA">Given our agency, we are therefore individually responsible for our ideas, acts, habits, character, and, yes, even our destiny.</p>
-        <p class="para" uri="/general-conference/1997/10/four-absolute-truths-provide-an-unfailing-moral-compass.p15" pid="DI0Oz5FY_U6tDqIVWAL4pw" hash="FzB1BQ">The fourth absolute truth is that the temptations of the devil can always be overcome by renewed faith in God and by repentance. Yes, when we stray from that narrow and straight way, marked by our moral compass, our footing can be restored on the road that surely leads to salvation and eternal life.</p>
-        <p class="para" uri="/general-conference/1997/10/four-absolute-truths-provide-an-unfailing-moral-compass.p16" pid="seIyyU9FdEGbkh1-HjqExQ" hash="Lj6-7w">When Christ went to the Garden of Gethsemane, clearly knowing of His impending Crucifixion, He prayed to His Father for His Apostles as well as for each of us. In that prayer, He commands us to avoid evil, but in His infinite compassion He also asks the Father to “keep [us] from the evil.”<span class="noteMarker" ref="f_11">11</span></p>
-      </div>
-      <div class="topic" uri="/general-conference/1997/10/four-absolute-truths-provide-an-unfailing-moral-compass.t7">
-        <h3 class="title" pid="SGdNOFnv40uASsEOjAdV5g" hash="S4RPEw">The Light Will Shine Out of Darkness</h3>
-        <p class="para" uri="/general-conference/1997/10/four-absolute-truths-provide-an-unfailing-moral-compass.p17" pid="zb49JdqDDUmU5G1-7l43Kw" hash="Khnlxw">Life will bring to each of us challenges and setbacks—both dark days and better ones. But remember these words of Paul: “For God, who commanded the light to shine out of darkness, hath shined in our hearts, to give the light of the knowledge of the glory of God in the face of Jesus Christ. … We are troubled on every side, yet not distressed; we are perplexed, but not in despair; … cast down, but not destroyed.”<span class="noteMarker" ref="f_12">12</span> Paul also reminds us gently, in fitting words for an information age, “The foolishness of God is wiser than men; and the weakness of God is stronger than men.”<span class="noteMarker" ref="f_13">13</span></p>
-      </div>
-      <div class="topic" uri="/general-conference/1997/10/four-absolute-truths-provide-an-unfailing-moral-compass.t8">
-        <h3 class="title" pid="MT2vpIWll0Kxp5I_cX_gZg" hash="JZFLeA">Conclusion</h3>
-        <p class="para" uri="/general-conference/1997/10/four-absolute-truths-provide-an-unfailing-moral-compass.p18" pid="Ioj8tGuKOUu5MbpYh1Zs0g" hash="bhc8WQ">Yes, we can experience wisdom, peace of mind, self-worth, and joy not only in the life to follow but in the life each of us lives today by walking in the Savior’s footsteps, guided by an unfailing compass calibrated on these four eternal and absolute truths.</p>
-        <p class="para" uri="/general-conference/1997/10/four-absolute-truths-provide-an-unfailing-moral-compass.p19" pid="UjRfg030kUytfFPhExw52A" hash="pVk7uw">In closing, I would like to express my sincere gratitude to our prophet, President Gordon B. Hinckley, his counselors, the Quorum of the Twelve Apostles, my brethren in the Quorums of the Seventy, and the Presiding Bishopric. I thank them for the inspiration that I have seen translated into so many actions that build and strengthen the members of the Church, and nonmembers as well. I express heartfelt gratitude to my family, who gives unstinting support, and for the healing grace of prayer and priesthood blessings which recently I have felt so powerfully and personally. I am grateful for a living and loving Father in Heaven, for His Only Begotten Son—and for the peace and joy this knowledge brings. In the name of Jesus Christ, amen.</p>
-      </div>
-    </div>
-  </div>
-  
-</div>]]></content:encoded>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/1997/10/four-absolute-truths-provide-an-unfailing-moral-compass?lang=eng</link>
+      <description><![CDATA[<header>
+<span class="page-break" data-page="9"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/a31eb003bb795e67787e06f4de3ff0695fdcdb50/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/a31eb003bb795e67787e06f4de3ff0695fdcdb50/full/%21192%2C/0/default" data-video-title="Four Absolute Truths Provide an Unfailing Moral Compass" data-video-description="There is a loving Father in Heaven, and His Son, Jesus Christ; there is an adversary, Satan; through agency, all of us choose our own course; the temptations of the devil can always be overcome." data-video-id="6389253480112" data-ip="Download &amp; Streaming" data-duration="539272" data-assetId="62898780d6200777c213581ff99d052a241de54a" data-ref-id="62898780d6200777c213581ff99d052a241de54a" data-duration-string="8:59" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6389253480112.m3u8" type="application/vnd.apple.mpegurl" data-width="480" data-height="360" data-file-size="28493158"/><source src="https://assets.churchofjesuschrist.org/62898780d6200777c213581ff99d052a241de54a-360p-en.mp4" type="video/mp4" data-width="480" data-height="360" data-file-size="28493158"/></video><h1 data-aid="28803875" id="title1">Four Absolute Truths Provide an Unfailing Moral Compass</h1>
+<div class="byline">
+<p class="author-name" data-aid="28803876" id="p1">By Elder Richard B. Wirthlin</p>
+<p class="author-role" data-aid="150154534" id="author2">Of the Seventy</p>
+<div class="image-cropper"><img alt="Elder Richard B. Wirthlin" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/w8jhafxi0wkevb9q3g1vzlzuoxr2ih9ezepf8q75/full/%21100%2C/0/default" data-assetId="w8jhafxi0wkevb9q3g1vzlzuoxr2ih9ezepf8q75" srcset="https://www.churchofjesuschrist.org/imgs/w8jhafxi0wkevb9q3g1vzlzuoxr2ih9ezepf8q75/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/w8jhafxi0wkevb9q3g1vzlzuoxr2ih9ezepf8q75/full/%21100%2C/0/default 100w" data-img-id="w8jhafxi0wkevb9q3g1vzlzuoxr2ih9ezepf8q75" data-missing-asset="false" data-width="100" data-height="130" data-aspect-ratio="0.7692307692307693" data-public-title="Richard B. Wirthlin" data-public-description="Richard B. Wirthlin"/></div>
+</div>
+<p class="kicker" data-aid="28803877" id="kicker1">There is a loving Father in Heaven, and His Son, Jesus Christ; there is an adversary—Satan; through agency, all of us choose our own course; the temptations of the devil can always be overcome.</p>
+</header>
+<div class="body-block">
+<p data-aid="28803878" id="p2">As a young missionary in Switzerland, I was strongly impressed with the power of the gospel of Jesus Christ to change dramatically people’s lives for the better, bringing to those who follow the precepts of the restored gospel peace of mind, self-worth, and joy. Such feelings are not always easy to achieve. After all, we live in an often mean and brutal world. Our societies too frequently reflect violence, hatred, and immorality.</p>
+<section>
+<header>
+<h2 data-aid="28803879" id="title2">Our Day Foreseen</h2>
+</header>
+<p data-aid="28803880" id="p3">The Apostle Paul accurately described our day in his letter to Timothy: “In the last days,” he said, “perilous times shall come. For men shall be lovers of their own selves, … despisers of those that are good, … lovers of pleasures more than lovers of God; … Ever learning, and never able to come to the knowledge of the truth.”<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a></p>
+</section>
+<section>
+<header>
+<h2 data-aid="28803881" id="title3">Information, Not Wisdom</h2>
+</header>
+<p data-aid="28803882" id="p4">Clearly, the stresses and strains that assault us cannot be attributed to a lack of knowledge. In fact, a current weekday edition of the <em>New York Times</em> contains more information than the average person was likely to come across in a whole lifetime in 17th-century England.<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a></p>
+<p data-aid="28803883" id="p5">But unfortunately, the explosive increase in information has not led to a parallel increase in true wisdom. For example, Medicare has one of the largest data banks in the world. Yet it sent an official letter to a retired housekeeper which explained the reason for terminating her benefits in this way: “Your benefits have been denied because of your death. If you believe this information is not correct, please contact the Social Security Administration.”<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a></p>
+</section>
+<section>
+<header>
+<h2 data-aid="28803884" id="title4">Situational Ethics</h2>
+</header>
+<p data-aid="28803885" id="p6">Many have referred to the current era as the information age. But it is ironic that, in an information-rich era, the biggest threat to our world’s societies, rich or poor, and to each of us personally is the absence of moral clarity and purpose. Take the United States, for example, where 96 percent say they believe there is a God,<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a> yet a full 79 percent also believe that “there are few moral absolutes—what is right or wrong [they believe] usually varies from situation to situation.”<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a></p>
+<p data-aid="28803886" id="p7">Societies structured by situational ethics—the belief that all truths are relative—create a moral environment defined by undistinguished shades of gray.</p>
+</section>
+<section>
+<header>
+<h2 data-aid="28803887" id="title5">An Imperative Need: A Consistent Moral Compass</h2>
+</header>
+<p data-aid="28803888" id="p8">We cannot cope with the confusions and the challenges of this world unless we use a clear and consistent moral compass that will unerringly take us through our own personal trials and the tugs and pulls of our own temptations—a compass that will chart our way to peace of mind, self-worth, and joy.</p>
+</section>
+<section>
+<header>
+<h2 data-aid="28803889" id="title6">Four Absolute Truths</h2>
+</header>
+<p data-aid="28803890" id="p9">This moral compass is built around four absolute truths. The first absolute truth is that there is a loving Father in Heaven, and His Son, Jesus Christ, is our personal Savior—a more certain truth than any worldly fact. This concept is expressed with unmatched eloquence in 1 John: “Hereby perceive we the <em>love</em> of God, because he laid down his life for us: and we ought to lay down our lives for the brethren.”<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a> Nothing could provide a truer “north” for every person’s own moral compass.</p>
+<p data-aid="28803891" id="p10">The second absolute truth is that there is an adversary—Satan, the tempter—who would lead us away from God and His infinite peace.</p>
+<p data-aid="28803892" id="p11">Note that the Hebrew translation for <em>devil</em> is the “spoiler.”<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a> Satan is the spoiler because he would confound <span class="page-break" data-page="10"></span>our moral compass and spoil our journey back to a loving Father in Heaven.</p>
+<p data-aid="28803893" id="p12">Satan, “the father of … lies,”<a class="note-ref" href="#note8"><sup class="marker" data-value="8"></sup></a> increasingly uses various devices, ancient and modern, to confuse us. He would convince us that joy <em>is not</em> where it is. And contrarily, he would have us believe that joy <em>is</em> where it is <em>not.</em> One of Satan’s most spiritually damaging lies, which undermines our sense of self-worth and hope, is that we cannot be forgiven of our sins.</p>
+<p data-aid="28803894" id="p13">The third absolute truth is that all of us choose our own course, endowed by agency. This truth is clearly expressed in the Book of Mormon: “Wherefore, men are free … free to choose liberty and eternal life, … or to choose captivity and death, … for [the devil] seeketh that all men might be miserable like unto himself.”<a class="note-ref" href="#note9"><sup class="marker" data-value="9"></sup></a></p>
+<p data-aid="28803895" id="p14">Yes, who we are is the sum of all the choices we make. We should always remember that our choices do not begin with the act, but in the mind with the idea. As a poet stated, “Sow a thought, and you reap an act; sow an act, and you reap a habit; sow a habit, and you reap a character; sow a character, and you reap a destiny.”<a class="note-ref" href="#note10"><sup class="marker" data-value="10"></sup></a></p>
+<p data-aid="28803896" id="p15">Given our agency, we are therefore individually responsible for our ideas, acts, habits, character, and, yes, even our destiny.</p>
+<p data-aid="28803897" id="p16">The fourth absolute truth is that the temptations of the devil can always be overcome by renewed faith in God and by repentance. Yes, when we stray from that narrow and straight way, marked by our moral compass, our footing can be restored on the road that surely leads to salvation and eternal life.</p>
+<p data-aid="28803898" id="p17">When Christ went to the Garden of Gethsemane, clearly knowing of His impending Crucifixion, He prayed to His Father for His Apostles as well as for each of us. In that prayer, He commands us to avoid evil, but in His infinite compassion He also asks the Father to “keep [us] from the evil.”<a class="note-ref" href="#note11"><sup class="marker" data-value="11"></sup></a></p>
+</section>
+<section>
+<header>
+<h2 data-aid="28803899" id="title7">The Light Will Shine Out of Darkness</h2>
+</header>
+<p data-aid="28803900" id="p18">Life will bring to each of us challenges and setbacks—both dark days and better ones. But remember these words of Paul: “For God, who commanded the light to shine out of darkness, hath shined in our hearts, to give the light of the knowledge of the glory of God in the face of Jesus Christ. … We are troubled on every side, yet not distressed; we are perplexed, but not in despair; … cast down, but not destroyed.”<a class="note-ref" href="#note12"><sup class="marker" data-value="12"></sup></a> Paul also reminds us gently, in fitting words for an information age, “The foolishness of God is wiser than men; and the weakness of God is stronger than men.”<a class="note-ref" href="#note13"><sup class="marker" data-value="13"></sup></a></p>
+</section>
+<section>
+<header>
+<h2 data-aid="28803901" id="title8">Conclusion</h2>
+</header>
+<p data-aid="28803902" id="p19">Yes, we can experience wisdom, peace of mind, self-worth, and joy not only in the life to follow but in the life each of us lives today by walking in the Savior’s footsteps, guided by an unfailing compass calibrated on these four eternal and absolute truths.</p>
+<p data-aid="28803903" id="p20">In closing, I would like to express my sincere gratitude to our prophet, President Gordon B. Hinckley, his Counselors, the Quorum of the Twelve Apostles, my brethren in the Quorums of the Seventy, and the Presiding Bishopric. I thank them for the inspiration that I have seen translated into so many actions that build and strengthen the members of the Church, and nonmembers as well. I express heartfelt gratitude to my family, who give unstinting support, and for the healing grace of prayer and priesthood blessings which recently I have felt so powerfully and personally. I am grateful for a living and loving Father in Heaven, for His Only Begotten Son, and for the peace and joy this knowledge brings. In the name of Jesus Christ, amen.</p>
+</section>
+</div>
+<footer class="notes">
+<p class="title" data-aid="150154535" id="notetitle1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="28803904" id="note1_p1"><a class="scripture-ref" href="/study/scriptures/nt/2-tim/3?lang=eng&amp;id=p1-p4%2Cp7#p1">2 Tim. 3:1–4, 7</a>.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="28803905" id="note2_p1">See Richard Saul Wurman, <em>Information Anxiety</em> (1989), 32.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="28803906" id="note3_p1"><em>1997 Page a Day Notes: The 365 Stupidest Things Ever Said</em> (1996).</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="28803907" id="note4_p1">1997 Gallup study, in <em>Emerging Trends,</em> Apr. 1997, 1.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="28803908" id="note5_p1">1990 Wirthlin Worldwide study.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="28803909" id="note6_p1"><a class="scripture-ref" href="/study/scriptures/nt/1-jn/3?lang=eng&amp;id=p16#p16">1 Jn. 3:16</a>; emphasis added.</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="28803910" id="note7_p1">Bible Dictionary, “<a class="scripture-ref" href="/study/scriptures/bd/devil?lang=eng&amp;id=p1#p1">Devil</a>,” 656; see also Robert Young, <em>Analytical Concordance to the Bible</em> (1970), 252.</p>
+</li>
+<li data-marker="8." id="note8" data-full-marker="8.">
+<p data-aid="28803911" id="note8_p1"><a class="scripture-ref" href="/study/scriptures/bofm/2-ne/2?lang=eng&amp;id=p18#p18">2 Ne. 2:18</a>; see also <a class="scripture-ref" href="/study/scriptures/bofm/ether/8?lang=eng&amp;id=p25#p25">Ether 8:25</a>.</p>
+</li>
+<li data-marker="9." id="note9" data-full-marker="9.">
+<p data-aid="28803912" id="note9_p1"><a class="scripture-ref" href="/study/scriptures/bofm/2-ne/2?lang=eng&amp;id=p27#p27">2 Ne. 2:27</a>.</p>
+</li>
+<li data-marker="10." id="note10" data-full-marker="10.">
+<p data-aid="28803913" id="note10_p1">Anonymous, quoted in John Bartlett, ed., <em>Familiar Quotations,</em> 14th ed. (1968), 1100.</p>
+</li>
+<li data-marker="11." id="note11" data-full-marker="11.">
+<p data-aid="28803914" id="note11_p1"><a class="scripture-ref" href="/study/scriptures/nt/john/17?lang=eng&amp;id=p15#p15">John 17:15</a>.</p>
+</li>
+<li data-marker="12." id="note12" data-full-marker="12.">
+<p data-aid="28803915" id="note12_p1"><a class="scripture-ref" href="/study/scriptures/nt/2-cor/4?lang=eng&amp;id=p6%2Cp8-p9#p6">2 Cor. 4:6, 8–9</a>.</p>
+</li>
+<li data-marker="13." id="note13" data-full-marker="13.">
+<p data-aid="28803916" id="note13_p1"><a class="scripture-ref" href="/study/scriptures/nt/1-cor/1?lang=eng&amp;id=p25#p25">1 Cor. 1:25</a>.</p>
+</li>
+</ol>
+</footer>]]></description>
       <guid isPermaLink="false">/general-conference/1997/10/four-absolute-truths-provide-an-unfailing-moral-compass</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/october-1997-general-conference/1997-10-1030-elder-richard-b-wirthlin-64k-eng.mp3" length="4317748" type="audio/mpeg"/>
-      <pubDate>Sat, 04 Oct 1997 10:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/1b21743832ea11ecb675eeeeac1e6a692dc82b02-64k-en.mp3" length="4469616" type="audio/mpeg"/>
+      <pubDate>Sat, 04 Oct 1997 10:00:00 -0600</pubDate>
+      <itunes:author>Richard B. Wirthlin</itunes:author>
     </item>
   </channel>
 </rss>

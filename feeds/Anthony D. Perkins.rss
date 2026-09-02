@@ -1,138 +1,509 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Talks By Anthony D. Perkins</title>
-    <link>http://philip.lundrigan.org/Speakercast/</link>
+    <link>https://philip.lundrigan.org/Speakercast/</link>
     <description>General Conference talks by Anthony D. Perkins.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Speakercast</generator>
     <image>
-      <url>http://philip.lundrigan.org/Speakercast/covers/Anthony%20D.%20Perkins.jpg</url>
+      <url>https://philip.lundrigan.org/Speakercast/covers/Anthony%20D.%20Perkins.jpg</url>
       <title>General Conference talks by Anthony D. Perkins.</title>
-      <link>http://philip.lundrigan.org/Speakercast/</link>
+      <link>https://philip.lundrigan.org/Speakercast/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Oct 2006 10:00:00 -0700</lastBuildDate>
-    <pubDate>Sun, 01 Oct 2006 10:00:00 -0700</pubDate>
+    <lastBuildDate>Sun, 03 Oct 2021 14:00:00 -0600</lastBuildDate>
+    <pubDate>Sun, 03 Oct 2021 14:00:00 -0600</pubDate>
+    <itunes:author>Anthony D. Perkins</itunes:author>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
+    <itunes:image href="https://philip.lundrigan.org/Speakercast/covers/Anthony%20D.%20Perkins.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>General Conference talks by Anthony D. Perkins.</itunes:summary>
     <item>
       <title>“The Great and Wonderful Love”</title>
-      <link>http://www.lds.org/general-conference/2006/10/the-great-and-wonderful-love?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2006/10/the-great-and-wonderful-love?lang=eng</link>
       <description>Childlike faith in the perfect love of Heavenly Father and Jesus Christ will “divide asunder” Satan’s snares of inadequacy, imperfection, and guilt.</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/2006/10/the-great-and-wonderful-love" schema-version="1" doc-id="general-conference_PD00006562_000_030" doc-version="2" hash="dhnurw">
-  
-  <div class="heading" uri="/general-conference/2006/10/the-great-and-wonderful-love.head">
-    <h1 class="title" pid="bIW0ajBnBEe3_yKmXr8kWA" hash="7IxxaQ">“The Great and Wonderful Love”</h1>
-    <p class="authorName" pid="3_FLi5RDjkqbmYYADzoLEA" hash="kx1nPA">Anthony D. Perkins</p>
-    <p class="kicker" pid="-YqQfDMrKE-Cj1mkitIelA" hash="FqX9vg">Childlike faith in the perfect love of Heavenly Father and Jesus Christ will “divide asunder” Satan’s snares of inadequacy, imperfection, and guilt.</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/2006/10/the-great-and-wonderful-love.t1">
-      <img src="https://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/PerkinsAD_06.jpg" alt="Elder Anthony D. Perkins" pid="YbXVGacayUmlcgWUmNv56g" hash="CPlo7A" />
-      <p class="para" uri="/general-conference/2006/10/the-great-and-wonderful-love.p1" pid="DFjNtOFETkWyPvVjtalxUg" hash="LwK37w">
-        <span class="pageBreak" page-number="76"></span>Children in pure faith proclaim, “We believe in God, the Eternal Father, and in His Son, Jesus Christ, and in the Holy Ghost.”<span class="noteMarker" ref="f_1">1</span> But sometimes youth and adults do not feel the power of this simple declaration.</p>
-      <p class="para" uri="/general-conference/2006/10/the-great-and-wonderful-love.p2" pid="uXQLMI5NXE-ERM8v53nB3g" hash="0JGdnw">Satan is the “enemy to all righteousness”;<span class="noteMarker" ref="f_2">2</span> thus he plants doubts about the nature of the Godhead and our relationship with Them. Jesus Christ prophesied that in the last days even the very elect would be deceived.<span class="noteMarker" ref="f_3">3</span> Consider three examples of how Lucifer is “laying traps and snares to catch the holy ones of God.”<span class="noteMarker" ref="f_4">4</span></p>
-      <p class="para" uri="/general-conference/2006/10/the-great-and-wonderful-love.p3" pid="ySmA4xYDVUG7NAIZgNGbGw" hash="w6I_Uw">
-        <span class="strong">
-  <span class="emphasis">The snare of false inadequacy. </span>
-</span>A faithful young person feels unable to meet the expectations of others. At home and school, she is rarely praised and often criticized. The popular media tells her she is not beautiful enough or smart enough. Every day this righteous sister questions whether she is an individual worthy of Heavenly Father’s love, the Savior’s atoning sacrifice, or the Spirit’s constant guidance.</p>
-      <p class="para" uri="/general-conference/2006/10/the-great-and-wonderful-love.p4" pid="-KZF4zryoEOJg12wv0sWZg" hash="WfFD0A">
-        <span class="strong">
-  <span class="emphasis">The snare of exaggerated imperfection. </span>
-</span>An outstanding missionary feels incapable of meeting the expectations of God. In his mind, this worthy elder imagines a stern Heavenly Father bound to irrevocable justice, a Savior capable of cleansing others’ transgressions but not this elder’s own, and a Holy Ghost unwilling to accompany an imperfect person.</p>
-      <p class="para" uri="/general-conference/2006/10/the-great-and-wonderful-love.p5" pid="Wc_I0yc8Ik2Zp-lN5wV35Q" hash="R8Au9Q">
-        <span class="strong">
-  <span class="emphasis">The snare of needless guilt. </span>
-</span>A middle-aged woman is a devoted mother, a loving friend, a faithful Church servant, and a frequent temple patron. But in her heart, this sister cannot forgive herself of sins committed years ago that she has repented of and fully resolved with priesthood leaders. She doubts that her life will ever be acceptable to the Lord and has lost hope of eternal life in Heavenly Father’s presence.</p>
-      <p class="para" uri="/general-conference/2006/10/the-great-and-wonderful-love.p6" pid="ANrK-cPx6kutwKrZMvswWg" hash="7qYTDA">
-        <span class="pageBreak" page-number="77"></span>If you have any thoughts and feelings similar to these good Saints, I invite you to become as a little child and feel again “the great and wonderful love made manifest by the Father and the Son in the coming of the Redeemer into the world.”<span class="noteMarker" ref="f_5">5</span> Childlike faith in the perfect love of Heavenly Father and Jesus Christ will “divide asunder”<span class="noteMarker" ref="f_6">6</span> Satan’s snares of inadequacy, imperfection, and guilt.</p>
-      <p class="para" uri="/general-conference/2006/10/the-great-and-wonderful-love.p7" pid="M41dDWurXESnXZ7s_wPnnA" hash="NUb0aw">Proverbs teaches, “For as he thinketh in his heart, so is he.”<span class="noteMarker" ref="f_7">7</span> May I suggest—in addition to consistent prayers, scripture study, and Church and temple attendance—five changes to your thoughts and heart to more fully feel the tender love of God.</p>
-      <p class="para" uri="/general-conference/2006/10/the-great-and-wonderful-love.p8" pid="XF0xRfe580Ct_ohyrZIXPQ" hash="-bcgGQ">
-        <span class="strong">
-  <span class="emphasis">First, see yourself as a precious child of a loving Father in Heaven. </span>
-</span>Our children with confidence sing, “I am a child of God, and he has sent me here.”<span class="noteMarker" ref="f_8">8</span> Little children feel and know what perhaps you have forgotten. You are the beloved son or daughter of Heavenly Father, created “in his own image,”<span class="noteMarker" ref="f_9">9</span> and of immense value—so much so that Jesus Christ gave His life for you.</p>
-      <p class="para" uri="/general-conference/2006/10/the-great-and-wonderful-love.p9" pid="GvCCHs2qPk-dh8leP56MOg" hash="G9fv2Q">God the Father is merciful and has infinite love for you despite your faults. Only the voice of Satan will cause you to feel of no value. In contrast, the Holy Ghost will cause you to feel “godly sorrow”<span class="noteMarker" ref="f_10">10</span> unto repentance in a manner that fills you with hope of positive change.</p>
-      <p class="para" uri="/general-conference/2006/10/the-great-and-wonderful-love.p10" pid="NNQuE6OWskix4PqqU0222A" hash="WSZiyA">When you feel worthless, “remember the worth of souls is great in the sight of God.”<span class="noteMarker" ref="f_11">11</span> Refrain from repeatedly thinking or saying negative words about yourself—there is a clear difference between humility and humiliation. Identify and use your unique talents rather than dwelling on your weaknesses.</p>
-      <p class="para" uri="/general-conference/2006/10/the-great-and-wonderful-love.p11" pid="KLkDg0uOm0S1b84daowsOg" hash="stzrZw">
-        <span class="strong">
-  <span class="emphasis">Second, place your burdens on Jesus Christ. </span>
-</span>When you feel overwhelmed by expectations and challenges, do not fight the battle alone. Follow the example of small children, and drop to your knees in prayer.</p>
-      <p class="para" uri="/general-conference/2006/10/the-great-and-wonderful-love.p12" pid="WLzRwhTHQkiIUqxpua5xOQ" hash="HSfZ8Q">Jesus Christ has commanded us, “Look unto me in every thought; doubt not, fear not.”<span class="noteMarker" ref="f_12">12</span> Doubt, fear, and worry indicate we have taken all of life’s burdens and anxieties on ourselves. When plagued by thoughts that you are inadequate, confidently say, “I can do all things through Christ which strengtheneth me.”<span class="noteMarker" ref="f_13">13</span> Then as you “cheerfully do all things that lie in [your] power,”<span class="noteMarker" ref="f_14">14</span> you can rest assured that the Lord will do the remainder and things will work out all right.</p>
-      <p class="para" uri="/general-conference/2006/10/the-great-and-wonderful-love.p13" pid="zZ3FJR1PGUqFWuXu4ef7FA" hash="HoU-FA">The Savior promised, “Come unto me, all ye that labour and are heavy laden, and I will give you rest.”<span class="noteMarker" ref="f_15">15</span> As you “cast [your] burden upon the Lord,”<span class="noteMarker" ref="f_16">16</span> you will feel the peace of the Spirit.<span class="noteMarker" ref="f_17">17</span></p>
-      <p class="para" uri="/general-conference/2006/10/the-great-and-wonderful-love.p14" pid="Hr83p-b5fUeP4_7BOBNbYA" hash="nk_3Yw">
-        <span class="strong">
-  <span class="emphasis">Third, forgive yourself of sins and imperfections. </span>
-</span>Heavenly Father is not expecting you to become completely perfect in this life. He knew His children would make mistakes as they learned from experience in mortality. But “God so loved the world”<span class="noteMarker" ref="f_18">18</span> that His plan of happiness provided a merciful Savior.</p>
-      <p class="para" uri="/general-conference/2006/10/the-great-and-wonderful-love.p15" pid="EzNi3H4HAkWPikNzCQehcg" hash="ZLjtqg">Jesus said, “I, the Lord, will forgive whom I will forgive, but of you it is required to forgive all men.”<span class="noteMarker" ref="f_19">19</span> Start with yourself, and forgive others as well. If God will not remember our repented-of sins,<span class="noteMarker" ref="f_20">20</span> then why should we? Avoid wasting time and energy reliving the past.</p>
-      <p class="para" uri="/general-conference/2006/10/the-great-and-wonderful-love.p16" pid="7HvaRwo3DEu7o26dV2GfCg" hash="STpcgQ">To forgive yourself and others, you must trust the Atonement of Jesus Christ. The prophet Zenock prayed, “Thou art angry, O Lord, with this people, because they will not understand thy mercies which thou hast bestowed upon them because of thy Son.”<span class="noteMarker" ref="f_21">21</span> Our Father in Heaven is saddened when we limit the power of His Son’s atoning sacrifice. As you exercise faith in Jesus Christ, you can have your guilt “swept away.”<span class="noteMarker" ref="f_22">22</span> If guilt remains after sincere repentance, believe your priesthood leaders when they declare you to be worthy.<span class="noteMarker" ref="f_23">23</span></p>
-      <p class="para" uri="/general-conference/2006/10/the-great-and-wonderful-love.p17" pid="9fwy-x_iD0aQXEoK_TNYTg" hash="umSEEQ">
-        <span class="pageBreak" page-number="78"></span>
-        <span class="strong">
-  <span class="emphasis">Fourth, sustain hope of eternal life. </span>
-</span>If you imagine that your prior sins, character flaws, and poor decisions prevent you from receiving all of God’s blessings, consider the experience of Alma the Elder. Referring to his younger years as an immoral priest for the wicked King Noah, Alma admitted, “I myself was caught in a snare, and did many things which were abominable in the sight of the Lord, which caused me sore repentance.”<span class="noteMarker" ref="f_24">24</span> Yet Alma’s repentance was so complete and Christ’s Atonement so infinite that Alma became a prophet and was promised eternal life.<span class="noteMarker" ref="f_25">25</span> As you do your best to be obedient and repentant, you too can receive a place in the celestial kingdom through the Atonement and grace of Jesus Christ.<span class="noteMarker" ref="f_26">26</span></p>
-      <p class="para" uri="/general-conference/2006/10/the-great-and-wonderful-love.p18" pid="urRL85VJtUGGpmAN3yzhOA" hash="y6GBaw">
-        <span class="strong">
-  <span class="emphasis">Fifth, find joy each day. </span>
-</span>One source of joy is service, for when you are busy helping others, you will have less capacity to agonize over your own shortcomings. The Savior wisely taught, “For whosoever will save his life shall lose it; but whosoever shall lose his life for my sake and the gospel’s, the same shall save it.”<span class="noteMarker" ref="f_27">27</span></p>
-      <p class="para" uri="/general-conference/2006/10/the-great-and-wonderful-love.p19" pid="x1-B3oVWG0iwcLOiJuVN7Q" hash="gzG12Q">You will experience greater joy in life as you eradicate adult-onset pessimism and substitute childlike optimism. Optimism is a virtue that allows us to see God’s loving hand in the details of our life. A favorite hymn counsels, “Count your many blessings; see what God hath done.”<span class="noteMarker" ref="f_28">28</span></p>
-      <p class="para" uri="/general-conference/2006/10/the-great-and-wonderful-love.p20" pid="GQgqvwPGaEmGaA3uQbmPSg" hash="DNmPTw">I testify of Heavenly Father, who in great and wonderful love reaches out to each of His children. I bear witness of Jesus Christ, who is “mighty to save”<span class="noteMarker" ref="f_29">29</span> us from our inadequacies, imperfections, and sins. I bear testimony of the Holy Ghost, who will accompany the imperfect yet penitent soul. To you faithful and worthy Saints who struggle with latter-day snares of the devil,<span class="noteMarker" ref="f_30">30</span> “may God grant unto you that your burdens may be light, through the joy of his Son.”<span class="noteMarker" ref="f_31">31</span> In the sacred name of Jesus Christ, amen.</p>
-    </div>
-  </div>
-  
-</div>]]></content:encoded>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="76"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/85a77b97cbdedef8e3cbcc9f7d0125a33354d531/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/85a77b97cbdedef8e3cbcc9f7d0125a33354d531/full/%21192%2C/0/default" data-video-title="&quot;The Great and Wonderful Love&quot;" data-video-description="Childlike faith in the perfect love of Heavenly Father and Jesus Christ will “divide asunder” Satan’s snares of inadequacy, imperfection, and guilt." data-video-id="2235981790001" data-ip="Download and Streaming                            " data-duration="516000" data-assetId="e85413b955322491df5780b42f645b9910a729b9" data-ref-id="e85413b955322491df5780b42f645b9910a729b9" data-duration-string="8:36" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/2235981790001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="115036500"/><source src="https://assets.churchofjesuschrist.org/e85413b955322491df5780b42f645b9910a729b9-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="20642360"/><source src="https://assets.churchofjesuschrist.org/e85413b955322491df5780b42f645b9910a729b9-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="36347377"/><source src="https://assets.churchofjesuschrist.org/e85413b955322491df5780b42f645b9910a729b9-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="115036500"/></video><h1 data-aid="28834429" id="title1">“The Great and Wonderful Love”</h1>
+<div class="byline">
+<p class="author-name" data-aid="28834430" id="p1">By Elder Anthony D. Perkins</p>
+<p class="author-role" data-aid="28834431" id="p2">Of the Seventy</p>
+<div class="image-cropper"><img alt="Elder Anthony D. Perkins" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/214d97816cfda6b5ec580c16a69ba2a6daf0a227/full/%21100%2C/0/default" data-assetId="214d97816cfda6b5ec580c16a69ba2a6daf0a227" srcset="https://www.churchofjesuschrist.org/imgs/214d97816cfda6b5ec580c16a69ba2a6daf0a227/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/214d97816cfda6b5ec580c16a69ba2a6daf0a227/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/214d97816cfda6b5ec580c16a69ba2a6daf0a227/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/214d97816cfda6b5ec580c16a69ba2a6daf0a227/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/214d97816cfda6b5ec580c16a69ba2a6daf0a227/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/214d97816cfda6b5ec580c16a69ba2a6daf0a227/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/214d97816cfda6b5ec580c16a69ba2a6daf0a227/full/%21640%2C/0/default 640w" data-img-id="214d97816cfda6b5ec580c16a69ba2a6daf0a227" data-missing-asset="false" data-width="100" data-height="124" data-aspect-ratio="0.8064516129032258" data-public-title="Perkins, Anthony D." data-public-description="Former Official portrait of Elder Anthony D. Perkins.  Replaced March 2017."/></div>
+</div>
+<p class="kicker" data-aid="28834432" id="kicker1">Childlike faith in the perfect love of Heavenly Father and Jesus Christ will “divide asunder” Satan’s snares of inadequacy, imperfection, and guilt.</p>
+</header>
+<div class="body-block">
+<p data-aid="28834433" id="p3">Children in pure faith proclaim, “We believe in God, the Eternal Father, and in His Son, Jesus Christ, and in the Holy Ghost.”<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a> But sometimes youth and adults do not feel the power of this simple declaration.</p>
+<p data-aid="28834434" id="p4">Satan is the “enemy to all righteousness”;<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a> thus he plants doubts about the nature of the Godhead and our relationship with Them. Jesus Christ prophesied that in the last days even the very elect would be deceived.<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a> Consider three examples of how Lucifer is “laying traps and snares to catch the holy ones of God.”<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a></p>
+<p data-aid="28834435" id="p5"><strong><em>The snare of false inadequacy.</em></strong> A faithful young person feels unable to meet the expectations of others. At home and school, she is rarely praised and often criticized. The popular media tells her she is not beautiful enough or smart enough. Every day this righteous sister questions whether she is an individual worthy of Heavenly Father’s love, the Savior’s atoning sacrifice, or the Spirit’s constant guidance.</p>
+<p data-aid="28834436" id="p6"><strong><em>The snare of exaggerated imperfection.</em></strong> An outstanding missionary feels incapable of meeting the expectations of God. In his mind, this worthy elder imagines a stern Heavenly Father bound to irrevocable justice, a Savior capable of cleansing others’ transgressions but not this elder’s own, and a Holy Ghost unwilling to accompany an imperfect person.</p>
+<p data-aid="28834437" id="p7"><strong><em>The snare of needless guilt.</em></strong> A middle-aged woman is a devoted mother, a loving friend, a faithful Church servant, and a frequent temple patron. But in her heart, this sister cannot forgive herself of sins committed years ago that she has repented of and fully resolved with priesthood leaders. She doubts that her life will ever be acceptable to the Lord and has lost hope of eternal life in Heavenly Father’s presence.</p>
+<span class="page-break" data-page="77"></span>
+<p data-aid="28834438" id="p8">If you have any thoughts and feelings similar to these good Saints, I invite you to become as a little child and feel again “the great and wonderful love made manifest by the Father and the Son in the coming of the Redeemer into the world.”<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a> Childlike faith in the perfect love of Heavenly Father and Jesus Christ will “divide asunder”<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a> Satan’s snares of inadequacy, imperfection, and guilt.</p>
+<p data-aid="28834439" id="p9">Proverbs teaches, “For as he thinketh in his heart, so is he.”<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a> May I suggest—in addition to consistent prayers, scripture study, and Church and temple attendance—five changes to your thoughts and heart to more fully feel the tender love of God.</p>
+<p data-aid="28834440" id="p10"><strong><em>First, see yourself as a precious child of a loving Father in Heaven.</em></strong> Our children with confidence sing, “I am a child of God, and he has sent me here.”<a class="note-ref" href="#note8"><sup class="marker" data-value="8"></sup></a> Little children feel and know what perhaps you have forgotten. You are the beloved son or daughter of Heavenly Father, created “in his own image,”<a class="note-ref" href="#note9"><sup class="marker" data-value="9"></sup></a> and of immense value—so much so that Jesus Christ gave His life for you.</p>
+<p data-aid="28834441" id="p11">God the Father is merciful and has infinite love for you despite your faults. Only the voice of Satan will cause you to feel of no value. In contrast, the Holy Ghost will cause you to feel “godly sorrow”<a class="note-ref" href="#note10"><sup class="marker" data-value="10"></sup></a> unto repentance in a manner that fills you with hope of positive change.</p>
+<p data-aid="28834442" id="p12">When you feel worthless, “remember the worth of souls is great in the sight of God.”<a class="note-ref" href="#note11"><sup class="marker" data-value="11"></sup></a> Refrain from repeatedly thinking or saying negative words about yourself—there is a clear difference between humility and humiliation. Identify and use your unique talents rather than dwelling on your weaknesses.</p>
+<p data-aid="28834443" id="p13"><strong><em>Second, place your burdens on Jesus Christ.</em></strong> When you feel overwhelmed by expectations and challenges, do not fight the battle alone. Follow the example of small children, and drop to your knees in prayer.</p>
+<p data-aid="28834444" id="p14">Jesus Christ has commanded us, “Look unto me in every thought; doubt not, fear not.”<a class="note-ref" href="#note12"><sup class="marker" data-value="12"></sup></a> Doubt, fear, and worry indicate we have taken all of life’s burdens and anxieties on ourselves. When plagued by thoughts that you are inadequate, confidently say, “I can do all things through Christ which strengtheneth me.”<a class="note-ref" href="#note13"><sup class="marker" data-value="13"></sup></a> Then as you “cheerfully do all things that lie in [your] power,”<a class="note-ref" href="#note14"><sup class="marker" data-value="14"></sup></a> you can rest assured that the Lord will do the remainder and things will work out all right.</p>
+<p data-aid="28834445" id="p15">The Savior promised, “Come unto me, all ye that labour and are heavy laden, and I will give you rest.”<a class="note-ref" href="#note15"><sup class="marker" data-value="15"></sup></a> As you “cast [your] burden upon the Lord,”<a class="note-ref" href="#note16"><sup class="marker" data-value="16"></sup></a> you will feel the peace of the Spirit.<a class="note-ref" href="#note17"><sup class="marker" data-value="17"></sup></a></p>
+<p data-aid="28834446" id="p16"><strong><em>Third, forgive yourself of sins and imperfections.</em></strong> Heavenly Father is not expecting you to become completely perfect in this life. He knew His children would make mistakes as they learned from experience in mortality. But “God so loved the world”<a class="note-ref" href="#note18"><sup class="marker" data-value="18"></sup></a> that His plan of happiness provided a merciful Savior.</p>
+<p data-aid="28834447" id="p17">Jesus said, “I, the Lord, will forgive whom I will forgive, but of you it is required to forgive all men.”<a class="note-ref" href="#note19"><sup class="marker" data-value="19"></sup></a> Start with yourself, and forgive others as well. If God will not remember our repented-of sins,<a class="note-ref" href="#note20"><sup class="marker" data-value="20"></sup></a> then why should we? Avoid wasting time and energy reliving the past.</p>
+<p data-aid="28834448" id="p18">To forgive yourself and others, you must trust the Atonement of Jesus Christ. The prophet Zenock prayed, “Thou art angry, O Lord, with this people, because they will not understand thy mercies which thou hast bestowed upon them because of thy Son.”<a class="note-ref" href="#note21"><sup class="marker" data-value="21"></sup></a> Our Father in Heaven is saddened when we limit the power of His Son’s atoning sacrifice. As you exercise faith in Jesus Christ, you can have your guilt “swept away.”<a class="note-ref" href="#note22"><sup class="marker" data-value="22"></sup></a> If guilt remains after sincere repentance, believe your priesthood leaders when they declare you to be worthy.<a class="note-ref" href="#note23"><sup class="marker" data-value="23"></sup></a></p>
+<span class="page-break" data-page="78"></span>
+<p data-aid="28834449" id="p19"><strong><em>Fourth, sustain hope of eternal life.</em></strong> If you imagine that your prior sins, character flaws, and poor decisions prevent you from receiving all of God’s blessings, consider the experience of Alma the Elder. Referring to his younger years as an immoral priest for the wicked King Noah, Alma admitted, “I myself was caught in a snare, and did many things which were abominable in the sight of the Lord, which caused me sore repentance.”<a class="note-ref" href="#note24"><sup class="marker" data-value="24"></sup></a> Yet Alma’s repentance was so complete and Christ’s Atonement so infinite that Alma became a prophet and was promised eternal life.<a class="note-ref" href="#note25"><sup class="marker" data-value="25"></sup></a> As you do your best to be obedient and repentant, you too can receive a place in the celestial kingdom through the Atonement and grace of Jesus Christ.<a class="note-ref" href="#note26"><sup class="marker" data-value="26"></sup></a></p>
+<p data-aid="28834450" id="p20"><strong><em>Fifth, find joy each day.</em></strong> One source of joy is service, for when you are busy helping others, you will have less capacity to agonize over your own shortcomings. The Savior wisely taught, “For whosoever will save his life shall lose it; but whosoever shall lose his life for my sake and the gospel’s, the same shall save it.”<a class="note-ref" href="#note27"><sup class="marker" data-value="27"></sup></a></p>
+<p data-aid="28834451" id="p21">You will experience greater joy in life as you eradicate adult-onset pessimism and substitute childlike optimism. Optimism is a virtue that allows us to see God’s loving hand in the details of our life. A favorite hymn counsels, “Count your many blessings; see what God hath done.”<a class="note-ref" href="#note28"><sup class="marker" data-value="28"></sup></a></p>
+<p data-aid="28834452" id="p22">I testify of Heavenly Father, who in great and wonderful love reaches out to each of His children. I bear witness of Jesus Christ, who is “mighty to save”<a class="note-ref" href="#note29"><sup class="marker" data-value="29"></sup></a> us from our inadequacies, imperfections, and sins. I bear testimony of the Holy Ghost, who will accompany the imperfect yet penitent soul. To you faithful and worthy Saints who struggle with latter-day snares of the devil,<a class="note-ref" href="#note30"><sup class="marker" data-value="30"></sup></a> “may God grant unto you that your burdens may be light, through the joy of his Son.”<a class="note-ref" href="#note31"><sup class="marker" data-value="31"></sup></a> In the sacred name of Jesus Christ, amen.</p>
+</div>
+<footer class="notes">
+<p class="title" data-aid="150470508" id="notetitle1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="28834453" id="note1_p1"><a class="scripture-ref" href="/study/scriptures/pgp/a-of-f/1?lang=eng&amp;id=p1#p1">Articles of Faith 1:1</a>.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="28834454" id="note2_p1"><a class="scripture-ref" href="/study/scriptures/bofm/alma/34?lang=eng&amp;id=p23#p23">Alma 34:23</a>; see also <a class="scripture-ref" href="/study/scriptures/nt/acts/13?lang=eng&amp;id=p10#p10">Acts 13:10</a>; <a class="scripture-ref" href="/study/scriptures/bofm/mosiah/4?lang=eng&amp;id=p14#p14">Mosiah 4:14</a>; <a class="scripture-ref" href="/study/scriptures/bofm/moro/9?lang=eng&amp;id=p6#p6">Moroni 9:6</a>.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="28834455" id="note3_p1">See <a class="scripture-ref" href="/study/scriptures/nt/matt/24?lang=eng&amp;id=p24#p24">Matthew 24:24</a>; see also <a class="scripture-ref" href="/study/scriptures/pgp/js-m/1?lang=eng&amp;id=p22%2Cp37#p22">Joseph Smith—Matthew 1:22, 37</a>.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="28834456" id="note4_p1"><a class="scripture-ref" href="/study/scriptures/bofm/alma/10?lang=eng&amp;id=p17#p17">Alma 10:17</a>.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="28834457" id="note5_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/138?lang=eng&amp;id=p3#p3">D&amp;C 138:3</a>.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="28834458" id="note6_p1"><a class="scripture-ref" href="/study/scriptures/bofm/hel/3?lang=eng&amp;id=p29#p29">Helaman 3:29</a>.</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="28834459" id="note7_p1"><a class="scripture-ref" href="/study/scriptures/ot/prov/23?lang=eng&amp;id=p7#p7">Proverbs 23:7</a>.</p>
+</li>
+<li data-marker="8." id="note8" data-full-marker="8.">
+<p data-aid="28834460" id="note8_p1">“I Am a Child of God,” <em>Hymns,</em> no. 301.</p>
+</li>
+<li data-marker="9." id="note9" data-full-marker="9.">
+<p data-aid="28834461" id="note9_p1"><a class="scripture-ref" href="/study/scriptures/ot/gen/1?lang=eng&amp;id=p27#p27">Genesis 1:27</a>; see also <a class="scripture-ref" href="/study/scriptures/bofm/alma/22?lang=eng&amp;id=p12#p12">Alma 22:12</a>; <a class="scripture-ref" href="/study/scriptures/bofm/ether/3?lang=eng&amp;id=p15-p16#p15">Ether 3:15–16</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/20?lang=eng&amp;id=p17-p18#p17">D&amp;C 20:17–18</a>; <a class="scripture-ref" href="/study/scriptures/pgp/moses/6?lang=eng&amp;id=p8-p10#p8">Moses 6:8–10</a>; <a class="scripture-ref" href="/study/scriptures/pgp/abr/4?lang=eng&amp;id=p26-p27#p26">Abraham 4:26–27</a>.</p>
+</li>
+<li data-marker="10." id="note10" data-full-marker="10.">
+<p data-aid="28834462" id="note10_p1"><a class="scripture-ref" href="/study/scriptures/nt/2-cor/7?lang=eng&amp;id=p10#p10">2 Corinthians 7:10</a>.</p>
+</li>
+<li data-marker="11." id="note11" data-full-marker="11.">
+<p data-aid="28834463" id="note11_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/18?lang=eng&amp;id=p10#p10">D&amp;C 18:10</a>.</p>
+</li>
+<li data-marker="12." id="note12" data-full-marker="12.">
+<p data-aid="28834464" id="note12_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/6?lang=eng&amp;id=p36#p36">D&amp;C 6:36</a>; see also <a class="scripture-ref" href="/study/scriptures/ot/isa/41?lang=eng&amp;id=p10#p10">Isaiah 41:10</a>; <a class="scripture-ref" href="/study/scriptures/nt/matt/10?lang=eng&amp;id=p31#p31">Matthew 10:31</a>; <a class="scripture-ref" href="/study/scriptures/nt/luke/8?lang=eng&amp;id=p50#p50">Luke 8:50</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/50?lang=eng&amp;id=p41#p41">D&amp;C 50:41</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/122?lang=eng&amp;id=p9#p9">122:9</a>.</p>
+</li>
+<li data-marker="13." id="note13" data-full-marker="13.">
+<p data-aid="28834465" id="note13_p1"><a class="scripture-ref" href="/study/scriptures/nt/philip/4?lang=eng&amp;id=p13#p13">Philippians 4:13</a>; see also <a class="scripture-ref" href="/study/scriptures/nt/2-cor/12?lang=eng&amp;id=p7-p10#p7">2 Corinthians 12:7–10</a>; <a class="scripture-ref" href="/study/scriptures/nt/heb/11?lang=eng&amp;id=p33-p34#p33">Hebrews 11:33–34</a>; <a class="scripture-ref" href="/study/scriptures/bofm/1-ne/7?lang=eng&amp;id=p12#p12">1 Nephi 7:12</a>; <a class="scripture-ref" href="/study/scriptures/bofm/1-ne/17?lang=eng&amp;id=p3#p3">17:3</a>; <a class="scripture-ref" href="/study/scriptures/bofm/jacob/4?lang=eng&amp;id=p7#p7">Jacob 4:7</a>; <a class="scripture-ref" href="/study/scriptures/bofm/alma/26?lang=eng&amp;id=p12#p12">Alma 26:12</a>; <a class="scripture-ref" href="/study/scriptures/bofm/ether/12?lang=eng&amp;id=p27#p27">Ether 12:27</a>.</p>
+</li>
+<li data-marker="14." id="note14" data-full-marker="14.">
+<p data-aid="28834466" id="note14_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/123?lang=eng&amp;id=p17#p17">D&amp;C 123:17</a>.</p>
+</li>
+<li data-marker="15." id="note15" data-full-marker="15.">
+<p data-aid="28834467" id="note15_p1"><a class="scripture-ref" href="/study/scriptures/nt/matt/11?lang=eng&amp;id=p28#p28">Matthew 11:28</a>.</p>
+</li>
+<li data-marker="16." id="note16" data-full-marker="16.">
+<p data-aid="28834468" id="note16_p1"><a class="scripture-ref" href="/study/scriptures/ot/ps/55?lang=eng&amp;id=p22#p22">Psalm 55:22</a>.</p>
+</li>
+<li data-marker="17." id="note17" data-full-marker="17.">
+<p data-aid="28834469" id="note17_p1">See <a class="scripture-ref" href="/study/scriptures/nt/gal/5?lang=eng&amp;id=p22#p22">Galatians 5:22</a>; see also <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/19?lang=eng&amp;id=p23#p23">D&amp;C 19:23</a>.</p>
+</li>
+<li data-marker="18." id="note18" data-full-marker="18.">
+<p data-aid="28834470" id="note18_p1"><a class="scripture-ref" href="/study/scriptures/nt/john/3?lang=eng&amp;id=p16#p16">John 3:16</a>.</p>
+</li>
+<li data-marker="19." id="note19" data-full-marker="19.">
+<p data-aid="28834471" id="note19_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/64?lang=eng&amp;id=p10#p10">D&amp;C 64:10</a>.</p>
+</li>
+<li data-marker="20." id="note20" data-full-marker="20.">
+<p data-aid="28834472" id="note20_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/58?lang=eng&amp;id=p42#p42">D&amp;C 58:42</a>; see also <a class="scripture-ref" href="/study/scriptures/ot/ps/25?lang=eng&amp;id=p7#p7">Psalm 25:7</a>; <a class="scripture-ref" href="/study/scriptures/ot/isa/43?lang=eng&amp;id=p25#p25">Isaiah 43:25</a>; <a class="scripture-ref" href="/study/scriptures/ot/jer/31?lang=eng&amp;id=p34#p34">Jeremiah 31:34</a>; <a class="scripture-ref" href="/study/scriptures/nt/heb/8?lang=eng&amp;id=p12#p12">Hebrews 8:12</a>; <a class="scripture-ref" href="/study/scriptures/nt/heb/10?lang=eng&amp;id=p17#p17">10:17</a>; <a class="scripture-ref" href="/study/scriptures/bofm/alma/36?lang=eng&amp;id=p19#p19">Alma 36:19</a>.</p>
+</li>
+<li data-marker="21." id="note21" data-full-marker="21.">
+<p data-aid="28834473" id="note21_p1"><a class="scripture-ref" href="/study/scriptures/bofm/alma/33?lang=eng&amp;id=p16#p16">Alma 33:16</a>.</p>
+</li>
+<li data-marker="22." id="note22" data-full-marker="22.">
+<p data-aid="28834474" id="note22_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/enos/1?lang=eng&amp;id=p3-p8#p3">Enos 1:3–8</a>; see also <a class="scripture-ref" href="/study/scriptures/bofm/alma/24?lang=eng&amp;id=p10#p10">Alma 24:10</a>; <a class="scripture-ref" href="/study/scriptures/bofm/alma/36?lang=eng&amp;id=p16-p19#p16">36:16–19</a>.</p>
+</li>
+<li data-marker="23." id="note23" data-full-marker="23.">
+<p data-aid="28834475" id="note23_p1">See Marvin J. Ashton, “On Being Worthy,” <em>Ensign,</em> May 1989, 20–22.</p>
+</li>
+<li data-marker="24." id="note24" data-full-marker="24.">
+<p data-aid="28834476" id="note24_p1"><a class="scripture-ref" href="/study/scriptures/bofm/mosiah/23?lang=eng&amp;id=p9#p9">Mosiah 23:9</a>.</p>
+</li>
+<li data-marker="25." id="note25" data-full-marker="25.">
+<p data-aid="28834477" id="note25_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/mosiah/26?lang=eng&amp;id=p20#p20">Mosiah 26:20</a>.</p>
+</li>
+<li data-marker="26." id="note26" data-full-marker="26.">
+<p data-aid="28834478" id="note26_p1">See <a class="scripture-ref" href="/study/scriptures/nt/titus/3?lang=eng&amp;id=p7#p7">Titus 3:7</a>; <a class="scripture-ref" href="/study/scriptures/nt/1-pet/5?lang=eng&amp;id=p10#p10">1 Peter 5:10</a>; <a class="scripture-ref" href="/study/scriptures/bofm/2-ne/2?lang=eng&amp;id=p6-p8#p6">2 Nephi 2:6–8</a>; <a class="scripture-ref" href="/study/scriptures/bofm/2-ne/10?lang=eng&amp;id=p24-p25#p24">10:24–25</a>; <a class="scripture-ref" href="/study/scriptures/bofm/2-ne/25?lang=eng&amp;id=p23#p23">25:23</a>; <a class="scripture-ref" href="/study/scriptures/bofm/enos/1?lang=eng&amp;id=p27#p27">Enos 1:27</a>; <a class="scripture-ref" href="/study/scriptures/bofm/moro/7?lang=eng&amp;id=p41#p41">Moroni 7:41</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/138?lang=eng&amp;id=p14#p14">D&amp;C 138:14</a>.</p>
+</li>
+<li data-marker="27." id="note27" data-full-marker="27.">
+<p data-aid="28834479" id="note27_p1"><a class="scripture-ref" href="/study/scriptures/nt/mark/8?lang=eng&amp;id=p35#p35">Mark 8:35</a>; see also <a class="scripture-ref" href="/study/scriptures/bofm/alma/36?lang=eng&amp;id=p24-p25#p24">Alma 36:24–25</a>.</p>
+</li>
+<li data-marker="28." id="note28" data-full-marker="28.">
+<p data-aid="28834480" id="note28_p1">“Count Your Blessings,” <em>Hymns,</em> no. 241.</p>
+</li>
+<li data-marker="29." id="note29" data-full-marker="29.">
+<p data-aid="28834481" id="note29_p1"><a class="scripture-ref" href="/study/scriptures/bofm/2-ne/31?lang=eng&amp;id=p19#p19">2 Nephi 31:19</a>; see also <a class="scripture-ref" href="/study/scriptures/ot/isa/63?lang=eng&amp;id=p1#p1">Isaiah 63:1</a>; <a class="scripture-ref" href="/study/scriptures/bofm/alma/7?lang=eng&amp;id=p14#p14">Alma 7:14</a>; <a class="scripture-ref" href="/study/scriptures/bofm/alma/34?lang=eng&amp;id=p18#p18">34:18</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/133?lang=eng&amp;id=p47#p47">D&amp;C 133:47</a>.</p>
+</li>
+<li data-marker="30." id="note30" data-full-marker="30.">
+<p data-aid="28834482" id="note30_p1">See <a class="scripture-ref" href="/study/scriptures/nt/2-tim/2?lang=eng&amp;id=p26#p26">2 Timothy 2:26</a>.</p>
+</li>
+<li data-marker="31." id="note31" data-full-marker="31.">
+<p data-aid="28834483" id="note31_p1"><a class="scripture-ref" href="/study/scriptures/bofm/alma/33?lang=eng&amp;id=p23#p23">Alma 33:23</a>.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/2006/10/the-great-and-wonderful-love</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/october-2006-general-conference/2006-10-4050-elder-anthony-d-perkins-64k-eng.mp3" length="4113280" type="audio/mpeg"/>
-      <pubDate>Sun, 01 Oct 2006 10:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/5f1113aa32f011ec95e0eeeeac1ece459924c8d2-128k-en.mp3" length="8549320" type="audio/mpeg"/>
+      <pubDate>Sun, 01 Oct 2006 10:00:00 -0600</pubDate>
+      <itunes:author>Anthony D. Perkins</itunes:author>
     </item>
     <item>
       <title>Beware Concerning Yourselves</title>
-      <link>http://www.lds.org/general-conference/2012/10/beware-concerning-yourselves?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2012/10/beware-concerning-yourselves?lang=eng</link>
       <description>Stay on the priesthood path by deepening your conversion and strengthening your family. … Avoid tragedy by heeding spiritual “Beware” signs placed along our way by God and prophets.</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/2012/10/beware-concerning-yourselves" dup-conf="false" dup-mag="false" schema-version="1" doc-id="general-conference_10491_000_33perkins" doc-version="2" hash="SjlBog"><div class="heading" uri="/general-conference/2012/10/beware-concerning-yourselves.head1"><h1 class="title" pid="nSnN6AZuekSuzGI8t7tmPw" hash="pqwPsQ">Beware Concerning Yourselves</h1><p class="authorName" pid="0rbXgdelekybzHkl2ivdKw" hash="c1d8bA">By Elder Anthony D. Perkins</p><p class="kicker" pid="0kwUxkn5ekOONz1EaAyxIg" hash="FO8I5w">Stay on the priesthood path by deepening your conversion and strengthening your family. … Avoid tragedy by heeding spiritual “Beware” signs placed along our way by God and prophets.</p></div><div class="bodyBlock">
-    <p class="para" uri="/general-conference/2012/10/beware-concerning-yourselves.p5" pid="OArYhxf4hkGmiNx_sjTNVQ" hash="A2h-3A">
-      <span class="pageBreak" page-number="54"></span>When I was a young man, our family would drive over America’s Rocky Mountains to visit grandparents. The road began in sagebrush flatlands, ascended through steep, pine-covered slopes, and ultimately emerged into aspen groves and mountaintop meadows, where we could see almost forever.</p>
-    <p class="para" uri="/general-conference/2012/10/beware-concerning-yourselves.p6" pid="E6JqBMS4gUqqOq9dcSXKrw" hash="Y6mlFg">But this beautiful road was not perfectly safe. Much of the highway was carved into the steep mountainside. To protect travelers, road builders constructed guardrails and placed signs that read, “Beware: Falling Rocks.” We observed ample reason for these warnings. Rocks and boulders were strewn along the riverbed far below the road. Occasionally we could see crumpled cars on the canyon bottom, a tragic record of drivers who failed to beware.</p>
-    <div class="topic" uri="/general-conference/2012/10/beware-concerning-yourselves.t1">
-      <h2 class="title" pid="SwQ8Zn7nVEuA4mGZS4tc3g" hash="2Ix1hA">Oath and Covenant of the Priesthood</h2>
-      <p class="para" uri="/general-conference/2012/10/beware-concerning-yourselves.p8" pid="Hd46GKe0lEaXiMK07xOZEQ" hash="3nNwrw">Brethren, each of you has entered, or will soon enter, into the oath and covenant of the Melchizedek Priesthood.<span class="noteMarker" ref="f_1">1</span> In that covenant is embedded a glorious journey that begins with receiving both the lesser and higher priesthoods, progresses through magnifying our callings, and climbs ever upward to God’s grandest vistas, until we receive “all that [the] Father hath.”<span class="noteMarker" ref="f_2">2</span></p>
-      <p class="para" uri="/general-conference/2012/10/beware-concerning-yourselves.p9" pid="g6I7V18gIUSQnf5cBeIPQA" hash="3_t3Qw">The wise designer of that celestial road has erected caution signs for our journey. The oath and covenant of the priesthood contains this soul-searching warning: “I now give unto you a commandment to beware concerning yourselves.”<span class="noteMarker" ref="f_3">3</span></p>
-      <p class="para" uri="/general-conference/2012/10/beware-concerning-yourselves.p10" pid="znELhEZVHEaUJysl1zeLnw" hash="mCYHAQ">Why would God command us to beware? He knows that Satan is an actual being<span class="noteMarker" ref="f_4">4</span> who seeks to drag down our souls into the gulf of misery.<span class="noteMarker" ref="f_5">5</span> God also knows that lurking within priesthood holders is a “natural man”<span class="noteMarker" ref="f_6">6</span> “prone to wander.”<span class="noteMarker" ref="f_7">7</span> Thus, prophets invite us to “put off the old man”<span class="noteMarker" ref="f_8">8</span> and “put on Christ”<span class="noteMarker" ref="f_9">9</span> through faith, repentance, saving ordinances, and daily gospel living.</p>
-    </div>
-    <div class="topic" uri="/general-conference/2012/10/beware-concerning-yourselves.t2">
-      <h2 class="title" pid="TzVdxCO7rEuCYcbka-_xOA" hash="8NymEg">Avoiding Tragedy</h2>
-      <p class="para" uri="/general-conference/2012/10/beware-concerning-yourselves.p12" pid="kXeUyJNSOkKzGmwI3ofCOw" hash="qT1LLQ">While ascending the priesthood path, any boy or man can be dragged down if he fails to beware. Have you been stunned and heartbroken by the unexpected fall of an outstanding young man, newly returned missionary, respected priesthood leader, or beloved family member?</p>
-      <p class="para" uri="/general-conference/2012/10/beware-concerning-yourselves.p13" pid="CPZUOXuNMEKFQcmkVQrPIw" hash="roYWUg">The Old Testament story of David is a tragic example of squandered priesthood power. Although he defeated Goliath while young and lived righteously for decades,<span class="noteMarker" ref="f_10">10</span> this prophet-king was still spiritually vulnerable. In that crucial moment when from his rooftop he saw beautiful Bathsheba bathing, no moral lifeguard stood near to shout, “Beware, David, you fool!” His failure to beware concerning himself<span class="noteMarker" ref="f_11">11</span> and to act on promptings of the Spirit<span class="noteMarker" ref="f_12">12</span> led to the loss of his eternal family.<span class="noteMarker" ref="f_13">13</span></p>
-      <p class="para" uri="/general-conference/2012/10/beware-concerning-yourselves.p14" pid="dYQXTpcFL0OII_WFbFt5JQ" hash="bTLX4g">Brethren, if even mighty David can be swept off the road to exaltation, how can we avoid a similar fate?</p>
-      <p class="para" uri="/general-conference/2012/10/beware-concerning-yourselves.p15" pid="6yXKPCfQ5kG3wiAWTB_7MQ" hash="FtfQrw">The twin guardrails of deep personal conversion and strong family relations help keep us on the heavenly highway.</p>
-      <p class="para" uri="/general-conference/2012/10/beware-concerning-yourselves.p16" pid="4xkqjvksbkGolD1cvROhGA" hash="CZraoA">Knowing this, Satan dislodges conversion-crushing and family-fracturing boulders to cross our priesthood path. Thankfully, Jesus Christ and His prophets have placed “Beware” signs along the way. They consistently warn us of conversion-crushing pride<span class="noteMarker" ref="f_14">14</span> and family-fracturing sins such as anger, greed, and lust.</p>
-      <p class="para" uri="/general-conference/2012/10/beware-concerning-yourselves.p17" pid="gR0TQF0Tt0SKWz3Bie3FBg" hash="p8akLA">Long ago, Moses counseled, “Beware lest thou forget the Lord.”<span class="noteMarker" ref="f_15">15</span> In our fast-paced and entertainment-saturated world, men are still quick to “forget the Lord, … to do iniquity, and to be led away by the evil one.”<span class="noteMarker" ref="f_16">16</span></p>
-    </div>
-    <div class="topic" uri="/general-conference/2012/10/beware-concerning-yourselves.t3">
-      <h2 class="title" pid="8U-VoXQDzUaYVLIyc1NnPw" hash="1EcI2A">Deepen Conversion and Strengthen Family</h2>
-      <p class="para" uri="/general-conference/2012/10/beware-concerning-yourselves.p19" pid="iRhZC8fHz0KoJpFW1Vptlg" hash="FTbJVA">To stay safely on the priesthood path amid rock slides of temptation, I remind us of six fundamental principles that deepen conversion and strengthen family.</p>
-      <p class="para" uri="/general-conference/2012/10/beware-concerning-yourselves.p20" pid="nqZWH_ZQMEatpiUPiPAdvQ" hash="jdwbfw">First, praying always opens the door for divine help to “conquer Satan.”<span class="noteMarker" ref="f_17">17</span> Each time Jesus alerts priesthood <span class="pageBreak" page-number="55"></span>holders to “beware, for Satan desireth to sift [you],” He prescribes prayer as the temptation-countering action.<span class="noteMarker" ref="f_18">18</span> President Thomas S. Monson has taught: “If any of us has been slow to hearken to the counsel to pray always, there is no finer hour to begin than now. … A man never stands taller than when he is upon his knees.”<span class="noteMarker" ref="f_19">19</span></p>
-      <p class="para" uri="/general-conference/2012/10/beware-concerning-yourselves.p21" pid="P4Rfzu2QkE2BgYX5w_g3OQ" hash="X32zIg">Second, studying ancient and modern scripture connects us to God. The Lord cautioned Church members to “beware how they hold [the prophets] lest they are accounted as a light thing, and are brought under condemnation thereby, and stumble and fall.”<span class="noteMarker" ref="f_20">20</span> To avoid this sobering condemnation, we should diligently read the scriptures as well as Church magazines and websites that enable us to “be counseled in an intimate and personal way by [the Lord’s] chosen prophet.”<span class="noteMarker" ref="f_21">21</span></p>
-      <p class="para" uri="/general-conference/2012/10/beware-concerning-yourselves.p22" pid="seUlsftyvkqrlsueQhFG1Q" hash="pZj77A">Third, worthily participating in ordinances prepares us to take “the Holy Spirit for [our] guide.”<span class="noteMarker" ref="f_22">22</span> When the Savior warned, “Beware lest ye are deceived,” He promised we will not be if we “seek … earnestly the best gifts” of the Spirit.<span class="noteMarker" ref="f_23">23</span> Worthily partaking of the sacrament each week qualifies members to “always have his Spirit to be with them.”<span class="noteMarker" ref="f_24">24</span> In temple worship we may “receive a fulness of the Holy Ghost.”<span class="noteMarker" ref="f_25">25</span></p>
-      <p class="para" uri="/general-conference/2012/10/beware-concerning-yourselves.p23" pid="MiLN1h2qtEy8RHSbP2mNmA" hash="9j3kAw">Fourth, showing genuine love is at the heart of personal conversion and family relations. King Benjamin directed, “Beware lest there shall arise contentions among you.”<span class="noteMarker" ref="f_26">26</span> Never forget that Satan is the “father of contention”<span class="noteMarker" ref="f_27">27</span> and seeks that family members “fight and quarrel.”<span class="noteMarker" ref="f_28">28</span> Brethren, if we are emotionally, verbally, or physically abusive to any member of our family, or bully any person, then we lose priesthood power.<span class="noteMarker" ref="f_29">29</span> Choose to control anger. Family members should hear blessings from our mouths, not cursings. We are to influence others only by persuasion, long-suffering, gentleness, meekness, love unfeigned, kindness, and charity.<span class="noteMarker" ref="f_30">30</span></p>
-      <p class="para" uri="/general-conference/2012/10/beware-concerning-yourselves.p24" pid="h2io7jdp90O6K9de8Q4AgQ" hash="lYiOyA">Fifth, obeying the law of tithing is an essential element of faith and family unity. Because Satan uses greed and the pursuit of possessions to sweep families off the celestial highway, Jesus advised, “Beware of covetousness.”<span class="noteMarker" ref="f_31">31</span> Covetousness is restrained as we project our income, pay an honest tithe and generous fast offering, budget needed expenses, avoid unnecessary debt, save for future needs, and become temporally self-reliant. God’s promise to us is, “Seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you.”<span class="noteMarker" ref="f_32">32</span></p>
-      <p class="para" uri="/general-conference/2012/10/beware-concerning-yourselves.p25" pid="NUk4sg4cMkabAUSDTLsHhA" hash="sg7yNw">Sixth, fully living the law of chastity yields confidence to stand “in the presence of God” with the Holy Ghost as our “constant companion.”<span class="noteMarker" ref="f_33">33</span> Satan is assaulting virtue and marriage with an avalanche of obscenity. When the Lord warned adulterers to “beware and repent speedily,” His definition extended beyond the physical act of adultery to the lustful thoughts that precede it.<span class="noteMarker" ref="f_34">34</span> Modern prophets and apostles have spoken often and clearly about the plague of pornography. President Gordon B. Hinckley taught: “[Pornography] is like a raging storm, destroying individuals and families, utterly ruining what was once wholesome and beautiful. … The time has come for any one of us who is so involved to pull himself out of the mire.”<span class="noteMarker" ref="f_35">35</span> If you are tempted to violate the law of chastity in any form, follow Joseph of Egypt’s example, who “fled, and got him out.”<span class="noteMarker" ref="f_36">36</span></p>
-      <p class="para" uri="/general-conference/2012/10/beware-concerning-yourselves.p26" pid="-Sb5mTfWu0eyx-oO0FmRmw" hash="0a8MNw">
-        <span class="pageBreak" page-number="56"></span>These six fundamental principles help priesthood holders continue up the heavenly highway safely between the spiritual guardrails of personal conversion and family relationships. Young men, obeying these principles will prepare you for temple covenants, full-time missionary service, and eternal marriage. Husbands and fathers, living these principles will qualify you to preside over the home in righteousness, serving as your family’s spiritual leader, with your wife as an equal partner.<span class="noteMarker" ref="f_37">37</span> The priesthood path is a journey filled with joy.</p>
-    </div>
-    <div class="topic" uri="/general-conference/2012/10/beware-concerning-yourselves.t4">
-      <h2 class="title" pid="QtT6ojVQ30ar1bzaSnIpzQ" hash="YbluSA">Staying on the Priesthood Path</h2>
-      <p class="para" uri="/general-conference/2012/10/beware-concerning-yourselves.p28" pid="mHEqGzh5L0-e75jiGx1qIA" hash="1CvtVQ">Returning to my experiences as a young man, I remember one crossing of the Rocky Mountains. After passing a “Beware: Falling Rocks” sign, my father noticed pebbles and small stones landing on the pavement in front of us. He quickly slowed the car to a near stop just as a basketball-sized boulder whizzed by us. Dad waited for the rock slide to cease before continuing. My father’s constant attention and immediate action ensured that our family safely reached our final destination.</p>
-      <p class="para" uri="/general-conference/2012/10/beware-concerning-yourselves.p29" pid="fc3aAz-LGUGAWKIXCVGKww" hash="WAiF3Q">Brethren, Satan seeks “to destroy the souls of men.”<span class="noteMarker" ref="f_38">38</span> If your soul is drifting to the edge of a spiritual cliff, stop now before you fall and steer back on course.<span class="noteMarker" ref="f_39">39</span> If you feel your soul lies wrecked at the bottom of a canyon rather than high on the priesthood path because you neglected “Beware” signs and sinned, I testify that through sincere repentance and the power of Jesus Christ’s atoning sacrifice, you can be lifted up and restored to God’s heavenly highway.<span class="noteMarker" ref="f_40">40</span></p>
-      <p class="para" uri="/general-conference/2012/10/beware-concerning-yourselves.p30" pid="a-JShT8iE0WJkOxxogzJlw" hash="T78L-g">Jesus taught, “Beware ye of … hypocrisy.”<span class="noteMarker" ref="f_41">41</span> If you are unworthy to exercise the priesthood, please meet with your bishop, who can help you repent. Take courage that although the Savior affirms, “Beware … , and refrain from sin,”<span class="noteMarker" ref="f_42">42</span> He also promises: “I, the Lord, forgive you. … Go your ways and sin no more.”<span class="noteMarker" ref="f_43">43</span></p>
-      <p class="para" uri="/general-conference/2012/10/beware-concerning-yourselves.p31" pid="z8J_odlL4UKVDLzSr5P4dQ" hash="EyeIDw">I invite every boy and man to stay on the priesthood path by deepening your conversion and strengthening your family. Prayers, scriptures, and ordinances deepen conversion. Love, tithing, and chastity strengthen family. Avoid tragedy by heeding spiritual “Beware” signs placed along our way by God and prophets. Strive to follow the perfect example of Jesus Christ, who “suffered temptations but gave no heed unto them.”<span class="noteMarker" ref="f_44">44</span></p>
-      <p class="para" uri="/general-conference/2012/10/beware-concerning-yourselves.p32" pid="AGcVTKpWEke_wB1fOu5vDA" hash="gIB9mQ">I promise that if men keep the priesthood covenant to “beware concerning yourselves,”<span class="noteMarker" ref="f_45">45</span> we and our families can be assured of safely and joyfully reaching our exalted destination in the celestial kingdom. I so testify in the sacred name of Jesus Christ, amen.</p>
-    </div>
-  </div></div>]]></content:encoded>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="54"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/6233c99ca61e52c0003d0dc1d22fb8aa7e3f30d9/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/6233c99ca61e52c0003d0dc1d22fb8aa7e3f30d9/full/%21192%2C/0/default" data-video-title="Beware Concerning Yourselves" data-video-description="Stay on the priesthood path by deepening your conversion and strengthening your family. … Avoid tragedy by heeding spiritual “Beware” signs placed along our way by God and prophets." data-video-id="1956302349001" data-ip="Download and Streaming                            " data-duration="676000" data-assetId="ff01c0e9cb66270b52dc048410bab5823c6e1512" data-ref-id="ff01c0e9cb66270b52dc048410bab5823c6e1512" data-duration-string="11:16" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/1956302349001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="233633962"/><source src="https://assets.churchofjesuschrist.org/ff01c0e9cb66270b52dc048410bab5823c6e1512-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="39830517"/><source src="https://assets.churchofjesuschrist.org/ff01c0e9cb66270b52dc048410bab5823c6e1512-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="81618962"/><source src="https://assets.churchofjesuschrist.org/ff01c0e9cb66270b52dc048410bab5823c6e1512-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="233633962"/></video><h1 data-aid="28855153" id="title1">Beware Concerning Yourselves</h1>
+<div class="byline">
+<p class="author-name" data-aid="28855154" id="p1">By Elder Anthony D. Perkins</p>
+<p class="author-role" data-aid="28855155" id="p2">Of the Seventy</p>
+<div class="image-cropper"><img alt="Elder Anthony D. Perkins" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/214d97816cfda6b5ec580c16a69ba2a6daf0a227/full/%21100%2C/0/default" data-assetId="214d97816cfda6b5ec580c16a69ba2a6daf0a227" srcset="https://www.churchofjesuschrist.org/imgs/214d97816cfda6b5ec580c16a69ba2a6daf0a227/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/214d97816cfda6b5ec580c16a69ba2a6daf0a227/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/214d97816cfda6b5ec580c16a69ba2a6daf0a227/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/214d97816cfda6b5ec580c16a69ba2a6daf0a227/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/214d97816cfda6b5ec580c16a69ba2a6daf0a227/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/214d97816cfda6b5ec580c16a69ba2a6daf0a227/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/214d97816cfda6b5ec580c16a69ba2a6daf0a227/full/%21640%2C/0/default 640w" data-img-id="214d97816cfda6b5ec580c16a69ba2a6daf0a227" data-missing-asset="false" data-width="100" data-height="124" data-aspect-ratio="0.8064516129032258" data-public-title="Perkins, Anthony D." data-public-description="Former Official portrait of Elder Anthony D. Perkins.  Replaced March 2017."/></div>
+</div>
+<p class="kicker" data-aid="28855156" id="kicker1">Stay on the priesthood path by deepening your conversion and strengthening your family. … Avoid tragedy by heeding spiritual “Beware” signs placed along our way by God and prophets.</p>
+</header>
+<div class="body-block">
+<p data-aid="28855157" id="p3">When I was a young man, our family would drive over America’s Rocky Mountains to visit grandparents. The road began in sagebrush flatlands, ascended through steep, pine-covered slopes, and ultimately emerged into aspen groves and mountaintop meadows, where we could see almost forever.</p>
+<p data-aid="28855158" id="p4">But this beautiful road was not perfectly safe. Much of the highway was carved into the steep mountainside. To protect travelers, road builders constructed guardrails and placed signs that read, “Beware: Falling Rocks.” We observed ample reason for these warnings. Rocks and boulders were strewn along the riverbed far below the road. Occasionally we could see crumpled cars on the canyon bottom, a tragic record of drivers who failed to beware.</p>
+<section>
+<header>
+<h2 data-aid="28855159" id="title2">Oath and Covenant of the Priesthood</h2>
+</header>
+<p data-aid="28855160" id="p5">Brethren, each of you has entered, or will soon enter, into the oath and covenant of the Melchizedek Priesthood.<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a> In that covenant is embedded a glorious journey that begins with receiving both the lesser and higher priesthoods, progresses through magnifying our callings, and climbs ever upward to God’s grandest vistas, until we receive “all that [the] Father hath.”<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a></p>
+<p data-aid="28855161" id="p6">The wise designer of that celestial road has erected caution signs for our journey. The oath and covenant of the priesthood contains this soul-searching warning: “I now give unto you a commandment to beware concerning yourselves.”<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a></p>
+<p data-aid="28855162" id="p7">Why would God command us to beware? He knows that Satan is an actual being<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a> who seeks to drag down our souls into the gulf of misery.<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a> God also knows that lurking within priesthood holders is a “natural man”<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a> “prone to wander.”<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a> Thus, prophets invite us to “put off the old man”<a class="note-ref" href="#note8"><sup class="marker" data-value="8"></sup></a> and “put on Christ”<a class="note-ref" href="#note9"><sup class="marker" data-value="9"></sup></a> through faith, repentance, saving ordinances, and daily gospel living.</p>
+</section>
+<section>
+<header>
+<h2 data-aid="28855163" id="title3">Avoiding Tragedy</h2>
+</header>
+<p data-aid="28855164" id="p8">While ascending the priesthood path, any boy or man can be dragged down if he fails to beware. Have you been stunned and heartbroken by the unexpected fall of an outstanding young man, newly returned missionary, respected priesthood leader, or beloved family member?</p>
+<p data-aid="28855165" id="p9">The Old Testament story of David is a tragic example of squandered priesthood power. Although he defeated Goliath while young and lived righteously for decades,<a class="note-ref" href="#note10"><sup class="marker" data-value="10"></sup></a> this prophet-king was still spiritually vulnerable. In that crucial moment when from his rooftop he saw beautiful Bathsheba bathing, no moral lifeguard stood near to shout, “Beware, David, you fool!” His failure to beware concerning himself<a class="note-ref" href="#note11"><sup class="marker" data-value="11"></sup></a> and to act on promptings of the Spirit<a class="note-ref" href="#note12"><sup class="marker" data-value="12"></sup></a> led to the loss of his eternal family.<a class="note-ref" href="#note13"><sup class="marker" data-value="13"></sup></a></p>
+<p data-aid="28855166" id="p10">Brethren, if even mighty David can be swept off the road to exaltation, how can we avoid a similar fate?</p>
+<p data-aid="28855167" id="p11">The twin guardrails of deep personal conversion and strong family relations help keep us on the heavenly highway.</p>
+<p data-aid="28855168" id="p12">Knowing this, Satan dislodges conversion-crushing and family-fracturing boulders to cross our priesthood path. Thankfully, Jesus Christ and His prophets have placed “Beware” signs along the way. They consistently warn us of conversion-crushing pride<a class="note-ref" href="#note14"><sup class="marker" data-value="14"></sup></a> and family-fracturing sins such as anger, greed, and lust.</p>
+<p data-aid="28855169" id="p13">Long ago, Moses counseled, “Beware lest thou forget the Lord.”<a class="note-ref" href="#note15"><sup class="marker" data-value="15"></sup></a> In our fast-paced and entertainment-saturated world, men are still quick to “forget the Lord, … to do iniquity, and to be led away by the evil one.”<a class="note-ref" href="#note16"><sup class="marker" data-value="16"></sup></a></p>
+</section>
+<section>
+<header>
+<h2 data-aid="28855170" id="title4">Deepen Conversion and Strengthen Family</h2>
+</header>
+<p data-aid="28855171" id="p14">To stay safely on the priesthood path amid rock slides of temptation, I remind us of six fundamental principles that deepen conversion and strengthen family.</p>
+<p data-aid="28855172" id="p15">First, praying always opens the door for divine help to “conquer Satan.”<a class="note-ref" href="#note17"><sup class="marker" data-value="17"></sup></a> Each time Jesus alerts priesthood <span class="page-break" data-page="55"></span>holders to “beware, for Satan desireth to sift [you],” He prescribes prayer as the temptation-countering action.<a class="note-ref" href="#note18"><sup class="marker" data-value="18"></sup></a> President Thomas S. Monson has taught: “If any of us has been slow to hearken to the counsel to pray always, there is no finer hour to begin than now. … A man never stands taller than when he is upon his knees.”<a class="note-ref" href="#note19"><sup class="marker" data-value="19"></sup></a></p>
+<p data-aid="28855173" id="p16">Second, studying ancient and modern scripture connects us to God. The Lord cautioned Church members to “beware how they hold [the prophets] lest they are accounted as a light thing, and are brought under condemnation thereby, and stumble and fall.”<a class="note-ref" href="#note20"><sup class="marker" data-value="20"></sup></a> To avoid this sobering condemnation, we should diligently read the scriptures as well as Church magazines and websites that enable us to “be counseled in an intimate and personal way by [the Lord’s] chosen prophet.”<a class="note-ref" href="#note21"><sup class="marker" data-value="21"></sup></a></p>
+<p data-aid="28855174" id="p17">Third, worthily participating in ordinances prepares us to take “the Holy Spirit for [our] guide.”<a class="note-ref" href="#note22"><sup class="marker" data-value="22"></sup></a> When the Savior warned, “Beware lest ye are deceived,” He promised we will not be if we “seek … earnestly the best gifts” of the Spirit.<a class="note-ref" href="#note23"><sup class="marker" data-value="23"></sup></a> Worthily partaking of the sacrament each week qualifies members to “always have his Spirit to be with them.”<a class="note-ref" href="#note24"><sup class="marker" data-value="24"></sup></a> In temple worship we may “receive a fulness of the Holy Ghost.”<a class="note-ref" href="#note25"><sup class="marker" data-value="25"></sup></a></p>
+<p data-aid="28855175" id="p18">Fourth, showing genuine love is at the heart of personal conversion and family relations. King Benjamin directed, “Beware lest there shall arise contentions among you.”<a class="note-ref" href="#note26"><sup class="marker" data-value="26"></sup></a> Never forget that Satan is the “father of contention”<a class="note-ref" href="#note27"><sup class="marker" data-value="27"></sup></a> and seeks that family members “fight and quarrel.”<a class="note-ref" href="#note28"><sup class="marker" data-value="28"></sup></a> Brethren, if we are emotionally, verbally, or physically abusive to any member of our family, or bully any person, then we lose priesthood power.<a class="note-ref" href="#note29"><sup class="marker" data-value="29"></sup></a> Choose to control anger. Family members should hear blessings from our mouths, not cursings. We are to influence others only by persuasion, long-suffering, gentleness, meekness, love unfeigned, kindness, and charity.<a class="note-ref" href="#note30"><sup class="marker" data-value="30"></sup></a></p>
+<p data-aid="28855176" id="p19">Fifth, obeying the law of tithing is an essential element of faith and family unity. Because Satan uses greed and the pursuit of possessions to sweep families off the celestial highway, Jesus advised, “Beware of covetousness.”<a class="note-ref" href="#note31"><sup class="marker" data-value="31"></sup></a> Covetousness is restrained as we project our income, pay an honest tithe and generous fast offering, budget needed expenses, avoid unnecessary debt, save for future needs, and become temporally self-reliant. God’s promise to us is, “Seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you.”<a class="note-ref" href="#note32"><sup class="marker" data-value="32"></sup></a></p>
+<p data-aid="28855177" id="p20">Sixth, fully living the law of chastity yields confidence to stand “in the presence of God” with the Holy Ghost as our “constant companion.”<a class="note-ref" href="#note33"><sup class="marker" data-value="33"></sup></a> Satan is assaulting virtue and marriage with an avalanche of obscenity. When the Lord warned adulterers to “beware and repent speedily,” His definition extended beyond the physical act of adultery to the lustful thoughts that precede it.<a class="note-ref" href="#note34"><sup class="marker" data-value="34"></sup></a> Modern prophets and apostles have spoken often and clearly about the plague of pornography. President Gordon B. Hinckley taught: “[Pornography] is like a raging storm, destroying individuals and families, utterly ruining what was once wholesome and beautiful. … The time has come for any one of us who is so involved to pull himself out of the mire.”<a class="note-ref" href="#note35"><sup class="marker" data-value="35"></sup></a> If you are tempted to violate the law of chastity in any form, follow Joseph of Egypt’s example, who “fled, and got him out.”<a class="note-ref" href="#note36"><sup class="marker" data-value="36"></sup></a></p>
+<span class="page-break" data-page="56"></span>
+<p data-aid="28855178" id="p21">These six fundamental principles help priesthood holders continue up the heavenly highway safely between the spiritual guardrails of personal conversion and family relationships. Young men, obeying these principles will prepare you for temple covenants, full-time missionary service, and eternal marriage. Husbands and fathers, living these principles will qualify you to preside over the home in righteousness, serving as your family’s spiritual leader, with your wife as an equal partner.<a class="note-ref" href="#note37"><sup class="marker" data-value="37"></sup></a> The priesthood path is a journey filled with joy.</p>
+</section>
+<section>
+<header>
+<h2 data-aid="28855179" id="title5">Staying on the Priesthood Path</h2>
+</header>
+<p data-aid="28855180" id="p22">Returning to my experiences as a young man, I remember one crossing of the Rocky Mountains. After passing a “Beware: Falling Rocks” sign, my father noticed pebbles and small stones landing on the pavement in front of us. He quickly slowed the car to a near stop just as a basketball-sized boulder whizzed by us. Dad waited for the rock slide to cease before continuing. My father’s constant attention and immediate action ensured that our family safely reached our final destination.</p>
+<p data-aid="28855181" id="p23">Brethren, Satan seeks “to destroy the souls of men.”<a class="note-ref" href="#note38"><sup class="marker" data-value="38"></sup></a> If your soul is drifting to the edge of a spiritual cliff, stop now before you fall and steer back on course.<a class="note-ref" href="#note39"><sup class="marker" data-value="39"></sup></a> If you feel your soul lies wrecked at the bottom of a canyon rather than high on the priesthood path because you neglected “Beware” signs and sinned, I testify that through sincere repentance and the power of Jesus Christ’s atoning sacrifice, you can be lifted up and restored to God’s heavenly highway.<a class="note-ref" href="#note40"><sup class="marker" data-value="40"></sup></a></p>
+<p data-aid="28855182" id="p24">Jesus taught, “Beware ye of … hypocrisy.”<a class="note-ref" href="#note41"><sup class="marker" data-value="41"></sup></a> If you are unworthy to exercise the priesthood, please meet with your bishop, who can help you repent. Take courage that although the Savior affirms, “Beware … , and refrain from sin,”<a class="note-ref" href="#note42"><sup class="marker" data-value="42"></sup></a> He also promises: “I, the Lord, forgive you. … Go your ways and sin no more.”<a class="note-ref" href="#note43"><sup class="marker" data-value="43"></sup></a></p>
+<p data-aid="28855183" id="p25">I invite every boy and man to stay on the priesthood path by deepening your conversion and strengthening your family. Prayers, scriptures, and ordinances deepen conversion. Love, tithing, and chastity strengthen family. Avoid tragedy by heeding spiritual “Beware” signs placed along our way by God and prophets. Strive to follow the perfect example of Jesus Christ, who “suffered temptations but gave no heed unto them.”<a class="note-ref" href="#note44"><sup class="marker" data-value="44"></sup></a></p>
+<p data-aid="28855184" id="p26">I promise that if men keep the priesthood covenant to “beware concerning yourselves,”<a class="note-ref" href="#note45"><sup class="marker" data-value="45"></sup></a> we and our families can be assured of safely and joyfully reaching our exalted destination in the celestial kingdom. I so testify in the sacred name of Jesus Christ, amen.</p>
+</section>
+</div>
+<footer class="notes">
+<p class="title" data-aid="28855185" id="notetitle1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="28855186" id="note1_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/84?lang=eng&amp;id=p33-p44#p33">Doctrine and Covenants 84:33–44</a>.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="28855187" id="note2_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/84?lang=eng&amp;id=p38#p38">Doctrine and Covenants 84:38</a>.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="28855188" id="note3_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/84?lang=eng&amp;id=p43#p43">Doctrine and Covenants 84:43</a>.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="28855189" id="note4_p1">See <a class="scripture-ref" href="/study/scriptures/pgp/js-h/1?lang=eng&amp;id=p16#p16">Joseph Smith—History 1:16</a>; see also <a class="scripture-ref" href="/study/scriptures/pgp/moses/1?lang=eng&amp;id=p12-p22#p12">Moses 1:12–22</a>.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="28855190" id="note5_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/hel/5?lang=eng&amp;id=p12#p12">Helaman 5:12</a>; see also <a class="scripture-ref" href="/study/scriptures/bofm/2-ne/1?lang=eng&amp;id=p13#p13">2 Nephi 1:13</a>; <a class="scripture-ref" href="/study/scriptures/bofm/hel/7?lang=eng&amp;id=p16#p16">Helaman 7:16</a>.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="28855191" id="note6_p1"><a class="scripture-ref" href="/study/scriptures/bofm/mosiah/3?lang=eng&amp;id=p19#p19">Mosiah 3:19</a>; see also <a class="scripture-ref" href="/study/scriptures/nt/1-cor/2?lang=eng&amp;id=p14#p14">1 Corinthians 2:14</a>.</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="28855192" id="note7_p1">“Come, Thou Fount of Every Blessing,” <em>Hymns</em> (1948), no. 70.</p>
+</li>
+<li data-marker="8." id="note8" data-full-marker="8.">
+<p data-aid="28855193" id="note8_p1">See <a class="scripture-ref" href="/study/scriptures/nt/col/3?lang=eng&amp;id=p8-p10#p8">Colossians 3:8–10</a>; see also <a class="scripture-ref" href="/study/scriptures/nt/eph/4?lang=eng&amp;id=p22-p24#p22">Ephesians 4:22–24</a>.</p>
+</li>
+<li data-marker="9." id="note9" data-full-marker="9.">
+<p data-aid="28855194" id="note9_p1"><a class="scripture-ref" href="/study/scriptures/nt/gal/3?lang=eng&amp;id=p27#p27">Galatians 3:27</a>; see also <a class="scripture-ref" href="/study/scriptures/nt/rom/13?lang=eng&amp;id=p14#p14">Romans 13:14</a>.</p>
+</li>
+<li data-marker="10." id="note10" data-full-marker="10.">
+<p data-aid="28855195" id="note10_p1">See <a class="scripture-ref" href="/study/scriptures/ot/1-sam/13?lang=eng&amp;id=p14#p14">1 Samuel 13:14</a>; <a class="scripture-ref" href="/study/scriptures/ot/1-sam/17?lang=eng&amp;id=p45-p47#p45">17:45–47</a>.</p>
+</li>
+<li data-marker="11." id="note11" data-full-marker="11.">
+<p data-aid="28855196" id="note11_p1">See <a class="scripture-ref" href="/study/scriptures/ot/2-sam/11?lang=eng&amp;id=p1-p17#p1">2 Samuel 11:1–17</a>.</p>
+</li>
+<li data-marker="12." id="note12" data-full-marker="12.">
+<p data-aid="28855197" id="note12_p1">“You will not make a major mistake without first being warned by the promptings of the Spirit” (Boyd K. Packer, “Counsel to Youth,” <em>Liahona</em> and <em>Ensign,</em> Nov. 2011, 18).</p>
+</li>
+<li data-marker="13." id="note13" data-full-marker="13.">
+<p data-aid="28855198" id="note13_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/132?lang=eng&amp;id=p39#p39">Doctrine and Covenants 132:39</a>; see also Bible Dictionary, “<a class="scripture-ref" href="/study/scriptures/bd/david?lang=eng">David</a>.”</p>
+</li>
+<li data-marker="14." id="note14" data-full-marker="14.">
+<p data-aid="28855199" id="note14_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/23?lang=eng&amp;id=p1#p1">Doctrine and Covenants 23:1</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/25?lang=eng&amp;id=p14#p14">25:14</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/38?lang=eng&amp;id=p39#p39">38:39</a>; see also Ezra Taft Benson, “<a class="cross-ref" href="/study/general-conference/1989/04/beware-of-pride?lang=eng">Beware of Pride</a>,” <em>Ensign,</em> May 1989, 4–7.</p>
+</li>
+<li data-marker="15." id="note15" data-full-marker="15.">
+<p data-aid="28855200" id="note15_p1"><a class="scripture-ref" href="/study/scriptures/ot/deut/6?lang=eng&amp;id=p12#p12">Deuteronomy 6:12</a>; see also <a class="scripture-ref" href="/study/scriptures/ot/deut/8?lang=eng&amp;id=p11-p19#p11">Deuteronomy 8:11–19</a>.</p>
+</li>
+<li data-marker="16." id="note16" data-full-marker="16.">
+<p data-aid="28855201" id="note16_p1"><a class="scripture-ref" href="/study/scriptures/bofm/alma/46?lang=eng&amp;id=p8#p8">Alma 46:8</a>.</p>
+</li>
+<li data-marker="17." id="note17" data-full-marker="17.">
+<p data-aid="28855202" id="note17_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/10?lang=eng&amp;id=p5#p5">Doctrine and Covenants 10:5</a>.</p>
+</li>
+<li data-marker="18." id="note18" data-full-marker="18.">
+<p data-aid="28855203" id="note18_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/52?lang=eng&amp;id=p12-p15#p12">Doctrine and Covenants 52:12–15</a>; see also <a class="scripture-ref" href="/study/scriptures/nt/luke/22?lang=eng&amp;id=p31-p32#p31">Luke 22:31–32</a>; <a class="scripture-ref" href="/study/scriptures/bofm/alma/37?lang=eng&amp;id=p15-p17#p15">Alma 37:15–17</a>; <a class="scripture-ref" href="/study/scriptures/bofm/3-ne/18?lang=eng&amp;id=p18-p19#p18">3 Nephi 18:18–19</a>.</p>
+</li>
+<li data-marker="19." id="note19" data-full-marker="19.">
+<p data-aid="28855204" id="note19_p1">Thomas S. Monson, “Come unto Him in Prayer and Faith,” <em>Liahona,</em> Mar. 2009, 4; <em>Ensign,</em> Mar. 2009, 6.</p>
+</li>
+<li data-marker="20." id="note20" data-full-marker="20.">
+<p data-aid="28855205" id="note20_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/90?lang=eng&amp;id=p5#p5">Doctrine and Covenants 90:5</a>; see also <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/41?lang=eng&amp;id=p1%2Cp12#p1">Doctrine and Covenants 41:1, 12</a>.</p>
+</li>
+<li data-marker="21." id="note21" data-full-marker="21.">
+<p data-aid="28855206" id="note21_p1">Gordon B. Hinckley, “Faith: The Essence of True Religion,” <em>Ensign,</em> Nov. 1981, 5.</p>
+</li>
+<li data-marker="22." id="note22" data-full-marker="22.">
+<p data-aid="28855207" id="note22_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/45?lang=eng&amp;id=p57#p57">Doctrine and Covenants 45:57</a>.</p>
+</li>
+<li data-marker="23." id="note23" data-full-marker="23.">
+<p data-aid="28855208" id="note23_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/46?lang=eng&amp;id=p8#p8">Doctrine and Covenants 46:8</a>; see also <a class="scripture-ref" href="/study/scriptures/nt/eph/4?lang=eng&amp;id=p14#p14">Ephesians 4:14</a>; <a class="scripture-ref" href="/study/scriptures/nt/col/2?lang=eng&amp;id=p8#p8">Colossians 2:8</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/52?lang=eng&amp;id=p14-p16#p14">Doctrine and Covenants 52:14–16</a>.</p>
+</li>
+<li data-marker="24." id="note24" data-full-marker="24.">
+<p data-aid="28855209" id="note24_p1"><a class="scripture-ref" href="/study/scriptures/bofm/moro/4?lang=eng&amp;id=p3#p3">Moroni 4:3</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/20?lang=eng&amp;id=p77#p77">Doctrine and Covenants 20:77</a>; see also <a class="scripture-ref" href="/study/scriptures/bofm/3-ne/18?lang=eng&amp;id=p1-p11#p1">3 Nephi 18:1–11</a>.</p>
+</li>
+<li data-marker="25." id="note25" data-full-marker="25.">
+<p data-aid="28855210" id="note25_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/109?lang=eng&amp;id=p15#p15">Doctrine and Covenants 109:15</a>.</p>
+</li>
+<li data-marker="26." id="note26" data-full-marker="26.">
+<p data-aid="28855211" id="note26_p1"><a class="scripture-ref" href="/study/scriptures/bofm/mosiah/2?lang=eng&amp;id=p32#p32">Mosiah 2:32</a>.</p>
+</li>
+<li data-marker="27." id="note27" data-full-marker="27.">
+<p data-aid="28855212" id="note27_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/3-ne/11?lang=eng&amp;id=p29-p30#p29">3 Nephi 11:29–30</a>.</p>
+</li>
+<li data-marker="28." id="note28" data-full-marker="28.">
+<p data-aid="28855213" id="note28_p1"><a class="scripture-ref" href="/study/scriptures/bofm/mosiah/4?lang=eng&amp;id=p14#p14">Mosiah 4:14</a>.</p>
+</li>
+<li data-marker="29." id="note29" data-full-marker="29.">
+<p data-aid="28855214" id="note29_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/121?lang=eng&amp;id=p36-p37#p36">Doctrine and Covenants 121:36–37</a>; see also <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/63?lang=eng&amp;id=p61-p63#p61">Doctrine and Covenants 63:61–63</a>.</p>
+</li>
+<li data-marker="30." id="note30" data-full-marker="30.">
+<p data-aid="28855215" id="note30_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/121?lang=eng&amp;id=p41-p45#p41">Doctrine and Covenants 121:41–45</a>.</p>
+</li>
+<li data-marker="31." id="note31" data-full-marker="31.">
+<p data-aid="28855216" id="note31_p1"><a class="scripture-ref" href="/study/scriptures/nt/luke/12?lang=eng&amp;id=p15#p15">Luke 12:15</a>; see also <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/38?lang=eng&amp;id=p39#p39">Doctrine and Covenants 38:39</a>.</p>
+</li>
+<li data-marker="32." id="note32" data-full-marker="32.">
+<p data-aid="28855217" id="note32_p1"><a class="scripture-ref" href="/study/scriptures/nt/matt/6?lang=eng&amp;id=p33#p33">Matthew 6:33</a>; see also <a class="scripture-ref" href="/study/scriptures/bofm/3-ne/13?lang=eng&amp;id=p33#p33">3 Nephi 13:33</a>.</p>
+</li>
+<li data-marker="33." id="note33" data-full-marker="33.">
+<p data-aid="28855218" id="note33_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/121?lang=eng&amp;id=p45-p46#p45">Doctrine and Covenants 121:45–46</a>; see also <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/67?lang=eng&amp;id=p11#p11">Doctrine and Covenants 67:11</a>; <a class="scripture-ref" href="/study/scriptures/pgp/moses/1?lang=eng&amp;id=p11#p11">Moses 1:11</a>.</p>
+</li>
+<li data-marker="34." id="note34" data-full-marker="34.">
+<p data-aid="28855219" id="note34_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/63?lang=eng&amp;id=p14-p16#p14">Doctrine and Covenants 63:14–16</a>; see also <a class="scripture-ref" href="/study/scriptures/nt/matt/5?lang=eng&amp;id=p27-p28#p27">Matthew 5:27–28</a>; <a class="scripture-ref" href="/study/scriptures/bofm/3-ne/12?lang=eng&amp;id=p27-p30#p27">3 Nephi 12:27–30</a>.</p>
+</li>
+<li data-marker="35." id="note35" data-full-marker="35.">
+<p data-aid="28855220" id="note35_p1">Gordon B. Hinckley, “A Tragic Evil among Us,” <em>Liahona</em> and <em>Ensign,</em> Nov. 2004, 59, 62; see also Dallin H. Oaks, “<a class="cross-ref" href="/study/general-conference/2005/04/pornography?lang=eng">Pornography</a>,” <em>Liahona</em> and <em>Ensign,</em> May 2005, 87–90; Jeffrey R. Holland, “<a class="cross-ref" href="/study/general-conference/2010/04/place-no-more-for-the-enemy-of-my-soul?lang=eng">Place No More for the Enemy of My Soul</a>,” <em>Liahona</em> and <em>Ensign,</em> May 2010, 44–46.</p>
+</li>
+<li data-marker="36." id="note36" data-full-marker="36.">
+<p data-aid="28855221" id="note36_p1"><a class="scripture-ref" href="/study/scriptures/ot/gen/39?lang=eng&amp;id=p12#p12">Genesis 39:12</a>.</p>
+</li>
+<li data-marker="37." id="note37" data-full-marker="37.">
+<p data-aid="28855222" id="note37_p1">See <em>Handbook 2: Administering the Church</em> (2010), 2.3.</p>
+</li>
+<li data-marker="38." id="note38" data-full-marker="38.">
+<p data-aid="28855223" id="note38_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/10?lang=eng&amp;id=p27#p27">Doctrine and Covenants 10:27</a>; see also <a class="scripture-ref" href="/study/scriptures/nt/1-pet/5?lang=eng&amp;id=p8#p8">1 Peter 5:8</a>.</p>
+</li>
+<li data-marker="39." id="note39" data-full-marker="39.">
+<p data-aid="28855224" id="note39_p1">See <a class="scripture-ref" href="/study/scriptures/nt/1-cor/10?lang=eng&amp;id=p12-p13#p12">1 Corinthians 10:12–13</a>; <a class="scripture-ref" href="/study/scriptures/nt/2-pet/3?lang=eng&amp;id=p17#p17">2 Peter 3:17</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/3?lang=eng&amp;id=p9-p10#p9">Doctrine and Covenants 3:9–10</a>.</p>
+</li>
+<li data-marker="40." id="note40" data-full-marker="40.">
+<p data-aid="28855225" id="note40_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/alma/13?lang=eng&amp;id=p27-p29#p27">Alma 13:27–29</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/109?lang=eng&amp;id=p21#p21">Doctrine and Covenants 109:21</a>.</p>
+</li>
+<li data-marker="41." id="note41" data-full-marker="41.">
+<p data-aid="28855226" id="note41_p1"><a class="scripture-ref" href="/study/scriptures/nt/luke/12?lang=eng&amp;id=p1#p1">Luke 12:1</a>; see also <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/50?lang=eng&amp;id=p6-p9#p6">Doctrine and Covenants 50:6–9</a>.</p>
+</li>
+<li data-marker="42." id="note42" data-full-marker="42.">
+<p data-aid="28855227" id="note42_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/82?lang=eng&amp;id=p2#p2">Doctrine and Covenants 82:2</a>.</p>
+</li>
+<li data-marker="43." id="note43" data-full-marker="43.">
+<p data-aid="28855228" id="note43_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/82?lang=eng&amp;id=p1%2Cp7#p1">Doctrine and Covenants 82:1, 7</a>.</p>
+</li>
+<li data-marker="44." id="note44" data-full-marker="44.">
+<p data-aid="28855229" id="note44_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/20?lang=eng&amp;id=p22#p22">Doctrine and Covenants 20:22</a>; see also <a class="scripture-ref" href="/study/scriptures/nt/heb/2?lang=eng&amp;id=p17-p18#p17">Hebrews 2:17–18</a>; <a class="scripture-ref" href="/study/scriptures/nt/heb/4?lang=eng&amp;id=p14-p16#p14">4:14–16</a>.</p>
+</li>
+<li data-marker="45." id="note45" data-full-marker="45.">
+<p data-aid="28855230" id="note45_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/84?lang=eng&amp;id=p43#p43">Doctrine and Covenants 84:43</a>; see also <a class="scripture-ref" href="/study/scriptures/ot/deut/4?lang=eng&amp;id=p9#p9">Deuteronomy 4:9</a>; <a class="scripture-ref" href="/study/scriptures/bofm/mosiah/4?lang=eng&amp;id=p29-p30#p29">Mosiah 4:29–30</a>.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/2012/10/beware-concerning-yourselves</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/october-2012-general-conference/2012-10-3030-elder-anthony-d-perkins-64k-eng.mp3" length="5376612" type="audio/mpeg"/>
-      <pubDate>Sat, 06 Oct 2012 18:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/4d902f2532ca11ec8193eeeeac1ebf62338bf967-64k-en.mp3" length="5627941" type="audio/mpeg"/>
+      <pubDate>Sat, 06 Oct 2012 18:00:00 -0600</pubDate>
+      <itunes:author>Anthony D. Perkins</itunes:author>
+    </item>
+    <item>
+      <title>Remember Thy Suffering Saints, O Our God</title>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2021/10/53perkins?lang=eng</link>
+      <description>Elder Perkins shares four principles to help those who suffer find hope and joy in Jesus Christ.</description>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="103"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/80ad0b7c826e748bd55935164dc20a7f40239e08/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/80ad0b7c826e748bd55935164dc20a7f40239e08/full/%21192%2C/0/default" data-video-title="Remember Thy Suffering Saints, O Our God" data-video-description="Elder Perkins shares four principles to help those who suffer find hope and joy in Jesus Christ." data-video-id="6275398859001" data-ip="Download and Streaming                            " data-duration="617000" data-assetId="a3ab2b46249211ec9b75eeeeac1e708d8fdb4ac1" data-ref-id="52F11EFCDF88CBE532A69D66E32260D881483C8E" data-duration-string="10:17" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6275398859001.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="125539458"/><source src="https://assets.churchofjesuschrist.org/a3ab2b46249211ec9b75eeeeac1e708d8fdb4ac1-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="29181747"/><source src="https://assets.churchofjesuschrist.org/a3ab2b46249211ec9b75eeeeac1e708d8fdb4ac1-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="52123719"/><source src="https://assets.churchofjesuschrist.org/a3ab2b46249211ec9b75eeeeac1e708d8fdb4ac1-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="125539458"/></video><h1 data-aid="147979176" id="title1">Remember Thy Suffering Saints, O Our God</h1>
+<div class="byline">
+<p class="author-name" data-aid="147979181" id="author1">By Elder Anthony D. Perkins</p>
+<p class="author-role" data-aid="147979186" id="author2">Of the Seventy</p>
+</div>
+<p class="kicker" data-aid="147979191" id="kicker1">Keeping covenants unlocks the power of Jesus Christ’s atoning sacrifice to provide strength and even joy to you who suffer.</p>
+</header>
+<div class="body-block">
+<p data-aid="147979196" id="p1">Heavenly Father’s plan of happiness includes a mortal experience where all of His children will be tested and face trials.<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a> Five years ago I was diagnosed with cancer. I have felt and still feel the physical pains from surgeries, radiation treatments, and medication side effects. I have experienced emotional struggles during torturous sleepless nights. Medical statistics indicate I will probably depart mortality earlier than I ever expected, leaving behind, for a season, a family who means everything to me.</p>
+<p data-aid="147979201" id="p2">Regardless of where you live, physical or emotional suffering from a variety of trials and mortal weaknesses has been, is now, or will someday be part of your life.</p>
+<p data-aid="147979206" id="p3">Physical suffering can result from natural aging, unexpected diseases, and random accidents; hunger or homelessness; or abuse, violent acts, and war.</p>
+<p data-aid="147979211" id="p4">Emotional suffering can arise from anxiety or depression; the betrayal of a spouse, parent, or trusted leader; employment or financial reversals; unfair judgment by others; the choices of friends, children, or other family members; abuse in its many forms; unfulfilled dreams of marriage or children; the severe illness or early death of loved ones; or so many other sources.</p>
+<p data-aid="147979216" id="p5">How can you possibly endure the unique and sometimes debilitating suffering that comes to each of us?</p>
+<p data-aid="147979222" id="p6">Gratefully, hope is found in the gospel of Jesus Christ, and hope can also be part of your life. Today I share four principles of hope drawn from scripture, prophetic teachings, many ministering visits, and my own ongoing health trial. These principles are not just broadly applicable but also deeply personal.</p>
+<p data-aid="147979228" id="p7"><strong>First, suffering does not mean God is displeased with your life.</strong> Two thousand years ago, Jesus’s disciples saw a blind man at the temple and asked, “Master, who did sin, this man, or his parents, that he was born blind?”</p>
+<p data-aid="147979234" id="p8">His disciples seemed to incorrectly believe, as do far too many people today, that all hardship and suffering in life are the result of sin. But the Savior replied, “Neither hath this man sinned, nor his parents: but that the works of God should be made manifest in him.”<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a></p>
+<p data-aid="147979239" id="p9">The work of God is to bring to pass our immortality and eternal life.<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a> But how can trials and suffering—especially suffering imposed by another person’s sinful use of agency<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a>—ultimately advance God’s work?</p>
+<p data-aid="147979245" id="p10">The Lord told His covenant people, “I have refined thee … ; I have chosen thee in the furnace of affliction.”<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a> Whatever the cause of your sufferings, your loving Heavenly Father <span class="page-break" data-page="104"></span>can direct them to refine your soul.<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a> Refined souls can bear others’ burdens with true empathy and compassion.<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a> Refined souls who have come “out of great tribulation” are prepared to joyfully live in God’s presence forever, and “God shall wipe away all tears from their eyes.”<a class="note-ref" href="#note8"><sup class="marker" data-value="8"></sup></a></p>
+<p data-aid="147979251" id="p11"><strong>Second, Heavenly Father is intimately aware of your suffering.</strong> While in the midst of trials, we can mistakenly think that God is far away and unconcerned with our pain. Even the Prophet Joseph Smith expressed this feeling at a low point in his life. When imprisoned in Liberty Jail while thousands of Latter-day Saints were being driven from their homes, Joseph sought understanding through prayer: “O God, where art thou? And where is the pavilion that covereth thy hiding place?” He ended with this plea: “Remember thy suffering saints, O our God.”<a class="note-ref" href="#note9"><sup class="marker" data-value="9"></sup></a></p>
+<p data-aid="147979258" id="p12">The Lord’s answer reassured Joseph and all who suffer:</p>
+<p data-aid="147979265" id="p27">“My son, peace be unto thy soul; thine adversity and thine afflictions shall be but a small moment;</p>
+<p data-aid="147979272" id="p28">“And then, if thou endure it well, God shall exalt thee on high.”<a class="note-ref" href="#note10"><sup class="marker" data-value="10"></sup></a></p>
+<p data-aid="147979280" id="p13">Many suffering Saints have shared with me how they felt God’s love during their trials. I vividly recall my own experience at one point in my cancer battle when the doctors had not yet diagnosed the cause of some severe pain. I sat with my wife, intending to offer a routine blessing on our lunch. Instead, all I could do was simply weep, “Heavenly Father, please help me. I am so sick.” For the next 20 to 30 seconds, I was encircled in His love. I was given no reason for my illness, no indication of the ultimate outcome, and no relief from the pain. I just felt of His pure love, and that was and is enough.</p>
+<p data-aid="147979287" id="p14">I witness that our Heavenly Father, who notes the fall of even a single sparrow, is aware of your suffering.<a class="note-ref" href="#note11"><sup class="marker" data-value="11"></sup></a></p>
+<p data-aid="147979294" id="p15"><strong>Third, Jesus Christ offers His enabling power to help you have strength to endure your suffering well.</strong> This enabling power is made possible through His Atonement.<a class="note-ref" href="#note12"><sup class="marker" data-value="12"></sup></a> I fear that too many Church members think if they are just a little tougher, they can get through any suffering on their own. This is a hard way to live. Your temporary moment of strength can never compare to the Savior’s infinite supply of power to fortify your soul.<a class="note-ref" href="#note13"><sup class="marker" data-value="13"></sup></a></p>
+<p data-aid="147979301" id="p16">The Book of Mormon teaches that Jesus Christ would “take upon him” our pains, sicknesses, and infirmities so He can succor us.<a class="note-ref" href="#note14"><sup class="marker" data-value="14"></sup></a> How can you draw upon the power that Jesus Christ offers to succor you and strengthen you in times of suffering? The key is binding yourself to the Savior by keeping the covenants you have made with Him. We make these covenants as we receive priesthood ordinances.<a class="note-ref" href="#note15"><sup class="marker" data-value="15"></sup></a></p>
+<p data-aid="147979308" id="p17">The people of Alma entered into the covenant of baptism. Later they suffered in bondage and were forbidden to worship publicly or even pray aloud. Yet they kept their covenants the best they could by crying out silently in their hearts. As a result, divine power came. “The Lord did strengthen them that they could bear up their burdens with ease.”<a class="note-ref" href="#note16"><sup class="marker" data-value="16"></sup></a></p>
+<p data-aid="147979315" id="p18">In our day, the Savior invites, “Look unto me in every thought; doubt not, fear not.”<a class="note-ref" href="#note17"><sup class="marker" data-value="17"></sup></a> When we keep our sacrament covenant to always remember Him, He promises that His Spirit will be with us. The Spirit gives us strength to endure trials and do what we cannot possibly do on our own. The Spirit can heal us, although as President James E. Faust taught, “Some of the healing may take place in another world.”<a class="note-ref" href="#note18"><sup class="marker" data-value="18"></sup></a></p>
+<p data-aid="147979322" id="p19">We are also blessed by temple covenants and ordinances, where “the power of godliness is manifest.”<a class="note-ref" href="#note19"><sup class="marker" data-value="19"></sup></a> I visited a woman who had lost a teenage daughter in a terrible accident, then later her husband to cancer. I asked how she could endure such loss and suffering. She replied that strength came from spiritual reassurances of an eternal family, received during regular temple worship. As promised, the ordinances of the Lord’s house had armed her with God’s power.<a class="note-ref" href="#note20"><sup class="marker" data-value="20"></sup></a></p>
+<p data-aid="147979329" id="p20"><strong>Fourth, choose to find joy each day.</strong> Those who suffer often feel that the night just goes on and on, and daylight will never come. It is OK to weep.<a class="note-ref" href="#note21"><sup class="marker" data-value="21"></sup></a> Yet, if you find yourself in dark nights of suffering, by choosing faith you can awake to bright mornings of rejoicing.<a class="note-ref" href="#note22"><sup class="marker" data-value="22"></sup></a></p>
+<p data-aid="147979336" id="p21">For example, I visited a young mother being treated for cancer, smiling majestically in her chair despite the pain and a lack of hair. I met a middle-aged couple happily serving as youth leaders though they were unable to conceive children. <span class="page-break" data-page="105"></span>I sat with a dear woman—a young grandmother, mother, and wife—who would pass away within days, yet amid the family’s tears were laughter and joyful recollections.</p>
+<p data-aid="147979343" id="p22">These suffering Saints exemplify what President Russell M. Nelson has taught:</p>
+<p data-aid="147979350" id="p25">“The joy we feel has little to do with the circumstances of our lives and everything to do with the focus of our lives.</p>
+<p data-aid="147979357" id="p26">“When the focus of our lives is on God’s plan of salvation … and Jesus Christ and His gospel, we can feel joy regardless of what is happening—or not happening—in our lives.”<a class="note-ref" href="#note23"><sup class="marker" data-value="23"></sup></a></p>
+<p data-aid="147979363" id="p23">I testify<a class="note-ref" href="#note24"><sup class="marker" data-value="24"></sup></a> that our Heavenly Father remembers His suffering Saints, loves you, and is intimately aware of you. Our Savior knows how you feel. “Surely he has borne our griefs, and carried our sorrows.”<a class="note-ref" href="#note25"><sup class="marker" data-value="25"></sup></a> I know—as a daily recipient<a class="note-ref" href="#note26"><sup class="marker" data-value="26"></sup></a>—that keeping covenants unlocks the power of Jesus Christ’s atoning sacrifice to provide strength and even joy to you who suffer.</p>
+<p data-aid="147979368" id="p24">For all who suffer, I pray, “May God grant unto you that your burdens may be light, through the joy of his Son.”<a class="note-ref" href="#note27"><sup class="marker" data-value="27"></sup></a> In the name of Jesus Christ, amen.</p>
+</div>
+<footer class="notes">
+<p class="title" data-aid="147979375" id="note_title1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="147979382" id="note1_p1">See <a class="scripture-ref" href="/study/scriptures/nt/1-pet/4?lang=eng&amp;id=p12-p13#p12">1 Peter 4:12–13</a>.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="147979387" id="note2_p1">See <a class="scripture-ref" href="/study/scriptures/nt/john/9?lang=eng&amp;id=p1-p3#p1">John 9:1–3</a>.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="147979393" id="note3_p1">See <a class="scripture-ref" href="/study/scriptures/pgp/moses/1?lang=eng&amp;id=p39#p39">Moses 1:39</a>.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="147979399" id="note4_p1">Sinful uses of agency that cause suffering to others are too many to list but surely include a spouse who commits adultery, a person who abuses a child or an adult, a drunk driver who injures or kills a loved one, or a mass shooter or a terrorist bomber who maims or kills many.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="147979405" id="note5_p1"><a class="scripture-ref" href="/study/scriptures/ot/isa/48?lang=eng&amp;id=p10#p10">Isaiah 48:10</a>; see also <a class="scripture-ref" href="/study/scriptures/ot/zech/13?lang=eng&amp;id=p9#p9">Zechariah 13:9</a>.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="147979409" id="note6_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/2-ne/2?lang=eng&amp;id=p1-p2#p1">2 Nephi 2:1–2</a>.</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="147979416" id="note7_p1">Elder Robert D. Hales taught: “We must develop the ability to have a concern for others while we are suffering. It is a key element in our spiritual growth. As we lose our lives in the service of our fellowmen, we find ourselves” (“<a class="cross-ref" href="/study/general-conference/1983/10/your-sorrow-shall-be-turned-to-joy?lang=eng">Your Sorrow Shall Be Turned to Joy</a>,” <cite>Ensign</cite>, Nov. 1983, 66).</p>
+</li>
+<li data-marker="8." id="note8" data-full-marker="8.">
+<p data-aid="147979422" id="note8_p1">See <a class="scripture-ref" href="/study/scriptures/nt/rev/7?lang=eng&amp;id=p13-p17#p13">Revelation 7:13–17</a>; <a class="scripture-ref" href="/study/scriptures/nt/rev/21?lang=eng&amp;id=p3-p4#p3">21:3–4</a>.</p>
+</li>
+<li data-marker="9." id="note9" data-full-marker="9.">
+<p data-aid="147979430" id="note9_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/121?lang=eng&amp;id=p1%2C6#p1">Doctrine and Covenants 121:1, 6</a>.</p>
+</li>
+<li data-marker="10." id="note10" data-full-marker="10.">
+<p data-aid="147979434" id="note10_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/121?lang=eng&amp;id=p7-p8#p7">Doctrine and Covenants 121:7–8</a>.</p>
+</li>
+<li data-marker="11." id="note11" data-full-marker="11.">
+<p data-aid="147979442" id="note11_p1">See <a class="scripture-ref" href="/study/scriptures/nt/matt/10?lang=eng&amp;id=p29-p31#p29">Matthew 10:29–31</a>.</p>
+</li>
+<li data-marker="12." id="note12" data-full-marker="12.">
+<p data-aid="147979445" id="note12_p1">See Bible Dictionary, “<a class="scripture-ref" href="/study/scriptures/bd/grace?lang=eng">Grace</a>.”</p>
+</li>
+<li data-marker="13." id="note13" data-full-marker="13.">
+<p data-aid="147979452" id="note13_p1">See <a class="scripture-ref" href="/study/scriptures/nt/philip/4?lang=eng&amp;id=p13%2C19#p13">Philippians 4:13, 19</a>; <a class="scripture-ref" href="/study/scriptures/bofm/alma/26?lang=eng&amp;id=p12#p12">Alma 26:12</a>; see also <a class="scripture-ref" href="/study/scriptures/ot/2-chr/32?lang=eng&amp;id=p7-p8#p7">2 Chronicles 32:7–8</a>.</p>
+</li>
+<li data-marker="14." id="note14" data-full-marker="14.">
+<p data-aid="147979456" id="note14_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/alma/7?lang=eng&amp;id=p11-p13#p11">Alma 7:11–13</a>; see also <a class="scripture-ref" href="/study/scriptures/bofm/2-ne/9?lang=eng&amp;id=p21#p21">2 Nephi 9:21</a>.</p>
+</li>
+<li data-marker="15." id="note15" data-full-marker="15.">
+<p data-aid="147979457" id="note15_p1">See <cite>General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints</cite>, <a class="cross-ref" href="/study/manual/general-handbook/3-priesthood-principles?lang=eng&amp;id=title_number16#title_number16">3.5</a>, ChurchofJesusChrist.org.</p>
+</li>
+<li data-marker="16." id="note16" data-full-marker="16.">
+<p data-aid="147979460" id="note16_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/mosiah/24?lang=eng&amp;id=p13-p15#p13">Mosiah 24:13–15</a>.</p>
+</li>
+<li data-marker="17." id="note17" data-full-marker="17.">
+<p data-aid="147979461" id="note17_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/6?lang=eng&amp;id=p36#p36">Doctrine and Covenants 6:36</a>.</p>
+</li>
+<li data-marker="18." id="note18" data-full-marker="18.">
+<p data-aid="147980466" id="note18_p1">James E. Faust, “<a class="cross-ref" href="/study/general-conference/2004/10/where-do-i-make-my-stand?lang=eng">Where Do I Make My Stand?</a>,” <cite>Ensign</cite> or <cite>Liahona</cite>, Nov. 2004, 21.</p>
+</li>
+<li data-marker="19." id="note19" data-full-marker="19.">
+<p data-aid="147980470" id="note19_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/84?lang=eng&amp;id=p20#p20">Doctrine and Covenants 84:20</a>.</p>
+</li>
+<li data-marker="20." id="note20" data-full-marker="20.">
+<p data-aid="147980473" id="note20_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/109?lang=eng&amp;id=p22#p22">Doctrine and Covenants 109:22</a>; see also <a class="scripture-ref" href="/study/scriptures/bofm/1-ne/14?lang=eng&amp;id=p14#p14">1 Nephi 14:14</a>.</p>
+</li>
+<li data-marker="21." id="note21" data-full-marker="21.">
+<p data-aid="147980474" id="note21_p1">See <a class="scripture-ref" href="/study/scriptures/nt/john/11?lang=eng&amp;id=p35#p35">John 11:35</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/42?lang=eng&amp;id=p45#p45">Doctrine and Covenants 42:45</a>.</p>
+</li>
+<li data-marker="22." id="note22" data-full-marker="22.">
+<p data-aid="147980478" id="note22_p1">This idea is inspired by Elder Joseph B. Wirthlin’s message “<a class="cross-ref" href="/study/general-conference/2006/10/sunday-will-come?lang=eng">Sunday Will Come</a>,” <cite>Ensign</cite> or <cite>Liahona</cite>, Nov. 2006, 28–30. See also <a class="scripture-ref" href="/study/scriptures/nt/james/1?lang=eng&amp;id=p2-p4#p2">James 1:2–4</a> (including the Joseph Smith Translation in footnote 2<em>a</em>); <a class="scripture-ref" href="/study/scriptures/nt/james/5?lang=eng&amp;id=p10-p11#p10">5:10–11</a>.</p>
+</li>
+<li data-marker="23." id="note23" data-full-marker="23.">
+<p data-aid="147980481" id="note23_p1">Russell M. Nelson, “<a class="cross-ref" href="/study/general-conference/2016/10/joy-and-spiritual-survival?lang=eng">Joy and Spiritual Survival</a>,” <cite>Ensign</cite> or <cite>Liahona</cite>, Nov. 2016, 82.</p>
+</li>
+<li data-marker="24." id="note24" data-full-marker="24.">
+<p data-aid="147980486" id="note24_p1">Twenty years ago, the Apostle Elder Neal A. Maxwell was pondering his painful and ultimately life-ending illness. The Spirit whispered, “I have given you leukemia that you might teach my people with authenticity” (see Bruce C. Hafen, <cite>A Disciple’s Life: The Biography of Neal A. Maxwell</cite> [2002], 562).</p>
+</li>
+<li data-marker="25." id="note25" data-full-marker="25.">
+<p data-aid="147980487" id="note25_p1"><a class="scripture-ref" href="/study/scriptures/bofm/mosiah/14?lang=eng&amp;id=p4#p4">Mosiah 14:4</a>; see also <a class="scripture-ref" href="/study/scriptures/ot/isa/53?lang=eng&amp;id=p4#p4">Isaiah 53:4</a>.</p>
+</li>
+<li data-marker="26." id="note26" data-full-marker="26.">
+<p data-aid="147980491" id="note26_p1">The more appropriate scriptural word for <em>recipient</em> is <em>partaker</em> (see <a class="scripture-ref" href="/study/scriptures/bofm/ether/12?lang=eng&amp;id=p6-p9#p6">Ether 12:6–9</a>).</p>
+</li>
+<li data-marker="27." id="note27" data-full-marker="27.">
+<p data-aid="147980495" id="note27_p1"><a class="scripture-ref" href="/study/scriptures/bofm/alma/33?lang=eng&amp;id=p23#p23">Alma 33:23</a>.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
+      <guid isPermaLink="false">/general-conference/2021/10/53perkins</guid>
+      <enclosure url="https://assets.churchofjesuschrist.org/83a88b8c260a11ec86faeeeeac1e09d2b74f6e33-32k-en.mp3" length="2734093" type="audio/mpeg"/>
+      <pubDate>Sun, 03 Oct 2021 14:00:00 -0600</pubDate>
+      <itunes:author>Anthony D. Perkins</itunes:author>
     </item>
   </channel>
 </rss>

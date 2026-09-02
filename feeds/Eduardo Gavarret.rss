@@ -1,214 +1,474 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Talks By Eduardo Gavarret</title>
-    <link>http://philip.lundrigan.org/Speakercast/</link>
+    <link>https://philip.lundrigan.org/Speakercast/</link>
     <description>General Conference talks by Eduardo Gavarret.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Speakercast</generator>
     <image>
-      <url>http://philip.lundrigan.org/Speakercast/covers/Eduardo%20Gavarret.jpg</url>
+      <url>https://philip.lundrigan.org/Speakercast/covers/Eduardo%20Gavarret.jpg</url>
       <title>General Conference talks by Eduardo Gavarret.</title>
-      <link>http://philip.lundrigan.org/Speakercast/</link>
+      <link>https://philip.lundrigan.org/Speakercast/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 05 Oct 2008 14:00:00 -0700</lastBuildDate>
-    <pubDate>Sun, 05 Oct 2008 14:00:00 -0700</pubDate>
+    <lastBuildDate>Sat, 02 Apr 2022 10:00:00 -0600</lastBuildDate>
+    <pubDate>Sat, 02 Apr 2022 10:00:00 -0600</pubDate>
+    <itunes:author>Eduardo Gavarret</itunes:author>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
+    <itunes:image href="https://philip.lundrigan.org/Speakercast/covers/Eduardo%20Gavarret.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>General Conference talks by Eduardo Gavarret.</itunes:summary>
     <item>
       <title>Returning Home</title>
-      <link>http://www.lds.org/general-conference/2008/10/returning-home?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2008/10/returning-home?lang=eng</link>
       <description>What a tremendous impact we can make in the lives of so many … when we accept the Savior’s invitation to feed His sheep.</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/2008/10/returning-home" schema-version="1" doc-id="general-conference_PD00009501_000_032" doc-version="2" hash="e67MmQ">
-  
-  <div class="heading" uri="/general-conference/2008/10/returning-home.head">
-    <h1 class="title" pid="UVW-SlZ8okuWwKYreiIIfA" hash="GbqTRA">Returning Home</h1>
-    <p class="authorName" pid="snNXzYJgm0yqJ2r8uO8Qmg" hash="W3x0Sg">Elder Eduardo Gavarret</p>
-    <p class="kicker" pid="8OcqKyj0xEyzHNCaCp_i5A" hash="lvYCxQ">What a tremendous impact we can make in the lives of so many … when we accept the Savior’s invitation to feed His sheep.</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/2008/10/returning-home.t1">
-      <p class="para" uri="/general-conference/2008/10/returning-home.p1" pid="Owgr5G_YAUiHZeCF3QhGYg" hash="1OEn0w">
-        <span class="pageBreak" page-number="98"></span>It gets very cold during the winter in my hometown of Minas, Uruguay. At sunset my mother used to place logs in the fireplace in order to keep our dining room warm, and one by one, my parents, sisters, and I would gather together, once our daily chores were done. That cozy room—created by the warmth of the fireplace, combined with the presence of each one of the members of the family—instilled feelings within me that I shall treasure forever.</p>
-      <p class="para" uri="/general-conference/2008/10/returning-home.p2" pid="s0CqXS1wyU-7Ds7nmpmCfw" hash="wse8Fw">After my wife and I formed our own family, wherever we were living, we all also gathered often, whether around a fireplace or simply around the warmth we always feel whenever we are reunited with our children.</p>
-      <p class="para" uri="/general-conference/2008/10/returning-home.p3" pid="08uZwb0S7UuvrrYnH2Wc5w" hash="7Evhuw">What a beautiful feeling! What a lovely place is our house, our home, our refuge.</p>
-      <p class="para" uri="/general-conference/2008/10/returning-home.p4" pid="LyeVixIZUkyxQc4_1xli6g" hash="8go5XQ">Through the years our family has lived in different countries, and in each one of them we were able to find within the Church the same feeling of warmth from members in every ward we attended.</p>
-      <p class="para" uri="/general-conference/2008/10/returning-home.p5" pid="AldAKmduGkOAZSMYEqicHQ" hash="TrLD1A">Each member of the Church should have the opportunity to experience such pleasant feelings, and they can experience these feelings through our efforts of reactivation and missionary work.</p>
-      <p class="para" uri="/general-conference/2008/10/returning-home.p6" pid="nh4tJOfb60mj_uFfVeLXYg" hash="VX5ZMQ">Let me share with you something that has been happening in some stakes and districts in Peru, and in so doing, I will mention some family names: the Causo family, the Banda family, the Vargas family, and the list goes on. It includes over 1,700 names of members who have come home. They are members of different wards, branches, stakes, and districts from all over the country of Peru who were invited by stake presidents, bishops, and leaders of quorums and auxiliary organizations to return home. They accepted the invitation made by priesthood leaders, full-time missionaries, and others who took upon themselves the responsibility to help them return to Church and come unto Christ. To each one of them, we say, “Welcome. Welcome home!”</p>
-      <p class="para" uri="/general-conference/2008/10/returning-home.p7" pid="R7e7EoLXVUypWEwJW2HFbw" hash="xSGX1w">What made it possible for these persons to return home? It was the combined effort of 14 stakes and <span class="pageBreak" page-number="99"></span>4 districts in a mission laboring for one year to bring about the return of all these persons through reactivation and the ordinances of baptism and confirmation.</p>
-      <p class="para" uri="/general-conference/2008/10/returning-home.p8" pid="5NAkEuu8lEyiO6lNkqom-A" hash="YizJjw">This effort was inspired by the Savior’s words: “Lovest thou me? … Feed my sheep” (<a href="/scriptures/nt/john/21.16" class="scriptureRef">John 21:16</a>) and by the teaching of President Thomas S. Monson, who said: “Over the years we have issued appeals to the less active, the offended, the critical, the transgressor—to come back. ‘Come back and feast at the table of the Lord, and taste again the sweet and satisfying fruits of fellowship with the Saints’ ” (“Looking Back and Moving Forward,” <span class="emphasis">Liahona</span> and <span class="emphasis">Ensign,</span> May 2008, 89).</p>
-      <p class="para" uri="/general-conference/2008/10/returning-home.p9" pid="aCMh8laHiE2TiFGOiFZwWA" hash="tYI05w">Alma, feeling great suffering for the souls of his brethren, prayed to the Lord, saying:</p>
-      <p class="para" uri="/general-conference/2008/10/returning-home.p10" pid="tgF80iqjKEyhEMeShCbiTQ" hash="-ySHTA">“O Lord, wilt thou grant unto us that we may have success in bringing them again unto thee in Christ.</p>
-      <p class="para" uri="/general-conference/2008/10/returning-home.p11" pid="2Ao7UaTKmkyqfPsnIUndaQ" hash="AyN2Kg">“Behold, O Lord, their souls are precious, and many of them are our brethren; therefore, give unto us, O Lord, power and wisdom that we may bring these, our brethren, again unto thee” (<a href="/scriptures/bofm/alma/31.34-35" class="scriptureRef">Alma 31:34–35</a>).</p>
-      <p class="para" uri="/general-conference/2008/10/returning-home.p12" pid="vypsxraB_0ODmO5tqh4X0w" hash="9o3qzA">President Angel Alarcón from the Puente Piedra stake in Lima, Peru, shared the following experience with me: “Each Saturday, the missionaries, the bishop, some leaders from auxiliary organizations, and I visit less-active members, nonmembers, and new converts from 8:30 a.m. till noon.”</p>
-      <p class="para" uri="/general-conference/2008/10/returning-home.p13" pid="sxa0YcX5uk2IuFXX9CBcjQ" hash="crAUhQ">At this point of his story, the words of the hymn came to my mind:</p>
-      <div class="poetry" uri="/general-conference/2008/10/returning-home.f2">
-        <div class="stanza">
-          <p class="line" pid="fA8dYfjSzkmohlgy7on_uw" hash="2eaXgw">
-            <span class="emphasis">Dear to the heart of the Shepherd,</span>
-          </p>
-          <p class="line" pid="nnW53vNl8EWuAaXFs5gTEQ" hash="_VzhSA">
-            <span class="emphasis">Dear are the lambs of his fold;</span>
-          </p>
-          <p class="line" pid="mX-Wdq7kOESduRQAwyqdog" hash="mlc1Zw">
-            <span class="emphasis">Some from the pastures are straying,</span>
-          </p>
-          <p class="line" pid="BVkOtGszs0m6X5UIe580oA" hash="0jLLDg">
-            <span class="emphasis">Hungry and helpless and cold.</span>
-          </p>
-        </div>
-        <div class="stanza">
-          <p class="line" pid="rYOtpBXL0E6w5dCuXDjV4w" hash="3nHRDQ">
-            <span class="emphasis">See, the Good Shepherd is seeking,</span>
-          </p>
-          <p class="line" pid="gbFHoyCFEkGUrN_id9aVwA" hash="1lpDoA">
-            <span class="emphasis">Seeking the lambs that are lost,</span>
-          </p>
-          <p class="line" pid="XYesAqSSoEWbscQzz-Al6Q" hash="a1Hdhw">
-            <span class="emphasis">Bringing them in with rejoicing,</span>
-          </p>
-          <p class="line" pid="Xx_es0vb-0S4x_aBKKLNeQ" hash="RkTMaQ">
-            <span class="emphasis">Saved at such infinite cost.</span>
-          </p>
-        </div>
-      </div>
-      <p class="para" uri="/general-conference/2008/10/returning-home.p14" pid="SdXTcw9yK0qybTK7rAtVuA" hash="OpzQWQ">Brother Vargas, whose home was located in an area of limited access, received a call one Saturday morning. It was President Alarcón, calling from his mobile phone, announcing his arrival. Brother Vargas then said: “I am surprised; it is very hard to reach my house.”</p>
-      <p class="para" uri="/general-conference/2008/10/returning-home.p15" pid="zNOiLBWcf0yla6X-wmU_4g" hash="QfWIDQ">To which came the reply: “Well, I am at your door right now, and I wish to speak to you. We need you, and we invite you to come to our Church meetings tomorrow.”</p>
-      <p class="para" uri="/general-conference/2008/10/returning-home.p16" pid="8AUBbM0BkkSFmHyllqUXyg" hash="w0kTsQ">Then the man, who had stopped attending church for many years, replied, “I will be there.” Thus, he started his journey back home.</p>
-      <p class="para" uri="/general-conference/2008/10/returning-home.p17" pid="5NRh_IuOXUaNoAdf6imKDQ" hash="ad-a6Q">“For I was an hungred, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in:</p>
-      <p class="para" uri="/general-conference/2008/10/returning-home.p18" pid="11vhsDQx6k-NhFdzdjp3mQ" hash="VTTALg">“Naked, and ye clothed me: I was sick, and ye visited me: I was in prison, and ye came unto me. …</p>
-      <p class="para" uri="/general-conference/2008/10/returning-home.p19" pid="WawSja4wxkmG1j1hwcTuoA" hash="8L-tSQ">“… Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me” (<a href="/scriptures/nt/matt/25.35-36,40" class="scriptureRef">Matthew 25:35–36, 40</a>).</p>
-      <p class="para" uri="/general-conference/2008/10/returning-home.p20" pid="kD2GWZy-xk6StDhJ8RtyJA" hash="Qrdjvg">While taking part in Sunday meetings a couple of weeks ago, I had the chance to meet a brother who was attending for the first time after many years of being away. He was accompanied by his wife, who was not a member of the Church.</p>
-      <p class="para" uri="/general-conference/2008/10/returning-home.p21" pid="6im6W4G5Y0aNjtROj99lbg" hash="ASvPEw">When I asked him why he had decided to return, he replied, “My friend Fernando and this good bishop invited me to come, and I did. I found the Church many years ago, and I have a small flame still burning within my heart. It may not be strong, but it is there.”</p>
-      <p class="para" uri="/general-conference/2008/10/returning-home.p22" pid="HyLB3mFiA06GTouldR5gXQ" hash="SOGWEQ">I concluded, “Well, as your brethren, we shall blow that flame together to keep it alive.” Then we gave each other a hug.</p>
-      <p class="para" uri="/general-conference/2008/10/returning-home.p23" pid="FzQB2XGo-k2mYluvdiY4YA" hash="VAsChA">The interest, attention, and care towards our brethren are profound manifestations of love for our Heavenly Father. In fact, we express our love for God when we serve and when this service is focused on our neighbor’s well-being.</p>
-      <p class="para" uri="/general-conference/2008/10/returning-home.p24" pid="eGVjHy83VEak4qqluEpu9Q" hash="0NqRlw">
-        <span class="pageBreak" page-number="100"></span>King Benjamin taught about it: “And behold, I tell you these things that ye may learn wisdom; that ye may learn that when ye are in the service of your fellow beings ye are only in the service of your God” (<a href="/scriptures/bofm/mosiah/2.17" class="scriptureRef">Mosiah 2:17</a>).</p>
-      <p class="para" uri="/general-conference/2008/10/returning-home.p25" pid="89VV9YDww02UI7mCS1Ftog" hash="ofdvFQ">What a tremendous impact we can make in the lives of so many less-active families and of those who are not members of the Church when we accept the Savior’s invitation to feed His sheep and help everyone to come unto Christ!</p>
-      <p class="para" uri="/general-conference/2008/10/returning-home.p26" pid="hmRWpaXL40y3ZdAHVXqXpA" hash="qaPxOQ">These experiences are a few of what thousands of brethren are quietly doing: accepting the Lord’s invitation to feed His sheep. Let us remember that love and service are like twins who seek each other’s companionship.</p>
-      <p class="para" uri="/general-conference/2008/10/returning-home.p27" pid="OOzrou7X1kOz1n369B9BrQ" hash="1xL1gw">Oh, that each one of us would accept, as a beautiful demonstration of our love for our Heavenly Father, the responsibility we bear as members of this Church to seek after those who are not here with us! If through this loving service we should bring only one soul to the Church and if we would make it the object of our lives, how much rejoicing would we bring upon us and upon those whom we help return to Christ!</p>
-      <div class="poetry" uri="/general-conference/2008/10/returning-home.f3">
-        <div class="stanza">
-          <p class="line" pid="tn0XH0XDsUaVO8fjkmsa5g" hash="RBsMGQ">
-            <span class="emphasis">Hark! he is earnestly calling,</span>
-          </p>
-          <p class="line" pid="yZ47wyrzDEuDQfGjOQWcdg" hash="IjhDbA">
-            <span class="emphasis">Tenderly pleading today:</span>
-          </p>
-          <p class="line" pid="OWc9H4C08EWuAOoRsxHr3w" hash="g91BxA">
-            <span class="emphasis">“Will you not seek for my lost ones,</span>
-          </p>
-          <p class="line" pid="kWJECCUV2k-Uh6B8P0CaFw" hash="1eTlbg">
-            <span class="emphasis">Off from my shelter astray?”</span>
-          </p>
-        </div>
-      </div>
-      <p class="para" uri="/general-conference/2008/10/returning-home.p28" pid="Sn3CO5MK9Uq9nuQKN4qkOA" hash="dxD9dQ">I testify that we are sons and daughters of a Heavenly Father, who loves us and who knows each of us by our own name.</p>
-      <p class="para" uri="/general-conference/2008/10/returning-home.p29" pid="wZUT4xocRUC-42cF3aeRRQ" hash="-thVAw">I bear my testimony of the love of our Father and Savior. He loved us first and gave His Son so that, through Him, we could be able to come back home. I express my love for Him, my Savior, my Lord, my Master, and my Redeemer, in the name of Jesus Christ, amen.</p>
-    </div>
-  </div>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="98"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/6445bbd9684e6551e5dc240d2434405de3ac00f2/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/6445bbd9684e6551e5dc240d2434405de3ac00f2/full/%21192%2C/0/default" data-video-title="Returning Home" data-video-description="What a tremendous impact we can make in the lives of so many … when we accept the Savior’s invitation to feed His sheep." data-video-id="2235900899001" data-ip="Download and Streaming                            " data-duration="700199" data-assetId="69cf7bc736802c2e3efa2f0f15f7887392cdbc3c" data-ref-id="69cf7bc736802c2e3efa2f0f15f7887392cdbc3c" data-duration-string="11:40" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/2235900899001.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="252180824"/><source src="https://assets.churchofjesuschrist.org/69cf7bc736802c2e3efa2f0f15f7887392cdbc3c-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="32118891"/><source src="https://assets.churchofjesuschrist.org/69cf7bc736802c2e3efa2f0f15f7887392cdbc3c-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="68828827"/><source src="https://assets.churchofjesuschrist.org/69cf7bc736802c2e3efa2f0f15f7887392cdbc3c-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="252180824"/></video><h1 data-aid="28841390" id="title1">Returning Home</h1>
+<div class="byline">
+<p class="author-name" data-aid="28841391" id="p1">By Elder Eduardo Gavarret</p>
+<p class="author-role" data-aid="28841392" id="p2">Of the Seventy</p>
+<div class="image-cropper"><img alt="Elder Eduardo Gavarret" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/5f00b37e0f8011ecbf18eeeeac1e5d0bc5dbda68/full/%21100%2C/0/default" data-assetId="5f00b37e0f8011ecbf18eeeeac1e5d0bc5dbda68" srcset="https://www.churchofjesuschrist.org/imgs/5f00b37e0f8011ecbf18eeeeac1e5d0bc5dbda68/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/5f00b37e0f8011ecbf18eeeeac1e5d0bc5dbda68/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/5f00b37e0f8011ecbf18eeeeac1e5d0bc5dbda68/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/5f00b37e0f8011ecbf18eeeeac1e5d0bc5dbda68/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/5f00b37e0f8011ecbf18eeeeac1e5d0bc5dbda68/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/5f00b37e0f8011ecbf18eeeeac1e5d0bc5dbda68/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/5f00b37e0f8011ecbf18eeeeac1e5d0bc5dbda68/full/%21640%2C/0/default 640w" data-img-id="5f00b37e0f8011ecbf18eeeeac1e5d0bc5dbda68" data-missing-asset="false" data-width="100" data-height="120" data-aspect-ratio="0.8333333333333334" data-public-title="Gavarret, Eduardo" data-public-description="Former Official portrait of Elder Eduardo Gavarret.  Replaced March 2017."/></div>
+</div>
+<p class="kicker" data-aid="28841393" id="kicker1">What a tremendous impact we can make in the lives of so many … when we accept the Savior’s invitation to feed His sheep.</p>
+</header>
+<div class="body-block">
+<p data-aid="28841394" id="p3">It gets very cold during the winter in my hometown of Minas, Uruguay. At sunset my mother used to place logs in the fireplace in order to keep our dining room warm, and one by one, my parents, sisters, and I would gather together, once our daily chores were done. That cozy room—created by the warmth of the fireplace, combined with the presence of each one of the members of the family—instilled feelings within me that I shall treasure forever.</p>
+<p data-aid="28841395" id="p4">After my wife and I formed our own family, wherever we were living, we all also gathered often, whether around a fireplace or simply around the warmth we always feel whenever we are reunited with our children.</p>
+<p data-aid="28841396" id="p5">What a beautiful feeling! What a lovely place is our house, our home, our refuge.</p>
+<p data-aid="28841397" id="p6">Through the years our family has lived in different countries, and in each one of them we were able to find within the Church the same feeling of warmth from members in every ward we attended.</p>
+<p data-aid="28841398" id="p7">Each member of the Church should have the opportunity to experience such pleasant feelings, and they can experience these feelings through our efforts of reactivation and missionary work.</p>
+<p data-aid="28841399" id="p8">Let me share with you something that has been happening in some stakes and districts in Peru, and in so doing I will mention some family names: the Causo family, the Banda family, the Vargas family, and the list goes on. It includes over 1,700 names of members who have come home. They are members of different wards, branches, stakes, and districts from all over the country of Peru who were invited by stake presidents, bishops, and leaders of quorums and auxiliary organizations to return home. They accepted the invitation made by priesthood leaders, full-time missionaries, and others who took upon themselves the responsibility to help them return to church and come unto Christ. To each one of them, we say, “Welcome. Welcome home!”</p>
+<p data-aid="28841400" id="p9">What made it possible for these persons to return home? It was the combined effort of 14 stakes and <span class="page-break" data-page="99"></span>4 districts in a mission laboring for one year to bring about the return of all these persons through reactivation and the ordinances of baptism and confirmation.</p>
+<p data-aid="28841401" id="p10">This effort was inspired by the Savior’s words: “Lovest thou me? … Feed my sheep” (<a class="scripture-ref" href="/study/scriptures/nt/john/21?lang=eng&amp;id=p16#p16">John 21:16</a>) and by the teaching of President Thomas S. Monson, who said: “Over the years we have issued appeals to the less active, the offended, the critical, the transgressor—to come back. ‘Come back and feast at the table of the Lord, and taste again the sweet and satisfying fruits of fellowship with the Saints’” (in Conference Report, Apr. 2008, <a class="cross-ref" href="/study/general-conference/2008/04/looking-back-and-moving-forward?lang=eng&amp;id=p25#p25">88</a>; or <em>Ensign,</em> May 2008, 89).</p>
+<p data-aid="28841402" id="p11">Alma, feeling great suffering for the souls of his brethren, prayed to the Lord, saying:</p>
+<p data-aid="28841403" id="p12">“O Lord, wilt thou grant unto us that we may have success in bringing them again unto thee in Christ.</p>
+<p data-aid="28841404" id="p13">“Behold, O Lord, their souls are precious, and many of them are our brethren; therefore, give unto us, O Lord, power and wisdom that we may bring these, our brethren, again unto thee” (<a class="scripture-ref" href="/study/scriptures/bofm/alma/31?lang=eng&amp;id=p34-p35#p34">Alma 31:34–35</a>).</p>
+<p data-aid="28841405" id="p14">President Angel Alarcón from the Puente Piedra stake in Lima, Peru, shared the following experience with me: “Each Saturday, the missionaries, the bishop, some leaders from auxiliary organizations, and I visit less-active members, nonmembers, and new converts from 8:30 a.m. till noon.”</p>
+<p data-aid="28841406" id="p15">At this point of his story, the words of the hymn came to my mind:</p>
+<div class="poetry">
+<div class="stanza">
+<p class="line" data-aid="28841407" id="p16">Dear to the heart of the Shepherd,</p>
+<p class="line" data-aid="28841408" id="p17">Dear are the lambs of his fold;</p>
+<p class="line" data-aid="28841409" id="p18">Some from the pastures are straying,</p>
+<p class="line" data-aid="28841410" id="p19">Hungry and helpless and cold.</p>
+</div>
+<div class="stanza">
+<p class="line" data-aid="28841411" id="p20">See, the Good Shepherd is seeking,</p>
+<p class="line" data-aid="28841412" id="p21">Seeking the lambs that are lost,</p>
+<p class="line" data-aid="28841413" id="p22">Bringing them in with rejoicing,</p>
+<p class="line" data-aid="28841414" id="p23">Saved at such infinite cost.</p>
+</div>
+<div class="citation-info">
+<p data-aid="150471603" id="p44">(“Dear to the Heart of the Shepherd,” <em>Hymns,</em> no. 221)</p>
+</div>
+</div>
+<p data-aid="28841415" id="p24">Brother Vargas, whose home was located in an area of limited access, received a call one Saturday morning. It was President Alarcón, calling from his mobile phone, announcing his arrival. Brother Vargas then said, “I am surprised; it is very hard to reach my house.”</p>
+<p data-aid="28841416" id="p25">To which came the reply: “Well, I am at your door right now, and I wish to speak to you. We need you, and we invite you to come to our Church meetings tomorrow.”</p>
+<p data-aid="28841417" id="p26">Then the man, who had stopped attending church for many years, replied, “I will be there.” Thus, he started his journey back home.</p>
+<p data-aid="28841418" id="p27">“For I was an hungred, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in:</p>
+<p data-aid="28841419" id="p28">“Naked, and ye clothed me: I was sick, and ye visited me: I was in prison, and ye came unto me. …</p>
+<p data-aid="28841420" id="p29">“… Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me” (<a class="scripture-ref" href="/study/scriptures/nt/matt/25?lang=eng&amp;id=p35-p36%2Cp40#p35">Matthew 25:35–36, 40</a>).</p>
+<p data-aid="28841421" id="p30">While taking part in Sunday meetings a couple of weeks ago, I had the chance to meet a brother who was attending for the first time after many years of being away. He was accompanied by his wife, who was not a member of the Church.</p>
+<p data-aid="28841422" id="p31">When I asked him why he had decided to return, he replied, “My friend Fernando and this good bishop invited me to come, and I did. I found the Church many years ago, and I have a small flame still burning within my heart. It may not be strong, but it is there.”</p>
+<p data-aid="28841423" id="p32">I concluded, “Well, as your brethren, we shall blow that flame together to keep it alive.” Then we gave each other a hug.</p>
+<p data-aid="28841424" id="p33">The interest, attention, and care toward our brethren are profound manifestations of love for our Heavenly Father. In fact, we express our love for God when we serve and when this service is focused on our neighbor’s well-being.</p>
+<span class="page-break" data-page="100"></span>
+<p data-aid="28841425" id="p34">King Benjamin taught about it: “And behold, I tell you these things that ye may learn wisdom; that ye may learn that when ye are in the service of your fellow beings ye are only in the service of your God” (<a class="scripture-ref" href="/study/scriptures/bofm/mosiah/2?lang=eng&amp;id=p17#p17">Mosiah 2:17</a>).</p>
+<p data-aid="28841426" id="p35">What a tremendous impact we can make in the lives of so many less-active families and of those who are not members of the Church when we accept the Savior’s invitation to feed His sheep and help everyone to come unto Christ!</p>
+<p data-aid="28841427" id="p36">These experiences are a few of what thousands of brethren are quietly doing: accepting the Lord’s invitation to feed His sheep. Let us remember that love and service are like twins who seek each other’s companionship.</p>
+<p data-aid="28841428" id="p37">Oh, that each one of us would accept, as a beautiful demonstration of our love for our Heavenly Father, the responsibility we bear as members of this Church to seek after those who are not here with us! If through this loving service we should bring only one soul to the Church and if we would make it the object of our lives, how much rejoicing would we bring upon us and upon those whom we help return to Christ!</p>
+<div class="poetry">
+<div class="stanza">
+<p class="line" data-aid="28841429" id="p38">Hark! he is earnestly calling,</p>
+<p class="line" data-aid="28841430" id="p39">Tenderly pleading today:</p>
+<p class="line" data-aid="28841431" id="p40">“Will you not seek for my lost ones,</p>
+<p class="line" data-aid="28841432" id="p41">Off from my shelter astray?”</p>
+</div>
+<div class="citation-info">
+<p data-aid="150471604" id="p45"><em>(Hymns,</em> no. 221)</p>
+</div>
+</div>
+<p data-aid="28841433" id="p42">I testify that we are sons and daughters of a Heavenly Father, who loves us and who knows each of us by our own name.</p>
+<p data-aid="28841434" id="p43">I bear my testimony of the love of our Father and Savior. He loved us first and gave His Son so that, through Him, we could be able to come back home. I express my love for Him, my Savior, my Lord, my Master, and my Redeemer, in the name of Jesus Christ, amen.</p>
 </div>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/2008/10/returning-home</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/october-2008-general-conference/2008-10-5040-elder-eduardo-gavarret-64k-eng.mp3" length="5569470" type="audio/mpeg"/>
-      <pubDate>Sun, 05 Oct 2008 14:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/c2cb408e32eb11ecbc25eeeeac1e29620ae89d9b-64k-en.mp3" length="5898045" type="audio/mpeg"/>
+      <pubDate>Sun, 05 Oct 2008 14:00:00 -0600</pubDate>
+      <itunes:author>Eduardo Gavarret</itunes:author>
     </item>
     <item>
       <title>Yes, Lord, I Will Follow Thee</title>
-      <link>http://www.lds.org/general-conference/2014/10/yes-lord-i-will-follow-thee?lang=eng</link>
-      <description>&lt;div type="article" uri="/general-conference/2014/10/yes-lord-i-will-follow-thee" dup-conf="false" dup-mag="false" schema-version="1" doc-id="general-conference_10991_000_26gavarret" doc-version="8" hash="RA0nqw"&gt;
-			
-			&lt;div class="heading" uri="/general-conference/2014/10/yes-lord-i-will-follow-thee.head1"&gt;
-				&lt;h1 class="title" pid="C9exfSa_aUmYXqXt3meEtg" hash="8QDtvQ"&gt;Yes, Lord, I Will Follow Thee&lt;/h1&gt;
-				&lt;div class="byline"&gt;
-					&lt;p class="para" uri="/general-conference/2014/10/yes-lord-i-will-follow-thee.p2" pid="HQ-ZK61PE0m7CGdGq3PChQ" hash="KxekSw"&gt;By Elder Eduardo Gavarret&lt;/p&gt;
-					&lt;p class="para" uri="/general-conference/2014/10/yes-lord-i-will-follow-thee.p3" pid="ryFViO8xCkKH3qF1oB2uXQ" hash="sSmk3g"&gt;Of the Seventy&lt;/p&gt;
-					&lt;a href="gl://image/?pid=-Lejhl1_q0adTIzUcf6sQw"&gt;&lt;img xmlns="" src="https://edge.ldscdn.org/mobile/images/1255529/587a0e491cb24947888fbcc601122ca5/100x139.jpg" data-multi-src="true" data-src-50x69="https://edge.ldscdn.org/mobile/images/1255529/587a0e491cb24947888fbcc601122ca5/50x69.jpg" data-src-100x139="https://edge.ldscdn.org/mobile/images/1255529/587a0e491cb24947888fbcc601122ca5/100x139.jpg" data-src-200x278="https://edge.ldscdn.org/mobile/images/1255529/587a0e491cb24947888fbcc601122ca5/200x278.jpg" data-src-320x446="https://edge.ldscdn.org/mobile/images/1255529/587a0e491cb24947888fbcc601122ca5/320x446.jpg" data-src-460x641="https://edge.ldscdn.org/mobile/images/1255529/587a0e491cb24947888fbcc601122ca5/460x641.jpg" data-src-640x892="https://edge.ldscdn.org/mobile/images/1255529/587a0e491cb24947888fbcc601122ca5/640x892.jpg" data-src-1024x1427="https://edge.ldscdn.org/mobile/images/1255529/587a0e491cb24947888fbcc601122ca5/1024x1427.jpg" data-src-2048x2855="https://edge.ldscdn.org/mobile/images/1255529/587a0e491cb24947888fbcc601122ca5/2048x2855.jpg" data-src-3634x5067="https://edge.ldscdn.org/mobile/images/1255529/587a0e491cb24947888fbcc601122ca5/3634x5067.jpg" altText="Elder Eduardo Gavarret" pid="-Lejhl1_q0adTIzUcf6sQw" hash="SCv8MQ"&gt;&lt;/img&gt;&lt;/a&gt;
-				&lt;/div&gt;
-				&lt;p class="kicker" pid="5OdmWOVJ8kGsXVCmrmyjVg" hash="-6qR0A"&gt;The Lord invites us using various verbs: “Come unto me,” “Follow me,” “Walk with me.” In each case it is an invitation to act.&lt;/p&gt;
-			&lt;p class="authorName" pid="zzP9OujfA0mAzi4Y2EFu2A" hash="KxekSw1"&gt;By Elder Eduardo Gavarret&lt;/p&gt;&lt;/div&gt;
-			&lt;div class="bodyBlock" pid="R8NFDjlqrEC49TCKlyu-vg" hash="Ay4hsA"&gt;
-				&lt;p class="para" uri="/general-conference/2014/10/yes-lord-i-will-follow-thee.p5" pid="IbWV64jCPEGDlrbxudj8eQ" hash="7FaD9w"&gt;“For behold, the Lord doth grant unto all nations, of their own nation and tongue, to teach his word.”&lt;span class="noteMarker" ref="f_1"&gt;1&lt;/span&gt; Today this scripture is fulfilled once more as I have been given the opportunity to express my feelings in my native tongue.&lt;/p&gt;
-				&lt;span class="story"&gt;
-					&lt;p class="para" uri="/general-conference/2014/10/yes-lord-i-will-follow-thee.p6" pid="XJ5CjL-DLUu_RBPFp5PUYg" hash="oDwjMQ"&gt;It was the year 1975, and I was serving in the Uruguay-Paraguay Mission as a young missionary. During my first month in the mission, the zone leaders held an activity to demonstrate a gospel principle. Each missionary in the zone was blindfolded, and we were told that we were to follow a path leading to the cultural hall. We were to follow the voice of one particular leader, a voice we heard before starting to walk. However, we were warned that during the journey, we would hear several voices that would try to confuse us and get us to stray from the path.&lt;/p&gt;
-					&lt;p class="para" uri="/general-conference/2014/10/yes-lord-i-will-follow-thee.p7" pid="YZKd56AcYkSHLHsVY2LqUg" hash="7PRN4g"&gt;After some minutes of hearing noises, talking, and—in the midst of it all—a voice that said, “Follow me,” I felt confident I was following the right voice. When we arrived at the cultural hall of the chapel, we were asked to take off our blindfolds. When I did so, I realized that there were two groups and that I was in the group that had followed the wrong voice. “It sounded so much like the right one,” I said to myself.&lt;/p&gt;
-					&lt;p class="para" uri="/general-conference/2014/10/yes-lord-i-will-follow-thee.p8" pid="QjwWF1Q0jUGDkEzjoijSRA" hash="9ynn9g"&gt;That experience of 39 years ago had a lasting effect on me. I told myself, “Never, ever again follow the wrong voice.” Then I told myself, “Yes, Lord, I will follow Thee.”&lt;/p&gt;
-				&lt;/span&gt;
-				&lt;p class="para" uri="/general-conference/2014/10/yes-lord-i-will-follow-thee.p9" pid="NqA806PISkySTVjOjmUoTg" hash="THF8Fg"&gt;I want to relate this experience with the Savior’s tender invitation to us:&lt;/p&gt;
-				&lt;p class="para" uri="/general-conference/2014/10/yes-lord-i-will-follow-thee.p10" pid="zFzYgXZtXkWOuV0nFD24Zw" hash="vtrVAQ"&gt;“I am the good shepherd, and know my sheep. …&lt;/p&gt;
-				&lt;p class="para" uri="/general-conference/2014/10/yes-lord-i-will-follow-thee.p11" pid="hvTLHPA-ZkCE2lpdY7ZelA" hash="X07XaA"&gt;“My sheep hear my voice, and I know them, and they follow me.”&lt;span class="noteMarker" ref="f_2"&gt;2&lt;/span&gt;&lt;/p&gt;
-				&lt;p class="para" uri="/general-conference/2014/10/yes-lord-i-will-follow-thee.p12" pid="yBfo_tvfpk2DT5EqYWgmgQ" hash="kxD_cg"&gt;The invitation to “follow Him” is the most simple, direct, and powerful invitation we can receive. It comes from a clear voice that cannot be confused.&lt;/p&gt;
-				&lt;p class="para" uri="/general-conference/2014/10/yes-lord-i-will-follow-thee.p13" pid="dzInR6mJ3k61LC8ey9sRLw" hash="PlnUGQ"&gt;The Lord invites us using various verbs: “Come unto me,” “Follow me,” “Walk with me.” In each case it is not a passive invitation; it is an invitation to act. It is addressed to all mankind by the one who is the Prophet of prophets, the Teacher of teachers, the Son of God, the Messiah.&lt;/p&gt;
-				&lt;div class="topic" uri="/general-conference/2014/10/yes-lord-i-will-follow-thee.t1" pid="bzCU_DcLnEe1Pqd0bogxKw" hash="wSw3gg"&gt;
-					&lt;h2 pid="EgHtJBJaTU-ME6z2epnRQg" hash="XmEr0Q"&gt;The Invitation to “Come unto Me”&lt;/h2&gt;
-					&lt;p class="para" uri="/general-conference/2014/10/yes-lord-i-will-follow-thee.p15" pid="C2a6BUe4KEGG5shBj7vZZQ" hash="6QF9IA"&gt;“Come unto me, all ye that labour and are heavy laden, and I will give you rest.”&lt;span class="noteMarker" ref="f_3"&gt;3&lt;/span&gt;&lt;/p&gt;
-					&lt;p class="para" uri="/general-conference/2014/10/yes-lord-i-will-follow-thee.p16" pid="cmoh3BKTF0OHo2okgkcWGA" hash="4DtgoA"&gt;You who are not yet members of the Church will receive this invitation through the voice of the missionaries with the words, “Will you read the Book of Mormon? Will you pray? Will you attend church? Will you follow the example of Jesus Christ and be baptized by those who have authority?”&lt;span class="noteMarker" ref="f_4"&gt;4&lt;/span&gt; How will you answer this invitation today?&lt;span class="noteMarker" ref="f_5"&gt;5&lt;/span&gt;&lt;/p&gt;
-					&lt;p class="para" uri="/general-conference/2014/10/yes-lord-i-will-follow-thee.p17" pid="APrpWwDrnEyvftGX0FJV6Q" hash="FcCkrA"&gt;I invite you to listen to and accept the message by saying, “Yes, Lord, I will follow Thee!”&lt;/p&gt;
-					&lt;span class="story"&gt;
-						&lt;p class="para" uri="/general-conference/2014/10/yes-lord-i-will-follow-thee.p18" pid="SSjnUKDfLU2wYtlu7u66bg" hash="82yLcQ"&gt;Carlos Badiola and his family, of Minas, Uruguay, were meeting with the missionaries. Since the elders asked a lot of questions during the lessons, they decided to invite a nonmember neighbor—a beautiful 14-year-old girl named Norma—to help them answer. Norma was a dedicated high school student who was studying the Bible at school that year, so when the missionaries asked a question, Norma answered. She was a “golden investigator.” The lesson taught that day was about the Word of Wisdom.&lt;/p&gt;
-						&lt;p class="para" uri="/general-conference/2014/10/yes-lord-i-will-follow-thee.p19" pid="zXF1DNcPTU62V3TxdshoWg" hash="w-5MNw"&gt;When she returned home after the lesson with the missionaries, Norma knew what she had to do. She said to her mother, “Mom, from now on, no more coffee with milk for me. Just milk.” That response was the visible manifestation of her desire to accept the invitation to follow Christ, as extended by the missionaries.&lt;/p&gt;
-						&lt;p class="para" uri="/general-conference/2014/10/yes-lord-i-will-follow-thee.p20" pid="u0USJvD7KkeZD2tyOP-ecg" hash="W1ppuQ"&gt;Both Carlos Badiola and Norma were baptized. Later on, following Norma’s example, her mother, father, and siblings were also baptized. Norma and I grew up together in that little but powerful branch. Later on, when I returned from serving a mission, we were married. I always knew that it would be easier to follow the Savior with her by my side.&lt;/p&gt;
-					&lt;/span&gt;
-					&lt;p class="para" uri="/general-conference/2014/10/yes-lord-i-will-follow-thee.p21" pid="1go4HLIUOEiIFLWghOdHPg" hash="-5N2bA"&gt;One who is a member of the Church and has accepted this invitation renews the commitment each week by partaking of the sacrament.&lt;span class="noteMarker" ref="f_6"&gt;6&lt;/span&gt; Part of that commitment includes keeping the commandments; by doing so you are saying, “Yes, Lord, I will follow Thee!”&lt;span class="noteMarker" ref="f_7"&gt;7&lt;/span&gt;&lt;/p&gt;
-				&lt;/div&gt;
-				&lt;div class="topic" uri="/general-conference/2014/10/yes-lord-i-will-follow-thee.t2" pid="jSbb2RiRzUWhechweLK0xA" hash="i0d0KQ"&gt;
-					&lt;h2 pid="awqnCtS860yKO9_JEklbHg" hash="aEkhow"&gt;The Invitation to “Follow Me”&lt;/h2&gt;
-					&lt;p class="para" uri="/general-conference/2014/10/yes-lord-i-will-follow-thee.p23" pid="M4TvJVPJfkWOofWi7vU12A" hash="G75Dig"&gt;“Follow me” was the Lord’s invitation to the rich young ruler. The rich man had kept the commandments throughout his life. When he asked what more he could do, he received an answer with a clear invitation: “Come, … follow me.”&lt;span class="noteMarker" ref="f_8"&gt;8&lt;/span&gt; However, even though the invitation was simple, it was not without sacrifice. It required effort—coupled with decision and action.&lt;/p&gt;
-					&lt;p class="para" uri="/general-conference/2014/10/yes-lord-i-will-follow-thee.p24" pid="bfDlyaQnWkOLylbCrtdqYw" hash="Q5EHwQ"&gt;The prophet Nephi invited self-reflection when he questioned: “And [Jesus] said unto the children of men: Follow thou me. Wherefore, my beloved brethren, can we follow Jesus save we shall be willing to keep the commandments of the Father?”&lt;span class="noteMarker" ref="f_9"&gt;9&lt;/span&gt;&lt;/p&gt;
-					&lt;p class="para" uri="/general-conference/2014/10/yes-lord-i-will-follow-thee.p25" pid="WeIHZq-nXk-oh4l-vB_Xtw" hash="vOF8QA"&gt;The invitation to “come unto me,” to listen to His voice, and to follow it has been the message of missionaries from the beginning, helping many to change their lives for good.&lt;/p&gt;
-					&lt;span class="story"&gt;
-						&lt;p class="para" uri="/general-conference/2014/10/yes-lord-i-will-follow-thee.p26" pid="kDoRZ-nIzUikdIwMk9eNrw" hash="4XmkGg"&gt;Fifty years ago the missionaries entered my father’s watchmaker shop to leave a watch to be repaired. As good missionaries do, they took advantage of the opportunity to speak with my father and mother about the gospel. My father accepted the missionaries, and my mother accepted the message and invitation to follow Christ. From that day to this, she has remained active in the Church. She said, “Yes, Lord, I will follow Thee!”&lt;/p&gt;
-					&lt;/span&gt;
-					&lt;p class="para" uri="/general-conference/2014/10/yes-lord-i-will-follow-thee.p27" pid="T_m7jmQtgkS4clry8gdtxg" hash="zqM09A"&gt;As you strive to come to Him, you will gain the power to relieve life’s burdens, whether physical or spiritual, &lt;span class="emphasis"&gt;and experience a positive inner change that will help you be happier.&lt;/span&gt;&lt;/p&gt;
-				&lt;/div&gt;
-				&lt;div class="topic" uri="/general-conference/2014/10/yes-lord-i-will-follow-thee.t3"&gt;
-					&lt;h2 pid="C4s6itWCik-O0Jw6Qqi3Zw" hash="Nt44Jw"&gt;The Invitation to “Walk with Me”&lt;/h2&gt;
-				&lt;/div&gt;
-				&lt;p class="para" uri="/general-conference/2014/10/yes-lord-i-will-follow-thee.p29" pid="pEngmG3WqkW2ctg-chmF-g" hash="TqsJeg"&gt;Enoch was called to preach the gospel to a difficult, hard-hearted people. He did not feel qualified. He had doubts about whether he could do it. The Lord calmed his doubts and strengthened his faith through the invitation “Walk with me”—an invitation that, like a blind man’s cane or a friend’s arm, can guide the footsteps of one whose step is not sure. By taking the Savior’s arm and walking with Him, Enoch found that his step became firm and he became a great missionary and a prophet.&lt;span class="noteMarker" ref="f_10"&gt;10&lt;/span&gt;&lt;/p&gt;
-				&lt;p class="para" uri="/general-conference/2014/10/yes-lord-i-will-follow-thee.p30" pid="75kMxfqwY0qhEr-JvCq1vA" hash="cU3a8Q"&gt;The decision to “come unto me” and “follow me” is personal. When we accept this invitation, our level of commitment is raised, and it is then that we can “walk with Him.” This level establishes a closer relationship with the Savior—the fruit of our accepting the first invitation.&lt;/p&gt;
-				&lt;div class="topic" uri="/general-conference/2014/10/yes-lord-i-will-follow-thee.t4"&gt;
-					&lt;p class="para" uri="/general-conference/2014/10/yes-lord-i-will-follow-thee.p31" pid="OU2Cnu5fskuxf0NphXYqNw" hash="_hTesg"&gt;Norma and I individually accepted the invitation to “come unto me” and to “follow me.” Then, together, supporting each other, we have learned to walk with Him.&lt;/p&gt;
-					&lt;p class="para" uri="/general-conference/2014/10/yes-lord-i-will-follow-thee.p32" pid="qDWVwZq4B0icNukoYemSSw" hash="8udK9A"&gt;The effort and the determination to seek Him and to follow Him will be rewarded with the blessings we need.&lt;/p&gt;
-					&lt;p class="para" uri="/general-conference/2014/10/yes-lord-i-will-follow-thee.p33" pid="RiRperned0G5CTwb9oNYLQ" hash="E-bqMw"&gt;Such was the case of the woman who, with great effort, managed to touch the Savior’s garment&lt;span class="noteMarker" ref="f_11"&gt;11&lt;/span&gt; or of Bartimaeus the blind man, whose determination was a key factor in the miracle that happened in his life.&lt;span class="noteMarker" ref="f_12"&gt;12&lt;/span&gt; In both cases a healing of body and spirit was granted.&lt;/p&gt;
-					&lt;p class="para" uri="/general-conference/2014/10/yes-lord-i-will-follow-thee.p34" pid="D0X3ybpBcke3Q85tWKhXnA" hash="n_JZag"&gt;Reach out your hand, touch His garment, accept His invitation, say, “Yes, Lord, I will follow Thee!”—and walk with Him.&lt;/p&gt;
-					&lt;p class="para" uri="/general-conference/2014/10/yes-lord-i-will-follow-thee.p35" pid="V8T-DVrTD0G4c1q0ByVmWw" hash="cu0Asg"&gt;“Come unto me,” “Follow me,” and “Walk with me” are invitations containing inherent power—for those who accept them—to transform your life and generate a &lt;span class="emphasis"&gt;change within you&lt;/span&gt; that will lead you to say, “[I] have no more disposition to do evil, but to do good continually.”&lt;span class="noteMarker" ref="f_13"&gt;13&lt;/span&gt;&lt;/p&gt;
-					&lt;p class="para" uri="/general-conference/2014/10/yes-lord-i-will-follow-thee.p36" pid="jos_MCTSlE2ESUi2BnEJQA" hash="1ml2Lg"&gt;As an outward manifestation of that change, you will feel the strong desire to “succor the weak, lift up the hands which hang down, and strengthen the feeble knees.”&lt;span class="noteMarker" ref="f_14"&gt;14&lt;/span&gt;&lt;/p&gt;
-					&lt;p class="para" uri="/general-conference/2014/10/yes-lord-i-will-follow-thee.p37" pid="xlZ5Z0Goqkm6uval3_zHTQ" hash="OOroIA"&gt;What steps can we take today to “walk with Him”?&lt;/p&gt;
-					&lt;ol class="number"&gt;
-						&lt;li pid="aS3Ah6mIs0ChvCBlULHz3w" hash="FSJhnQ"&gt;
-							&lt;span class="label"&gt;1.&lt;/span&gt;
-							&lt;p class="para" uri="/general-conference/2014/10/yes-lord-i-will-follow-thee.p38" pid="SFWOQNqqTUmGOGEv2UMKEg" hash="YOZK5g"&gt;&lt;span class="emphasis"&gt;Feed the desire&lt;/span&gt; to be a better follower of Christ.&lt;span class="noteMarker" ref="f_15"&gt;15&lt;/span&gt;&lt;/p&gt;
-						&lt;/li&gt;
-						&lt;li pid="vZ577v5S7Eqkg7ol5Ifd9A" hash="t8lxCQ"&gt;
-							&lt;span class="label"&gt;2.&lt;/span&gt;
-							&lt;p class="para" uri="/general-conference/2014/10/yes-lord-i-will-follow-thee.p39" pid="qQPocEe5UESbqB7bpfnH-w" hash="Jp3-tg"&gt;&lt;span class="emphasis"&gt;Pray&lt;/span&gt; for this desire that your faith in Him may grow.&lt;span class="noteMarker" ref="f_16"&gt;16&lt;/span&gt;&lt;/p&gt;
-						&lt;/li&gt;
-						&lt;li pid="tb6AbPs640q0PZYG1W2L2Q" hash="wZvr-w"&gt;
-							&lt;span class="label"&gt;3.&lt;/span&gt;
-							&lt;p class="para" uri="/general-conference/2014/10/yes-lord-i-will-follow-thee.p40" pid="FpHXLBVgOEOZ0Tn5P8WgSQ" hash="0c2tqw"&gt;&lt;span class="emphasis"&gt;Obtain knowledge&lt;/span&gt; from the scriptures, lighting the way and strengthening your desire to change.&lt;span class="noteMarker" ref="f_17"&gt;17&lt;/span&gt;&lt;/p&gt;
-						&lt;/li&gt;
-						&lt;li pid="0lfKsadNrkK4E8NNV3z6xg" hash="tLaZQQ"&gt;
-							&lt;span class="label"&gt;4.&lt;/span&gt;
-							&lt;p class="para" uri="/general-conference/2014/10/yes-lord-i-will-follow-thee.p41" pid="1XkCLwv0jU6MbgA68cAfEQ" hash="vspFyA"&gt;&lt;span class="emphasis"&gt;Make the decision today&lt;/span&gt; to act and say, “Yes, Lord, I will follow Thee!” Simply knowing the truth will not change your world unless you turn knowledge into &lt;span class="emphasis"&gt;action.&lt;/span&gt;&lt;span class="noteMarker" ref="f_18"&gt;18&lt;/span&gt;&lt;/p&gt;
-						&lt;/li&gt;
-						&lt;li pid="B4NzB6-AbkufLzz2fOqvyA" hash="giETBA"&gt;
-							&lt;span class="label"&gt;5.&lt;/span&gt;
-							&lt;p class="para" uri="/general-conference/2014/10/yes-lord-i-will-follow-thee.p42" pid="8CjZBVM8SEyyhDzMl9FLxQ" hash="OKhL9A"&gt;&lt;span class="emphasis"&gt;Persevere&lt;/span&gt; in the decision you have made by exercising these principles daily.&lt;span class="noteMarker" ref="f_19"&gt;19&lt;/span&gt;&lt;/p&gt;
-						&lt;/li&gt;
-					&lt;/ol&gt;
-					&lt;p class="para" uri="/general-conference/2014/10/yes-lord-i-will-follow-thee.p43" pid="ARhFlPz9AUq2DTz_4v7QVg" hash="2M4fWg"&gt;May the words of our beloved prophet, President Thomas S. Monson, motivate us to action in our desire to accept the Savior’s invitation. President Monson said: “Who is the King of glory, this Lord of hosts? He is our Master. He is our Savior. He is the Son of God. He is the Author of our Salvation. He beckons, ‘Follow me.’ He instructs, ‘Go, and do thou likewise.’ He pleads, ‘Keep my commandments.’”&lt;span class="noteMarker" ref="f_20"&gt;20&lt;/span&gt;&lt;/p&gt;
-					&lt;p class="para" uri="/general-conference/2014/10/yes-lord-i-will-follow-thee.p44" pid="xQCX8EB7DkGTOOJCeyuEFw" hash="uU8Uzw"&gt;May we make the decision today to increase our level of worship and commitment to God, and may our response to His invitation be heard loud and clear: “Yes, Lord, I will follow Thee!”&lt;span class="noteMarker" ref="f_21"&gt;21&lt;/span&gt; In the sacred name of the Lord Jesus Christ, amen.&lt;/p&gt;
-				&lt;/div&gt;
-				
-					&lt;p class="para" uri="/general-conference/2014/10/yes-lord-i-will-follow-thee.p45" pid="y9K9AnI-f0qyG1Nt4n1gEA" hash="_FIBnA"&gt;This address was delivered in Spanish.&lt;/p&gt;
-				
-			&lt;/div&gt;
-			
-		&lt;/div&gt;</description>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2014/10/yes-lord-i-will-follow-thee?lang=eng</link>
+      <description><![CDATA[<header>
+<span class="page-break" data-page="37"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/81624daf9a275bf360042303c5dbb9072a4a64de/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/81624daf9a275bf360042303c5dbb9072a4a64de/full/%21192%2C/0/default" data-video-title="Yes, Lord, I Will Follow Thee" data-video-description="Elder Eduardo Gavarret's address at the October 2014 General Conference." data-video-id="3821575346001" data-ip="Download and Streaming                            " data-duration="658758" data-assetId="c2a3dd252364eb741c36f6a51c37b3a50f8e3a4d" data-ref-id="c2a3dd252364eb741c36f6a51c37b3a50f8e3a4d" data-duration-string="10:58" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/3821575346001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="230867608"/><source src="https://assets.churchofjesuschrist.org/c2a3dd252364eb741c36f6a51c37b3a50f8e3a4d-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="34996452"/><source src="https://assets.churchofjesuschrist.org/c2a3dd252364eb741c36f6a51c37b3a50f8e3a4d-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="66822861"/><source src="https://assets.churchofjesuschrist.org/c2a3dd252364eb741c36f6a51c37b3a50f8e3a4d-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="230867608"/></video><h1 data-aid="28864367" id="title1">Yes, Lord, I Will Follow Thee</h1>
+<div class="byline">
+<p class="author-name" data-aid="28864368" id="p1">By Elder Eduardo Gavarret</p>
+<p class="author-role" data-aid="28864369" id="p2">Of the Seventy</p>
+<div class="image-cropper"><img alt="Elder Eduardo Gavarret" class="headshot" data-deprecate-web-url="eduardo-gavarret-first-quorum-seventy_1255529_inl.jpg" id="img1" src="https://www.churchofjesuschrist.org/imgs/199a61cf36bf88f1c44424d751f459424fd4fe4a/full/%21100%2C/0/default" data-assetId="199a61cf36bf88f1c44424d751f459424fd4fe4a" srcset="https://www.churchofjesuschrist.org/imgs/199a61cf36bf88f1c44424d751f459424fd4fe4a/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/199a61cf36bf88f1c44424d751f459424fd4fe4a/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/199a61cf36bf88f1c44424d751f459424fd4fe4a/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/199a61cf36bf88f1c44424d751f459424fd4fe4a/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/199a61cf36bf88f1c44424d751f459424fd4fe4a/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/199a61cf36bf88f1c44424d751f459424fd4fe4a/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/199a61cf36bf88f1c44424d751f459424fd4fe4a/full/%21640%2C/0/default 640w" data-img-id="199a61cf36bf88f1c44424d751f459424fd4fe4a" data-missing-asset="false" data-width="100" data-height="139" data-aspect-ratio="0.7194244604316546" data-public-title="Gavarret, Eduardo" data-public-description="Official portrait of Elder Eduardo Gavarret of the FIrst Quorum of the Seventy, 2008."/></div>
+</div>
+<p class="kicker" data-aid="28864370" id="kicker1">The Lord invites us using various verbs: “Come unto me,” “Follow me,” “Walk with me.” In each case it is an invitation to act.</p>
+</header>
+<div class="body-block">
+<p data-aid="28864371" id="p3">“For behold, the Lord doth grant unto all nations, of their own nation and tongue, to teach his word.”<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a> Today this scripture is fulfilled once more as I have been given the opportunity to express my feelings in my native tongue.</p>
+<p data-aid="28864372" id="p4">It was the year 1975, and I was serving in the Uruguay-Paraguay Mission as a young missionary. During my first month in the mission, the zone leaders held an activity to demonstrate a gospel principle. Each missionary in the zone was blindfolded, and we were told that we were to follow a path leading to the cultural hall. We were to follow the voice of one particular leader, a voice we heard before starting to walk. However, we were warned that during the journey, we would hear several voices that would try to confuse us and get us to stray from the path.</p>
+<p data-aid="28864373" id="p5">After some minutes of hearing noises, talking, and—in the midst of it all—a voice that said, “Follow me,” I felt confident I was following the right voice. When we arrived at the cultural hall of the chapel, we were asked to take off our blindfolds. When I did so, I realized that there were two groups and that I was in the group that had followed the wrong voice. “It sounded so much like the right one,” I said to myself.</p>
+<p data-aid="28864374" id="p6">That experience of 39 years ago had a lasting effect on me. I told myself, “Never, ever again follow the wrong voice.” Then I told myself, “Yes, Lord, I will follow Thee.”</p>
+<p data-aid="28864375" id="p7">I want to relate this experience with the Savior’s tender invitation to us:</p>
+<p data-aid="28864376" id="p8">“I am the good shepherd, and know my sheep. …</p>
+<p data-aid="28864377" id="p9">“My sheep hear my voice, and I know them, and they follow me.”<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a></p>
+<p data-aid="28864378" id="p10">The invitation to “follow Him” is the most simple, direct, and powerful invitation we can receive. It comes from a clear voice that cannot be confused.</p>
+<p data-aid="28864379" id="p11">The Lord invites us using various verbs: “Come unto me,” “Follow me,” “Walk with me.” In each case it is not a passive invitation; it is an invitation to act. It is addressed to all mankind by the one who is the Prophet of prophets, the Teacher of teachers, the Son of God, the Messiah.</p>
+<section>
+<header>
+<h2 data-aid="28864380" id="title2">The Invitation to “Come unto Me”</h2>
+</header>
+<p data-aid="28864381" id="p12">“Come unto me, all ye that labour and are heavy laden, and I will give you rest.”<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a></p>
+<span class="page-break" data-page="38"></span>
+<p data-aid="28864382" id="p13">You who are not yet members of the Church will receive this invitation through the voice of the missionaries with the words, “Will you read the Book of Mormon? Will you pray? Will you attend church? Will you follow the example of Jesus Christ and be baptized by those who have authority?”<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a> How will you answer this invitation today?<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a></p>
+<p data-aid="28864383" id="p14">I invite you to listen to and accept the message by saying, “Yes, Lord, I will follow Thee!”</p>
+<p data-aid="28864384" id="p15">Carlos Badiola and his family, of Minas, Uruguay, were meeting with the missionaries. Since the elders asked a lot of questions during the lessons, they decided to invite a nonmember neighbor—a beautiful 14-year-old girl named Norma—to help them answer. Norma was a dedicated high school student who was studying the Bible at school that year, so when the missionaries asked a question, Norma answered. She was a “golden investigator.” The lesson taught that day was about the Word of Wisdom.</p>
+<p data-aid="28864385" id="p16">When she returned home after the lesson with the missionaries, Norma knew what she had to do. She said to her mother, “Mom, from now on, no more coffee with milk for me. Just milk.” That response was the visible manifestation of her desire to accept the invitation to follow Christ, as extended by the missionaries.</p>
+<p data-aid="28864386" id="p17">Both Carlos Badiola and Norma were baptized. Later on, following Norma’s example, her mother, father, and siblings were also baptized. Norma and I grew up together in that little but powerful branch. Later on, when I returned from serving a mission, we were married. I always knew that it would be easier to follow the Savior with her by my side.</p>
+<p data-aid="28864387" id="p18">One who is a member of the Church and has accepted this invitation renews the commitment each week by partaking of the sacrament.<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a> Part of that commitment includes keeping the commandments; by doing so you are saying, “Yes, Lord, I will follow Thee!”<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a></p>
+</section>
+<section>
+<header>
+<h2 data-aid="28864388" id="title3">The Invitation to “Follow Me”</h2>
+</header>
+<p data-aid="28864389" id="p19">“Follow me” was the Lord’s invitation to the rich young ruler. The rich man had kept the commandments throughout his life. When he asked what more he could do, he received an answer with a clear invitation: “Come, … follow me.”<a class="note-ref" href="#note8"><sup class="marker" data-value="8"></sup></a> However, even though the invitation was simple, it was not without sacrifice. It required effort—coupled with decision and action.</p>
+<p data-aid="28864390" id="p20">The prophet Nephi invited self-reflection when he questioned: “And [Jesus] said unto the children of men: Follow thou me. Wherefore, my beloved brethren, can we follow Jesus save we shall be willing to keep the commandments of the Father?”<a class="note-ref" href="#note9"><sup class="marker" data-value="9"></sup></a></p>
+<p data-aid="28864391" id="p21">The invitation to “come unto me,” to listen to His voice, and to follow it has been the message of missionaries from the beginning, helping many to change their lives for good.</p>
+<p data-aid="28864392" id="p22">Fifty years ago the missionaries entered my father’s watchmaker shop to leave a watch to be repaired. As good missionaries do, they took advantage of the opportunity to speak with my father and mother about the gospel. My father accepted the missionaries, and my mother accepted the message and invitation to follow Christ. From that day to this, she has remained active in the Church. She said, “Yes, Lord, I will follow Thee!”</p>
+<p data-aid="28864393" id="p23">As you strive to come to Him, you will gain the power to relieve life’s burdens, whether physical or spiritual, <em>and experience a positive inner change that will help you be happier.</em></p>
+</section>
+<section>
+<header>
+<h2 data-aid="28864394" id="title4">The Invitation to “Walk with Me”</h2>
+</header>
+</section>
+<p data-aid="28864395" id="p24">Enoch was called to preach the gospel to a difficult, hard-hearted people. He did not feel qualified. He had doubts about whether he could do it. The Lord calmed his doubts and strengthened his faith through the invitation “Walk with me”—an invitation that, like a blind man’s cane or a friend’s arm, can guide the footsteps of one whose step is not sure. By taking the Savior’s arm and walking <span class="page-break" data-page="39"></span>with Him, Enoch found that his step became firm and he became a great missionary and a prophet.<a class="note-ref" href="#note10"><sup class="marker" data-value="10"></sup></a></p>
+<p data-aid="28864396" id="p25">The decision to “come unto me” and “follow me” is personal. When we accept this invitation, our level of commitment is raised, and it is then that we can “walk with Him.” This level establishes a closer relationship with the Savior—the fruit of our accepting the first invitation.</p>
+<section>
+<p data-aid="28864397" id="p26">Norma and I individually accepted the invitation to “come unto me” and to “follow me.” Then, together, supporting each other, we have learned to walk with Him.</p>
+<p data-aid="28864398" id="p27">The effort and the determination to seek Him and to follow Him will be rewarded with the blessings we need.</p>
+<p data-aid="28864399" id="p28">Such was the case of the woman who, with great effort, managed to touch the Savior’s garment<a class="note-ref" href="#note11"><sup class="marker" data-value="11"></sup></a> or of Bartimaeus the blind man, whose determination was a key factor in the miracle that happened in his life.<a class="note-ref" href="#note12"><sup class="marker" data-value="12"></sup></a> In both cases a healing of body and spirit was granted.</p>
+<p data-aid="28864400" id="p29">Reach out your hand, touch His garment, accept His invitation, say, “Yes, Lord, I will follow Thee!”—and walk with Him.</p>
+<p data-aid="28864401" id="p30">“Come unto me,” “Follow me,” and “Walk with me” are invitations containing inherent power—for those who accept them—to transform your life and generate a <em>change within you</em> that will lead you to say, “[I] have no more disposition to do evil, but to do good continually.”<a class="note-ref" href="#note13"><sup class="marker" data-value="13"></sup></a></p>
+<p data-aid="28864402" id="p31">As an outward manifestation of that change, you will feel the strong desire to “succor the weak, lift up the hands which hang down, and strengthen the feeble knees.”<a class="note-ref" href="#note14"><sup class="marker" data-value="14"></sup></a></p>
+<p data-aid="28864403" id="p32">What steps can we take today to “walk with Him”?</p>
+<ol class="decimal" start="1">
+<li data-marker="1.">
+<p data-aid="28864404" id="p33"><em>Feed the desire</em> to be a better follower of Christ.<a class="note-ref" href="#note15"><sup class="marker" data-value="15"></sup></a></p>
+</li>
+<li data-marker="2.">
+<p data-aid="28864405" id="p34"><em>Pray</em> for this desire that your faith in Him may grow.<a class="note-ref" href="#note16"><sup class="marker" data-value="16"></sup></a></p>
+</li>
+<li data-marker="3.">
+<p data-aid="28864406" id="p35"><em>Obtain knowledge</em> from the scriptures, lighting the way and strengthening your desire to change.<a class="note-ref" href="#note17"><sup class="marker" data-value="17"></sup></a></p>
+</li>
+<li data-marker="4.">
+<p data-aid="28864407" id="p36"><em>Make the decision today</em> to act and say, “Yes, Lord, I will follow Thee!” Simply knowing the truth will not change your world unless you turn knowledge into <em>action.</em><a class="note-ref" href="#note18"><sup class="marker" data-value="18"></sup></a></p>
+</li>
+<li data-marker="5.">
+<p data-aid="28864408" id="p37"><em>Persevere</em> in the decision you have made by exercising these principles daily.<a class="note-ref" href="#note19"><sup class="marker" data-value="19"></sup></a></p>
+</li>
+</ol>
+<p data-aid="28864409" id="p38">May the words of our beloved prophet, President Thomas S. Monson, motivate us to action in our desire to accept the Savior’s invitation. President Monson said: “Who is the King of glory, this Lord of hosts? He is our Master. He is our Savior. He is the Son of God. He is the Author of our Salvation. He beckons, ‘Follow me.’ He instructs, ‘Go, and do thou likewise.’ He pleads, ‘Keep my commandments.’”<a class="note-ref" href="#note20"><sup class="marker" data-value="20"></sup></a></p>
+<p data-aid="28864410" id="p39">May we make the decision today to increase our level of worship and commitment to God, and may our response to His invitation be heard loud and clear: “Yes, Lord, I will follow Thee!”<a class="note-ref" href="#note21"><sup class="marker" data-value="21"></sup></a> In the sacred name of the Lord Jesus Christ, amen.</p>
+</section>
+<aside class="annotation" id="aside1">
+<p data-aid="28864411" id="p40">This address was delivered in Spanish.</p>
+</aside>
+</div>
+<footer class="notes">
+<p class="title" data-aid="28864412" id="notetitle1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="28864413" id="note1_p1"><a class="scripture-ref" href="/study/scriptures/bofm/alma/29?lang=eng&amp;id=p8#p8">Alma 29:8</a>.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="28864414" id="note2_p1"><a class="scripture-ref" href="/study/scriptures/nt/john/10?lang=eng&amp;id=p14%2Cp27#p14">John 10:14, 27</a>.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="28864415" id="note3_p1"><a class="scripture-ref" href="/study/scriptures/nt/matt/11?lang=eng&amp;id=p28#p28">Matthew 11:28</a>; see also <a class="scripture-ref" href="/study/scriptures/ot/isa/55?lang=eng&amp;id=p3#p3">Isaiah 55:3</a>.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="28864416" id="note4_p1">See <em>Preach My Gospel: A Guide to Missionary Service</em> (2004), 31, 195–202.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="28864417" id="note5_p1">See <a class="scripture-ref" href="/study/scriptures/nt/acts/2?lang=eng&amp;id=p37-p38#p37">Acts 2:37–38</a>.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="28864418" id="note6_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/20?lang=eng&amp;id=p37%2Cp77-p79#p37">Doctrine and Covenants 20:37, 77–79</a>.</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="28864419" id="note7_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/42?lang=eng&amp;id=p29#p29">Doctrine and Covenants 42:29</a>.</p>
+</li>
+<li data-marker="8." id="note8" data-full-marker="8.">
+<p data-aid="28864420" id="note8_p1"><a class="scripture-ref" href="/study/scriptures/nt/mark/10?lang=eng&amp;id=p21#p21">Mark 10:21</a>.</p>
+</li>
+<li data-marker="9." id="note9" data-full-marker="9.">
+<p data-aid="28864421" id="note9_p1"><a class="scripture-ref" href="/study/scriptures/bofm/2-ne/31?lang=eng&amp;id=p10#p10">2 Nephi 31:10</a>.</p>
+</li>
+<li data-marker="10." id="note10" data-full-marker="10.">
+<p data-aid="28864422" id="note10_p1">See <a class="scripture-ref" href="/study/scriptures/pgp/moses/6?lang=eng&amp;id=p33-p35#p33">Moses 6:33–35</a>.</p>
+</li>
+<li data-marker="11." id="note11" data-full-marker="11.">
+<p data-aid="28864423" id="note11_p1">See <a class="scripture-ref" href="/study/scriptures/nt/luke/8?lang=eng&amp;id=p43-p48#p43">Luke 8:43–48</a>.</p>
+</li>
+<li data-marker="12." id="note12" data-full-marker="12.">
+<p data-aid="28864424" id="note12_p1">See <a class="scripture-ref" href="/study/scriptures/nt/mark/10?lang=eng&amp;id=p46-p52#p46">Mark 10:46–52</a>.</p>
+</li>
+<li data-marker="13." id="note13" data-full-marker="13.">
+<p data-aid="28864425" id="note13_p1"><a class="scripture-ref" href="/study/scriptures/bofm/mosiah/5?lang=eng&amp;id=p2#p2">Mosiah 5:2</a>.</p>
+</li>
+<li data-marker="14." id="note14" data-full-marker="14.">
+<p data-aid="28864426" id="note14_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/81?lang=eng&amp;id=p5#p5">Doctrine and Covenants 81:5</a>; see also <a class="scripture-ref" href="/study/scriptures/ot/isa/35?lang=eng&amp;id=p3#p3">Isaiah 35:3</a>.</p>
+</li>
+<li data-marker="15." id="note15" data-full-marker="15.">
+<p data-aid="28864427" id="note15_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/alma/22?lang=eng&amp;id=p15-p16#p15">Alma 22:15–16</a>; Dallin H. Oaks, “<a class="cross-ref" href="/study/ensign/2011/05/saturday-afternoon-session/desire?lang=eng">Desire</a>,” <em>Ensign</em> or <em>Liahona,</em> May 2011, 42–45.</p>
+</li>
+<li data-marker="16." id="note16" data-full-marker="16.">
+<p data-aid="28864428" id="note16_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/alma/34?lang=eng&amp;id=p17-p27#p17">Alma 34:17–27</a>; <a class="scripture-ref" href="/study/scriptures/bofm/alma/37?lang=eng&amp;id=p37#p37">37:37</a>.</p>
+</li>
+<li data-marker="17." id="note17" data-full-marker="17.">
+<p data-aid="28864429" id="note17_p1">See <a class="scripture-ref" href="/study/scriptures/ot/ps/119?lang=eng&amp;id=p105#p105">Psalm 119:105</a>; <a class="scripture-ref" href="/study/scriptures/bofm/hel/3?lang=eng&amp;id=p29#p29">Helaman 3:29</a>.</p>
+</li>
+<li data-marker="18." id="note18" data-full-marker="18.">
+<p data-aid="28864430" id="note18_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/mosiah/5?lang=eng&amp;id=p5#p5">Mosiah 5:5</a>.</p>
+</li>
+<li data-marker="19." id="note19" data-full-marker="19.">
+<p data-aid="28864431" id="note19_p1">Heber J. Grant said, “That which we persist in doing becomes easier to do, not that the nature of the thing has changed but that our power to do has increased” (quoted by Heber J. Grant, author and source unknown).</p>
+</li>
+<li data-marker="20." id="note20" data-full-marker="20.">
+<p data-aid="28864432" id="note20_p1">Thomas S. Monson, “Finding Joy in the Journey,” <em>Ensign</em> or <em>Liahona,</em> Nov. 2008, 88.</p>
+</li>
+<li data-marker="21." id="note21" data-full-marker="21.">
+<p data-aid="28864433" id="note21_p1">See “Lord, I Would Follow Thee,” <em>Hymns,</em> no. 220.</p>
+</li>
+</ol>
+</footer>]]></description>
       <guid isPermaLink="false">/general-conference/2014/10/yes-lord-i-will-follow-thee</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2060-elder-eduardo-gavarret-64k-eng.mp3" length="5279383" type="audio/mpeg"/>
-      <pubDate>Sat, 04 Oct 2014 14:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/ca7cbb7a32c911ec8aafeeeeac1e5e36c820dd61-64k-en.mp3" length="5454445" type="audio/mpeg"/>
+      <pubDate>Sat, 04 Oct 2014 14:00:00 -0600</pubDate>
+      <itunes:author>Eduardo Gavarret</itunes:author>
+    </item>
+    <item>
+      <title>A Mighty Change of Heart: “I Have Nothing More to Give You”</title>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2022/04/16gavarret?lang=eng</link>
+      <description>Elder Gavarret teaches how to obtain, recognize, and maintain a change of heart.</description>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="21"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/3aa79b3e031d7b917b7f770f5168999a01311444/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/3aa79b3e031d7b917b7f770f5168999a01311444/full/%21192%2C/0/default" data-video-title="A Mighty Change of Heart: “I Have Nothing More to Give You”" data-video-description="Elder Gavarret teaches how to obtain, recognize, and maintain a change of heart." data-video-id="6302702895001" data-ip="Download and Streaming                            " data-duration="657056" data-assetId="dbe93b13b2b611ec850ceeeeac1e93db9310f0dc" data-ref-id="A660A4773366C39A1A660EAF5375C42D2B056CEB" data-duration-string="10:57" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6302702895001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="144233847"/><source src="https://assets.churchofjesuschrist.org/dbe93b13b2b611ec850ceeeeac1e93db9310f0dc-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="35974429"/><source src="https://assets.churchofjesuschrist.org/dbe93b13b2b611ec850ceeeeac1e93db9310f0dc-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="65542297"/><source src="https://assets.churchofjesuschrist.org/dbe93b13b2b611ec850ceeeeac1e93db9310f0dc-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="144233847"/></video><h1 data-aid="149804999" id="title1">A Mighty Change of Heart:</h1>
+<p class="subtitle" data-aid="149805004" id="subtitle1">“I Have Nothing More to Give You”</p>
+<div class="byline">
+<p class="author-name" data-aid="149805008" id="author1">By Elder Eduardo Gavarret</p>
+<p class="author-role" data-aid="149805010" id="author2">Of the Seventy</p>
+</div>
+<p class="kicker" data-aid="149805012" id="kicker1">This change of heart is not an event; it takes faith, repentance, and constant spiritual work to happen.</p>
+</header>
+<div class="body-block">
+<section>
+<header>
+<h2 data-aid="149805014" id="title2">Introduction</h2>
+</header>
+<p data-aid="149805016" id="p1">On Friday, October 28, 1588, having lost its rudder to being governed solely by oar, the ship <em>La Girona</em>, belonging to the great Spanish Armada, collided with the rocks of Lacada Point in Northern Ireland.<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a></p>
+<p data-aid="149805018" id="p2">The ship capsized. One of the castaways struggling to survive wore a gold ring given to him a few months earlier by his wife with the inscription, “I have nothing more to give you.”<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a></p>
+<p data-aid="149805020" id="p3">“I have nothing more to give you”—a phrase and a ring with the design of a hand holding a heart, an expression of love from a wife to her husband.</p>
+</section>
+<section>
+<header>
+<h2 data-aid="149805022" id="p4">Scripture Connection</h2>
+</header>
+<p data-aid="149805024" id="p5">When I read this story, it made a deep impression on me, and I thought of the request made by the Savior: “And ye shall offer for a sacrifice unto me a broken heart and a contrite spirit.”<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a></p>
+<p data-aid="149805026" id="p6">I also thought of the people’s reaction to King Benjamin’s words: “Yea, we believe all the words which thou hast spoken unto us … , which has wrought a mighty change in us, or in our hearts, that we have no more disposition to do evil, but to do good continually.”<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a></p>
+</section>
+<section>
+<header>
+<h2 data-aid="149805028" id="p8">Personal Connection</h2>
+</header>
+<p data-aid="149805030" id="p9">Let me share with you an experience I had when I was 12 years old, the effect of which lasts to this day.</p>
+<p data-aid="149805032" id="p10">My mother said, “Eduardo, hurry up. We are late for the Church meetings.”</p>
+<p data-aid="149805034" id="p11">“Mom, I’m going to stay with Dad today,” I replied.</p>
+<p data-aid="149805037" id="p12">“Are you sure? You have to attend your priesthood quorum meeting,” she said.</p>
+<p data-aid="149805040" id="p13"><span class="page-break" data-page="22"></span>I replied, “Poor Dad! He is going to be left alone. I’m going to stay with him today.”</p>
+<p data-aid="149805043" id="p14">Dad was not a member of The Church of Jesus Christ of Latter-day Saints.</p>
+<p data-aid="149805046" id="p15">My mother and sisters went to Sunday meetings. So I went to meet Dad in his workshop, where he liked to be on Sundays, and as I had told my mother, I spent a while, that is, a few minutes with him, and then I asked, “Dad, is everything all right?”</p>
+<p data-aid="149805049" id="p16">He kept up his hobby of repairing radios and clocks, and he just smiled at me.</p>
+<p data-aid="149805052" id="p17">Then I told him, “I’m going to go play with my friends.”</p>
+<p data-aid="149805054" id="p18">Dad, without looking up, said to me, “Today is Sunday. Aren’t you supposed to go to church?”</p>
+<p data-aid="149805057" id="p59">“Yes, but today I told Mom I wouldn’t go,” I replied. Dad went on about his business, and for me, that was permission to leave.</p>
+<p data-aid="149805060" id="p19">That morning there was an important soccer game, and my friends had told me that I couldn’t miss it because we had to win that game.</p>
+<p data-aid="149805063" id="p20">My challenge was that I had to pass in front of the chapel to get to the soccer field.</p>
+<p data-aid="149805067" id="p21">Determined, I dashed towards the soccer field and stopped before the great stumbling block, the chapel. I ran to the opposite sidewalk, where there were some big trees, and I decided to run between them so that no one would see me since it was the time the members were arriving at the meetings.</p>
+<p data-aid="149805070" id="p22">I arrived just in time for the start of the game. I was able to play and go home before my mother got home.</p>
+<p data-aid="149805074" id="p23">Everything had gone well; our team had won, and I was thrilled. But that well-executed run onto the field did not go unnoticed by the deacons quorum adviser.</p>
+<p data-aid="149805078" id="p24">Brother Félix Espinoza had seen me running quickly from tree to tree, trying not to be discovered.</p>
+<p data-aid="149805081" id="p25">At the beginning of the week, Brother Espinoza came to my house and asked to speak with me. He didn’t say anything about what he had seen on Sunday, nor did he ask me why I had missed my meeting.</p>
+<p data-aid="149805085" id="p64">He just handed me a manual and said, “I would like you to teach the priesthood class on Sunday. I have marked the lesson for you. It is not so difficult. I want you to read it, and I will come by in two days to help you with the preparation for the lesson.” Having said this, he handed me the manual and left.</p>
+<p data-aid="149805088" id="p27">I didn’t want to teach the class, but I couldn’t bring myself to tell him no. I had planned that Sunday to stay with my father again—meaning, there was another important soccer game.</p>
+<p data-aid="149805091" id="p28">Brother Espinoza was a person whom young people admired.<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a> He had found the restored gospel and changed his life or, in other words, his heart.</p>
+<p data-aid="149805094" id="p29">When Saturday afternoon arrived, I thought, “Well, maybe tomorrow I’ll wake up sick, and I won’t have to go to church.” It wasn’t the soccer game that worried me anymore; it was the class I had to teach, especially a lesson about the Sabbath day.</p>
+<p data-aid="149805097" id="p30">Sunday came, and I woke up healthier than ever. I had no excuse—no escape.</p>
+<p data-aid="149805100" id="p31">It was the first time I would teach a lesson, but Brother Espinoza was there by my side, and that was the day of a mighty change of heart for me.</p>
+<p data-aid="149805105" id="p32">From that moment on, I began to keep the Sabbath day holy, and over time, in the words of President Russell M. Nelson, the Sabbath day has become a delight.<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a></p>
+<p data-aid="149805108" id="p33">“Lord, I give You everything; I have nothing more to give You.”</p>
+</section>
+<section>
+<header>
+<h2 data-aid="149805111" id="p34">Obtaining</h2>
+</header>
+<p data-aid="149805114" id="p35">How do we obtain that mighty change of heart? It is initiated and eventually occurs</p>
+<ol class="decimal" start="1">
+<li data-marker="1.">
+<p data-aid="149805116" id="p36">when we study the scriptures to obtain the knowledge that will strengthen our faith in Jesus Christ, which will create a desire to change;<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a></p>
+</li>
+<li data-marker="2.">
+<p data-aid="149805118" id="p37">when we cultivate that desire through prayer and fasting;<a class="note-ref" href="#note8"><sup class="marker" data-value="8"></sup></a></p>
+</li>
+<li data-marker="3.">
+<p data-aid="149805120" id="p38">when we act, according to the word studied or received, and we make a covenant to surrender our hearts to Him, just as with King Benjamin’s people.<a class="note-ref" href="#note9"><sup class="marker" data-value="9"></sup></a></p>
+</li>
+</ol>
+</section>
+<section>
+<header>
+<h2 data-aid="149805122" id="p39">Recognition and Covenant</h2>
+</header>
+<p data-aid="149805125" id="p40"><span class="page-break" data-page="23"></span>How do we know that our heart is changing?<a class="note-ref" href="#note10"><sup class="marker" data-value="10"></sup></a></p>
+<ol class="decimal" start="1">
+<li data-marker="1.">
+<p data-aid="149805127" id="p41">When we want to please God in all things.<a class="note-ref" href="#note11"><sup class="marker" data-value="11"></sup></a></p>
+</li>
+<li data-marker="2.">
+<p data-aid="149805128" id="p42">When we treat others with love, respect, and consideration.<a class="note-ref" href="#note12"><sup class="marker" data-value="12"></sup></a></p>
+</li>
+<li data-marker="3.">
+<p data-aid="149805130" id="p43">When we see that the attributes of Christ are becoming part of our character.<a class="note-ref" href="#note13"><sup class="marker" data-value="13"></sup></a></p>
+</li>
+<li data-marker="4.">
+<p data-aid="149805133" id="p44">When we feel the guidance of the Holy Spirit more constantly.<a class="note-ref" href="#note14"><sup class="marker" data-value="14"></sup></a></p>
+</li>
+<li data-marker="5.">
+<p data-aid="149805136" id="p45">When we keep a commandment that has been difficult for us to obey and then continue to live it.<a class="note-ref" href="#note15"><sup class="marker" data-value="15"></sup></a></p>
+</li>
+</ol>
+<p data-aid="149805137" id="p46">When we listen carefully to our leaders’ advice and cheerfully decide to follow it, have we not experienced a mighty change of heart?</p>
+<p data-aid="149805139" id="p47">“Lord, I give You everything; I have nothing more to give You.”</p>
+</section>
+<section>
+<header>
+<h2 data-aid="149805141" id="p48">Maintenance and Benefits</h2>
+</header>
+<p data-aid="149805143" id="p49">How do we maintain the mighty change?</p>
+<ol class="decimal" start="1">
+<li data-marker="1.">
+<p data-aid="149805145" id="p60">When we partake of the sacrament weekly and renew the covenant to take upon us the name of Christ, always remember Him, and keep His commandments.<a class="note-ref" href="#note16"><sup class="marker" data-value="16"></sup></a></p>
+</li>
+<li data-marker="2.">
+<p data-aid="149805147" id="p61">When we turn our lives toward the temple.<a class="note-ref" href="#note17"><sup class="marker" data-value="17"></sup></a> Regular temple attendance will help us maintain a new and renewed heart as we participate in the ordinances.</p>
+</li>
+<li data-marker="3.">
+<p data-aid="149805149" id="p62">When we love and serve our neighbors by ministering activities and missionary work.<a class="note-ref" href="#note18"><sup class="marker" data-value="18"></sup></a></p>
+</li>
+</ol>
+<p data-aid="149805151" id="p50">Then for our great joy, that inner change is strengthened and spreads until it abounds in good works.<a class="note-ref" href="#note19"><sup class="marker" data-value="19"></sup></a></p>
+<p data-aid="149805152" id="p51">This mighty change of heart brings us a feeling of freedom, trust, and peace.<a class="note-ref" href="#note20"><sup class="marker" data-value="20"></sup></a></p>
+<p data-aid="149805154" id="p52">This change of heart is not an event; it takes faith, repentance, and constant spiritual work to happen. It begins when we desire to submit our will to the Lord, and it materializes when we enter into and keep covenants with Him.</p>
+<p data-aid="149805157" id="p53">That individual action has a positive effect both on us and on the people around us.</p>
+<p data-aid="149805160" id="p54">In the words of President Russell M. Nelson, “Imagine how quickly the devastating conflicts throughout the world—and those in our individual lives—would be resolved if we all chose to follow Jesus Christ and heed His teachings.”<a class="note-ref" href="#note21"><sup class="marker" data-value="21"></sup></a> This action of following the Savior’s teachings leads to a mighty change of heart.</p>
+<p data-aid="149805164" id="p63">Dear brothers and sisters, young people, and children, as we participate in the conference this weekend, let the words of our prophets, which will come from the Lord, enter our hearts to experience a mighty change.</p>
+<p data-aid="149805168" id="p56">For those who have not yet joined the Lord’s restored Church, I invite you to listen to the missionaries with a sincere desire to know what God expects of you and experience that inner transformation.<a class="note-ref" href="#note22"><sup class="marker" data-value="22"></sup></a></p>
+<p data-aid="149805172" id="p57">Today is the day to decide to follow the Lord Jesus Christ. “Lord, I give You my heart; I have nothing more to give You.”</p>
+<p data-aid="149805176" id="p58">Just as the ring was recovered from that shipwreck, when we give our hearts to God, we are rescued from the raging seas of this life, and in the process we are refined and purified through the Atonement of Christ and become “children of Christ,” being spiritually “born of Him.”<a class="note-ref" href="#note23"><sup class="marker" data-value="23"></sup></a> Of this I testify in the name of Jesus Christ, amen.</p>
+</section>
+</div>
+<footer class="notes">
+<p class="title" data-aid="149805181" id="notetitle1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="149805185" id="note1_p1">See Pedro Luis Chinchilla, “<i>La Girona</i>: La Historia del Mayor Naufragio de la Gran Armada,” armadainvencible.org/la-girona.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="149805190" id="note2_p1">Ring in Ulster Museum, Belfast, Northern Ireland.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="149805195" id="note3_p1"><a class="scripture-ref" href="/study/scriptures/bofm/3-ne/9?lang=eng&amp;id=p20#p20">3 Nephi 9:20</a>.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="149805200" id="note4_p1"><a class="scripture-ref" href="/study/scriptures/bofm/mosiah/5?lang=eng&amp;id=p2#p2">Mosiah 5:2</a>.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="149805205" id="note5_p1">Félix Espinoza was a national champion of Basque <em>pelota</em>. He participated in local and worldwide championships. He passed away on March 5, 2022.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="149805211" id="note6_p1">See Russell M. Nelson, “<a class="cross-ref" href="/study/general-conference/2015/04/the-sabbath-is-a-delight?lang=eng">The Sabbath Is a Delight</a>,” <cite>Ensign</cite> or <cite>Liahona</cite>, May 2015, 129–32.</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="149805215" id="note7_p1">See <a class="scripture-ref" href="/study/scriptures/nt/2-tim/3?lang=eng&amp;id=p15-p17#p15">2 Timothy 3:15–17</a>.</p>
+</li>
+<li data-marker="8." id="note8" data-full-marker="8.">
+<p data-aid="149805220" id="note8_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/alma/17?lang=eng&amp;id=p3#p3">Alma 17:3</a>.</p>
+</li>
+<li data-marker="9." id="note9" data-full-marker="9.">
+<p data-aid="149805226" id="note9_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/mosiah/5?lang=eng&amp;id=p5#p5">Mosiah 5:5</a>.</p>
+</li>
+<li data-marker="10." id="note10" data-full-marker="10.">
+<p data-aid="149805233" id="note10_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/mosiah/5?lang=eng&amp;id=p2-p5#p2">Mosiah 5:2–5</a>; <a class="scripture-ref" href="/study/scriptures/bofm/alma/5?lang=eng&amp;id=p26-p29#p26">Alma 5:26–29</a>.</p>
+</li>
+<li data-marker="11." id="note11" data-full-marker="11.">
+<p data-aid="149805240" id="note11_p1">See <a class="scripture-ref" href="/study/scriptures/nt/john/8?lang=eng&amp;id=p29#p29">John 8:29</a>.</p>
+</li>
+<li data-marker="12." id="note12" data-full-marker="12.">
+<p data-aid="149805247" id="note12_p1">See <a class="scripture-ref" href="/study/scriptures/ot/lev/19?lang=eng&amp;id=p18#p18">Leviticus 19:18</a>; <a class="scripture-ref" href="/study/scriptures/nt/matt/22?lang=eng&amp;id=p39#p39">Matthew 22:39</a>.</p>
+</li>
+<li data-marker="13." id="note13" data-full-marker="13.">
+<p data-aid="149805248" id="note13_p1">See <cite>Preach My Gospel: A Guide to Missionary Service</cite> (2019), chapter 6, “<a class="cross-ref" href="/study/manual/preach-my-gospel-a-guide-to-missionary-service/how-do-i-develop-christlike-attributes?lang=eng">How Do I Develop Christlike Attributes?</a>,” 121–32.</p>
+</li>
+<li data-marker="14." id="note14" data-full-marker="14.">
+<p data-aid="149808255" id="note14_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/11?lang=eng&amp;id=p12-p13#p12">Doctrine and Covenants 11:12–13</a>.</p>
+</li>
+<li data-marker="15." id="note15" data-full-marker="15.">
+<p data-aid="149808259" id="note15_p1">See <a class="scripture-ref" href="/study/scriptures/ot/prov/4?lang=eng&amp;id=p4#p4">Proverbs 4:4</a>; <a class="scripture-ref" href="/study/scriptures/nt/1-tim/1?lang=eng&amp;id=p5#p5">1 Timothy 1:5</a>.</p>
+</li>
+<li data-marker="16." id="note16" data-full-marker="16.">
+<p data-aid="149808267" id="note16_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/20?lang=eng&amp;id=p77-p79#p77">Doctrine and Covenants 20:77–79</a>.</p>
+</li>
+<li data-marker="17." id="note17" data-full-marker="17.">
+<p data-aid="149808275" id="note17_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/mosiah/2?lang=eng&amp;id=p6#p6">Mosiah 2:6</a>.</p>
+</li>
+<li data-marker="18." id="note18" data-full-marker="18.">
+<p data-aid="149808284" id="note18_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/mosiah/2?lang=eng&amp;id=p17#p17">Mosiah 2:17</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/81?lang=eng&amp;id=p5#p5">Doctrine and Covenants 81:5</a>.</p>
+</li>
+<li data-marker="19." id="note19" data-full-marker="19.">
+<p data-aid="149808293" id="note19_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/ether/12?lang=eng&amp;id=p4#p4">Ether 12:4</a>.</p>
+</li>
+<li data-marker="20." id="note20" data-full-marker="20.">
+<p data-aid="149808303" id="note20_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/4-ne/1?lang=eng&amp;id=p15-p16#p15">4 Nephi 1:15–16</a>.</p>
+</li>
+<li data-marker="21." id="note21" data-full-marker="21.">
+<p data-aid="149808312" id="note21_p1">Russell M. Nelson, “<a class="cross-ref" href="/study/general-conference/2021/10/11nelson?lang=eng">Pure Truth, Pure Doctrine, Pure Revelation</a>,” <cite>Liahona</cite>, Nov. 2021, 6.</p>
+</li>
+<li data-marker="22." id="note22" data-full-marker="22.">
+<p data-aid="149808322" id="note22_p1">See <a class="scripture-ref" href="/study/scriptures/ot/jer/29?lang=eng&amp;id=p12-p13#p12">Jeremiah 29:12–13</a>; <a class="scripture-ref" href="/study/scriptures/bofm/mosiah/18?lang=eng&amp;id=p10#p10">Mosiah 18:10</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/20?lang=eng&amp;id=p37#p37">Doctrine and Covenants 20:37</a>.</p>
+</li>
+<li data-marker="23." id="note23" data-full-marker="23.">
+<p data-aid="149808331" id="note23_p1"><a class="scripture-ref" href="/study/scriptures/bofm/mosiah/5?lang=eng&amp;id=p7#p7">Mosiah 5:7</a>.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
+      <guid isPermaLink="false">/general-conference/2022/04/16gavarret</guid>
+      <enclosure url="https://assets.churchofjesuschrist.org/bc229fbfb2f511ec97a0eeeeac1ef4e2228b7c92-32k-en.mp3" length="2879223" type="audio/mpeg"/>
+      <pubDate>Sat, 02 Apr 2022 10:00:00 -0600</pubDate>
+      <itunes:author>Eduardo Gavarret</itunes:author>
     </item>
   </channel>
 </rss>

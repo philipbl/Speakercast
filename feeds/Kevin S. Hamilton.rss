@@ -1,80 +1,303 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Talks By Kevin S. Hamilton</title>
-    <link>http://philip.lundrigan.org/Speakercast/</link>
+    <link>https://philip.lundrigan.org/Speakercast/</link>
     <description>General Conference talks by Kevin S. Hamilton.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Speakercast</generator>
     <image>
-      <url>http://philip.lundrigan.org/Speakercast/covers/Kevin%20S.%20Hamilton.jpg</url>
+      <url>https://philip.lundrigan.org/Speakercast/covers/Kevin%20S.%20Hamilton.jpg</url>
       <title>General Conference talks by Kevin S. Hamilton.</title>
-      <link>http://philip.lundrigan.org/Speakercast/</link>
+      <link>https://philip.lundrigan.org/Speakercast/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Oct 2013 14:00:00 -0700</lastBuildDate>
-    <pubDate>Sun, 06 Oct 2013 14:00:00 -0700</pubDate>
+    <lastBuildDate>Sat, 02 Apr 2022 14:00:00 -0600</lastBuildDate>
+    <pubDate>Sat, 02 Apr 2022 14:00:00 -0600</pubDate>
+    <itunes:author>Kevin S. Hamilton</itunes:author>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
+    <itunes:image href="https://philip.lundrigan.org/Speakercast/covers/Kevin%20S.%20Hamilton.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>General Conference talks by Kevin S. Hamilton.</itunes:summary>
     <item>
       <title>Continually Holding Fast</title>
-      <link>http://www.lds.org/general-conference/2013/10/continually-holding-fast?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2013/10/continually-holding-fast?lang=eng</link>
       <description>May we continually hold fast to the iron rod that leads to the presence of our Heavenly Father.</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/2013/10/continually-holding-fast" dup-conf="false" dup-mag="false" schema-version="1" doc-id="general-conference_10791_000_54hamilton" doc-version="6" hash="mmJt7g">
-	
-	<div class="heading" uri="/general-conference/2013/10/continually-holding-fast.head1">
-		<h1 class="title" pid="CmH_iYhaTkyTlPshoK4kuw" hash="Zy8QCA">Continually Holding Fast</h1>
-		<p class="authorName" pid="hN48tlfhHUSN9I1gCbmz0A" hash="BRwCYw">By Elder Kevin S. Hamilton</p>
-		<p class="kicker" pid="w52ZFVkwE0qdknsofShkYQ" hash="Xt908w">May we continually hold fast to the iron rod that leads to the presence of our Heavenly Father.</p>
-	</div>
-	<div class="bodyBlock" pid="3ynH2VJCQk-zKKRmgZEUCA" hash="vDCPqQ">
-		<span class="story">
-			<p class="para" uri="/general-conference/2013/10/continually-holding-fast.p5" pid="ajaVF7n2nkyQ3H9Hhbzo2Q" hash="X2TCpw"><span class="pageBreak" page-number="99"></span>My father could remember the very day, even the very hour, that his family—father, mother, and four children—left the Church, many never to return again in this life. He was 13 years old, a deacon, and in those days families attended Sunday School in the morning and then sacrament meeting in the afternoon. On a beautiful spring day, after returning home from Sunday morning worship services and having a midday family meal together, his mother turned to his father and asked simply, “Well, dear, do you think we should go to sacrament meeting this afternoon, or should we take the family for a ride in the country?”</p>
-			<p class="para" uri="/general-conference/2013/10/continually-holding-fast.p6" pid="LlFM752UO0-EDXzwZpIdxw" hash="8NSd-w">The idea that there was an option to sacrament meeting had never occurred to my father, but he and his three teenage siblings all sat up and paid careful attention. That Sunday afternoon ride in the country was probably an enjoyable family activity, but that small decision became the start of a new direction which ultimately led his family away from the Church with its safety, security, and blessings and onto a different path.</p>
-		</span>
-		<p class="para" uri="/general-conference/2013/10/continually-holding-fast.p7" pid="WxzMBRkDA0ey4Xl8d4zK6Q" hash="o2IczQ">As a lesson to those of our day who might be tempted to choose a different path, the Book of Mormon prophet Lehi shared a vision with his family where he “saw numberless concourses of people, many of whom were pressing forward, that they might obtain the path which led unto the tree by which [he] stood.</p>
-		<p class="para" uri="/general-conference/2013/10/continually-holding-fast.p8" pid="0tu49x1GH0KUbjiTb1bJ2A" hash="o7SRgQ">“And … they did come forth, and commence in the path which led to the tree.</p>
-		<p class="para" uri="/general-conference/2013/10/continually-holding-fast.p9" pid="zL81QlMzYkKPq5EySFiNcQ" hash="xLaUAQ">“And … there arose a mist of darkness; … insomuch that they who had commenced in the path did lose their way, that they wandered off and were lost.”<span class="noteMarker" ref="f_1">1</span></p>
-		<p class="para" uri="/general-conference/2013/10/continually-holding-fast.p10" pid="jlzAujukbEGFvigLQbVfhA" hash="C4QS0Q">Lehi then saw a second group that was “pressing forward, and they came forth and caught hold of the end of the rod of iron; and they did press forward through the mist of darkness, clinging to the rod of iron, even until they did come forth and partake of the fruit of the tree.” Unfortunately, “after they had partaken of the fruit of the tree they did cast their eyes about as if they were ashamed” because of those in “a great and spacious building” that “were in the attitude of mocking and pointing their fingers towards those who had come … and were partaking of the fruit.” These people then “fell away into forbidden paths and were lost.”<span class="noteMarker" ref="f_2">2</span> They were unable, or perhaps unwilling, to endure to the end.</p>
-		<p class="para" uri="/general-conference/2013/10/continually-holding-fast.p11" pid="1XbTUBWyQE-L2kvc9DaVtQ" hash="JI-DRw">There was, however, a third group that was not only successful in reaching the tree of life, but they afterward did not fall away. Of these, the scriptures say that they pressed “forward, <span class="emphasis">continually holding fast</span> to the rod of iron, until they came forth and fell down and partook of the fruit of the tree.”<span class="noteMarker" ref="f_3">3</span> The rod of iron represented for this group of people the only safety and security that they could find, and they held fast continually; they refused to let go, even for something as simple as a Sunday afternoon ride in the country.</p>
-		<p class="para" uri="/general-conference/2013/10/continually-holding-fast.p12" pid="VTCt2YWjj0S1JbVQIwFXdw" hash="NyzieQ">About this group of people, Elder David A. Bednar has taught: “The key phrase in this verse is ‘continually <span class="pageBreak" page-number="100"></span>holding fast’ to the rod of iron. … Perhaps this third group of people <span class="emphasis">consistently</span> read <span class="emphasis">and</span> studied <span class="emphasis">and</span> searched the words of Christ. … This is the group you and I should strive to join.”<span class="noteMarker" ref="f_4">4</span></p>
-		<p class="para" uri="/general-conference/2013/10/continually-holding-fast.p13" pid="5CgKdkSGE0Knlv2MUxqu0w" hash="F-ozOg">Those of us who are members of God’s Church today have made covenants to follow Jesus Christ and to obey God’s commandments. At baptism we covenanted to stand as a witness of the Savior,<span class="noteMarker" ref="f_5">5</span> to succor the weak and the needy,<span class="noteMarker" ref="f_6">6</span> to keep the commandments of God, and to repent as needed, for as the Apostle Paul taught, “All have sinned, and [fall] short of the glory of God.”<span class="noteMarker" ref="f_7">7</span></p>
-		<p class="para" uri="/general-conference/2013/10/continually-holding-fast.p14" pid="2rLo_Z335USPVo-b-gfDCw" hash="zinK_Q">Each week we have the opportunity to attend a sacrament meeting, where we can renew these covenants by partaking of the bread and water of the sacrament ordinance. This simple act allows us to once again pledge ourselves to follow Jesus Christ and to repent when we do fall short. God’s promise to us in return is His Spirit as a guide and protection.</p>
-		<p class="para" uri="/general-conference/2013/10/continually-holding-fast.p15" pid="A5bRzMRfXUqe4jtKB5HcwQ" hash="fgEMuQ">From <span class="emphasis">Preach My Gospel,</span> our missionaries teach that revelation and testimony come when we attend our Sunday Church meetings: “As we attend Church services and worship together, we strengthen each other. We are renewed by our association with friends and family. Our faith is strengthened as we study the scriptures and learn more about the restored gospel.”<span class="noteMarker" ref="f_8">8</span></p>
-		<p class="para" uri="/general-conference/2013/10/continually-holding-fast.p16" pid="W0CC3gqIkkyx4pgfvbrrlQ" hash="ADIoPQ">One might ask why we have three separate meetings on Sunday and why the need for each. Let’s briefly look at these three meetings:</p>
-		<div class="figure" uri="/general-conference/2013/10/continually-holding-fast.f1">
-			<ul class="bullet" guid="">
-				<li pid="vXBoQ4CBmU27BNUqTunttA" hash="m2UKBw">
-					<span class="label">•</span>
-					<p pid="EiiDbdnXmUm-8Yt2OWU5Ug" hash="gauJaQ">Sacrament meeting provides the opportunity to participate in the ordinance of the sacrament. We renew our covenants, receive an increased measure of the Spirit, and have the additional blessing of being instructed and edified by the Holy Ghost.</p>
-				</li>
-				<li pid="D6csOJB5lEmrRSk39yR3YA" hash="AmsFcQ">
-					<span class="label">•</span>
-					<p pid="54xaugwJGUCwmb8VIbDi3Q" hash="l_nhVw">Sunday School allows us to “teach one another the doctrine of the kingdom,”<span class="noteMarker" ref="f_9">9</span> that all might be “edified and rejoice together.”<span class="noteMarker" ref="f_10">10</span> Great power and personal peace come as we understand the doctrines of the restored gospel.</p>
-				</li>
-				<li pid="paJ_MKlm3E6jKTs-Y_-9nA" hash="BfoX8A">
-					<span class="label">•</span>
-					<p pid="mOuCexTamEC3Z6nLgVlczQ" hash="bdsZiw">Priesthood meetings are a time for men and young men to “learn [their] duty”<span class="noteMarker" ref="f_11">11</span> and to “be instructed more perfectly,”<span class="noteMarker" ref="f_12">12</span> and Relief Society meetings provide the women of the Church an opportunity to “increase their faith … , strengthen [their] families and homes, and help those in need.”<span class="noteMarker" ref="f_13">13</span></p>
-				</li>
-			</ul>
-		</div>
-		<p class="para" uri="/general-conference/2013/10/continually-holding-fast.p20" pid="3LFkgKyqO02tZv9N6xM6Yg" hash="9abZ-Q">Likewise, our young women and children have their own meetings and classes where they are taught the gospel as they prepare for important responsibilities that will come to them. In each of these unique but connected meetings, we learn the doctrine, feel the Spirit, and serve one another. While there may be exceptions due to distance, travel cost, or health, we should strive to attend all of our Sunday meetings. I promise that blessings of great joy and peace will come from worship during our three-hour Sunday meeting schedule.</p>
-		<p class="para" uri="/general-conference/2013/10/continually-holding-fast.p21" pid="bJo78R7Jw0Sy0B_G0ODkvA" hash="VZccuw">Our family has committed to attend all of our Sunday meetings. We have found that this strengthens our faith and deepens our understanding of <span class="pageBreak" page-number="101"></span>the gospel. We have learned that we feel good about our decision to attend our Church meetings, especially as we return to our home and continue to observe the Sabbath. We even attend all of our Sunday meetings when we are on vacation or traveling. One of our daughters recently wrote to say that she had attended church in a city where she was traveling and then added, “Yes, Dad, I did attend all three of the Sunday meetings.” We know that she was blessed for this righteous decision.</p>
-		<p class="para" uri="/general-conference/2013/10/continually-holding-fast.p22" pid="JTT4VFRnUEG5bvYtm8dHBw" hash="u8HplQ">We each have many choices to make as to how we observe the Sabbath day. There will always be some “good” activity that can and should be sacrificed for the better choice of Church meeting attendance. This is in fact one of the ways that the adversary “cheateth [our] souls, and leadeth [us carefully] away.”<span class="noteMarker" ref="f_14">14</span> He uses “good” activities as substitutes for “better” or even “best” activities.<span class="noteMarker" ref="f_15">15</span></p>
-		<p class="para" uri="/general-conference/2013/10/continually-holding-fast.p23" pid="RCLQrAR__EC1ptpowX546A" hash="vAkerw">Continually holding fast to the rod means that whenever possible we attend our Sunday meetings: sacrament meeting, Sunday School, and priesthood or Relief Society meetings. Our children and youth attend their respective meetings in Primary, Young Men, and Young Women. We should never pick or choose which meetings we attend. We simply hold fast to the word of God by worshipping and attending our Sabbath meetings.</p>
-		<p class="para" uri="/general-conference/2013/10/continually-holding-fast.p24" pid="vqBXUYYEEkCVOgLW6Hansg" hash="9aHOyg">Continually holding fast to the rod means that we strive to keep all of God’s commandments, to have daily personal and family prayer, and to study the scriptures daily.</p>
-		<p class="para" uri="/general-conference/2013/10/continually-holding-fast.p25" pid="7UQpDzNQGECdlwk30EMb7w" hash="63UGxg">Continually holding fast is part of the doctrine of Christ as taught in the Book of Mormon. We exercise faith in Jesus Christ, repent of our sins, change our hearts, and then follow Him down into the waters of baptism and receive the confirming gift of the Holy Ghost, which serves as a guide and comforter. And then, as Nephi taught, we “press forward, feasting upon the word of Christ” until the very end of our lives.<span class="noteMarker" ref="f_16">16</span></p>
-		<p class="para" uri="/general-conference/2013/10/continually-holding-fast.p26" pid="Hq5uz7V6lUeuZgcRQAMPDQ" hash="LLjEig">My brothers and sisters, we are a covenant people. We willingly make and keep covenants, and the promised blessing is that we will receive “all that [the] Father hath.”<span class="noteMarker" ref="f_17">17</span> As we continually hold fast to the rod by keeping our covenants, we will be strengthened to resist the temptations and perils of the world. We will be able to navigate this mortal life with all of its challenges until we actually reach the tree with the fruit “most precious and most desirable above all other.”<span class="noteMarker" ref="f_18">18</span></p>
-		<p class="para" uri="/general-conference/2013/10/continually-holding-fast.p27" pid="asDqyj8ZN02_y-2Hwwy8yw" hash="dR9mvg">My father was fortunate to marry a good woman who encouraged him to come back to the church of his youth and begin again to progress along the path. Their faithful lives have blessed all of their children, the next generation of grandchildren, and now great-grandchildren.</p>
-		<p class="para" uri="/general-conference/2013/10/continually-holding-fast.p28" pid="YoSeEWX1y0myWzw1_DZszA" hash="wXY7Ng">Just as the simple decision to attend or not attend one of their Sabbath day worship meetings made a significant difference in the lives of my grandparents’ family, our everyday decisions will impact our lives in significant ways. A seemingly small decision such as whether or not to attend a sacrament meeting can have far-reaching, even eternal, consequences.</p>
-		<p class="para" uri="/general-conference/2013/10/continually-holding-fast.p29" pid="r3dNeNIFyESyM_4hzFx2UQ" hash="52gQYQ">May we choose to be diligent and gain the great blessings and protections that come from gathering together and keeping covenants. May we continually hold fast to the iron rod that leads to the presence of our Heavenly Father is my prayer in the sacred name of Jesus Christ, amen.</p>
-	</div>
-	
-</div>]]></content:encoded>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="99"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/045432227570a94d72ae5a173ecc825bdbaad077/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/045432227570a94d72ae5a173ecc825bdbaad077/full/%21192%2C/0/default" data-video-title="Continually Holding Fast" data-video-description="May we continually hold fast to the iron rod that leads to the presence of our Heavenly Father." data-video-id="2725487337001" data-ip="Download and Streaming                            " data-duration="611000" data-assetId="bd22afbc84c8e7feed50e61d7703aa1188b5da22" data-ref-id="bd22afbc84c8e7feed50e61d7703aa1188b5da22" data-duration-string="10:11" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/2725487337001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="209411569"/><source src="https://assets.churchofjesuschrist.org/bd22afbc84c8e7feed50e61d7703aa1188b5da22-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="33077476"/><source src="https://assets.churchofjesuschrist.org/bd22afbc84c8e7feed50e61d7703aa1188b5da22-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="68056216"/><source src="https://assets.churchofjesuschrist.org/bd22afbc84c8e7feed50e61d7703aa1188b5da22-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="209411569"/></video><h1 data-aid="28859159" id="title1">Continually Holding Fast</h1>
+<div class="byline">
+<p class="author-name" data-aid="28859160" id="p1">By Elder Kevin S. Hamilton</p>
+<p class="author-role" data-aid="28859161" id="p2">Of the Seventy</p>
+<div class="image-cropper"><img alt="Elder Kevin S. Hamilton" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/6613015e0f8011ecbb5eeeeeac1e9b2ab833bbef/full/%21100%2C/0/default" data-assetId="6613015e0f8011ecbb5eeeeeac1e9b2ab833bbef" srcset="https://www.churchofjesuschrist.org/imgs/6613015e0f8011ecbb5eeeeeac1e9b2ab833bbef/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/6613015e0f8011ecbb5eeeeeac1e9b2ab833bbef/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/6613015e0f8011ecbb5eeeeeac1e9b2ab833bbef/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/6613015e0f8011ecbb5eeeeeac1e9b2ab833bbef/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/6613015e0f8011ecbb5eeeeeac1e9b2ab833bbef/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/6613015e0f8011ecbb5eeeeeac1e9b2ab833bbef/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/6613015e0f8011ecbb5eeeeeac1e9b2ab833bbef/full/%21640%2C/0/default 640w" data-img-id="6613015e0f8011ecbb5eeeeeac1e9b2ab833bbef" data-missing-asset="false" data-width="100" data-height="120" data-aspect-ratio="0.8333333333333334" data-public-title="Hamilton, Kevin S." data-public-description="Former Official portrait of Elder Kevin S. Hamilton.  Replaced March 2017."/></div>
+</div>
+<p class="kicker" data-aid="28859162" id="kicker1">May we continually hold fast to the iron rod that leads to the presence of our Heavenly Father.</p>
+</header>
+<div class="body-block">
+<p data-aid="28859163" id="p3">My father could remember the very day, even the very hour, that his family—father, mother, and four children—left the Church, many never to return again in this life. He was 13 years old, a deacon, and in those days families attended Sunday School in the morning and then sacrament meeting in the afternoon. On a beautiful spring day, after returning home from Sunday morning worship services and having a midday family meal together, his mother turned to his father and asked simply, “Well, dear, do you think we should go to sacrament meeting this afternoon, or should we take the family for a ride in the country?”</p>
+<p data-aid="28859164" id="p4">The idea that there was an option to sacrament meeting had never occurred to my father, but he and his three teenage siblings all sat up and paid careful attention. That Sunday afternoon ride in the country was probably an enjoyable family activity, but that small decision became the start of a new direction which ultimately led his family away from the Church with its safety, security, and blessings and onto a different path.</p>
+<p data-aid="28859165" id="p5">As a lesson to those of our day who might be tempted to choose a different path, the Book of Mormon prophet Lehi shared a vision with his family where he “saw numberless concourses of people, many of whom were pressing forward, that they might obtain the path which led unto the tree by which [he] stood.</p>
+<p data-aid="28859166" id="p6">“And … they did come forth, and commence in the path which led to the tree.</p>
+<p data-aid="28859167" id="p7">“And … there arose a mist of darkness; … insomuch that they who had commenced in the path did lose their way, that they wandered off and were lost.”<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a></p>
+<p data-aid="28859168" id="p8">Lehi then saw a second group that was “pressing forward, and they came forth and caught hold of the end of the rod of iron; and they did press forward through the mist of darkness, clinging to the rod of iron, even until they did come forth and partake of the fruit of the tree.” Unfortunately, “after they had partaken of the fruit of the tree they did cast their eyes about as if they were ashamed” because of those in “a great and spacious building” that “were in the attitude of mocking and pointing their fingers towards those who had come … and were partaking of the fruit.” These people then “fell away into forbidden paths and were lost.”<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a> They were unable, or perhaps unwilling, to endure to the end.</p>
+<p data-aid="28859169" id="p9">There was, however, a third group that was not only successful in reaching the tree of life, but they afterward did not fall away. Of these, the scriptures say that they pressed “forward, <em>continually holding fast</em> to the rod of iron, until they came forth and fell down and partook of the fruit of the tree.”<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a> The rod of iron represented for this group of people the only safety and security that they could find, and they held fast continually; they refused to let go, even for something as simple as a Sunday afternoon ride in the country.</p>
+<p data-aid="28859170" id="p10">About this group of people, Elder David A. Bednar has taught: “The key phrase in this verse is ‘continually <span class="page-break" data-page="100"></span>holding fast’ to the rod of iron. … Perhaps this third group of people <em>consistently</em> read <em>and</em> studied <em>and</em> searched the words of Christ. … This is the group you and I should strive to join.”<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a></p>
+<p data-aid="28859171" id="p11">Those of us who are members of God’s Church today have made covenants to follow Jesus Christ and to obey God’s commandments. At baptism we covenanted to stand as a witness of the Savior,<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a> to succor the weak and the needy,<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a> to keep the commandments of God, and to repent as needed, for as the Apostle Paul taught, “All have sinned, and [fall] short of the glory of God.”<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a></p>
+<p data-aid="28859172" id="p12">Each week we have the opportunity to attend a sacrament meeting, where we can renew these covenants by partaking of the bread and water of the sacrament ordinance. This simple act allows us to once again pledge ourselves to follow Jesus Christ and to repent when we do fall short. God’s promise to us in return is His Spirit as a guide and protection.</p>
+<p data-aid="28859173" id="p13">From <em>Preach My Gospel,</em> our missionaries teach that revelation and testimony come when we attend our Sunday Church meetings: “As we attend Church services and worship together, we strengthen each other. We are renewed by our association with friends and family. Our faith is strengthened as we study the scriptures and learn more about the restored gospel.”<a class="note-ref" href="#note8"><sup class="marker" data-value="8"></sup></a></p>
+<p data-aid="28859174" id="p14">One might ask why we have three separate meetings on Sunday and why the need for each. Let’s briefly look at these three meetings:</p>
+<ul class="bullet">
+<li>
+<p data-aid="28859175" id="p15">Sacrament meeting provides the opportunity to participate in the ordinance of the sacrament. We renew our covenants, receive an increased measure of the Spirit, and have the additional blessing of being instructed and edified by the Holy Ghost.</p>
+</li>
+<li>
+<p data-aid="28859176" id="p16">Sunday School allows us to “teach one another the doctrine of the kingdom,”<a class="note-ref" href="#note9"><sup class="marker" data-value="9"></sup></a> that all might be “edified and rejoice together.”<a class="note-ref" href="#note10"><sup class="marker" data-value="10"></sup></a> Great power and personal peace come as we understand the doctrines of the restored gospel.</p>
+</li>
+<li>
+<p data-aid="28859177" id="p17">Priesthood meetings are a time for men and young men to “learn [their] duty”<a class="note-ref" href="#note11"><sup class="marker" data-value="11"></sup></a> and to “be instructed more perfectly,”<a class="note-ref" href="#note12"><sup class="marker" data-value="12"></sup></a> and Relief Society meetings provide the women of the Church an opportunity to “increase their faith … , strengthen [their] families and homes, and help those in need.”<a class="note-ref" href="#note13"><sup class="marker" data-value="13"></sup></a></p>
+</li>
+</ul>
+<p data-aid="28859178" id="p18">Likewise, our young women and children have their own meetings and classes where they are taught the gospel as they prepare for important responsibilities that will come to them. In each of these unique but connected meetings, we learn the doctrine, feel the Spirit, and serve one another. While there may be exceptions due to distance, travel cost, or health, we should strive to attend all of our Sunday meetings. I promise that blessings of great joy and peace will come from worship during our three-hour Sunday meeting schedule.</p>
+<p data-aid="28859179" id="p19">Our family has committed to attend all of our Sunday meetings. We have found that this strengthens our faith and deepens our understanding of <span class="page-break" data-page="101"></span>the gospel. We have learned that we feel good about our decision to attend our Church meetings, especially as we return to our home and continue to observe the Sabbath. We even attend all of our Sunday meetings when we are on vacation or traveling. One of our daughters recently wrote to say that she had attended church in a city where she was traveling and then added, “Yes, Dad, I did attend all three of the Sunday meetings.” We know that she was blessed for this righteous decision.</p>
+<p data-aid="28859180" id="p20">We each have many choices to make as to how we observe the Sabbath day. There will always be some “good” activity that can and should be sacrificed for the better choice of Church meeting attendance. This is in fact one of the ways that the adversary “cheateth [our] souls, and leadeth [us carefully] away.”<a class="note-ref" href="#note14"><sup class="marker" data-value="14"></sup></a> He uses “good” activities as substitutes for “better” or even “best” activities.<a class="note-ref" href="#note15"><sup class="marker" data-value="15"></sup></a></p>
+<p data-aid="28859181" id="p21">Continually holding fast to the rod means that whenever possible we attend our Sunday meetings: sacrament meeting, Sunday School, and priesthood or Relief Society meetings. Our children and youth attend their respective meetings in Primary, Young Men, and Young Women. We should never pick or choose which meetings we attend. We simply hold fast to the word of God by worshipping and attending our Sabbath meetings.</p>
+<p data-aid="28859182" id="p22">Continually holding fast to the rod means that we strive to keep all of God’s commandments, to have daily personal and family prayer, and to study the scriptures daily.</p>
+<p data-aid="28859183" id="p23">Continually holding fast is part of the doctrine of Christ as taught in the Book of Mormon. We exercise faith in Jesus Christ, repent of our sins, change our hearts, and then follow Him down into the waters of baptism and receive the confirming gift of the Holy Ghost, which serves as a guide and comforter. And then, as Nephi taught, we “press forward, feasting upon the word of Christ” until the very end of our lives.<a class="note-ref" href="#note16"><sup class="marker" data-value="16"></sup></a></p>
+<p data-aid="28859184" id="p24">My brothers and sisters, we are a covenant people. We willingly make and keep covenants, and the promised blessing is that we will receive “all that [the] Father hath.”<a class="note-ref" href="#note17"><sup class="marker" data-value="17"></sup></a> As we continually hold fast to the rod by keeping our covenants, we will be strengthened to resist the temptations and perils of the world. We will be able to navigate this mortal life with all of its challenges until we actually reach the tree with the fruit “most precious and most desirable above all other.”<a class="note-ref" href="#note18"><sup class="marker" data-value="18"></sup></a></p>
+<p data-aid="28859185" id="p25">My father was fortunate to marry a good woman who encouraged him to come back to the church of his youth and begin again to progress along the path. Their faithful lives have blessed all of their children, the next generation of grandchildren, and now great-grandchildren.</p>
+<p data-aid="28859186" id="p26">Just as the simple decision to attend or not attend one of their Sabbath day worship meetings made a significant difference in the lives of my grandparents’ family, our everyday decisions will impact our lives in significant ways. A seemingly small decision such as whether or not to attend a sacrament meeting can have far-reaching, even eternal, consequences.</p>
+<p data-aid="28859187" id="p27">May we choose to be diligent and gain the great blessings and protections that come from gathering together and keeping covenants. May we continually hold fast to the iron rod that leads to the presence of our Heavenly Father is my prayer in the sacred name of Jesus Christ, amen.</p>
+</div>
+<footer class="notes">
+<p class="title" data-aid="28859188" id="notetitle1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="28859189" id="note1_p1"><a class="scripture-ref" href="/study/scriptures/bofm/1-ne/8?lang=eng&amp;id=p21-p23#p21">1 Nephi 8:21–23</a>.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="28859190" id="note2_p1"><a class="scripture-ref" href="/study/scriptures/bofm/1-ne/8?lang=eng&amp;id=p24-p28#p24">1 Nephi 8:24–28</a>.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="28859191" id="note3_p1"><a class="scripture-ref" href="/study/scriptures/bofm/1-ne/8?lang=eng&amp;id=p30#p30">1 Nephi 8:30</a>; emphasis added.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="28859192" id="note4_p1">David A. Bednar, “A Reservoir of Living Water” (Church Educational System fireside address, Feb. 4, 2007), 8–9; <a href="https://speeches.byu.edu">speeches.byu.edu</a>.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="28859193" id="note5_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/mosiah/18?lang=eng&amp;id=p9#p9">Mosiah 18:9</a>.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="28859194" id="note6_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/81?lang=eng&amp;id=p5#p5">Doctrine and Covenants 81:5</a>.</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="28859195" id="note7_p1"><a class="scripture-ref" href="/study/scriptures/nt/rom/3?lang=eng&amp;id=p23#p23">Romans 3:23</a>.</p>
+</li>
+<li data-marker="8." id="note8" data-full-marker="8.">
+<p data-aid="28859196" id="note8_p1"><em>Preach My Gospel: A Guide to Missionary Service</em> (2004), 74.</p>
+</li>
+<li data-marker="9." id="note9" data-full-marker="9.">
+<p data-aid="28859197" id="note9_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/88?lang=eng&amp;id=p77#p77">Doctrine and Covenants 88:77</a>.</p>
+</li>
+<li data-marker="10." id="note10" data-full-marker="10.">
+<p data-aid="28859198" id="note10_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/50?lang=eng&amp;id=p22#p22">Doctrine and Covenants 50:22</a>.</p>
+</li>
+<li data-marker="11." id="note11" data-full-marker="11.">
+<p data-aid="28859199" id="note11_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/107?lang=eng&amp;id=p99#p99">Doctrine and Covenants 107:99</a>.</p>
+</li>
+<li data-marker="12." id="note12" data-full-marker="12.">
+<p data-aid="28859200" id="note12_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/88?lang=eng&amp;id=p78#p78">Doctrine and Covenants 88:78</a>.</p>
+</li>
+<li data-marker="13." id="note13" data-full-marker="13.">
+<p data-aid="28859201" id="note13_p1"><em>Handbook 2: Administering the Church</em> (2010), 9.1.1.</p>
+</li>
+<li data-marker="14." id="note14" data-full-marker="14.">
+<p data-aid="28859202" id="note14_p1"><a class="scripture-ref" href="/study/scriptures/bofm/2-ne/28?lang=eng&amp;id=p21#p21">2 Nephi 28:21</a>.</p>
+</li>
+<li data-marker="15." id="note15" data-full-marker="15.">
+<p data-aid="28859203" id="note15_p1">See Dallin H. Oaks, <a class="cross-ref" href="/study/ensign/2007/11/good-better-best?lang=eng">“Good, Better, Best,”</a> <em>Ensign</em> or <em>Liahona,</em> Nov. 2007, 104–8.</p>
+</li>
+<li data-marker="16." id="note16" data-full-marker="16.">
+<p data-aid="28859204" id="note16_p1"><a class="scripture-ref" href="/study/scriptures/bofm/2-ne/31?lang=eng&amp;id=p20#p20">2 Nephi 31:20</a>.</p>
+</li>
+<li data-marker="17." id="note17" data-full-marker="17.">
+<p data-aid="28859205" id="note17_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/84?lang=eng&amp;id=p38#p38">Doctrine and Covenants 84:38</a>.</p>
+</li>
+<li data-marker="18." id="note18" data-full-marker="18.">
+<p data-aid="28859206" id="note18_p1"><a class="scripture-ref" href="/study/scriptures/bofm/1-ne/15?lang=eng&amp;id=p36#p36">1 Nephi 15:36</a>.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/2013/10/continually-holding-fast</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/october-2013-general-conference/2013-10-5040-elder-kevin-s-hamilton-64k-eng.mp3" length="4936065" type="audio/mpeg"/>
-      <pubDate>Sun, 06 Oct 2013 14:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/e58920d932cf11ecbc25eeeeac1e2962b431fe8f-64k-en.mp3" length="5075620" type="audio/mpeg"/>
+      <pubDate>Sun, 06 Oct 2013 14:00:00 -0600</pubDate>
+      <itunes:author>Kevin S. Hamilton</itunes:author>
+    </item>
+    <item>
+      <title>“Then Will I Make Weak Things Become Strong”</title>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2022/04/28hamilton?lang=eng</link>
+      <description>Elder Hamilton teaches that repentance is necessary and that as we humble ourselves and have faith in Jesus Christ, our weaknesses can be made strong through Christ’s grace.</description>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="50"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/330e921114ef94ab1ec9576d7d77a128a8fe2ac2/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/330e921114ef94ab1ec9576d7d77a128a8fe2ac2/full/%21192%2C/0/default" data-video-title="“Then Will I Make Weak Things Become Strong”" data-video-description="Elder Hamilton teaches that repentance is necessary and that as we humble ourselves and have faith in Jesus Christ, our weaknesses can be made strong through Christ’s grace." data-video-id="6302734155001" data-ip="Download and Streaming                            " data-duration="719285" data-assetId="65e20b0fb2ff11ec8275eeeeac1ee811fe39f467" data-ref-id="8F111902193AED9B4D740347F25ADC043E98F57D" data-duration-string="11:59" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6302734155001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="146522435"/><source src="https://assets.churchofjesuschrist.org/65e20b0fb2ff11ec8275eeeeac1ee811fe39f467-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="35679186"/><source src="https://assets.churchofjesuschrist.org/65e20b0fb2ff11ec8275eeeeac1ee811fe39f467-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="65950421"/><source src="https://assets.churchofjesuschrist.org/65e20b0fb2ff11ec8275eeeeac1ee811fe39f467-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="146522435"/></video><h1 data-aid="149805188" id="title1">“Then Will I Make Weak Things Become Strong”</h1>
+<div class="byline">
+<p class="author-name" data-aid="149805193" id="author1">By Elder Kevin S. Hamilton</p>
+<p class="author-role" data-aid="149805197" id="author2">Of the Seventy</p>
+</div>
+<p class="kicker" data-aid="149805202" id="kicker1">As we humble ourselves and exercise faith in Jesus Christ, the grace of Christ and His infinite atoning sacrifice make it possible to change.</p>
+</header>
+<div class="body-block">
+<p data-aid="149805208" id="p1">President Thomas S. Monson once shared the story of prison warden Clinton Duffy. “During the 1940s and 1950s, [Warden Duffy] was well known for his efforts to rehabilitate the men in his prison. Said one critic, ‘You should know that leopards don’t change their spots!’</p>
+<p data-aid="149805214" id="p2">“Replied Warden Duffy, ‘You should know I don’t work with leopards. I work with men, and men change every day.’”<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a></p>
+<p data-aid="149805224" id="p3">One of Satan’s greatest lies is that men and women cannot change. This untruth gets told and retold in many different ways as the world says that we simply cannot change—or worse yet, that we should not change. We are taught that our circumstances define us. We should “embrace who we really are,” the world says, “and be authentic to our true selves.”</p>
+<section>
+<header>
+<h2 data-aid="149805227" id="title2">We Can Change</h2>
+</header>
+<p data-aid="149805234" id="p4">While it is indeed good to be authentic, we should be authentic to our real, true selves as sons and daughters of God with a divine nature and destiny to become like Him.<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a> If our goal is to be authentic to this divine nature and destiny, then we will all need to change. The scriptural word for change is <i>repentance</i>. “Too many people,” President Russell M. Nelson teaches, “consider repentance as punishment—something to be avoided except in the most serious circumstances. … When Jesus asks you and me to ‘repent,’ He is inviting us to change.”<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a></p>
+</section>
+<section>
+<header>
+<h2 data-aid="149805241" id="title3">God’s Conditions</h2>
+</header>
+<p data-aid="149805249" id="p5">Computer software developers use conditional statements to tell computers what to do. These are sometimes referred to as if-then statements. As in, if <i>x</i> is true, then do <i>y</i>.</p>
+<p data-aid="149808256" id="p6">The Lord also operates through conditions: conditions of faith, conditions of righteousness, conditions of repentance. There are many examples of conditional statements from God such as:</p>
+<p data-aid="149808262" id="p7">“<em>If</em> you keep my commandments and endure to the end [<em>then</em>] you shall have eternal life, which gift is the greatest of all the gifts of God.”<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a></p>
+<p data-aid="149808270" id="p8">Or “<em>if</em> ye shall ask with a sincere heart, with real intent, having faith in Christ, [<em>then</em>] he will manifest the truth of it unto you, by the power of the Holy Ghost.”<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a></p>
+<p data-aid="149808279" id="p9">Even God’s love, although infinite and perfect, is also subject to conditions.<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a> For example:</p>
+<p data-aid="149808288" id="p10">“<em>If</em> ye keep my commandments, [<em>then</em>] ye shall abide in my love; even as I have kept my Father’s commandments, and abide in his love.”<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a></p>
+<p data-aid="149808298" id="p11">Elder D. Todd Christofferson further expounded on this gospel truth when he taught: “Some are wont to say, ‘The Savior loves me just as I am,’ and that is certainly true. But He cannot take any of us into His kingdom just as we are, ‘for no unclean thing can dwell there, or dwell in his presence’ [<a class="scripture-ref" href="/study/scriptures/pgp/moses/6?lang=eng&amp;id=p57#p57">Moses 6:57</a>]. Our sins must first be resolved.”<a class="note-ref" href="#note8"><sup class="marker" data-value="8"></sup></a></p>
+</section>
+<section>
+<header>
+<h2 data-aid="149808307" id="title4">Weak Things Can Become Strong</h2>
+</header>
+<p data-aid="149808316" id="p12">The blessing of receiving God’s <span class="page-break" data-page="51"></span>power to help us change is also conditional. The Savior, speaking through the prophet Moroni in the Book of Mormon, taught: “If men come unto me I will show unto them their weakness. I give unto men weakness that they may be humble; and my grace is sufficient for all men that humble themselves before me; for if they humble themselves before me, and have faith in me, then will I make weak things become strong unto them.”<a class="note-ref" href="#note9"><sup class="marker" data-value="9"></sup></a></p>
+<p data-aid="149808326" id="p13">Looking more closely at what the Lord is teaching us here, we see that He first says that He gives men and women <em>weakness</em>, singular, which is part of our mortal experience as fallen or carnal beings. We have become natural men and women because of the Fall of Adam. But through the Atonement of Jesus Christ, we can overcome our weakness, or our fallen natures.</p>
+<p data-aid="149808336" id="p14">He then says that His grace is sufficient and that <em>if</em> we will humble ourselves and have faith in Him, <em>then</em> He will “make weak <em>things</em> [plural] become strong unto [us].” In other words, as we first change our fallen natures, our weakness, then we will be able to change our behaviors, our weaknesses.</p>
+</section>
+<section>
+<header>
+<h2 data-aid="149808346" id="title5">Requirements of Change</h2>
+</header>
+<p data-aid="149808356" id="p15">Let’s review the requirements to change according to the Lord’s pattern:</p>
+<p data-aid="149808366" id="p16"><strong>First, we must humble ourselves.</strong> The Lord’s condition for change is humility. “<em>If</em> they humble themselves before me,”<a class="note-ref" href="#note10"><sup class="marker" data-value="10"></sup></a> He said. The opposite of humility is pride. Pride exists when we think we know better—when what <em>we</em> think or feel takes priority over what <em>God</em> thinks or feels.</p>
+<p data-aid="149808376" id="p17">King Benjamin taught that “the natural man is an enemy to God, … and will be, forever and ever, unless he … putteth off the natural man and becometh a saint through the atonement of Christ the Lord, and becometh as a child, submissive, meek, [and] humble.”<a class="note-ref" href="#note11"><sup class="marker" data-value="11"></sup></a></p>
+<p data-aid="149808386" id="p18">In order to change, we need to put off the natural man and become humble and submissive. We must be humble enough to follow a living prophet. Humble enough to make and keep temple covenants. Humble enough to repent daily. We must be humble enough to want to change, to “yield our hearts unto God.”<a class="note-ref" href="#note12"><sup class="marker" data-value="12"></sup></a></p>
+<p data-aid="149808396" id="p19"><strong>Second, we must have faith in Jesus Christ.</strong> Again, the words of the Savior: “If they humble themselves before me, <em>and have faith in me</em>,”<a class="note-ref" href="#note13"><sup class="marker" data-value="13"></sup></a> He will give us the power to overcome our weaknesses. Humility, coupled with faith in Jesus Christ, will allow us to access the enabling power of His grace and the fulness of blessings available because of His Atonement.</p>
+<p data-aid="149808406" id="p20">President Nelson has taught that “true repentance begins with faith that Jesus Christ has the power to cleanse, heal, and strengthen us. … It is <em>our</em> faith that unlocks the power of God in <em>our</em> lives.”<a class="note-ref" href="#note14"><sup class="marker" data-value="14"></sup></a></p>
+<p data-aid="149808416" id="p21"><strong>Third, through His grace He can make weak things become strong.</strong> <em>If</em> we humble ourselves and have faith in Jesus Christ, <em>then</em> His grace will enable us to change. In other words, He will empower us to change. This is possible because, as He says, “my grace is sufficient for all men.”<a class="note-ref" href="#note15"><sup class="marker" data-value="15"></sup></a> His strengthening, enabling grace gives us power to overcome <em>all</em> obstacles, <em>all</em> challenges, and <em>all</em> weaknesses as we seek to change.</p>
+<p data-aid="149808427" id="p22"><span class="page-break" data-page="52"></span>Our greatest weaknesses can become our greatest strengths. We can be changed and “become new creatures.”<a class="note-ref" href="#note16"><sup class="marker" data-value="16"></sup></a> Weak things literally can “become strong unto [us].”<a class="note-ref" href="#note17"><sup class="marker" data-value="17"></sup></a></p>
+<p data-aid="149808438" id="p23">The Savior worked out His infinite and eternal Atonement so that we could in fact change, repent, and become better. We can actually be born again. We can overcome habits, addictions, and even the “disposition to do evil.”<a class="note-ref" href="#note18"><sup class="marker" data-value="18"></sup></a> As sons and daughters of a loving Father in Heaven, we have the power within us to change.</p>
+</section>
+<section>
+<header>
+<h2 data-aid="149808449" id="title6">Examples of Change</h2>
+</header>
+<p data-aid="149808460" id="p24">The scriptures are full of examples of men and women who changed.</p>
+<p data-aid="149808472" id="p25">Saul, a Pharisee and active persecutor of the early Christian church,<a class="note-ref" href="#note19"><sup class="marker" data-value="19"></sup></a> became Paul, an Apostle of the Lord Jesus Christ.</p>
+<p data-aid="149808484" id="p26">Alma was a priest in the court of wicked King Noah. He heard the words of Abinadi, fully repented, and became one of the great missionaries of the Book of Mormon.</p>
+<p data-aid="149808496" id="p27">His son Alma spent his youth seeking to destroy the Church. He was among “the very vilest of sinners”<a class="note-ref" href="#note20"><sup class="marker" data-value="20"></sup></a> until he had a change of heart and became a powerful missionary in his own right.</p>
+<p data-aid="149808508" id="p28">Moses was adopted into Pharaoh’s family and raised in luxury as an Egyptian prince. But when he came to understand who he really was and learned of his divine destiny, he changed and became the great lawgiving prophet of the Old Testament.<a class="note-ref" href="#note21"><sup class="marker" data-value="21"></sup></a></p>
+<p data-aid="149808520" id="p29">My wife’s grandfather James B. Keysor has always impressed me with his own mighty change of heart.<a class="note-ref" href="#note22"><sup class="marker" data-value="22"></sup></a> Born of faithful Latter-day Saint pioneer ancestors in the Salt Lake Valley in 1906, he lost his mother at a young age and struggled throughout his youth. His teenage and young adult years were spent away from the Church, during which time he acquired a number of bad habits. Nevertheless, he met and married a faithful woman, and together they raised five children.</p>
+<p data-aid="149808532" id="p30">In 1943, following the difficult years of the Great Depression and during World War II, Bud, as he was called by friends and family, left Utah and moved to Los Angeles, California, to look for employment. During this time away from home, he lived with his sister and her husband, who was serving as the bishop of their ward.</p>
+<p data-aid="149808544" id="p31">With the love and influence of his sister and brother-in-law, he started to revive his interest in the Church and began to read the Book of Mormon each night before going to sleep.</p>
+<p data-aid="149808556" id="p32">One night, while he was reading in <a class="scripture-ref" href="/study/scriptures/bofm/alma/34?lang=eng">Alma chapter 34</a>, his heart was touched as he read the following words:</p>
+<p data-aid="149808569" id="p33">“Yea, I would that ye would come forth and harden not your hearts any longer. …</p>
+<p data-aid="149808581" id="p38">“For behold, this life is the time for men to prepare to meet God; yea, behold the day of this life is the day for men to perform their labors.”<a class="note-ref" href="#note23"><sup class="marker" data-value="23"></sup></a></p>
+<p data-aid="149808593" id="p34">While he was reading these verses, a powerful feeling came over him and he knew that he had to change, to repent, and he knew what he must do. He got up from his bed and knelt down and began to pray, pleading with the Lord to forgive him and to give him the strength he needed to make changes in his life. His prayer was answered, and from that time forward, he never looked back. Bud went on to serve in the Church and remained a faithful, committed Latter-day Saint to the end of his life. He was changed in every way. His mind, his heart, his actions, his very being were changed.</p>
+<p data-aid="149808605" id="p35">Brothers and sisters, our divine destiny and purpose is ultimately to become like our Heavenly Father and Savior, Jesus Christ. We do this as we change, or repent. We receive the Savior’s “image in [our] countenances.”<a class="note-ref" href="#note24"><sup class="marker" data-value="24"></sup></a> We become new, clean, different, and we simply continue to work at it every day. Sometimes it may feel like two steps forward and one step back, but we continue to humbly move forward in faith.</p>
+<p data-aid="149808617" id="p36">And as we humble ourselves and exercise faith in Jesus Christ, <span class="page-break" data-page="53"></span>the grace of Christ and His infinite atoning sacrifice make it possible to change.</p>
+<p data-aid="149808629" id="p37">I witness and testify that Jesus Christ is in reality our Savior and Redeemer. His grace is indeed sufficient. I declare that He is “the way, the truth, and the life.”<a class="note-ref" href="#note25"><sup class="marker" data-value="25"></sup></a> In the name of Jesus Christ, amen.</p>
+</section>
+</div>
+<footer class="notes">
+<p class="title" data-aid="149808640" id="note_title1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="149808652" id="note1_p1">Thomas S. Monson, “<a class="cross-ref" href="/study/general-conference/2012/10/see-others-as-they-may-become?lang=eng&amp;id=p11-p12#p11">See Others as They May Become</a>,” <cite>Ensign</cite> or <cite>Liahona</cite>, Nov. 2012, 69.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="149808664" id="note2_p1">“<span class="legacy-cross-ref" data-legacy-href="../../../manual/the-family-a-proclamation-to-the-world/the-family-a-proclamation-to-the-world.html?para=2#p2">The Family: A Proclamation to the World</span>” states that “all human beings—male and female—are created in the image of God. Each is a beloved spirit son or daughter of heavenly parents, and, as such, each has a divine nature and destiny” (ChurchofJesusChrist.org).</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="149808676" id="note3_p1">Russell M. Nelson, “<a class="cross-ref" href="/study/general-conference/2019/04/36nelson?lang=eng&amp;id=p3%2C5#p3">We Can Do Better and Be Better</a>,” <cite>Ensign</cite> or <cite>Liahona</cite>, May 2019, 67.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="149808688" id="note4_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/14?lang=eng&amp;id=p7#p7">Doctrine and Covenants 14:7</a>; emphasis added.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="149808699" id="note5_p1"><a class="scripture-ref" href="/study/scriptures/bofm/moro/10?lang=eng&amp;id=p4#p4">Moroni 10:4</a>; emphasis added.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="149808710" id="note6_p1">President Russell M. Nelson has taught: “While divine love can be called perfect, infinite, enduring, and universal, it cannot correctly be characterized as <em>unconditional</em>. The word does not appear in the scriptures. On the other hand, many verses affirm that the higher levels of love the Father and the Son feel for each of us—and certain divine blessings stemming from that love—are <em>conditional</em>” (“<a class="cross-ref" href="/study/liahona/2003/02/divine-love?lang=eng&amp;id=p7#p7">Divine Love</a>,” <cite>Ensign</cite>, Feb. 2003, 20–22; <cite>Liahona</cite>, Feb. 2003, 12–14).</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="149808720" id="note7_p1"><a class="scripture-ref" href="/study/scriptures/nt/john/15?lang=eng&amp;id=p10#p10">John 15:10</a>; emphasis added.</p>
+</li>
+<li data-marker="8." id="note8" data-full-marker="8.">
+<p data-aid="149808730" id="note8_p1">D. Todd Christofferson, “<a class="cross-ref" href="/study/general-conference/2021/10/15christofferson?lang=eng&amp;id=p4#p4">The Love of God</a>,” <cite>Liahona</cite>, Nov. 2021, 16.</p>
+</li>
+<li data-marker="9." id="note9" data-full-marker="9.">
+<p data-aid="149808739" id="note9_p1"><a class="scripture-ref" href="/study/scriptures/bofm/ether/12?lang=eng&amp;id=p27#p27">Ether 12:27</a>.</p>
+</li>
+<li data-marker="10." id="note10" data-full-marker="10.">
+<p data-aid="149808748" id="note10_p1"><a class="scripture-ref" href="/study/scriptures/bofm/ether/12?lang=eng&amp;id=p27#p27">Ether 12:27</a>; emphasis added.</p>
+</li>
+<li data-marker="11." id="note11" data-full-marker="11.">
+<p data-aid="149808757" id="note11_p1"><a class="scripture-ref" href="/study/scriptures/bofm/mosiah/3?lang=eng&amp;id=p19#p19">Mosiah 3:19</a>.</p>
+</li>
+<li data-marker="12." id="note12" data-full-marker="12.">
+<p data-aid="149808766" id="note12_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/hel/3?lang=eng&amp;id=p35#p35">Helaman 3:35</a>.</p>
+</li>
+<li data-marker="13." id="note13" data-full-marker="13.">
+<p data-aid="149808775" id="note13_p1"><a class="scripture-ref" href="/study/scriptures/bofm/ether/12?lang=eng&amp;id=p27#p27">Ether 12:27</a>; emphasis added.</p>
+</li>
+<li data-marker="14." id="note14" data-full-marker="14.">
+<p data-aid="149808783" id="note14_p1">Russell M. Nelson, “<a class="cross-ref" href="/study/general-conference/2021/04/49nelson?lang=eng&amp;id=p10#p10">Christ Is Risen; Faith in Him Will Move Mountains</a>,” <cite>Liahona</cite>, May 2021, 102.</p>
+</li>
+<li data-marker="15." id="note15" data-full-marker="15.">
+<p data-aid="149808794" id="note15_p1"><a class="scripture-ref" href="/study/scriptures/bofm/ether/12?lang=eng&amp;id=p27#p27">Ether 12:27</a>.</p>
+</li>
+<li data-marker="16." id="note16" data-full-marker="16.">
+<p data-aid="149808803" id="note16_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/mosiah/27?lang=eng&amp;id=p24-p26#p24">Mosiah 27:24–26</a>; see also <a class="scripture-ref" href="/study/scriptures/nt/2-cor/5?lang=eng&amp;id=p17#p17">2 Corinthians 5:17</a>.</p>
+</li>
+<li data-marker="17." id="note17" data-full-marker="17.">
+<p data-aid="149808810" id="note17_p1"><a class="scripture-ref" href="/study/scriptures/bofm/ether/12?lang=eng&amp;id=p27#p27">Ether 12:27</a>.</p>
+</li>
+<li data-marker="18." id="note18" data-full-marker="18.">
+<p data-aid="149808817" id="note18_p1"><a class="scripture-ref" href="/study/scriptures/bofm/mosiah/5?lang=eng&amp;id=p2#p2">Mosiah 5:2</a>.</p>
+</li>
+<li data-marker="19." id="note19" data-full-marker="19.">
+<p data-aid="149808824" id="note19_p1">See <a class="scripture-ref" href="/study/scriptures/nt/acts/8?lang=eng&amp;id=p3#p3">Acts 8:3</a>; <a class="scripture-ref" href="/study/scriptures/nt/acts/26?lang=eng&amp;id=p10#p10">26:10</a>; <a class="scripture-ref" href="/study/scriptures/nt/gal/1?lang=eng&amp;id=p13#p13">Galatians 1:13</a>; <a class="scripture-ref" href="/study/scriptures/nt/philip/3?lang=eng&amp;id=p6#p6">Philippians 3:6</a>.</p>
+</li>
+<li data-marker="20." id="note20" data-full-marker="20.">
+<p data-aid="149808831" id="note20_p1"><a class="scripture-ref" href="/study/scriptures/bofm/mosiah/28?lang=eng&amp;id=p4#p4">Mosiah 28:4</a>.</p>
+</li>
+<li data-marker="21." id="note21" data-full-marker="21.">
+<p data-aid="149808838" id="note21_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/138?lang=eng&amp;id=p41#p41">Doctrine and Covenants 138:41</a>.</p>
+</li>
+<li data-marker="22." id="note22" data-full-marker="22.">
+<p data-aid="149808845" id="note22_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/mosiah/5?lang=eng&amp;id=p2#p2">Mosiah 5:2</a>; <a class="scripture-ref" href="/study/scriptures/bofm/alma/5?lang=eng&amp;id=p14#p14">Alma 5:14</a>.</p>
+</li>
+<li data-marker="23." id="note23" data-full-marker="23.">
+<p data-aid="149808852" id="note23_p1"><a class="scripture-ref" href="/study/scriptures/bofm/alma/34?lang=eng&amp;id=p31-p32#p31">Alma 34:31–32</a>.</p>
+</li>
+<li data-marker="24." id="note24" data-full-marker="24.">
+<p data-aid="149808859" id="note24_p1"><a class="scripture-ref" href="/study/scriptures/bofm/alma/5?lang=eng&amp;id=p14#p14">Alma 5:14</a>.</p>
+</li>
+<li data-marker="25." id="note25" data-full-marker="25.">
+<p data-aid="149808866" id="note25_p1"><a class="scripture-ref" href="/study/scriptures/nt/john/14?lang=eng&amp;id=p6#p6">John 14:6</a>.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
+      <guid isPermaLink="false">/general-conference/2022/04/28hamilton</guid>
+      <enclosure url="https://assets.churchofjesuschrist.org/fe0edeb8b2fd11ec9680eeeeac1e98d2b0f80022-32k-en.mp3" length="3145138" type="audio/mpeg"/>
+      <pubDate>Sat, 02 Apr 2022 14:00:00 -0600</pubDate>
+      <itunes:author>Kevin S. Hamilton</itunes:author>
     </item>
   </channel>
 </rss>

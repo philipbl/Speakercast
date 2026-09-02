@@ -1,50 +1,54 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Talks By Anne Marie Rose</title>
-    <link>http://philip.lundrigan.org/Speakercast/</link>
+    <link>https://philip.lundrigan.org/Speakercast/</link>
     <description>General Conference talks by Anne Marie Rose.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Speakercast</generator>
     <image>
-      <url>http://philip.lundrigan.org/Speakercast/covers/Anne%20Marie%20Rose.jpg</url>
+      <url>https://philip.lundrigan.org/Speakercast/covers/Anne%20Marie%20Rose.jpg</url>
       <title>General Conference talks by Anne Marie Rose.</title>
-      <link>http://philip.lundrigan.org/Speakercast/</link>
+      <link>https://philip.lundrigan.org/Speakercast/</link>
     </image>
     <language>en</language>
     <lastBuildDate>Sat, 30 Mar 1996 18:00:00 -0700</lastBuildDate>
     <pubDate>Sat, 30 Mar 1996 18:00:00 -0700</pubDate>
+    <itunes:author>Anne Marie Rose</itunes:author>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
+    <itunes:image href="https://philip.lundrigan.org/Speakercast/covers/Anne%20Marie%20Rose.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>General Conference talks by Anne Marie Rose.</itunes:summary>
     <item>
       <title>Facing Trials with Optimism</title>
-      <link>http://www.lds.org/general-conference/1996/04/facing-trials-with-optimism?lang=eng</link>
-      <description>I believe in sustaining our living prophet, President Gordon B. Hinckley, by listening to and following his counsel.</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/1996/04/facing-trials-with-optimism" schema-version="1" doc-id="general-conference_96905_000_036" doc-version="2" hash="0OqmUw">
-  
-  <div class="heading" uri="/general-conference/1996/04/facing-trials-with-optimism.head">
-    <h1 class="title" pid="BbidIzMQ7UuxloaYcLZzFg" hash="IaGNiw">Facing Trials with Optimism</h1>
-    <p class="authorName" pid="CJk4tlWS9UiVFM9kPmJq4A" hash="xpxkSA">Anne Marie Rose</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/1996/04/facing-trials-with-optimism.t1">
-      <p class="para" uri="/general-conference/1996/04/facing-trials-with-optimism.p1" pid="_NlZ2osETku7ahY2y073GQ" hash="n0oSAg">I believe in sustaining our living prophet, President Gordon B. Hinckley, by listening to and following his counsel.</p>
-      <p class="para" uri="/general-conference/1996/04/facing-trials-with-optimism.p2" pid="rEN7FpOCI0OlSvXd1MffUQ" hash="qO0qlg">In general conference last fall, I listened to President Hinckley tell of the emigration of thousands of European Saints who faced their trials “with optimism and enthusiasm” (<span class="emphasis">Ensign,</span> Nov. 1995, 72). He counseled us to do the same.</p>
-      <p class="para" uri="/general-conference/1996/04/facing-trials-with-optimism.p3" pid="DKQNblUKZEOSyMZGiERIrA" hash="Fexgqg">It was hard advice to hear. At the time I was unhappy, frustrated, and busy feeling sorry for myself.</p>
-      <p class="para" uri="/general-conference/1996/04/facing-trials-with-optimism.p4" pid="DZtRQCRIeEOoji1PPFJJRA" hash="IYldDg">For months over the summer, I trained to become a member of the varsity volleyball team. I ran, lifted weights, did endless drills. I put in my time. The work paid off. I made the team. My dream was coming true, or so I expected.</p>
-      <p class="para" uri="/general-conference/1996/04/facing-trials-with-optimism.p5" pid="CNPAZMHuw0ujbvuxEuylIw" hash="enochg">Then the dream started to tarnish. Others played better than I did. Much of the time, I warmed the bench, cheering my teammates, yearning to play more, trying to deal with the disappointment.</p>
-      <p class="para" uri="/general-conference/1996/04/facing-trials-with-optimism.p6" pid="7Q93jAqVpEe0ylt5th_n6A" hash="2WtONQ">Life wasn’t being fair. My attitude affected my relationship with the other girls on the team. And it affected how I felt about myself.</p>
-      <p class="para" uri="/general-conference/1996/04/facing-trials-with-optimism.p7" pid="u_bcJC734UeU68d9P2QkSg" hash="JmvvSQ">Why would Heavenly Father let me work so hard and come so far to end up so disappointed? Finally, after wrestling with my choices and praying for direction, I decided to leave the team. I needed to get back to my studies and my life away from volleyball.</p>
-      <p class="para" uri="/general-conference/1996/04/facing-trials-with-optimism.p8" pid="m9OBFHB_HEu7RxjNnKmopw" hash="C62p9g">But I couldn’t seem to let go of my disappointment and resentment. Then general conference came. It is a time of year I love because the Spirit is abundant in our home. Conference can be heard in every room.</p>
-      <p class="para" uri="/general-conference/1996/04/facing-trials-with-optimism.p9" pid="lxItP_JZd0WrPwSn8d4dOw" hash="9lbzxg">President Hinckley’s address offered the counsel I needed to put things into perspective. By having an “overpowering spirit of optimism” and enthusiasm (<span class="emphasis">Ensign,</span> Nov. 1995, 72), I could <span class="emphasis">decide</span> to let go of my volleyball experience. I could <span class="emphasis">decide</span> to be positive and optimistic about the many good things in my life: my friendships, my studies, my family. I could play volleyball for <span class="emphasis">fun</span> rather than competition. Suddenly the dilemma that had seemed so overwhelming began to fade. I started to feel better about myself. I read the scriptures more. I prayed more. I liked other people more. I felt the Spirit reenter my life.</p>
-      <p class="para" uri="/general-conference/1996/04/facing-trials-with-optimism.p10" pid="huhM3fOyd0aEJLDRCug8oQ" hash="AidNNw">I am grateful for a living prophet who taught me to let go of feeling sorry for myself. He quoted <a href="/scriptures/bofm/alma/26.35" class="scriptureRef">Alma 26:35</a>, which teaches us there never was a people “that had so great reason to rejoice as we, since the world began.” I realize now that I have so much to be grateful for, so many reasons to rejoice. In the name of Jesus Christ, amen.</p>
-    </div>
-  </div>
-</div>]]></content:encoded>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/1996/04/facing-trials-with-optimism?lang=eng</link>
+      <description><![CDATA[<header>
+<span class="page-break" data-page="87"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/7210066468e0d54dfb720d95fc1e96f4cd2e1bb8/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/7210066468e0d54dfb720d95fc1e96f4cd2e1bb8/full/%21192%2C/0/default" data-video-title="Facing Trials with Optimism" data-video-description="Anne Marie Rose delivers a message titled &quot;Facing Trials with Optimism.&quot;" data-video-id="6004134448001" data-ip="Download and Streaming                            " data-duration="149215" data-assetId="9c2469dc5b75223052830c5d4af805d1026aecef" data-ref-id="9c2469dc5b75223052830c5d4af805d1026aecef" data-duration-string="2:29" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6004134448001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="480" data-height="360" data-file-size="8887102"/><source src="https://assets.churchofjesuschrist.org/9c2469dc5b75223052830c5d4af805d1026aecef-360p-en.mp4" type="video/mp4" data-width="480" data-height="360" data-file-size="8887102"/></video><h1 data-aid="28799155" id="title1">Facing Trials with Optimism</h1>
+<div class="byline">
+<p class="author-name" data-aid="28799156" id="p1">By Anne Marie Rose</p>
+<p class="author-role" data-aid="150154453" id="author2">Oak Hills Ninth Ward, Provo Utah Oak Hills Stake</p>
+</div>
+</header>
+<div class="body-block">
+<p data-aid="28799157" id="p2">I believe in sustaining our living prophet, President Gordon B. Hinckley, by listening to and following his counsel.</p>
+<p data-aid="28799158" id="p3">In general conference last fall, I listened to President Hinckley tell of the emigration of thousands of European Saints who faced their trials “with optimism and enthusiasm” (<em>Ensign,</em> Nov. 1995, 72). He counseled us to do the same.</p>
+<p data-aid="28799159" id="p4">It was hard advice to hear. At the time I was unhappy, frustrated, and busy feeling sorry for myself.</p>
+<p data-aid="28799160" id="p5">For months over the summer, I trained to become a member of the varsity volleyball team. I ran, lifted weights, did endless drills. I put in my time. The work paid off. I made the team. My dream was coming true, or so I expected.</p>
+<p data-aid="28799161" id="p6">Then the dream started to tarnish. Others played better than I did. Much of the time, I warmed the bench, cheering my teammates, yearning to play more, trying to deal with the disappointment.</p>
+<p data-aid="28799162" id="p7">Life wasn’t being fair. My attitude affected my relationship with the other girls on the team. And it affected how I felt about myself.</p>
+<p data-aid="28799163" id="p8">Why would Heavenly Father let me work so hard and come so far to end up so disappointed? Finally, after wrestling with my choices and praying for direction, I decided to leave the team. I needed to get back to my studies and my life away from volleyball.</p>
+<p data-aid="28799164" id="p9">But I couldn’t seem to let go of my disappointment and resentment. Then general conference came. It is a time of year I love because the Spirit is abundant in our home. Conference can be heard in every room.</p>
+<p data-aid="28799165" id="p10">President Hinckley’s address offered the counsel I needed to put things into perspective. By having an “overpowering spirit of optimism” and enthusiasm (<em>Ensign,</em> Nov. 1995, 72), I could <em>decide</em> to let go of my volleyball experience. I could <em>decide</em> to be positive and optimistic about the many good things in my life: my friendships, my studies, my family. I could play volleyball for <em>fun</em> rather than competition. Suddenly the dilemma that had seemed so overwhelming began to fade. I started to feel better about myself. I read the scriptures more. I prayed more. I liked other people more. I felt the Spirit reenter my life.</p>
+<p data-aid="28799166" id="p11">I am grateful for a living prophet who taught me to let go of feeling sorry for myself. He quoted <a class="scripture-ref" href="/study/scriptures/bofm/alma/26?lang=eng&amp;id=p35#p35">Alma 26:35</a>, which teaches us there never was a people “that had so great reason to rejoice as we, since the world began.” I realize now that I have so much to be grateful for, so many reasons to rejoice. In the name of Jesus Christ, amen.</p>
+</div>]]></description>
       <guid isPermaLink="false">/general-conference/1996/04/facing-trials-with-optimism</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-young-women-meeting/1996-general-young-women-meeting/1996-03-0030-anne-marie-rose-64k-eng.mp3" length="1214050" type="audio/mpeg"/>
+      <enclosure url="https://assets.churchofjesuschrist.org/16152fd332ea11eca4deeeeeac1e54b668a47c6f-64k-en.mp3" length="1416596" type="audio/mpeg"/>
       <pubDate>Sat, 30 Mar 1996 18:00:00 -0700</pubDate>
+      <itunes:author>Anne Marie Rose</itunes:author>
     </item>
   </channel>
 </rss>

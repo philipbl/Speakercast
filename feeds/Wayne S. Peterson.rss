@@ -1,82 +1,83 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Talks By Wayne S. Peterson</title>
-    <link>http://philip.lundrigan.org/Speakercast/</link>
+    <link>https://philip.lundrigan.org/Speakercast/</link>
     <description>General Conference talks by Wayne S. Peterson.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Speakercast</generator>
     <image>
-      <url>http://philip.lundrigan.org/Speakercast/covers/Wayne%20S.%20Peterson.jpg</url>
+      <url>https://philip.lundrigan.org/Speakercast/covers/Wayne%20S.%20Peterson.jpg</url>
       <title>General Conference talks by Wayne S. Peterson.</title>
-      <link>http://philip.lundrigan.org/Speakercast/</link>
+      <link>https://philip.lundrigan.org/Speakercast/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Oct 2001 14:00:00 -0700</lastBuildDate>
-    <pubDate>Sun, 07 Oct 2001 14:00:00 -0700</pubDate>
+    <lastBuildDate>Sun, 07 Oct 2001 14:00:00 -0600</lastBuildDate>
+    <pubDate>Sun, 07 Oct 2001 14:00:00 -0600</pubDate>
+    <itunes:author>Wayne S. Peterson</itunes:author>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
+    <itunes:image href="https://philip.lundrigan.org/Speakercast/covers/Wayne%20S.%20Peterson.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>General Conference talks by Wayne S. Peterson.</itunes:summary>
     <item>
       <title>Our Actions Determine Our Character</title>
-      <link>http://www.lds.org/general-conference/2001/10/our-actions-determine-our-character?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2001/10/our-actions-determine-our-character?lang=eng</link>
       <description>In most encounters we can determine the kind of experience we are going to have by how we respond.</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/2001/10/our-actions-determine-our-character" schema-version="1" doc-id="general-conference_PD10029371_000_033" doc-version="2" hash="9FIicw">
-  
-  <div class="heading" uri="/general-conference/2001/10/our-actions-determine-our-character.head">
-    <h1 class="title" pid="XtTobY6K4ESUO3SfiRk-6g" hash="NXW50w">Our Actions Determine Our Character</h1>
-    <p class="authorName" pid="brFtvc4VLEWtbqVNla-Jrg" hash="fFB0nA">Wayne S. Peterson</p>
-    <p class="kicker" pid="MXGOQzeuWkeJp2UgHf0ghQ" hash="hjJOgw">In most encounters we can determine the kind of experience we are going to have by how we respond.</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/2001/10/our-actions-determine-our-character.t1">
-      <img src="ensignlp.nfo-o-1387.jpg" alt="Elder Wayne S. Peterson" pid="rYQhDrYdTUGB1C1163M2GA" hash="J0A5Pw" />
-      <p class="para" uri="/general-conference/2001/10/our-actions-determine-our-character.p1" pid="_gvMaWvetka_8CiCKCofwA" hash="d5BYUw">Many years ago, while on vacation with my family, I had an experience that taught me a great lesson. On a Saturday, my wife and I decided to take the children for a drive and to do some shopping. During the drive the children fell asleep, and not wanting to wake them, I volunteered to stay in the car while my wife ran into the store.</p>
-      <p class="para" uri="/general-conference/2001/10/our-actions-determine-our-character.p2" pid="3xXEwlF3F0m4K3gkgIXsQw" hash="-y5hNQ">While waiting, I glanced at the car parked in front of me. It was full of children, and they were looking at me. My eyes caught the eyes of a small boy, six or seven years old. As our eyes met, he immediately stuck his tongue out at me.</p>
-      <p class="para" uri="/general-conference/2001/10/our-actions-determine-our-character.p3" pid="Xq6fdy2o40qBx_2T3RDvNQ" hash="x5o0dQ">My first reaction was to stick my tongue out at him. I thought, <span class="emphasis">What have I done to deserve this?</span> Fortunately, before I reacted, I remembered a principle taught in general conference the week before by Elder Marvin J. Ashton (see Conference Report, Oct. 1970, 36–38; or <span class="emphasis">Improvement Era,</span> Dec. 1970, 59–60). He taught how important it was to act instead of react to the events around us. So I waved at the little boy. He stuck his tongue out at me again. I smiled and waved again. This time he waved back.</p>
-      <p class="para" uri="/general-conference/2001/10/our-actions-determine-our-character.p4" pid="tKAH1ndxUECNtNgk2OAqcw" hash="2NA9Jw">Soon he was joined in his enthusiastic waving by a little brother and sister. I responded by waving this way and that until my arm became tired. Then I rested it on the steering wheel and continued with every creative wave I could muster, all the time hoping their parents would quickly return or that my wife would soon come back.</p>
-      <p class="para" uri="/general-conference/2001/10/our-actions-determine-our-character.p5" pid="y5hMhVN-gkCKhDxCsfKqqw" hash="cJzz-Q">The parents finally did come, and as they pulled away, my newfound friends continued to wave for as long as I could see them.</p>
-      <p class="para" uri="/general-conference/2001/10/our-actions-determine-our-character.p6" pid="nyG7jAaKqk2SKU0IL8D8xQ" hash="NfHJWQ">That was a simple experience, but it demonstrated that in most encounters we can <span class="emphasis">determine</span> the kind of experience we are going to have by how we respond. I was grateful that I chose to act in a friendly way rather than react to my young friend’s childish behavior. In doing so I avoided the negative feelings I would have felt had I followed my natural instinct.</p>
-      <p class="para" uri="/general-conference/2001/10/our-actions-determine-our-character.p7" pid="DWmJta0ILEewKwoMzTJCDQ" hash="mYmlig">In His instructions to the Nephites, the Savior taught, “Therefore, all things whatsoever ye would that men should do to you, do ye even so to them” (<a href="/scriptures/bofm/3-ne/14.12" class="scriptureRef">3 Ne. 14:12</a>).</p>
-      <p class="para" uri="/general-conference/2001/10/our-actions-determine-our-character.p8" pid="FFRptAz4VU-aGCduz5sbSA" hash="kcszTw">Imagine the effect it would have in the world if everyone practiced this Golden Rule. But to do so seems contrary to human nature. King Benjamin declared that “the natural man is an enemy to God,” and will remain such until he “yields to the enticings of the Holy Spirit, and putteth off the natural man” and learns to be “submissive, meek, humble, patient, [and] full of love” (<a href="/scriptures/bofm/mosiah/3.19" class="scriptureRef">Mosiah 3:19</a>).</p>
-      <p class="para" uri="/general-conference/2001/10/our-actions-determine-our-character.p9" pid="VwbjvihJikWI5ZLTtTHrLg" hash="quEqLQ">In today’s fast-paced world there seems to be a greater tendency for people to act aggressively toward each other. Some are quick to take offense and respond angrily to real or imagined affronts, and we’ve all experienced or heard reports of road rage or other examples of rude, insensitive behavior.</p>
-      <p class="para" uri="/general-conference/2001/10/our-actions-determine-our-character.p10" pid="czlxNgjWuk6K8wU6jsy4dQ" hash="gckl7w">Unfortunately, some of this spills over into our homes, creating friction and tension among family members.</p>
-      <p class="para" uri="/general-conference/2001/10/our-actions-determine-our-character.p11" pid="ZxNXJYc96kijzy6U7r7vkg" hash="Kf0a_w">It may seem natural to react to a situation by giving back what is given to us. But it doesn’t have to be that way. Reflecting on his horrendous wartime experiences, Viktor Frankl recalled: “We who lived in concentration camps can remember the men who walked through the huts comforting others, giving away their last piece of bread. They may have been few in number, but they offer sufficient proof that everything can be taken from a man but one thing: the last of the human freedoms—<span class="emphasis">to choose one’s attitude in any given set of circumstances,</span> to choose one’s own way” (<span class="emphasis">Man’s Search for Meaning</span> [1985], 86; emphasis added).</p>
-      <p class="para" uri="/general-conference/2001/10/our-actions-determine-our-character.p12" pid="Da41vtGDlUGr1pPTpyq1YQ" hash="YpleyQ">That is noble behavior and a high expectation, but Jesus expects no less of us. “Love your enemies,” He said, “bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you” (<a href="/scriptures/nt/matt/5.44" class="scriptureRef">Matt. 5:44</a>).</p>
-      <p class="para" uri="/general-conference/2001/10/our-actions-determine-our-character.p13" pid="pRBec_yOzkmJGxTwXDvEPA" hash="PV3Idg">A favorite hymn reinforces this teaching:</p>
-      <div class="poetry" uri="/general-conference/2001/10/our-actions-determine-our-character.f2">
-        <div class="stanza">
-          <p class="line" pid="uXDNGzrvEUaDqv7IzwsbVw" hash="dmsa3w">
-            <span class="emphasis">School thy feelings, O my brother;</span>
-          </p>
-          <p class="line" pid="0Xvnc-5C10yYENkAi-I1OA" hash="XUlBrA">
-            <span class="emphasis">Train thy warm, impulsive soul.</span>
-          </p>
-          <p class="line" pid="_JvKtX6YSUuRUWeNfeQ8_A" hash="TlS7CQ">
-            <span class="emphasis">Do not its emotions smother,</span>
-          </p>
-          <p class="line" pid="C-_-_n3HOUCpU_EJt8jtdA" hash="tA-Pjg">
-            <span class="emphasis">But let wisdom’s voice control.</span>
-          </p>
-        </div>
-      </div>
-      <p class="para" uri="/general-conference/2001/10/our-actions-determine-our-character.p14" pid="jVxyoNH7tk6bO0f9VlIbNA" hash="S5Tg4w">The decisions we make and the way we behave are what ultimately shape our character. Charles A. Hall aptly described that process in these lines: “We sow our thoughts, and we reap our actions; we sow our actions, and we reap our habits; we sow our habits, and we reap our characters; we sow our characters, and we reap our destiny” (quoted in <span class="emphasis">The Home Book of Quotations,</span> sel. Burton Stevenson [1934], 845).</p>
-      <p class="para" uri="/general-conference/2001/10/our-actions-determine-our-character.p15" pid="S6-y7xzr50CPZTvC6eU2yQ" hash="uwnI9Q">It is in the home that our behavior is most significant. It is the place where our actions have the greatest impact, for good or ill. Sometimes we are so much “at home” that we no longer guard our words. We forget simple civility. If we are not on guard, we can fall into the habit of criticizing one another, losing our tempers, or behaving selfishly. Because they love us, our spouses and children may be quick to forgive, but they often carry away in silence unseen injuries and unspoken heartache.</p>
-      <p class="para" uri="/general-conference/2001/10/our-actions-determine-our-character.p16" pid="N_4YOWhfZEKozUh5PqGRRw" hash="AJTWFg">There are too many homes where children fear their parents or where wives fear their husbands. Our leaders have reminded us that “fathers are to preside over their families in love and righteousness,” and warned “that individuals who … abuse spouse or offspring … will one day stand accountable before God” (“The Family: A Proclamation to the World,” <span class="emphasis">Ensign,</span> Nov. 1995, 102). The adversary knows that if he can foster an atmosphere of contention, conflict, and fear in the home, the Spirit is grieved, and the cords that ought to bind the family are weakened.</p>
-      <p class="para" uri="/general-conference/2001/10/our-actions-determine-our-character.p17" pid="LdeyVhqAdU2VTYLmSKjbdw" hash="i49tNQ">The resurrected Lord Himself declared, “For verily, verily I say unto you, he that hath the spirit of contention is not of me, but is of the devil, who is the father of contention, and he stirreth up the hearts of men to contend with anger, one with another” (<a href="/scriptures/bofm/3-ne/11.29" class="scriptureRef">3 Ne. 11:29</a>).</p>
-      <p class="para" uri="/general-conference/2001/10/our-actions-determine-our-character.p18" pid="-Q2IrCTmuEGpboc7rnrQ-w" hash="Czyo3Q">When we feel anger or contention in our homes, we should immediately recognize what power has taken control of our lives and what Satan is endeavoring to accomplish. Solomon provided us this wise formula: “A soft answer turneth away wrath: but grievous words stir up anger” (<a href="/scriptures/ot/prov/15.1" class="scriptureRef">Prov. 15:1</a>).</p>
-      <p class="para" uri="/general-conference/2001/10/our-actions-determine-our-character.p19" pid="Ph1eQpyGDE20rEpTZQspTA" hash="-TVTRQ">Our home should ideally be a refuge where each member feels safe, secure, loved, and insulated from harsh criticism and contention that we so often encounter in the world.</p>
-      <p class="para" uri="/general-conference/2001/10/our-actions-determine-our-character.p20" pid="9pTtTU7S-EilbiN5esxysQ" hash="qU5Llw">Christ set a perfect example of maintaining emotional control in every setting. Appearing before Caiaphas and Pilate, He was buffeted, slapped, spat upon, and mocked by His tormentors (see <a href="/scriptures/nt/matt/26.title" class="scriptureRef">Matt. 26</a>; <a href="/scriptures/nt/luke/23.title" class="scriptureRef">Luke 23</a>). The great irony was that they demeaned their Creator, whose suffering was undertaken out of love for them.</p>
-      <p class="para" uri="/general-conference/2001/10/our-actions-determine-our-character.p21" pid="dz2Yc5zDvkWAEuWgpMOZDA" hash="lAnJ7w">In the face of this unjust abuse, Jesus maintained His composure, refusing to act unkindly. Even on the cross, in the midst of that unspeakable agony, His plea was, “Father, forgive them; for they know not what they do” (<a href="/scriptures/nt/luke/23.34" class="scriptureRef">Luke 23:34</a>).</p>
-      <p class="para" uri="/general-conference/2001/10/our-actions-determine-our-character.p22" pid="iFVqH7OMukKVYISJOMls1w" hash="XX0lXw">He expects the same of us. To those who would follow Him, He said, “By this shall all men know that ye are my disciples, if ye have love one to another” (<a href="/scriptures/nt/john/13.35" class="scriptureRef">John 13:35</a>).</p>
-      <p class="para" uri="/general-conference/2001/10/our-actions-determine-our-character.p23" pid="LMUV2Sxz9EuuAv-KPRaruw" hash="hrgxJg">May we evidence our discipleship by strengthening our homes in kind and loving ways. May we remember that “a soft answer turneth away wrath” and strive through our relationships and encounters to shape a character that will meet with the Savior’s approval.</p>
-      <p class="para" uri="/general-conference/2001/10/our-actions-determine-our-character.p24" pid="XHsMdvUGnkOArG81K61OoA" hash="EzRQYA">Jesus Christ is the perfect example. He is our Savior and our Redeemer. I testify of Him! We are led by a living prophet today. In the name of Jesus Christ, amen.</p>
-    </div>
-  </div>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="83"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/4131fb9695ed2f2658f8c80352137c0dbbd7b891/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/4131fb9695ed2f2658f8c80352137c0dbbd7b891/full/%21192%2C/0/default" data-video-title="Our Actions Determine Our Character" data-video-description="In most encounters we can determine the kind of experience we are going to have by how we respond." data-video-id="2245685675001" data-ip="Download and Streaming                            " data-duration="626292" data-assetId="51ca512646ac13642cc5d12b655a7d16b67c7e38" data-ref-id="51ca512646ac13642cc5d12b655a7d16b67c7e38" data-duration-string="10:26" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/2245685675001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="640" data-height="360" data-file-size="25919023"/><source src="https://assets.churchofjesuschrist.org/51ca512646ac13642cc5d12b655a7d16b67c7e38-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="25919023"/></video><h1 data-aid="28817102" id="title1">Our Actions Determine Our Character</h1>
+<div class="byline">
+<p class="author-name" data-aid="28817103" id="p1">By Elder Wayne S. Peterson</p>
+<p class="author-role" data-aid="150471238" id="author2">Of the Seventy</p>
+<div class="image-cropper"><img alt="Elder Wayne S. Peterson" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/fwuetg2rk7m2hmxgis3tsmjtmndbqz004rv1jjdi/full/%21100%2C/0/default" data-assetId="fwuetg2rk7m2hmxgis3tsmjtmndbqz004rv1jjdi" srcset="https://www.churchofjesuschrist.org/imgs/fwuetg2rk7m2hmxgis3tsmjtmndbqz004rv1jjdi/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/fwuetg2rk7m2hmxgis3tsmjtmndbqz004rv1jjdi/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/fwuetg2rk7m2hmxgis3tsmjtmndbqz004rv1jjdi/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/fwuetg2rk7m2hmxgis3tsmjtmndbqz004rv1jjdi/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/fwuetg2rk7m2hmxgis3tsmjtmndbqz004rv1jjdi/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/fwuetg2rk7m2hmxgis3tsmjtmndbqz004rv1jjdi/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/fwuetg2rk7m2hmxgis3tsmjtmndbqz004rv1jjdi/full/%21640%2C/0/default 640w" data-img-id="fwuetg2rk7m2hmxgis3tsmjtmndbqz004rv1jjdi" data-missing-asset="false" data-width="100" data-height="124" data-aspect-ratio="0.8064516129032258" data-public-title="Peterson, Wayne S." data-public-description="Former official portrait of Elder Wayne S. Peterson of the Second Quorum of the Seventy, 2001.  Released 6 October 2007.  Called as president of the Nauvoo Illinois Temple."/></div>
+</div>
+<p class="kicker" data-aid="28817104" id="kicker1">In most encounters we can determine the kind of experience we are going to have by how we respond.</p>
+</header>
+<div class="body-block">
+<p data-aid="28817105" id="p2">Many years ago, while on vacation with my family, I had an experience that taught me a great lesson. On a Saturday, my wife and I decided to take the children for a drive and to do some shopping. During the drive the children fell asleep, and not wanting to wake them, I volunteered to stay in the car while my wife ran into the store.</p>
+<p data-aid="28817106" id="p3">While waiting, I glanced at the car parked in front of me. It was full of children, and they were looking at me. My eyes caught the eyes of a small boy, six or seven years old. As our eyes met, he immediately stuck his tongue out at me.</p>
+<p data-aid="28817107" id="p4">My first reaction was to stick my tongue out at him. I thought, “What have I done to deserve this?” Fortunately, before I reacted, I remembered a principle taught in general conference the week before by Elder Marvin J. Ashton (see Conference Report, Oct. 1970, 36–38; or <em>Improvement Era,</em> Dec. 1970, 59–60). He taught how important it was to act instead of react to the events around us. So I waved at the little boy. He stuck his tongue out at me again. I smiled and waved again. This time he waved back.</p>
+<p data-aid="28817108" id="p5">Soon he was joined in his enthusiastic waving by a little brother and sister. I responded by waving this way and that until my arm became tired. Then I rested it on the steering wheel and continued with every creative wave I could muster, all the time hoping their parents would quickly return or that my wife would soon come back.</p>
+<p data-aid="28817109" id="p6">The parents finally did come, and as they pulled away, my newfound friends continued to wave for as long as I could see them.</p>
+<p data-aid="28817110" id="p7">That was a simple experience, but it demonstrated that in most encounters we can <em>determine</em> the kind of experience we are going to have by how we respond. I was grateful that I chose to act in a friendly way rather than react to my young friend’s childish behavior. In doing so I avoided the negative feelings I would have felt had I followed my natural instinct.</p>
+<p data-aid="28817111" id="p8">In His instructions to the Nephites, the Savior taught, “Therefore, all things whatsoever ye would that men should do to you, do ye even so to them” (<a class="scripture-ref" href="/study/scriptures/bofm/3-ne/14?lang=eng&amp;id=p12#p12">3 Ne. 14:12</a>).</p>
+<p data-aid="28817112" id="p9">Imagine the effect it would have in the world if everyone practiced this Golden Rule. But to do so seems contrary to human nature. King Benjamin declared that “the natural man is an enemy to God,” and will remain such until he “yields to the enticings of the Holy Spirit, and putteth off the natural man” and learns to be “submissive, meek, humble, patient, [and] full of love” (<a class="scripture-ref" href="/study/scriptures/bofm/mosiah/3?lang=eng&amp;id=p19#p19">Mosiah 3:19</a>).</p>
+<p data-aid="28817113" id="p10">In today’s fast-paced world there seems to be a greater tendency for people to act aggressively toward each other. Some are quick to take offense and respond angrily to real or imagined affronts, and we’ve all experienced or heard reports of road rage or other examples of rude, insensitive behavior.</p>
+<p data-aid="28817114" id="p11">Unfortunately, some of this spills over into our homes, creating friction and tension among family members.</p>
+<p data-aid="28817115" id="p12">It may seem natural to react to a situation by giving back what is given to us. But it doesn’t have to be that way. Reflecting on his horrendous wartime experiences, Viktor Frankl recalled: “We who lived in concentration camps can remember the men who walked through the huts comforting others, giving away their last piece of bread. They may have been few in number, but they offer sufficient proof that everything can be taken from a man but one thing: the last of the human freedoms—<em>to choose one’s attitude in any given set of circumstances,</em> to choose one’s own way” (<em>Man’s Search for Meaning,</em> rev. ed. [1984], 86; emphasis added).</p>
+<p data-aid="28817116" id="p13">That is noble behavior and a high expectation, but Jesus expects no less of us. “Love your enemies,” He said, “bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you” (<a class="scripture-ref" href="/study/scriptures/nt/matt/5?lang=eng&amp;id=p44#p44">Matt. 5:44</a>).</p>
+<p data-aid="28817117" id="p14">A favorite hymn reinforces this teaching:</p>
+<div class="poetry">
+<div class="stanza">
+<p class="line" data-aid="28817118" id="p15">School thy feelings, O my brother;</p>
+<p class="line" data-aid="28817119" id="p16">Train thy warm, impulsive soul.</p>
+<p class="line" data-aid="28817120" id="p17">Do not its emotions smother,</p>
+<p class="line" data-aid="28817121" id="p18">But let wisdom’s voice control.</p>
+</div>
+<div class="citation-info">
+<p data-aid="150471239" id="p30">(“School Thy Feelings,” <em>Hymns,</em> no. 336)</p>
+</div>
+</div>
+<span class="page-break" data-page="84"></span>
+<p data-aid="28817122" id="p19">The decisions we make and the way we behave are what ultimately shape our character. Charles A. Hall aptly described that process in these lines: “We sow our thoughts, and we reap our actions; we sow our actions, and we reap our habits; we sow our habits, and we reap our characters; we sow our characters, and we reap our destiny” (quoted in Burton Stevenson, sel., <em>The Home Book of Quotations</em> [1934], 845).</p>
+<p data-aid="28817123" id="p20">It is in the home that our behavior is most significant. It is the place where our actions have the greatest impact, for good or ill. Sometimes we are so much “at home” that we no longer guard our words. We forget simple civility. If we are not on guard, we can fall into the habit of criticizing one another, losing our tempers, or behaving selfishly. Because they love us, our spouses and children may be quick to forgive, but they often carry away in silence unseen injuries and unspoken heartache.</p>
+<p data-aid="28817124" id="p21">There are too many homes where children fear their parents or where wives fear their husbands. Our leaders have reminded us that “fathers are to preside over their families in love and righteousness,” and warned “that individuals who … abuse spouse or offspring … will one day stand accountable before God” (“The Family: A Proclamation to the World,” <em>Ensign,</em> Nov. 1995, 102). The adversary knows that if he can foster an atmosphere of contention, conflict, and fear in the home, the Spirit is grieved and the cords that ought to bind the family are weakened.</p>
+<p data-aid="28817125" id="p22">The resurrected Lord Himself declared, “For verily, verily I say unto you, he that hath the spirit of contention is not of me, but is of the devil, who is the father of contention, and he stirreth up the hearts of men to contend with anger, one with another” (<a class="scripture-ref" href="/study/scriptures/bofm/3-ne/11?lang=eng&amp;id=p29#p29">3 Ne. 11:29</a>).</p>
+<p data-aid="28817126" id="p23">When we feel anger or contention in our homes, we should immediately recognize what power has taken control of our lives and what Satan is endeavoring to accomplish. Solomon provided us this wise formula: “A soft answer turneth away wrath: but grievous words stir up anger” (<a class="scripture-ref" href="/study/scriptures/ot/prov/15?lang=eng&amp;id=p1#p1">Prov. 15:1</a>).</p>
+<p data-aid="28817127" id="p24">Our home should ideally be a refuge where each member feels safe, secure, loved, and insulated from harsh criticism and contention that we so often encounter in the world.</p>
+<p data-aid="28817128" id="p25">Christ set a perfect example of maintaining emotional control in every setting. Appearing before Caiaphas and Pilate, He was buffeted, slapped, spat upon, and mocked by His tormentors (see <a class="scripture-ref" href="/study/scriptures/nt/matt/26?lang=eng">Matt. 26</a>; <a class="scripture-ref" href="/study/scriptures/nt/luke/23?lang=eng">Luke 23</a>). The great irony was that they demeaned their Creator, whose suffering was undertaken out of love for them.</p>
+<p data-aid="28817129" id="p26">In the face of this unjust abuse, Jesus maintained His composure, refusing to act unkindly. Even on the cross, in the midst of that unspeakable agony, His plea was, “Father, forgive them; for they know not what they do” (<a class="scripture-ref" href="/study/scriptures/nt/luke/23?lang=eng&amp;id=p34#p34">Luke 23:34</a>).</p>
+<p data-aid="28817130" id="p27">He expects the same of us. To those who would follow Him, He said, “By this shall all men know that ye are my disciples, if ye have love one to another” (<a class="scripture-ref" href="/study/scriptures/nt/john/13?lang=eng&amp;id=p35#p35">John 13:35</a>).</p>
+<p data-aid="28817131" id="p28">May we evidence our discipleship by strengthening our homes in kind and loving ways. May we remember that “a soft answer turneth away wrath” and strive through our relationships and encounters to shape a character that will meet with the Savior’s approval.</p>
+<p data-aid="28817132" id="p29">Jesus Christ is the perfect example. He is our Savior and our Redeemer. I testify of Him! We are led by a living prophet today. In the name of Jesus Christ, amen.</p>
 </div>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/2001/10/our-actions-determine-our-character</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/october-2001-general-conference/2001-10-5040-elder-wayne-s-peterson-64k-eng.mp3" length="5011511" type="audio/mpeg"/>
-      <pubDate>Sun, 07 Oct 2001 14:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/713f77fc32ca11ec8868eeeeac1e3d38dc8510d5-64k-en.mp3" length="5149084" type="audio/mpeg"/>
+      <pubDate>Sun, 07 Oct 2001 14:00:00 -0600</pubDate>
+      <itunes:author>Wayne S. Peterson</itunes:author>
     </item>
   </channel>
 </rss>

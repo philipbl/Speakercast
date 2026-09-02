@@ -1,1 +1,2777 @@
-[{"name": "Joseph Fielding Smith", "count": 9}, {"name": "Spencer W. Kimball", "count": 69}, {"name": "Marvin J. Ashton", "count": 44}, {"name": "Ezra Taft Benson", "count": 59}, {"name": "Marion G. Romney", "count": 58}, {"name": "ElRay L. Christiansen", "count": 8}, {"name": "S. Dilworth Young", "count": 12}, {"name": "Milton R. Hunter", "count": 3}, {"name": "Sterling W. Sill", "count": 11}, {"name": "Franklin D. Richards", "count": 17}, {"name": "Mark E. Petersen", "count": 27}, {"name": "Howard W. Hunter", "count": 50}, {"name": "David B. Haight", "count": 60}, {"name": "Victor L. Brown", "count": 28}, {"name": "Wendell J. Ashton", "count": 1}, {"name": "N. Eldon Tanner", "count": 46}, {"name": "Harold B. Lee", "count": 16}, {"name": "John H. Vandenberg", "count": 10}, {"name": "A. Theodore Tuttle", "count": 17}, {"name": "Gordon B. Hinckley", "count": 208}, {"name": "Richard L. Evans", "count": 2}, {"name": "Joseph Anderson", "count": 12}, {"name": "Bruce R. McConkie", "count": 27}, {"name": "Hartman Rector, Jr.", "count": 16}, {"name": "Loren C. Dunn", "count": 18}, {"name": "Theodore M. Burton", "count": 14}, {"name": "Bernard P. Brockbank", "count": 11}, {"name": "Boyd K. Packer", "count": 89}, {"name": "Alvin R. Dyer", "count": 3}, {"name": "Marion D. Hanks", "count": 20}, {"name": "James A. Cullimore", "count": 10}, {"name": "Thomas S. Monson", "count": 200}, {"name": "LeGrand Richards", "count": 21}, {"name": "Eldred G. Smith", "count": 10}, {"name": "Paul H. Dunn", "count": 14}, {"name": "Delbert L. Stapley", "count": 11}, {"name": "William H. Bennett", "count": 7}, {"name": "Henry D. Taylor", "count": 10}, {"name": "Robert L. Simpson", "count": 13}, {"name": "James O. Mason", "count": 2}, {"name": "Dallin H. Oaks", "count": 69}, {"name": "Hugh B. Brown", "count": 2}, {"name": "Vaughn J. Featherstone", "count": 18}, {"name": "H. Burke Peterson", "count": 21}, {"name": "J. Thomas Fyans", "count": 14}, {"name": "O. Leslie Stone", "count": 9}, {"name": "James E. Faust", "count": 100}, {"name": "Rex D. Pinegar", "count": 15}, {"name": "L. Tom Perry", "count": 87}, {"name": "Robert L. Backman", "count": 9}, {"name": "Neal A. Maxwell", "count": 52}, {"name": "William Grant Bangerter", "count": 2}, {"name": "Robert D. Hales", "count": 58}, {"name": "Adney Y. Komatsu", "count": 9}, {"name": "Joseph B. Wirthlin", "count": 53}, {"name": "Gene R. Cook", "count": 9}, {"name": "Charles A. Didier", "count": 3}, {"name": "William R. Bradford", "count": 9}, {"name": "W. Grant Bangerter", "count": 4}, {"name": "George P. Lee", "count": 6}, {"name": "Barbara B. Smith", "count": 20}, {"name": "Carlos E. Asay", "count": 11}, {"name": "Russell Ballard, Jr.", "count": 2}, {"name": "John H. Groberg", "count": 10}, {"name": "Jacob de Jager", "count": 8}, {"name": "Dean L. Larsen", "count": 11}, {"name": "Robert E. Wells", "count": 7}, {"name": "J. Richard Clarke", "count": 13}, {"name": "Wilford G. Edling", "count": 15}, {"name": "Mr. Arch Monson", "count": 1}, {"name": "G. Homer Durham", "count": 4}, {"name": "James M. Paramore", "count": 9}, {"name": "Royden G. Derrick", "count": 6}, {"name": "Richard G. Scott", "count": 59}, {"name": "Hugh W. Pinnock", "count": 8}, {"name": "F. Enzio Busche", "count": 7}, {"name": "Yoshihiko Kikuchi", "count": 8}, {"name": "Ronald E. Poelman", "count": 7}, {"name": "Derek A. Cuthbert", "count": 5}, {"name": "Rex C. Reeve", "count": 3}, {"name": "F. Burton Howard", "count": 7}, {"name": "Teddy E. Brewerton", "count": 2}, {"name": "H. Goaslind, Jr.", "count": 1}, {"name": "M. Russell Ballard", "count": 73}, {"name": "Ruth H. Funk", "count": 1}, {"name": "Sister Elaine Cannon", "count": 2}, {"name": "Charles Didier", "count": 9}, {"name": "Naomi M. Shumway", "count": 1}, {"name": "Harold G. Hillam", "count": 6}, {"name": "Shirley W. Thomas", "count": 3}, {"name": "C. Reeve, Sr.", "count": 1}, {"name": "Douglas W. DeHaan", "count": 1}, {"name": "Mary F. Foulger", "count": 1}, {"name": "Addie Fuhriman", "count": 1}, {"name": "Marian R. Boyer", "count": 2}, {"name": "Angel Abrea", "count": 6}, {"name": "H Goaslind, Jr.", "count": 1}, {"name": "Sister JoAnn Randall", "count": 1}, {"name": "Brother Nyle Randall", "count": 1}, {"name": "Dwan J. Young", "count": 6}, {"name": "Elaine Cannon", "count": 2}, {"name": "C. Frederick Pingel", "count": 1}, {"name": "Brother Michael Nicholas", "count": 1}, {"name": "Dean Jarman", "count": 1}, {"name": "Jeffrey R. Holland", "count": 50}, {"name": "Matthew S. Holland", "count": 1}, {"name": "Ted E. Brewerton", "count": 4}, {"name": "Jack H Goaslind, Jr.", "count": 1}, {"name": "James M. Dunn", "count": 2}, {"name": "Elaine A. Cannon", "count": 1}, {"name": "Wm. Grant Bangerter", "count": 4}, {"name": "Devin G. Durrant", "count": 2}, {"name": "Russell M. Nelson", "count": 69}, {"name": "Barbara W. Winder", "count": 7}, {"name": "John K. Carmack", "count": 4}, {"name": "Ardeth Greene Kapp", "count": 1}, {"name": "Russell C. Taylor", "count": 2}, {"name": "Robert B. Harbertson", "count": 1}, {"name": "Devere Harris", "count": 1}, {"name": "R. LaVell Edwards", "count": 1}, {"name": "Spencer H. Osborn", "count": 1}, {"name": "Philip T. Sonntag", "count": 1}, {"name": "Ardeth G. Kapp", "count": 6}, {"name": "John Sonnenberg", "count": 2}, {"name": "F. Arthur Kay", "count": 2}, {"name": "Keith W. Wilcox", "count": 1}, {"name": "Brother Peter Vidmar", "count": 1}, {"name": "Henry B. Eyring", "count": 79}, {"name": "Glenn L. Pace", "count": 8}, {"name": "Hans B. Ringger", "count": 4}, {"name": "Waldo P. Call", "count": 2}, {"name": "da Rocha Camargo", "count": 1}, {"name": "Don Lind", "count": 1}, {"name": "Jack H. Goaslind", "count": 1}, {"name": "Francis M. Gibbons", "count": 3}, {"name": "H. Verlan Andersen", "count": 2}, {"name": "George I. Cannon", "count": 2}, {"name": "Gardner H. Russell", "count": 2}, {"name": "Douglas J. Martin", "count": 1}, {"name": "Alexander B. Morrison", "count": 4}, {"name": "L. Aldin Porter", "count": 6}, {"name": "Lynn A. Sorensen", "count": 1}, {"name": "Joanne B. Doxey", "count": 2}, {"name": "Joy F. Evans", "count": 2}, {"name": "Douglas H. Smith", "count": 1}, {"name": "Glen L. Rudd", "count": 1}, {"name": "R. Hill III", "count": 1}, {"name": "John R. Lasater", "count": 1}, {"name": "Robert E. Sackley", "count": 1}, {"name": "L. Lionel Kendrick", "count": 3}, {"name": "Monte J. Brough", "count": 5}, {"name": "Albert Choules, Jr.", "count": 2}, {"name": "Lloyd P. George", "count": 2}, {"name": "Gerald E. Melchin", "count": 2}, {"name": "Michaelene P. Grassli", "count": 5}, {"name": "W. Eugene Hansen", "count": 4}, {"name": "Marlin K. Jensen", "count": 5}, {"name": "Carlos H. Amado", "count": 5}, {"name": "Ben B. Banks", "count": 4}, {"name": "Joe J. Christensen", "count": 5}, {"name": "Jayne B. Malan", "count": 2}, {"name": "Elaine L. Jack", "count": 12}, {"name": "Richard P. Lindsay", "count": 2}, {"name": "Spencer J. Condie", "count": 4}, {"name": "F. Melvin Hammond", "count": 3}, {"name": "Kenneth Johnson", "count": 4}, {"name": "Clinton L. Cutler", "count": 1}, {"name": "Malcolm S. Jeppsen", "count": 2}, {"name": "Horacio A. Tenorio", "count": 2}, {"name": "Merlin R. Lybbert", "count": 2}, {"name": "Eduardo Ayala", "count": 2}, {"name": "LeGrand R. Curtis", "count": 2}, {"name": "Robert K. Dellenbach", "count": 3}, {"name": "Helv\u00e9cio Martins", "count": 2}, {"name": "Lynn A. Mickelsen", "count": 3}, {"name": "J Ballard Washburn", "count": 2}, {"name": "Durrel A. Woolsey", "count": 2}, {"name": "Ruth B. Wright", "count": 3}, {"name": "Helio R. Camargo", "count": 1}, {"name": "Betty Jo Jepsen", "count": 1}, {"name": "Earl C. Tingey", "count": 8}, {"name": "Rulon G. Craven", "count": 2}, {"name": "W. Mack Lawrence", "count": 2}, {"name": "Jack H Goaslind", "count": 3}, {"name": "Janette C. Hales", "count": 4}, {"name": "Graham W. Doxey", "count": 1}, {"name": "Cree-L Kofford", "count": 2}, {"name": "Joseph C. Muren", "count": 1}, {"name": "Dennis B. Neuenschwander", "count": 5}, {"name": "Jorge A. Rojas", "count": 1}, {"name": "Aileen H. Clyde", "count": 8}, {"name": "Chieko N. Okazaki", "count": 8}, {"name": "Ted E. Davis", "count": 9}, {"name": "Han In Sang", "count": 1}, {"name": "Stephen D. Nadauld", "count": 1}, {"name": "Sam K. Shimabukuro", "count": 1}, {"name": "Lino Alvarez", "count": 1}, {"name": "Dallas N. Archibald", "count": 1}, {"name": "Merrill J. Bateman", "count": 5}, {"name": "C. Max Caldwell", "count": 1}, {"name": "Gary J. Coleman", "count": 3}, {"name": "John B. Dickson", "count": 4}, {"name": "Jo N. Jepsen", "count": 1}, {"name": "John E. Fowler", "count": 1}, {"name": "Jay E. Jensen", "count": 5}, {"name": "Augusto A. Lim", "count": 1}, {"name": "Virginia H. Pearce", "count": 7}, {"name": "Richard C. Edgley", "count": 14}, {"name": "John M. Madsen", "count": 3}, {"name": "V. Dallas Merrell", "count": 1}, {"name": "David E. Sorensen", "count": 5}, {"name": "F. David Stanley", "count": 1}, {"name": "H. David Burton", "count": 14}, {"name": "Neil L. Andersen", "count": 23}, {"name": "D. Todd Christofferson", "count": 26}, {"name": "Tai Kwok Yuen", "count": 1}, {"name": "Lowell D. Wood", "count": 1}, {"name": "Jeanne Inouye", "count": 1}, {"name": "Patricia P. Pinegar", "count": 4}, {"name": "Claudio R. M. Costa", "count": 6}, {"name": "W. Don Ladd", "count": 1}, {"name": "Dieter F. Uchtdorf", "count": 57}, {"name": "Lance B. Wickman", "count": 3}, {"name": "O. Samuelson, Jr.", "count": 1}, {"name": "Bonnie D. Parkin", "count": 12}, {"name": "Andrew W. Peterson", "count": 1}, {"name": "Melanie Eaton", "count": 1}, {"name": "Andrea Allen", "count": 1}, {"name": "Hilarie Cole", "count": 1}, {"name": "Karen Maxwell", "count": 1}, {"name": "Janette Hales Beckham", "count": 4}, {"name": "W. Craig Zwick", "count": 5}, {"name": "Bruce D. Porter", "count": 4}, {"name": "Anne G. Wirthlin", "count": 2}, {"name": "of Latter-day Saints", "count": 1}, {"name": "Keith B. McMullin", "count": 11}, {"name": "Susan L. Warner", "count": 2}, {"name": "Anne Marie Rose", "count": 1}, {"name": "Kirstin Boyer", "count": 1}, {"name": "Anne Prescott", "count": 1}, {"name": "Bruce C. Hafen", "count": 2}, {"name": "Quentin L. Cook", "count": 23}, {"name": "Francisco J. Vi\u00f1as", "count": 4}, {"name": "Wm. Rolfe Kerr", "count": 1}, {"name": "Sheldon F. Child", "count": 3}, {"name": "Dennis E. Simmons", "count": 2}, {"name": "Jerald L. Taylor", "count": 1}, {"name": "L. Edward Brown", "count": 1}, {"name": "Kristin Banner", "count": 1}, {"name": "Fono Lavatai", "count": 1}, {"name": "Alejandra Hern\u00e1ndez", "count": 1}, {"name": "Richard B. Wirthlin", "count": 1}, {"name": "Carl B. Pratt", "count": 3}, {"name": "Mary Ellen Smoot", "count": 6}, {"name": "Richard D. Allred", "count": 1}, {"name": "Eran A. Call", "count": 1}, {"name": "Richard J. Maynes", "count": 6}, {"name": "Duane B. Gerrard", "count": 1}, {"name": "Wayne M. Hancock", "count": 1}, {"name": "J. Kent Jolley", "count": 1}, {"name": "Virginia U. Jensen", "count": 7}, {"name": "Sheri L. Dew", "count": 7}, {"name": "Richard E. Cook", "count": 1}, {"name": "Dale E. Miller", "count": 2}, {"name": "Margaret D. Nadauld", "count": 8}, {"name": "Lynn G. Robbins", "count": 5}, {"name": "Donald L. Staheli", "count": 2}, {"name": "E. Turley Sr.", "count": 1}, {"name": "Carol B. Thomas", "count": 7}, {"name": "Sharon G. Larsen", "count": 7}, {"name": "E Ray Bateman", "count": 1}, {"name": "Athos M. Amor\u00edm", "count": 1}, {"name": "Val R. Christensen", "count": 1}, {"name": "H. Bryan Richards", "count": 2}, {"name": "Ronald T. Halverson", "count": 2}, {"name": "Earl M. Monson", "count": 1}, {"name": "Merrill C. Oaks", "count": 1}, {"name": "Gordon T. Watts", "count": 1}, {"name": "Stephen A. West", "count": 1}, {"name": "Robert J. Whetten", "count": 2}, {"name": "Ray H. Wood", "count": 1}, {"name": "Ned B. Rouech\u00e9", "count": 2}, {"name": "D. Lee Tobler", "count": 1}, {"name": "Adhemar Damiani", "count": 2}, {"name": "Stephen B. Oveson", "count": 2}, {"name": "David R. Stone", "count": 2}, {"name": "H. Bruce Stucki", "count": 2}, {"name": "Richard H. Winkel", "count": 2}, {"name": "Robert S. Wood", "count": 2}, {"name": "Coleen K. Menlove", "count": 3}, {"name": "Donald L. Hallstrom", "count": 7}, {"name": "Ronald A. Rasband", "count": 11}, {"name": "Douglas L. Callister", "count": 2}, {"name": "Keith Crockett", "count": 1}, {"name": "H. Aldridge Gillespie", "count": 1}, {"name": "Robert C. Oaks", "count": 3}, {"name": "Sydney S. Reynolds", "count": 2}, {"name": "Darwin B. Christenson", "count": 1}, {"name": "L. Whitney Clayton", "count": 7}, {"name": "Christoffel Golden Jr.", "count": 3}, {"name": "Walter F. Gonz\u00e1lez", "count": 5}, {"name": "O. Samuelson Jr.", "count": 1}, {"name": "Steven E. Snow", "count": 5}, {"name": "Keith K. Hilbig", "count": 2}, {"name": "Robert F. Orton", "count": 1}, {"name": "Wayne S. Peterson", "count": 1}, {"name": "H. Ross Workman", "count": 1}, {"name": "Ellen W. Smoot", "count": 2}, {"name": "R. Conrad Schultz", "count": 1}, {"name": "Robert R. Steuer", "count": 2}, {"name": "Gayle M. Clegg", "count": 2}, {"name": "Gerald N. Lund", "count": 2}, {"name": "William R. Walker", "count": 3}, {"name": "Kathleen H. Hughes", "count": 7}, {"name": "Anne C. Pingree", "count": 7}, {"name": "Craig C. Christensen", "count": 5}, {"name": "Daryl H. Garn", "count": 1}, {"name": "Susan W. Tanner", "count": 9}, {"name": "Spencer V. Jones", "count": 1}, {"name": "D. Rex Gerratt", "count": 1}, {"name": "Julie B. Beck", "count": 15}, {"name": "Elaine S. Dalton", "count": 15}, {"name": "Shirley D. Christensen", "count": 1}, {"name": "William W. Parmley", "count": 1}, {"name": "W. Rolfe Kerr", "count": 1}, {"name": "Mervyn B. Arnold", "count": 3}, {"name": "Clate W. Mask Jr.", "count": 1}, {"name": "W. Douglas Shumway", "count": 1}, {"name": "Cecil O. Samuelson Jr.", "count": 2}, {"name": "David A. Bednar", "count": 26}, {"name": "Benjam\u00edn De Hoyos", "count": 3}, {"name": "C. Scott Grow", "count": 3}, {"name": "Paul K. Sybrowsky", "count": 1}, {"name": "Paul V. Johnson", "count": 3}, {"name": "Cheryl C. Lant", "count": 3}, {"name": "Won Yong Ko", "count": 1}, {"name": "Paul E. Koelliker", "count": 2}, {"name": "Lowell M. Snow", "count": 1}, {"name": "Ulisses Soares", "count": 5}, {"name": "David F. Evans", "count": 3}, {"name": "Wolfgang H. Paul", "count": 1}, {"name": "Richard G. Hinckley", "count": 1}, {"name": "Paul B. Pieper", "count": 2}, {"name": "David S. Baxter", "count": 2}, {"name": "Shayne M. Bowen", "count": 2}, {"name": "Daniel L. Johnson", "count": 2}, {"name": "Marcus B. Nash", "count": 2}, {"name": "Stanley G. Ellis", "count": 3}, {"name": "Margaret S. Lifferth", "count": 2}, {"name": "Anthony D. Perkins", "count": 2}, {"name": "A. Roger Merrill", "count": 1}, {"name": "Craig A. Cardon", "count": 2}, {"name": "Don R. Clarke", "count": 2}, {"name": "Keith R. Edwards", "count": 1}, {"name": "Larry W. Gibbons", "count": 1}, {"name": "Vicki F. Matsumori", "count": 2}, {"name": "W. Dahlquist II", "count": 1}, {"name": "Mary N. Cook", "count": 7}, {"name": "Enrique R. Falabella", "count": 2}, {"name": "Erich W. Kopischke", "count": 2}, {"name": "Michael J. Teh", "count": 1}, {"name": "Daniel K Judd", "count": 1}, {"name": "Octaviano Tenorio", "count": 1}, {"name": "Claudio D. Zivic", "count": 2}, {"name": "Silvia H. Allred", "count": 7}, {"name": "Barbara Thompson", "count": 7}, {"name": "Dean R. Burgess", "count": 1}, {"name": "Marcos A. Aidukaitis", "count": 2}, {"name": "G\u00e9rald Causs\u00e9", "count": 4}, {"name": "Lawrence E. Corbridge", "count": 2}, {"name": "James J. Hamula", "count": 2}, {"name": "William D. Oswald", "count": 1}, {"name": "Eduardo Gavarret", "count": 2}, {"name": "Carlos A. Godoy", "count": 2}, {"name": "Michael A. Neider", "count": 1}, {"name": "Allan F. Packer", "count": 2}, {"name": "Kevin W. Pearson", "count": 2}, {"name": "Rafael E. Pino", "count": 2}, {"name": "Gary E. Stevenson", "count": 8}, {"name": "Jos\u00e9 A. Teixeira", "count": 2}, {"name": "F. Michael Watson", "count": 1}, {"name": "Russell T. Osguthorpe", "count": 2}, {"name": "Jorge F. Zeballos", "count": 2}, {"name": "Tad R. Callister", "count": 5}, {"name": "Kent D. Watson", "count": 1}, {"name": "Yoon Hwan Choi", "count": 2}, {"name": "Ann M. Dibb", "count": 6}, {"name": "Brent H. Nielson", "count": 2}, {"name": "Dale G. Renlund", "count": 7}, {"name": "Michael T. Ringwood", "count": 2}, {"name": "Joseph W. Sitati", "count": 2}, {"name": "Wilford W. Andersen", "count": 2}, {"name": "Koichi Aoyagi", "count": 2}, {"name": "Bruce A. Carlson", "count": 1}, {"name": "David L. Beck", "count": 2}, {"name": "Bradley D. Foster", "count": 2}, {"name": "James B. Martino", "count": 2}, {"name": "Gregory A. Schwitzer", "count": 2}, {"name": "Rosemary M. Wixom", "count": 5}, {"name": "David M. McConkie", "count": 2}, {"name": "Kevin R. Duncan", "count": 2}, {"name": "Gerrit W. Gong", "count": 2}, {"name": "Patrick Kearon", "count": 2}, {"name": "Juan A. Uceda", "count": 2}, {"name": "Larry R. Lawrence", "count": 2}, {"name": "Per G. Malm", "count": 1}, {"name": "Jairo Mazzagardi", "count": 2}, {"name": "Jean A. Stevens", "count": 3}, {"name": "Kent F. Richards", "count": 2}, {"name": "Larry M. Gibson", "count": 2}, {"name": "Jos\u00e9 L. Alonso", "count": 1}, {"name": "Ian S. Ardern", "count": 1}, {"name": "Carl B. Cook", "count": 2}, {"name": "LeGrand R. Curtis Jr.", "count": 2}, {"name": "W. Christopher Waddell", "count": 3}, {"name": "Matthew O. Richardson", "count": 1}, {"name": "Kazuhiko Yamashita", "count": 2}, {"name": "Randall K. Bennett", "count": 2}, {"name": "J. Devn Cornish", "count": 2}, {"name": "Cheryl A. Esplin", "count": 4}, {"name": "Adri\u00e1n Ochoa", "count": 2}, {"name": "O. Vincent Haleck", "count": 2}, {"name": "Larry Y. Wilson", "count": 1}, {"name": "Larry Echo Hawk", "count": 1}, {"name": "Robert C. Gay", "count": 1}, {"name": "Scott D. Whiting", "count": 1}, {"name": "Linda K. Burton", "count": 7}, {"name": "Dean M. Davies", "count": 3}, {"name": "Carole M. Stephens", "count": 5}, {"name": "Edward Dube", "count": 1}, {"name": "S. Gifford Nielsen", "count": 1}, {"name": "Arnulfo Valenzuela", "count": 1}, {"name": "Timothy J. Dyches", "count": 1}, {"name": "Randy D. Funk", "count": 1}, {"name": "Bonnie L. Oscarson", "count": 6}, {"name": "Kevin S. Hamilton", "count": 1}, {"name": "Terence M. Vinson", "count": 1}, {"name": "Linda S. Reeves", "count": 4}, {"name": "Randall L. Ridd", "count": 1}, {"name": "Michael John U. Teh", "count": 1}, {"name": "Chi Hong (Sam) Wong", "count": 1}, {"name": "J\u00f6rg Klebingat", "count": 1}, {"name": "Carol F. McConkie", "count": 4}, {"name": "Hugo E. Martinez", "count": 1}, {"name": "Larry S. Kacher", "count": 1}, {"name": "Neill F. Marriott", "count": 4}, {"name": "Hugo Montoya", "count": 1}, {"name": "Vern P. Stanfill", "count": 1}, {"name": "Von G. Keetch", "count": 1}, {"name": "Allen D. Haynie", "count": 1}, {"name": "Kim B. Clark", "count": 1}, {"name": "Mary R. Durham", "count": 1}, {"name": "Stephen W. Owen", "count": 2}, {"name": "Jean B. Bingham", "count": 2}, {"name": "W. Mark Bassett", "count": 1}, {"name": "Peter F. Meurs", "count": 1}, {"name": "Brian K. Ashton", "count": 1}, {"name": "Evan A. Schmutz", "count": 1}, {"name": "K. Brett Nattress", "count": 1}, {"name": "Bonnie H. Cordon", "count": 1}, {"name": "M. Joseph Brough", "count": 1}, {"name": "Weatherford T. Clayton", "count": 1}, {"name": "Mark A. Bragg", "count": 1}, {"name": "Gary B. Sabin", "count": 1}, {"name": "Valeri V. Cord\u00f3n", "count": 1}, {"name": "Joy D. Jones", "count": 2}, {"name": "Joaquin E. Costa", "count": 1}, {"name": "S. Mark Palmer", "count": 1}, {"name": "Sharon Eubank", "count": 1}, {"name": "John C. Pingree Jr.", "count": 1}, {"name": "Joni L. Koch", "count": 1}, {"name": "Adilson de Paula Parrella", "count": 1}, {"name": "Jose L. Alonso", "count": 1}]
+[
+ {
+  "name": "Angel Abrea",
+  "count": 6,
+  "latest": "2000-04-01"
+ },
+ {
+  "name": "Reyna I. Aburto",
+  "count": 4,
+  "latest": "2022-04-02"
+ },
+ {
+  "name": "Marcos A. Aidukaitis",
+  "count": 3,
+  "latest": "2022-04-02"
+ },
+ {
+  "name": "Andrea Allen",
+  "count": 1,
+  "latest": "1995-03-25"
+ },
+ {
+  "name": "Rubén V. Alliaud",
+  "count": 2,
+  "latest": "2024-10-06"
+ },
+ {
+  "name": "Richard D. Allred",
+  "count": 1,
+  "latest": "1997-10-04"
+ },
+ {
+  "name": "Silvia H. Allred",
+  "count": 7,
+  "latest": "2011-09-24"
+ },
+ {
+  "name": "José L. Alonso",
+  "count": 2,
+  "latest": "2017-10-01"
+ },
+ {
+  "name": "Jose L. Alonso",
+  "count": 1,
+  "latest": "2024-04-06"
+ },
+ {
+  "name": "Jorge M. Alvarado",
+  "count": 2,
+  "latest": "2024-10-05"
+ },
+ {
+  "name": "Lino Alvarez",
+  "count": 1,
+  "latest": "1992-10-03"
+ },
+ {
+  "name": "Laudy Ruth Kaouk Alvarez",
+  "count": 1,
+  "latest": "2020-04-04"
+ },
+ {
+  "name": "Carlos H. Amado",
+  "count": 5,
+  "latest": "2014-04-05"
+ },
+ {
+  "name": "Athos M. Amorím",
+  "count": 1,
+  "latest": "1998-10-03"
+ },
+ {
+  "name": "John D. Amos",
+  "count": 1,
+  "latest": "2025-10-05"
+ },
+ {
+  "name": "H. Verlan Andersen",
+  "count": 2,
+  "latest": "1991-10-06"
+ },
+ {
+  "name": "Neil L. Andersen",
+  "count": 39,
+  "latest": "2026-04-05"
+ },
+ {
+  "name": "Wilford W. Andersen",
+  "count": 2,
+  "latest": "2015-04-04"
+ },
+ {
+  "name": "Joseph Anderson",
+  "count": 12,
+  "latest": "1986-10-04"
+ },
+ {
+  "name": "Koichi Aoyagi",
+  "count": 2,
+  "latest": "2015-10-04"
+ },
+ {
+  "name": "Dallas N. Archibald",
+  "count": 1,
+  "latest": "1992-10-03"
+ },
+ {
+  "name": "Ian S. Ardern",
+  "count": 3,
+  "latest": "2023-09-30"
+ },
+ {
+  "name": "Mervyn B. Arnold",
+  "count": 3,
+  "latest": "2016-04-02"
+ },
+ {
+  "name": "Carlos E. Asay",
+  "count": 11,
+  "latest": "1996-04-07"
+ },
+ {
+  "name": "Marvin J. Ashton",
+  "count": 44,
+  "latest": "1992-10-03"
+ },
+ {
+  "name": "Wendell J. Ashton",
+  "count": 1,
+  "latest": "1971-04-03"
+ },
+ {
+  "name": "Brian K. Ashton",
+  "count": 2,
+  "latest": "2018-10-07"
+ },
+ {
+  "name": "Eduardo Ayala",
+  "count": 2,
+  "latest": "1995-04-01"
+ },
+ {
+  "name": "Robert L. Backman",
+  "count": 9,
+  "latest": "1992-10-03"
+ },
+ {
+  "name": "M. Russell Ballard",
+  "count": 88,
+  "latest": "2023-10-01"
+ },
+ {
+  "name": "William Grant Bangerter",
+  "count": 11,
+  "latest": "1988-10-02"
+ },
+ {
+  "name": "Steven R. Bangerter",
+  "count": 2,
+  "latest": "2024-04-06"
+ },
+ {
+  "name": "Ben B. Banks",
+  "count": 4,
+  "latest": "2002-04-06"
+ },
+ {
+  "name": "Kristin Banner",
+  "count": 1,
+  "latest": "1997-03-29"
+ },
+ {
+  "name": "Ronald M. Barcellos",
+  "count": 1,
+  "latest": "2025-10-04"
+ },
+ {
+  "name": "Steven C. Barlow",
+  "count": 1,
+  "latest": "2025-10-04"
+ },
+ {
+  "name": "W. Mark Bassett",
+  "count": 2,
+  "latest": "2023-04-02"
+ },
+ {
+  "name": "Merrill J. Bateman",
+  "count": 5,
+  "latest": "2005-10-02"
+ },
+ {
+  "name": "E Ray Bateman",
+  "count": 1,
+  "latest": "1998-10-03"
+ },
+ {
+  "name": "David S. Baxter",
+  "count": 2,
+  "latest": "2012-03-31"
+ },
+ {
+  "name": "Jorge T. Becerra",
+  "count": 2,
+  "latest": "2026-04-04"
+ },
+ {
+  "name": "Julie B. Beck",
+  "count": 15,
+  "latest": "2012-04-01"
+ },
+ {
+  "name": "David L. Beck",
+  "count": 2,
+  "latest": "2013-04-06"
+ },
+ {
+  "name": "Janette Hales Beckham",
+  "count": 8,
+  "latest": "1997-10-05"
+ },
+ {
+  "name": "David A. Bednar",
+  "count": 44,
+  "latest": "2026-04-04"
+ },
+ {
+  "name": "William H. Bennett",
+  "count": 7,
+  "latest": "1976-10-01"
+ },
+ {
+  "name": "Randall K. Bennett",
+  "count": 3,
+  "latest": "2023-04-01"
+ },
+ {
+  "name": "Ezra Taft Benson",
+  "count": 61,
+  "latest": "1989-09-30"
+ },
+ {
+  "name": "Jean B. Bingham",
+  "count": 5,
+  "latest": "2022-03-26"
+ },
+ {
+  "name": "Hans T. Boom",
+  "count": 2,
+  "latest": "2025-04-05"
+ },
+ {
+  "name": "Shayne M. Bowen",
+  "count": 4,
+  "latest": "2024-04-06"
+ },
+ {
+  "name": "Marian R. Boyer",
+  "count": 2,
+  "latest": "1981-09-26"
+ },
+ {
+  "name": "Kirstin Boyer",
+  "count": 1,
+  "latest": "1996-03-30"
+ },
+ {
+  "name": "William R. Bradford",
+  "count": 9,
+  "latest": "1999-10-03"
+ },
+ {
+  "name": "Mark A. Bragg",
+  "count": 2,
+  "latest": "2023-04-01"
+ },
+ {
+  "name": "Ted E. Brewerton",
+  "count": 6,
+  "latest": "1995-09-30"
+ },
+ {
+  "name": "Bernard P. Brockbank",
+  "count": 11,
+  "latest": "1979-10-07"
+ },
+ {
+  "name": "Monte J. Brough",
+  "count": 5,
+  "latest": "2003-10-04"
+ },
+ {
+  "name": "M. Joseph Brough",
+  "count": 2,
+  "latest": "2018-10-06"
+ },
+ {
+  "name": "Victor L. Brown",
+  "count": 28,
+  "latest": "1989-10-01"
+ },
+ {
+  "name": "Hugh B. Brown",
+  "count": 2,
+  "latest": "1972-04-01"
+ },
+ {
+  "name": "L. Edward Brown",
+  "count": 1,
+  "latest": "1997-04-06"
+ },
+ {
+  "name": "Kevin G. Brown",
+  "count": 1,
+  "latest": "2025-10-04"
+ },
+ {
+  "name": "Tracy Y. Browning",
+  "count": 3,
+  "latest": "2025-10-04"
+ },
+ {
+  "name": "David L. Buckner",
+  "count": 1,
+  "latest": "2024-10-05"
+ },
+ {
+  "name": "L. Todd Budge",
+  "count": 3,
+  "latest": "2024-10-06"
+ },
+ {
+  "name": "Dean R. Burgess",
+  "count": 1,
+  "latest": "2008-04-05"
+ },
+ {
+  "name": "Theodore M. Burton",
+  "count": 14,
+  "latest": "1985-10-06"
+ },
+ {
+  "name": "H. David Burton",
+  "count": 14,
+  "latest": "2011-04-03"
+ },
+ {
+  "name": "Linda K. Burton",
+  "count": 8,
+  "latest": "2017-03-25"
+ },
+ {
+  "name": "F. Enzio Busche",
+  "count": 7,
+  "latest": "2000-10-01"
+ },
+ {
+  "name": "C. Max Caldwell",
+  "count": 1,
+  "latest": "1992-10-03"
+ },
+ {
+  "name": "Waldo P. Call",
+  "count": 2,
+  "latest": "1990-10-07"
+ },
+ {
+  "name": "Eran A. Call",
+  "count": 1,
+  "latest": "1997-10-04"
+ },
+ {
+  "name": "Douglas L. Callister",
+  "count": 2,
+  "latest": "2007-10-07"
+ },
+ {
+  "name": "Tad R. Callister",
+  "count": 6,
+  "latest": "2019-04-07"
+ },
+ {
+  "name": "Helio R. Camargo",
+  "count": 2,
+  "latest": "1990-10-07"
+ },
+ {
+  "name": "Milton Camargo",
+  "count": 2,
+  "latest": "2023-04-01"
+ },
+ {
+  "name": "Elaine A. Cannon",
+  "count": 5,
+  "latest": "1984-03-31"
+ },
+ {
+  "name": "George I. Cannon",
+  "count": 2,
+  "latest": "1991-10-05"
+ },
+ {
+  "name": "Craig A. Cardon",
+  "count": 2,
+  "latest": "2013-04-06"
+ },
+ {
+  "name": "Bruce A. Carlson",
+  "count": 1,
+  "latest": "2010-04-03"
+ },
+ {
+  "name": "John K. Carmack",
+  "count": 4,
+  "latest": "2001-04-01"
+ },
+ {
+  "name": "Matthew L. Carpenter",
+  "count": 2,
+  "latest": "2024-04-06"
+ },
+ {
+  "name": "Gregorio E. Casillas",
+  "count": 1,
+  "latest": "2024-10-05"
+ },
+ {
+  "name": "Gérald Caussé",
+  "count": 9,
+  "latest": "2026-04-04"
+ },
+ {
+  "name": "Aroldo B. Cavalcante",
+  "count": 1,
+  "latest": "2024-10-05"
+ },
+ {
+  "name": "Sheldon F. Child",
+  "count": 3,
+  "latest": "2008-04-06"
+ },
+ {
+  "name": "Yoon Hwan Choi",
+  "count": 3,
+  "latest": "2023-09-30"
+ },
+ {
+  "name": "Joe J. Christensen",
+  "count": 5,
+  "latest": "1999-04-03"
+ },
+ {
+  "name": "Val R. Christensen",
+  "count": 1,
+  "latest": "1998-10-03"
+ },
+ {
+  "name": "Craig C. Christensen",
+  "count": 6,
+  "latest": "2023-04-01"
+ },
+ {
+  "name": "Shirley D. Christensen",
+  "count": 1,
+  "latest": "2003-10-04"
+ },
+ {
+  "name": "Darwin B. Christenson",
+  "count": 1,
+  "latest": "2001-03-31"
+ },
+ {
+  "name": "ElRay L. Christiansen",
+  "count": 8,
+  "latest": "1975-04-04"
+ },
+ {
+  "name": "D. Todd Christofferson",
+  "count": 43,
+  "latest": "2026-04-05"
+ },
+ {
+  "name": "Kim B. Clark",
+  "count": 2,
+  "latest": "2019-04-06"
+ },
+ {
+  "name": "J. Richard Clarke",
+  "count": 13,
+  "latest": "1993-04-03"
+ },
+ {
+  "name": "Don R. Clarke",
+  "count": 2,
+  "latest": "2012-10-07"
+ },
+ {
+  "name": "L. Whitney Clayton",
+  "count": 8,
+  "latest": "2020-04-05"
+ },
+ {
+  "name": "Weatherford T. Clayton",
+  "count": 1,
+  "latest": "2017-04-01"
+ },
+ {
+  "name": "Gayle M. Clegg",
+  "count": 3,
+  "latest": "2004-04-03"
+ },
+ {
+  "name": "Aileen H. Clyde",
+  "count": 8,
+  "latest": "1996-09-28"
+ },
+ {
+  "name": "Hilarie Cole",
+  "count": 1,
+  "latest": "1995-03-25"
+ },
+ {
+  "name": "Gary J. Coleman",
+  "count": 3,
+  "latest": "2007-04-01"
+ },
+ {
+  "name": "Spencer J. Condie",
+  "count": 4,
+  "latest": "2007-10-06"
+ },
+ {
+  "name": "Gene R. Cook",
+  "count": 9,
+  "latest": "2002-04-07"
+ },
+ {
+  "name": "Quentin L. Cook",
+  "count": 40,
+  "latest": "2026-04-05"
+ },
+ {
+  "name": "Richard E. Cook",
+  "count": 1,
+  "latest": "1998-04-04"
+ },
+ {
+  "name": "Mary N. Cook",
+  "count": 8,
+  "latest": "2013-03-30"
+ },
+ {
+  "name": "Carl B. Cook",
+  "count": 4,
+  "latest": "2023-04-01"
+ },
+ {
+  "name": "Ahmad S. Corbitt",
+  "count": 2,
+  "latest": "2023-04-02"
+ },
+ {
+  "name": "Lawrence E. Corbridge",
+  "count": 2,
+  "latest": "2014-04-06"
+ },
+ {
+  "name": "Bonnie H. Cordon",
+  "count": 6,
+  "latest": "2023-04-01"
+ },
+ {
+  "name": "Valeri V. Cordón",
+  "count": 2,
+  "latest": "2023-10-01"
+ },
+ {
+  "name": "J. Devn Cornish",
+  "count": 2,
+  "latest": "2016-10-01"
+ },
+ {
+  "name": "Claudio R. M. Costa",
+  "count": 6,
+  "latest": "2015-10-04"
+ },
+ {
+  "name": "Joaquin E. Costa",
+  "count": 2,
+  "latest": "2023-09-30"
+ },
+ {
+  "name": "Michelle D. Craig",
+  "count": 4,
+  "latest": "2022-10-01"
+ },
+ {
+  "name": "Rulon G. Craven",
+  "count": 2,
+  "latest": "1996-04-07"
+ },
+ {
+  "name": "Rebecca L. Craven",
+  "count": 3,
+  "latest": "2022-03-26"
+ },
+ {
+  "name": "Keith Crockett",
+  "count": 1,
+  "latest": "2000-10-01"
+ },
+ {
+  "name": "James A. Cullimore",
+  "count": 10,
+  "latest": "1978-04-01"
+ },
+ {
+  "name": "LeGrand R. Curtis",
+  "count": 2,
+  "latest": "1995-04-02"
+ },
+ {
+  "name": "Derek A. Cuthbert",
+  "count": 5,
+  "latest": "1990-03-31"
+ },
+ {
+  "name": "Clinton L. Cutler",
+  "count": 1,
+  "latest": "1990-03-31"
+ },
+ {
+  "name": "B. Corey Cuvelier",
+  "count": 1,
+  "latest": "2025-10-05"
+ },
+ {
+  "name": "Michael Cziesla",
+  "count": 1,
+  "latest": "2025-10-04"
+ },
+ {
+  "name": "Robert M. Daines",
+  "count": 1,
+  "latest": "2023-09-30"
+ },
+ {
+  "name": "Elaine S. Dalton",
+  "count": 16,
+  "latest": "2013-04-06"
+ },
+ {
+  "name": "Adhemar Damiani",
+  "count": 2,
+  "latest": "2005-04-03"
+ },
+ {
+  "name": "Dean M. Davies",
+  "count": 4,
+  "latest": "2018-10-06"
+ },
+ {
+  "name": "Ted E. Davis",
+  "count": 9,
+  "latest": "2000-04-01"
+ },
+ {
+  "name": "Douglas W. DeHaan",
+  "count": 1,
+  "latest": "1980-10-05"
+ },
+ {
+  "name": "Robert K. Dellenbach",
+  "count": 3,
+  "latest": "2002-10-05"
+ },
+ {
+  "name": "J. Anette Dennis",
+  "count": 3,
+  "latest": "2025-10-04"
+ },
+ {
+  "name": "Royden G. Derrick",
+  "count": 6,
+  "latest": "1989-04-02"
+ },
+ {
+  "name": "Sheri L. Dew",
+  "count": 7,
+  "latest": "2001-10-06"
+ },
+ {
+  "name": "Ann M. Dibb",
+  "count": 7,
+  "latest": "2013-03-30"
+ },
+ {
+  "name": "John B. Dickson",
+  "count": 4,
+  "latest": "2013-04-06"
+ },
+ {
+  "name": "Charles A. Didier",
+  "count": 12,
+  "latest": "2005-10-01"
+ },
+ {
+  "name": "Sean Douglas",
+  "count": 1,
+  "latest": "2021-10-03"
+ },
+ {
+  "name": "Joanne B. Doxey",
+  "count": 2,
+  "latest": "1989-09-23"
+ },
+ {
+  "name": "Graham W. Doxey",
+  "count": 1,
+  "latest": "1991-10-05"
+ },
+ {
+  "name": "Edward Dube",
+  "count": 2,
+  "latest": "2021-04-04"
+ },
+ {
+  "name": "Kevin R. Duncan",
+  "count": 3,
+  "latest": "2023-04-02"
+ },
+ {
+  "name": "Loren C. Dunn",
+  "count": 18,
+  "latest": "2000-09-30"
+ },
+ {
+  "name": "Paul H. Dunn",
+  "count": 15,
+  "latest": "1987-04-05"
+ },
+ {
+  "name": "James M. Dunn",
+  "count": 2,
+  "latest": "2003-04-05"
+ },
+ {
+  "name": "Michael A. Dunn",
+  "count": 1,
+  "latest": "2021-10-03"
+ },
+ {
+  "name": "G. Homer Durham",
+  "count": 4,
+  "latest": "1984-03-31"
+ },
+ {
+  "name": "Mary R. Durham",
+  "count": 1,
+  "latest": "2016-04-02"
+ },
+ {
+  "name": "Devin G. Durrant",
+  "count": 3,
+  "latest": "2018-03-31"
+ },
+ {
+  "name": "Alexander Dushku",
+  "count": 1,
+  "latest": "2024-04-06"
+ },
+ {
+  "name": "Timothy J. Dyches",
+  "count": 2,
+  "latest": "2021-04-04"
+ },
+ {
+  "name": "Alvin R. Dyer",
+  "count": 3,
+  "latest": "1972-03-30"
+ },
+ {
+  "name": "Julio E. Dávila",
+  "count": 1,
+  "latest": "1991-10-05"
+ },
+ {
+  "name": "Melanie Eaton",
+  "count": 1,
+  "latest": "1995-03-25"
+ },
+ {
+  "name": "Mark D. Eddy",
+  "count": 1,
+  "latest": "2022-10-02"
+ },
+ {
+  "name": "Richard C. Edgley",
+  "count": 14,
+  "latest": "2012-03-31"
+ },
+ {
+  "name": "Wilford G. Edling",
+  "count": 15,
+  "latest": "1991-04-06"
+ },
+ {
+  "name": "R. LaVell Edwards",
+  "count": 1,
+  "latest": "1984-10-06"
+ },
+ {
+  "name": "Keith R. Edwards",
+  "count": 1,
+  "latest": "2006-10-01"
+ },
+ {
+  "name": "I. Raymond Egbo",
+  "count": 1,
+  "latest": "2024-10-06"
+ },
+ {
+  "name": "Stanley G. Ellis",
+  "count": 3,
+  "latest": "2017-10-01"
+ },
+ {
+  "name": "Cheryl A. Esplin",
+  "count": 4,
+  "latest": "2016-03-26"
+ },
+ {
+  "name": "J. Kimo Esplin",
+  "count": 1,
+  "latest": "2023-10-01"
+ },
+ {
+  "name": "Sharon Eubank",
+  "count": 4,
+  "latest": "2021-10-02"
+ },
+ {
+  "name": "Richard L. Evans",
+  "count": 2,
+  "latest": "1971-10-01"
+ },
+ {
+  "name": "Joy F. Evans",
+  "count": 2,
+  "latest": "1989-04-02"
+ },
+ {
+  "name": "David F. Evans",
+  "count": 3,
+  "latest": "2017-09-30"
+ },
+ {
+  "name": "James E. Evanson",
+  "count": 1,
+  "latest": "2025-10-05"
+ },
+ {
+  "name": "Brik V. Eyre",
+  "count": 1,
+  "latest": "2025-10-04"
+ },
+ {
+  "name": "Henry B. Eyring",
+  "count": 104,
+  "latest": "2026-04-04"
+ },
+ {
+  "name": "Enrique R. Falabella",
+  "count": 2,
+  "latest": "2013-04-07"
+ },
+ {
+  "name": "Ozani Farias",
+  "count": 1,
+  "latest": "2025-10-05"
+ },
+ {
+  "name": "James E. Faust",
+  "count": 100,
+  "latest": "2007-04-01"
+ },
+ {
+  "name": "Vaughn J. Featherstone",
+  "count": 18,
+  "latest": "1999-10-02"
+ },
+ {
+  "name": "Massimo De Feo",
+  "count": 2,
+  "latest": "2024-04-06"
+ },
+ {
+  "name": "Bradley D. Foster",
+  "count": 2,
+  "latest": "2015-10-03"
+ },
+ {
+  "name": "Mary F. Foulger",
+  "count": 1,
+  "latest": "1980-09-27"
+ },
+ {
+  "name": "John E. Fowler",
+  "count": 1,
+  "latest": "1992-10-04"
+ },
+ {
+  "name": "Cristina B. Franco",
+  "count": 3,
+  "latest": "2020-09-26"
+ },
+ {
+  "name": "Emily Belle Freeman",
+  "count": 3,
+  "latest": "2026-04-05"
+ },
+ {
+  "name": "Addie Fuhriman",
+  "count": 1,
+  "latest": "1980-09-27"
+ },
+ {
+  "name": "Ruth H. Funk",
+  "count": 1,
+  "latest": "1978-09-23"
+ },
+ {
+  "name": "Randy D. Funk",
+  "count": 2,
+  "latest": "2022-04-03"
+ },
+ {
+  "name": "J. Thomas Fyans",
+  "count": 14,
+  "latest": "1987-04-04"
+ },
+ {
+  "name": "Daryl H. Garn",
+  "count": 1,
+  "latest": "2003-04-05"
+ },
+ {
+  "name": "Eduardo Gavarret",
+  "count": 3,
+  "latest": "2022-04-02"
+ },
+ {
+  "name": "Robert C. Gay",
+  "count": 2,
+  "latest": "2018-10-07"
+ },
+ {
+  "name": "Lloyd P. George",
+  "count": 2,
+  "latest": "1994-04-02"
+ },
+ {
+  "name": "Jack N. Gerard",
+  "count": 2,
+  "latest": "2024-04-06"
+ },
+ {
+  "name": "Duane B. Gerrard",
+  "count": 1,
+  "latest": "1997-10-05"
+ },
+ {
+  "name": "D. Rex Gerratt",
+  "count": 1,
+  "latest": "2003-04-06"
+ },
+ {
+  "name": "Francis M. Gibbons",
+  "count": 3,
+  "latest": "1991-10-06"
+ },
+ {
+  "name": "Larry W. Gibbons",
+  "count": 1,
+  "latest": "2006-10-01"
+ },
+ {
+  "name": "Larry M. Gibson",
+  "count": 2,
+  "latest": "2015-04-04"
+ },
+ {
+  "name": "Clark G. Gilbert",
+  "count": 2,
+  "latest": "2026-04-04"
+ },
+ {
+  "name": "H. Aldridge Gillespie",
+  "count": 1,
+  "latest": "2000-10-01"
+ },
+ {
+  "name": "Ricardo P. Giménez",
+  "count": 2,
+  "latest": "2025-04-05"
+ },
+ {
+  "name": "Christophe G. Giraud-Carrier",
+  "count": 1,
+  "latest": "2023-10-01"
+ },
+ {
+  "name": "Patricio M. Giuffra",
+  "count": 1,
+  "latest": "2021-10-02"
+ },
+ {
+  "name": "Carlos A. Godoy",
+  "count": 5,
+  "latest": "2025-10-05"
+ },
+ {
+  "name": "Taylor G. Godoy",
+  "count": 2,
+  "latest": "2024-04-07"
+ },
+ {
+  "name": "Christoffel Golden",
+  "count": 4,
+  "latest": "2021-10-02"
+ },
+ {
+  "name": "Gerrit W. Gong",
+  "count": 19,
+  "latest": "2026-04-05"
+ },
+ {
+  "name": "Walter F. González",
+  "count": 6,
+  "latest": "2019-10-06"
+ },
+ {
+  "name": "D. Martin Goury",
+  "count": 1,
+  "latest": "2024-10-05"
+ },
+ {
+  "name": "Michaelene P. Grassli",
+  "count": 5,
+  "latest": "1994-10-01"
+ },
+ {
+  "name": "John H. Groberg",
+  "count": 10,
+  "latest": "2004-10-02"
+ },
+ {
+  "name": "C. Scott Grow",
+  "count": 3,
+  "latest": "2017-04-02"
+ },
+ {
+  "name": "Bruce C. Hafen",
+  "count": 2,
+  "latest": "2004-04-04"
+ },
+ {
+  "name": "David B. Haight",
+  "count": 60,
+  "latest": "2004-04-03"
+ },
+ {
+  "name": "O. Vincent Haleck",
+  "count": 2,
+  "latest": "2017-09-30"
+ },
+ {
+  "name": "Robert D. Hales",
+  "count": 58,
+  "latest": "2017-04-01"
+ },
+ {
+  "name": "Brook P. Hales",
+  "count": 2,
+  "latest": "2024-10-06"
+ },
+ {
+  "name": "Aaron T. Hall",
+  "count": 1,
+  "latest": "2026-04-05"
+ },
+ {
+  "name": "Donald L. Hallstrom",
+  "count": 7,
+  "latest": "2017-10-01"
+ },
+ {
+  "name": "Ronald T. Halverson",
+  "count": 2,
+  "latest": "2004-10-02"
+ },
+ {
+  "name": "Kevin S. Hamilton",
+  "count": 2,
+  "latest": "2022-04-02"
+ },
+ {
+  "name": "F. Melvin Hammond",
+  "count": 3,
+  "latest": "2002-10-06"
+ },
+ {
+  "name": "James J. Hamula",
+  "count": 2,
+  "latest": "2014-10-05"
+ },
+ {
+  "name": "Wayne M. Hancock",
+  "count": 1,
+  "latest": "1997-10-05"
+ },
+ {
+  "name": "Marion D. Hanks",
+  "count": 21,
+  "latest": "1992-10-04"
+ },
+ {
+  "name": "W. Eugene Hansen",
+  "count": 4,
+  "latest": "1998-04-05"
+ },
+ {
+  "name": "Robert B. Harbertson",
+  "count": 1,
+  "latest": "1984-10-06"
+ },
+ {
+  "name": "Lisa L. Harkness",
+  "count": 2,
+  "latest": "2020-10-04"
+ },
+ {
+  "name": "Devere Harris",
+  "count": 1,
+  "latest": "1984-10-06"
+ },
+ {
+  "name": "Larry J. Echo Hawk",
+  "count": 2,
+  "latest": "2018-03-31"
+ },
+ {
+  "name": "Allen D. Haynie",
+  "count": 2,
+  "latest": "2023-04-01"
+ },
+ {
+  "name": "Mathias Held",
+  "count": 2,
+  "latest": "2024-04-07"
+ },
+ {
+  "name": "Alejandra Hernández",
+  "count": 1,
+  "latest": "1997-03-29"
+ },
+ {
+  "name": "Keith K. Hilbig",
+  "count": 2,
+  "latest": "2007-10-06"
+ },
+ {
+  "name": "Harold G. Hillam",
+  "count": 6,
+  "latest": "2005-04-02"
+ },
+ {
+  "name": "Gordon B. Hinckley",
+  "count": 210,
+  "latest": "2007-10-07"
+ },
+ {
+  "name": "Richard G. Hinckley",
+  "count": 1,
+  "latest": "2006-04-01"
+ },
+ {
+  "name": "Karl D. Hirst",
+  "count": 1,
+  "latest": "2024-10-05"
+ },
+ {
+  "name": "Jeffrey R. Holland",
+  "count": 64,
+  "latest": "2025-10-05"
+ },
+ {
+  "name": "Matthew S. Holland",
+  "count": 3,
+  "latest": "2025-10-05"
+ },
+ {
+  "name": "Douglas D. Holmes",
+  "count": 2,
+  "latest": "2020-04-04"
+ },
+ {
+  "name": "Brian J. Holmes",
+  "count": 1,
+  "latest": "2026-04-04"
+ },
+ {
+  "name": "David P. Homer",
+  "count": 2,
+  "latest": "2024-10-05"
+ },
+ {
+  "name": "F. Burton Howard",
+  "count": 7,
+  "latest": "2003-04-06"
+ },
+ {
+  "name": "Benjamín De Hoyos",
+  "count": 4,
+  "latest": "2023-04-01"
+ },
+ {
+  "name": "Kathleen H. Hughes",
+  "count": 7,
+  "latest": "2006-09-23"
+ },
+ {
+  "name": "Milton R. Hunter",
+  "count": 3,
+  "latest": "1972-03-30"
+ },
+ {
+  "name": "Howard W. Hunter",
+  "count": 51,
+  "latest": "1994-10-02"
+ },
+ {
+  "name": "Charles W. Dahlquist II",
+  "count": 1,
+  "latest": "2007-04-01"
+ },
+ {
+  "name": "George R. Hill III",
+  "count": 1,
+  "latest": "1988-04-03"
+ },
+ {
+  "name": "Alvin F. Meredith III",
+  "count": 1,
+  "latest": "2021-10-03"
+ },
+ {
+  "name": "James W. McConkie III",
+  "count": 1,
+  "latest": "2022-10-01"
+ },
+ {
+  "name": "Jeanne Inouye",
+  "count": 1,
+  "latest": "1993-09-25"
+ },
+ {
+  "name": "Elaine L. Jack",
+  "count": 12,
+  "latest": "1997-04-06"
+ },
+ {
+  "name": "William K. Jackson",
+  "count": 2,
+  "latest": "2025-10-04"
+ },
+ {
+  "name": "Jacob de Jager",
+  "count": 8,
+  "latest": "1993-10-02"
+ },
+ {
+  "name": "Jeremy R. Jaggi",
+  "count": 2,
+  "latest": "2025-10-04"
+ },
+ {
+  "name": "Dean Jarman",
+  "count": 1,
+  "latest": "1982-10-03"
+ },
+ {
+  "name": "Marlin K. Jensen",
+  "count": 5,
+  "latest": "2007-03-31"
+ },
+ {
+  "name": "Jay E. Jensen",
+  "count": 5,
+  "latest": "2010-10-03"
+ },
+ {
+  "name": "Virginia U. Jensen",
+  "count": 7,
+  "latest": "2001-09-29"
+ },
+ {
+  "name": "Malcolm S. Jeppsen",
+  "count": 2,
+  "latest": "1994-04-02"
+ },
+ {
+  "name": "Betty Jo N. Jepsen",
+  "count": 2,
+  "latest": "1992-10-04"
+ },
+ {
+  "name": "Kenneth Johnson",
+  "count": 4,
+  "latest": "2008-04-05"
+ },
+ {
+  "name": "Paul V. Johnson",
+  "count": 4,
+  "latest": "2022-10-01"
+ },
+ {
+  "name": "Daniel L. Johnson",
+  "count": 2,
+  "latest": "2012-10-07"
+ },
+ {
+  "name": "Peter M. Johnson",
+  "count": 2,
+  "latest": "2025-10-05"
+ },
+ {
+  "name": "Kelly R. Johnson",
+  "count": 2,
+  "latest": "2025-10-04"
+ },
+ {
+  "name": "Camille N. Johnson",
+  "count": 3,
+  "latest": "2025-04-05"
+ },
+ {
+  "name": "J. Kent Jolley",
+  "count": 1,
+  "latest": "1997-10-05"
+ },
+ {
+  "name": "Spencer V. Jones",
+  "count": 1,
+  "latest": "2003-04-06"
+ },
+ {
+  "name": "Joy D. Jones",
+  "count": 5,
+  "latest": "2021-04-03"
+ },
+ {
+  "name": "Hartman Rector Jr.",
+  "count": 16,
+  "latest": "1994-10-01"
+ },
+ {
+  "name": "Jack H. Goaslind Jr.",
+  "count": 7,
+  "latest": "1997-04-05"
+ },
+ {
+  "name": "Albert Choules Jr.",
+  "count": 2,
+  "latest": "1994-04-02"
+ },
+ {
+  "name": "Cecil O. Samuelson Jr.",
+  "count": 4,
+  "latest": "2011-04-02"
+ },
+ {
+  "name": "Clate W. Mask Jr.",
+  "count": 1,
+  "latest": "2004-04-04"
+ },
+ {
+  "name": "LeGrand R. Curtis Jr.",
+  "count": 2,
+  "latest": "2016-10-01"
+ },
+ {
+  "name": "John C. Pingree Jr.",
+  "count": 2,
+  "latest": "2023-10-01"
+ },
+ {
+  "name": "Carlos G. Revillo Jr.",
+  "count": 1,
+  "latest": "2021-10-03"
+ },
+ {
+  "name": "Daniel K Judd",
+  "count": 1,
+  "latest": "2007-10-07"
+ },
+ {
+  "name": "Larry S. Kacher",
+  "count": 2,
+  "latest": "2022-04-02"
+ },
+ {
+  "name": "Ardeth G. Kapp",
+  "count": 7,
+  "latest": "1992-04-05"
+ },
+ {
+  "name": "F. Arthur Kay",
+  "count": 2,
+  "latest": "1989-10-01"
+ },
+ {
+  "name": "Patrick Kearon",
+  "count": 8,
+  "latest": "2026-04-04"
+ },
+ {
+  "name": "Von G. Keetch",
+  "count": 1,
+  "latest": "2015-10-04"
+ },
+ {
+  "name": "L. Lionel Kendrick",
+  "count": 3,
+  "latest": "2001-04-01"
+ },
+ {
+  "name": "W. Rolfe Kerr",
+  "count": 2,
+  "latest": "2004-04-03"
+ },
+ {
+  "name": "Yoshihiko Kikuchi",
+  "count": 8,
+  "latest": "2007-04-01"
+ },
+ {
+  "name": "Christopher H. Kim",
+  "count": 1,
+  "latest": "2025-04-06"
+ },
+ {
+  "name": "Spencer W. Kimball",
+  "count": 72,
+  "latest": "1985-04-06"
+ },
+ {
+  "name": "Jörg Klebingat",
+  "count": 2,
+  "latest": "2022-04-03"
+ },
+ {
+  "name": "Won Yong Ko",
+  "count": 1,
+  "latest": "2005-10-02"
+ },
+ {
+  "name": "Joni L. Koch",
+  "count": 2,
+  "latest": "2023-09-30"
+ },
+ {
+  "name": "Paul E. Koelliker",
+  "count": 2,
+  "latest": "2012-03-31"
+ },
+ {
+  "name": "Cree-L Kofford",
+  "count": 2,
+  "latest": "1999-04-04"
+ },
+ {
+  "name": "Adney Y. Komatsu",
+  "count": 10,
+  "latest": "1993-10-02"
+ },
+ {
+  "name": "Erich W. Kopischke",
+  "count": 3,
+  "latest": "2021-10-02"
+ },
+ {
+  "name": "Alfred Kyungu",
+  "count": 1,
+  "latest": "2021-10-02"
+ },
+ {
+  "name": "W. Don Ladd",
+  "count": 1,
+  "latest": "1994-10-01"
+ },
+ {
+  "name": "Cheryl C. Lant",
+  "count": 3,
+  "latest": "2010-04-04"
+ },
+ {
+  "name": "Pedro X. Larreal",
+  "count": 1,
+  "latest": "2026-04-05"
+ },
+ {
+  "name": "Dean L. Larsen",
+  "count": 11,
+  "latest": "1992-10-03"
+ },
+ {
+  "name": "Sharon G. Larsen",
+  "count": 7,
+  "latest": "2002-03-30"
+ },
+ {
+  "name": "John R. Lasater",
+  "count": 1,
+  "latest": "1988-04-03"
+ },
+ {
+  "name": "Fono Lavatai",
+  "count": 1,
+  "latest": "1997-03-29"
+ },
+ {
+  "name": "W. Mack Lawrence",
+  "count": 2,
+  "latest": "1996-04-07"
+ },
+ {
+  "name": "Larry R. Lawrence",
+  "count": 2,
+  "latest": "2015-10-03"
+ },
+ {
+  "name": "Harold B. Lee",
+  "count": 16,
+  "latest": "1973-10-07"
+ },
+ {
+  "name": "George P. Lee",
+  "count": 6,
+  "latest": "1985-10-05"
+ },
+ {
+  "name": "Margaret S. Lifferth",
+  "count": 2,
+  "latest": "2009-04-04"
+ },
+ {
+  "name": "Augusto A. Lim",
+  "count": 1,
+  "latest": "1992-10-04"
+ },
+ {
+  "name": "Don Lind",
+  "count": 1,
+  "latest": "1985-10-05"
+ },
+ {
+  "name": "Richard P. Lindsay",
+  "count": 2,
+  "latest": "1994-04-02"
+ },
+ {
+  "name": "Gerald N. Lund",
+  "count": 2,
+  "latest": "2008-04-05"
+ },
+ {
+  "name": "Steven J. Lund",
+  "count": 3,
+  "latest": "2025-04-05"
+ },
+ {
+  "name": "Merlin R. Lybbert",
+  "count": 2,
+  "latest": "1994-04-02"
+ },
+ {
+  "name": "John M. Madsen",
+  "count": 3,
+  "latest": "2008-04-05"
+ },
+ {
+  "name": "Jayne B. Malan",
+  "count": 2,
+  "latest": "1991-09-28"
+ },
+ {
+  "name": "Per G. Malm",
+  "count": 1,
+  "latest": "2010-10-03"
+ },
+ {
+  "name": "Neill F. Marriott",
+  "count": 4,
+  "latest": "2017-09-23"
+ },
+ {
+  "name": "Douglas J. Martin",
+  "count": 1,
+  "latest": "1987-10-03"
+ },
+ {
+  "name": "Hugo E. Martinez",
+  "count": 2,
+  "latest": "2022-04-03"
+ },
+ {
+  "name": "James B. Martino",
+  "count": 2,
+  "latest": "2015-10-03"
+ },
+ {
+  "name": "Helvécio Martins",
+  "count": 2,
+  "latest": "1995-04-01"
+ },
+ {
+  "name": "James O. Mason",
+  "count": 2,
+  "latest": "1994-10-01"
+ },
+ {
+  "name": "Vicki F. Matsumori",
+  "count": 2,
+  "latest": "2009-10-03"
+ },
+ {
+  "name": "Clement M. Matswagothata",
+  "count": 1,
+  "latest": "2026-04-04"
+ },
+ {
+  "name": "Neal A. Maxwell",
+  "count": 52,
+  "latest": "2004-04-03"
+ },
+ {
+  "name": "Karen Maxwell",
+  "count": 1,
+  "latest": "1995-03-25"
+ },
+ {
+  "name": "Richard J. Maynes",
+  "count": 6,
+  "latest": "2017-09-30"
+ },
+ {
+  "name": "Jairo Mazzagardi",
+  "count": 2,
+  "latest": "2016-04-02"
+ },
+ {
+  "name": "Bruce R. McConkie",
+  "count": 28,
+  "latest": "1985-04-06"
+ },
+ {
+  "name": "David M. McConkie",
+  "count": 2,
+  "latest": "2013-10-06"
+ },
+ {
+  "name": "Carol F. McConkie",
+  "count": 4,
+  "latest": "2017-03-25"
+ },
+ {
+  "name": "John A. McCune",
+  "count": 2,
+  "latest": "2025-04-06"
+ },
+ {
+  "name": "Kyle S. McKay",
+  "count": 2,
+  "latest": "2024-10-05"
+ },
+ {
+  "name": "Keith B. McMullin",
+  "count": 11,
+  "latest": "2011-10-01"
+ },
+ {
+  "name": "Gerald E. Melchin",
+  "count": 2,
+  "latest": "1994-04-03"
+ },
+ {
+  "name": "Coleen K. Menlove",
+  "count": 4,
+  "latest": "2005-04-02"
+ },
+ {
+  "name": "V. Dallas Merrell",
+  "count": 1,
+  "latest": "1993-04-03"
+ },
+ {
+  "name": "A. Roger Merrill",
+  "count": 1,
+  "latest": "2006-10-01"
+ },
+ {
+  "name": "Peter F. Meurs",
+  "count": 2,
+  "latest": "2023-04-01"
+ },
+ {
+  "name": "Lynn A. Mickelsen",
+  "count": 3,
+  "latest": "2003-10-04"
+ },
+ {
+  "name": "Dale E. Miller",
+  "count": 2,
+  "latest": "2004-10-02"
+ },
+ {
+  "name": "Thomas S. Monson",
+  "count": 200,
+  "latest": "2017-04-02"
+ },
+ {
+  "name": "Arch Monson",
+  "count": 1,
+  "latest": "1977-04-02"
+ },
+ {
+  "name": "Earl M. Monson",
+  "count": 1,
+  "latest": "1998-10-04"
+ },
+ {
+  "name": "Hugo Montoya",
+  "count": 2,
+  "latest": "2022-10-01"
+ },
+ {
+  "name": "Alexander B. Morrison",
+  "count": 4,
+  "latest": "2000-09-30"
+ },
+ {
+  "name": "Isaac K. Morrison",
+  "count": 1,
+  "latest": "2022-10-02"
+ },
+ {
+  "name": "Joseph C. Muren",
+  "count": 1,
+  "latest": "1991-10-05"
+ },
+ {
+  "name": "Thierry K. Mutombo",
+  "count": 2,
+  "latest": "2026-04-05"
+ },
+ {
+  "name": "Stephen D. Nadauld",
+  "count": 1,
+  "latest": "1992-04-05"
+ },
+ {
+  "name": "Margaret D. Nadauld",
+  "count": 8,
+  "latest": "2002-10-06"
+ },
+ {
+  "name": "Marcus B. Nash",
+  "count": 3,
+  "latest": "2021-10-02"
+ },
+ {
+  "name": "K. Brett Nattress",
+  "count": 2,
+  "latest": "2023-04-01"
+ },
+ {
+  "name": "Michael A. Neider",
+  "count": 1,
+  "latest": "2009-04-04"
+ },
+ {
+  "name": "Russell M. Nelson",
+  "count": 113,
+  "latest": "2025-04-06"
+ },
+ {
+  "name": "Michael T. Nelson",
+  "count": 1,
+  "latest": "2024-04-06"
+ },
+ {
+  "name": "Dennis B. Neuenschwander",
+  "count": 5,
+  "latest": "2008-04-06"
+ },
+ {
+  "name": "Jan E. Newman",
+  "count": 2,
+  "latest": "2023-09-30"
+ },
+ {
+  "name": "Michael Nicholas",
+  "count": 1,
+  "latest": "1982-10-02"
+ },
+ {
+  "name": "S. Gifford Nielsen",
+  "count": 2,
+  "latest": "2021-04-03"
+ },
+ {
+  "name": "Brent H. Nielson",
+  "count": 4,
+  "latest": "2024-04-06"
+ },
+ {
+  "name": "Dallin H. Oaks",
+  "count": 97,
+  "latest": "2026-04-05"
+ },
+ {
+  "name": "Merrill C. Oaks",
+  "count": 1,
+  "latest": "1998-10-04"
+ },
+ {
+  "name": "Robert C. Oaks",
+  "count": 3,
+  "latest": "2006-09-30"
+ },
+ {
+  "name": "Adrián Ochoa",
+  "count": 3,
+  "latest": "2022-04-02"
+ },
+ {
+  "name": "Adeyinka A. Ojediran",
+  "count": 1,
+  "latest": "2022-04-03"
+ },
+ {
+  "name": "Chieko N. Okazaki",
+  "count": 8,
+  "latest": "1996-09-28"
+ },
+ {
+  "name": "Ryan K. Olsen",
+  "count": 1,
+  "latest": "2022-10-02"
+ },
+ {
+  "name": "Eduardo F. Ortega",
+  "count": 1,
+  "latest": "2026-04-04"
+ },
+ {
+  "name": "Robert F. Orton",
+  "count": 1,
+  "latest": "2001-10-07"
+ },
+ {
+  "name": "Spencer H. Osborn",
+  "count": 1,
+  "latest": "1984-10-07"
+ },
+ {
+  "name": "Bonnie L. Oscarson",
+  "count": 7,
+  "latest": "2018-03-31"
+ },
+ {
+  "name": "Russell T. Osguthorpe",
+  "count": 2,
+  "latest": "2012-10-07"
+ },
+ {
+  "name": "William D. Oswald",
+  "count": 1,
+  "latest": "2008-10-05"
+ },
+ {
+  "name": "Stephen B. Oveson",
+  "count": 2,
+  "latest": "2005-04-03"
+ },
+ {
+  "name": "Stephen W. Owen",
+  "count": 3,
+  "latest": "2019-10-05"
+ },
+ {
+  "name": "Glenn L. Pace",
+  "count": 8,
+  "latest": "2007-04-01"
+ },
+ {
+  "name": "Mark L. Pace",
+  "count": 3,
+  "latest": "2024-04-07"
+ },
+ {
+  "name": "Boyd K. Packer",
+  "count": 90,
+  "latest": "2015-04-04"
+ },
+ {
+  "name": "Allan F. Packer",
+  "count": 2,
+  "latest": "2014-10-05"
+ },
+ {
+  "name": "S. Mark Palmer",
+  "count": 3,
+  "latest": "2025-04-05"
+ },
+ {
+  "name": "James M. Paramore",
+  "count": 9,
+  "latest": "1998-04-04"
+ },
+ {
+  "name": "Bonnie D. Parkin",
+  "count": 12,
+  "latest": "2007-03-31"
+ },
+ {
+  "name": "William W. Parmley",
+  "count": 1,
+  "latest": "2003-10-05"
+ },
+ {
+  "name": "Adilson de Paula Parrella",
+  "count": 2,
+  "latest": "2023-10-01"
+ },
+ {
+  "name": "Wolfgang H. Paul",
+  "count": 1,
+  "latest": "2006-04-01"
+ },
+ {
+  "name": "Virginia H. Pearce",
+  "count": 7,
+  "latest": "1997-03-29"
+ },
+ {
+  "name": "Kevin W. Pearson",
+  "count": 3,
+  "latest": "2022-10-01"
+ },
+ {
+  "name": "Anthony D. Perkins",
+  "count": 3,
+  "latest": "2021-10-03"
+ },
+ {
+  "name": "L. Tom Perry",
+  "count": 87,
+  "latest": "2015-04-04"
+ },
+ {
+  "name": "Enzo Serge Petelo",
+  "count": 1,
+  "latest": "2020-04-04"
+ },
+ {
+  "name": "Mark E. Petersen",
+  "count": 27,
+  "latest": "1983-10-01"
+ },
+ {
+  "name": "H. Burke Peterson",
+  "count": 21,
+  "latest": "1993-10-02"
+ },
+ {
+  "name": "Andrew W. Peterson",
+  "count": 1,
+  "latest": "1995-04-02"
+ },
+ {
+  "name": "Wayne S. Peterson",
+  "count": 1,
+  "latest": "2001-10-07"
+ },
+ {
+  "name": "Alan T. Phillips",
+  "count": 1,
+  "latest": "2023-09-30"
+ },
+ {
+  "name": "Paul B. Pieper",
+  "count": 4,
+  "latest": "2024-04-07"
+ },
+ {
+  "name": "Rex D. Pinegar",
+  "count": 15,
+  "latest": "1994-10-02"
+ },
+ {
+  "name": "Patricia P. Pinegar",
+  "count": 4,
+  "latest": "1999-10-03"
+ },
+ {
+  "name": "C. Frederick Pingel",
+  "count": 1,
+  "latest": "1982-10-02"
+ },
+ {
+  "name": "Anne C. Pingree",
+  "count": 7,
+  "latest": "2006-09-23"
+ },
+ {
+  "name": "Hugh W. Pinnock",
+  "count": 8,
+  "latest": "1993-10-02"
+ },
+ {
+  "name": "Rafael E. Pino",
+  "count": 3,
+  "latest": "2022-10-01"
+ },
+ {
+  "name": "Ronald E. Poelman",
+  "count": 7,
+  "latest": "1998-04-05"
+ },
+ {
+  "name": "L. Aldin Porter",
+  "count": 6,
+  "latest": "2001-03-31"
+ },
+ {
+  "name": "Bruce D. Porter",
+  "count": 4,
+  "latest": "2013-04-07"
+ },
+ {
+  "name": "Susan H. Porter",
+  "count": 4,
+  "latest": "2026-04-05"
+ },
+ {
+  "name": "Carl B. Pratt",
+  "count": 3,
+  "latest": "2011-04-03"
+ },
+ {
+  "name": "Anne Prescott",
+  "count": 1,
+  "latest": "1996-03-30"
+ },
+ {
+  "name": "JoAnn Randall",
+  "count": 1,
+  "latest": "1981-10-04"
+ },
+ {
+  "name": "Nyle Randall",
+  "count": 1,
+  "latest": "1981-10-04"
+ },
+ {
+  "name": "Ronald A. Rasband",
+  "count": 28,
+  "latest": "2026-04-05"
+ },
+ {
+  "name": "James R. Rasband",
+  "count": 2,
+  "latest": "2025-04-05"
+ },
+ {
+  "name": "Rex C. Reeve",
+  "count": 4,
+  "latest": "1985-10-06"
+ },
+ {
+  "name": "Linda S. Reeves",
+  "count": 5,
+  "latest": "2016-10-02"
+ },
+ {
+  "name": "Dale G. Renlund",
+  "count": 24,
+  "latest": "2026-04-05"
+ },
+ {
+  "name": "Sydney S. Reynolds",
+  "count": 3,
+  "latest": "2003-10-05"
+ },
+ {
+  "name": "Franklin D. Richards",
+  "count": 17,
+  "latest": "1987-10-04"
+ },
+ {
+  "name": "LeGrand Richards",
+  "count": 22,
+  "latest": "1982-04-03"
+ },
+ {
+  "name": "H. Bryan Richards",
+  "count": 2,
+  "latest": "2004-10-03"
+ },
+ {
+  "name": "Kent F. Richards",
+  "count": 2,
+  "latest": "2016-04-03"
+ },
+ {
+  "name": "Matthew O. Richardson",
+  "count": 1,
+  "latest": "2011-10-02"
+ },
+ {
+  "name": "Randall L. Ridd",
+  "count": 1,
+  "latest": "2014-04-05"
+ },
+ {
+  "name": "Hans B. Ringger",
+  "count": 4,
+  "latest": "1995-10-01"
+ },
+ {
+  "name": "Michael T. Ringwood",
+  "count": 3,
+  "latest": "2022-04-03"
+ },
+ {
+  "name": "Lynn G. Robbins",
+  "count": 6,
+  "latest": "2018-03-31"
+ },
+ {
+  "name": "Jorge A. Rojas",
+  "count": 1,
+  "latest": "1991-10-05"
+ },
+ {
+  "name": "Sandino Roman",
+  "count": 1,
+  "latest": "2025-04-05"
+ },
+ {
+  "name": "Marion G. Romney",
+  "count": 60,
+  "latest": "1983-04-02"
+ },
+ {
+  "name": "Anne Marie Rose",
+  "count": 1,
+  "latest": "1996-03-30"
+ },
+ {
+  "name": "Ned B. Roueché",
+  "count": 2,
+  "latest": "2004-10-02"
+ },
+ {
+  "name": "Edward B. Rowe",
+  "count": 1,
+  "latest": "2026-04-05"
+ },
+ {
+  "name": "Glen L. Rudd",
+  "count": 1,
+  "latest": "1988-04-02"
+ },
+ {
+  "name": "Tamara W. Runia",
+  "count": 2,
+  "latest": "2025-04-06"
+ },
+ {
+  "name": "Gardner H. Russell",
+  "count": 2,
+  "latest": "1991-10-06"
+ },
+ {
+  "name": "Gary B. Sabin",
+  "count": 2,
+  "latest": "2023-09-30"
+ },
+ {
+  "name": "Robert E. Sackley",
+  "count": 1,
+  "latest": "1988-10-01"
+ },
+ {
+  "name": "Han In Sang",
+  "count": 1,
+  "latest": "1992-04-05"
+ },
+ {
+  "name": "Ciro Schmeil",
+  "count": 1,
+  "latest": "2021-10-02"
+ },
+ {
+  "name": "Jonathan S. Schmitt",
+  "count": 1,
+  "latest": "2022-10-02"
+ },
+ {
+  "name": "Evan A. Schmutz",
+  "count": 2,
+  "latest": "2023-04-01"
+ },
+ {
+  "name": "R. Conrad Schultz",
+  "count": 1,
+  "latest": "2002-04-06"
+ },
+ {
+  "name": "Gregory A. Schwitzer",
+  "count": 2,
+  "latest": "2015-10-04"
+ },
+ {
+  "name": "Richard G. Scott",
+  "count": 59,
+  "latest": "2014-10-05"
+ },
+ {
+  "name": "Sam K. Shimabukuro",
+  "count": 1,
+  "latest": "1992-04-05"
+ },
+ {
+  "name": "Naomi M. Shumway",
+  "count": 1,
+  "latest": "1979-09-29"
+ },
+ {
+  "name": "W. Douglas Shumway",
+  "count": 1,
+  "latest": "2004-04-04"
+ },
+ {
+  "name": "Steven D. Shumway",
+  "count": 1,
+  "latest": "2025-04-06"
+ },
+ {
+  "name": "Vaiangina Sikahema",
+  "count": 1,
+  "latest": "2021-10-03"
+ },
+ {
+  "name": "Sterling W. Sill",
+  "count": 11,
+  "latest": "1978-04-02"
+ },
+ {
+  "name": "Denelson Silva",
+  "count": 1,
+  "latest": "2022-10-01"
+ },
+ {
+  "name": "Dennis E. Simmons",
+  "count": 2,
+  "latest": "2004-04-04"
+ },
+ {
+  "name": "Robert L. Simpson",
+  "count": 14,
+  "latest": "1987-04-04"
+ },
+ {
+  "name": "Joseph W. Sitati",
+  "count": 3,
+  "latest": "2022-10-02"
+ },
+ {
+  "name": "Joseph Fielding Smith",
+  "count": 9,
+  "latest": "1972-04-02"
+ },
+ {
+  "name": "Eldred G. Smith",
+  "count": 10,
+  "latest": "1978-04-01"
+ },
+ {
+  "name": "Barbara B. Smith",
+  "count": 20,
+  "latest": "1984-03-31"
+ },
+ {
+  "name": "Douglas H. Smith",
+  "count": 1,
+  "latest": "1988-04-02"
+ },
+ {
+  "name": "Mary Ellen W. Smoot",
+  "count": 8,
+  "latest": "2002-04-06"
+ },
+ {
+  "name": "Steven E. Snow",
+  "count": 5,
+  "latest": "2016-04-02"
+ },
+ {
+  "name": "Lowell M. Snow",
+  "count": 1,
+  "latest": "2005-10-02"
+ },
+ {
+  "name": "Ulisses Soares",
+  "count": 22,
+  "latest": "2026-04-04"
+ },
+ {
+  "name": "John Sonnenberg",
+  "count": 2,
+  "latest": "1989-10-01"
+ },
+ {
+  "name": "Philip T. Sonntag",
+  "count": 1,
+  "latest": "1984-10-07"
+ },
+ {
+  "name": "Lynn A. Sorensen",
+  "count": 1,
+  "latest": "1987-10-04"
+ },
+ {
+  "name": "David E. Sorensen",
+  "count": 5,
+  "latest": "2005-04-03"
+ },
+ {
+  "name": "Andrea Muñoz Spannaus",
+  "count": 2,
+  "latest": "2025-10-05"
+ },
+ {
+  "name": "Richard E. Turley Sr.",
+  "count": 1,
+  "latest": "1998-04-05"
+ },
+ {
+  "name": "Donald L. Staheli",
+  "count": 2,
+  "latest": "2004-10-02"
+ },
+ {
+  "name": "Vern P. Stanfill",
+  "count": 2,
+  "latest": "2023-04-02"
+ },
+ {
+  "name": "F. David Stanley",
+  "count": 1,
+  "latest": "1993-04-03"
+ },
+ {
+  "name": "Delbert L. Stapley",
+  "count": 12,
+  "latest": "1977-10-01"
+ },
+ {
+  "name": "Carole M. Stephens",
+  "count": 6,
+  "latest": "2016-09-24"
+ },
+ {
+  "name": "Robert R. Steuer",
+  "count": 2,
+  "latest": "2008-04-06"
+ },
+ {
+  "name": "Jean A. Stevens",
+  "count": 3,
+  "latest": "2014-09-27"
+ },
+ {
+  "name": "Gary E. Stevenson",
+  "count": 25,
+  "latest": "2026-04-04"
+ },
+ {
+  "name": "O. Leslie Stone",
+  "count": 9,
+  "latest": "1979-10-07"
+ },
+ {
+  "name": "David R. Stone",
+  "count": 2,
+  "latest": "2006-04-02"
+ },
+ {
+  "name": "Michael B. Strong",
+  "count": 1,
+  "latest": "2025-04-06"
+ },
+ {
+  "name": "H. Bruce Stucki",
+  "count": 2,
+  "latest": "2006-04-02"
+ },
+ {
+  "name": "Paul K. Sybrowsky",
+  "count": 1,
+  "latest": "2005-10-01"
+ },
+ {
+  "name": "Kwok Yuen Tai",
+  "count": 1,
+  "latest": "1993-04-04"
+ },
+ {
+  "name": "Benjamin M. Z. Tai",
+  "count": 2,
+  "latest": "2025-04-06"
+ },
+ {
+  "name": "N. Eldon Tanner",
+  "count": 46,
+  "latest": "1982-10-03"
+ },
+ {
+  "name": "Susan W. Tanner",
+  "count": 9,
+  "latest": "2008-04-06"
+ },
+ {
+  "name": "Henry D. Taylor",
+  "count": 11,
+  "latest": "1978-04-01"
+ },
+ {
+  "name": "Russell C. Taylor",
+  "count": 2,
+  "latest": "1989-04-01"
+ },
+ {
+  "name": "Jerald L. Taylor",
+  "count": 1,
+  "latest": "1997-04-05"
+ },
+ {
+  "name": "Brian K. Taylor",
+  "count": 2,
+  "latest": "2024-04-07"
+ },
+ {
+  "name": "Michael John U. Teh",
+  "count": 4,
+  "latest": "2026-04-04"
+ },
+ {
+  "name": "José A. Teixeira",
+  "count": 4,
+  "latest": "2024-10-05"
+ },
+ {
+  "name": "Horacio A. Tenorio",
+  "count": 2,
+  "latest": "1994-10-01"
+ },
+ {
+  "name": "Octaviano Tenorio",
+  "count": 1,
+  "latest": "2007-10-07"
+ },
+ {
+  "name": "Shirley W. Thomas",
+  "count": 3,
+  "latest": "1981-09-26"
+ },
+ {
+  "name": "Carol B. Thomas",
+  "count": 7,
+  "latest": "2002-03-30"
+ },
+ {
+  "name": "Barbara Thompson",
+  "count": 7,
+  "latest": "2011-10-01"
+ },
+ {
+  "name": "Earl C. Tingey",
+  "count": 8,
+  "latest": "2007-03-31"
+ },
+ {
+  "name": "D. Lee Tobler",
+  "count": 1,
+  "latest": "1999-04-03"
+ },
+ {
+  "name": "A. Theodore Tuttle",
+  "count": 17,
+  "latest": "1986-10-05"
+ },
+ {
+  "name": "Juan A. Uceda",
+  "count": 3,
+  "latest": "2023-04-01"
+ },
+ {
+  "name": "Dieter F. Uchtdorf",
+  "count": 74,
+  "latest": "2026-04-05"
+ },
+ {
+  "name": "Arnulfo Valenzuela",
+  "count": 2,
+  "latest": "2021-10-02"
+ },
+ {
+  "name": "John H. Vandenberg",
+  "count": 10,
+  "latest": "1978-04-02"
+ },
+ {
+  "name": "Sergio R. Vargas",
+  "count": 1,
+  "latest": "2025-04-05"
+ },
+ {
+  "name": "Peter Vidmar",
+  "count": 1,
+  "latest": "1985-04-06"
+ },
+ {
+  "name": "Moisés Villanueva",
+  "count": 1,
+  "latest": "2021-10-02"
+ },
+ {
+  "name": "Juan Pablo Villar",
+  "count": 2,
+  "latest": "2024-10-05"
+ },
+ {
+  "name": "Terence M. Vinson",
+  "count": 2,
+  "latest": "2019-10-05"
+ },
+ {
+  "name": "Francisco J. Viñas",
+  "count": 4,
+  "latest": "2015-10-03"
+ },
+ {
+  "name": "Takashi Wada",
+  "count": 2,
+  "latest": "2024-10-06"
+ },
+ {
+  "name": "W. Christopher Waddell",
+  "count": 6,
+  "latest": "2023-10-01"
+ },
+ {
+  "name": "Taniela B. Wakolo",
+  "count": 3,
+  "latest": "2026-04-05"
+ },
+ {
+  "name": "William R. Walker",
+  "count": 3,
+  "latest": "2014-04-06"
+ },
+ {
+  "name": "Alan R. Walker",
+  "count": 2,
+  "latest": "2026-04-05"
+ },
+ {
+  "name": "Susan L. Warner",
+  "count": 2,
+  "latest": "1998-10-04"
+ },
+ {
+  "name": "J Ballard Washburn",
+  "count": 2,
+  "latest": "1995-04-01"
+ },
+ {
+  "name": "F. Michael Watson",
+  "count": 1,
+  "latest": "2009-04-05"
+ },
+ {
+  "name": "Kent D. Watson",
+  "count": 1,
+  "latest": "2009-10-03"
+ },
+ {
+  "name": "Gordon T. Watts",
+  "count": 1,
+  "latest": "1998-10-04"
+ },
+ {
+  "name": "Chad H Webb",
+  "count": 1,
+  "latest": "2025-10-04"
+ },
+ {
+  "name": "Robert E. Wells",
+  "count": 7,
+  "latest": "1995-10-01"
+ },
+ {
+  "name": "Stephen A. West",
+  "count": 1,
+  "latest": "1999-04-03"
+ },
+ {
+  "name": "Robert J. Whetten",
+  "count": 2,
+  "latest": "2005-04-03"
+ },
+ {
+  "name": "Scott D. Whiting",
+  "count": 3,
+  "latest": "2025-04-06"
+ },
+ {
+  "name": "Lance B. Wickman",
+  "count": 3,
+  "latest": "2008-04-06"
+ },
+ {
+  "name": "Keith W. Wilcox",
+  "count": 1,
+  "latest": "1985-04-06"
+ },
+ {
+  "name": "Bradley R. Wilcox",
+  "count": 2,
+  "latest": "2024-10-06"
+ },
+ {
+  "name": "Larry Y. Wilson",
+  "count": 2,
+  "latest": "2018-04-01"
+ },
+ {
+  "name": "Barbara W. Winder",
+  "count": 7,
+  "latest": "1990-04-01"
+ },
+ {
+  "name": "Richard H. Winkel",
+  "count": 2,
+  "latest": "2006-09-30"
+ },
+ {
+  "name": "Joseph B. Wirthlin",
+  "count": 53,
+  "latest": "2008-10-04"
+ },
+ {
+  "name": "Anne G. Wirthlin",
+  "count": 2,
+  "latest": "1998-04-04"
+ },
+ {
+  "name": "Richard B. Wirthlin",
+  "count": 1,
+  "latest": "1997-10-04"
+ },
+ {
+  "name": "Rosemary M. Wixom",
+  "count": 5,
+  "latest": "2015-09-26"
+ },
+ {
+  "name": "Chi Hong (Sam) Wong",
+  "count": 3,
+  "latest": "2026-04-05"
+ },
+ {
+  "name": "Lowell D. Wood",
+  "count": 1,
+  "latest": "1993-04-04"
+ },
+ {
+  "name": "Ray H. Wood",
+  "count": 1,
+  "latest": "1999-04-03"
+ },
+ {
+  "name": "Robert S. Wood",
+  "count": 2,
+  "latest": "2006-04-02"
+ },
+ {
+  "name": "Durrel A. Woolsey",
+  "count": 2,
+  "latest": "1995-10-01"
+ },
+ {
+  "name": "H. Ross Workman",
+  "count": 1,
+  "latest": "2001-10-07"
+ },
+ {
+  "name": "Ruth B. Wright",
+  "count": 3,
+  "latest": "1994-04-03"
+ },
+ {
+  "name": "Amy A. Wright",
+  "count": 3,
+  "latest": "2025-04-05"
+ },
+ {
+  "name": "Wan-Liang Wu",
+  "count": 1,
+  "latest": "2026-04-04"
+ },
+ {
+  "name": "David J. Wunderli",
+  "count": 1,
+  "latest": "2026-04-04"
+ },
+ {
+  "name": "Kazuhiko Yamashita",
+  "count": 3,
+  "latest": "2023-04-02"
+ },
+ {
+  "name": "Kristin M. Yee",
+  "count": 3,
+  "latest": "2026-04-04"
+ },
+ {
+  "name": "S. Dilworth Young",
+  "count": 12,
+  "latest": "1978-10-01"
+ },
+ {
+  "name": "Dwan J. Young",
+  "count": 6,
+  "latest": "1988-04-03"
+ },
+ {
+  "name": "Jorge F. Zeballos",
+  "count": 3,
+  "latest": "2022-10-01"
+ },
+ {
+  "name": "Claudio D. Zivic",
+  "count": 3,
+  "latest": "2018-04-01"
+ },
+ {
+  "name": "W. Craig Zwick",
+  "count": 5,
+  "latest": "2017-10-01"
+ }
+]

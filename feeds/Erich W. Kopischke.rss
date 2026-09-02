@@ -1,135 +1,293 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Talks By Erich W. Kopischke</title>
-    <link>http://philip.lundrigan.org/Speakercast/</link>
+    <link>https://philip.lundrigan.org/Speakercast/</link>
     <description>General Conference talks by Erich W. Kopischke.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Speakercast</generator>
     <image>
-      <url>http://philip.lundrigan.org/Speakercast/covers/Erich%20W.%20Kopischke.jpg</url>
+      <url>https://philip.lundrigan.org/Speakercast/covers/Erich%20W.%20Kopischke.jpg</url>
       <title>General Conference talks by Erich W. Kopischke.</title>
-      <link>http://philip.lundrigan.org/Speakercast/</link>
+      <link>https://philip.lundrigan.org/Speakercast/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 06 Oct 2007 14:00:00 -0700</lastBuildDate>
-    <pubDate>Sat, 06 Oct 2007 14:00:00 -0700</pubDate>
+    <lastBuildDate>Sat, 02 Oct 2021 14:00:00 -0600</lastBuildDate>
+    <pubDate>Sat, 02 Oct 2021 14:00:00 -0600</pubDate>
+    <itunes:author>Erich W. Kopischke</itunes:author>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
+    <itunes:image href="https://philip.lundrigan.org/Speakercast/covers/Erich%20W.%20Kopischke.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>General Conference talks by Erich W. Kopischke.</itunes:summary>
     <item>
       <title>Preach My Gospel—the Unifying Tool between Members and Missionaries</title>
-      <link>http://www.lds.org/general-conference/2007/10/preach-my-gospel-the-unifying-tool-between-members-and-missionaries?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2007/10/preach-my-gospel-the-unifying-tool-between-members-and-missionaries?lang=eng</link>
       <description>Missionaries and members must … become one in our efforts to proclaim the gospel.</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/2007/10/preach-my-gospel-the-unifying-tool-between-members-and-missionaries" dup-conf="false" dup-mag="false" schema-version="1" doc-id="general-conference_PD00008332_000_013" doc-version="2" hash="34HkXA"><div class="heading" uri="/general-conference/2007/10/preach-my-gospel-the-unifying-tool-between-members-and-missionaries.head1"><h1 class="title" pid="JGE0aAJfhEW4OShX7iDV-Q" hash="drj5uQ">Preach My Gospel—the Unifying Tool between Members and Missionaries</h1><p class="authorName" guid="93ebc47e-a422-4af9-bd23-189b7ec16be3" pid="EBck-nvzfEug1yIvrbAiyg" hash="7MmaOA">Erich W. Kopischke</p><p class="kicker" pid="f-KmbeVBd0-XlfNQqa6zrQ" hash="CJ0Zuw">Missionaries and members must … become one in our efforts to proclaim the gospel.</p></div><div class="bodyBlock" guid="0d8d884a-5087-4728-b8f2-71b1e1fe163b">
-    <div class="topic" uri="/general-conference/2007/10/preach-my-gospel-the-unifying-tool-between-members-and-missionaries.t1">
-      <img src="https://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/KopischkeEW_07.jpg" alt="Elder Erich W. Kopischke" guid="1231e482-c80c-4ded-b385-65a2d2791068" pid="QxmByhU1iEizaf1YZHgecA" hash="OJTkQA" />
-      <p class="para" uri="/general-conference/2007/10/preach-my-gospel-the-unifying-tool-between-members-and-missionaries.p" pid="NNIhObQ_rkKL2e2V1J8u7g" hash="aUJlrw">
-        <span class="pageBreak" page-number="33"></span>Not long ago, we invited two sister missionaries over for lunch. After we finished eating, we asked them to leave a spiritual thought with us. They were well prepared and introduced a scripture reading and marking exercise to us. They had brought a fresh copy of the Book of Mormon and a set of colored pencils. We accepted the invitation of the missionaries. Since then, our daily Book of Mormon family scripture reading has changed. In every chapter, we mark with different colors the passages related to Jesus Christ as we discover them. Every time, this little exercise reminds us of our missionaries.</p>
-      <p class="para" uri="/general-conference/2007/10/preach-my-gospel-the-unifying-tool-between-members-and-missionaries.p" pid="XQMXDgVH60uf4hodQjv5Rw" hash="xZk7ow">When the missionaries presented this, we immediately recognized it as a scripture study exercise suggested in <span class="emphasis">Preach My Gospel.</span> As a family, we are so thankful for this great and powerful missionary tool.</p>
-      <p class="para" uri="/general-conference/2007/10/preach-my-gospel-the-unifying-tool-between-members-and-missionaries.p" pid="zZIUr2EgBEu2YU0530TeBg" hash="8F3Few">For the past three years missionaries have been using <span class="emphasis">Preach My Gospel</span> all around the world. It has truly revolutionized missionary work. The great vision of President Hinckley is being fulfilled: Missionaries “master the concepts of the lessons.” They “teach the concepts in their own words under the guiding influence of the Holy Spirit” (see “Missionary Service,” <span class="emphasis">Worldwide Leadership Training Meeting,</span> Jan. 11, 2003, 19).</p>
-      <p class="para" uri="/general-conference/2007/10/preach-my-gospel-the-unifying-tool-between-members-and-missionaries.p" pid="NeUkxZxozUCOh4coijX23w" hash="drUUIw">As the missionaries become immersed in <span class="emphasis">Preach My Gospel,</span> they learn and apply important doctrines and principles which make them more capable in their important service. Despite this, they still need all of our help and support. Only together can we fulfill the great charge given to the ancient and modern Apostles: “Go ye into all the world, and preach the gospel to every creature” (<a href="/scriptures/nt/mark/16.15" class="scriptureRef">Mark 16:15</a>).</p>
-      <p class="para" uri="/general-conference/2007/10/preach-my-gospel-the-unifying-tool-between-members-and-missionaries.p" pid="uR7bfIoC_keSikwgqFWahg" hash="472ICQ">In order to be successful in these efforts, we must be one with the missionaries, and we must understand one another. Do you always understand the missionaries? I do not refer to language but rather to how they do missionary work. We see and observe them inviting people to listen to their message. They teach gospel principles and invite those who are interested to change their lives and be baptized and confirmed members of the Church.</p>
-      <p class="para" uri="/general-conference/2007/10/preach-my-gospel-the-unifying-tool-between-members-and-missionaries.p" pid="nfc3qpqf3k6mD_yFjkthvw" hash="N6sg0g">If we want to understand and help our missionaries, we must have faith as missionaries have faith, we must think as missionaries think, and we must feel as missionaries feel. How can we achieve that?</p>
-      <p class="para" uri="/general-conference/2007/10/preach-my-gospel-the-unifying-tool-between-members-and-missionaries.p" pid="ew528mydWkGkwnJq2h8iwQ" hash="9IzMWA">One important way, of course, is to be with the missionaries and see them do what they do. But another way for us is to get acquainted with <span class="emphasis">Preach My Gospel</span> and learn more about missionary work. Ever since President McKay said, “Every member a missionary” (in Conference Report, Apr. 1959, 122), members have been striving to become more active in sharing the gospel. With <span class="emphasis">Preach My Gospel,</span> we have a marvelous guide to better help us act upon this invitation. Our own study of <span class="emphasis">Preach My Gospel</span> will not only help us to develop a greater understanding and appreciation for our missionaries, but it will help us in our own day-to-day life.</p>
-      <p class="para" uri="/general-conference/2007/10/preach-my-gospel-the-unifying-tool-between-members-and-missionaries.p" pid="xwgJCDqXLkm0whwLQAED3g" hash="0kAEEQ">
-        <span class="pageBreak" page-number="34"></span>Every member of our family owns a copy of <span class="emphasis">Preach My Gospel.</span> Studying this guide is a great support in developing a strong testimony. It helps us understand fundamental gospel principles and the desire to serve. Allow me for a moment to highlight some of the headings of <span class="emphasis">Preach My Gospel</span> ([2004], iii), and you will understand.</p>
-      <div class="figure" uri="/general-conference/2007/10/preach-my-gospel-the-unifying-tool-between-members-and-missionaries.f1"><p pid="JPMVybFofku-vXuuyVaJDQ" hash="90GU3A">They read:</p>
-          <p guid="63ea34fb-57f8-428a-817c-4452fb55b798" pid="yWVvGFTT8kW6RJEGbpRQSQ" hash="LHMnWQ">“How Do I Recognize and Understand the Spirit?”</p>
-        
-          <p guid="cbf001df-dfe0-4124-874c-f4da9f4d237d" pid="egqUbNeg_0mPpTzRJH7URw" hash="AwNlbg">“How Do I Study Effectively and Prepare to Teach?”</p>
-        
-          <p guid="f9db8447-30b8-44c5-b27d-9d4f819cfcbd" pid="LcGTkge3b02AOgJx4vp2MA" hash="TZnEDg">“What Do I Study and Teach?”</p>
-        
-          <p guid="7e24e127-3379-4041-bce4-b329dcb0f9d4" pid="mxUQx2GrPkq-DER2Qxbbwg" hash="YOAT4g">“What Is the Role of the Book of Mormon?”</p>
-        
-          <p guid="62a597fc-4bcd-417f-91d8-bf44387e4780" pid="l7W4LoVl5kexwdlE6pGGuw" hash="0lI-vw">“How Do I Develop Christlike Attributes?”</p>
-        </div>
-      <p class="para" uri="/general-conference/2007/10/preach-my-gospel-the-unifying-tool-between-members-and-missionaries.p" pid="Mg0XKWNvHk2sAnRaS5oejw" hash="wJqyZg">Aren’t those the things that all of us want to learn? For everyone who wants to become a better member missionary and who wants to know how to support the missionaries, <span class="emphasis">Preach My Gospel</span> is full of powerful ideas and insights. We learn how we can help the missionaries find people to teach and how we as members can work hand in hand with the missionaries to help those who are investigating the Church. We learn to understand why strong invitations to act are helpful to increase faith in Jesus Christ and how we can stand with our nonmember friends who are moving through this wonderful, life-changing process of conversion.</p>
-      <p class="para" uri="/general-conference/2007/10/preach-my-gospel-the-unifying-tool-between-members-and-missionaries.p" pid="q2jb2kvQu0KrlCITBbpJFg" hash="drjxxQ">Along with studying the scriptures, missionaries study <span class="emphasis">Preach My Gospel</span> every day. They learn principles and skills, and they apply them. They especially learn how to use the guidance of the Spirit in their work. If we want to learn as missionaries do, we too must carefully study <span class="emphasis">Preach My Gospel</span> and observe the missionaries in their daily work.</p>
-      <p class="para" uri="/general-conference/2007/10/preach-my-gospel-the-unifying-tool-between-members-and-missionaries.p" pid="16GP6ve6106cYgNCeeYZNA" hash="PUtorg">In the introduction to <span class="emphasis">Preach My Gospel,</span> we read: “<span class="emphasis">Preach My Gospel</span> is for the full-time missionaries of the Church. However, the principles and doctrines taught herein are also applicable to ward missionaries and leaders as they seek to build the Lord’s kingdom. Frequent study of this manual will enable them to fulfill their responsibilities as member missionaries and will foster unity with the full-time missionaries” (xi).</p>
-      <p class="para" uri="/general-conference/2007/10/preach-my-gospel-the-unifying-tool-between-members-and-missionaries.p" pid="CZcPqeTspEGD2QaTwx_2bQ" hash="9-KAdA">Elder Richard G. Scott taught that all members should carefully study <span class="emphasis">Preach My Gospel.</span> He said, “Much good has been accomplished … since <span class="emphasis">Preach My Gospel</span> was introduced, but the best is yet to come as we all become more proficient in the use of this extraordinary missionary tool” (“The Power of <span class="emphasis">Preach My Gospel,</span>” <span class="emphasis">Liahona</span> and <span class="emphasis">Ensign,</span> May 2005, 31).</p>
-      <div class="figure" uri="/general-conference/2007/10/preach-my-gospel-the-unifying-tool-between-members-and-missionaries.f2"><p pid="aDuXe-P0ZEyZ2fdYsAR1HQ" hash="0Wr5jw">Our time may seem limited to do this study, so therefore let me give a few suggestions that may help.</p><ul class="bullet" guid="11988b80-aa49-455e-959e-06d7d51bdf2e"><li guid="dd464569-34c1-4665-9b4a-c1efc43d1e29" pid="TIKjdmhslUylVwo9MsXidw" hash="khDvJg">
-          <span class="label">•</span>
-          <p guid="59ab42ce-66d2-4133-93f7-aeda183d4b6e" pid="137atOG2nE62vKxoVQJrQQ" hash="95tkiQ">Youth preparing for a mission should carefully study <span class="emphasis">Preach My Gospel</span> along with the scriptures.</p>
-        </li><li guid="d6b6e4d5-5ec7-467d-a691-4bed8033a9ae" pid="bujiEmWPl0ee7-vT7bg3Dg" hash="gMr-6g">
-          <span class="label">•</span>
-          <p guid="c4290541-ccac-40aa-9c68-2cd6672af0ef" pid="yui0nXRHEE6nJcV4Ay53_g" hash="l9doPw">Invite the missionaries to your home. Ask them to teach you and your family a principle or doctrine from <span class="emphasis">Preach My Gospel.</span></p>
-        </li><li guid="99bdb410-148a-4c3b-bb1d-fcdb048f0beb" pid="mpNJfqwlFECV6K4E7lHGMQ" hash="9KtsWA">
-          <span class="label">•</span>
-          <p guid="aedb01e4-eeb0-4d39-9e62-efa1611de043" pid="z6gFMZlmnkeVXCPHiiwH6Q" hash="4qPCOQ">Every once in a while, use <span class="pageBreak" page-number="35"></span><span class="emphasis">Preach My Gospel</span> for family home evening. Let your teenage children teach your family as missionaries would do. In our home, we have had some surprisingly great lessons given by our children. We have been astonished at how well they taught simple principles. Sometimes we have invited friends to those lessons.</p>
-        </li><li guid="1d6a0cd1-d052-480b-b77e-996ebd03cbb2" pid="b7ITjqORNUqyRDAJMGKZ_Q" hash="sbGasg">
-          <span class="label">•</span>
-          <p guid="d1fe7012-ce0b-40fd-825c-041781b3f78c" pid="cV3Adr0D1UKcMlMZVvQyeA" hash="xdteSQ">Gospel teachers could use the simple but effective principles of gospel teaching as outlined in <span class="emphasis">Preach My Gospel</span> as a support to the prescribed courses of study.</p>
-        </li><li guid="3f00bc5c-0c7d-4522-a80a-34f0c244dc00" pid="I1CtWWqtzUi1bpoRuitrkA" hash="rVhjrw">
-          <span class="label">•</span>
-          <p guid="316f9947-e53f-491f-9783-9b451e0d9301" pid="QcOe_U_obkecyCZgl4RarQ" hash="xnuX_Q">
-            <span class="emphasis">Preach My Gospel</span> has been translated and published in almost every language that our members speak. In countries where the Church is still young, <span class="emphasis">Preach My Gospel</span> may be used along with the scriptures as a resource and foundation for all gospel learning and teaching.</p>
-        </li><li guid="f25a5c86-c894-45c1-a620-05982ecf681a" pid="OjxKHnkQFEueQeyoqCDgzQ" hash="by3a4g">
-          <span class="label">•</span>
-          <p guid="09bdce3d-feef-43fc-81aa-56814b3ffeda" pid="zMdTCRPPUUWoybVhFuX2Dw" hash="Hz2rJg">Elder Scott encouraged local Church leaders “to use these materials in … presidencies, priesthood executive committee meetings, and ward councils” (<span class="emphasis">Liahona</span> and <span class="emphasis">Ensign,</span> May 2005, 31).</p>
-        </li><li guid="f45f73cb-f2fa-4438-9285-03e2e1f1e2cc" pid="REq5qtSTdEygh3V_JuCxDw" hash="eHOluQ">
-          <span class="label">•</span>
-          <p guid="9741e38c-40f3-4dce-8b36-208815c0e1e5" pid="KS-4fLverkyg0EeSmhersg" hash="4IRQEQ">Use <span class="emphasis">Preach My Gospel</span> as a resource for training, talks, spiritual thoughts, lessons, firesides, and personal study.</p>
-        </li></ul></div>
-      <p class="para" uri="/general-conference/2007/10/preach-my-gospel-the-unifying-tool-between-members-and-missionaries.p" pid="A_abPuiQPkm2wtENnGLSnA" hash="BhkqCA">I bear witness that this missionary guide is inspired of God. We must study it more carefully, that we may understand our missionaries and their work better. Missionaries and members must speak one language. We must become one in our efforts to proclaim the gospel. It will better enable us to become tools in the hand of the Lord, for He said, “And even so will I gather mine elect from the four quarters of the earth, even as many as will believe in me, and hearken unto my voice” (<a href="/scriptures/dc-testament/dc/33.6" class="scriptureRef">D&amp;C 33:6</a>).</p>
-      <p class="para" uri="/general-conference/2007/10/preach-my-gospel-the-unifying-tool-between-members-and-missionaries.p" pid="0bNNq6WsVUeqc3k-4t6abw" hash="c4Dgjg">As members of His Church, we are expected to be a part of this glorious gathering process. Of this truth I testify in the name of Jesus Christ, amen.</p>
-    </div>
-  </div><div class="resources">
-    <img src="https://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/KopischkeEW_07.jpg" alt="Elder Erich W. Kopischke" guid="1231e482-c80c-4ded-b385-65a2d2791068" pid="V2oIk7RzxECSTepEg3Fq0Q" hash="OJTkQA1" />
-    <unknown name="digitalAssets" guid="">
-      <unknown name="assetGroup" guid="">
-        <unknown name="path" guid="1231e482-c80c-4ded-b385-65a2d2791068"></unknown>
-      </unknown>
-    </unknown>
-  </div></div>]]></content:encoded>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="33"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/6cd83f0eeb9a8d25a7b3520ea354751285822acc/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/6cd83f0eeb9a8d25a7b3520ea354751285822acc/full/%21192%2C/0/default" data-video-title="Preach My Gospel—the Unifying Tool between Members and Missionaries" data-video-description="Missionaries and members must … become one in our efforts to proclaim the gospel." data-video-id="2235956143001" data-ip="Download and Streaming                            " data-duration="478000" data-assetId="08028f1fe205907630e4867b6fd2cb3018449c6d" data-ref-id="08028f1fe205907630e4867b6fd2cb3018449c6d" data-duration-string="7:58" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/2235956143001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="1280" data-height="720" data-file-size="45379407"/><source src="https://assets.churchofjesuschrist.org/08028f1fe205907630e4867b6fd2cb3018449c6d-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="24765800"/><source src="https://assets.churchofjesuschrist.org/08028f1fe205907630e4867b6fd2cb3018449c6d-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="45379407"/></video><h1 data-aid="28837576" id="title1"><em>Preach My Gospel</em>—the Unifying Tool between Members and Missionaries</h1>
+<div class="byline">
+<p class="author-name" data-aid="28837577" id="p1">By Elder Erich W. Kopischke</p>
+<p class="author-role" data-aid="28837578" id="p2">Of the Seventy</p>
+<div class="image-cropper"><img alt="Elder Erich W. Kopischke" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/92b7e2866ff2b63653deaa7ea106c799095c53fe/full/%21100%2C/0/default" data-assetId="92b7e2866ff2b63653deaa7ea106c799095c53fe" srcset="https://www.churchofjesuschrist.org/imgs/92b7e2866ff2b63653deaa7ea106c799095c53fe/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/92b7e2866ff2b63653deaa7ea106c799095c53fe/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/92b7e2866ff2b63653deaa7ea106c799095c53fe/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/92b7e2866ff2b63653deaa7ea106c799095c53fe/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/92b7e2866ff2b63653deaa7ea106c799095c53fe/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/92b7e2866ff2b63653deaa7ea106c799095c53fe/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/92b7e2866ff2b63653deaa7ea106c799095c53fe/full/%21640%2C/0/default 640w" data-img-id="92b7e2866ff2b63653deaa7ea106c799095c53fe" data-missing-asset="false" data-width="100" data-height="140" data-aspect-ratio="0.7142857142857143" data-public-title="Kopischke, Erich W." data-public-description="Official portrait of Elder Erich W. Kopischke of the First Quorum of the Seventy, 2007."/></div>
+</div>
+<p class="kicker" data-aid="28837579" id="kicker1">Missionaries and members must … become one in our efforts to proclaim the gospel.</p>
+</header>
+<div class="body-block">
+<p data-aid="28837580" id="p3">Not long ago we invited two sister missionaries over for lunch. After we finished eating, we asked them to leave a spiritual thought with us. They were well prepared and introduced a scripture reading and marking exercise to us. They had brought a fresh copy of the Book of Mormon and a set of colored pencils. We accepted the invitation of the missionaries. Since then, our daily Book of Mormon family scripture reading has changed. In every chapter we mark with different colors the passages related to Jesus Christ as we discover them. Every time, this little exercise reminds us of our missionaries.</p>
+<p data-aid="28837581" id="p4">When the missionaries presented this, we immediately recognized it as a scripture study exercise suggested in <em>Preach My Gospel.</em> As a family, we are so thankful for this great and powerful missionary tool.</p>
+<p data-aid="28837582" id="p5">For the past three years missionaries have been using <em>Preach My Gospel</em> all around the world. It has truly revolutionized missionary work. The great vision of President Hinckley is being fulfilled: Missionaries “master the concepts of the lessons.” They “teach the concepts in their own words under the guiding influence of the Holy Spirit” (see “Missionary Service,” <em>Worldwide Leadership Training Meeting,</em> Jan. 11, 2003, 19).</p>
+<p data-aid="28837583" id="p6">As the missionaries become immersed in <em>Preach My Gospel,</em> they learn and apply important doctrines and principles which make them more capable in their important service. Despite this, they still need all of our help and support. Only together can we fulfill the great charge given to the ancient and modern Apostles: “Go ye into all the world, and preach the gospel to every creature” (<a class="scripture-ref" href="/study/scriptures/nt/mark/16?lang=eng&amp;id=p15#p15">Mark 16:15</a>).</p>
+<p data-aid="28837584" id="p7">In order to be successful in these efforts, we must be one with the missionaries, and we must understand one another. Do you always understand the missionaries? I do not refer to language but rather to how they do missionary work. We see and observe them inviting people to listen to their message. They teach gospel principles and invite those who are interested to change their lives and be baptized and confirmed members of the Church.</p>
+<p data-aid="28837585" id="p8">If we want to understand and help our missionaries, we must have faith as missionaries have faith, we must think as missionaries think, and we must feel as missionaries feel. How can we achieve that?</p>
+<p data-aid="28837586" id="p9">One important way, of course, is to be with the missionaries and see them do what they do. But another way for us is to get acquainted with <em>Preach My Gospel</em> and learn more about missionary work. Ever since President McKay said, “Every member a missionary,” members have been striving to become more active in sharing the gospel (in Conference Report, Apr. 1959, 122). With <em>Preach My Gospel,</em> we have a marvelous guide to better help us act upon this invitation. Our own study of <em>Preach My Gospel</em> will not only help us to develop a greater understanding and appreciation for our missionaries, but it will help us in our own day-to-day lives.</p>
+<span class="page-break" data-page="34"></span>
+<p data-aid="28837587" id="p10">Every member of our family owns a copy of <em>Preach My Gospel.</em> Studying this guide is a great support in developing a strong testimony. It helps us understand fundamental gospel principles and the desire to serve. Allow me for a moment to highlight some of the headings of <em>Preach My Gospel</em> ([2004], iii), and you will understand.</p>
+<p data-aid="28837588" id="p11">They read:</p>
+<ul class="no-marker">
+<li>
+<p data-aid="28837589" id="p12">“How Do I Recognize and Understand the Spirit?”</p>
+</li>
+<li>
+<p data-aid="28837590" id="p13">“How Do I Study Effectively and Prepare to Teach?”</p>
+</li>
+<li>
+<p data-aid="28837591" id="p14">“What Do I Study and Teach?”</p>
+</li>
+<li>
+<p data-aid="28837592" id="p15">“What Is the Role of the Book of Mormon?”</p>
+</li>
+<li>
+<p data-aid="28837593" id="p16">“How Do I Develop Christlike Attributes?”</p>
+</li>
+</ul>
+<p data-aid="28837594" id="p17">Aren’t those the things that all of us want to learn? For everyone who wants to become a better member missionary and who wants to know how to support the missionaries, <em>Preach My Gospel</em> is full of powerful ideas and insights. We learn how we can help the missionaries find people to teach and how we as members can work hand in hand with the missionaries to help those who are investigating the Church. We learn to understand why strong invitations to act are helpful to increase faith in Jesus Christ and how we can stand with our nonmember friends who are moving through this wonderful, life-changing process of conversion.</p>
+<p data-aid="28837595" id="p18">Along with studying the scriptures, missionaries study <em>Preach My Gospel</em> every day. They learn principles and skills, and they apply them. They especially learn how to use the guidance of the Spirit in their work. If we want to learn as missionaries do, we too must carefully study <em>Preach My Gospel</em> and observe the missionaries in their daily work.</p>
+<p data-aid="28837596" id="p19">In the introduction to <em>Preach My Gospel</em> we read: “<em>Preach My Gospel</em> is for the full-time missionaries of the Church. However, the principles and doctrines taught herein are also applicable to ward missionaries and leaders as they seek to build the Lord’s kingdom. Frequent study of this manual will enable them to fulfill their responsibilities as member missionaries and will foster unity with the full-time missionaries” (xi).</p>
+<p data-aid="28837597" id="p20">Elder Richard G. Scott taught that all members should carefully study <em>Preach My Gospel.</em> He said, “Much good has been accomplished … since <em>Preach My Gospel</em> was introduced, but the best is yet to come as we all become more proficient in the use of this extraordinary missionary tool” (in Conference Report, Apr. 2005, <a class="cross-ref" href="/study/general-conference/2005/04/the-power-of-preach-my-gospel?lang=eng&amp;id=p18#p18">32</a>; or <em>Ensign,</em> May 2005, 31).</p>
+<p data-aid="28837598" id="p21">Our time may seem limited to do this study, so therefore let me give a few suggestions that may help.</p>
+<ul class="bullet">
+<li>
+<p data-aid="28837599" id="p22">Youth preparing for a mission should carefully study <em>Preach My Gospel</em> along with the scriptures.</p>
+</li>
+<li>
+<p data-aid="28837600" id="p23">Invite the missionaries into your home. Ask them to teach you and your family a principle or doctrine from <em>Preach My Gospel.</em></p>
+</li>
+<li>
+<p data-aid="28837601" id="p24">Every once in a while, use <span class="page-break" data-page="35"></span><em>Preach My Gospel</em> for family home evening. Let your teenage children teach your family as missionaries would do. In our home, we have had some surprisingly great lessons given by our children. We have been astonished at how well they taught simple principles. Sometimes we have invited friends to those lessons.</p>
+</li>
+<li>
+<p data-aid="28837602" id="p25">Gospel teachers could use the simple but effective principles of gospel teaching as outlined in <em>Preach My Gospel</em> as a support to the prescribed courses of study.</p>
+</li>
+<li>
+<p data-aid="28837603" id="p26"><em>Preach My Gospel</em> has been translated and published in almost every language that our members speak. In countries where the Church is still young, <em>Preach My Gospel</em> may be used along with the scriptures as a resource and foundation for all gospel learning and teaching.</p>
+</li>
+<li>
+<p data-aid="28837604" id="p27">Elder Scott encouraged local Church leaders “to use these materials in … presidencies, priesthood executive committee meetings, and ward councils” (in Conference Report, Apr. 2005, <a class="cross-ref" href="/study/general-conference/2005/04/the-power-of-preach-my-gospel?lang=eng&amp;id=p19#p19">32</a>; or <em>Ensign,</em> May 2005, 31).</p>
+</li>
+<li>
+<p data-aid="28837605" id="p28">Use <em>Preach My Gospel</em> as a resource for training, talks, spiritual thoughts, lessons, firesides, and personal study.</p>
+</li>
+</ul>
+<p data-aid="28837606" id="p29">I bear witness that this missionary guide is inspired of God. We must study it more carefully, that we may understand our missionaries and their work better. Missionaries and members must speak one language. We must become one in our efforts to proclaim the gospel. It will better enable us to become tools in the hand of the Lord, for He said, “And even so will I gather mine elect from the four quarters of the earth, even as many as will believe in me, and hearken unto my voice” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/33?lang=eng&amp;id=p6#p6">D&amp;C 33:6</a>).</p>
+<p data-aid="28837607" id="p30">As members of His Church, we are expected to be a part of this glorious gathering process. Of this truth I testify in the name of Jesus Christ, amen.</p>
+</div>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/2007/10/preach-my-gospel-the-unifying-tool-between-members-and-missionaries</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/october-2007-general-conference/2007-10-2040-elder-erich-w-kopischke-64k-eng.mp3" length="3817941" type="audio/mpeg"/>
-      <pubDate>Sat, 06 Oct 2007 14:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/8c52125b32ee11ec8aafeeeeac1e5e363bb222b6-64k-en.mp3" length="4099851" type="audio/mpeg"/>
+      <pubDate>Sat, 06 Oct 2007 14:00:00 -0600</pubDate>
+      <itunes:author>Erich W. Kopischke</itunes:author>
     </item>
     <item>
       <title>Being Accepted of the Lord</title>
-      <link>http://www.lds.org/general-conference/2013/04/being-accepted-of-the-lord?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2013/04/being-accepted-of-the-lord?lang=eng</link>
       <description>Seeking and receiving the acceptance of the Lord will lead to the knowledge that we are chosen and blessed by Him.</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/2013/04/being-accepted-of-the-lord" dup-conf="false" dup-mag="false" schema-version="1" doc-id="general-conference_10785_000_55kopischke" doc-version="2" hash="mIOs7Q"><div class="heading" uri="/general-conference/2013/04/being-accepted-of-the-lord.head1"><h1 class="title" pid="pfSPT1ykgk6DQvpcsBfN-g" hash="8Rtsgg">Being Accepted of the Lord</h1><p class="authorName" pid="EOTUB1q9oUq_N0pEyAdZxg" hash="Kg5V0A">By Elder Erich W. Kopischke</p><p class="kicker" pid="SBJ8ajVZLk6qZSYE2nk02A" hash="_fZiXQ">Seeking and receiving the acceptance of the Lord will lead to the knowledge that we are chosen and blessed by Him.</p></div><div class="bodyBlock" pid="kBDyEYrb8kq5Z4rx-_9ZMA" hash="HKk2pw">
-				<span class="story">
-					<p class="para" uri="/general-conference/2013/04/being-accepted-of-the-lord.p5" pid="J8WJ7Wt360mEEz7ln5Enbg" hash="3VvyaQ"><span class="pageBreak" page-number="104"></span>When I was a boy, I remember my father sometimes taking me with him to work on projects. We had a little garden a few kilometers from where we lived, and there was always so much to do to prepare the garden each season. We worked on the gazebo or built or repaired fences. In my memory this work always occurred in the freezing cold, heavy snow, or pouring rain. But I loved it. My father would teach me how to do things with patience and acceptance.</p>
-					<p class="para" uri="/general-conference/2013/04/being-accepted-of-the-lord.p6" pid="lkK3tSUwX0yzY6MWUrGQzA" hash="w_xwgA">One day he invited me to tighten a screw and warned, “Remember, if you put it in too tight, it will break.” Proudly, I wanted to show him what I could do. I tightened with all my might, and, of course, I broke the screw. He made a funny comment, and we started over. Even when I “messed up,” I always felt his love and confidence in me. He passed away more than 10 years ago, but I can still hear his voice, sense his love, enjoy his encouragement, and feel his acceptance.</p>
-				</span>
-				<p class="para" uri="/general-conference/2013/04/being-accepted-of-the-lord.p7" pid="3dRjPqlXdk2D3Sy9eo4K2g" hash="J9in4w">The feeling of being accepted by someone we love is a basic human need. Being accepted by good people motivates us. It increases our sense of self-worth and self-confidence. Those who cannot find acceptance from desirable sources often seek it elsewhere. They may look to people who are not interested in their well-being. They may attach themselves to false friends and do questionable things to try to receive the acknowledgment they are seeking. They may seek acceptance by wearing a particular brand of clothing to generate a feeling of belonging or status. For some, striving for a role or a position of prominence can also be a way of seeking acceptance. They may define their worth by a position they hold or status they obtain.</p>
-				<p class="para" uri="/general-conference/2013/04/being-accepted-of-the-lord.p8" pid="2-gzk_5NPEq8gwrD-BqrYA" hash="zdNycA">Even in the Church we are not always free from this type of thinking. Seeking acceptance from the wrong sources or for incorrect reasons puts us on a dangerous path—one that is likely to lead us astray and even to destruction. Instead of feeling cherished and self-confident, we will eventually feel abandoned and inferior.</p>
-				<p class="para" uri="/general-conference/2013/04/being-accepted-of-the-lord.p9" pid="gUEYZRQh-UOWCm1gdcuKTw" hash="xoSFlg">Alma counseled his son Helaman, “See that ye look to God and live.”<span class="noteMarker" ref="f_1">1</span> The ultimate source of empowerment and lasting acceptance is our Heavenly Father and His Son, Jesus Christ. They <span class="pageBreak" page-number="105"></span>know us. They love us. They do not accept us because of our title or position. They do not look at our status. They look into our hearts. They accept us for who we are and what we are striving to become. Seeking and receiving acceptance from Them will always lift and encourage us.</p>
-				<p class="para" uri="/general-conference/2013/04/being-accepted-of-the-lord.p10" pid="esLCTpNBHEOhV5TCdELt1w" hash="EUsdIw">I will share a simple pattern which, if applied, can help every one of us find ultimate acceptance. This pattern was given by the Lord through the Prophet Joseph Smith: “Verily I say unto you, all among them who know their hearts are honest, and are broken, and their spirits contrite, and are willing to observe their covenants by sacrifice—yea, every sacrifice which I, the Lord, shall command—they are accepted of me.”<span class="noteMarker" ref="f_2">2</span></p>
-				<p class="para" uri="/general-conference/2013/04/being-accepted-of-the-lord.p11" pid="kFraWlrp8EWOV_Wb6awZlg" hash="xAvsLg">This pattern consists of three simple steps:</p>
-				<div class="figure" uri="/general-conference/2013/04/being-accepted-of-the-lord.f1"><ol class="number" guid=""><li pid="WytYfqIddEqjKBOjLPO5jw" hash="1FsFUA">
-						<span class="label">1.</span>
-						<p pid="cry1ou6gcUGtM7myYujAuA" hash="DAPuDw">Know that our hearts are honest and broken,</p>
-					</li><li pid="FU1-b0U_PkiD9FSZVnSZMw" hash="viNwUQ">
-						<span class="label">2.</span>
-						<p pid="5nq5sSxg3U2ddoTX1XY2sw" hash="w4oD9w">Know that our spirits are contrite, and</p>
-					</li><li pid="4rdDuzvzQkuiJZAaZk2xgw" hash="QR63bg">
-						<span class="label">3.</span>
-						<p pid="Sm-nh1Xcf0eXBo5j0yjdEQ" hash="bNeqWA">Be willing to observe our covenants by sacrifice, as commanded by the Lord.</p>
-					</li></ol></div>
-				<p class="para" uri="/general-conference/2013/04/being-accepted-of-the-lord.p15" pid="m8Sstdh3JkqmnOnUkPrqrQ" hash="stnpVQ">First, we need to know that our hearts are honest and broken. How do we know that? We begin by engaging in sincere self-reflection. The heart is the center of our feelings. As we look into our hearts, we screen ourselves. What no one around us knows, we surely know. We know our motives and desires. When we engage in sincere, honest reflection, we do not rationalize or deceive ourselves.</p>
-				<p class="para" uri="/general-conference/2013/04/being-accepted-of-the-lord.p16" pid="pXPj8UOwekGEiSaPOsMm4w" hash="RUyjiw">There is also a way to judge if our hearts are broken. A broken heart is a soft, an open, and a receptive heart. When I hear the Savior say, “Behold, I stand at the door, and knock,”<span class="noteMarker" ref="f_3">3</span> I hear Him knocking at the door of my heart. If I open this door to Him, I am more responsive to the invitations of the Spirit, and I am more accepting of God’s will.</p>
-				<p class="para" uri="/general-conference/2013/04/being-accepted-of-the-lord.p17" pid="DHfcWYAUhUuV8NynY4To6A" hash="cRS9oA">As we sincerely and prayerfully ponder the extent to which our hearts are honest and broken, we will be taught by the Holy Ghost. We will receive a sweet confirmation or gentle correction, inviting us to act.</p>
-				<p class="para" uri="/general-conference/2013/04/being-accepted-of-the-lord.p18" pid="L6xFlDEnHUq0MGDhp6_EYA" hash="kZXqjg">Second, we have to know that our spirit is contrite. The word <span class="emphasis">contrite</span> in the Oxford dictionary is defined as “feeling or expressing remorse at the recognition that one has done wrong.”<span class="noteMarker" ref="f_4">4</span> If we have a contrite spirit, we acknowledge our sins and shortcomings. We are teachable “concerning [all] things pertaining to righteousness.”<span class="noteMarker" ref="f_5">5</span> We feel godly sorrow and are willing to repent. A contrite spirit is willing to listen “to the enticings of the Holy Spirit.”<span class="noteMarker" ref="f_6">6</span></p>
-				<p class="para" uri="/general-conference/2013/04/being-accepted-of-the-lord.p19" pid="Rs40XuvLkk68rKQN83KqoQ" hash="FJ3SWg">A contrite spirit is manifest by our willingness and determination to act. We are willing to humble ourselves before God, willing to repent, willing to learn, and willing to change. We are willing to pray, “Not my will, but thine, be done.”<span class="noteMarker" ref="f_7">7</span></p>
-				<p class="para" uri="/general-conference/2013/04/being-accepted-of-the-lord.p20" pid="m24cLQNKpUOMM7jNubrr9g" hash="bowi2g">The third step to being accepted by the Lord is a conscious decision to observe our covenants through sacrifice, “yea, every sacrifice which I, the Lord, shall command.”<span class="noteMarker" ref="f_8">8</span> Too often we think that the word <span class="emphasis">sacrifice</span> refers to something big or hard for us to do. In certain situations this may be true, but mostly it refers to living day-to-day as a true disciple of Christ.</p>
-				<p class="para" uri="/general-conference/2013/04/being-accepted-of-the-lord.p21" pid="nmTu92PTPEK8FpHzaN8bgQ" hash="wtivdg">One way we observe our covenants by sacrifice is worthily partaking of the sacrament each week. We consciously prepare ourselves for the sacred ordinance. We renew and confirm our sacred promises to the Lord. In this way we feel His acceptance and receive His assurance that our efforts are recognized and our sins are forgiven through the Atonement of Jesus Christ. During this ordinance, the Lord promises us that as we are willing to take upon us the name of His Son and always remember Him and keep His commandments, we will always have His Spirit to be with us. <span class="pageBreak" page-number="106"></span>Having the Holy Ghost as our constant companion is the ultimate indicator of being accepted of God.</p>
-				<p class="para" uri="/general-conference/2013/04/being-accepted-of-the-lord.p22" pid="MZW46exw0UakNrghjnmaFg" hash="a_5DVg">Other ways to observe our covenants by sacrifice are as simple as accepting a calling in the Church and faithfully serving in that calling or following the invitation of our prophet, Thomas S. Monson, to reach out to those who are standing at the wayside and need to be spiritually rescued. We observe our covenants by sacrifice by giving silent service in our neighborhood or community or by finding the names of our ancestors and doing temple work for them. We observe our covenants by sacrifice by simply striving for righteousness, being open, and listening to the promptings of the Spirit as we live our daily lives. Sometimes observing our covenants means nothing more than standing firmly and faithfully when the storms of life are raging all around us.</p>
-				<p class="para" uri="/general-conference/2013/04/being-accepted-of-the-lord.p23" pid="XXDEUypSAUCPs0oJotNU2A" hash="bfE27A">After explaining the pattern of how to be accepted by Him, the Lord uses a wonderful illustration to show how we profit as individuals and families as we seek His acceptance. He said, “For I, the Lord, will cause them to bring forth as a very fruitful tree which is planted in a goodly land, by a pure stream, that yieldeth much precious fruit.”<span class="noteMarker" ref="f_9">9</span></p>
-				<p class="para" uri="/general-conference/2013/04/being-accepted-of-the-lord.p24" pid="xiXEzxAKMkS0LMkdRuzQjA" hash="7ljHQg">As we are personally in tune with the Spirit of the Lord and feel His acceptance, we will be blessed above our understanding and bring forth many fruits of righteousness. We will be among those to whom He has said, “Well done, thou good and faithful servant: thou hast been faithful over a few things, I will make thee ruler over many things: enter thou into the joy of thy lord.”<span class="noteMarker" ref="f_10">10</span></p>
-				<p class="para" uri="/general-conference/2013/04/being-accepted-of-the-lord.p25" pid="-WIwP_0TGkmwE5-s8dQuQA" hash="Ki0neA">Seeking and receiving the acceptance of the Lord will lead to the knowledge that we are chosen and blessed by Him. We will gain increased confidence that He will lead us and direct us for good. His tender mercies will become evident in our hearts, in our lives, and in our families.</p>
-				<p class="para" uri="/general-conference/2013/04/being-accepted-of-the-lord.p26" pid="TvhfaWzzRk64SINfoM1EvA" hash="vFmbLQ">With all my heart I invite you to seek the Lord’s acceptance and enjoy His promised blessings. As we follow the simple pattern the Lord has laid out, we will come to know that we are accepted of Him, regardless of our position, status, or mortal limitations. His loving acceptance will motivate us, increase our faith, and help us deal with everything we face in life. Despite our challenges, we will be successful, prosper,<span class="noteMarker" ref="f_11">11</span> and feel at peace.<span class="noteMarker" ref="f_12">12</span> We will be among those to whom the Lord said:</p>
-				<p class="para" uri="/general-conference/2013/04/being-accepted-of-the-lord.p27" pid="EQUWRxTpb06vFcDSTguCFw" hash="SCQU5g">“Fear not, little children, for you are mine, and I have overcome the world, and you are of them that my Father hath given me;</p>
-				<p class="para" uri="/general-conference/2013/04/being-accepted-of-the-lord.p28" pid="7sEADjW8uk632RZlw3LRBQ" hash="tCaNTg">“And none of them that my Father hath given me shall be lost.”<span class="noteMarker" ref="f_13">13</span></p>
-				<p class="para" uri="/general-conference/2013/04/being-accepted-of-the-lord.p29" pid="AuoUTG_UWEebQBb5RTQ9XA" hash="K0efJw">In the name of Jesus Christ, amen.</p>
-			</div></div>]]></content:encoded>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="104"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/9650ba34e4642402a47e12dc95d0adaa35980346/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/9650ba34e4642402a47e12dc95d0adaa35980346/full/%21192%2C/0/default" data-video-title="Being Accepted of the Lord" data-video-description="Seeking and receiving the acceptance of the Lord will lead to the knowledge that we are chosen and blessed by Him." data-video-id="2305494566001" data-ip="Download and Streaming                            " data-duration="671000" data-assetId="148d5dd3d2459f906ea7f16097bdba768d764b87" data-ref-id="148d5dd3d2459f906ea7f16097bdba768d764b87" data-duration-string="11:11" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/2305494566001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="1280" data-height="720" data-file-size="63085482"/><source src="https://assets.churchofjesuschrist.org/148d5dd3d2459f906ea7f16097bdba768d764b87-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="36706397"/><source src="https://assets.churchofjesuschrist.org/148d5dd3d2459f906ea7f16097bdba768d764b87-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="63085482"/></video><h1 data-aid="28856871" id="title1">Being Accepted of the Lord</h1>
+<div class="byline">
+<p class="author-name" data-aid="28856872" id="p1">By Elder Erich W. Kopischke</p>
+<p class="author-role" data-aid="28856873" id="p2">Of the Seventy</p>
+<div class="image-cropper"><img alt="Elder Erich W. Kopischke" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/92b7e2866ff2b63653deaa7ea106c799095c53fe/full/%21100%2C/0/default" data-assetId="92b7e2866ff2b63653deaa7ea106c799095c53fe" srcset="https://www.churchofjesuschrist.org/imgs/92b7e2866ff2b63653deaa7ea106c799095c53fe/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/92b7e2866ff2b63653deaa7ea106c799095c53fe/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/92b7e2866ff2b63653deaa7ea106c799095c53fe/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/92b7e2866ff2b63653deaa7ea106c799095c53fe/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/92b7e2866ff2b63653deaa7ea106c799095c53fe/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/92b7e2866ff2b63653deaa7ea106c799095c53fe/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/92b7e2866ff2b63653deaa7ea106c799095c53fe/full/%21640%2C/0/default 640w" data-img-id="92b7e2866ff2b63653deaa7ea106c799095c53fe" data-missing-asset="false" data-width="100" data-height="140" data-aspect-ratio="0.7142857142857143" data-public-title="Kopischke, Erich W." data-public-description="Official portrait of Elder Erich W. Kopischke of the First Quorum of the Seventy, 2007."/></div>
+</div>
+<p class="kicker" data-aid="28856874" id="kicker1">Seeking and receiving the acceptance of the Lord will lead to the knowledge that we are chosen and blessed by Him.</p>
+</header>
+<div class="body-block">
+<p data-aid="28856875" id="p3">When I was a boy, I remember my father sometimes taking me with him to work on projects. We had a little garden a few kilometers from where we lived, and there was always so much to do to prepare the garden each season. We worked on the gazebo or built or repaired fences. In my memory this work always occurred in the freezing cold, heavy snow, or pouring rain. But I loved it. My father would teach me how to do things with patience and acceptance.</p>
+<p data-aid="28856876" id="p4">One day he invited me to tighten a screw and warned, “Remember, if you put it in too tight, it will break.” Proudly, I wanted to show him what I could do. I tightened with all my might, and, of course, I broke the screw. He made a funny comment, and we started over. Even when I “messed up,” I always felt his love and confidence in me. He passed away more than 10 years ago, but I can still hear his voice, sense his love, enjoy his encouragement, and feel his acceptance.</p>
+<p data-aid="28856877" id="p5">The feeling of being accepted by someone we love is a basic human need. Being accepted by good people motivates us. It increases our sense of self-worth and self-confidence. Those who cannot find acceptance from desirable sources often seek it elsewhere. They may look to people who are not interested in their well-being. They may attach themselves to false friends and do questionable things to try to receive the acknowledgment they are seeking. They may seek acceptance by wearing a particular brand of clothing to generate a feeling of belonging or status. For some, striving for a role or a position of prominence can also be a way of seeking acceptance. They may define their worth by a position they hold or status they obtain.</p>
+<p data-aid="28856878" id="p6">Even in the Church we are not always free from this type of thinking. Seeking acceptance from the wrong sources or for incorrect reasons puts us on a dangerous path—one that is likely to lead us astray and even to destruction. Instead of feeling cherished and self-confident, we will eventually feel abandoned and inferior.</p>
+<p data-aid="28856879" id="p7">Alma counseled his son Helaman, “See that ye look to God and live.”<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a> The ultimate source of empowerment and lasting acceptance is our Heavenly Father and His Son, Jesus Christ. They <span class="page-break" data-page="105"></span>know us. They love us. They do not accept us because of our title or position. They do not look at our status. They look into our hearts. They accept us for who we are and what we are striving to become. Seeking and receiving acceptance from Them will always lift and encourage us.</p>
+<p data-aid="28856880" id="p8">I will share a simple pattern which, if applied, can help every one of us find ultimate acceptance. This pattern was given by the Lord through the Prophet Joseph Smith: “Verily I say unto you, all among them who know their hearts are honest, and are broken, and their spirits contrite, and are willing to observe their covenants by sacrifice—yea, every sacrifice which I, the Lord, shall command—they are accepted of me.”<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a></p>
+<p data-aid="28856881" id="p9">This pattern consists of three simple steps:</p>
+<ol class="decimal" start="1">
+<li data-marker="1.">
+<p data-aid="28856882" id="p10">Know that our hearts are honest and broken,</p>
+</li>
+<li data-marker="2.">
+<p data-aid="28856883" id="p11">Know that our spirits are contrite, and</p>
+</li>
+<li data-marker="3.">
+<p data-aid="28856884" id="p12">Be willing to observe our covenants by sacrifice, as commanded by the Lord.</p>
+</li>
+</ol>
+<p data-aid="28856885" id="p13">First, we need to know that our hearts are honest and broken. How do we know that? We begin by engaging in sincere self-reflection. The heart is the center of our feelings. As we look into our hearts, we screen ourselves. What no one around us knows, we surely know. We know our motives and desires. When we engage in sincere, honest reflection, we do not rationalize or deceive ourselves.</p>
+<p data-aid="28856886" id="p14">There is also a way to judge if our hearts are broken. A broken heart is a soft, an open, and a receptive heart. When I hear the Savior say, “Behold, I stand at the door, and knock,”<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a> I hear Him knocking at the door of my heart. If I open this door to Him, I am more responsive to the invitations of the Spirit, and I am more accepting of God’s will.</p>
+<p data-aid="28856887" id="p15">As we sincerely and prayerfully ponder the extent to which our hearts are honest and broken, we will be taught by the Holy Ghost. We will receive a sweet confirmation or gentle correction, inviting us to act.</p>
+<p data-aid="28856888" id="p16">Second, we have to know that our spirit is contrite. The word <em>contrite</em> in the Oxford dictionary is defined as “feeling or expressing remorse at the recognition that one has done wrong.”<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a> If we have a contrite spirit, we acknowledge our sins and shortcomings. We are teachable “concerning [all] things pertaining to righteousness.”<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a> We feel godly sorrow and are willing to repent. A contrite spirit is willing to listen “to the enticings of the Holy Spirit.”<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a></p>
+<p data-aid="28856889" id="p17">A contrite spirit is manifest by our willingness and determination to act. We are willing to humble ourselves before God, willing to repent, willing to learn, and willing to change. We are willing to pray, “Not my will, but thine, be done.”<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a></p>
+<p data-aid="28856890" id="p18">The third step to being accepted by the Lord is a conscious decision to observe our covenants through sacrifice, “yea, every sacrifice which I, the Lord, shall command.”<a class="note-ref" href="#note8"><sup class="marker" data-value="8"></sup></a> Too often we think that the word <em>sacrifice</em> refers to something big or hard for us to do. In certain situations this may be true, but mostly it refers to living day-to-day as a true disciple of Christ.</p>
+<p data-aid="28856891" id="p19">One way we observe our covenants by sacrifice is worthily partaking of the sacrament each week. We consciously prepare ourselves for the sacred ordinance. We renew and confirm our sacred promises to the Lord. In this way we feel His acceptance and receive His assurance that our efforts are recognized and our sins are forgiven through the Atonement of Jesus Christ. During this ordinance, the Lord promises us that as we are willing to take upon us the name of His Son and always remember Him and keep His commandments, we will always have His Spirit to be with us. <span class="page-break" data-page="106"></span>Having the Holy Ghost as our constant companion is the ultimate indicator of being accepted of God.</p>
+<p data-aid="28856892" id="p20">Other ways to observe our covenants by sacrifice are as simple as accepting a calling in the Church and faithfully serving in that calling or following the invitation of our prophet, Thomas S. Monson, to reach out to those who are standing at the wayside and need to be spiritually rescued. We observe our covenants by sacrifice by giving silent service in our neighborhood or community or by finding the names of our ancestors and doing temple work for them. We observe our covenants by sacrifice by simply striving for righteousness, being open, and listening to the promptings of the Spirit as we live our daily lives. Sometimes observing our covenants means nothing more than standing firmly and faithfully when the storms of life are raging all around us.</p>
+<p data-aid="28856893" id="p21">After explaining the pattern of how to be accepted by Him, the Lord uses a wonderful illustration to show how we profit as individuals and families as we seek His acceptance. He said, “For I, the Lord, will cause them to bring forth as a very fruitful tree which is planted in a goodly land, by a pure stream, that yieldeth much precious fruit.”<a class="note-ref" href="#note9"><sup class="marker" data-value="9"></sup></a></p>
+<p data-aid="28856894" id="p22">As we are personally in tune with the Spirit of the Lord and feel His acceptance, we will be blessed above our understanding and bring forth many fruits of righteousness. We will be among those to whom He has said, “Well done, thou good and faithful servant: thou hast been faithful over a few things, I will make thee ruler over many things: enter thou into the joy of thy lord.”<a class="note-ref" href="#note10"><sup class="marker" data-value="10"></sup></a></p>
+<p data-aid="28856895" id="p23">Seeking and receiving the acceptance of the Lord will lead to the knowledge that we are chosen and blessed by Him. We will gain increased confidence that He will lead us and direct us for good. His tender mercies will become evident in our hearts, in our lives, and in our families.</p>
+<p data-aid="28856896" id="p24">With all my heart I invite you to seek the Lord’s acceptance and enjoy His promised blessings. As we follow the simple pattern the Lord has laid out, we will come to know that we are accepted of Him, regardless of our position, status, or mortal limitations. His loving acceptance will motivate us, increase our faith, and help us deal with everything we face in life. Despite our challenges, we will be successful, prosper,<a class="note-ref" href="#note11"><sup class="marker" data-value="11"></sup></a> and feel at peace.<a class="note-ref" href="#note12"><sup class="marker" data-value="12"></sup></a> We will be among those to whom the Lord said:</p>
+<p data-aid="28856897" id="p25">“Fear not, little children, for you are mine, and I have overcome the world, and you are of them that my Father hath given me;</p>
+<p data-aid="28856898" id="p26">“And none of them that my Father hath given me shall be lost.”<a class="note-ref" href="#note13"><sup class="marker" data-value="13"></sup></a></p>
+<p data-aid="28856899" id="p27">In the name of Jesus Christ, amen.</p>
+</div>
+<footer class="notes">
+<p class="title" data-aid="28856900" id="notetitle1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="28856901" id="note1_p1"><a class="scripture-ref" href="/study/scriptures/bofm/alma/37?lang=eng&amp;id=p47#p47">Alma 37:47</a>.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="28856902" id="note2_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/97?lang=eng&amp;id=p8#p8">Doctrine and Covenants 97:8</a>.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="28856903" id="note3_p1"><a class="scripture-ref" href="/study/scriptures/nt/rev/3?lang=eng&amp;id=p20#p20">Revelation 3:20</a>.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="28856904" id="note4_p1"><em>Oxford Dictionaries Online,</em> “contrite,” oxforddictionaries.com.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="28856905" id="note5_p1"><a class="scripture-ref" href="/study/scriptures/bofm/alma/21?lang=eng&amp;id=p23#p23">Alma 21:23</a>.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="28856906" id="note6_p1"><a class="scripture-ref" href="/study/scriptures/bofm/mosiah/3?lang=eng&amp;id=p19#p19">Mosiah 3:19</a>.</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="28856907" id="note7_p1"><a class="scripture-ref" href="/study/scriptures/nt/luke/22?lang=eng&amp;id=p42#p42">Luke 22:42</a>.</p>
+</li>
+<li data-marker="8." id="note8" data-full-marker="8.">
+<p data-aid="28856908" id="note8_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/97?lang=eng&amp;id=p8#p8">Doctrine and Covenants 97:8</a>.</p>
+</li>
+<li data-marker="9." id="note9" data-full-marker="9.">
+<p data-aid="28856909" id="note9_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/97?lang=eng&amp;id=p9#p9">Doctrine and Covenants 97:9</a>.</p>
+</li>
+<li data-marker="10." id="note10" data-full-marker="10.">
+<p data-aid="28856910" id="note10_p1"><a class="scripture-ref" href="/study/scriptures/nt/matt/25?lang=eng&amp;id=p21#p21">Matthew 25:21</a>.</p>
+</li>
+<li data-marker="11." id="note11" data-full-marker="11.">
+<p data-aid="28856911" id="note11_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/mosiah/2?lang=eng&amp;id=p22#p22">Mosiah 2:22</a>.</p>
+</li>
+<li data-marker="12." id="note12" data-full-marker="12.">
+<p data-aid="28856912" id="note12_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/mosiah/2?lang=eng&amp;id=p41#p41">Mosiah 2:41</a>.</p>
+</li>
+<li data-marker="13." id="note13" data-full-marker="13.">
+<p data-aid="28856913" id="note13_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/50?lang=eng&amp;id=p41-p42#p41">Doctrine and Covenants 50:41–42</a>.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/2013/04/being-accepted-of-the-lord</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-5050-elder-erich-w-kopischke-64k-eng.mp3" length="5350740" type="audio/mpeg"/>
-      <pubDate>Sun, 07 Apr 2013 14:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/1ba719a132ed11ecbc25eeeeac1e296284671706-64k-en.mp3" length="5634193" type="audio/mpeg"/>
+      <pubDate>Sun, 07 Apr 2013 14:00:00 -0600</pubDate>
+      <itunes:author>Erich W. Kopischke</itunes:author>
+    </item>
+    <item>
+      <title>Addressing Mental Health</title>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2021/10/25kopischke?lang=eng</link>
+      <description>Elder Kopischke shares some observations about mental illness, based on some of the trials his own family has gone through.</description>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="36"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/61411c9333fbacaf4efe080c02ca9cca22dc6cf2/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/61411c9333fbacaf4efe080c02ca9cca22dc6cf2/full/%21192%2C/0/default" data-video-title="Addressing Mental Health" data-video-description="Elder Kopischke shares some observations about mental illness, based on some of the trials his own family has gone through." data-video-id="6275282019001" data-ip="Download and Streaming                            " data-duration="567967" data-assetId="d3092c9c23ce11ec8887eeeeac1e5b9ab433f8e5" data-ref-id="A30717005996E712F1577356D2C56DA5D42EDE1D" data-duration-string="9:27" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6275282019001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="45073039"/><source src="https://assets.churchofjesuschrist.org/d3092c9c23ce11ec8887eeeeac1e5b9ab433f8e5-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="15551267"/><source src="https://assets.churchofjesuschrist.org/d3092c9c23ce11ec8887eeeeac1e5b9ab433f8e5-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="23493636"/><source src="https://assets.churchofjesuschrist.org/d3092c9c23ce11ec8887eeeeac1e5b9ab433f8e5-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="45073039"/></video><h1 data-aid="147978714" id="title1">Addressing Mental Health</h1>
+<div class="byline">
+<p class="author-name" data-aid="147978719" id="author1">By Elder Erich W. Kopischke</p>
+<p class="author-role" data-aid="147978722" id="author2">Of the Seventy</p>
+</div>
+<p class="kicker" data-aid="147978728" id="kicker1">Allow me to share several observations I made as our family has passed through trials.</p>
+</header>
+<div class="body-block">
+<p data-aid="147978732" id="p1">Even though our family has enjoyed rich blessings while joyfully walking the covenant path, we have also faced exceedingly high mountains. I wish to share some very personal experiences regarding mental illness. These include clinical depression, severe anxiety, bipolar disorder, ADHD—and sometimes a combination of them all. I share these tender experiences with the approval of those involved.</p>
+<p data-aid="147978736" id="p2">During my ministry, I have encountered hundreds of individuals and families with similar experiences. Sometimes I wonder if the “desolating sickness” covering the land, as mentioned in the scriptures, might include mental illness.<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a> It is worldwide, covering every continent and culture, and affecting all—young, old, rich, and poor. Members of the Church have not been excluded.</p>
+<p data-aid="147978740" id="p3">At the same time, our doctrine teaches us to strive to become like Jesus Christ and be perfected in Him. Our children sing, “I’m trying to be like Jesus.”<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a> We long to be perfect even as our Heavenly Father and Jesus Christ are perfect.<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a> Because mental illness can interfere with our perception of perfection, it remains all too often a taboo. As a result, there is too much ignorance, too much silent suffering, and too much despair. Many, feeling overwhelmed because they do not meet perceived standards, mistakenly believe they have no place in the Church.</p>
+<p data-aid="147978743" id="p4">To combat such deception, it is important to remember that “the Savior loves each of His Father’s children. He fully comprehends the pain and struggle that many experience as they live with a broad range of mental health challenges. He suffered ‘pains and afflictions and temptations of <em>every</em> kind; … [taking] upon him the pains and the sicknesses of his people’ (<a class="scripture-ref" href="/study/scriptures/bofm/alma/7?lang=eng&amp;id=p11#p11">Alma 7:11</a>; emphasis added; see also <a class="scripture-ref" href="/study/scriptures/nt/heb/4?lang=eng&amp;id=p15-p16#p15">Hebrews 4:15–16</a>; <a class="scripture-ref" href="/study/scriptures/bofm/2-ne/9?lang=eng&amp;id=p21#p21">2 Nephi 9:21</a>). Because He understands all afflictions, He knows how ‘to heal the brokenhearted’ (<a class="scripture-ref" href="/study/scriptures/nt/luke/4?lang=eng&amp;id=p18#p18">Luke 4:18</a>; see also <a class="scripture-ref" href="/study/scriptures/ot/isa/49?lang=eng&amp;id=p13-p16#p13">Isaiah 49:13–16</a>).”<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a> Challenges often indicate a need for additional tools and support and are not a character defect.</p>
+<p data-aid="147978746" id="p5">Allow me to share several observations I made as our family has passed through trials.</p>
+<p data-aid="147978750" id="p6">First, many people will mourn with us; they won’t judge us. Due to severe panic attacks, anxiety, and depression, our son returned home from his mission after just four weeks. As his parents, we found it difficult to deal with disappointment and sadness because we had prayed so much for his success. Like all parents, we want our children to prosper and be happy. A mission was to be an important milestone for our son. We also wondered what other people might think.</p>
+<p data-aid="147978754" id="p7">Unbeknownst to us, our son’s return was infinitely more devastating for him. Note that he loved the Lord and wanted to serve, and yet he could not for reasons he struggled to understand. He soon found himself at a point of total hopelessness, battling deep guilt. He no longer felt accepted but spiritually numb. He became consumed by recurring thoughts of death.</p>
+<span class="page-break" data-page="37"></span>
+<p data-aid="147978758" id="p8">While in this irrational state, our son believed that the only action left was to take his own life. It took the Holy Ghost and a legion of angels on both sides of the veil to save him.</p>
+<p data-aid="147978762" id="p9">While he was fighting for his life and during this immensely difficult time, our family, ward leaders, members, and friends went out of their way to support and minister to us.</p>
+<p data-aid="147978766" id="p10">I have never felt such an outpouring of love. I have never sensed more powerfully and in such a personal way what it means to comfort those in need of comfort. Our family will be ever grateful for that outpouring.</p>
+<p data-aid="147978770" id="p11">I cannot describe the countless miracles that accompanied these events. Gratefully, our son survived, but it has taken a long time and much medical, therapeutic, and spiritual care for him to heal and to accept that he is loved, valued, and needed.</p>
+<p data-aid="147978772" id="p12">I recognize that not all such incidents end like ours. I sorrow with those who have lost loved ones far too early and are now left with feelings of grief as well as unanswered questions.</p>
+<p data-aid="147978779" id="p13">My next observation is that it can be difficult for parents to identify their children’s struggles, but we must educate ourselves. How can we know the difference between the difficulties associated with normal development and signs of illness? As parents, we have the sacred charge to help our children navigate life’s challenges; however, few of us are mental health specialists. We nevertheless need to care for our children by helping them learn to be content with their sincere efforts as they strive to meet appropriate expectations. Each of us knows from our own personal shortcomings that spiritual growth is an ongoing process.</p>
+<p data-aid="147978783" id="p14">We now understand that “there is not a simple cure-all for emotional <span class="page-break" data-page="38"></span>and mental wellness. We will experience stress and turmoil because we live in a fallen world with a fallen body. Additionally, many contributing factors may lead to a diagnosis of mental illness. Regardless of our mental and emotional well-being, focusing on growth is healthier than obsessing about our shortcomings.”<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a></p>
+<p data-aid="147978787" id="p15">For my wife and me, the one thing that has always helped us was staying as close to the Lord as possible. In hindsight, we now see how the Lord patiently tutored us through times of great uncertainty. His light guided us step by step through the darkest hours. The Lord helped us to see that the worth of an individual soul is far more important in the eternal scheme than any earthly task or achievement.</p>
+<p data-aid="147978791" id="p16">Again, educating ourselves about mental illness prepares us to help ourselves and others who might be struggling. Open and honest discussion with one another will help this important topic to receive the attention it deserves. After all, information precedes inspiration and revelation. These all-too-often invisible challenges can affect anyone, and when we are facing them, they appear insurmountable.</p>
+<p data-aid="147978795" id="p17">One of the first things we need to learn is that we are certainly not alone. I invite you to study the topic of mental health in the Life Help section of the Gospel Library app. Learning will lead to more understanding, more acceptance, more compassion, more love. It can lessen tragedy while helping us develop and manage healthy expectations and healthy interactions.</p>
+<p data-aid="147978798" id="p18">My final observation: we need to constantly watch over each other. We must love one another and be less judgmental—especially when our expectations are not immediately met. We should help our children and youth feel the love of Jesus Christ in their lives, even when they struggle to personally feel love for themselves. Elder Orson F. Whitney, who served as a member of the Quorum of the Twelve Apostles, counseled parents how to help struggling offspring: “Pray for your … children; hold on to them with your faith.”<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a></p>
+<p data-aid="147978802" id="p19">I have often pondered what it means to hold on to them with faith. I believe it includes simple acts of love, meekness, kindness, and respect. It means allowing them to develop at their own pace and bearing testimony to help them feel our Savior’s love. It requires us to think more about them and less about ourselves or others. That usually means speaking less and listening much, much more. We must love them, empower them, and praise them often in their efforts to succeed and be faithful to God. And finally, we should do everything in our power to stay close to them—just as we stay close to God.</p>
+<p data-aid="147978806" id="p20">For all who are personally affected by mental illness, hold fast to your covenants, even if you might not feel God’s love at this time. Do whatever lies in your power and then “stand still … to see the salvation of God, and for his arm to be revealed.”<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a></p>
+<p data-aid="147978809" id="p21">I testify that Jesus Christ is our Savior. He knows us. He loves us, and He will wait on us. During our family’s trials, I have come to know just how close He is. His promises are true:</p>
+<div class="poetry">
+<div class="stanza">
+<p class="line" data-aid="147978815" id="p22"><em>Fear not, I am with thee; oh, be not dismayed,</em></p>
+<p class="line" data-aid="147978820" id="p23"><em>For I am thy God and will still give thee aid.</em></p>
+<p class="line" data-aid="147978825" id="p24"><em>I’ll strengthen thee, help thee, and cause thee to stand, …</em></p>
+<p class="line" data-aid="147978830" id="p25"><em>Upheld by my righteous, omnipotent hand.</em></p>
+</div>
+</div>
+<p data-aid="147978837" id="p26">Knowing how firm our foundation is, may we ever joyfully declare:</p>
+<div class="poetry">
+<div class="stanza">
+<p class="line" data-aid="147978843" id="p27"><em>The soul that on Jesus hath leaned for repose</em></p>
+<p class="line" data-aid="147978850" id="p28"><em>I will not, I cannot, desert to his foes;</em></p>
+<p class="line" data-aid="147978856" id="p29"><em>That soul, though all hell should endeavor to shake, …</em></p>
+<p class="line" data-aid="147978861" id="p30"><em>I’ll never, no never, no never forsake!<a class="note-ref" href="#note8"><sup class="marker" data-value="8"></sup></a></em></p>
+</div>
+</div>
+<p data-aid="147978867" id="p31">In the name of Jesus Christ, amen.</p>
+</div>
+<footer class="notes">
+<p class="title" data-aid="147978873" id="notetitle1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="147978879" id="note1_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/45?lang=eng&amp;id=p31#p31">Doctrine and Covenants 45:31</a>.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="147978885" id="note2_p1">“I’m Trying to Be like Jesus,” <cite>Children’s Songbook</cite>, 78–79.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="147978891" id="note3_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/3-ne/12?lang=eng&amp;id=p48#p48">3 Nephi 12:48</a>.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="147978897" id="note4_p1">“<a class="cross-ref" href="/study/manual/mental-health-general-principles/2-like-a-broken-vessel?lang=eng&amp;id=p2#p2">Like a Broken Vessel</a>,” Mental Health: General Principles, ChurchofJesusChrist.org.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="147978901" id="note5_p1">Sheldon Martin, “<a class="cross-ref" href="/study/liahona/2021/08/strive-to-be-a-pattern-for-growth-and-mental-and-emotional-wellness?lang=eng&amp;id=p12#p12">Strive to Be—a Pattern for Growth and Mental and Emotional Wellness</a>,” <cite>Liahona</cite>, Aug. 2021, 14.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="147978906" id="note6_p1">Orson F. Whitney, in Conference Report, Apr. 1929, 110.</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="147978913" id="note7_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/123?lang=eng&amp;id=p17#p17">Doctrine and Covenants 123:17</a>.</p>
+</li>
+<li data-marker="8." id="note8" data-full-marker="8.">
+<p data-aid="147978919" id="note8_p1">“How Firm a Foundation,” <cite>Hymns</cite>, no. 85.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
+      <guid isPermaLink="false">/general-conference/2021/10/25kopischke</guid>
+      <enclosure url="https://assets.churchofjesuschrist.org/e73a9c82240711ec8887eeeeac1e5b9abf9a9d6f-32k-en.mp3" length="2365357" type="audio/mpeg"/>
+      <pubDate>Sat, 02 Oct 2021 14:00:00 -0600</pubDate>
+      <itunes:author>Erich W. Kopischke</itunes:author>
     </item>
   </channel>
 </rss>

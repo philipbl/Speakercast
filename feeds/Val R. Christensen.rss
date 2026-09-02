@@ -1,99 +1,87 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Talks By Val R. Christensen</title>
-    <link>http://philip.lundrigan.org/Speakercast/</link>
+    <link>https://philip.lundrigan.org/Speakercast/</link>
     <description>General Conference talks by Val R. Christensen.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Speakercast</generator>
     <image>
-      <url>http://philip.lundrigan.org/Speakercast/covers/Val%20R.%20Christensen.jpg</url>
+      <url>https://philip.lundrigan.org/Speakercast/covers/Val%20R.%20Christensen.jpg</url>
       <title>General Conference talks by Val R. Christensen.</title>
-      <link>http://philip.lundrigan.org/Speakercast/</link>
+      <link>https://philip.lundrigan.org/Speakercast/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Oct 1998 14:00:00 -0700</lastBuildDate>
-    <pubDate>Sat, 03 Oct 1998 14:00:00 -0700</pubDate>
+    <lastBuildDate>Sat, 03 Oct 1998 14:00:00 -0600</lastBuildDate>
+    <pubDate>Sat, 03 Oct 1998 14:00:00 -0600</pubDate>
+    <itunes:author>Val R. Christensen</itunes:author>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
+    <itunes:image href="https://philip.lundrigan.org/Speakercast/covers/Val%20R.%20Christensen.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>General Conference talks by Val R. Christensen.</itunes:summary>
     <item>
       <title>Overcoming Discouragement</title>
-      <link>http://www.lds.org/general-conference/1998/10/overcoming-discouragement?lang=eng</link>
-      <description>If we place a little more patience in the process and a greater amount of faith in the Lord, our challenges will find their way toward successful conclusions.</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/1998/10/overcoming-discouragement" schema-version="1" doc-id="general-conference_98911_000_014" doc-version="2" hash="kQLPgw">
-  
-  <div class="heading" uri="/general-conference/1998/10/overcoming-discouragement.head">
-    <h1 class="title" pid="XVlwDflLRk26WZRxOGhQpw" hash="bsEyQA">Overcoming Discouragement</h1>
-    <p class="authorName" pid="2u5GAXq75Eyn5c0XkYBTZQ" hash="hBamSA">Val R. Christensen</p>
-    <p class="kicker" pid="bIGznVcPFUyMf_rWo_QvZA" hash="OoGDRQ">If we place a little more patience in the process and a greater amount of faith in the Lord, our challenges will find their way toward successful conclusions.</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/1998/10/overcoming-discouragement.t1">
-      <img src="ensignlp.nfo-o-1d70.jpg" alt="Elder Val R. Christensen" pid="AMpnxrOlYkmXnbdJU-UaWw" hash="ZxbfSg" />
-      <p class="para" uri="/general-conference/1998/10/overcoming-discouragement.p1" pid="CYsZyiTwaEKvZgQFTGr9Eg" hash="Zyrw9A">When a member of the Church is called to challenging responsibilities, it is only natural to reflect upon the events and people who brought him to this point in his life. The call to serve in the Seventy offers a chance to express appreciation to friends, family—especially my wife, Ruth Ann—and to the missionaries in the Arizona Phoenix Mission. I love all of you. I look forward also to serving the wonderful people of the Philippines.</p>
-      <div class="figure" uri="/general-conference/1998/10/overcoming-discouragement.f2">
-	<p pid="8DDeaN2MXUufkfzVxep8Ug" hash="TPcYXA">Some years ago I was invited to participate in a fireside in which I outlined ways for people to overcome discouragement. At the beginning of the presentation, I invited those who were in attendance to write on a card a major challenge they were facing, one they would feel comfortable in having me share anonymously with other members of the group. When the problems came forward, I was overcome by the significant issues faced by members who looked in control of their lives. Here are some they listed:</p>
-	<ol class="number">
-	  <li pid="tSwiax7ycU-MvMgkx_ufRQ" hash="FvKM4A">
-          <span class="label">1.</span>
-          <p pid="EFlGrzRlT0aSHKPI-e-1_w" hash="LrES9g">My farm is not making any money.</p>
-        </li>
-	  <li pid="7fGnx3j9GUiHwBQygwvAQg" hash="6YV60w">
-          <span class="label">2.</span>
-          <p pid="dMwkVfSZbEuFMbyNHAXrRw" hash="uQ6FfQ">My son has a terminal illness.</p>
-        </li>
-	  <li pid="do63pNCbMkSUcrwV8E1Klw" hash="hbwP5A">
-          <span class="label">3.</span>
-          <p pid="61Aq6Ka-nkWSFOZf8ecWwg" hash="3zvt2Q">Friction with a teenage child.</p>
-        </li>
-	  <li pid="foa9FGZKy0yjtwBIHsH3bw" hash="vxPieQ">
-          <span class="label">4.</span>
-          <p pid="WwrGWBhrL0K4Q8nmI48nGw" hash="PXojZg">My oldest son is nearly blind.</p>
-        </li>
-	  <li pid="eYj9XdhOv0SmEo9ssilKIQ" hash="Bxml0g">
-          <span class="label">5.</span>
-          <p pid="eAYlYog4TECOZY18PTarKQ" hash="TDfzsw">Learning to accept the death of my son.</p>
-        </li>
-	  <li pid="kLl5PN3TsU-RADW1g4wM6A" hash="F7aX3g">
-          <span class="label">6.</span>
-          <p pid="7W7IZZ9A6UOd-uj04_seAQ" hash="30cFDQ">My husband sees the flaws but doesn’t see the lovely things as much.</p>
-        </li>
-	</ol>
-      </div>
-      <p class="para" uri="/general-conference/1998/10/overcoming-discouragement.p2" pid="j3kcpH0AAkmDJgjEe_6L7A" hash="E-b4LA">Many of us face significant challenges. Even the great prophet Enoch experienced sadness when he viewed the wickedness of the world: “And as Enoch saw this, he had bitterness of soul, and wept over his brethren, and said unto the heavens: I will refuse to be comforted; but the Lord said unto Enoch: Lift up your heart, and be glad; and look” (<a href="/scriptures/pgp/moses/7.44" class="scriptureRef">Moses 7:44</a>).</p>
-      <div class="figure" uri="/general-conference/1998/10/overcoming-discouragement.f3">
-	<p pid="updccF4AtUSttvUxnwFW1A" hash="Hy6KVA">There are at least three steps to take when striving to overcome discouragement:</p>
-	<ol class="number">
-	  <li pid="PD53TrIHBUSCBtGo_odr_g" hash="rMsn7A">
-          <span class="label">1.</span>
-          <p pid="H_nyuP0dqk6bnP8UFJjdlw" hash="0fRvEQ">You can work on changing your attitude toward the problem. Even though you can’t change the circumstances in which you work or live, you can always change your attitude.</p>
-        </li>
-	  <li pid="FBB5CHT1N06FLO0jmC1itA" hash="-O58Ww">
-          <span class="label">2.</span>
-          <p pid="ZnhL3xnAXEi7gZrOIvGA8w" hash="19X42g">You can receive help from those who are close to you—your family, friends, and ward members, those who love you the most.</p>
-        </li>
-	  <li pid="Po3X57ZoL0OlP_A0Bui0hw" hash="4bjxBA">
-          <span class="label">3.</span>
-          <p pid="GpKse7689kiGikGimLgcOw" hash="Utq_dQ">You can develop a more powerful and complete trust in the Lord Jesus Christ.</p>
-        </li>
-	</ol>
-      </div>
-      <p class="para" uri="/general-conference/1998/10/overcoming-discouragement.p3" pid="nyU5p2-mEkGOOC7pdE4xnw" hash="43owvw">
-        <span class="emphasis">Change your attitude.</span> By looking at a problem in a different way, it may be possible to reduce discouragement. I have been impressed with the pioneer story told about Zina Young. After experiencing the death of parents, crop failure, and sickness, she was encouraged with a spiritual experience that changed her attitude. While attempting to seek divine help, she heard her mother’s voice: “Zina, any sailor can steer on a smooth sea, when rocks appear, sail around them.” A prayer came quickly: “O Father in heaven, help me to be a good sailor, that my heart shall not break on the rocks of grief” (“Mother,” <span class="emphasis">The Young Woman’s Journal,</span> Jan. 1911, 45). It is often difficult to change circumstances, but a positive attitude can help lift discouragement.</p>
-      <p class="para" uri="/general-conference/1998/10/overcoming-discouragement.p4" pid="4yRfwPWW5EGitHbF4xcdiw" hash="zLiZ0w">
-        <span class="emphasis">Accept help from others.</span> The next important point is to be willing to ask for help from those around you. Sometimes help comes from unexpected sources. A few years ago I stood in line in Chicago waiting to put my baggage on a plane. Behind me was an older man. After a few minutes he said to me, “Where are you going?” I said that I was heading for Salt Lake City. He said, “I’m going there too. Are you a Mormon?” I responded by saying I was. He said that he had been a Latter-day Saint all his life and had prepared himself finally to go to the temple. While waiting for the plane, he opened his suitcase to show me all the missionary pictures that he had collected through the years. After some minutes, we were on our way and had a wonderful talk as we flew toward Utah. Upon arrival, we left the plane quickly. I made sure he knew where he was going and said good-bye.</p>
-      <p class="para" uri="/general-conference/1998/10/overcoming-discouragement.p5" pid="KxllySgWIEOqi--tBuSyNA" hash="iJs-lw">Some weeks later, I received this card in the mail: “Dear Brother Christensen, I lost your address and then found it. So, I’m writing you a card. When I met you in Chicago, it was a prayer answered. I never travel anywhere. I wanted to be with someone. I have thought of you many times. I really enjoyed myself in Salt Lake City at the temple. Hope to see you someday. Thanks many times for the help you were to me.” I wasn’t planning to be useful that day, but I’m grateful for this brother who sought for extra help and I was nearby to assist.</p>
-      <p class="para" uri="/general-conference/1998/10/overcoming-discouragement.p6" pid="FHY6WQhC-0i_j4U3EjPVsw" hash="GWbhHw">
-        <span class="emphasis">Develop trust in the Lord.</span> I’ve talked about changing attitudes and receiving help from others. Now, let me mention the need to put more trust and faith in the Lord. I once talked to a woman who received help with her discouragement. While waiting for a temple session to begin, she picked up a Book of Mormon to read a verse. Her eyes fixed upon <a href="/scriptures/bofm/alma/34.3" class="scriptureRef">Alma 34:3</a>: “And as ye have desired of my beloved brother that he should make known unto you what ye should do, because of your afflictions; and he hath spoken somewhat unto you to prepare your minds; yea, and he hath exhorted you unto faith and to patience.” The scripture in Alma was an answer to her prayer. The message was simple: the problem she faced was going to take a long time to solve. If we place a little more patience in the process and a greater amount of faith in the Lord, our challenges will find their way toward successful conclusions.</p>
-      <p class="para" uri="/general-conference/1998/10/overcoming-discouragement.p7" pid="wfTbPTqELkKxdOB0vPG74w" hash="L6bEGQ">In the Doctrine and Covenants we read this: “If thou art sorrowful, call on the Lord thy God with supplication, that your souls may be joyful” (<a href="/scriptures/dc-testament/dc/136.29" class="scriptureRef">D&amp;C 136:29</a>).</p>
-      <p class="para" uri="/general-conference/1998/10/overcoming-discouragement.p8" pid="gx4MXSlSgkCn1Uze9w0pJQ" hash="KfDmWQ">I pray all of us may appreciate the challenges we have and try to improve our attitudes, even though our problems remain the same. Ask help from friends and family. I also testify that Jesus Christ lives and that He will help us through our discouragements if we will humbly ask for His love. In the name of Jesus Christ, amen.</p>
-    </div>
-  </div>
-</div>]]></content:encoded>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/1998/10/overcoming-discouragement?lang=eng</link>
+      <description><![CDATA[<header>
+<span class="page-break" data-page="31"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/3b43476421e7a60734f4e9b15fdf22be364c08c1/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/3b43476421e7a60734f4e9b15fdf22be364c08c1/full/%21192%2C/0/default" data-video-title="Overcoming Discouragement" data-video-description="If we place a little more patience in the process and a greater amount of faith in the Lord, our challenges will find their way toward successful conclusions." data-video-id="6389447277112" data-ip="Download &amp; Streaming" data-duration="421000" data-assetId="fad33315bb2199f1b2a963f878ca240699eae3a7" data-ref-id="fad33315bb2199f1b2a963f878ca240699eae3a7" data-duration-string="7:01" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6389447277112.m3u8" type="application/vnd.apple.mpegurl" data-width="480" data-height="360" data-file-size="19068301"/><source src="https://assets.churchofjesuschrist.org/fad33315bb2199f1b2a963f878ca240699eae3a7-360p-en.mp4" type="video/mp4" data-width="480" data-height="360" data-file-size="19068301"/></video><h1 data-aid="28807253" id="title1">Overcoming Discouragement</h1>
+<div class="byline">
+<p class="author-name" data-aid="28807254" id="p1">By Elder Val R. Christensen</p>
+<p class="author-role" data-aid="150154598" id="author2">Of the Seventy</p>
+<div class="image-cropper"><img alt="Elder Val R. Christensen" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/6bfeaa5b6aafed4120092d7695be6e7491831ac3/full/%21100%2C/0/default" data-assetId="6bfeaa5b6aafed4120092d7695be6e7491831ac3" srcset="https://www.churchofjesuschrist.org/imgs/6bfeaa5b6aafed4120092d7695be6e7491831ac3/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/6bfeaa5b6aafed4120092d7695be6e7491831ac3/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/6bfeaa5b6aafed4120092d7695be6e7491831ac3/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/6bfeaa5b6aafed4120092d7695be6e7491831ac3/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/6bfeaa5b6aafed4120092d7695be6e7491831ac3/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/6bfeaa5b6aafed4120092d7695be6e7491831ac3/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/6bfeaa5b6aafed4120092d7695be6e7491831ac3/full/%21640%2C/0/default 640w" data-img-id="6bfeaa5b6aafed4120092d7695be6e7491831ac3" data-missing-asset="false" data-width="100" data-height="121" data-aspect-ratio="0.8264462809917356" data-public-title="Christensen, Val R. 2000" data-public-description="Former official portrait of Elder Val R. Christensen of the Second Quorum of the Seventy, 2000.  Released October 2004."/></div>
+</div>
+<p class="kicker" data-aid="28807255" id="kicker1">If we place a little more patience in the process and a greater amount of faith in the Lord, our challenges will find their way toward successful conclusions.</p>
+</header>
+<div class="body-block">
+<p data-aid="28807256" id="p2">When a member of the Church is called to challenging responsibilities, it is only natural to reflect upon the events and people who brought him to this point in his life. The call to serve in the Seventy offers a chance to express appreciation to friends, family—especially my wife, Ruth Ann—and to the missionaries in the Arizona Phoenix Mission. I love all of you. I look forward also to serving the wonderful people of the Philippines.</p>
+<p data-aid="28807257" id="p3">Some years ago I was invited to participate in a fireside in which I outlined ways for people to overcome discouragement. At the beginning of the presentation, I invited those who were in attendance to write on a card a major challenge they were facing, one they would feel comfortable in having me share anonymously with other members of the group. When the problems came forward, I was overcome by the significant issues faced by members who looked in control of their lives. Here are some they listed:</p>
+<ol class="decimal" start="1">
+<li data-marker="1.">
+<p data-aid="28807258" id="p4">My farm is not making any money.</p>
+</li>
+<li data-marker="2.">
+<p data-aid="28807259" id="p5">My son has a terminal illness.</p>
+</li>
+<li data-marker="3.">
+<p data-aid="28807260" id="p6">Friction with a teenage child.</p>
+</li>
+<li data-marker="4.">
+<p data-aid="28807261" id="p7">My oldest son is nearly blind.</p>
+</li>
+<li data-marker="5.">
+<p data-aid="28807262" id="p8">Learning to accept the death of my son.</p>
+</li>
+<li data-marker="6.">
+<p data-aid="28807263" id="p9">My husband sees the flaws but doesn’t see the lovely things as much.</p>
+</li>
+</ol>
+<p data-aid="28807264" id="p10">Many of us face significant challenges. Even the great prophet Enoch experienced sadness when he viewed the wickedness of the world: “And as Enoch saw this, he had bitterness of soul, and wept over his brethren, and said unto the heavens: I will refuse to be comforted; but the Lord said unto Enoch: Lift up your heart, and be glad; and look” (<a class="scripture-ref" href="/study/scriptures/pgp/moses/7?lang=eng&amp;id=p44#p44">Moses 7:44</a>).</p>
+<p data-aid="28807265" id="p11">There are at least three steps to take when striving to overcome discouragement:</p>
+<ol class="decimal" start="1">
+<li data-marker="1.">
+<p data-aid="28807266" id="p12">You can work on changing your attitude toward the problem. Even though you can’t change the circumstances in which you work or live, you can always change your attitude.</p>
+</li>
+<li data-marker="2.">
+<p data-aid="28807267" id="p13">You can receive help from those who are close to you—your family, friends, and ward members, those who love you the most.</p>
+</li>
+<li data-marker="3.">
+<p data-aid="28807268" id="p14">You can develop a more powerful and complete trust in the Lord Jesus Christ.</p>
+</li>
+</ol>
+<p data-aid="28807269" id="p15"><em>Change your attitude.</em> By looking at a problem in a different way, it may be possible to reduce discouragement. I have been impressed with the pioneer story told about Zina Young. After experiencing the death of parents, crop failure, and sickness, she was encouraged with a spiritual experience that changed her attitude. While attempting to seek divine help, she heard her mother’s voice: “Zina, any sailor can steer on a smooth sea, when rocks appear, sail around them.” A prayer came quickly: “O Father in heaven, help me to be a good sailor, that my heart shall not break on the rocks of grief” (“Mother,” <em>Young Woman’s Journal,</em> Jan. 1911, 45). It is often difficult to change circumstances, but a positive attitude can help lift discouragement.</p>
+<p data-aid="28807270" id="p16"><em>Accept help from others.</em> The next important point is to be willing to ask for help from those around you. Sometimes help comes from unexpected sources. A few years ago I stood in line in Chicago waiting to put my baggage on a plane. Behind me was an older man. After a few minutes he said to me, “Where are you going?” I said that I was heading for Salt Lake City. He said, “I’m going there too. Are you a Mormon?” I responded by saying I was. He said that he had been a Latter-day Saint all his life and had prepared himself finally to go to the temple. While waiting for the plane, he opened his suitcase to show me all the missionary pictures that he had collected through the years. After some minutes, we were on our way and had a wonderful talk as we flew toward Utah. Upon arrival, we left the plane quickly. I made sure he knew where he was going and said good-bye.</p>
+<p data-aid="28807271" id="p17">Some weeks later I received this <span class="page-break" data-page="32"></span>card in the mail: “Dear Brother Christensen, I lost your address and then found it. So I’m writing you a card. When I met you in Chicago, it was a prayer answered. I never travel anywhere. I wanted to be with someone. I have thought of you many times. I really enjoyed myself in Salt Lake City at the temple. Hope to see you someday. Thanks many times for the help you were to me.” I wasn’t planning to be useful that day, but I’m grateful for this brother who sought for extra help and I was nearby to assist.</p>
+<p data-aid="28807272" id="p18"><em>Develop trust in the Lord.</em> I’ve talked about changing attitudes and receiving help from others. Now, let me mention the need to put more trust and faith in the Lord. I once talked to a woman who received help with her discouragement. While waiting for a temple session to begin, she picked up a Book of Mormon to read a verse. Her eyes fixed upon <a class="scripture-ref" href="/study/scriptures/bofm/alma/34?lang=eng&amp;id=p3#p3">Alma 34:3</a>: “And as ye have desired of my beloved brother that he should make known unto you what ye should do, because of your afflictions; and he hath spoken somewhat unto you to prepare your minds; yea, and he hath exhorted you unto faith and to patience.” The scripture in Alma was an answer to her prayer. The message was simple: the problem she faced was going to take a long time to solve. If we place a little more patience in the process and a greater amount of faith in the Lord, our challenges will find their way toward successful conclusions.</p>
+<p data-aid="28807273" id="p19">In the Doctrine and Covenants we read this: “If thou art sorrowful, call on the Lord thy God with supplication, that your souls may be joyful” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/136?lang=eng&amp;id=p29#p29">D&amp;C 136:29</a>).</p>
+<p data-aid="28807274" id="p20">I pray all of us may appreciate the challenges we have and try to improve our attitudes, even though our problems remain the same. Ask help from friends and family. I also testify that Jesus Christ lives and that He will help us through our discouragements if we will humbly ask for His love. In the name of Jesus Christ, amen.</p>
+</div>]]></description>
       <guid isPermaLink="false">/general-conference/1998/10/overcoming-discouragement</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/october-1998-general-conference/1998-10-2060-elder-val-r-christensen-64k-eng.mp3" length="3376565" type="audio/mpeg"/>
-      <pubDate>Sat, 03 Oct 1998 14:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/51c432db32de11eca29deeeeac1e03f9cc40d9fd-64k-en.mp3" length="3488170" type="audio/mpeg"/>
+      <pubDate>Sat, 03 Oct 1998 14:00:00 -0600</pubDate>
+      <itunes:author>Val R. Christensen</itunes:author>
     </item>
   </channel>
 </rss>

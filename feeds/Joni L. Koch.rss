@@ -1,65 +1,186 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Talks By Joni L. Koch</title>
-    <link>http://philip.lundrigan.org/Speakercast/</link>
+    <link>https://philip.lundrigan.org/Speakercast/</link>
     <description>General Conference talks by Joni L. Koch.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Speakercast</generator>
     <image>
-      <url>http://philip.lundrigan.org/Speakercast/covers/Joni%20L.%20Koch.jpg</url>
+      <url>https://philip.lundrigan.org/Speakercast/covers/Joni%20L.%20Koch.jpg</url>
       <title>General Conference talks by Joni L. Koch.</title>
-      <link>http://philip.lundrigan.org/Speakercast/</link>
+      <link>https://philip.lundrigan.org/Speakercast/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Oct 2017 14:00:00 -0700</lastBuildDate>
-    <pubDate>Sun, 01 Oct 2017 14:00:00 -0700</pubDate>
+    <lastBuildDate>Sat, 30 Sep 2023 18:00:00 -0600</lastBuildDate>
+    <pubDate>Sat, 30 Sep 2023 18:00:00 -0600</pubDate>
+    <itunes:author>Joni L. Koch</itunes:author>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
+    <itunes:image href="https://philip.lundrigan.org/Speakercast/covers/Joni%20L.%20Koch.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>General Conference talks by Joni L. Koch.</itunes:summary>
     <item>
       <title>Apart, but Still One</title>
-      <link>http://www.lds.org/general-conference/2017/10/apart-but-still-one?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2017/10/apart-but-still-one?lang=eng</link>
       <description>Elder Koch teaches about the importance of being united with our Church leaders and fellow members.</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/2017/10/apart-but-still-one" dup-conf="false" dup-mag="false" schema-version="1" doc-id="general-conference_PD60003502_000_63koch" doc-version="1" hash="nO4T6A">
-		
-		<div class="heading" uri="/general-conference/2017/10/apart-but-still-one.head1">
-			<h1 class="title" pid="1GmxK2n2L02Bdm4ZzCH9XA" hash="1jH8Gw">Apart, but Still One</h1>
-			<div class="byline">
-				<p class="para" uri="/general-conference/2017/10/apart-but-still-one.p2" pid="_IJpllkhtk6BTwmUYBPTtg" hash="E5wTig1">By Elder Joni L. Koch</p>
-				<p class="para" uri="/general-conference/2017/10/apart-but-still-one.p3" pid="hGSP-iirE0qc0nlzoCzsPw" hash="sSmk3g">Of the Seventy</p>
-			</div>
-			<p class="kicker" pid="vgFJA62qwU2vDkQ2DfV4RQ" hash="IE0GpQ">In the Church, in spite of our differences, the Lord expects us to be one!</p>
-		<p class="authorName" pid="XJTqdgUoEEGqpKySoLOkkA" hash="E5wTig">By Elder Joni L. Koch</p></div>
-		<div class="bodyBlock">
-			<p class="para" uri="/general-conference/2017/10/apart-but-still-one.p5" pid="6j0DGjWnFEqfk3IY78doLw" hash="B16s1Q">In June 1994, I was anxiously driving back home from work to watch on TV our national soccer team play in the World Cup. Soon after I started my journey, I saw from afar on the sidewalk a man quickly moving forward in a wheelchair, which I noticed was decorated with our Brazilian flag. I knew then he was also going home to watch the game!</p>
-			<p class="para" uri="/general-conference/2017/10/apart-but-still-one.p6" pid="EqgtNCG8mkytkFpNNAaJxw" hash="oYWJkA">When our paths crossed and our eyes met, for a fraction of a second, I felt strongly united with that man! We were going in different directions, didn’t know each other, and had clearly different social and physical conditions, but our same passion for soccer and love for our country made us feel like one in that very moment! I haven’t seen that man since then, but today, decades later, I can still see those eyes and feel that strong connection with that man. After all, we won the game and the World Cup that year!</p>
-			<p class="para" uri="/general-conference/2017/10/apart-but-still-one.p7" pid="Z_tAKLVWYk6ezY75lTHQ4Q" hash="6AejAw">In the Church, in spite of our differences, the Lord expects us to be one! He said in the Doctrine and Covenants, “Be one; and if ye are not one ye are not mine.”<span class="noteMarker" ref="f_1">1</span></p>
-			<p class="para" uri="/general-conference/2017/10/apart-but-still-one.p8" pid="HNxi4tvMu0uXG6AhgNBMEA" hash="P270DA">As we all enter a meetinghouse to worship as a group, we should leave behind our differences, including race, social status, political preferences, and academic and professional achievements, and instead concentrate on our common spiritual objectives. Together we sing hymns, ponder about the same covenants during the sacrament, and say simultaneously an audible “amen” after talks, lessons, and prayers—meaning that we jointly agree with what was shared.</p>
-			<p class="para" uri="/general-conference/2017/10/apart-but-still-one.p9" pid="H-ITcTkk7UGIw9JLo_FvnQ" hash="cNvDyg">These things that we do collectively help create a strong sense of oneness within the congregation.</p>
-			<p class="para" uri="/general-conference/2017/10/apart-but-still-one.p10" pid="uojkDdBOa0GaMAAvYjVYog" hash="txtYdQ">However, what really determines, solidifies, or destroys our unity is how we act when we are apart from our Church members. As we all know, it is inevitable and normal that eventually we will talk about each other.</p>
-			<p class="para" uri="/general-conference/2017/10/apart-but-still-one.p11" pid="OlrOPNh3F0iT525V7aludQ" hash="-6CRWQ">Depending on what we choose to say about one another, our words will either have our “hearts knit together in unity,”<span class="noteMarker" ref="f_2">2</span> as Alma taught those he baptized in the Waters of Mormon, or they will erode the love, trust, and goodwill that should exist among us.</p>
-			<p class="para" uri="/general-conference/2017/10/apart-but-still-one.p12" pid="C4h-VFJc1UCEOWcSssktBw" hash="P32TtA">There are comments that subtly destroy unity, such as “Yes, he’s a good bishop; oh, but you should have seen him when he was a young man!”</p>
-			<p class="para" uri="/general-conference/2017/10/apart-but-still-one.p13" pid="0wpZ6uVeT0GS7TqxZET4ag" hash="nIeQEQ">A more constructive version of this might be “The bishop is so good, and he has grown so much in maturity and wisdom over the years.”</p>
-			<p class="para" uri="/general-conference/2017/10/apart-but-still-one.p14" pid="QGf1WNC8Wk6W8qvKK5R4Uw" hash="kdFpXw">Oftentimes we put permanent labels on people by saying something like “Our Relief Society president is a lost cause; she is so stubborn!” In contrast, we might say, “The Relief Society president has been less flexible lately; maybe she’s going through some difficult times. Let’s help her and sustain her!”</p>
-			<p class="para" uri="/general-conference/2017/10/apart-but-still-one.p15" pid="_PfpR1Vra0Wb0-9-mzl7cw" hash="Ft99LQ">Brothers and sisters, we have no right to portray anybody, including from our Church circle, as a badly finished product! Rather, our words about our fellow beings should reflect our belief in Jesus Christ and His Atonement and that, in Him and through Him, we can always change for the better!</p>
-			<p class="para" uri="/general-conference/2017/10/apart-but-still-one.p16" pid="rVuPejz4J0GozqO4QABQNg" hash="9YVPTQ">Some start criticizing and becoming divided from Church leaders and members for things that are so small.</p>
-			<p class="para" uri="/general-conference/2017/10/apart-but-still-one.p17" pid="cRQT7_fljkWjerFP_uLQ1g" hash="IZpksQ">Such was the case of a man called Simonds Ryder, who became a member of the Church in 1831. After reading a revelation that pertained to him, he was perplexed to see that his name was misspelled <span class="emphasis">Rider,</span> with the letter <span class="emphasis">i</span> instead of with the letter <span class="emphasis">y.</span> His reaction to this event contributed to his questioning the prophet and eventually led to persecuting Joseph and falling away from the Church.<span class="noteMarker" ref="f_3">3</span></p>
-			<p class="para" uri="/general-conference/2017/10/apart-but-still-one.p18" pid="twWNfyiz7kKboeGPyDCnow" hash="4vU5FA">It is also likely that we will all experience some correction from our ecclesiastical leaders, which will be a test of how united we are with them.</p>
-			<p class="para" uri="/general-conference/2017/10/apart-but-still-one.p19" pid="oJVB4Pb5GEq7OFHyfcFJCA" hash="7B5Nkw">I was only 11, but I remember that 44 years ago, the meetinghouse where my family attended church was to experience major remodeling. Before that undertaking began, there was a meeting in which local leaders and area leaders were discussing how the members would participate with labor in that effort. My father, who had previously presided over that unit for years, expressed his very strong opinion that this work should be done by a contractor and not by amateurs.</p>
-			<p class="para" uri="/general-conference/2017/10/apart-but-still-one.p20" pid="vWcgrgiib0Cwpm8-zPS1kA" hash="Y22dGA">Not only was his opinion rejected, but we heard that he was severely and publicly rebuked on that occasion. Now, this was a man who was very dedicated to the Church and had been a World War II soldier in Europe, used to resisting and fighting for what he believed in! One wondered what his reaction might be after this incident. Would he persist with his opinion and continue to oppose the decision already made?</p>
-			<p class="para" uri="/general-conference/2017/10/apart-but-still-one.p21" pid="LgKHz3e_P0CNIahkWs5ZtA" hash="lChNvQ">We had seen families in our ward who had become weaker in the gospel and had stopped attending meetings because they could not be one with those who were leading. I myself also witnessed many of my friends from Primary not remaining faithful in their youth because their parents were always finding fault with those inside the Church.</p>
-			<p class="para" uri="/general-conference/2017/10/apart-but-still-one.p22" pid="yTmvye6adUOir4TBDCOeZw" hash="waz9Tw">My dad, however, decided to remain one with our fellow Saints. Some days later, when ward members were gathering to help in the construction, he “invited” our family to follow him to the meetinghouse, where we would make ourselves available to help in any way.</p>
-			<p class="para" uri="/general-conference/2017/10/apart-but-still-one.p23" pid="o5qsQtEW40Gxbw7b1ut3eg" hash="kg5PIQ">I was furious. I felt like asking him, “Dad, why in the world are we going to help in the construction if you were against having the members do it?” But the look on his face discouraged me from doing that. I wanted to be well for the rededication. So, fortunately, I decided to be quiet and just go and help in the building!</p>
-			<p class="para" uri="/general-conference/2017/10/apart-but-still-one.p24" pid="mtpqoMFNvEy7Wk9YZR6EKA" hash="DY8BrQ">Father did not get to see the new chapel, as he passed away before the conclusion of this work. But we in the family, led now by my mom, continued doing our part until it was finished, and that kept us united with my father, with the Church members, with our leaders, and, most important, with the Lord!</p>
-			<p class="para" uri="/general-conference/2017/10/apart-but-still-one.p25" pid="M93fBL0NOEGn756rDdeRQA" hash="rn_CqA">Just moments before His excruciating experiences in Gethsemane, when Jesus was praying to the Father for His Apostles and all of us, the Saints, He said, “That they all may be one; as thou, Father, art in me, and I in thee.”<span class="noteMarker" ref="f_4">4</span></p>
-			<p class="para" uri="/general-conference/2017/10/apart-but-still-one.p26" pid="Oir_6wyYZUS9HRXq6EpFUQ" hash="evJV1A">Brothers and sisters, I testify that as we decide to be one with the members and leaders of the Church—both when we’re assembled together and especially when we are apart—we will also feel more perfectly united with our Heavenly Father and the Savior. In the name of Jesus Christ, amen.</p>
-		</div>
-		
-	</div>]]></content:encoded>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="110"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/5b52a18acb0d634f06ba3f2f0c3f8a344a35c5af/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/5b52a18acb0d634f06ba3f2f0c3f8a344a35c5af/full/%21192%2C/0/default" data-video-title="Apart, but Still One" data-video-description="Elder Koch teaches about the importance of being united with our Church leaders and fellow members." data-video-id="5596916816001" data-ip="Download and Streaming                            " data-duration="543000" data-assetId="aa256611afb5b21a7a836030f86b22a7f083d98b" data-ref-id="aa256611afb5b21a7a836030f86b22a7f083d98b" data-duration-string="9:03" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/5596916816001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="151170525"/><source src="https://assets.churchofjesuschrist.org/aa256611afb5b21a7a836030f86b22a7f083d98b-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="31698554"/><source src="https://assets.churchofjesuschrist.org/aa256611afb5b21a7a836030f86b22a7f083d98b-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="57109135"/><source src="https://assets.churchofjesuschrist.org/aa256611afb5b21a7a836030f86b22a7f083d98b-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="151170525"/></video><h1 data-aid="134631032" id="title1">Apart, but Still One</h1>
+<div class="byline">
+<p class="author-name" data-aid="134631033" id="p1">By Elder Joni L. Koch</p>
+<p class="author-role" data-aid="134631034" id="p2">Of the Seventy</p>
+<div class="image-cropper"><img alt="Elder Joni L. Koch" class="headshot" data-deprecate-web-url="joni-koch-official-portrait-2017_1913249.jpg" id="img1" src="https://www.churchofjesuschrist.org/imgs/98cd19447affb0dd42c2a47688f7aa31d71e454d/full/%21100%2C/0/default" data-assetId="98cd19447affb0dd42c2a47688f7aa31d71e454d" srcset="https://www.churchofjesuschrist.org/imgs/98cd19447affb0dd42c2a47688f7aa31d71e454d/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/98cd19447affb0dd42c2a47688f7aa31d71e454d/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/98cd19447affb0dd42c2a47688f7aa31d71e454d/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/98cd19447affb0dd42c2a47688f7aa31d71e454d/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/98cd19447affb0dd42c2a47688f7aa31d71e454d/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/98cd19447affb0dd42c2a47688f7aa31d71e454d/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/98cd19447affb0dd42c2a47688f7aa31d71e454d/full/%21640%2C/0/default 640w" data-img-id="98cd19447affb0dd42c2a47688f7aa31d71e454d" data-missing-asset="false" data-width="100" data-height="139" data-aspect-ratio="0.7194244604316546" data-public-title="Koch, Joni L." data-public-description="Official Portrait of Elder Joni L. Koch.  Photographed in March 2017."/></div>
+</div>
+<p class="kicker" data-aid="134631035" id="kicker1">In the Church, in spite of our differences, the Lord expects us to be one!</p>
+</header>
+<div class="body-block">
+<p data-aid="134631036" id="p3">In June 1994, I was anxiously driving back home from work to watch on TV our national soccer team play in the World Cup. Soon after I started my journey, I saw from afar on the sidewalk a man quickly moving forward in a wheelchair, which I noticed was decorated with our Brazilian flag. I knew then he was also going home to watch the game!</p>
+<p data-aid="134631037" id="p4">When our paths crossed and our eyes met, for a fraction of a second, I felt strongly united with that man! We were going in different directions, didn’t know each other, and had clearly different social and physical conditions, but our same passion for soccer and love for our country made us feel like one in that very moment! I haven’t seen that man since then, but today, decades later, I can still see those eyes and feel that strong connection with that man. After all, we won the game and the World Cup that year!</p>
+<p data-aid="134631038" id="p5">In the Church, in spite of our differences, the Lord expects us to be one! He said in the Doctrine and Covenants, “Be one; and if ye are not one ye are not mine.”<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a></p>
+<p data-aid="134631039" id="p6">As we all enter a meetinghouse to worship as a group, we should leave behind our differences, including race, social status, political preferences, and academic and professional achievements, and instead concentrate on our common spiritual objectives. Together we sing hymns, ponder about the same covenants during the sacrament, and say simultaneously an audible “amen” after talks, lessons, and prayers—meaning that we jointly agree with what was shared.</p>
+<p data-aid="134631040" id="p7">These things that we do collectively help create a strong sense of oneness within the congregation.</p>
+<p data-aid="134631041" id="p8">However, what really determines, solidifies, or destroys our unity is how we act when we are apart from our Church members. As we all know, it is inevitable and normal that eventually we will talk about each other.</p>
+<p data-aid="134631042" id="p9">Depending on what we choose to say about one another, our words will either have our “hearts knit together in unity,”<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a> as Alma taught those he baptized in the Waters of Mormon, or they will erode the love, trust, and goodwill that should exist among us.</p>
+<p data-aid="134631043" id="p10">There are comments that subtly destroy unity, such as “Yes, he’s a good bishop; oh, but you should have seen him when he was a young man!”</p>
+<p data-aid="134631044" id="p11">A more constructive version of this might be “The bishop is so good, and he has grown so much in maturity and wisdom over the years.”</p>
+<p data-aid="134631045" id="p12">Oftentimes we put permanent labels on people by saying something like “Our Relief Society president is a lost cause; she is so stubborn!” In contrast, we might say, “The Relief Society president has been less flexible lately; maybe she’s going through some difficult times. Let’s help her and sustain her!”</p>
+<p data-aid="134631046" id="p13">Brothers and sisters, we have no right to portray anybody, including from our Church circle, as a badly finished product! Rather, our words about our fellow beings should <span class="page-break" data-page="111"></span>reflect our belief in Jesus Christ and His Atonement and that, in Him and through Him, we can always change for the better!</p>
+<p data-aid="134631047" id="p14">Some start criticizing and becoming divided from Church leaders and members for things that are so small.</p>
+<p data-aid="134631048" id="p15">Such was the case of a man called Simonds Ryder, who became a member of the Church in 1831. After reading a revelation that pertained to him, he was perplexed to see that his name was misspelled <em>Rider,</em> with the letter <em>i</em> instead of with the letter <em>y.</em> His reaction to this event contributed to his questioning the prophet and eventually led to persecuting Joseph and falling away from the Church.<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a></p>
+<p data-aid="134631049" id="p16">It is also likely that we will all experience some correction from our ecclesiastical leaders, which will be a test of how united we are with them.</p>
+<p data-aid="134631050" id="p17">I was only 11, but I remember that 44 years ago, the meetinghouse where my family attended church was to experience major remodeling. Before that undertaking began, there was a meeting in which local leaders and area leaders were discussing how the members would participate with labor in that effort. My father, who had previously presided over that unit for years, expressed his very strong opinion that this work should be done by a contractor and not by amateurs.</p>
+<p data-aid="134631051" id="p18">Not only was his opinion rejected, but we heard that he was severely and publicly rebuked on that occasion. Now, this was a man who was very dedicated to the Church and had been a World War II soldier in Europe, used to resisting and fighting for what he believed in! One wondered what his reaction might be after this incident. Would he persist with his opinion and continue to oppose the decision already made?</p>
+<p data-aid="134631052" id="p19">We had seen families in our ward who had become weaker in the gospel and had stopped attending meetings because they could not be one with those who were leading. I myself also witnessed many of my friends from Primary not remaining faithful in their youth because their parents were always finding fault with those inside the Church.</p>
+<p data-aid="134631053" id="p20">My dad, however, decided to remain one with our fellow Saints. Some days later, when ward members were gathering to help in the construction, he “invited” our family to follow him to the meetinghouse, where we would make ourselves available to help in any way.</p>
+<p data-aid="134631054" id="p21">I was furious. I felt like asking him, “Dad, why in the world are we going to help in the construction if you were against having the members do it?” But the look on his face discouraged me from doing that. I wanted to be well for the rededication. So, fortunately, I decided to be quiet and just go and help in the building!</p>
+<p data-aid="134631055" id="p22">Father did not get to see the new chapel, as he passed away before the conclusion of this work. But we in the family, led now by my mom, continued doing our part until it was finished, and that kept us united with my father, with the Church members, with our leaders, and, most important, with the Lord!</p>
+<p data-aid="134631056" id="p23">Just moments before His excruciating experiences in Gethsemane, when Jesus was praying to the Father for His Apostles and all of us, the Saints, He said, “That they all may be one; as thou, Father, art in me, and I in thee.”<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a></p>
+<p data-aid="134631057" id="p24">Brothers and sisters, I testify that as we decide to be one with the members and leaders of the Church—both when we’re assembled together and especially when we are apart—we will also feel more perfectly united with our Heavenly Father and the Savior. In the name of Jesus Christ, amen.</p>
+</div>
+<footer class="notes">
+<p class="title" data-aid="134631058" id="notetitle1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="134631059" id="note1_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/38?lang=eng&amp;id=p27#p27">Doctrine and Covenants 38:27</a>.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="134631060" id="note2_p1"><a class="scripture-ref" href="/study/scriptures/bofm/mosiah/18?lang=eng&amp;id=p21#p21">Mosiah 18:21</a>.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="134631061" id="note3_p1">See Milton V. Backman Jr., <em>The Heavens Resound: A History of the Latter-day Saints in Ohio, 1830–1838</em> (1983), 93–94.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="134631062" id="note4_p1"><a class="scripture-ref" href="/study/scriptures/nt/john/17?lang=eng&amp;id=p21#p21">John 17:21</a>.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/2017/10/apart-but-still-one</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/october-2017-general-conference/2017-10-5030-joni-l-koch-64k-eng.mp3" length="4364313" type="audio/mpeg"/>
-      <pubDate>Sun, 01 Oct 2017 14:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/7171e2ca10c411eca393eeeeac1e50df86ce2970-64k-en.mp3" length="4491503" type="audio/mpeg"/>
+      <pubDate>Sun, 01 Oct 2017 14:00:00 -0600</pubDate>
+      <itunes:author>Joni L. Koch</itunes:author>
+    </item>
+    <item>
+      <title>Humble to Accept and Follow</title>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2023/10/32koch?lang=eng</link>
+      <description>Elder Koch teaches the importance of being humble and trusting in the Lord.</description>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="59"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/0d7080fd51419e3d9195960494bba00c2677cfb5/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/0d7080fd51419e3d9195960494bba00c2677cfb5/full/%21192%2C/0/default" data-video-title="Humble to Accept and Follow" data-video-description="Elder Koch teaches the importance of being humble and trusting in the Lord." data-video-id="6338173992112" data-ip="Download and Streaming                            " data-duration="639000" data-assetId="8e045ba1600411eebabdeeeeac1e0d0a53757d85" data-ref-id="A318E9AAB10AE9F4849B9214FDFEF028417143F3" data-duration-string="10:39" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6338173992112/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="153346192"/><source src="https://assets.churchofjesuschrist.org/8e045ba1600411eebabdeeeeac1e0d0a53757d85-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="34564018"/><source src="https://assets.churchofjesuschrist.org/8e045ba1600411eebabdeeeeac1e0d0a53757d85-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="61484388"/><source src="https://assets.churchofjesuschrist.org/8e045ba1600411eebabdeeeeac1e0d0a53757d85-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="153346192"/></video><h1 data-aid="156931695" id="title1">Humble to Accept and Follow</h1>
+<div class="byline">
+<p class="author-name" data-aid="156931701" id="author1">By Elder Joni L. Koch</p>
+<p class="author-role" data-aid="156931706" id="author2">Of the Seventy</p>
+</div>
+<p class="kicker" data-aid="156931712" id="kicker1">Humility is a mandatory requirement for us to be ready to return to the presence of God.</p>
+</header>
+<div class="body-block">
+<p data-aid="156931718" id="p1">In the <a class="scripture-ref" href="/study/scriptures/bofm/alma/5?lang=eng">fifth chapter of Alma</a>, an introspective question is posed: “Could ye say, if ye were called to die at this time, within yourselves, that ye have been sufficiently humble?”<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a> That question implies that humility is a mandatory requirement for us to be ready to return to the presence of God.</p>
+<p data-aid="156931724" id="p3">We all like to think we are sufficiently humble, but some experiences in life make us realize that the natural, prideful man or woman often is very much alive within us.</p>
+<p data-aid="156931731" id="p4">Years ago, when our two daughters were still living at home, I decided to show them and my wife the business unit of which I was in charge in the company I worked for.</p>
+<p data-aid="156931738" id="p5">My real purpose though was to show them a place where, unlike our home, everyone would do exactly what I asked them to do without questioning me. As we arrived at the front gate, which usually opened automatically when my car approached, I was surprised that it didn’t open this time. Instead, a security guard I had never seen before in my life came to the car and asked me for my company ID.</p>
+<p data-aid="156931745" id="p6">I told him I never needed an ID to drive into the property with my car and then asked him the classic prideful-person question: “Do you know who you’re talking to?”</p>
+<p data-aid="156931752" id="p33">To which he replied, “Well, since you don’t have your company ID, I cannot know who you are, and while I am at this gate, you will not be allowed to enter the premises without proper identification.”</p>
+<p data-aid="156931761" id="p7">I thought about looking at the rearview mirror to check my daughters’ reaction to all that, but I knew they were savoring every second of that moment! My wife at my side was shaking her head in disapproval of my behavior. My last resort then was to apologize to the guard and say I was very sorry for treating him so badly. “You’re forgiven,” he said, “but without a company ID, you’re not coming in today!”</p>
+<p data-aid="156931769" id="p8">I then drove very slowly back home to get my ID, having perhaps learned this valuable lesson: when we choose not to be humble, we end up being humiliated.</p>
+<p data-aid="156931777" id="p9">In Proverbs we find, “A man’s pride shall bring him low: but honour shall uphold the humble in spirit.”<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a> In order to develop humility, we must understand what it really means in the context of the gospel.</p>
+<span class="page-break" data-page="60"></span>
+<p data-aid="156931781" id="p11">Some people confuse being humble with other things such as, for example, being poor. But there are actually many who are poor and prideful and also many who are rich and yet humble. Others who are very shy or have low self-esteem may have an outward appearance of humility but deep inside are full of pride sometimes.</p>
+<p data-aid="156931790" id="p13">Then what is humility? According to <cite>Preach My Gospel</cite>, it is a “willingness to submit to the will of the Lord. … It is being teachable. … [It] is a vital catalyst for spiritual growth.”<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a></p>
+<p data-aid="156931805" id="p14">There are certainly many opportunities for us all to improve in this Christlike attribute. I would like to explore first how humble we’ve been, or should be, in following the counsel of our prophet. A pop quiz for us individually could be:</p>
+<ul class="bullet">
+<li>
+<p data-aid="156931814" id="p15">Do we mention the full name of the Church in all our interactions? President Russell M. Nelson said, “To remove the Lord’s name from the Lord’s Church is a major victory for Satan.”<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a></p>
+</li>
+<li>
+<p data-aid="156932823" id="p16">Are we letting God prevail in our lives by accepting our prophet’s very specific invitation? “Today I call upon our members everywhere to lead out in abandoning attitudes and actions of prejudice.”<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a></p>
+</li>
+<li>
+<p data-aid="156932832" id="p17">Are we overcoming the world, trusting the doctrine of Christ more than the philosophies of men, as our prophet taught?<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a></p>
+</li>
+<li>
+<p data-aid="156932841" id="p18">Have we become peacemakers, saying positive things to and about people? President Nelson taught us last general conference the following: “If there is anything virtuous, lovely, or of good report or praiseworthy that we can say about another person—whether to his face or behind her back—that should be <em>our</em> standard of communication.”<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a></p>
+</li>
+</ul>
+<p data-aid="156932855" id="p19">These are simple but powerful instructions. Remember, all the people of Moses had to do to be healed was to look at the brass serpent which he had lifted up.<a class="note-ref" href="#note8"><sup class="marker" data-value="8"></sup></a> But “because of the simpleness of the way, or the easiness of it, there were many who perished.”<a class="note-ref" href="#note9"><sup class="marker" data-value="9"></sup></a></p>
+<p data-aid="156932866" id="p20">During this conference we’ve heard and will yet hear the unfailing counsel of our prophets and apostles. It’s a perfect occasion to develop humility and let our strong opinions be swallowed by an even stronger conviction that the Lord does speak through these chosen leaders.</p>
+<p data-aid="156932876" id="p21">Above all, in developing humility, we must also understand and accept that we are not able to overcome our challenges or to achieve our full potential through our own efforts only. Motivational speakers, writers, coaches, and influencers around the world, especially on digital platforms, <span class="page-break" data-page="61"></span>will say that everything depends solely on us and our actions. The world believes in the arm of flesh.</p>
+<p data-aid="156932884" id="p23">But through the restored gospel, we’ve learned that we greatly depend on Heavenly Father’s benevolence and the Atonement of our Savior, Jesus Christ, “for we know that it is by grace that we are saved, after all we can do.”<a class="note-ref" href="#note10"><sup class="marker" data-value="10"></sup></a> That’s why it’s so important to make and keep covenants with God, as doing so will give us full access to the healing, enabling, and perfecting power of Jesus Christ through His Atonement.</p>
+<p data-aid="156932892" id="p25">Attending sacrament meeting weekly and worshipping in the temple regularly to participate in the ordinances and to receive and renew covenants is a sign that we recognize our dependence on Heavenly Father and our Savior, Jesus Christ. That will invite Their power into our lives to help us through all our problems and ultimately fulfill the measure of our creation.</p>
+<p data-aid="156932900" id="p26">Not long ago the level of my humility and understanding of my dependence on the Lord was once again tested. I was in a taxi going to the airport to catch a short flight to a place where there was a very difficult situation to solve. The taxi driver, who was not a member of the Church, looked at me through the mirror and said, “I can see you’re not well today!”</p>
+<p data-aid="156932907" id="p27">“Could you tell?” I asked.</p>
+<p data-aid="156932914" id="p28">“Of course,” he said. Then he said something like, “You actually have a very negative halo around you!”</p>
+<p data-aid="156932920" id="p29">I explained to him that I had quite a hard situation to deal with, and he then asked me, “Have you done everything in your power to solve this?”</p>
+<p data-aid="156932927" id="p34">I responded I had done everything I could.</p>
+<p data-aid="156932937" id="p35">He then said something I have never forgotten: “So leave this in God’s hands, and everything will work out fine.”</p>
+<p data-aid="156932947" id="p30">I confess that I was tempted to ask him, “Do you know who you’re talking to?” But I didn’t! What I did was humble myself before the Lord throughout that one-hour flight, asking for divine help. As I left the airplane, I learned that the difficult situation to be solved was already in order and that my presence wouldn’t even be necessary anymore.</p>
+<p data-aid="156932956" id="p31">Brothers and sisters, the command, invitation, and promise from the Lord is clear and comforting: “Be thou humble; and the Lord thy God shall lead thee by the hand, and give thee answer to thy prayers.”<a class="note-ref" href="#note11"><sup class="marker" data-value="11"></sup></a></p>
+<p data-aid="156932962" id="p32">May we be humble to follow the counsel of our prophets and accept that only God and Jesus Christ can transform us—through ordinances and covenants received in His Church—into the best version of ourselves in this life and, one day, make us perfect in Christ. In the name of Jesus Christ, amen.</p>
+</div>
+<footer class="notes">
+<p class="title" data-aid="156932970" id="note_title1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="156932979" id="note1_p1"><a class="scripture-ref" href="/study/scriptures/bofm/alma/5?lang=eng&amp;id=p27#p27">Alma 5:27</a>.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="156932988" id="note2_p1"><a class="scripture-ref" href="/study/scriptures/ot/prov/29?lang=eng&amp;id=p23#p23">Proverbs 29:23</a>.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="156932997" id="note3_p1">“Seek Christlike Attributes,” <cite>Preach My Gospel: A Guide to Sharing the Gospel of Jesus Christ</cite> (2023), <a class="cross-ref" href="/study/manual/preach-my-gospel-2023/14-chapter-6?lang=eng&amp;id=p54-p55#p54">131</a>.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="156933005" id="note4_p1">Russell M. Nelson, “<a class="cross-ref" href="/study/general-conference/2018/10/the-correct-name-of-the-church?lang=eng&amp;id=p15#p15">The Correct Name of the Church</a>,” <cite>Ensign</cite> or <cite>Liahona</cite>, Nov. 2018, 88.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="156933013" id="note5_p1">Russell M. Nelson, “<a class="cross-ref" href="/study/general-conference/2020/10/46nelson?lang=eng&amp;id=p22#p22">Let God Prevail</a>,” <cite>Ensign</cite> or <cite>Liahona</cite>, Nov. 2020, 94.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="156933022" id="note6_p1">See Russell M. Nelson, “<a class="cross-ref" href="/study/general-conference/2022/10/47nelson?lang=eng">Overcome the World and Find Rest</a>,” <cite>Liahona</cite>, Nov. 2022, 95–98.</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="156933031" id="note7_p1">Russell M. Nelson, “<a class="cross-ref" href="/study/general-conference/2023/04/47nelson?lang=eng&amp;id=p13#p13">Peacemakers Needed</a>,” <cite>Liahona</cite>, May 2023, 100.</p>
+</li>
+<li data-marker="8." id="note8" data-full-marker="8.">
+<p data-aid="156933039" id="note8_p1">See <a class="scripture-ref" href="/study/scriptures/ot/num/21?lang=eng&amp;id=p7-p9#p7">Numbers 21:7–9</a>; <a class="scripture-ref" href="/study/scriptures/bofm/1-ne/17?lang=eng&amp;id=p41#p41">1 Nephi 17:41</a>.</p>
+</li>
+<li data-marker="9." id="note9" data-full-marker="9.">
+<p data-aid="156933047" id="note9_p1"><a class="scripture-ref" href="/study/scriptures/bofm/1-ne/17?lang=eng&amp;id=p41#p41">1 Nephi 17:41</a>.</p>
+</li>
+<li data-marker="10." id="note10" data-full-marker="10.">
+<p data-aid="156933055" id="note10_p1"><a class="scripture-ref" href="/study/scriptures/bofm/2-ne/25?lang=eng&amp;id=p23#p23">2 Nephi 25:23</a>.</p>
+</li>
+<li data-marker="11." id="note11" data-full-marker="11.">
+<p data-aid="156933063" id="note11_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/112?lang=eng&amp;id=p10#p10">Doctrine and Covenants 112:10</a>.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
+      <guid isPermaLink="false">/general-conference/2023/10/32koch</guid>
+      <enclosure url="https://assets.churchofjesuschrist.org/b3bf8fa2605011eebffceeeeac1ee0bcf12c7f9f-32k-en.mp3" length="2876490" type="audio/mpeg"/>
+      <pubDate>Sat, 30 Sep 2023 18:00:00 -0600</pubDate>
+      <itunes:author>Joni L. Koch</itunes:author>
     </item>
   </channel>
 </rss>

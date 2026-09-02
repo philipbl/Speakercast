@@ -1,143 +1,227 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Talks By Vicki F. Matsumori</title>
-    <link>http://philip.lundrigan.org/Speakercast/</link>
+    <link>https://philip.lundrigan.org/Speakercast/</link>
     <description>General Conference talks by Vicki F. Matsumori.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Speakercast</generator>
     <image>
-      <url>http://philip.lundrigan.org/Speakercast/covers/Vicki%20F.%20Matsumori.jpg</url>
+      <url>https://philip.lundrigan.org/Speakercast/covers/Vicki%20F.%20Matsumori.jpg</url>
       <title>General Conference talks by Vicki F. Matsumori.</title>
-      <link>http://philip.lundrigan.org/Speakercast/</link>
+      <link>https://philip.lundrigan.org/Speakercast/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Apr 2007 10:00:00 -0700</lastBuildDate>
-    <pubDate>Sun, 01 Apr 2007 10:00:00 -0700</pubDate>
+    <lastBuildDate>Sat, 03 Oct 2009 10:00:00 -0600</lastBuildDate>
+    <pubDate>Sat, 03 Oct 2009 10:00:00 -0600</pubDate>
+    <itunes:author>Vicki F. Matsumori</itunes:author>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
+    <itunes:image href="https://philip.lundrigan.org/Speakercast/covers/Vicki%20F.%20Matsumori.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>General Conference talks by Vicki F. Matsumori.</itunes:summary>
     <item>
       <title>A Lesson from the Book of Mormon</title>
-      <link>http://www.lds.org/general-conference/2007/04/a-lesson-from-the-book-of-mormon?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2007/04/a-lesson-from-the-book-of-mormon?lang=eng</link>
       <description>As first-generation members, you are the ones who begin the cycle of teaching and strengthening the next generation.</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/2007/04/a-lesson-from-the-book-of-mormon" schema-version="1" doc-id="general-conference_PD00008333_000_029" doc-version="2" hash="QdWP2A">
-  
-  <div class="heading" uri="/general-conference/2007/04/a-lesson-from-the-book-of-mormon.head">
-    <h1 class="title" pid="5eH_101Mg0uSpX_TGcD_EQ" hash="SYByiQ">A Lesson from the Book of Mormon</h1>
-    <p class="authorName" pid="OhSbsUMCLUCuCpD2ZV4ZQg" hash="1UXgoQ">Vicki F. Matsumori</p>
-    <p class="kicker" pid="SvIB6wBmz0ekFDuVKwAs0g" hash="Rt5b0w">As first-generation members, you are the ones who begin the cycle of teaching and strengthening the next generation.</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/2007/04/a-lesson-from-the-book-of-mormon.t1">
-      <img src="https://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/MatsumoriVF_05_busath.jpg" alt="Vicki F. Matsumori" pid="IyV26kJ9O0ixwjZAf_RHoA" hash="PFBsrw" />
-      <p class="para" uri="/general-conference/2007/04/a-lesson-from-the-book-of-mormon.p1" pid="bDmr6l_Bi0CQ8-5rOhK0_w" hash="Of41DA">
-        <span class="pageBreak" page-number="76"></span>I love the Book of Mormon. It has wonderful stories for children of all ages, but more importantly it teaches timeless lessons, which are often retold in Primary songs.</p>
-      <p class="para" uri="/general-conference/2007/04/a-lesson-from-the-book-of-mormon.p2" pid="6HaAORyaLEiNV1vrT9-9lg" hash="9-VHww">For example, a great lesson can be found in the song about the army of Helaman. We sing: “We are as the army of Helaman. We have been taught in our youth.”<span class="noteMarker" ref="f_1">1</span> There are many of us who also feel like “we have been born, as Nephi of old, to goodly parents.”<span class="noteMarker" ref="f_2">2</span></p>
-      <p class="para" uri="/general-conference/2007/04/a-lesson-from-the-book-of-mormon.p3" pid="wJxUZNuL1kyYM3LOCeG9yA" hash="90PiLQ">My message today is for you first-generation members who may have been born to goodly parents and yet were not taught the gospel in your homes. Instead of being like the army of Helaman, who “had been taught by their mothers [that] God would deliver them” (<a href="/scriptures/bofm/alma/56.47" class="scriptureRef">Alma 56:47</a>), you may be like their parents, the people of Ammon, who grew up as nonbelievers.</p>
-      <p class="para" uri="/general-conference/2007/04/a-lesson-from-the-book-of-mormon.p4" pid="gZxNG_q3_0yfnuD7jY0pHw" hash="m-dHhA">It may be helpful to review the story about the people of Ammon. They were Lamanites who had been taught the gospel by Ammon, Aaron, and others (see <a href="/scriptures/bofm/alma/23.1-4" class="scriptureRef">Alma 23:1–4</a>). When they accepted the gospel, these Lamanites were called the Anti-Nephi-Lehies and later called the people of Ammon (see <a href="/scriptures/bofm/alma/23.16-17" class="scriptureRef">Alma 23:16–17</a>; <a href="/scriptures/bofm/alma/27.23-26" class="scriptureRef">27:23–26</a>). The sons of these people of Ammon were the army of Helaman, who helped fight the nonconverted Lamanites (see <a href="/scriptures/bofm/alma/56.3-6" class="scriptureRef">Alma 56:3–6</a>).</p>
-      <p class="para" uri="/general-conference/2007/04/a-lesson-from-the-book-of-mormon.p5" pid="iRuhvsFwR0Kt4owLKj4aSw" hash="TVs1jA">So the strength of the army of Helaman really began with their parents, who were the people of Ammon. They were the ones who first learned the gospel from the scriptures. They were the ones who learned about the power of prayer. And they were the ones who first made and kept covenants with the Lord. And just as it began with them, it begins with you. As first-generation members, you are the ones who begin the cycle of teaching and strengthening the next generation.</p>
-      <div class="topic" uri="/general-conference/2007/04/a-lesson-from-the-book-of-mormon.t2">
-        <h3 class="title" pid="bTKLiwgONk-anDgSdY6YyQ" hash="TaHKyg">Scriptures</h3>
-        <p class="para" uri="/general-conference/2007/04/a-lesson-from-the-book-of-mormon.p6" pid="oHLla8Fe4UiXzPsIN6FJPA" hash="C9JqvQ">Aaron, who was a great missionary, used the scriptures to teach the Lamanite king and the people of Ammon about faith and repentance and about Jesus Christ and the plan of happiness (see <a href="/scriptures/bofm/alma/22.12-14" class="scriptureRef">Alma 22:12–14</a>; <a href="/scriptures/bofm/alma/23.4-5" class="scriptureRef">23:4–5</a>). Today, reading and studying the scriptures continues to build our faith, helps us resist temptation, and allows us to grow closer to Heavenly Father and His Son, Jesus Christ.</p>
-        <p class="para" uri="/general-conference/2007/04/a-lesson-from-the-book-of-mormon.p7" pid="KxOflmHZEUm633hPe4o02g" hash="dygXGg">However, reading scriptures can present a challenge for everyone. President Boyd K. Packer shares his first attempts as a teenager at reading the Book of Mormon. He says: “I opened it and read, ‘I, Nephi, having been born of goodly parents’ (<a href="/scriptures/bofm/1-ne/1.1" class="scriptureRef">1 Nephi 1:1</a>). … It was interesting, and I could follow it until I got over to the Isaiah chapters. … So a few months later I decided to try again to read the Book of Mormon. I read, ‘I, Nephi, having been born of goodly parents,’ but every time I’d hit the barrier of those Isaiah chapters. … Finally I decided I was even going to read them.”<span class="noteMarker" ref="f_3">3</span></p>
-        <p class="para" uri="/general-conference/2007/04/a-lesson-from-the-book-of-mormon.p8" pid="Ts3s71887kO5Ths3LQvk-A" hash="CxZrtA">And of course President Packer did read them. Persistence is the key. With every reading of the scriptures, unfamiliar words will take on meaning. You can read about heroes and great acts of courage. You can learn of the tender mercies of the Lord. And above all, you can feel the love of God and know that Jesus Christ is our Savior.</p>
-      </div>
-      <div class="topic" uri="/general-conference/2007/04/a-lesson-from-the-book-of-mormon.t3">
-        <h3 class="title" pid="Ue3N1Z5bJEyzEe5vDV2-gw" hash="7ButCA">Prayer</h3>
-        <p class="para" uri="/general-conference/2007/04/a-lesson-from-the-book-of-mormon.p9" pid="rbZqPWsd20mFItyGDUuOJA" hash="l7ID9w">Prayer is another means to build faith. When the Lamanite king wanted to know what he should do in order to receive the joy of the gospel, he prayed to the Lord (see <a href="/scriptures/bofm/alma/22.16-17" class="scriptureRef">Alma 22:16–17</a>). We too are promised that if we ask, it shall be given us.</p>
-        <p class="para" uri="/general-conference/2007/04/a-lesson-from-the-book-of-mormon.p10" pid="3NJsoFpl2U6kDDKiUqTBXA" hash="mGTDrA">Stanley was a 19-year-old investigator in Hong Kong. He was excited about the gospel and wanted to be baptized until his friends criticized the Church. He met with the missionaries. They testified that God cared enough about him to answer his prayer. They invited him to kneel and ask Heavenly Father if the teachings <span class="pageBreak" page-number="77"></span>were true. First one companion and then the other offered a short prayer. Then Stanley prayed. When he finished his humble prayer, they asked him, “Stanley, how do you feel?” He slowly raised his head and in almost a whisper replied, “Baptism, baptism.”<span class="noteMarker" ref="f_4">4</span></p>
-      </div>
-      <div class="topic" uri="/general-conference/2007/04/a-lesson-from-the-book-of-mormon.t4">
-        <h3 class="title" pid="FCrKl48g1U2iQ8FjyFrjXQ" hash="U8idWw">Covenants</h3>
-        <p class="para" uri="/general-conference/2007/04/a-lesson-from-the-book-of-mormon.p11" pid="ppaCZwtkuUWkhi9sclei4A" hash="VOj1CA">Finally, making and keeping covenants also increases faith. The people of Ammon covenanted “that rather than shed the blood of their brethren they would give up their own lives” (<a href="/scriptures/bofm/alma/24.18" class="scriptureRef">Alma 24:18</a>).</p>
-        <p class="para" uri="/general-conference/2007/04/a-lesson-from-the-book-of-mormon.p12" pid="0nZ349ZvzEGyXoOjkbg5sw" hash="uyBMQQ">We covenant when we are baptized and take upon us the name of Christ. We are reminded of those covenants when we partake of the sacrament. And when we keep those covenants, we can have the constant companionship of the Holy Ghost. It is the Holy Ghost, even the Comforter, who teaches us “all things” (<a href="/scriptures/nt/john/14.26" class="scriptureRef">John 14:26</a>).</p>
-        <p class="para" uri="/general-conference/2007/04/a-lesson-from-the-book-of-mormon.p13" pid="J_T9Ia34iEa6vqu6QmjjVg" hash="BWevoQ">A sister in Mexico City was 16 years old when the missionaries came to her door. She says that as they taught with the Spirit, “it seemed like they had taken the bandages off my eyes and that the Lord was clearing my understanding. … The word of God and my prayers strengthened [me] to overcome my next trial, to face my father. When I met rejection from my family because of my baptism, the Spirit of the Lord strengthened me by whispering: ‘Keep on. Go on. Some of your relatives will become members of the Church.’”<span class="noteMarker" ref="f_5">5</span></p>
-        <p class="para" uri="/general-conference/2007/04/a-lesson-from-the-book-of-mormon.p14" pid="wOp-vLc22ESOp0P0P8DEHQ" hash="dDAROw">The scriptures, prayer, and making and keeping covenants have not only helped the people of Ammon but also first-generation members everywhere—including me. You see, while I was born of goodly parents, I was not taught the gospel at home. However, my parents did teach me moral values and ethical conduct. I remember my nonmember father helping me write the first talk I gave at church. The assigned topic was honesty, and instead of quoting the 13th article of faith, we used an example of a man whose nickname was Honest Abe.</p>
-        <p class="para" uri="/general-conference/2007/04/a-lesson-from-the-book-of-mormon.p15" pid="lHqMxvfl10mAFWCXEF7NWQ" hash="4Qr0eA">It was left to Primary teachers, Young Women leaders, and priesthood leaders to provide me with gospel instruction. When I was seven years old, my junior Sunday School teacher taught us about prayer, and I wanted to pray. She taught us about tithing, and I wanted to pay tithing. She taught us about fasting, and, well, I was only seven years old, so I didn’t want to fast. But when she taught us about baptism, I wanted to be baptized. I am grateful for my goodly parents who supported me in my decision and who later also became members of the Church.</p>
-      </div>
-      <div class="topic" uri="/general-conference/2007/04/a-lesson-from-the-book-of-mormon.t5">
-        <h3 class="title" pid="MQR6rIVzv0iXsJPyrS5NmA" hash="j-SPgA">It Begins with Us</h3>
-        <p class="para" uri="/general-conference/2007/04/a-lesson-from-the-book-of-mormon.p16" pid="EjZllGte00mq5gi6umQv6A" hash="Kge_Xg">The people of Ammon lived the gospel, and “they were firm in the faith of Christ, even unto the end” (<a href="/scriptures/bofm/alma/27.27" class="scriptureRef">Alma 27:27</a>). It began with them. And it begins with us. As first-generation members who have gained testimonies, we now have a responsibility to teach the children of today. We must teach them in our homes and in our classes. We must teach them the word of God from the scriptures. We must teach them the power of prayer, and we must teach them the blessings that come from making and keeping covenants. And if we teach them, they will be able to say:</p>
-        <div class="poetry" uri="/general-conference/2007/04/a-lesson-from-the-book-of-mormon.f2">
-          <div class="stanza">
-            <p class="line" pid="W7c2tiAsIk2hYwjT19ktFw" hash="KxvpEQ">
-              <span class="emphasis">We are as the army of Helaman.</span>
-            </p>
-            <p class="line" pid="50Zag9oYxEmfsMlknB_ZLQ" hash="_1aUZg">
-              <span class="emphasis">We have been taught in our youth.</span>
-            </p>
-            <p class="line" pid="HZTmEMbFZ06EEn3Wb9LdBA" hash="_D5G4g">
-              <span class="emphasis">And we will be the Lord’s missionaries</span>
-            </p>
-            <p class="line" pid="qBPIfkDp20Ggvw1Kquz2OA" hash="WWZEOQ">
-              <span class="emphasis">To bring the world his truth.</span>
-              <span class="noteMarker" ref="f_6">6</span>
-            </p>
-          </div>
-        </div>
-        <p class="para" uri="/general-conference/2007/04/a-lesson-from-the-book-of-mormon.p17" pid="R4Te5acPsE2yl2AsOI084Q" hash="K0efJw">In the name of Jesus Christ, amen.</p>
-      </div>
-    </div>
-  </div>
-  
-</div>]]></content:encoded>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="76"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/e53671b73eae8d2cf612dbe68447480e3f019089/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/e53671b73eae8d2cf612dbe68447480e3f019089/full/%21192%2C/0/default" data-video-title="A Lesson from the Book of Mormon" data-video-description="As first-generation members, you are the ones who begin the cycle of teaching and strengthening the next generation." data-video-id="2235950667001" data-ip="Download and Streaming                            " data-duration="516000" data-assetId="b7c20ac6213857ac297502f748a860e861c874d6" data-ref-id="b7c20ac6213857ac297502f748a860e861c874d6" data-duration-string="8:36" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/2235950667001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="166197980"/><source src="https://assets.churchofjesuschrist.org/b7c20ac6213857ac297502f748a860e861c874d6-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="28779619"/><source src="https://assets.churchofjesuschrist.org/b7c20ac6213857ac297502f748a860e861c874d6-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="55527964"/><source src="https://assets.churchofjesuschrist.org/b7c20ac6213857ac297502f748a860e861c874d6-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="166197980"/></video><h1 data-aid="28834877" id="title1">A Lesson from the Book of Mormon</h1>
+<div class="byline">
+<p class="author-name" data-aid="28834878" id="p1">By Vicki F. Matsumori</p>
+<p class="author-role" data-aid="28834879" id="p2">Second Counselor in the Primary General Presidency</p>
+<div class="image-cropper"><img alt="Vicki F. Matsumori" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/306e0e04079f11ecbb5eeeeeac1e9b2ab582313f/full/%21100%2C/0/default" data-assetId="306e0e04079f11ecbb5eeeeeac1e9b2ab582313f" srcset="https://www.churchofjesuschrist.org/imgs/306e0e04079f11ecbb5eeeeeac1e9b2ab582313f/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/306e0e04079f11ecbb5eeeeeac1e9b2ab582313f/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/306e0e04079f11ecbb5eeeeeac1e9b2ab582313f/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/306e0e04079f11ecbb5eeeeeac1e9b2ab582313f/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/306e0e04079f11ecbb5eeeeeac1e9b2ab582313f/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/306e0e04079f11ecbb5eeeeeac1e9b2ab582313f/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/306e0e04079f11ecbb5eeeeeac1e9b2ab582313f/full/%21640%2C/0/default 640w" data-img-id="306e0e04079f11ecbb5eeeeeac1e9b2ab582313f" data-missing-asset="false" data-width="100" data-height="124" data-aspect-ratio="0.8064516129032258" data-public-title="Matsumori, Vicki F." data-public-description="Last official portrait of Vicki F. Matsumori, second counselor in the Primary general presidency, September 2005.Released at the April 2010 general conference." data-credit-line="Busath.com"/></div>
+</div>
+<p class="kicker" data-aid="28834880" id="kicker1">As first-generation members, you are the ones who begin the cycle of teaching and strengthening the next generation.</p>
+</header>
+<div class="body-block">
+<p data-aid="28834881" id="p3">I love the Book of Mormon. It has wonderful stories for children of all ages, but more importantly it teaches timeless lessons, which are often retold in Primary songs.</p>
+<p data-aid="28834882" id="p4">For example, a great lesson can be found in the song about the army of Helaman. We sing: “We are as the army of Helaman. We have been taught in our youth.” There are many of us who also feel like “we have been born, as Nephi of old, to goodly parents.”<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a></p>
+<p data-aid="28834883" id="p5">My message today is for you first-generation members who may have been born to goodly parents and yet were not taught the gospel in your homes. Instead of being like the army of Helaman, who “had been taught by their mothers [that] God would deliver them” (<a class="scripture-ref" href="/study/scriptures/bofm/alma/56?lang=eng&amp;id=p47#p47">Alma 56:47</a>), you may be like their parents, the people of Ammon, who grew up as nonbelievers.</p>
+<p data-aid="28834884" id="p6">It may be helpful to review the story about the people of Ammon. They were Lamanites who had been taught the gospel by Ammon, Aaron, and others (see <a class="scripture-ref" href="/study/scriptures/bofm/alma/23?lang=eng&amp;id=p1-p4#p1">Alma 23:1–4</a>). When they accepted the gospel, these Lamanites were called the Anti-Nephi-Lehies and later called the people of Ammon (see <a class="scripture-ref" href="/study/scriptures/bofm/alma/23?lang=eng&amp;id=p16-p17#p16">Alma 23:16–17</a>; <a class="scripture-ref" href="/study/scriptures/bofm/alma/27?lang=eng&amp;id=p23-p26#p23">27:23–26</a>). The sons of these people of Ammon were the army of Helaman, who helped fight the nonconverted Lamanites (see <a class="scripture-ref" href="/study/scriptures/bofm/alma/56?lang=eng&amp;id=p3-p6#p3">Alma 56:3–6</a>).</p>
+<p data-aid="28834885" id="p7">So the strength of the army of Helaman really began with their parents, who were the people of Ammon. They were the ones who first learned the gospel from the scriptures. They were the ones who learned about the power of prayer. And they were the ones who first made and kept covenants with the Lord. And just as it began with them, it begins with you. As first-generation members, you are the ones who begin the cycle of teaching and strengthening the next generation.</p>
+<section>
+<header>
+<h2 data-aid="28834886" id="title2">Scriptures</h2>
+</header>
+<p data-aid="28834887" id="p8">Aaron, who was a great missionary, used the scriptures to teach the Lamanite king and the people of Ammon about faith and repentance and about Jesus Christ and the plan of happiness (see <a class="scripture-ref" href="/study/scriptures/bofm/alma/22?lang=eng&amp;id=p12-p14#p12">Alma 22:12–14</a>; <a class="scripture-ref" href="/study/scriptures/bofm/alma/23?lang=eng&amp;id=p4-p5#p4">23:4–5</a>). Today, reading and studying the scriptures continues to build our faith, helps us resist temptation, and allows us to grow closer to Heavenly Father and His Son, Jesus Christ.</p>
+<p data-aid="28834888" id="p9">However, reading scriptures can present a challenge for everyone. President Boyd K. Packer shares his first attempts as a teenager at reading the Book of Mormon. He says: “I opened it and read, ‘I, Nephi, having been born of goodly parents’ (<a class="scripture-ref" href="/study/scriptures/bofm/1-ne/1?lang=eng&amp;id=p1#p1">1 Nephi 1:1</a>). … It was interesting, and I could follow it until I got over to the Isaiah chapters. … So a few months later I decided to try again to read the Book of Mormon. I read, ‘I, Nephi, having been born of goodly parents,’ but every time I’d hit the barrier of those Isaiah chapters. … Finally I decided I was even going to read them.”<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a></p>
+<p data-aid="28834889" id="p10">And of course President Packer did read them. Persistence is the key. With every reading of the scriptures, unfamiliar words will take on meaning. You can read about heroes and great acts of courage. You can learn of the tender mercies of the Lord. And above all, you can feel the love of God and know that Jesus Christ is our Savior.</p>
+</section>
+<section>
+<header>
+<h2 data-aid="28834890" id="title3">Prayer</h2>
+</header>
+<p data-aid="28834891" id="p11">Prayer is another means to build faith. When the Lamanite king wanted to know what he should do in order to receive the joy of the gospel, he prayed to the Lord (see <a class="scripture-ref" href="/study/scriptures/bofm/alma/22?lang=eng&amp;id=p16-p17#p16">Alma 22:16–17</a>). We too are promised that if we ask, it shall be given us.</p>
+<p data-aid="28834892" id="p12">Stanley was a 19-year-old investigator in Hong Kong. He was excited about the gospel and wanted to be baptized until his friends criticized the Church. He met with the missionaries. They testified that God cared enough about him to answer his prayer. They invited him to kneel and ask Heavenly Father if the teachings <span class="page-break" data-page="77"></span>were true. First one companion and then the other offered a short prayer. Then Stanley prayed. When he finished his humble prayer, they asked him, “Stanley, how do you feel?” He slowly raised his head and in almost a whisper replied, “Baptism, baptism.”<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a></p>
+</section>
+<section>
+<header>
+<h2 data-aid="28834893" id="title4">Covenants</h2>
+</header>
+<p data-aid="28834894" id="p13">Finally, making and keeping covenants also increases faith. The people of Ammon covenanted “that rather than shed the blood of their brethren they would give up their own lives” (<a class="scripture-ref" href="/study/scriptures/bofm/alma/24?lang=eng&amp;id=p18#p18">Alma 24:18</a>).</p>
+<p data-aid="28834895" id="p14">We covenant when we are baptized and take upon us the name of Christ. We are reminded of those covenants when we partake of the sacrament. And when we keep those covenants, we can have the constant companionship of the Holy Ghost. It is the Holy Ghost, even the Comforter, who teaches us “all things” (<a class="scripture-ref" href="/study/scriptures/nt/john/14?lang=eng&amp;id=p26#p26">John 14:26</a>).</p>
+<p data-aid="28834896" id="p15">A sister in Mexico City was 16 years old when the missionaries came to her door. She says that as they taught with the Spirit, “it seemed like they had taken the bandages off my eyes and that the Lord was clearing my understanding. … The word of God and my prayers strengthened [me] to overcome my next trial, to face my father. When I met rejection from my family because of my baptism, the Spirit of the Lord strengthened me by whispering: ‘Keep on. Go on. Some of your relatives will become members of the Church.’”<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a></p>
+<p data-aid="28834897" id="p16">The scriptures, prayer, and making and keeping covenants have not only helped the people of Ammon but also first-generation members everywhere—including me. You see, while I was born of goodly parents, I was not taught the gospel at home. However, my parents did teach me moral values and ethical conduct. I remember my nonmember father helping me write the first talk I gave at church. The assigned topic was honesty, and instead of quoting the thirteenth article of faith, we used an example of a man whose nickname was Honest Abe.</p>
+<p data-aid="28834898" id="p17">It was left to Primary teachers, Young Women leaders, and priesthood leaders to provide me with gospel instruction. When I was seven years old, my junior Sunday School teacher taught us about prayer, and I wanted to pray. She taught us about tithing, and I wanted to pay tithing. She taught us about fasting, and, well, I was only seven years old, so I didn’t want to fast. But when she taught us about baptism, I wanted to be baptized. I am grateful for my goodly parents, who supported me in my decision and who later also became members of the Church.</p>
+</section>
+<section>
+<header>
+<h2 data-aid="28834899" id="title5">It Begins with Us</h2>
+</header>
+<p data-aid="28834900" id="p18">The people of Ammon lived the gospel, and “they were firm in the faith of Christ, even unto the end” (<a class="scripture-ref" href="/study/scriptures/bofm/alma/27?lang=eng&amp;id=p27#p27">Alma 27:27</a>). It began with them. And it begins with us. As first-generation members who have gained testimonies, we now have a responsibility to teach the children of today. We must teach them in our homes and in our classes. We must teach them the word of God from the scriptures. We must teach them the power of prayer, and we must teach them the blessings that come from making and keeping covenants. And if we teach them, they will be able to say:</p>
+<div class="poetry">
+<div class="stanza">
+<p class="line" data-aid="28834901" id="p19">We are as the army of Helaman.</p>
+<p class="line" data-aid="28834902" id="p20">We have been taught in our youth.</p>
+<p class="line" data-aid="28834903" id="p21">And we will be the Lord’s missionaries</p>
+<p class="line" data-aid="28834904" id="p22">To bring the world his truth.<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a></p>
+</div>
+</div>
+<p data-aid="28834905" id="p23">In the name of Jesus Christ, amen.</p>
+</section>
+</div>
+<footer class="notes">
+<p class="title" data-aid="150471530" id="notetitle1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="28834906" id="note1_p1">“We’ll Bring the World His Truth,” <em>Children’s Songbook,</em> 172–73.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="28834908" id="note2_p1">“Principles of Teaching and Learning,” <em>Worldwide Leadership Training Meeting,</em> Feb. 2007; in <em>Liahona,</em> June 2007, 53; <em>Ensign,</em> June 2007, 85.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="28834909" id="note3_p1">Personal correspondence.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="28834910" id="note4_p1">Personal correspondence.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="28834907" id="note5_p1"><em>Children’s Songbook,</em> 173.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/2007/04/a-lesson-from-the-book-of-mormon</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/april-2007-general-conference/2007-04-4040-vicki-f-matsumori-64k-eng.mp3" length="4083005" type="audio/mpeg"/>
-      <pubDate>Sun, 01 Apr 2007 10:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/32940a8732e511ec89b6eeeeac1e02ba19c4d6fe-64k-en.mp3" length="4350989" type="audio/mpeg"/>
+      <pubDate>Sun, 01 Apr 2007 10:00:00 -0600</pubDate>
+      <itunes:author>Vicki F. Matsumori</itunes:author>
     </item>
     <item>
       <title>Helping Others Recognize the Whisperings of the Spirit</title>
-      <link>http://www.lds.org/general-conference/2009/10/helping-others-recognize-the-whisperings-of-the-spirit?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2009/10/helping-others-recognize-the-whisperings-of-the-spirit?lang=eng</link>
       <description>We can help others become more familiar with the promptings of the Spirit when we share our testimony of the influence of the Holy Ghost in our lives.</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/2009/10/helping-others-recognize-the-whisperings-of-the-spirit" schema-version="1" doc-id="general-conference_PD50019113_000_005" doc-version="2" hash="cqeVVw">
-  
-  <div class="heading" uri="/general-conference/2009/10/helping-others-recognize-the-whisperings-of-the-spirit.head">
-    <h1 class="title" pid="txvyqB-ElEeSk_qKxQ4lxQ" hash="5TUfLw">Helping Others Recognize the Whisperings of the Spirit</h1>
-    <p class="authorName" pid="qukfefoeiU6NkPmIG9_L3A" hash="1UXgoQ">Vicki F. Matsumori</p>
-    <p class="kicker" pid="WlME1Vl1iUW9Eux50zQ31Q" hash="qi1Vsg">We can help others become more familiar with the promptings of the Spirit when we share our testimony of the influence of the Holy Ghost in our lives.</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/2009/10/helping-others-recognize-the-whisperings-of-the-spirit.t1">
-      <p class="para" uri="/general-conference/2009/10/helping-others-recognize-the-whisperings-of-the-spirit.p1" pid="l54bbpDPi0S7sQwJLFqZmA" hash="S8FB7A">
-        <span class="pageBreak" page-number="10"></span>At the end of the day, a pair of missionaries starts toward home when one suddenly turns to the other and says, “I feel we need to stop at this one last place.” A home teacher is prompted to call one of the families he visited just a few days before. A young woman plans on attending a school friend’s party yet feels impressed to stay home this time.</p>
-      <p class="para" uri="/general-conference/2009/10/helping-others-recognize-the-whisperings-of-the-spirit.p2" pid="NKCMgcIUL0WGdDGmK6NHUQ" hash="5toC5Q">How did the missionaries know to knock on the door of someone who had been praying for them? or the home teacher to call a family that was in desperate need? or the young woman to stay away from a situation where her values could be compromised? In each of these situations they were guided by the influence of the Holy Ghost.</p>
-      <p class="para" uri="/general-conference/2009/10/helping-others-recognize-the-whisperings-of-the-spirit.p3" pid="TEbr0VYfdEWltdjL4galbA" hash="arCZtw">Similar experiences happen repeatedly to members throughout the world on a regular basis, and there are those who desire to feel the Spirit guiding them daily in their lives. While each person can learn to recognize the whisperings of the Spirit, that learning process can be facilitated as others help us understand about the Holy Ghost, share their personal testimonies, and provide an environment where the Spirit can be felt.</p>
-      <div class="topic" uri="/general-conference/2009/10/helping-others-recognize-the-whisperings-of-the-spirit.t2">
-        <h3 class="title" pid="lV5fnMOZv0ip21DbCQQhPA" hash="u8qpHg">Understanding the Doctrine</h3>
-        <p class="para" uri="/general-conference/2009/10/helping-others-recognize-the-whisperings-of-the-spirit.p4" pid="8tVi62M-OUOEUDKkcpRCWA" hash="-wFOYg">The importance of helping others understand is described in the Doctrine and Covenants. Parents “in Zion, or in any of her stakes which are organized” are told to help their children “understand the doctrine.”<span class="noteMarker" ref="f_1">1</span></p>
-        <p class="para" uri="/general-conference/2009/10/helping-others-recognize-the-whisperings-of-the-spirit.p5" pid="RiW0JuAt3Uq8kohsRdDFHA" hash="BNXy1Q">Whether we are in a classroom, a missionary discussion, or a family home evening, teaching the doctrine regarding the Holy Ghost can help others understand this important gift. We learn that while “the Spirit of Christ is given to every man, that he may know good from evil,”<span class="noteMarker" ref="f_2">2</span> the right to the constant companionship of the Holy Ghost comes as members are given that gift by the laying on of hands by those who have the proper authority.<span class="noteMarker" ref="f_3">3</span></p>
-        <p class="para" uri="/general-conference/2009/10/helping-others-recognize-the-whisperings-of-the-spirit.p6" pid="IMow8aIFfkmE4K5_a47m5g" hash="oUY7zA">This companionship can continue to be ours if we are worthy. We are told that “the Spirit of the Lord doth not dwell in unholy temples”<span class="noteMarker" ref="f_4">4</span> and that as we “let virtue garnish [our] thoughts unceasingly; then … the Holy Ghost shall be [our] constant companion.”<span class="noteMarker" ref="f_5">5</span></p>
-        <p class="para" uri="/general-conference/2009/10/helping-others-recognize-the-whisperings-of-the-spirit.p7" pid="FE3sfJzJYEu3xkLZRUp73A" hash="a3k0zw">The scriptures and the prophets teach what this constant companionship feels like. The Lord tells us, “I will tell you in your mind and in your heart, by the Holy Ghost, which shall come upon you and which shall dwell in your heart.”<span class="noteMarker" ref="f_6">6</span> Enos stated, “While I was … struggling in the spirit, behold, the voice of the Lord came into my mind.”<span class="noteMarker" ref="f_7">7</span> Joseph Smith said, “When you feel pure intelligence flowing into you, it may give you sudden strokes of ideas.”<span class="noteMarker" ref="f_8">8</span> President Henry B. Eyring described the influence of the Holy Ghost as “peace, hope, and joy.” He added, “Almost always I have also felt a sensation of light.”<span class="noteMarker" ref="f_9">9</span></p>
-        <p class="para" uri="/general-conference/2009/10/helping-others-recognize-the-whisperings-of-the-spirit.p8" pid="7qhW027PkEqN0-7b2MCZCg" hash="8Jug5w">My favorite description, though, comes from an eight-year-old boy who had just received the Holy Ghost. He said, “It felt like sunshine.”</p>
-      </div>
-      <div class="topic" uri="/general-conference/2009/10/helping-others-recognize-the-whisperings-of-the-spirit.t3">
-        <h3 class="title" pid="fCG4w1ULjEWt41QNcU6-kA" hash="cxVEhQ">Share Personal Testimony</h3>
-        <p class="para" uri="/general-conference/2009/10/helping-others-recognize-the-whisperings-of-the-spirit.p9" pid="Cdsufy_-XkiEkoKAFu4T1w" hash="vPTTMA">However, it is not always easy to discern these “sunshine” moments at first. The Book of Mormon tells us of some faithful Lamanites who “were baptized with fire and with the Holy Ghost, and they knew it not.”<span class="noteMarker" ref="f_10">10</span></p>
-        <p class="para" uri="/general-conference/2009/10/helping-others-recognize-the-whisperings-of-the-spirit.p10" pid="x8z9fNrlGkKNsl-SEeitjw" hash="ICs2QA">We can help others become more <span class="pageBreak" page-number="11"></span>familiar with the promptings of the Spirit when we share our testimony of the influence of the Holy Ghost in our lives. Remember that some experiences are too sacred to relate. However, by sharing testimony of the Spirit in our lives, those who are unfamiliar with these promptings are more likely to recognize when they have similar feelings.</p>
-        <p class="para" uri="/general-conference/2009/10/helping-others-recognize-the-whisperings-of-the-spirit.p11" pid="7Om3t5IPYEmHm50mL9V8-A" hash="0VT6PA">I was the first member of my family to join the Church. As an eight-year-old, I waited to feel somehow different because of my baptism. To be honest, the only thing I felt when I was brought out of the water was … well, dripping wet. I thought something more profound would happen when I was confirmed. However, after receiving the Holy Ghost, again I felt happy but certainly no different than I had just a few minutes before.</p>
-        <p class="para" uri="/general-conference/2009/10/helping-others-recognize-the-whisperings-of-the-spirit.p12" pid="ZEzj4XnenES0-ptMJ9kWXg" hash="VJDGcQ">It wasn’t until the following day at fast and testimony meeting that I experienced what I now recognize as the influence of the Holy Ghost. A brother stood to bear his testimony and tell about the blessings of his membership in the Church. I felt a flood of warmth sweep over me. Even as an eight-year-old, I recognized that this was something different. I felt a peace descend on me, and I had the distinct feeling that Heavenly Father was pleased with me.</p>
-      </div>
-      <div class="topic" uri="/general-conference/2009/10/helping-others-recognize-the-whisperings-of-the-spirit.t4">
-        <h3 class="title" pid="8a-fd5T8U0ulmerg7G8UXw" hash="Y2kOGw">Provide an Environment Where the Spirit Can Be Felt</h3>
-        <p class="para" uri="/general-conference/2009/10/helping-others-recognize-the-whisperings-of-the-spirit.p13" pid="j3idEabsNUKWj2AY68iEzg" hash="2mkH3g">There are places where it is easier to feel the Spirit. Testimony meetings and general conference are some of those places. Certainly temples are another. The challenge for each of us is in providing an environment where the Spirit can be felt daily in our homes and weekly at church.</p>
-        <p class="para" uri="/general-conference/2009/10/helping-others-recognize-the-whisperings-of-the-spirit.p14" pid="zV2DWdd9WU-2fPEew6t_rw" hash="GAbyGg">One reason we are encouraged to pray and read the scriptures every single day is that both of these activities invite the Spirit into our homes and into the lives of our family members.</p>
-        <p class="para" uri="/general-conference/2009/10/helping-others-recognize-the-whisperings-of-the-spirit.p15" pid="nkx0UE6zhEudBY-t9VJh9w" hash="3E12iQ">Because the Spirit is often described as a still, small voice,<span class="noteMarker" ref="f_11">11</span> it is also important to have a time of quiet in our lives as well. The Lord has counseled us to “be still, and know that I am God.”<span class="noteMarker" ref="f_12">12</span> If we provide a still and quiet time each day when we are not bombarded by television, computer, video games, or personal electronic devices, we allow that still, small voice an opportunity to provide personal revelation and to whisper sweet guidance, reassurance, and comfort to us.</p>
-        <p class="para" uri="/general-conference/2009/10/helping-others-recognize-the-whisperings-of-the-spirit.p16" pid="1kx0dzx380CK3Iz2WNG2EA" hash="ZDBdmA">Similarly, we can provide an environment at church that allows the Spirit to give divine confirmation to what is being taught. Teachers and leaders do more than teach lessons or conduct meetings. They facilitate the whisperings of the Spirit to each member. Elder Richard G. Scott has said, “If you accomplish nothing else in your relationship with your students than to help them recognize and follow the promptings of the Spirit, you will bless their lives immeasurably and eternally.”<span class="noteMarker" ref="f_13">13</span></p>
-        <p class="para" uri="/general-conference/2009/10/helping-others-recognize-the-whisperings-of-the-spirit.p17" pid="ayhd-udq-UGWBpwUCoQ5Yw" hash="9qHzJA">A Sunbeam teacher wrapped each of her class members one by one in a blanket to teach them how the Spirit feels like the comfort and security of that covering. A visiting mother also heard the lesson.</p>
-        <p class="para" uri="/general-conference/2009/10/helping-others-recognize-the-whisperings-of-the-spirit.p18" pid="qeJkGSc9n02dz3XRjqn9_A" hash="61jO8Q">Many months later the mother thanked the teacher. She told how she had been less active when she accompanied her young daughter to Primary. Several weeks after the lesson, the mother suffered a miscarriage. She was overcome with grief when suddenly she felt a great warmth and peace. It felt like someone had covered her with a warm blanket. She recognized the reassurance of the Spirit and knew that Heavenly Father was aware of her and that He loved her.</p>
-        <p class="para" uri="/general-conference/2009/10/helping-others-recognize-the-whisperings-of-the-spirit.p19" pid="s1KJlgw-sUCXvdJmtxccHw" hash="y8H3Hw">When we come to understand the whisperings of the Spirit, we will be able to hear Him teach us “the peaceable things of the kingdom”<span class="noteMarker" ref="f_14">14</span> and “all things what [we] should do.”<span class="noteMarker" ref="f_15">15</span> We will recognize answers to our prayers and know how to live the gospel more fully each day. We will be guided and <span class="pageBreak" page-number="12"></span>protected. And we can cultivate this gift in our lives as we follow those spiritual promptings. Most importantly, we will feel Him witness to us of the Father and of the Son.<span class="noteMarker" ref="f_16">16</span></p>
-        <p class="para" uri="/general-conference/2009/10/helping-others-recognize-the-whisperings-of-the-spirit.p20" pid="DoK4WzWf1EiS3M2khuxDXg" hash="mPaxaA">As a young woman attending youth conference, I felt the Spirit bear witness to me of the truthfulness of the restored gospel. In preparation for a testimony meeting, we sang “The Spirit of God.” Now, I had sung that hymn many times before in sacrament meetings. But on this occasion, from nearly the opening note, I felt the Spirit. By the time we sang, “The latter-day glory begins to come forth,”<span class="noteMarker" ref="f_17">17</span> I knew that these were more than nice lyrics; they were beautiful truths.</p>
-        <p class="para" uri="/general-conference/2009/10/helping-others-recognize-the-whisperings-of-the-spirit.p21" pid="hw_qXB4wRkec0rECZ7Ei3A" hash="OD0tqw">The Holy Ghost has confirmed to me that God the Father lives. He loves each of us. He knows us individually and personally. He hears the pleadings of our hearts, and He answers those sincere prayers.</p>
-        <p class="para" uri="/general-conference/2009/10/helping-others-recognize-the-whisperings-of-the-spirit.p22" pid="oQXICC80UkuM8RBnSQl0iQ" hash="UZnTMg">Jesus Christ is our Savior and Redeemer. He came to earth in the meridian of time to atone for our sins. And He will come again. These and all other aspects of the gospel that make up my testimony are firm in my heart because of the influence of the Holy Ghost. In the name of Jesus Christ, amen.</p>
-      </div>
-    </div>
-  </div>
-  
-</div>]]></content:encoded>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="10"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/bc4612f3313b9dcdc56a161e5a638b5dc1d54217/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/bc4612f3313b9dcdc56a161e5a638b5dc1d54217/full/%21192%2C/0/default" data-video-title="Helping Others Recognize the Whisperings of the Spirit" data-video-description="We can help others become more familiar with the promptings of the Spirit when we share our testimony of the influence of the Holy Ghost in our lives." data-video-id="2235825744001" data-ip="Download and Streaming                            " data-duration="594000" data-assetId="a686abdd6945fca409c3692d34322529d56b5ad7" data-ref-id="a686abdd6945fca409c3692d34322529d56b5ad7" data-duration-string="9:54" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/2235825744001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="1280" data-height="720" data-file-size="83780738"/><source src="https://assets.churchofjesuschrist.org/a686abdd6945fca409c3692d34322529d56b5ad7-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="42313483"/><source src="https://assets.churchofjesuschrist.org/a686abdd6945fca409c3692d34322529d56b5ad7-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="83780738"/></video><h1 data-aid="28844295" id="title1">Helping Others Recognize the Whisperings of the Spirit</h1>
+<div class="byline">
+<p class="author-name" data-aid="28844296" id="p1">By Vicki F. Matsumori</p>
+<p class="author-role" data-aid="28844297" id="p2">Second Counselor in the Primary General Presidency</p>
+<div class="image-cropper"><img alt="Vicki F. Matsumori" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/306e0e04079f11ecbb5eeeeeac1e9b2ab582313f/full/%21100%2C/0/default" data-assetId="306e0e04079f11ecbb5eeeeeac1e9b2ab582313f" srcset="https://www.churchofjesuschrist.org/imgs/306e0e04079f11ecbb5eeeeeac1e9b2ab582313f/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/306e0e04079f11ecbb5eeeeeac1e9b2ab582313f/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/306e0e04079f11ecbb5eeeeeac1e9b2ab582313f/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/306e0e04079f11ecbb5eeeeeac1e9b2ab582313f/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/306e0e04079f11ecbb5eeeeeac1e9b2ab582313f/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/306e0e04079f11ecbb5eeeeeac1e9b2ab582313f/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/306e0e04079f11ecbb5eeeeeac1e9b2ab582313f/full/%21640%2C/0/default 640w" data-img-id="306e0e04079f11ecbb5eeeeeac1e9b2ab582313f" data-missing-asset="false" data-width="100" data-height="124" data-aspect-ratio="0.8064516129032258" data-public-title="Matsumori, Vicki F." data-public-description="Last official portrait of Vicki F. Matsumori, second counselor in the Primary general presidency, September 2005.Released at the April 2010 general conference." data-credit-line="Busath.com"/></div>
+</div>
+<p class="kicker" data-aid="28844298" id="kicker1">We can help others become more familiar with the promptings of the Spirit when we share our testimony of the influence of the Holy Ghost in our lives.</p>
+</header>
+<div class="body-block">
+<p data-aid="28844299" id="p3">At the end of the day, a pair of missionaries starts toward home, when one suddenly turns to the other and says, “I feel we need to stop at this one last place.” A home teacher is prompted to call one of the families he visited just a few days before. A young woman plans on attending a school friend’s party yet feels impressed to stay home this time.</p>
+<p data-aid="28844300" id="p4">How did the missionaries know to knock on the door of someone who had been praying for them? or the home teacher to call a family that was in desperate need? or the young woman to stay away from a situation where her values could be compromised? In each of these situations they were guided by the influence of the Holy Ghost.</p>
+<p data-aid="28844301" id="p5">Similar experiences happen repeatedly to members throughout the world on a regular basis, and there are those who desire to feel the Spirit guiding them daily in their lives. While each person can learn to recognize the whisperings of the Spirit, that learning process can be facilitated as others help us understand about the Holy Ghost, share their personal testimonies, and provide an environment where the Spirit can be felt.</p>
+<section>
+<header>
+<h2 data-aid="28844302" id="title2">Understanding the Doctrine</h2>
+</header>
+<p data-aid="28844303" id="p6">The importance of helping others understand is described in the Doctrine and Covenants. Parents “in Zion, or in any of her stakes which are organized,” are told to help their children “understand the doctrine.”<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a></p>
+<p data-aid="28844304" id="p7">Whether we are in a classroom, a missionary discussion, or a family home evening, teaching the doctrine regarding the Holy Ghost can help others understand this important gift. We learn that while “the Spirit of Christ is given to every man, that he may know good from evil,”<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a> the right to the constant companionship of the Holy Ghost comes as members are given that gift by the laying on of hands by those who have the proper authority.<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a></p>
+<p data-aid="28844305" id="p8">This companionship can continue to be ours if we are worthy. We are told that “the Spirit of the Lord doth not dwell in unholy temples”<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a> and that as we “let virtue garnish [our] thoughts unceasingly; then … the Holy Ghost shall be [our] constant companion.”<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a></p>
+<p data-aid="28844306" id="p9">The scriptures and the prophets teach what this constant companionship feels like. The Lord tells us, “I will tell you in your mind and in your heart, by the Holy Ghost, which shall come upon you and which shall dwell in your heart.”<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a> Enos stated, “While I was … struggling in the spirit, behold, the voice of the Lord came into my mind.”<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a> Joseph Smith said, “When you feel pure intelligence flowing into you, it may give you sudden strokes of ideas.”<a class="note-ref" href="#note8"><sup class="marker" data-value="8"></sup></a> President Henry B. Eyring described the influence of the Holy Ghost as “peace, hope, and joy.” He added, “Almost always I have also felt a sensation of light.”<a class="note-ref" href="#note9"><sup class="marker" data-value="9"></sup></a></p>
+<p data-aid="28844307" id="p10">My favorite description, though, comes from an eight-year-old boy who had just received the Holy Ghost. He said, “It felt like sunshine.”</p>
+</section>
+<section>
+<header>
+<h2 data-aid="28844308" id="title3">Share Personal Testimony</h2>
+</header>
+<p data-aid="28844309" id="p11">However, it is not always easy to discern these “sunshine” moments at first. The Book of Mormon tells us of some faithful Lamanites who “were baptized with fire and with the Holy Ghost, and they knew it not.”<a class="note-ref" href="#note10"><sup class="marker" data-value="10"></sup></a></p>
+<p data-aid="28844310" id="p12">We can help others become more <span class="page-break" data-page="11"></span>familiar with the promptings of the Spirit when we share our testimony of the influence of the Holy Ghost in our lives. Remember that some experiences are too sacred to relate. However, by sharing testimony of the Spirit in our lives, those who are unfamiliar with these promptings are more likely to recognize when they have similar feelings.</p>
+<p data-aid="28844311" id="p13">I was the first member of my family to join the Church. As an eight-year-old, I waited to feel somehow different because of my baptism. To be honest, the only thing I felt when I was brought out of the water was … well, dripping wet. I thought something more profound would happen when I was confirmed. However, after receiving the Holy Ghost, again I felt happy but certainly no different than I had just a few minutes before.</p>
+<p data-aid="28844312" id="p14">It wasn’t until the following day at fast and testimony meeting that I experienced what I now recognize as the influence of the Holy Ghost. A brother stood to bear his testimony and tell about the blessings of his membership in the Church. I felt a flood of warmth sweep over me. Even as an eight-year-old, I recognized that this was something different. I felt a peace descend on me, and I had the distinct feeling that Heavenly Father was pleased with me.</p>
+</section>
+<section>
+<header>
+<h2 data-aid="28844313" id="title4">Provide an Environment Where the Spirit Can Be Felt</h2>
+</header>
+<p data-aid="28844314" id="p15">There are places where it is easier to feel the Spirit. Testimony meetings and general conference are some of those places. Certainly temples are another. The challenge for each of us is in providing an environment where the Spirit can be felt daily in our homes and weekly at church.</p>
+<p data-aid="28844315" id="p16">One reason we are encouraged to pray and read the scriptures every single day is that both of these activities invite the Spirit into our homes and into the lives of our family members.</p>
+<p data-aid="28844316" id="p17">Because the Spirit is often described as a still, small voice,<a class="note-ref" href="#note11"><sup class="marker" data-value="11"></sup></a> it is also important to have a time of quiet in our lives as well. The Lord has counseled us to “be still, and know that I am God.”<a class="note-ref" href="#note12"><sup class="marker" data-value="12"></sup></a> If we provide a still and quiet time each day when we are not bombarded by television, computer, video games, or personal electronic devices, we allow that still, small voice an opportunity to provide personal revelation and to whisper sweet guidance, reassurance, and comfort to us.</p>
+<p data-aid="28844317" id="p18">Similarly, we can provide an environment at church that allows the Spirit to give divine confirmation to what is being taught. Teachers and leaders do more than teach lessons or conduct meetings. They facilitate the whisperings of the Spirit to each member. Elder Richard G. Scott has said, “If you accomplish nothing else in your relationship with your students than to help them recognize and follow the promptings of the Spirit, you will bless their lives immeasurably and eternally.”<a class="note-ref" href="#note13"><sup class="marker" data-value="13"></sup></a></p>
+<p data-aid="28844318" id="p19">A Sunbeam teacher wrapped each of her class members one by one in a blanket to teach them how the Spirit feels like the comfort and security of that covering. A visiting mother also heard the lesson.</p>
+<p data-aid="28844319" id="p20">Many months later the mother thanked the teacher. She told how she had been less active when she accompanied her young daughter to Primary. Several weeks after the lesson, the mother suffered a miscarriage. She was overcome with grief when suddenly she felt a great warmth and peace. It felt like someone had covered her with a warm blanket. She recognized the reassurance of the Spirit and knew that Heavenly Father was aware of her and that He loved her.</p>
+<p data-aid="28844320" id="p21">When we come to understand the whisperings of the Spirit, we will be able to hear Him teach us “the peaceable things of the kingdom”<a class="note-ref" href="#note14"><sup class="marker" data-value="14"></sup></a> and “all things what [we] should do.”<a class="note-ref" href="#note15"><sup class="marker" data-value="15"></sup></a> We will recognize answers to our prayers and know how to live the gospel more fully each day. We will be guided and <span class="page-break" data-page="12"></span>protected. And we can cultivate this gift in our lives as we follow those spiritual promptings. Most importantly, we will feel Him witness to us of the Father and of the Son.<a class="note-ref" href="#note16"><sup class="marker" data-value="16"></sup></a></p>
+<p data-aid="28844321" id="p22">As a young woman attending youth conference, I felt the Spirit bear witness to me of the truthfulness of the restored gospel. In preparation for a testimony meeting, we sang “The Spirit of God.” Now, I had sung that hymn many times before in sacrament meetings. But on this occasion, from nearly the opening note, I felt the Spirit. By the time we sang, “The latter-day glory begins to come forth,”<a class="note-ref" href="#note17"><sup class="marker" data-value="17"></sup></a> I knew that these were more than nice lyrics; they were beautiful truths.</p>
+<p data-aid="28844322" id="p23">The Holy Ghost has confirmed to me that God the Father lives. He loves each of us. He knows us individually and personally. He hears the pleadings of our hearts, and He answers those sincere prayers.</p>
+<p data-aid="28844323" id="p24">Jesus Christ is our Savior and Redeemer. He came to earth in the meridian of time to atone for our sins. And He will come again. These and all other aspects of the gospel that make up my testimony are firm in my heart because of the influence of the Holy Ghost. In the name of Jesus Christ, amen.</p>
+</section>
+</div>
+<footer class="notes">
+<p class="title" data-aid="150470658" id="notetitle1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="28844324" id="note1_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/68?lang=eng&amp;id=p25#p25">D&amp;C 68:25</a>.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="28844325" id="note2_p1"><a class="scripture-ref" href="/study/scriptures/bofm/moro/7?lang=eng&amp;id=p16#p16">Moroni 7:16</a>.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="28844326" id="note3_p1">See <em>True to the Faith: A Gospel Reference</em> (2004), 83.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="28844327" id="note4_p1"><a class="scripture-ref" href="/study/scriptures/bofm/hel/4?lang=eng&amp;id=p24#p24">Helaman 4:24</a>.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="28844328" id="note5_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/121?lang=eng&amp;id=p45-p46#p45">D&amp;C 121:45–46</a>.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="28844329" id="note6_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/8?lang=eng&amp;id=p2#p2">D&amp;C 8:2</a>.</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="28844330" id="note7_p1"><a class="scripture-ref" href="/study/scriptures/bofm/enos/1?lang=eng&amp;id=p10#p10">Enos 1:10</a>.</p>
+</li>
+<li data-marker="8." id="note8" data-full-marker="8.">
+<p data-aid="28844331" id="note8_p1">Joseph Smith, in <em>History of the Church,</em> 3:381.</p>
+</li>
+<li data-marker="9." id="note9" data-full-marker="9.">
+<p data-aid="28844332" id="note9_p1">Henry B. Eyring, “Gifts of the Spirit for Hard Times,” <em>Ensign,</em> June 2007, 18.</p>
+</li>
+<li data-marker="10." id="note10" data-full-marker="10.">
+<p data-aid="28844333" id="note10_p1"><a class="scripture-ref" href="/study/scriptures/bofm/3-ne/9?lang=eng&amp;id=p20#p20">3 Nephi 9:20</a>.</p>
+</li>
+<li data-marker="11." id="note11" data-full-marker="11.">
+<p data-aid="28844334" id="note11_p1">See <a class="scripture-ref" href="/study/scriptures/ot/1-kgs/19?lang=eng&amp;id=p12#p12">1 Kings 19:12</a>; <a class="scripture-ref" href="/study/scriptures/bofm/1-ne/17?lang=eng&amp;id=p45#p45">1 Nephi 17:45</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/85?lang=eng&amp;id=p6#p6">D&amp;C 85:6</a>.</p>
+</li>
+<li data-marker="12." id="note12" data-full-marker="12.">
+<p data-aid="28844335" id="note12_p1"><a class="scripture-ref" href="/study/scriptures/ot/ps/46?lang=eng&amp;id=p10#p10">Psalm 46:10</a>; see also <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/101?lang=eng&amp;id=p16#p16">D&amp;C 101:16</a>.</p>
+</li>
+<li data-marker="13." id="note13" data-full-marker="13.">
+<p data-aid="28844336" id="note13_p1">Richard G. Scott, “Helping Others to Be Spiritually Led” (address to religious educators, Aug. 11, 1998), 3; in <em>Teaching, No Greater Call</em> (1999), 48.</p>
+</li>
+<li data-marker="14." id="note14" data-full-marker="14.">
+<p data-aid="28844337" id="note14_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/36?lang=eng&amp;id=p2#p2">D&amp;C 36:2</a>.</p>
+</li>
+<li data-marker="15." id="note15" data-full-marker="15.">
+<p data-aid="28844338" id="note15_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/2-ne/32?lang=eng&amp;id=p1-p5#p1">2 Nephi 32:1–5</a>.</p>
+</li>
+<li data-marker="16." id="note16" data-full-marker="16.">
+<p data-aid="28844339" id="note16_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/2-ne/31?lang=eng&amp;id=p18#p18">2 Nephi 31:18</a>.</p>
+</li>
+<li data-marker="17." id="note17" data-full-marker="17.">
+<p data-aid="28844340" id="note17_p1">“The Spirit of God,” <em>Hymns,</em> no. 2.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/2009/10/helping-others-recognize-the-whisperings-of-the-spirit</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/october-2009-general-conference/2009-10-1030-vicki-f-matsumori-64k-eng.mp3" length="4794016" type="audio/mpeg"/>
-      <pubDate>Sat, 03 Oct 2009 10:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/3862e2d632f011ecbd0feeeeac1efb1df0ec19eb-64k-en.mp3" length="5120503" type="audio/mpeg"/>
+      <pubDate>Sat, 03 Oct 2009 10:00:00 -0600</pubDate>
+      <itunes:author>Vicki F. Matsumori</itunes:author>
     </item>
   </channel>
 </rss>

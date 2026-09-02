@@ -1,141 +1,212 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Talks By Ronald T. Halverson</title>
-    <link>http://philip.lundrigan.org/Speakercast/</link>
+    <link>https://philip.lundrigan.org/Speakercast/</link>
     <description>General Conference talks by Ronald T. Halverson.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Speakercast</generator>
     <image>
-      <url>http://philip.lundrigan.org/Speakercast/covers/Ronald%20T.%20Halverson.jpg</url>
+      <url>https://philip.lundrigan.org/Speakercast/covers/Ronald%20T.%20Halverson.jpg</url>
       <title>General Conference talks by Ronald T. Halverson.</title>
-      <link>http://philip.lundrigan.org/Speakercast/</link>
+      <link>https://philip.lundrigan.org/Speakercast/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Oct 1998 14:00:00 -0700</lastBuildDate>
-    <pubDate>Sun, 04 Oct 1998 14:00:00 -0700</pubDate>
+    <lastBuildDate>Sat, 02 Oct 2004 14:00:00 -0600</lastBuildDate>
+    <pubDate>Sat, 02 Oct 2004 14:00:00 -0600</pubDate>
+    <itunes:author>Ronald T. Halverson</itunes:author>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
+    <itunes:image href="https://philip.lundrigan.org/Speakercast/covers/Ronald%20T.%20Halverson.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>General Conference talks by Ronald T. Halverson.</itunes:summary>
     <item>
       <title>“Ye Also Shall Bear Witness”</title>
-      <link>http://www.lds.org/general-conference/1998/10/ye-also-shall-bear-witness?lang=eng</link>
-      <description>There are many on the earth who desire a witness of truth and earnestly seek the peace and joy promised by the Savior.</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/1998/10/ye-also-shall-bear-witness" schema-version="1" doc-id="general-conference_98911_000_031" doc-version="2" hash="D7TA2g">
-  
-  <div class="heading" uri="/general-conference/1998/10/ye-also-shall-bear-witness.head">
-    <h1 class="title" pid="bZVDmIVVz0S4pwXp4_3Fww" hash="fWHBBQ">“Ye Also Shall Bear Witness”</h1>
-    <p class="authorName" pid="5azas6TJPU-YIFDSRB9-zQ" hash="xVCCbA">Ronald T. Halverson</p>
-    <p class="kicker" pid="5DuwHqWfc0-E1OZQnwF0tA" hash="O325uw">There are many on the earth who desire a witness of truth and earnestly seek the peace and joy promised by the Savior.</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/1998/10/ye-also-shall-bear-witness.t1">
-      <img src="ensignlp.nfo-o-1d72.jpg" alt="Elder Ronald T. Halverson" pid="5CKGJ5I7WUC4fowH_FV1Rw" hash="GD5OkA" />
-      <p class="para" uri="/general-conference/1998/10/ye-also-shall-bear-witness.p1" pid="oEj1oJqywUeSvwTbqU0LkQ" hash="GQpkxw">Several years ago I interviewed a young woman for a temple recommend to receive her own endowment and to be married and sealed for time and all eternity. As I completed the interview and signed the recommend, tears were streaming down her cheeks. I said, “Please share with me your feelings.” Then she told me the following story.</p>
-      <p class="para" uri="/general-conference/1998/10/ye-also-shall-bear-witness.p2" pid="i2FPL13g5EGdoY4um74dvA" hash="a0Wksg">Since her youth she had sought to find truth and direction in her life. She had yearned to find peace and happiness, but no matter where she looked, she could not find it. It had come to a point where she was very distraught, assuming there was really nothing in life that had true meaning or was fulfilling. In this frame of mind, one evening while visiting a dear friend and recounting her concerns and despair she said: “I looked behind the sofa where I was sitting to the bookshelf. My eyes fell upon a particular volume, and a compelling feeling cameover me. I knew I needed to find out what was written on its pages.”</p>
-      <p class="para" uri="/general-conference/1998/10/ye-also-shall-bear-witness.p3" pid="2UcSvWNY5USCNmbVD1pLWA" hash="f6PukA">She took the book from the shelf and read the title, the Book of Mormon. She asked her friend where she had received it. Her friend indicated that two young missionaries stopped her on the street and gave her the book but only after a commitment to read it. Due to a lack of time, she had just put it on the shelf.</p>
-      <p class="para" uri="/general-conference/1998/10/ye-also-shall-bear-witness.p4" pid="LY1e6-2CfkOCHZiDiZriRQ" hash="Jw6BGQ">“I started to read,” she said. “I could not put it down.” A feeling came over her that she had never felt before. Her friend told her that she could take the book with her. She went home and continued to read through the night. The next morning she went into the streets looking for the two young missionaries. It didn’t take long to find them. They agreed to teach her the gospel, and in a few weeks she was baptized a member of the Church.</p>
-      <p class="para" uri="/general-conference/1998/10/ye-also-shall-bear-witness.p5" pid="4H_JtxX3e0C5x-fGp_HPBQ" hash="z05c-w">Through her tears, she explained that since that day she had found a joy and inner peace that she never dreamed possible.</p>
-      <p class="para" uri="/general-conference/1998/10/ye-also-shall-bear-witness.p6" pid="SEmcwkQcwUq5mojTNy0yUg" hash="iaUeEA">Living in a small town with few members and even fewer opportunities to marry in the Church, she didn’t dare hope that she might one day marry in the temple. But she felt it was through the guidance of the Holy Spirit that she met a young man while vacationing in another country. He was a member of the Church and honored his priesthood. They had fallen in love, and he had asked her to marry him in the temple. The realization that she could now go to the house of the Lord and be sealed for time and all eternity brought joy to her soul and feelings of thankfulness and gratitude that were overwhelming and impossible to describe.</p>
-      <p class="para" uri="/general-conference/1998/10/ye-also-shall-bear-witness.p7" pid="lTM5UIuIEE-bwu-Xk4Z6ZQ" hash="sHy3LQ">“I continue to ask myself,” she said, “why me? Why me? I am so blessed.”</p>
-      <p class="para" uri="/general-conference/1998/10/ye-also-shall-bear-witness.p8" pid="khz9NiWGJkiZFS-u5dkwbA" hash="kKK2vw">Her humble, sweet spirit and testimony touched me deeply. As she left, we both shed tears of joy and appreciation.</p>
-      <p class="para" uri="/general-conference/1998/10/ye-also-shall-bear-witness.p9" pid="FDUer35QrEiAvZeXhzrI_Q" hash="0N-Orw">I have often thought of that experience, and each time I do, it brings a deep feeling of gratitude for our Savior and what He has done for us, for the price that He paid to make it possible for each one of us to find inner peace in a troubled world.</p>
-      <p class="para" uri="/general-conference/1998/10/ye-also-shall-bear-witness.p10" pid="3O48t2PHf0-w7I4uaFpMuQ" hash="T_N0RA">President David O. McKay wrote: “From the forty days’ fast on the mount of temptation to the moment on the cross when he cried in triumph: ‘It is finished!’ Christ’s life was a divine example of subduing and overcoming. Full of significance are his words spoken in his farewell address to his disciples: ‘These things I have spoken unto you, that in me ye might have peace. In the world ye shall have tribulation: but be of good cheer; I have overcome the world.’ (<a href="/scriptures/nt/john/16.33" class="scriptureRef">John 16:33</a>).”<span class="noteMarker" ref="f_1">1</span></p>
-      <p class="para" uri="/general-conference/1998/10/ye-also-shall-bear-witness.p11" pid="rMKZPLb6XEC4TlhwCiJFLw" hash="ZoG-HQ">The peace that He spoke of is defined by one writer: “True joy is an intense inner peace and happiness.”<span class="noteMarker" ref="f_2">2</span></p>
-      <p class="para" uri="/general-conference/1998/10/ye-also-shall-bear-witness.p12" pid="Z9cr151QZEak4gSBFPr5Uw" hash="4o9pIQ">It is the peace that Paul spoke of, “the peace of God, which passeth all understanding.”<span class="noteMarker" ref="f_3">3</span> The gospel of Jesus Christ brings peace of mind, heals the soul, and calms the troubled heart. It gives definition and meaning to the purpose of life, the spiritual reassurance that God lives and Jesus is the Christ.</p>
-      <p class="para" uri="/general-conference/1998/10/ye-also-shall-bear-witness.p13" pid="xKFEpZ4dAEau8UNGeLBhaA" hash="B56O3A">Joy and peace of mind that truth seekers throughout the world desire to find can only be found by knowing and living the principles of the gospel. The Savior said: “If ye keep my commandments, ye shall abide in my love; even as I have kept my Father’s commandments, and abide in his love.</p>
-      <p class="para" uri="/general-conference/1998/10/ye-also-shall-bear-witness.p14" pid="RZ2KxDQWJUSyoM2al6JbTA" hash="j9nkdw">“These things have I spoken unto you, that my joy might remain in you, and that your joy might be full.”<span class="noteMarker" ref="f_4">4</span></p>
-      <p class="para" uri="/general-conference/1998/10/ye-also-shall-bear-witness.p15" pid="F1msVB1B20G9sgP6oyNPGg" hash="SL9tvw">Elder Franklin D. Richards extended an invitation to all who seek true joy, in these words: “Those who are seeking a plan of life that will bring them peace, relief from inner tensions, happiness, and growth and development will find it in the restored gospel of Jesus Christ.” He followed by saying, “We invite your sincere and prayerful consideration.”<span class="noteMarker" ref="f_5">5</span></p>
-      <p class="para" uri="/general-conference/1998/10/ye-also-shall-bear-witness.p16" pid="K9xYKr53lE-Fzg7UDngi8g" hash="XdasHw">There may be those who feel like they are lost and too far gone to receive the great blessings that the gospel can give, but Elder Spencer W. Kimball wrote: “The essence of the miracle of forgiveness is that it brings peace to the previously anxious, restless, frustrated, perhaps tormented soul. In a world of turmoil and contention this is indeed a priceless gift.”<span class="noteMarker" ref="f_6">6</span></p>
-      <p class="para" uri="/general-conference/1998/10/ye-also-shall-bear-witness.p17" pid="GyQrQYEqLEu8-oybp63VPg" hash="0KaT7Q">After the Savior taught His disciples of the peace He would leave with them and the Comforter He would send from the Father, He charged them by saying, “And ye also shall bear witness.”<span class="noteMarker" ref="f_7">7</span> He taught that “herein is my Father glorified, that ye bear much fruit.”<span class="noteMarker" ref="f_8">8</span></p>
-      <p class="para" uri="/general-conference/1998/10/ye-also-shall-bear-witness.p18" pid="DxpNvzzadEm9fRUd98qWrQ" hash="KLN6tQ">Brothers and sisters, there are many on the earth who desire a witness of truth and earnestly seek the peace and joy promised by the Savior, but “who are blinded by the subtle craftiness of men … and who are only kept from the truth because they know not where to find it.”<span class="noteMarker" ref="f_9">9</span></p>
-      <p class="para" uri="/general-conference/1998/10/ye-also-shall-bear-witness.p19" pid="Y7ulebVoFkS3bqKejuCZ_w" hash="RnlA7w">We live in a world where many hear of Christ but do not know Him. It is incumbent upon us as members of the Church to share our testimony with others. In humility, we bear witness that Jesus is the Christ, the Son of God. If they will but open their hearts to Him, they will find the reassurance, the peace and joy that His gospel brings. They will find strength to meet the challenges of life in a difficult world, and by accepting His teachings and keeping His commandments they will be heirs to His promised blessings.</p>
-      <p class="para" uri="/general-conference/1998/10/ye-also-shall-bear-witness.p20" pid="CBidISL2iEGlY9pPvJ6I2A" hash="kBjx8g">To this I bear my humble witness in the name of Jesus Christ, amen.</p>
-    </div>
-  </div>
-  
-</div>]]></content:encoded>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/1998/10/ye-also-shall-bear-witness?lang=eng</link>
+      <description><![CDATA[<header>
+<span class="page-break" data-page="78"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/0afc18a8d9c69def2c44db1a08870f20489765e0/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/0afc18a8d9c69def2c44db1a08870f20489765e0/full/%21192%2C/0/default" data-video-title="&quot;Ye Also Shall Bear Witness&quot;" data-video-description="There are many on the earth who desire a witness of truth and earnestly seek the peace and joy promised by the Savior." data-video-id="6389201821112" data-ip="Download &amp; Streaming" data-duration="434667" data-assetId="08220d66007f9a2077d79c5d4b8348f0c3274935" data-ref-id="08220d66007f9a2077d79c5d4b8348f0c3274935" data-duration-string="7:14" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6389201821112.m3u8" type="application/vnd.apple.mpegurl" data-width="480" data-height="360" data-file-size="20972196"/><source src="https://assets.churchofjesuschrist.org/08220d66007f9a2077d79c5d4b8348f0c3274935-360p-en.mp4" type="video/mp4" data-width="480" data-height="360" data-file-size="20972196"/></video><h1 data-aid="28808108" id="title1">“Ye Also Shall Bear Witness”</h1>
+<div class="byline">
+<p class="author-name" data-aid="28808109" id="p1">By Elder Ronald T. Halverson</p>
+<p class="author-role" data-aid="28808110" id="p2">Of the Seventy</p>
+<div class="image-cropper"><img alt="Elder Ronald T. Halverson" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/b47a3309078111eca545eeeeac1e6659b85fe4dc/full/%21100%2C/0/default" data-assetId="b47a3309078111eca545eeeeac1e6659b85fe4dc" srcset="https://www.churchofjesuschrist.org/imgs/b47a3309078111eca545eeeeac1e6659b85fe4dc/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/b47a3309078111eca545eeeeac1e6659b85fe4dc/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/b47a3309078111eca545eeeeac1e6659b85fe4dc/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/b47a3309078111eca545eeeeac1e6659b85fe4dc/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/b47a3309078111eca545eeeeac1e6659b85fe4dc/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/b47a3309078111eca545eeeeac1e6659b85fe4dc/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/b47a3309078111eca545eeeeac1e6659b85fe4dc/full/%21640%2C/0/default 640w" data-img-id="b47a3309078111eca545eeeeac1e6659b85fe4dc" data-missing-asset="false" data-width="100" data-height="122" data-aspect-ratio="0.819672131147541" data-public-title="Halverson, Ronald T." data-public-description="Former official portrait of Elder Ronald T. Halverson of the Second Quorum of the Seventy, 1998. Released September 20, 2006."/></div>
+</div>
+<p class="kicker" data-aid="28808111" id="kicker1">There are many on the earth who desire a witness of truth and earnestly seek the peace and joy promised by the Savior.</p>
+</header>
+<div class="body-block">
+<p data-aid="28808112" id="p3">Several years ago I interviewed a young woman for a temple recommend to receive her own endowment and to be married and sealed for time and all eternity. As I completed the interview and signed the recommend, tears were streaming down her cheeks. I said, “Please share with me your feelings.” Then she told me the following story.</p>
+<p data-aid="28808113" id="p4">Since her youth she had sought to find truth and direction in her life. She had yearned to find peace and happiness, but no matter where she looked, she could not find it. It had come to a point where she was very distraught, assuming there was really nothing in life that had true meaning or was fulfilling. In this frame of mind, one evening while visiting a dear friend and recounting her concerns and despair she said: “I looked behind the sofa where I was sitting to the bookshelf. My eyes fell upon a particular volume, and a compelling feeling came over me. I knew I needed to find out what was written on its pages.”</p>
+<p data-aid="28808114" id="p5">She took the book from the shelf and read the title, the Book of Mormon. She asked her friend where she had received it. Her friend indicated that two young missionaries stopped her on the street and gave her the book but only after a commitment to read it. Due to a lack of time, she had just put it on the shelf.</p>
+<p data-aid="28808115" id="p6">“I started to read,” she said. “I could not put it down.” A feeling came over her that she had never felt before. Her friend told her that she could take the book with her. She went home and continued to read through the night. The next morning she went into the streets looking for the two young missionaries. It didn’t take long to find them. They agreed to teach her the gospel, and in a few weeks she was baptized a member of the Church.</p>
+<p data-aid="28808116" id="p7">Through her tears, she explained that since that day she had found a joy and inner peace that she never dreamed possible.</p>
+<p data-aid="28808117" id="p8">Living in a small town with few members and even fewer opportunities to marry in the Church, she didn’t dare hope that she might one day marry in the temple. But she felt it <span class="page-break" data-page="79"></span>was through the guidance of the Holy Spirit that she met a young man while vacationing in another country. He was a member of the Church and honored his priesthood. They had fallen in love, and he had asked her to marry him in the temple. The realization that she could now go to the house of the Lord and be sealed for time and all eternity brought joy to her soul and feelings of thankfulness and gratitude that were overwhelming and impossible to describe.</p>
+<p data-aid="28808118" id="p9">“I continue to ask myself,” she said, “‘Why me? Why me?’ I am so blessed.”</p>
+<p data-aid="28808119" id="p10">Her humble, sweet spirit and testimony touched me deeply. As she left, we both shed tears of joy and appreciation.</p>
+<p data-aid="28808120" id="p11">I have often thought of that experience, and each time I do, it brings a deep feeling of gratitude for our Savior and what He has done for us, for the price that He paid to make it possible for each one of us to find inner peace in a troubled world.</p>
+<p data-aid="28808121" id="p12">President David O. McKay wrote: “From the forty days’ fast on the Mount of Temptation to the moment on the cross when he cried in triumph: ‘It is finished,’ Christ’s life was a divine example of subduing and overcoming. Full of significance are his words spoken in his farewell address to his disciples: ‘These things I have spoken unto you, that in me ye might have peace. In the world ye shall have tribulation: but be of good cheer; I have overcome the world.’ (<a class="scripture-ref" href="/study/scriptures/nt/john/16?lang=eng&amp;id=p33#p33">John 16:33</a>).”<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a></p>
+<p data-aid="28808122" id="p13">The peace that He spoke of is defined by one writer: “True joy is an intense inner peace and happiness.”<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a></p>
+<p data-aid="28808123" id="p14">It is the peace that Paul spoke of, “the peace of God, which passeth all understanding.”<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a> The gospel of Jesus Christ brings peace of mind, heals the soul, and calms the troubled heart. It gives definition and meaning to the purpose of life, the spiritual reassurance that God lives and Jesus is the Christ.</p>
+<p data-aid="28808124" id="p15">Joy and peace of mind that truth seekers throughout the world desire to find can only be found by knowing and living the principles of the gospel. The Savior said: “If ye keep my commandments, ye shall abide in my love; even as I have kept my Father’s commandments, and abide in his love.</p>
+<p data-aid="28808125" id="p16">“These things have I spoken unto you, that my joy might remain in you, and that your joy might be full.”<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a></p>
+<p data-aid="28808126" id="p17">Elder Franklin D. Richards extended an invitation to all who seek true joy, in these words: “Those who are seeking a plan of life that will bring them peace, relief from inner tensions, happiness, and growth and development will find it in the restored gospel of Jesus Christ.” He followed by saying, “We invite your sincere and prayerful consideration.”<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a></p>
+<p data-aid="28808127" id="p18">There may be those who feel like they are lost and too far gone to receive the great blessings that the gospel can give, but Elder Spencer W. Kimball wrote: “The essence of the miracle of forgiveness is that it brings peace to the previously anxious, restless, frustrated, perhaps tormented soul. In a world of turmoil and contention this is indeed a priceless gift.”<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a></p>
+<p data-aid="28808128" id="p19">After the Savior taught His disciples of the peace He would leave with them and the Comforter He would send from the Father, He charged them by saying, “And ye also shall bear witness.”<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a> He taught that “herein is my Father glorified, that ye bear much fruit.”<a class="note-ref" href="#note8"><sup class="marker" data-value="8"></sup></a></p>
+<p data-aid="28808129" id="p20">Brothers and sisters, there are many on the earth who desire a witness of truth and earnestly seek the peace and joy promised by the Savior, but “who are blinded by the subtle craftiness of men … and who are only kept from the truth because they know not where to find it.”<a class="note-ref" href="#note9"><sup class="marker" data-value="9"></sup></a></p>
+<p data-aid="28808130" id="p21">We live in a world where many hear of Christ but do not know Him. It is incumbent upon us as members of the Church to share our testimony with others. In humility we bear witness that Jesus is the Christ, the Son of God. If they will but open their hearts to Him, they will find the reassurance, the peace and joy that His gospel brings. They will find strength to meet the challenges of life in a difficult world, and by accepting His teachings and keeping His commandments they will be heirs to His promised blessings.</p>
+<p data-aid="28808131" id="p22">To this I bear my humble witness in the name of Jesus Christ, amen.</p>
+</div>
+<footer class="notes">
+<p class="title" data-aid="150157664" id="notetitle1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="28808132" id="note1_p1"><em>Gospel Ideals</em> (1953), 396.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="28808133" id="note2_p1">Hoyt W. Brewster Jr., <em>Doctrine and Covenants Encyclopedia</em> (1988), 287.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="28808134" id="note3_p1"><a class="scripture-ref" href="/study/scriptures/nt/philip/4?lang=eng&amp;id=p7#p7">Philip. 4:7</a>.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="28808135" id="note4_p1"><a class="scripture-ref" href="/study/scriptures/nt/john/15?lang=eng&amp;id=p10-p11#p10">John 15:10–11</a>.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="28808136" id="note5_p1">In Conference Report, Apr. 1970, 14; or <em>Improvement Era,</em> June 1970, 37.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="28808137" id="note6_p1"><em>The Miracle of Forgiveness</em> (1969), 363.</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="28808138" id="note7_p1"><a class="scripture-ref" href="/study/scriptures/nt/john/15?lang=eng&amp;id=p27#p27">John 15:27</a>.</p>
+</li>
+<li data-marker="8." id="note8" data-full-marker="8.">
+<p data-aid="28808139" id="note8_p1"><a class="scripture-ref" href="/study/scriptures/nt/john/15?lang=eng&amp;id=p8#p8">John 15:8</a>.</p>
+</li>
+<li data-marker="9." id="note9" data-full-marker="9.">
+<p data-aid="28808140" id="note9_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/123?lang=eng&amp;id=p12#p12">D&amp;C 123:12</a>.</p>
+</li>
+</ol>
+</footer>]]></description>
       <guid isPermaLink="false">/general-conference/1998/10/ye-also-shall-bear-witness</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/october-1998-general-conference/1998-10-5030-elder-ronald-t-halverson-64k-eng.mp3" length="3480475" type="audio/mpeg"/>
-      <pubDate>Sun, 04 Oct 1998 14:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/3c913a3532cc11ec8868eeeeac1e3d386d00aa2b-64k-en.mp3" length="3694739" type="audio/mpeg"/>
+      <pubDate>Sun, 04 Oct 1998 14:00:00 -0600</pubDate>
+      <itunes:author>Ronald T. Halverson</itunes:author>
     </item>
     <item>
       <title>“I Stand at the Door, and Knock”</title>
-      <link>http://www.lds.org/general-conference/2004/10/i-stand-at-the-door-and-knock?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2004/10/i-stand-at-the-door-and-knock?lang=eng</link>
       <description>I invite you to … do whatever it takes to earnestly seek truth, to know God the Eternal Father and His Son, Jesus Christ.</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/2004/10/i-stand-at-the-door-and-knock" schema-version="1" doc-id="general-conference_PD10030208_000_013" doc-version="2" hash="5CyGqw">
-  
-  <div class="heading" uri="/general-conference/2004/10/i-stand-at-the-door-and-knock.head">
-    <h1 class="title" pid="Xh-CGFAWwkeL7a_Tr13q0A" hash="W4yKMA">“I Stand at the Door, and Knock”</h1>
-    <p class="authorName" pid="clODYrj5dkaOE6fjlVUJPg" hash="xVCCbA">Ronald T. Halverson</p>
-    <p class="kicker" pid="KBFjCeSGy06J9jpmCPrMvA" hash="O5YHrg">I invite you to … do whatever it takes to earnestly seek truth, to know God the Eternal Father and His Son, Jesus Christ.</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/2004/10/i-stand-at-the-door-and-knock.t1">
-      <img src="ensignlp.nfo-o-641.jpg" alt="Elder Ronald T. Halverson" pid="Pq135WFrGUODWWR0ncfonA" hash="7mIn0w" />
-      <p class="para" uri="/general-conference/2004/10/i-stand-at-the-door-and-knock.p1" pid="_cE1ZUozfU2AOCyIOVK5LQ" hash="-DlyAA">A few weeks ago I was in a social gathering with a friend of many years—a friend who recently retired, is well educated, and has been very successful. He is recognized in his country as the leader in his field. As we sat next to one another at dinner, he turned to me and asked about the Church. This was somewhat surprising because I was aware that he, like many in the world today, had rationalized God out of existence. His question was earnest. It was apparently something he had been thinking about because it came without anything in the previous conversation that would have prompted it.</p>
-      <p class="para" uri="/general-conference/2004/10/i-stand-at-the-door-and-knock.p2" pid="uo6nYh6fpES70jWw9tD6ig" hash="KCEoLw">I responded by telling him of the Restoration, that God the Eternal Father and His Son, Jesus Christ, appeared to Joseph Smith and that through him the priesthood and authority of God were restored to the earth. I bore witness that I knew assuredly that what I had told him was true. There was a long pause as I watched him ponder what I had said. Then, knowing that he was internalizing what he had heard, I leaned over and said: “You can know as surely as I know that what I have borne witness to is true. If you will ‘ask God, the Eternal Father, … with a sincere heart, … having faith in Christ, [I promise you that] he will manifest the truth of it unto you, by the power of the Holy Ghost. And by the power of the Holy Ghost [you] may know the truth of all things.’”<span class="noteMarker" ref="f_1">1</span></p>
-      <p class="para" uri="/general-conference/2004/10/i-stand-at-the-door-and-knock.p3" pid="UvR_glqnmUq0LEFHsX7iEw" hash="kegavw">He continued to ponder. Unfortunately we were interrupted by the other guests and that precious moment passed, but I knew that in his heart he was still internalizing what he had heard and felt. And I hope that an opportunity will come again, for there is so much more that I would like to share with him. I know that he, like thousands or millions of others in the world today, is content with life as it is. As Nephi stated, they have been pacified and lulled away “into carnal security.”<span class="noteMarker" ref="f_2">2</span> They have been steeped in traditions and taught by the precepts of men.</p>
-      <p class="para" uri="/general-conference/2004/10/i-stand-at-the-door-and-knock.p4" pid="NSvJMl4vMkaxa4HLnb6VLQ" hash="1pLAfg">As I have reflected on that moment, I ask myself the question “What is the reward for following the philosophies of men?” The answer seems clear. The philosophies die with their civilizations and are left in the dust of the past without hope of eternal reward. I felt my friend had been touched by the Spirit of the Lord. Our Heavenly Father never gives up on us. The Savior said, “Behold, I stand at the door, and knock: if any man hear my voice, and open the door, I will come in to him, and will sup with him, and he with me.”<span class="noteMarker" ref="f_3">3</span></p>
-      <p class="para" uri="/general-conference/2004/10/i-stand-at-the-door-and-knock.p5" pid="JiNkdEbdF0aWZJbwYn2kYw" hash="QhMX8A">But we must have the desire to open the door, even if it shakes the very foundation of our past beliefs and way of life. And this applies to less-active members as well as those who are not yet members of the Church. I am reminded of the words of a hymn:</p>
-      <div class="poetry" uri="/general-conference/2004/10/i-stand-at-the-door-and-knock.f2">
-        <div class="stanza">
-          <p class="line" pid="24rko18q4kezIsVSjwkPhQ" hash="0G74VQ">
-            <span class="emphasis">Know this, that ev’ry soul is free</span>
-          </p>
-          <p class="line" pid="s1RHd7E0hk-Zft6VoTlpYA" hash="UGe9_g">
-            <span class="emphasis">To choose his life and what he’ll be;</span>
-          </p>
-          <p class="line" pid="d_jENSk_1UqriRghKfI1YA" hash="qQOq5Q">
-            <span class="emphasis">For this eternal truth is giv’n:</span>
-          </p>
-          <p class="line" pid="VPVsv38vREOZki1bOTMVrA" hash="0SlKjw">
-            <span class="emphasis">That God will force no man to heav’n.</span>
-          </p>
-        </div>
-        <div class="stanza">
-          <p class="line" pid="M6aLwd_LtUqiHtqOdUzYoA" hash="1rZbbQ">
-            <span class="emphasis">He’ll call, persuade, direct aright,</span>
-          </p>
-          <p class="line" pid="MOj8XK_5r0KTIjQORB_p3A" hash="wVAJxg">
-            <span class="emphasis">And bless with wisdom, love, and light,</span>
-          </p>
-          <p class="line" pid="wIwI7Oy7UU-65lYC0HZvAw" hash="De4ZKA">
-            <span class="emphasis">In nameless ways be good and kind,</span>
-          </p>
-          <p class="line" pid="bF7_p0Mbf02sjLinvdfYNA" hash="5L6TaA">
-            <span class="emphasis">But never force the human mind.</span>
-            <span class="noteMarker" ref="f_4">4</span>
-          </p>
-        </div>
-      </div>
-      <p class="para" uri="/general-conference/2004/10/i-stand-at-the-door-and-knock.p6" pid="oz0xQWYonECpr0EIOvqPgA" hash="t8SZqg">Our Father in Heaven will never take away our agency. We must seek after or desire to know our Father and His Son, Jesus Christ. There is a way by which all men can know whether or not the teachings of Jesus Christ are true. As Jesus answered the skeptics at the Feast of Tabernacles, He said, “If any man will do his will, he shall know of the doctrine, whether it be of God, or whether I speak of myself.”<span class="noteMarker" ref="f_5">5</span></p>
-      <p class="para" uri="/general-conference/2004/10/i-stand-at-the-door-and-knock.p7" pid="b6kl6P7aPUqWHdTPYoDXVA" hash="gy18yQ">President David O. McKay said that this “is the most simple test to give knowledge to an individual of which the human mind can conceive. <span class="emphasis">Doing a thing, introducing it into your very being,</span> will convince you of whether it is good or whether it is bad. You may not be able to convince <span class="emphasis">me </span>of that which you know, but <span class="emphasis">you know it,</span> because <span class="emphasis">you have lived it.</span>”<span class="noteMarker" ref="f_6">6</span></p>
-      <p class="para" uri="/general-conference/2004/10/i-stand-at-the-door-and-knock.p8" pid="DRsYy-tq5EKMssc0IDcDLg" hash="nkSpxA">What is the Father’s will? “The Church of Jesus Christ of Latter-day Saints bears testimony to the world that the ‘will’ of God has been made manifest in this dispensation; that the principles of the gospel, the principles of life, have been revealed. [That] they are in harmony with the principles which Christ taught in the meridian of time”<span class="noteMarker" ref="f_7">7</span> and that “through the Atonement of Christ, all mankind may be saved, by obedience to the laws and ordinances of the Gospel.”<span class="noteMarker" ref="f_8">8</span></p>
-      <p class="para" uri="/general-conference/2004/10/i-stand-at-the-door-and-knock.p9" pid="50IQ3_h1_UOkmy6CXJiWXQ" hash="_EtawA">We live in a day of rationalization; people want to discount spiritual experiences, and they deny themselves revelation. What happened to the seeking mind, the open mind, the inquiring mind—one seeking to know truth and knowledge? We tend to rely on our own rational powers. The Lord wants us to be sensitive to the Spirit, and He has given us a pattern:</p>
-      <p class="para" uri="/general-conference/2004/10/i-stand-at-the-door-and-knock.p10" pid="FqUEo8S4wE682goRIsCfXg" hash="NHEmUg">“And again, I will give unto you a pattern in all things, that ye may not be deceived; for Satan is abroad in the land, and he goeth forth deceiving the nations—</p>
-      <p class="para" uri="/general-conference/2004/10/i-stand-at-the-door-and-knock.p11" pid="d150YJLqiUOfMasZQVbnvg" hash="ZLnJrw">“Wherefore he that prayeth, whose spirit is contrite, the same is accepted of me if he obey mine ordinances.</p>
-      <p class="para" uri="/general-conference/2004/10/i-stand-at-the-door-and-knock.p12" pid="cCXkJUz-hU638C5jxbl7aw" hash="ynR72w">“He that speaketh, whose spirit is contrite, whose language is meek and edifieth, the same is of God if he obey mine ordinances.”<span class="noteMarker" ref="f_9">9</span></p>
-      <p class="para" uri="/general-conference/2004/10/i-stand-at-the-door-and-knock.p13" pid="lcdcR5UdQk-dn4CvAoA8Fw" hash="7Qhjhw">Why is it important for us to seek to know truth?</p>
-      <p class="para" uri="/general-conference/2004/10/i-stand-at-the-door-and-knock.p14" pid="0udALaRfMkmugyLVKzZLow" hash="jW-baw">Jesus, our Redeemer, just before He crossed the brook of Cedron and was betrayed by Judas, offered the glorious prayer of intercession. He prayed to the Father for us. He said, “And this is life eternal, that they might know thee the only true God, and Jesus Christ, whom thou hast sent.”<span class="noteMarker" ref="f_10">10</span></p>
-      <p class="para" uri="/general-conference/2004/10/i-stand-at-the-door-and-knock.p15" pid="b0rLZm7LpkutJCIJV_p-SA" hash="PE8CEw">To know God and His Son is eternal life. How can we learn to know God if we are unwilling to seek after Him and do His will? Eternal life is what we should desire more than anything else in this world.</p>
-      <p class="para" uri="/general-conference/2004/10/i-stand-at-the-door-and-knock.p16" pid="GY1WfmX9a0iNACfOXucOrQ" hash="cTEZIw">One cannot study about Jesus Christ and His teachings without being affected and changed for good. As you develop a testimony of the Savior, you want to become like Him and to follow Him, and thus you enter the waters of baptism and make a sacred covenant with Him.</p>
-      <p class="para" uri="/general-conference/2004/10/i-stand-at-the-door-and-knock.p17" pid="C4n2THlG3kqmbjm9VcOD1w" hash="YzkfoQ">Our Savior is concerned for each one of us:</p>
-      <p class="para" uri="/general-conference/2004/10/i-stand-at-the-door-and-knock.p18" pid="kJ6hTVUWEE-KDxgPAk1D3w" hash="q4aTzw">“Remember the worth of souls is great in the sight of God;</p>
-      <p class="para" uri="/general-conference/2004/10/i-stand-at-the-door-and-knock.p19" pid="RtDqzw4IekeyLc_Aq-pVUQ" hash="ACNDug">“For, behold, the Lord your Redeemer suffered death in the flesh; wherefore he suffered the pain of all men, that all men might repent and come unto him.</p>
-      <p class="para" uri="/general-conference/2004/10/i-stand-at-the-door-and-knock.p20" pid="BRdtGINn2Umyq-wFa0dV6w" hash="YbpMog">“And he hath risen again from the dead, that he might bring all men unto him, on conditions of repentance.</p>
-      <p class="para" uri="/general-conference/2004/10/i-stand-at-the-door-and-knock.p21" pid="-A9LkBOdEUWe0Miynp5uJw" hash="uBr4Rw">“And how great is his joy in the soul that repenteth!”<span class="noteMarker" ref="f_11">11</span></p>
-      <p class="para" uri="/general-conference/2004/10/i-stand-at-the-door-and-knock.p22" pid="qbqoodazkkCQ3qg7-mm63g" hash="ruG0sQ">Because of His great love for us, a divine love, He wants us to experience the kind of joy that He, Himself, experiences. He said, “These things have I spoken unto you, that my joy might remain in you, and that your joy might be full.”<span class="noteMarker" ref="f_12">12</span> He will bless us with a genuine peace—mentally, emotionally, physically, spiritually, economically—“not [a peace] as the world giveth,”<span class="noteMarker" ref="f_13">13</span> but a “peace … which passeth all understanding.”<span class="noteMarker" ref="f_14">14</span></p>
-      <p class="para" uri="/general-conference/2004/10/i-stand-at-the-door-and-knock.p23" pid="UWlm_tc8RUa9Gzb4OGmd3g" hash="60EfnQ">As one complies with the will of our Father in Heaven, there will come spiritual, intellectual, and emotional growth and a reassurance through the Holy Spirit of truth. That reassurance and joy can grow to a perfect knowledge. The Savior said, “If thou shalt ask, thou shalt receive revelation upon revelation, knowledge upon knowledge, that thou mayest know the mysteries and peaceable things—that which bringeth joy, that which bringeth life eternal.”<span class="noteMarker" ref="f_15">15</span></p>
-      <p class="para" uri="/general-conference/2004/10/i-stand-at-the-door-and-knock.p24" pid="PQYcUoIPr0GyVDdfDtsOkw" hash="oEjInQ">To the less active, to the honest in heart, to my friend, and to the good people of the earth, I invite you to awake out of complacency and foolish contentment and come unto Christ and do whatever it takes to earnestly seek truth, to know God the Eternal Father and His Son, Jesus Christ. For “this is the way; and there is none other way nor name given under heaven whereby man can be saved in the kingdom of God.”<span class="noteMarker" ref="f_16">16</span></p>
-      <p class="para" uri="/general-conference/2004/10/i-stand-at-the-door-and-knock.p25" pid="o10ixFKv9EKrTrWCnI9T0A" hash="_JYKZA">I bear my witness that as you do His will, you will feel close to Him and begin to know what eternal joy is and that eternal life is attainable. You will know that He does exist, that He is our Father, who lovingly reveals to us the reality of the Atonement and the Resurrection and the divinity of this great work. To this I bear my humble witness, in the name of Jesus Christ, amen.</p>
-    </div>
-  </div>
-  
-</div>]]></content:encoded>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="32"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/69ddd5ff835c04c98ca4301c27b0abe1bd48ab91/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/69ddd5ff835c04c98ca4301c27b0abe1bd48ab91/full/%21192%2C/0/default" data-video-title="“I Stand at the Door, and Knock" data-video-description="I invite you to … do whatever it takes to earnestly seek truth, to know God the Eternal Father and His Son, Jesus Christ." data-video-id="2240394080001" data-ip="Download and Streaming                            " data-duration="636836" data-assetId="34e3d85f612010637d7ab2c0e961abaedf332ee9" data-ref-id="34e3d85f612010637d7ab2c0e961abaedf332ee9" data-duration-string="10:36" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/2240394080001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="1280" data-height="720" data-file-size="52253703"/><source src="https://assets.churchofjesuschrist.org/34e3d85f612010637d7ab2c0e961abaedf332ee9-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="29905040"/><source src="https://assets.churchofjesuschrist.org/34e3d85f612010637d7ab2c0e961abaedf332ee9-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="52253703"/></video><h1 data-aid="28827153" id="title1">“I Stand at the Door, and Knock”</h1>
+<div class="byline">
+<p class="author-name" data-aid="28827154" id="p1">By Elder Ronald T. Halverson</p>
+<p class="author-role" data-aid="28827155" id="p2">Of the Seventy</p>
+<div class="image-cropper"><img alt="Elder Ronald T. Halverson" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/cf49f67f078611ecab09eeeeac1ec5fbbfdf81e2/full/%21100%2C/0/default" data-assetId="cf49f67f078611ecab09eeeeac1ec5fbbfdf81e2" srcset="https://www.churchofjesuschrist.org/imgs/cf49f67f078611ecab09eeeeac1ec5fbbfdf81e2/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/cf49f67f078611ecab09eeeeac1ec5fbbfdf81e2/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/cf49f67f078611ecab09eeeeac1ec5fbbfdf81e2/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/cf49f67f078611ecab09eeeeac1ec5fbbfdf81e2/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/cf49f67f078611ecab09eeeeac1ec5fbbfdf81e2/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/cf49f67f078611ecab09eeeeac1ec5fbbfdf81e2/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/cf49f67f078611ecab09eeeeac1ec5fbbfdf81e2/full/%21640%2C/0/default 640w" data-img-id="cf49f67f078611ecab09eeeeac1ec5fbbfdf81e2" data-missing-asset="false" data-width="100" data-height="128" data-aspect-ratio="0.78125" data-public-title="Halverson, Ronald T." data-public-description="Former official portrait of Elder Ronald T. Halverson of the Second Quorum of the Seventy, 1998. Released September 20, 2006."/></div>
+</div>
+<p class="kicker" data-aid="28827156" id="kicker1">I invite you to … do whatever it takes to earnestly seek truth, to know God the Eternal Father and His Son, Jesus Christ.</p>
+</header>
+<div class="body-block">
+<p data-aid="28827157" id="p3">A few weeks ago I was in a social gathering with a friend of many years—a friend who recently retired, is well educated, and has been very successful. He is recognized in his country as the leader in his field. As we sat next to one another at dinner, he turned to me and asked about the Church. This was somewhat surprising because I was aware that he, like many in the world today, had rationalized God out of existence. His question was earnest. It was apparently something he had been thinking about because it came without anything in the previous conversation that would have prompted it.</p>
+<p data-aid="28827158" id="p4">I responded by telling him of the Restoration—that God the Eternal Father and His Son, Jesus Christ, appeared to Joseph Smith and that through him the priesthood and authority of God were restored to the earth. I bore witness that I knew assuredly that what I had told him was true. There was a long pause as I watched him ponder what I had said. Then, knowing that he was internalizing what he had heard, I leaned over and said, “You can know as surely as I know that what I have borne witness to is true. If you will ‘ask God, the Eternal Father, … with a sincere heart, … having faith in Christ, [I promise you that] he will manifest the truth of it unto you, by the power of the Holy Ghost. And by the power of the Holy Ghost [you] may know the truth of all things.’”<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a></p>
+<p data-aid="28827159" id="p5">He continued to ponder. Unfortunately we were interrupted by the other guests and that precious moment passed, but I knew that in his heart he was still internalizing what he had heard and felt. And I hope that an opportunity will come again, for there is so much more that I would like to share with him. I know that he, like thousands or millions of others in the world today, is content with life as it is. As Nephi stated, they have been pacified and lulled away “into carnal security.”<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a> They have been steeped in traditions and taught by the precepts of men.</p>
+<p data-aid="28827160" id="p6">As I have reflected on that moment, I have asked myself the question “What is the reward for following the philosophies of men?” The answer seems clear: the philosophies die with their civilizations and are left in the dust of the past without hope of eternal reward. I felt my friend had been touched by the Spirit of the Lord. Our Heavenly Father never gives up on us. The Savior said, “Behold, I stand at the door, and knock: if any man hear my voice, and open the door, I will come in to him, and will sup with him, and he with me.”<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a></p>
+<p data-aid="28827161" id="p7">But we must have the desire to open the door, even if it shakes the very foundation of our past beliefs and way of life. And this applies to less-active members as well as those who are not yet members of the Church. I am reminded of the words of a hymn:</p>
+<div class="poetry">
+<div class="stanza">
+<p class="line" data-aid="28827162" id="p8">Know this, that ev’ry soul is free</p>
+<p class="line" data-aid="28827163" id="p9">To choose his life and what he’ll be;</p>
+<p class="line" data-aid="28827164" id="p10">For this eternal truth is giv’n:</p>
+<p class="line" data-aid="28827165" id="p11">That God will force no man to heav’n.</p>
+</div>
+<div class="stanza">
+<p class="line" data-aid="28827166" id="p12">He’ll call, persuade, direct aright,</p>
+<p class="line" data-aid="28827167" id="p13">And bless with wisdom, love, and light,</p>
+<p class="line" data-aid="28827168" id="p14">In nameless ways be good and kind,</p>
+<p class="line" data-aid="28827169" id="p15">But never force the human mind.<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a></p>
+</div>
+</div>
+<p data-aid="28827170" id="p16">Our Father in Heaven will never take away our agency. We must seek after or desire to know our Father and His Son, Jesus Christ. There is a way by which all of us can know whether or not the teachings of Jesus Christ are true. As Jesus answered the skeptics at the Feast of Tabernacles, He said, “If any man will do his will, he shall know of the doctrine, whether it be of God, or whether I speak of myself.”<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a></p>
+<p data-aid="28827171" id="p17">President David O. McKay said that this “is the most simple test to give <span class="page-break" data-page="33"></span>knowledge to an individual of which the human mind can conceive. <em>Doing a thing, introducing it into your very being,</em> will convince you of whether it is good or whether it is bad. You may not be able to convince <em>me</em> of that which you know, but <em>you know it,</em> because <em>you have lived it.</em>”<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a></p>
+<p data-aid="28827172" id="p18">What is the Father’s will? “The Church of Jesus Christ of Latter-day Saints bears testimony to the world that the ‘will’ of God has been made manifest in this dispensation; that the principles of the gospel, the principles of life, have been revealed. [That] they are in harmony with the principles which Christ taught in the meridian of time”<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a> and that “through the Atonement of Christ, all mankind may be saved, by obedience to the laws and ordinances of the Gospel.”<a class="note-ref" href="#note8"><sup class="marker" data-value="8"></sup></a></p>
+<p data-aid="28827173" id="p19">We live in a day of rationalization; people want to discount spiritual experiences, and they deny themselves revelation. What happened to the seeking mind, the open mind, the inquiring mind—one seeking to know truth and knowledge? We tend to rely on our own rational powers. The Lord wants us to be sensitive to the Spirit, and He has given us a pattern:</p>
+<p data-aid="28827174" id="p20">“And again, I will give unto you a pattern in all things, that ye may not be deceived; for Satan is abroad in the land, and he goeth forth deceiving the nations—</p>
+<p data-aid="28827175" id="p21">“Wherefore he that prayeth, whose spirit is contrite, the same is accepted of me if he obey mine ordinances.</p>
+<p data-aid="28827176" id="p22">“He that speaketh, whose spirit is contrite, whose language is meek and edifieth, the same is of God if he obey mine ordinances.”<a class="note-ref" href="#note9"><sup class="marker" data-value="9"></sup></a></p>
+<p data-aid="28827177" id="p23">Why is it important for us to seek to know truth?</p>
+<p data-aid="28827178" id="p24">Jesus, our Redeemer, just before He crossed the brook of Cedron and was betrayed by Judas, offered the glorious prayer of intercession. He prayed to the Father for us. He said, “And this is life eternal, that they might know thee the only true God, and Jesus Christ, whom thou hast sent.”<a class="note-ref" href="#note10"><sup class="marker" data-value="10"></sup></a></p>
+<p data-aid="28827179" id="p25">To know God and His Son is eternal life. How can we learn to know God if we are unwilling to seek after Him and do His will? Eternal life is what we should desire more than anything else in this world.</p>
+<p data-aid="28827180" id="p26">One cannot study about Jesus Christ and His teachings without being affected and changed for good. As you develop a testimony of the Savior, you want to become like Him and to follow Him, and thus you enter the waters of baptism and make a sacred covenant with Him.</p>
+<p data-aid="28827181" id="p27">Our Savior is concerned for each one of us:</p>
+<p data-aid="28827182" id="p28">“Remember the worth of souls is great in the sight of God;</p>
+<p data-aid="28827183" id="p29">“For, behold, the Lord your Redeemer suffered death in the flesh; wherefore he suffered the pain of all men, that all men might repent and come unto him.</p>
+<p data-aid="28827184" id="p30">“And he hath risen again from the dead, that he might bring all men unto him, on conditions of repentance.</p>
+<p data-aid="28827185" id="p31">“And how great is his joy in the soul that repenteth!”<a class="note-ref" href="#note11"><sup class="marker" data-value="11"></sup></a></p>
+<p data-aid="28827186" id="p32">Because of His great love for us—a divine love—He wants us to experience the kind of joy that He, Himself, experiences. He said, “These things have I spoken unto you, that my joy might remain in you, and that your joy might be full.”<a class="note-ref" href="#note12"><sup class="marker" data-value="12"></sup></a> He will bless us with a genuine peace—mentally, emotionally, physically, spiritually, economically—“not [a peace] as the world giveth,”<a class="note-ref" href="#note13"><sup class="marker" data-value="13"></sup></a> but a “peace … which <span class="page-break" data-page="34"></span>passeth all understanding.”<a class="note-ref" href="#note14"><sup class="marker" data-value="14"></sup></a></p>
+<p data-aid="28827187" id="p33">As one complies with the will of our Father in Heaven, there will come spiritual, intellectual, and emotional growth and a reassurance through the Holy Spirit of Truth. That reassurance and joy can grow to a perfect knowledge. The Savior said, “If thou shalt ask, thou shalt receive revelation upon revelation, knowledge upon knowledge, that thou mayest know the mysteries and peaceable things—that which bringeth joy, that which bringeth life eternal.”<a class="note-ref" href="#note15"><sup class="marker" data-value="15"></sup></a></p>
+<p data-aid="28827188" id="p34">To the less active, to the honest in heart, to my friend, and to the good people of the earth, I invite you to awake out of complacency and foolish contentment and come unto Christ and do whatever it takes to earnestly seek truth, to know God the Eternal Father and His Son, Jesus Christ. For “this is the way; and there is none other way nor name given under heaven whereby man can be saved in the kingdom of God.”<a class="note-ref" href="#note16"><sup class="marker" data-value="16"></sup></a></p>
+<p data-aid="28827189" id="p35">I bear my witness that as you do His will, you will feel close to Him and begin to know what eternal joy is and that eternal life is attainable. You will know that He does exist, that He is our Father, who lovingly reveals to us the reality of the Atonement and the Resurrection and the divinity of this great work. To this I bear my humble witness, in the name of Jesus Christ, amen.</p>
+</div>
+<footer class="notes">
+<p class="title" data-aid="150470402" id="notetitle1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="28827190" id="note1_p1"><a class="scripture-ref" href="/study/scriptures/bofm/moro/10?lang=eng&amp;id=p4-p5#p4">Moroni 10:4–5</a>.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="28827191" id="note2_p1"><a class="scripture-ref" href="/study/scriptures/bofm/2-ne/28?lang=eng&amp;id=p21#p21">2 Nephi 28:21</a>.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="28827192" id="note3_p1"><a class="scripture-ref" href="/study/scriptures/nt/rev/3?lang=eng&amp;id=p20#p20">Revelation 3:20</a>.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="28827193" id="note4_p1">“Know This, That Every Soul Is Free,” <em>Hymns,</em> no. 240.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="28827194" id="note5_p1"><a class="scripture-ref" href="/study/scriptures/nt/john/7?lang=eng&amp;id=p17#p17">John 7:17</a>.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="28827195" id="note6_p1">“What Is Eternal Life?” <em>Instructor,</em> Mar. 1968, 97.</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="28827196" id="note7_p1">David O. McKay, <em>Instructor,</em> Mar. 1968, 98.</p>
+</li>
+<li data-marker="8." id="note8" data-full-marker="8.">
+<p data-aid="28827197" id="note8_p1"><a class="scripture-ref" href="/study/scriptures/pgp/a-of-f/1?lang=eng&amp;id=p3#p3">Articles of Faith 1:3</a>.</p>
+</li>
+<li data-marker="9." id="note9" data-full-marker="9.">
+<p data-aid="28827198" id="note9_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/52?lang=eng&amp;id=p14-p16#p14">D&amp;C 52:14–16</a>.</p>
+</li>
+<li data-marker="10." id="note10" data-full-marker="10.">
+<p data-aid="28827199" id="note10_p1"><a class="scripture-ref" href="/study/scriptures/nt/john/17?lang=eng&amp;id=p3#p3">John 17:3</a>.</p>
+</li>
+<li data-marker="11." id="note11" data-full-marker="11.">
+<p data-aid="28827200" id="note11_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/18?lang=eng&amp;id=p10-p13#p10">D&amp;C 18:10–13</a>.</p>
+</li>
+<li data-marker="12." id="note12" data-full-marker="12.">
+<p data-aid="28827201" id="note12_p1"><a class="scripture-ref" href="/study/scriptures/nt/john/15?lang=eng&amp;id=p11#p11">John 15:11</a>.</p>
+</li>
+<li data-marker="13." id="note13" data-full-marker="13.">
+<p data-aid="28827202" id="note13_p1"><a class="scripture-ref" href="/study/scriptures/nt/john/14?lang=eng&amp;id=p27#p27">John 14:27</a>.</p>
+</li>
+<li data-marker="14." id="note14" data-full-marker="14.">
+<p data-aid="28827203" id="note14_p1"><a class="scripture-ref" href="/study/scriptures/nt/philip/4?lang=eng&amp;id=p7#p7">Philippians 4:7</a>.</p>
+</li>
+<li data-marker="15." id="note15" data-full-marker="15.">
+<p data-aid="28827204" id="note15_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/42?lang=eng&amp;id=p61#p61">D&amp;C 42:61</a>.</p>
+</li>
+<li data-marker="16." id="note16" data-full-marker="16.">
+<p data-aid="28827205" id="note16_p1"><a class="scripture-ref" href="/study/scriptures/bofm/2-ne/31?lang=eng&amp;id=p21#p21">2 Nephi 31:21</a>.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/2004/10/i-stand-at-the-door-and-knock</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/october-2004-general-conference/2004-10-2050-elder-ronald-t-halverson-64k-eng.mp3" length="5098243" type="audio/mpeg"/>
-      <pubDate>Sat, 02 Oct 2004 14:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/24f8475232da11ec89b6eeeeac1e02bab3803c34-64k-en.mp3" length="5241567" type="audio/mpeg"/>
+      <pubDate>Sat, 02 Oct 2004 14:00:00 -0600</pubDate>
+      <itunes:author>Ronald T. Halverson</itunes:author>
     </item>
   </channel>
 </rss>

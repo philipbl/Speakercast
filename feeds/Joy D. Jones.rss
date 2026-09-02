@@ -1,120 +1,698 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Talks By Joy D. Jones</title>
-    <link>http://philip.lundrigan.org/Speakercast/</link>
+    <link>https://philip.lundrigan.org/Speakercast/</link>
     <description>General Conference talks by Joy D. Jones.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Speakercast</generator>
     <image>
-      <url>http://philip.lundrigan.org/Speakercast/covers/Joy%20D.%20Jones.jpg</url>
+      <url>https://philip.lundrigan.org/Speakercast/covers/Joy%20D.%20Jones.jpg</url>
       <title>General Conference talks by Joy D. Jones.</title>
-      <link>http://philip.lundrigan.org/Speakercast/</link>
+      <link>https://philip.lundrigan.org/Speakercast/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 02 Apr 2017 10:00:00 -0700</lastBuildDate>
-    <pubDate>Sun, 02 Apr 2017 10:00:00 -0700</pubDate>
+    <lastBuildDate>Sat, 03 Apr 2021 10:00:00 -0600</lastBuildDate>
+    <pubDate>Sat, 03 Apr 2021 10:00:00 -0600</pubDate>
+    <itunes:author>Joy D. Jones</itunes:author>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
+    <itunes:image href="https://philip.lundrigan.org/Speakercast/covers/Joy%20D.%20Jones.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>General Conference talks by Joy D. Jones.</itunes:summary>
     <item>
       <title>A Sin-Resistant Generation</title>
-      <link>http://www.lds.org/general-conference/2017/04/a-sin-resistant-generation?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2017/04/a-sin-resistant-generation?lang=eng</link>
       <description>Sister Jones teaches that we can help children be valiant and sin resistant.</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/2017/04/a-sin-resistant-generation" dup-conf="false" dup-mag="false" schema-version="1" doc-id="general-conference_PD60003501_000_52jones" doc-version="1" hash="sTN7-Q">
-		
-		<div class="heading" uri="/general-conference/2017/04/a-sin-resistant-generation.head1">
-			<h1 class="title" pid="EX9ESkDh4E2SUKey1YR0ew" hash="Y_uW_A">A Sin-Resistant Generation</h1>
-			<div class="byline">
-				<p class="para" uri="/general-conference/2017/04/a-sin-resistant-generation.p2" pid="UaghXImZkUCiGMBonOX_cA" hash="NAAz5g1">By Joy D. Jones</p>
-				<p class="para" uri="/general-conference/2017/04/a-sin-resistant-generation.p3" pid="V44l4guzzkexQWNq8dwpLA" hash="amFNAg">Primary General President</p>
-			</div>
-			<p class="kicker" pid="q5iEgGsJvEyBSXR2a-NMDQ" hash="NaTkJA">As you teach, lead, and love children, you can receive personal revelation that will aid you in creating and arming valiant, sin-resistant children.</p>
-		<p class="authorName" pid="NHx9S6QdYESLNpQ8J-yW2w" hash="NAAz5g">By Joy D. Jones</p></div>
-		<div class="bodyBlock">
-			<p class="para" uri="/general-conference/2017/04/a-sin-resistant-generation.p5" pid="kdoYoU3Bv0WOqemEZYsZCQ" hash="dP72uw">A year and a half ago, President Russell M. Nelson spoke of the need “to teach and help raise a sin-resistant generation.”<span class="noteMarker" ref="f_1">1</span> That phrase—“a sin-resistant generation”—struck a deep spiritual chord within me.</p>
-			<p class="para" uri="/general-conference/2017/04/a-sin-resistant-generation.p6" pid="4LupW0k_NEqCnpptShPwVQ" hash="E-3qpg">We honor children who strive to live pure and obedient lives. I have witnessed the strength of many children throughout the world. They stand resilient, “steadfast and immovable”<span class="noteMarker" ref="f_2">2</span> in a variety of challenging circumstances and environments. These children understand their divine identity, feel Heavenly Father’s love for them, and seek to obey His will.</p>
-			<p class="para" uri="/general-conference/2017/04/a-sin-resistant-generation.p7" pid="qipDaBzca0mSfGruU5_xRQ" hash="6xZHQQ">However, there are children who struggle to stand “steadfast and immovable” and whose delicate minds are being wounded.<span class="noteMarker" ref="f_3">3</span> They are being attacked on every side by “the fiery darts of the adversary”<span class="noteMarker" ref="f_4">4</span> and are in need of reinforcement and support. They are an overwhelming motivation for us to step up and wage a war against sin in our effort to bring our children unto Christ.</p>
-			<p class="para" uri="/general-conference/2017/04/a-sin-resistant-generation.p8" pid="nQPTDzeiokyGPkpe_JFD6A" hash="qyh5RQ">Listen to the words of Elder Bruce R. McConkie nearly 43 years ago:</p>
-			<p class="para" uri="/general-conference/2017/04/a-sin-resistant-generation.p9" pid="TwF8O4VFnE2IGxL47Csivw" hash="MBB_gQ">“As members of the Church, we are engaged in a mighty conflict. We are at war. We have enlisted in the cause of Christ to fight against Lucifer. …</p>
-			<p class="para" uri="/general-conference/2017/04/a-sin-resistant-generation.p10" pid="X8QBCvS0XE-9luoW4iH4lw" hash="ESpj2g">“The great war that rages on every side and which unfortunately is resulting in many casualties, some fatal, is no new thing. …</p>
-			<p class="para" uri="/general-conference/2017/04/a-sin-resistant-generation.p11" pid="x4UIIYSxRkavbklR3GCN5g" hash="29L9cQ">“Now there neither are nor can be any neutrals in this war.”<span class="noteMarker" ref="f_5">5</span></p>
-			<p class="para" uri="/general-conference/2017/04/a-sin-resistant-generation.p12" pid="JQeEPooH0UelqpRllBTsFg" hash="AY5n2g">Today the war continues with increased intensity. The battle touches us all, and our children are on the front lines facing the opposing forces. Thus, the need intensifies for us to strengthen our spiritual strategies.</p>
-			<p class="para" uri="/general-conference/2017/04/a-sin-resistant-generation.p13" pid="gxmfgDzui0Kg80P2nNy0Gg" hash="Pec0rg">Fortifying children to become sin-resistant is a task and a blessing for parents, grandparents, family members, teachers, and leaders. We each bear responsibility to help. However, the Lord has specifically instructed <span class="emphasis">parents</span> to teach their children “to understand the doctrine of repentance, faith in Christ the Son of the living God, and of baptism and the gift of the Holy Ghost” and “to pray, and to walk uprightly before the Lord.”<span class="noteMarker" ref="f_6">6</span></p>
-			<p class="para" uri="/general-conference/2017/04/a-sin-resistant-generation.p14" pid="2y93dZ6o2EewuQJIZDS2zg" hash="lzraTQ">How to “bring up [our] children in light and truth”<span class="noteMarker" ref="f_7">7</span> may be a challenging question since it is individualized for each family and each child, but Heavenly Father has given universal guidelines that will help us. The Spirit will inspire us in the most effective ways we can spiritually inoculate our children.</p>
-			<p class="para" uri="/general-conference/2017/04/a-sin-resistant-generation.p15" pid="H_M947Ja6EOvBpVg3m-0lw" hash="zGhs0Q">To begin, having a vision of the importance of this responsibility is essential. We must understand our—and their—divine identity and purpose before we can help our children see <span class="emphasis">who</span> they are and <span class="emphasis">why </span>they are here. We must help them know without question that they are sons and daughters of a loving Heavenly Father and that He has divine expectations of them.</p>
-			<p class="para" uri="/general-conference/2017/04/a-sin-resistant-generation.p16" pid="l6jMUSbDFEyg9DAyE7Lx5A" hash="uw0B6A">Second, understanding the doctrine of repentance is essential for becoming resistant to sin. Being sin-resistant doesn’t mean being sinless, but it does imply being continually repentant, vigilant, and valiant. Perhaps being sin-resistant comes as a blessing from repeatedly resisting sin. As James said, “Resist the devil, and he will flee from you.”<span class="noteMarker" ref="f_8">8</span></p>
-			<p class="para" uri="/general-conference/2017/04/a-sin-resistant-generation.p17" pid="KPw0FPCdiE6Dv0FY2wZIGA" hash="bQvXTQ">The stripling warriors “were exceedingly valiant for courage … ; but behold, this was not all—they were … true at all times in whatsoever thing they were entrusted. Yea, … they had been taught to keep the commandments of God and to walk uprightly before him.”<span class="noteMarker" ref="f_9">9</span> These young men went to war carrying Christlike virtues as weapons against their adversaries. President Thomas S. Monson reminded us that “the call for courage comes constantly to each of us. Every day of our lives courage is needed—not just for the momentous events but more often as we make decisions or respond to circumstances around us.”<span class="noteMarker" ref="f_10">10</span></p>
-			<p class="para" uri="/general-conference/2017/04/a-sin-resistant-generation.p18" pid="DpfgtqV8GkCiSNVx5vrnyw" hash="mu5QYQ">Our children don spiritual armor as they establish patterns of personal daily discipleship. Perhaps we underestimate the abilities of children to grasp the concept of daily discipleship. President Henry B. Eyring counseled us to “start early and be steady.”<span class="noteMarker" ref="f_11">11</span> So a third key to helping children become sin-resistant is to begin at very early ages to lovingly infuse them with basic gospel doctrines and principles—from the scriptures, the Articles of Faith, the <span class="emphasis">For the Strength of Youth </span>booklet, Primary songs, hymns, and our own personal testimonies—that will lead children to the Savior.</p>
-			<p class="para" uri="/general-conference/2017/04/a-sin-resistant-generation.p19" pid="7bXYrEftaky_bhiMVwYWTQ" hash="p8F-ZQ">Creating consistent habits of prayer, scripture study, family home evening, and Sabbath worship leads to wholeness, internal consistency, and strong moral values—in other words, spiritual integrity. In today’s world where integrity has all but disappeared, our children deserve to understand what true integrity is and why it is so important—especially as we prepare them to make and keep sacred covenants at baptism and in the temple. As <span class="emphasis">Preach My Gospel</span> teaches, “Keeping commitments prepares people [including very young people] to make and keep sacred covenants.”<span class="noteMarker" ref="f_12">12</span></p>
-			<p class="para" uri="/general-conference/2017/04/a-sin-resistant-generation.p20" pid="id8dYX-lFEuoCjnvm46VFg" hash="EhjdPg">Elder Jeffrey R. Holland has taught, “When we talk about covenant keeping, we are talking about the heart and soul of our purpose in mortality.”<span class="noteMarker" ref="f_13">13</span> There is unusual power in making and keeping covenants with our Heavenly Father. The adversary knows this, so he has obscured the concept of covenant making.<span class="noteMarker" ref="f_14">14</span> Helping children understand, make, and keep sacred covenants is another key in creating a sin-resistant generation.</p>
-			<p class="para" uri="/general-conference/2017/04/a-sin-resistant-generation.p21" pid="Fb7KH2_wN0mAj--lBXxqmg" hash="Vv1jrA">How do we prepare our children to make and keep sacred covenants as they enter and progress along the covenant path? Teaching children to keep simple promises when they are young will empower them to keep holy covenants later in life.</p>
-			<p class="para" uri="/general-conference/2017/04/a-sin-resistant-generation.p22" pid="W5uQK1JRD02ElLGePY8KzQ" hash="C7zSSw">Let me share a simple example: In family home evening, a father asked, “How are we getting along as a family?” Five-year-old Lizzie complained that her big brother, Kevin, was teasing her too much and hurting her feelings. Kevin reluctantly admitted that Lizzie was right. Kevin’s mother asked him what he could do to get along better with his sister. Kevin thought and decided he would promise Lizzie that he would go one whole day without teasing her.</p>
-			<p class="para" uri="/general-conference/2017/04/a-sin-resistant-generation.p23" pid="NHzv_ZDH4k6yvsq_Fu-e6w" hash="du7h4g">At the end of the next day as everyone gathered for family prayer, Kevin’s dad asked Kevin how he had done. Kevin’s response was “Dad, I kept my promise!” Lizzie happily agreed, and the family congratulated Kevin.</p>
-			<p class="para" uri="/general-conference/2017/04/a-sin-resistant-generation.p24" pid="LoGozI6pUkq8IibR1JEewA" hash="tgv0Dw">Kevin’s mother then suggested that if he could keep his promise for one day, why couldn’t he do it for two days? Kevin agreed to try it again. Two days passed, Kevin was successful in keeping his promise, and Lizzie was even more thankful! When his father asked why he was keeping his promises so well, Kevin said, “I kept my promise because I said I would.”</p>
-			<p class="para" uri="/general-conference/2017/04/a-sin-resistant-generation.p25" pid="ooUFMcQIaUCqBEdazVyGwQ" hash="xwNtwQ">A succession of small, successfully kept promises leads to integrity. The consistent practice of promise keeping is spiritual preparation for children to receive their first covenant of baptism and the gift of the Holy Ghost, wherein they covenant to serve God and keep His commandments.<span class="noteMarker" ref="f_15">15</span> Promises and covenants are inseparable.</p>
-			<p class="para" uri="/general-conference/2017/04/a-sin-resistant-generation.p26" pid="71wfidJfckidAtO0RoP9NA" hash="rV_uoQ">In the book of Daniel, we learn of Shadrach, Meshach, and Abed-nego refusing to worship King Nebuchadnezzar’s idol.<span class="noteMarker" ref="f_16">16</span> The king warned them that they would be cast into a burning fiery furnace if they didn’t comply. They refused and said:</p>
-			<p class="para" uri="/general-conference/2017/04/a-sin-resistant-generation.p27" pid="ku87F09yekCl-bhN-_5CaQ" hash="ckg1RQ">“If it be so, our God whom we serve is able to deliver us from the burning fiery furnace. …</p>
-			<p class="para" uri="/general-conference/2017/04/a-sin-resistant-generation.p28" pid="z787iGo7EUqrh0lRrVh_5Q" hash="KJML8w">“But if not, be it known unto thee, O king, that we will not serve thy gods.”<span class="noteMarker" ref="f_17">17</span></p>
-			<p class="para" uri="/general-conference/2017/04/a-sin-resistant-generation.p29" pid="C75PHLDgRkCp5O3bKxbNjw" hash="HrrolQ">“But if not.” Consider the meaning of these three words and how they relate to keeping covenants. These three young men were not basing their obedience upon being delivered. Even if they were not delivered, they would keep their promise to the Lord because they said they would. Keeping our covenants is always independent of our situation. These three young men, just as the stripling warriors, are wonderful examples of sin-resistance for our children.</p>
-			<p class="para" uri="/general-conference/2017/04/a-sin-resistant-generation.p30" pid="akSgPtziWU-TUtsS_xewGw" hash="z5rdUg">How do these examples apply in our homes and to our families? “Line upon line, precept upon precept,”<span class="noteMarker" ref="f_18">18</span> we help children taste success in small bites. As they keep their promises, they feel the Spirit in their lives. Elder Joseph B. Wirthlin taught that “the consummate reward of integrity is the constant companionship of the Holy Ghost.”<span class="noteMarker" ref="f_19">19</span> Then shall our children’s “confidence wax strong in the presence of God.”<span class="noteMarker" ref="f_20">20</span> Out of the well of integrity springs an empowered, sin-resistant generation.</p>
-			<p class="para" uri="/general-conference/2017/04/a-sin-resistant-generation.p31" pid="fgX467SYvEqpyz5IdFCGDA" hash="_nFj4A">Brothers and sisters, hold your little ones close—so close that they see your daily religious behavior and watch you keeping your promises and covenants. “Children are great imitators, so give them something great to imitate.”<span class="noteMarker" ref="f_21">21</span> We are indeed helping to teach and raise a sin-resistant generation unto the Lord promise by promise and covenant by covenant.</p>
-			<p class="para" uri="/general-conference/2017/04/a-sin-resistant-generation.p32" pid="spDAvjpo_kKy0dRSkWaNVw" hash="wIYwBg">I testify that Jesus Christ leads this Church. As you teach, lead, and love children in the Savior’s way, you can receive personal revelation that will aid you in creating and arming valiant, sin-resistant children. My prayer is that our children will echo the words of Nephi: “Wilt thou make me that I may shake at the appearance of sin?”<span class="noteMarker" ref="f_22">22</span> I testify that our Savior atoned for the sins of the world<span class="noteMarker" ref="f_23">23</span>—because He said He would—and that He loves us more than we mere mortals can even comprehend<span class="noteMarker" ref="f_24">24</span>—because He said He would. In the name of Jesus Christ, amen.</p>
-		</div>
-		
-	</div>]]></content:encoded>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="87"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/a92202121622746e26299706c775fb9a175d1504/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/a92202121622746e26299706c775fb9a175d1504/full/%21192%2C/0/default" data-video-title="A Sin-Resistant Generation" data-video-description="Sister Jones teaches that we can help children be valiant and sin resistant." data-video-id="5382983764001" data-ip="Download and Streaming                            " data-duration="683000" data-assetId="5025e74800ac2be85dc622c7504bfdacc94da508" data-ref-id="5025e74800ac2be85dc622c7504bfdacc94da508" data-duration-string="11:23" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/5382983764001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="207482065"/><source src="https://assets.churchofjesuschrist.org/5025e74800ac2be85dc622c7504bfdacc94da508-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="58060549"/><source src="https://assets.churchofjesuschrist.org/5025e74800ac2be85dc622c7504bfdacc94da508-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="81543281"/><source src="https://assets.churchofjesuschrist.org/5025e74800ac2be85dc622c7504bfdacc94da508-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="207482065"/></video><h1 data-aid="133345863" id="title1">A Sin-Resistant Generation</h1>
+<div class="byline">
+<p class="author-name" data-aid="133345864" id="p1">By Joy D. Jones</p>
+<p class="author-role" data-aid="133345865" id="p2">Primary General President</p>
+<div class="image-cropper"><img alt="Joy D. Jones" class="headshot" data-deprecate-web-url="joy-jones-official-portrait-2016_1818238.jpg" id="img1" src="https://www.churchofjesuschrist.org/imgs/a518ea8814974515ed9fdc7219257d2c76e80dd5/full/%21100%2C/0/default" data-assetId="a518ea8814974515ed9fdc7219257d2c76e80dd5" srcset="https://www.churchofjesuschrist.org/imgs/a518ea8814974515ed9fdc7219257d2c76e80dd5/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/a518ea8814974515ed9fdc7219257d2c76e80dd5/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/a518ea8814974515ed9fdc7219257d2c76e80dd5/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/a518ea8814974515ed9fdc7219257d2c76e80dd5/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/a518ea8814974515ed9fdc7219257d2c76e80dd5/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/a518ea8814974515ed9fdc7219257d2c76e80dd5/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/a518ea8814974515ed9fdc7219257d2c76e80dd5/full/%21640%2C/0/default 640w" data-img-id="a518ea8814974515ed9fdc7219257d2c76e80dd5" data-missing-asset="false" data-width="100" data-height="138" data-aspect-ratio="0.7246376811594203" data-public-title="Joy D. Jones" data-public-description="Official Portrait (as of Oct 2016) of Sister Joy D. Jones, General Primary President."/></div>
+</div>
+<p class="kicker" data-aid="133345866" id="kicker1">As you teach, lead, and love children, you can receive personal revelation that will aid you in creating and arming valiant, sin-resistant children.</p>
+</header>
+<div class="body-block">
+<p data-aid="133345867" id="p3">A year and a half ago, President Russell M. Nelson spoke of the need “to teach and help raise a sin-resistant generation.”<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a> That phrase—“a sin-resistant generation”—struck a deep spiritual chord within me.</p>
+<p data-aid="133345868" id="p4">We honor children who strive to live pure and obedient lives. I have witnessed the strength of many children throughout the world. They stand resilient, “steadfast and immovable”<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a> in a variety of challenging circumstances and environments. These children understand their divine identity, feel Heavenly Father’s love for them, and seek to obey His will.</p>
+<p data-aid="133345869" id="p5">However, there are children who struggle to stand “steadfast and immovable” and whose delicate minds are being wounded.<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a> They are being attacked on every side by “the fiery darts of the adversary”<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a> and are in need of reinforcement and support. They are an overwhelming motivation for us to step up and wage a war against sin in our effort to bring our children unto Christ.</p>
+<p data-aid="133345870" id="p6">Listen to the words of Elder Bruce R. McConkie nearly 43 years ago:</p>
+<p data-aid="133345871" id="p7">“As members of the Church, we are engaged in a mighty conflict. We are at war. We have enlisted in the cause of Christ to fight against Lucifer. …</p>
+<p data-aid="133345872" id="p8">“The great war that rages on every side and which unfortunately is resulting in many casualties, some fatal, is no new thing. …</p>
+<span class="page-break" data-page="88"></span>
+<p data-aid="133345873" id="p9">“Now there neither are nor can be any neutrals in this war.”<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a></p>
+<p data-aid="133345874" id="p10">Today the war continues with increased intensity. The battle touches us all, and our children are on the front lines facing the opposing forces. Thus, the need intensifies for us to strengthen our spiritual strategies.</p>
+<p data-aid="133345875" id="p11">Fortifying children to become sin-resistant is a task and a blessing for parents, grandparents, family members, teachers, and leaders. We each bear responsibility to help. However, the Lord has specifically instructed <em>parents</em> to teach their children “to understand the doctrine of repentance, faith in Christ the Son of the living God, and of baptism and the gift of the Holy Ghost” and “to pray, and to walk uprightly before the Lord.”<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a></p>
+<p data-aid="133345876" id="p12">How to “bring up [our] children in light and truth”<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a> may be a challenging question since it is individualized for each family and each child, but Heavenly Father has given universal guidelines that will help us. The Spirit will inspire us in the most effective ways we can spiritually inoculate our children.</p>
+<p data-aid="133345877" id="p13">To begin, having a vision of the importance of this responsibility is essential. We must understand our—and their—divine identity and purpose before we can help our children see <em>who</em> they are and <em>why</em> they are here. We must help them know without question that they are sons and daughters of a loving Heavenly Father and that He has divine expectations of them.</p>
+<p data-aid="133345878" id="p14">Second, understanding the doctrine of repentance is essential for becoming resistant to sin. Being sin-resistant doesn’t mean being sinless, but it does imply being continually repentant, vigilant, and valiant. Perhaps being sin-resistant comes as a blessing from repeatedly resisting sin. As James said, “Resist the devil, and he will flee from you.”<a class="note-ref" href="#note8"><sup class="marker" data-value="8"></sup></a></p>
+<p data-aid="133345879" id="p15">The stripling warriors “were exceedingly valiant for courage … ; but behold, this was not all—they were … true at all times in whatsoever thing they were entrusted. Yea, … they had been taught to keep the commandments of God and to walk uprightly before him.”<a class="note-ref" href="#note9"><sup class="marker" data-value="9"></sup></a> These young men went to war carrying Christlike virtues as weapons against their adversaries. President Thomas S. Monson reminded us that “the call for courage comes constantly to each of us. Every day of our lives courage is needed—not just for the momentous events but more often as we make decisions or respond to circumstances around us.”<a class="note-ref" href="#note10"><sup class="marker" data-value="10"></sup></a></p>
+<p data-aid="133345880" id="p16">Our children don spiritual armor as they establish patterns of personal daily discipleship. Perhaps we underestimate the abilities of children to grasp the concept of daily discipleship. President Henry B. Eyring counseled us to “start early and be steady.”<a class="note-ref" href="#note11"><sup class="marker" data-value="11"></sup></a> So a third key to helping children become sin-resistant is to begin at very early ages to lovingly infuse them with basic gospel doctrines and principles—from the scriptures, the Articles of Faith, the <em>For the Strength of Youth</em> booklet, Primary songs, hymns, and our own personal testimonies—that will lead children to the Savior.</p>
+<span class="page-break" data-page="89"></span>
+<p data-aid="133345881" id="p17">Creating consistent habits of prayer, scripture study, family home evening, and Sabbath worship leads to wholeness, internal consistency, and strong moral values—in other words, spiritual integrity. In today’s world where integrity has all but disappeared, our children deserve to understand what true integrity is and why it is so important—especially as we prepare them to make and keep sacred covenants at baptism and in the temple. As <em>Preach My Gospel</em> teaches, “Keeping commitments prepares people [including very young people] to make and keep sacred covenants.”<a class="note-ref" href="#note12"><sup class="marker" data-value="12"></sup></a></p>
+<p data-aid="133345882" id="p18">Elder Jeffrey R. Holland has taught, “When we talk about covenant keeping, we are talking about the heart and soul of our purpose in mortality.”<a class="note-ref" href="#note13"><sup class="marker" data-value="13"></sup></a> There is unusual power in making and keeping covenants with our Heavenly Father. The adversary knows this, so he has obscured the concept of covenant making.<a class="note-ref" href="#note14"><sup class="marker" data-value="14"></sup></a> Helping children understand, make, and keep sacred covenants is another key in creating a sin-resistant generation.</p>
+<p data-aid="133345883" id="p19">How do we prepare our children to make and keep sacred covenants as they enter and progress along the covenant path? Teaching children to keep simple promises when they are young will empower them to keep holy covenants later in life.</p>
+<p data-aid="133345885" id="p20">Let me share a simple example: In family home evening, a father asked, “How are we getting along as a family?” Five-year-old Lizzie complained that her big brother, Kevin, was teasing her too much and hurting her feelings. Kevin reluctantly admitted that Lizzie was right. Kevin’s mother asked him what he could do to get along better with his sister. Kevin thought and decided he would promise Lizzie that he would go one whole day without teasing her.</p>
+<p data-aid="133345887" id="p21">At the end of the next day as everyone gathered for family prayer, Kevin’s dad asked Kevin how he had done. Kevin’s response was “Dad, I kept my promise!” Lizzie happily agreed, and the family congratulated Kevin.</p>
+<p data-aid="133345888" id="p22">Kevin’s mother then suggested that if he could keep his promise for one day, why couldn’t he do it for two days? Kevin agreed to try it again. Two days passed, Kevin was successful in keeping his promise, and Lizzie was even more thankful! When his father asked why he was keeping his promises so well, Kevin said, “I kept my promise because I said I would.”</p>
+<p data-aid="133345890" id="p23">A succession of small, successfully kept promises leads to integrity. The consistent practice of promise keeping is spiritual preparation for children to receive their first covenant of baptism and the gift of the Holy Ghost, wherein they covenant to serve God and keep His commandments.<a class="note-ref" href="#note15"><sup class="marker" data-value="15"></sup></a> Promises and covenants are inseparable.</p>
+<p data-aid="133345892" id="p24">In the book of Daniel, we learn of Shadrach, Meshach, and Abed-nego refusing to worship King Nebuchadnezzar’s idol.<a class="note-ref" href="#note16"><sup class="marker" data-value="16"></sup></a> The king warned them that they would be cast into a burning fiery furnace if they didn’t comply. They refused and said:</p>
+<p data-aid="133345893" id="p25">“If it be so, our God whom we serve is able to deliver us from the burning fiery furnace. …</p>
+<p data-aid="133345895" id="p26">“But if not, be it known unto thee, O king, that we will not serve thy gods.”<a class="note-ref" href="#note17"><sup class="marker" data-value="17"></sup></a></p>
+<p data-aid="133345897" id="p27">“But if not.” Consider the meaning of these three words and how they relate to keeping covenants. These three young men were not basing their obedience upon being delivered. Even if they were not delivered, they would keep their promise to the Lord because they said they would. Keeping our covenants is always independent of our situation. These three young men, just as the stripling warriors, are wonderful examples of sin-resistance for our children.</p>
+<p data-aid="133345898" id="p28">How do these examples apply in our homes and to our families? “Line upon line, precept upon precept,”<a class="note-ref" href="#note18"><sup class="marker" data-value="18"></sup></a> we help children taste success in small bites. As they keep their promises, they feel the Spirit in their lives. Elder Joseph B. Wirthlin taught that “the consummate reward of integrity is the constant companionship of the Holy Ghost.”<a class="note-ref" href="#note19"><sup class="marker" data-value="19"></sup></a> Then shall our children’s “confidence wax strong in the presence of God.”<a class="note-ref" href="#note20"><sup class="marker" data-value="20"></sup></a> Out of the well of integrity springs an empowered, sin-resistant generation.</p>
+<p data-aid="133345900" id="p29">Brothers and sisters, hold your little ones close—so close that they see your daily religious behavior and watch you keeping your promises and covenants. “Children are great imitators, so give them something great to imitate.”<a class="note-ref" href="#note21"><sup class="marker" data-value="21"></sup></a> <span class="page-break" data-page="90"></span>We are indeed helping to teach and raise a sin-resistant generation unto the Lord promise by promise and covenant by covenant.</p>
+<p data-aid="133345902" id="p30">I testify that Jesus Christ leads this Church. As you teach, lead, and love children in the Savior’s way, you can receive personal revelation that will aid you in creating and arming valiant, sin-resistant children. My prayer is that our children will echo the words of Nephi: “Wilt thou make me that I may shake at the appearance of sin?”<a class="note-ref" href="#note22"><sup class="marker" data-value="22"></sup></a> I testify that our Savior atoned for the sins of the world<a class="note-ref" href="#note23"><sup class="marker" data-value="23"></sup></a>—because He said He would—and that He loves us more than we mere mortals can even comprehend<a class="note-ref" href="#note24"><sup class="marker" data-value="24"></sup></a>—because He said He would. In the name of Jesus Christ, amen.</p>
+</div>
+<footer class="notes">
+<p class="title" data-aid="133345904" id="notetitle1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="133345905" id="note1_p1">Russell M. Nelson, “<a class="cross-ref" href="/study/general-conference/2015/10/a-plea-to-my-sisters?lang=eng">A Plea to My Sisters</a>,” <em>Ensign</em> or <em>Liahona,</em> Nov. 2015, 97.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="133345907" id="note2_p1"><a class="scripture-ref" href="/study/scriptures/bofm/mosiah/5?lang=eng&amp;id=p15#p15">Mosiah 5:15</a>.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="133345909" id="note3_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/jacob/2?lang=eng&amp;id=p9#p9">Jacob 2:9</a>.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="133345912" id="note4_p1"><a class="scripture-ref" href="/study/scriptures/bofm/1-ne/15?lang=eng&amp;id=p24#p24">1 Nephi 15:24</a>; see also <a class="scripture-ref" href="/study/scriptures/bofm/hel/5?lang=eng&amp;id=p12#p12">Helaman 5:12</a>.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="133345914" id="note5_p1">Bruce R. McConkie, “<a class="cross-ref" href="/study/general-conference/1974/10/be-valiant-in-the-fight-of-faith?lang=eng">Be Valiant in the Fight of Faith</a>,” <em>Ensign,</em> Nov. 1974, 33, 34.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="133345915" id="note6_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/68?lang=eng&amp;id=p25%2Cp28#p25">Doctrine and Covenants 68:25, 28</a>.</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="133345917" id="note7_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/93?lang=eng&amp;id=p40#p40">Doctrine and Covenants 93:40</a>.</p>
+</li>
+<li data-marker="8." id="note8" data-full-marker="8.">
+<p data-aid="133345919" id="note8_p1"><a class="scripture-ref" href="/study/scriptures/nt/james/4?lang=eng&amp;id=p7#p7">James 4:7</a>; see also <a class="scripture-ref" href="/study/scriptures/bofm/alma/19?lang=eng&amp;id=p33#p33">Alma 19:33</a>.</p>
+</li>
+<li data-marker="9." id="note9" data-full-marker="9.">
+<p data-aid="133345921" id="note9_p1"><a class="scripture-ref" href="/study/scriptures/bofm/alma/53?lang=eng&amp;id=p20-p21#p20">Alma 53:20–21</a>.</p>
+</li>
+<li data-marker="10." id="note10" data-full-marker="10.">
+<p data-aid="133345923" id="note10_p1">Thomas S. Monson, “<a class="cross-ref" href="/study/general-conference/2014/04/be-strong-and-of-a-good-courage?lang=eng">Be Strong and of a Good Courage</a>,” <em>Ensign</em> or <em>Liahona,</em> May 2014, 67.</p>
+</li>
+<li data-marker="11." id="note11" data-full-marker="11.">
+<p data-aid="133345925" id="note11_p1">Henry B. Eyring, “<a class="cross-ref" href="/study/general-conference/2005/10/spiritual-preparedness-start-early-and-be-steady?lang=eng">Spiritual Preparedness: Start Early and Be Steady</a>,” <em>Ensign</em> or <em>Liahona,</em> Nov. 2005, 37.</p>
+</li>
+<li data-marker="12." id="note12" data-full-marker="12.">
+<p data-aid="133345927" id="note12_p1"><a class="cross-ref" href="/study/manual/preach-my-gospel-a-guide-to-missionary-service/how-do-i-help-people-make-and-keep-commitments?lang=eng"><em>Preach My Gospel: A Guide to Missionary Service</em></a> (2004), 196.</p>
+</li>
+<li data-marker="13." id="note13" data-full-marker="13.">
+<p data-aid="133345929" id="note13_p1">Jeffrey R. Holland, “<a class="cross-ref" href="/study/new-era/2012/01/keeping-covenants-a-message-for-those-who-will-serve-a-mission?lang=eng">Keeping Covenants: A Message for Those Who Will Serve a Mission</a>,” <em>New Era,</em> Jan. 2012, 2.</p>
+</li>
+<li data-marker="14." id="note14" data-full-marker="14.">
+<p data-aid="133345931" id="note14_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/1-ne/13?lang=eng&amp;id=p26-p28#p26">1 Nephi 13:26–28</a>.</p>
+</li>
+<li data-marker="15." id="note15" data-full-marker="15.">
+<p data-aid="133345933" id="note15_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/mosiah/18?lang=eng&amp;id=p10#p10">Mosiah 18:10</a>.</p>
+</li>
+<li data-marker="16." id="note16" data-full-marker="16.">
+<p data-aid="133345934" id="note16_p1">See <a class="scripture-ref" href="/study/scriptures/ot/dan/3?lang=eng">Daniel 3</a>.</p>
+</li>
+<li data-marker="17." id="note17" data-full-marker="17.">
+<p data-aid="133345937" id="note17_p1"><a class="scripture-ref" href="/study/scriptures/ot/dan/3?lang=eng&amp;id=p17-p18#p17">Daniel 3:17–18</a>.</p>
+</li>
+<li data-marker="18." id="note18" data-full-marker="18.">
+<p data-aid="133345939" id="note18_p1"><a class="scripture-ref" href="/study/scriptures/bofm/2-ne/28?lang=eng&amp;id=p30#p30">2 Nephi 28:30</a>.</p>
+</li>
+<li data-marker="19." id="note19" data-full-marker="19.">
+<p data-aid="133345940" id="note19_p1">Joseph B. Wirthlin, “<a class="cross-ref" href="/study/general-conference/1990/04/personal-integrity?lang=eng">Personal Integrity</a>,” <em>Ensign,</em> May 1990, 33.</p>
+</li>
+<li data-marker="20." id="note20" data-full-marker="20.">
+<p data-aid="133345942" id="note20_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/121?lang=eng&amp;id=p45#p45">Doctrine and Covenants 121:45</a>.</p>
+</li>
+<li data-marker="21." id="note21" data-full-marker="21.">
+<p data-aid="133345944" id="note21_p1">Anonymous.</p>
+</li>
+<li data-marker="22." id="note22" data-full-marker="22.">
+<p data-aid="133345946" id="note22_p1"><a class="scripture-ref" href="/study/scriptures/bofm/2-ne/4?lang=eng&amp;id=p31#p31">2 Nephi 4:31</a>.</p>
+</li>
+<li data-marker="23." id="note23" data-full-marker="23.">
+<p data-aid="133345948" id="note23_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/3-ne/27?lang=eng&amp;id=p14-p15#p14">3 Nephi 27:14–15</a>.</p>
+</li>
+<li data-marker="24." id="note24" data-full-marker="24.">
+<p data-aid="133345950" id="note24_p1">See <a class="scripture-ref" href="/study/scriptures/nt/john/15?lang=eng&amp;id=p13#p13">John 15:13</a>.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/2017/04/a-sin-resistant-generation</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/april-2017-general-conference/2017-04-4020-joy-d-jones-64k-eng.mp3" length="5495261" type="audio/mpeg"/>
-      <pubDate>Sun, 02 Apr 2017 10:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/5a74671a0c2d11ecbf18eeeeac1e5d0b6a17d2a4-64k-en.mp3" length="5747899" type="audio/mpeg"/>
+      <pubDate>Sun, 02 Apr 2017 10:00:00 -0600</pubDate>
+      <itunes:author>Joy D. Jones</itunes:author>
     </item>
     <item>
       <title>Value beyond Measure</title>
-      <link>http://www.lds.org/general-conference/2017/10/value-beyond-measure?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2017/10/value-beyond-measure?lang=eng</link>
       <description>Sister Jones teaches that the Spirit can confirm to us the truth of our divine worth. Our love for the Savior can help us overcome weaknesses and self-doubts.</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/2017/10/value-beyond-measure" dup-conf="false" dup-mag="false" schema-version="1" doc-id="general-conference_PD60003502_000_13jones" doc-version="1" hash="iAtInw">
-		
-		<div class="heading" uri="/general-conference/2017/10/value-beyond-measure.head1">
-			<h1 class="title" pid="Su8BPsJCuk6XCzL8FlpStw" hash="exevxg">Value beyond Measure</h1>
-			<div class="byline">
-				<p class="para" uri="/general-conference/2017/10/value-beyond-measure.p2" pid="lusg6ARxLEGiqv8xIbcYKQ" hash="NAAz5g1">By Joy D. Jones</p>
-				<p class="para" uri="/general-conference/2017/10/value-beyond-measure.p3" pid="bcF7eDy3PE-a8FZR6z4bkg" hash="amFNAg">Primary General President</p>
-			</div>
-			<p class="kicker" pid="X6YWOTqTGkmzYEfmTRFQlQ" hash="V2kN2w">We can frequently savor the sweet whisperings of the Holy Ghost verifying the truth of our spiritual worth.</p>
-		<p class="authorName" pid="3lygAEi6kE65H61tAM6ZIA" hash="NAAz5g">By Joy D. Jones</p></div>
-		<div class="bodyBlock">
-			<p class="para" uri="/general-conference/2017/10/value-beyond-measure.p5" pid="gBc-yXKc_ky1zYtcHrhptw" hash="-aA_KA">While visiting the country of Sierra Leone in West Africa, I participated in a meeting conducted by a stake Primary leader. Mariama led with such love, grace, and confidence that it was easy to assume she had long been a member of the Church. Mariama, however, was a fairly recent convert.</p>
-			<a href="gl://image/?pid=bCy9kTeniU2wjm35nYilIQ"><img xmlns="" xmlns:xi="http://www.w3.org/2001/XInclude" src="https://edge.ldscdn.org/mobile/images/1972176/9b77515f5d154b68b314afe8b24b2d32/100x112.jpg" data-multi-src="true" data-src-50x56="https://edge.ldscdn.org/mobile/images/1972176/9b77515f5d154b68b314afe8b24b2d32/50x56.jpg" data-src-100x112="https://edge.ldscdn.org/mobile/images/1972176/9b77515f5d154b68b314afe8b24b2d32/100x112.jpg" data-src-200x225="https://edge.ldscdn.org/mobile/images/1972176/9b77515f5d154b68b314afe8b24b2d32/200x225.jpg" data-src-320x360="https://edge.ldscdn.org/mobile/images/1972176/9b77515f5d154b68b314afe8b24b2d32/320x360.jpg" data-src-460x517="https://edge.ldscdn.org/mobile/images/1972176/9b77515f5d154b68b314afe8b24b2d32/460x517.jpg" data-src-640x720="https://edge.ldscdn.org/mobile/images/1972176/9b77515f5d154b68b314afe8b24b2d32/640x720.jpg" data-src-1024x1152="https://edge.ldscdn.org/mobile/images/1972176/9b77515f5d154b68b314afe8b24b2d32/1024x1152.jpg" data-src-1600x1800="https://edge.ldscdn.org/mobile/images/1972176/9b77515f5d154b68b314afe8b24b2d32/1600x1800.jpg" altText="Mariama and her daughter" pid="bCy9kTeniU2wjm35nYilIQ" hash="AAAAAA2"></img></a>
-			<p class="para" uri="/general-conference/2017/10/value-beyond-measure.p6" pid="IYwMD90NH0uYMshD-UE4Mw" hash="j0jrzQ">Her younger sister joined the Church and invited Mariama to attend a Church class with her. Mariama was deeply impressed by the message. The lesson was on the law of chastity. She asked to have the missionaries teach her more and soon received a testimony of the Prophet Joseph Smith. She was baptized in 2014, and her daughter was baptized last month. Imagine, the two fundamental teachings that led to Mariama’s conversion were the law of chastity and the Prophet Joseph Smith, two points the world often sees as irrelevant, outdated, or inconvenient. But Mariama testified that she was like a moth attracted to the light. She said, “When I found the gospel, I found myself.” She discovered her worth through divine principles. Her value as a daughter of God was revealed to her through the Holy Ghost.</p>
-			<p class="para" uri="/general-conference/2017/10/value-beyond-measure.p7" pid="ucR0Cl5kdku5MCwwCKDz7Q" hash="blmfcA">Now let’s meet the Singh sisters from India. Renu, on the far right, the first of five sisters to join the Church, shared these thoughts:</p>
-			<a href="gl://image/?pid=aVYRUjs2ckmSAuKwHgu50g"><img xmlns="" xmlns:xi="http://www.w3.org/2001/XInclude" src="https://edge.ldscdn.org/mobile/images/1972178/a0f448ae03334ead80f6b014d0835d04/200x129.jpg" data-multi-src="true" data-src-50x32="https://edge.ldscdn.org/mobile/images/1972178/a0f448ae03334ead80f6b014d0835d04/50x32.jpg" data-src-100x64="https://edge.ldscdn.org/mobile/images/1972178/a0f448ae03334ead80f6b014d0835d04/100x64.jpg" data-src-200x129="https://edge.ldscdn.org/mobile/images/1972178/a0f448ae03334ead80f6b014d0835d04/200x129.jpg" data-src-320x206="https://edge.ldscdn.org/mobile/images/1972178/a0f448ae03334ead80f6b014d0835d04/320x206.jpg" data-src-460x296="https://edge.ldscdn.org/mobile/images/1972178/a0f448ae03334ead80f6b014d0835d04/460x296.jpg" data-src-640x412="https://edge.ldscdn.org/mobile/images/1972178/a0f448ae03334ead80f6b014d0835d04/640x412.jpg" data-src-1024x660="https://edge.ldscdn.org/mobile/images/1972178/a0f448ae03334ead80f6b014d0835d04/1024x660.jpg" data-src-2048x1321="https://edge.ldscdn.org/mobile/images/1972178/a0f448ae03334ead80f6b014d0835d04/2048x1321.jpg" data-src-2790x1800="https://edge.ldscdn.org/mobile/images/1972178/a0f448ae03334ead80f6b014d0835d04/2790x1800.jpg" altText="Singh sisters" pid="aVYRUjs2ckmSAuKwHgu50g" hash="AAAAAA1"></img></a>
-			<p class="para" uri="/general-conference/2017/10/value-beyond-measure.p8" pid="n_1r3j4kpUqa_4wV616M7Q" hash="U-O1SA">“Before I started investigating the Church, I didn’t really feel that I was very special. I was just one of many people, and my society and culture didn’t really teach me that I had any value as an individual. When I learned the gospel and learned that I was a daughter of our Heavenly Father, it changed me. Suddenly I felt so special—God had actually created me and had created my soul and my life with value and purpose.</p>
-			<p class="para" uri="/general-conference/2017/10/value-beyond-measure.p9" pid="fQjUT0Tln0qtqdzOxidEdA" hash="eXZWdA">“Before I had the gospel in my life, I was always trying to prove to others that I was someone special. But when I learned the truth, that I am a daughter of God, I didn’t have to prove anything to anyone. I knew that I was special. … Don’t ever think that you are nothing.”</p>
-			<p class="para" uri="/general-conference/2017/10/value-beyond-measure.p10" pid="6Nt56Glwf0yh_v_tYXboiQ" hash="Tx7yTQ">President Thomas S. Monson said it perfectly when he quoted these words: “The worth of a soul is its capacity to become as God.”<span class="noteMarker" ref="f_1">1</span></p>
-			<a href="gl://image/?pid=6hCuE4HHtk2e1eJGR3PI-w"><img xmlns="" xmlns:xi="http://www.w3.org/2001/XInclude" src="https://edge.ldscdn.org/mobile/images/1972180/a5983896ecb54f21a508429f80cb1693/200x129.jpg" data-multi-src="true" data-src-50x32="https://edge.ldscdn.org/mobile/images/1972180/a5983896ecb54f21a508429f80cb1693/50x32.jpg" data-src-100x64="https://edge.ldscdn.org/mobile/images/1972180/a5983896ecb54f21a508429f80cb1693/100x64.jpg" data-src-200x129="https://edge.ldscdn.org/mobile/images/1972180/a5983896ecb54f21a508429f80cb1693/200x129.jpg" data-src-320x206="https://edge.ldscdn.org/mobile/images/1972180/a5983896ecb54f21a508429f80cb1693/320x206.jpg" data-src-460x296="https://edge.ldscdn.org/mobile/images/1972180/a5983896ecb54f21a508429f80cb1693/460x296.jpg" data-src-640x412="https://edge.ldscdn.org/mobile/images/1972180/a5983896ecb54f21a508429f80cb1693/640x412.jpg" data-src-1024x660="https://edge.ldscdn.org/mobile/images/1972180/a5983896ecb54f21a508429f80cb1693/1024x660.jpg" data-src-2048x1321="https://edge.ldscdn.org/mobile/images/1972180/a5983896ecb54f21a508429f80cb1693/2048x1321.jpg" data-src-2790x1800="https://edge.ldscdn.org/mobile/images/1972180/a5983896ecb54f21a508429f80cb1693/2790x1800.jpg" altText="Taiana" pid="6hCuE4HHtk2e1eJGR3PI-w" hash="AAAAAA"></img></a>
-			<p class="para" uri="/general-conference/2017/10/value-beyond-measure.p11" pid="CWIxE5jbPEyHHnq3iWtt_A" hash="_VNY2g">I was recently blessed to meet another young woman who understands this same truth. Her name is Taiana. I met her at Primary Children’s Hospital in Salt Lake City. Taiana was a junior in high school when she was diagnosed with cancer. She fought a brave battle for 18 months before passing away a few short weeks ago. Taiana was full of light and love. She was known for her contagious smile and her trademark “double thumbs-up.” When others asked, “Why you, Taiana?” her response was, “Why not me?” Taiana sought to become like her Savior, whom she so dearly loved. During our visits, I learned that Taiana understood her divine worth. Knowing she was a daughter of God gave her peace and courage to face her overwhelming trial in the positive way she did.</p>
-			<p class="para" uri="/general-conference/2017/10/value-beyond-measure.p12" pid="Ojj6r0yO6kuM2tG__CaMhA" hash="J58rYA">Mariama, Renu, and Taiana teach us that the Spirit will confirm to each of us individually our divine worth. Truly knowing that you are a daughter of God will affect every aspect of your life and guide you in the service you render each day. President Spencer W. Kimball explained in these glorious words:</p>
-			<p class="para" uri="/general-conference/2017/10/value-beyond-measure.p13" pid="2Mh6SBubOk2fZjKR2S4cww" hash="8px4Ew">“God is your Father. He loves you. He and your mother in heaven value you beyond any measure. … You are unique. One of a kind, made of the eternal intelligence which gives you claim upon eternal life.</p>
-			<p class="para" uri="/general-conference/2017/10/value-beyond-measure.p14" pid="eDaPRo-9wU2KU6LKX4n9Jg" hash="D_aXUQ">“Let there be no question in your mind about your value as an individual. The whole intent of the gospel plan is to provide an opportunity for each of you to reach your fullest potential, which is eternal progression and the possibility of godhood.”<span class="noteMarker" ref="f_2">2</span></p>
-			<p class="para" uri="/general-conference/2017/10/value-beyond-measure.p15" pid="IKk8pql2_E6A1evs_Z2_aA" hash="kCYERg">Let me point out the need to differentiate between two critical words: <span class="emphasis">worth</span> and <span class="emphasis">worthiness.</span> They are not the same. Spiritual <span class="emphasis">worth</span> means to value ourselves the way Heavenly Father values us, not as the world values us. Our worth was determined before we ever came to this earth. “God’s love is infinite and it will endure forever.”<span class="noteMarker" ref="f_3">3</span></p>
-			<p class="para" uri="/general-conference/2017/10/value-beyond-measure.p16" pid="69JlQTvp-EmjfwXgha0T-w" hash="uMXdoQ">On the other hand, <span class="emphasis">worthiness</span> is achieved through obedience. If we sin, we are less worthy, but we are never worth less! We continue to repent and strive to be like Jesus with our worth intact. As President Brigham Young taught: “The least, the most inferior spirit now upon the earth … is worth worlds.”<span class="noteMarker" ref="f_4">4</span> No matter what, we always have worth in the eyes of our Heavenly Father.</p>
-			<p class="para" uri="/general-conference/2017/10/value-beyond-measure.p17" pid="l8wUpxw7ikCwmCYCavR1gg" hash="OMYa1Q">Despite this marvelous truth, how many of us struggle, from time to time, with negative thoughts or feelings about ourselves? I do. It’s an easy trap. Satan is the father of all lies, especially when it comes to misrepresentations about our own divine nature and purpose. Thinking small about ourselves does not serve us well. Instead it holds us back. As we’ve often been taught, “No one can make you feel inferior without your consent.”<span class="noteMarker" ref="f_5">5</span> We can stop comparing our worst to someone else’s best. “Comparison is the thief of joy.”<span class="noteMarker" ref="f_6">6</span></p>
-			<p class="para" uri="/general-conference/2017/10/value-beyond-measure.p18" pid="1Qt_Gvc710SDUuUwqJgZNA" hash="qX3tGA">In contrast, the Lord assures us that when we have virtuous thoughts, He will bless us with confidence, even the confidence to know who we really are. There’s never been a more crucial time to heed His words. “Let virtue garnish thy thoughts unceasingly,” He said. “Then shall thy confidence wax strong in the presence of God; and … the Holy Ghost shall be thy constant companion.”<span class="noteMarker" ref="f_7">7</span></p>
-			<p class="para" uri="/general-conference/2017/10/value-beyond-measure.p19" pid="EUguk_ur6kCMZ9TP-IDyzA" hash="EhmMdQ">The Lord revealed this additional truth to the Prophet Joseph Smith: “He that receiveth of God, let him account it of God; and let him rejoice that he is accounted of God worthy to receive.”<span class="noteMarker" ref="f_8">8</span> When we feel the Spirit, as this verse explains, we recognize that what we feel comes from our Heavenly Father. We acknowledge Him and praise Him for blessing us. We then rejoice that we are counted worthy to receive.</p>
-			<p class="para" uri="/general-conference/2017/10/value-beyond-measure.p20" pid="5Etb7ZRgUECFmco5DOjE6A" hash="RQLN7g">Imagine that you are reading the scriptures one morning and the Spirit softly whispers to you that what you are reading is true. Can you recognize the Spirit and be happy that you felt His love and were worthy to receive?</p>
-			<p class="para" uri="/general-conference/2017/10/value-beyond-measure.p21" pid="UDcEphQ3bkmdBbXu0Uo4JQ" hash="KQRH_A">Mothers, you might be kneeling next to your four-year-old as he says his bedtime prayer. A feeling flows over you as you listen. You feel warmth and peace. The feeling is brief, but you recognize that you, at that moment, are counted worthy to receive. We may seldom, if ever, receive huge spiritual manifestations in our lives; but we can frequently savor the sweet whisperings of the Holy Ghost verifying the truth of our spiritual worth.</p>
-			<p class="para" uri="/general-conference/2017/10/value-beyond-measure.p22" pid="Izz3IlH8REywtmn07N_lZA" hash="TcSWLQ">The Lord explained the relationship between our worth and His great atoning sacrifice when He said:</p>
-			<p class="para" uri="/general-conference/2017/10/value-beyond-measure.p23" pid="cGJplppLkUC5AMLrDdRP0w" hash="q4aTzw">“Remember the worth of souls is great in the sight of God;</p>
-			<p class="para" uri="/general-conference/2017/10/value-beyond-measure.p24" pid="0vnOgMyQvEO0mYq01z0Eww" hash="7eYhGw">“For, behold, the Lord your Redeemer suffered death in the flesh; wherefore he suffered the pain of all men, that all men might repent and come unto him.”<span class="noteMarker" ref="f_9">9</span></p>
-			<p class="para" uri="/general-conference/2017/10/value-beyond-measure.p25" pid="MH6zSJXzPEWjRCMNBQXZGw" hash="cfzSpA">Sisters, because of what He did for us, “we are bound to him by loving ties.”<span class="noteMarker" ref="f_10">10</span> He said, “My Father sent me that I might be lifted up upon the cross; and after that I had been lifted up upon the cross, that I might draw all men unto me.”<span class="noteMarker" ref="f_11">11</span></p>
-			<p class="para" uri="/general-conference/2017/10/value-beyond-measure.p26" pid="XQ6MdemUjk-4p1cDflexYw" hash="sgcszg">King Benjamin also explained this binding connection with our Savior: “And lo, he shall suffer temptations, and pain of body, hunger, thirst, and fatigue, even more than man can suffer, except it be unto death; for behold, blood cometh from every pore, so great shall be his anguish for the wickedness and the abominations of his people.”<span class="noteMarker" ref="f_12">12</span> That suffering and the results of that suffering fill our hearts with love and gratitude. Elder Paul E. Koelliker taught, “As we remove the distractions that pull us toward the world and exercise our agency to seek Him, we open our hearts to a celestial force which draws us toward Him.”<span class="noteMarker" ref="f_13">13</span> If the love we feel for the Savior and what He did for us is greater than the energy we give to weaknesses, self-doubts, or bad habits, then He will help us overcome the things which cause suffering in our lives. He saves us from ourselves.</p>
-			<p class="para" uri="/general-conference/2017/10/value-beyond-measure.p27" pid="PKt4BKrui0OhOhYw3MVOMg" hash="YEjEKg">Let me reemphasize: if the pull of the world is stronger than the faith and trust we have in the Savior, then the pull of the world will prevail every time. If we choose to focus on our negative thoughts and doubt our worth instead of clinging to the Savior, it becomes more difficult to feel the impressions of the Holy Ghost.</p>
-			<p class="para" uri="/general-conference/2017/10/value-beyond-measure.p28" pid="dfDHKHF4wEOXDoZf832row" hash="2RaNXg">Sisters, let’s not be confused about who we are! While it is often easier to be spiritually passive than it is to put forth the spiritual effort to remember and embrace our divine identity, we cannot afford that indulgence in these latter days. May we, as sisters, “be faithful in Christ; … may Christ lift [us] up, and may his sufferings and death, … and his mercy and long-suffering, and the hope of his glory and of eternal life, rest in [our minds] forever.”<span class="noteMarker" ref="f_14">14</span> As the Savior lifts us to higher ground, we can see more clearly not only who we are but also that we are closer to Him than we ever imagined. In the sacred name of Jesus Christ, amen.</p>
-		</div>
-		
-	</div>]]></content:encoded>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="13"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/f943d09383cfdc80020b8a921709c4ca4e699d87/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/f943d09383cfdc80020b8a921709c4ca4e699d87/full/%21192%2C/0/default" data-video-title="Value beyond Measure" data-video-description="Sister Jones teaches that the Spirit can confirm to us the truth of our divine worth. Our love for the Savior can help us overcome weaknesses and self-doubts." data-video-id="5588173375001" data-ip="Download and Streaming                            " data-duration="720000" data-assetId="a63534c7fa05132cce179bfab04d915464476724" data-ref-id="a63534c7fa05132cce179bfab04d915464476724" data-duration-string="12:00" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/5588173375001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="178083823"/><source src="https://assets.churchofjesuschrist.org/a63534c7fa05132cce179bfab04d915464476724-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="40797266"/><source src="https://assets.churchofjesuschrist.org/a63534c7fa05132cce179bfab04d915464476724-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="68216742"/><source src="https://assets.churchofjesuschrist.org/a63534c7fa05132cce179bfab04d915464476724-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="178083823"/></video><h1 data-aid="134606671" id="title1">Value beyond Measure</h1>
+<div class="byline">
+<p class="author-name" data-aid="134606672" id="p1">By Joy D. Jones</p>
+<p class="author-role" data-aid="134606673" id="p2">Primary General President</p>
+<div class="image-cropper"><img alt="Joy D. Jones" class="headshot" data-deprecate-web-url="joy-jones-official-portrait-2016_1818238.jpg" id="img4" src="https://www.churchofjesuschrist.org/imgs/a518ea8814974515ed9fdc7219257d2c76e80dd5/full/%21100%2C/0/default" data-assetId="a518ea8814974515ed9fdc7219257d2c76e80dd5" srcset="https://www.churchofjesuschrist.org/imgs/a518ea8814974515ed9fdc7219257d2c76e80dd5/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/a518ea8814974515ed9fdc7219257d2c76e80dd5/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/a518ea8814974515ed9fdc7219257d2c76e80dd5/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/a518ea8814974515ed9fdc7219257d2c76e80dd5/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/a518ea8814974515ed9fdc7219257d2c76e80dd5/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/a518ea8814974515ed9fdc7219257d2c76e80dd5/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/a518ea8814974515ed9fdc7219257d2c76e80dd5/full/%21640%2C/0/default 640w" data-img-id="a518ea8814974515ed9fdc7219257d2c76e80dd5" data-missing-asset="false" data-width="100" data-height="138" data-aspect-ratio="0.7246376811594203" data-public-title="Joy D. Jones" data-public-description="Official Portrait (as of Oct 2016) of Sister Joy D. Jones, General Primary President."/></div>
+</div>
+<p class="kicker" data-aid="134606674" id="kicker1">We can frequently savor the sweet whisperings of the Holy Ghost verifying the truth of our spiritual worth.</p>
+</header>
+<div class="body-block">
+<p data-aid="134606675" id="p3">While visiting the country of Sierra Leone in West Africa, I participated in a meeting conducted by a stake Primary leader. Mariama led with such love, grace, and confidence that it was easy to assume she had long been a member of the Church. Mariama, however, was a fairly recent convert.</p>
+<img alt="Mariama and her daughter" id="img1" src="https://www.churchofjesuschrist.org/imgs/c5f82c7928261cae455a7a6bf56a1827d612c032/full/%21500%2C/0/default" data-assetId="c5f82c7928261cae455a7a6bf56a1827d612c032" srcset="https://www.churchofjesuschrist.org/imgs/c5f82c7928261cae455a7a6bf56a1827d612c032/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/c5f82c7928261cae455a7a6bf56a1827d612c032/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/c5f82c7928261cae455a7a6bf56a1827d612c032/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/c5f82c7928261cae455a7a6bf56a1827d612c032/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/c5f82c7928261cae455a7a6bf56a1827d612c032/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/c5f82c7928261cae455a7a6bf56a1827d612c032/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/c5f82c7928261cae455a7a6bf56a1827d612c032/full/%21640%2C/0/default 640w" data-img-id="c5f82c7928261cae455a7a6bf56a1827d612c032" data-missing-asset="false" data-width="500" data-height="562" data-aspect-ratio="0.8896797153024911" data-public-title="Sierra Leone: Mariama and her Daughter" data-public-description="Mariama Kargbo and her daughter in Sierra Leone. Sister Joy D. Jones spoke about Mariama during her talk at the 2017 October General Women's Session."/>
+<p data-aid="134606676" id="p4">Her younger sister joined the Church and invited Mariama to attend a Church class with her. Mariama was deeply impressed by the message. The lesson was on the law of chastity. She asked to have the missionaries teach her more and soon received a testimony of the Prophet Joseph Smith. She was baptized in 2014, and her daughter was baptized last month. Imagine, the two fundamental teachings that led to Mariama’s conversion were the law of chastity and the Prophet Joseph Smith, two points the world often sees as irrelevant, outdated, or inconvenient. But Mariama testified that she was like a moth attracted to the light. She said, “When I found the gospel, I found myself.” She discovered her worth through divine principles. Her value as a daughter of God was revealed to her through the Holy Ghost.</p>
+<p data-aid="134606677" id="p5">Now let’s meet the Singh sisters from India. Renu, on the far right, the first of five sisters to join the Church, shared these thoughts:</p>
+<img alt="Singh sisters" id="img2" src="https://www.churchofjesuschrist.org/imgs/6c2540310270808247d2cc5086b65f0f6fab9455/full/%21500%2C/0/default" data-assetId="6c2540310270808247d2cc5086b65f0f6fab9455" srcset="https://www.churchofjesuschrist.org/imgs/6c2540310270808247d2cc5086b65f0f6fab9455/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/6c2540310270808247d2cc5086b65f0f6fab9455/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/6c2540310270808247d2cc5086b65f0f6fab9455/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/6c2540310270808247d2cc5086b65f0f6fab9455/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/6c2540310270808247d2cc5086b65f0f6fab9455/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/6c2540310270808247d2cc5086b65f0f6fab9455/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/6c2540310270808247d2cc5086b65f0f6fab9455/full/%21640%2C/0/default 640w" data-img-id="6c2540310270808247d2cc5086b65f0f6fab9455" data-missing-asset="false" data-width="500" data-height="322" data-aspect-ratio="1.5527950310559007" data-public-title="India: Singh Sisters" data-public-description="The Singh sisters from India smile and take a photograph together. Image was used in the 2017 October General Women's Session during a talk given by Joy D. Jones."/>
+<p data-aid="134606678" id="p6">“Before I started investigating the Church, I didn’t really feel that I was very special. I was just one of many people, and my society and culture didn’t really teach me that I had any value as an individual. When I learned the gospel and learned that I was a daughter of our Heavenly Father, it changed me. Suddenly I felt so special—God had actually created me and had created my soul and my life with value and purpose.</p>
+<p data-aid="134606679" id="p7">“Before I had the gospel in my life, I was always trying to prove to others that I was someone special. But when I learned the truth, that I am a daughter of God, I didn’t have to prove anything to anyone. I knew that I was special. … Don’t ever think that you are nothing.”</p>
+<p data-aid="134606680" id="p8">President Thomas S. Monson said it perfectly when he quoted these words: “The worth of a soul is its capacity to become as God.”<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a></p>
+<img alt="Taiana" id="img3" src="https://www.churchofjesuschrist.org/imgs/9e33242e9346c8ca1da45375f80d5f5f36d48645/full/%21500%2C/0/default" data-assetId="9e33242e9346c8ca1da45375f80d5f5f36d48645" srcset="https://www.churchofjesuschrist.org/imgs/9e33242e9346c8ca1da45375f80d5f5f36d48645/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/9e33242e9346c8ca1da45375f80d5f5f36d48645/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/9e33242e9346c8ca1da45375f80d5f5f36d48645/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/9e33242e9346c8ca1da45375f80d5f5f36d48645/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/9e33242e9346c8ca1da45375f80d5f5f36d48645/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/9e33242e9346c8ca1da45375f80d5f5f36d48645/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/9e33242e9346c8ca1da45375f80d5f5f36d48645/full/%21640%2C/0/default 640w" data-img-id="9e33242e9346c8ca1da45375f80d5f5f36d48645" data-missing-asset="false" data-width="500" data-height="322" data-aspect-ratio="1.5527950310559007" data-public-title="Young Woman" data-public-description="Taiana Brown, a young woman with cancer smiles for a picture. Tiana passed away. Her story and image was used in the 2017 October General Women's Session during a talk given by Joy D. Jones."/>
+<p data-aid="134606681" id="p9">I was recently blessed to meet another young woman who understands this same truth. Her name is Taiana. I met her at Primary Children’s Hospital in Salt Lake City. Taiana was a junior in high school when she was diagnosed with cancer. She fought a brave battle for 18 months before passing away a few short weeks ago. Taiana was full of light and love. She was known for her contagious smile and her trademark “double thumbs-up.” When others asked, “Why you, Taiana?” her response was, “Why not me?” Taiana sought to become like her Savior, whom she so dearly loved. During our visits, I learned <span class="page-break" data-page="14"></span>that Taiana understood her divine worth. Knowing she was a daughter of God gave her peace and courage to face her overwhelming trial in the positive way she did.</p>
+<p data-aid="134606682" id="p10">Mariama, Renu, and Taiana teach us that the Spirit will confirm to each of us individually our divine worth. Truly knowing that you are a daughter of God will affect every aspect of your life and guide you in the service you render each day. President Spencer W. Kimball explained in these glorious words:</p>
+<p data-aid="134606683" id="p11">“God is your Father. He loves you. He and your Mother in heaven value you beyond any measure. … You are unique. One of a kind, made of the eternal intelligence which gives you claim upon eternal life.</p>
+<p data-aid="134606684" id="p12">“Let there be no question in your mind about your value as an individual. The whole intent of the gospel plan is to provide an opportunity for each of you to reach your fullest potential, which is eternal progression and the possibility of godhood.”<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a></p>
+<p data-aid="134606685" id="p13">Let me point out the need to differentiate between two critical words: <em>worth</em> and <em>worthiness.</em> They are not the same. Spiritual <em>worth</em> means to value ourselves the way Heavenly Father values us, not as the world values us. Our worth was determined before we ever came to this earth. “God’s love is infinite and it will endure forever.”<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a></p>
+<p data-aid="134606686" id="p14">On the other hand, <em>worthiness</em> is achieved through obedience. If we sin, we are less worthy, but we are never worth less! We continue to repent and strive to be like Jesus with our worth intact. As President Brigham Young taught: “The least, the most inferior spirit now upon the earth … is worth worlds.”<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a> No matter what, we always have worth in the eyes of our Heavenly Father.</p>
+<p data-aid="134606687" id="p15">Despite this marvelous truth, how many of us struggle, from time to time, with negative thoughts or feelings about ourselves? I do. It’s an easy trap. Satan is the father of all lies, especially when it comes to misrepresentations about our own divine nature and purpose. Thinking small about ourselves does not serve us well. Instead it holds us back. As we’ve often been taught, “No one can make you feel inferior without your consent.”<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a> We can stop comparing our worst to someone else’s best. “Comparison is the thief of joy.”<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a></p>
+<p data-aid="134606688" id="p16">In contrast, the Lord assures us that when we have virtuous thoughts, He will bless us with confidence, even the confidence to know who we really are. There’s never been a more crucial time to heed His words. “Let virtue garnish thy thoughts unceasingly,” He said. “Then shall thy confidence wax strong in the presence of God; and … the Holy Ghost shall be thy constant companion.”<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a></p>
+<p data-aid="134606689" id="p17">The Lord revealed this additional truth to the Prophet Joseph Smith: “He that receiveth of God, let him account it of God; and let him rejoice that he is accounted of God worthy to receive.”<a class="note-ref" href="#note8"><sup class="marker" data-value="8"></sup></a> When we feel the Spirit, as this verse explains, we recognize that what we feel comes from our Heavenly Father. We acknowledge Him and praise Him for blessing us. We then rejoice that we are counted worthy to receive.</p>
+<p data-aid="134606690" id="p18">Imagine that you are reading the scriptures one morning and the Spirit softly whispers to you that what you are reading is true. Can you recognize the Spirit and be happy that you felt His love and were worthy to receive?</p>
+<p data-aid="134606691" id="p19">Mothers, you might be kneeling next to your four-year-old as he says his bedtime prayer. A feeling flows over you as you listen. You feel warmth and peace. The feeling is brief, but you recognize that you, at that moment, are counted worthy to receive. We may seldom, if ever, receive huge spiritual manifestations in our lives; but we can frequently savor the sweet whisperings of the Holy Ghost verifying the truth of our spiritual worth.</p>
+<p data-aid="134606692" id="p20">The Lord explained the relationship between our worth and His great atoning sacrifice when He said:</p>
+<span class="page-break" data-page="15"></span>
+<p data-aid="134606693" id="p21">“Remember the worth of souls is great in the sight of God;</p>
+<p data-aid="134606694" id="p22">“For, behold, the Lord your Redeemer suffered death in the flesh; wherefore he suffered the pain of all men, that all men might repent and come unto him.”<a class="note-ref" href="#note9"><sup class="marker" data-value="9"></sup></a></p>
+<p data-aid="134606695" id="p23">Sisters, because of what He did for us, “we are bound to him by loving ties.”<a class="note-ref" href="#note10"><sup class="marker" data-value="10"></sup></a> He said, “My Father sent me that I might be lifted up upon the cross; and after that I had been lifted up upon the cross, that I might draw all men unto me.”<a class="note-ref" href="#note11"><sup class="marker" data-value="11"></sup></a></p>
+<p data-aid="134606696" id="p24">King Benjamin also explained this binding connection with our Savior: “And lo, he shall suffer temptations, and pain of body, hunger, thirst, and fatigue, even more than man can suffer, except it be unto death; for behold, blood cometh from every pore, so great shall be his anguish for the wickedness and the abominations of his people.”<a class="note-ref" href="#note12"><sup class="marker" data-value="12"></sup></a> That suffering and the results of that suffering fill our hearts with love and gratitude. Elder Paul E. Koelliker taught, “As we remove the distractions that pull us toward the world and exercise our agency to seek Him, we open our hearts to a celestial force which draws us toward Him.”<a class="note-ref" href="#note13"><sup class="marker" data-value="13"></sup></a> If the love we feel for the Savior and what He did for us is greater than the energy we give to weaknesses, self-doubts, or bad habits, then He will help us overcome the things which cause suffering in our lives. He saves us from ourselves.</p>
+<p data-aid="134606697" id="p25">Let me reemphasize: if the pull of the world is stronger than the faith and trust we have in the Savior, then the pull of the world will prevail every time. If we choose to focus on our negative thoughts and doubt our worth instead of clinging to the Savior, it becomes more difficult to feel the impressions of the Holy Ghost.</p>
+<p data-aid="134606698" id="p26">Sisters, let’s not be confused about who we are! While it is often easier to be spiritually passive than it is to put forth the spiritual effort to remember and embrace our divine identity, we cannot afford that indulgence in these latter days. May we, as sisters, “be faithful in Christ; … may Christ lift [us] up, and may his sufferings and death, … and his mercy and long-suffering, and the hope of his glory and of eternal life, rest in [our minds] forever.”<a class="note-ref" href="#note14"><sup class="marker" data-value="14"></sup></a> As the Savior lifts us to higher ground, we can see more clearly not only who we are but also that we are closer to Him than we ever imagined. In the sacred name of Jesus Christ, amen.</p>
+</div>
+<footer class="notes">
+<p class="title" data-aid="134606699" id="notetitle1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="134606700" id="note1_p1">Thomas S. Monson, “<a class="cross-ref" href="/study/general-conference/2006/04/our-sacred-priesthood-trust?lang=eng">Our Sacred Priesthood Trust</a>,” <em>Ensign</em> or <em>Liahona,</em> May 2006, 55.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="134606701" id="note2_p1">Spencer W. Kimball, “<a class="cross-ref" href="/study/general-conference/1978/10/privileges-and-responsibilities-of-sisters?lang=eng">Privileges and Responsibilities of Sisters</a>,” <em>Ensign,</em> Nov. 1978, 105.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="134606702" id="note3_p1">D. Todd Christofferson, “<a class="cross-ref" href="/study/general-conference/2016/10/abide-in-my-love?lang=eng">Abide in My Love</a>,” <em>Ensign</em> or <em>Liahona,</em> Nov. 2016, 48.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="134606703" id="note4_p1">Brigham Young, “Remarks,” <em>Deseret News,</em> Mar. 6, 1861, 2.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="134606704" id="note5_p1">Attributed to Eleanor Roosevelt.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="134606705" id="note6_p1">Attributed to Theodore Roosevelt.</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="134606706" id="note7_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/121?lang=eng&amp;id=p45%2Cp46#p45">Doctrine and Covenants 121:45, 46</a>.</p>
+</li>
+<li data-marker="8." id="note8" data-full-marker="8.">
+<p data-aid="134606707" id="note8_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/50?lang=eng&amp;id=p34#p34">Doctrine and Covenants 50:34</a>.</p>
+</li>
+<li data-marker="9." id="note9" data-full-marker="9.">
+<p data-aid="134606708" id="note9_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/18?lang=eng&amp;id=p10-p11#p10">Doctrine and Covenants 18:10–11</a>.</p>
+</li>
+<li data-marker="10." id="note10" data-full-marker="10.">
+<p data-aid="134606709" id="note10_p1">“Our Savior’s Love,” <em>Hymns,</em> no. 113.</p>
+</li>
+<li data-marker="11." id="note11" data-full-marker="11.">
+<p data-aid="134606710" id="note11_p1"><a class="scripture-ref" href="/study/scriptures/bofm/3-ne/27?lang=eng&amp;id=p14#p14">3 Nephi 27:14</a>.</p>
+</li>
+<li data-marker="12." id="note12" data-full-marker="12.">
+<p data-aid="134606711" id="note12_p1"><a class="scripture-ref" href="/study/scriptures/bofm/mosiah/3?lang=eng&amp;id=p7#p7">Mosiah 3:7</a>.</p>
+</li>
+<li data-marker="13." id="note13" data-full-marker="13.">
+<p data-aid="134606712" id="note13_p1">Paul E. Koelliker, “<a class="cross-ref" href="/study/general-conference/2012/04/he-truly-loves-us?lang=eng">He Truly Loves Us</a>,” <em>Ensign</em> or <em>Liahona,</em> May 2012, 18.</p>
+</li>
+<li data-marker="14." id="note14" data-full-marker="14.">
+<p data-aid="134606713" id="note14_p1"><a class="scripture-ref" href="/study/scriptures/bofm/moro/9?lang=eng&amp;id=p25#p25">Moroni 9:25</a>.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/2017/10/value-beyond-measure</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/october-2017-general-conference/2017-09-0030-joy-d-jones-64k-eng.mp3" length="5784883" type="audio/mpeg"/>
-      <pubDate>Sat, 23 Sep 2017 18:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/db18b74210bd11ec80e5eeeeac1e371805764d72-64k-en.mp3" length="5924843" type="audio/mpeg"/>
+      <pubDate>Sat, 23 Sep 2017 18:00:00 -0600</pubDate>
+      <itunes:author>Joy D. Jones</itunes:author>
+    </item>
+    <item>
+      <title>For Him</title>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2018/10/for-him?lang=eng</link>
+      <description>Sister Jones teaches how we can serve others by loving and serving Heavenly Father and Jesus Christ.</description>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="50"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/41ac7e3bd98511a8f573df53eeb6236ed093bf87/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/41ac7e3bd98511a8f573df53eeb6236ed093bf87/full/%21192%2C/0/default" data-video-title="For Him" data-video-description="Sister Jones teaches how we can serve others by loving and serving Heavenly Father and Jesus Christ." data-video-id="5846242251001" data-ip="Download and Streaming                            " data-duration="713546" data-assetId="97CD38A14DBE14F002C419A6C7D48DE2BDF3FD8A" data-ref-id="97CD38A14DBE14F002C419A6C7D48DE2BDF3FD8A" data-asset-aliasId="97cd38a14dbe14f002c419a6c7d48de2bdf3fd8a" data-duration-string="11:53" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/5846242251001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="228164400"/><source src="https://assets.churchofjesuschrist.org/97CD38A14DBE14F002C419A6C7D48DE2BDF3FD8A-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="40103538"/><source src="https://assets.churchofjesuschrist.org/97CD38A14DBE14F002C419A6C7D48DE2BDF3FD8A-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="82072715"/><source src="https://assets.churchofjesuschrist.org/97CD38A14DBE14F002C419A6C7D48DE2BDF3FD8A-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="228164400"/></video><h1 data-aid="138351811" id="title1">For Him</h1>
+<div class="byline">
+<p class="author-name" data-aid="138351812" id="p1">By Joy D. Jones</p>
+<p class="author-role" data-aid="138351813" id="p2">Primary General President</p>
+<div class="image-cropper"><img alt="Joy D. Jones" class="headshot" data-deprecate-web-url="joy-jones-official-portrait-2016_1818238.jpg" id="img1" src="https://www.churchofjesuschrist.org/imgs/a518ea8814974515ed9fdc7219257d2c76e80dd5/full/%21100%2C/0/default" data-assetId="a518ea8814974515ed9fdc7219257d2c76e80dd5" srcset="https://www.churchofjesuschrist.org/imgs/a518ea8814974515ed9fdc7219257d2c76e80dd5/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/a518ea8814974515ed9fdc7219257d2c76e80dd5/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/a518ea8814974515ed9fdc7219257d2c76e80dd5/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/a518ea8814974515ed9fdc7219257d2c76e80dd5/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/a518ea8814974515ed9fdc7219257d2c76e80dd5/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/a518ea8814974515ed9fdc7219257d2c76e80dd5/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/a518ea8814974515ed9fdc7219257d2c76e80dd5/full/%21640%2C/0/default 640w" data-img-id="a518ea8814974515ed9fdc7219257d2c76e80dd5" data-missing-asset="false" data-width="100" data-height="138" data-aspect-ratio="0.7246376811594203" data-public-title="Joy D. Jones" data-public-description="Official Portrait (as of Oct 2016) of Sister Joy D. Jones, General Primary President."/></div>
+</div>
+<p class="kicker" data-aid="138351814" id="kicker1">Knowing the who and the why in serving others helps us understand that the highest manifestation of love is devotion to God.</p>
+</header>
+<div class="body-block">
+<p data-aid="138351815" id="p3">On this historic night, I express my love and appreciation to each of you, my dear sisters. Whatever our age, location, or circumstance, we gather tonight in unity, in strength, in purpose, and in testimony that we are loved and led by our Heavenly Father; our Savior, Jesus Christ; and our living prophet, President Russell M. Nelson.</p>
+<p data-aid="138351816" id="p4">As a young couple, my husband and I were called by our bishop to visit and minister to a family who hadn’t been to church in many years. We willingly accepted the assignment and went to their home a few days later. It was immediately clear to us that they did not want visitors from the Church.</p>
+<p data-aid="138351817" id="p5">So on our next visit, we approached them with a plate of cookies, confident that chocolate chips would melt their hearts. They didn’t. The couple spoke to us through the screen door, making it even clearer that we weren’t welcome. But as we drove home, we were fairly certain success might have been achieved had we only offered them Rice Krispies Treats instead.</p>
+<p data-aid="138351818" id="p6">Our lack of spiritual vision made additional failed attempts frustrating. Rejection is never comfortable. Over time we began to ask ourselves, “<em>Why</em> are we doing this? What is our purpose?”</p>
+<p data-aid="138351819" id="p7">Elder Carl B. Cook made this observation: “Serving in the Church … can be challenging if we are asked to do something that frightens us, if we grow weary of serving, or if we are called to do something that we do not initially find appealing.”<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a> We were experiencing the truth of Elder Cook’s words when we decided we had to seek direction from Someone with a greater perspective than our own.</p>
+<p data-aid="138351820" id="p8">So, after much sincere prayer and study, we received the answer to the <em>why</em> of our service. We had a change in our understanding, a change of heart, actually a revelatory experience.<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a> As we sought direction from the scriptures, the Lord taught us how to make the process of serving others easier and more meaningful. Here is the verse we read that changed both our hearts and our approach: “Thou shalt love the Lord thy God with all thy heart, with all thy might, mind, and strength; and in the name of Jesus Christ <em>thou shalt serve him</em>.”<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a> Though this verse was so familiar, it seemed to speak to us in a new and important way.</p>
+<p data-aid="138351821" id="p9">We realized that we were sincerely striving to serve this family and to serve our bishop, but we had to ask ourselves if we were really serving out of love for the Lord. King Benjamin made clear this distinction when he stated, “Behold, I say unto you that because I said unto you that I had spent my days in your service, I do not desire to boast, for <em>I have only been in the service of God</em>.”<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a></p>
+<p data-aid="138351822" id="p10">So whom was King Benjamin really serving? Heavenly Father and the Savior. Knowing the <em>who</em> and the <em>why</em> in serving others helps us understand that the highest manifestation of love is devotion to God.</p>
+<p data-aid="138351823" id="p11">As our focus gradually changed, so did our prayers. We began looking forward to our visits with this dear family because of our love for the Lord.<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a> We were doing it for Him. He made the struggle no longer a struggle. After many months of our standing on the doorstep, the family began letting us in. Eventually, we had regular prayer and tender gospel discussions together. A long-lasting friendship developed. We were worshipping and loving Him by loving His children.</p>
+<p data-aid="138351824" id="p12">Can you think back on a time when you lovingly reached out with sincere effort to help someone in need and felt that your efforts went unnoticed or perhaps were unappreciated or even unwanted? In that moment, did you question the value of your service? If so, may the words of King Benjamin replace your doubt and even your hurt: “Ye are only in the service of your God.”<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a></p>
+<p data-aid="138351825" id="p13">Rather than building resentment, we can build, through service, a more perfect relationship with our Heavenly Father. Our love for and devotion to Him preempts the need for recognition or appreciation and allows His love to flow to and through us.</p>
+<p data-aid="138351826" id="p14">Sometimes we may initially serve from a sense of duty or obligation, but even that service can lead us to draw on something higher within us, leading us to serve in “a more excellent way”<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a>—as in President Nelson’s <span class="page-break" data-page="51"></span>invitation to “a newer, holier approach to caring for and ministering to others.”<a class="note-ref" href="#note8"><sup class="marker" data-value="8"></sup></a></p>
+<p data-aid="138351827" id="p15">When we focus on all that God has done for us, our service flows from a heart of gratitude. As we become less concerned about our service magnifying us, we realize instead that the focus of our service will be on putting God first.<a class="note-ref" href="#note9"><sup class="marker" data-value="9"></sup></a></p>
+<p data-aid="138351828" id="p16">President M. Russell Ballard taught, “It is only when we love God and Christ with all of our hearts, souls, and minds that we are able to share this love with our neighbors through acts of kindness and service.”<a class="note-ref" href="#note10"><sup class="marker" data-value="10"></sup></a></p>
+<p data-aid="138351829" id="p17">The first of the Ten Commandments reiterates this divine wisdom: “I am the Lord thy God. … Thou shalt have no other gods before me.”<a class="note-ref" href="#note11"><sup class="marker" data-value="11"></sup></a> The placement of this commandment helps us understand that <em>if</em> we place Him as our main priority, everything else will ultimately fall into place—even our service to others. When He takes the preeminent position in our lives by our deliberate choice, then He is able to bless our actions to our good and to the good of others.</p>
+<p data-aid="138351830" id="p18">The Lord counseled, “Look unto me in every thought.”<a class="note-ref" href="#note12"><sup class="marker" data-value="12"></sup></a> And each week we covenant to do just that—to “always remember him.”<a class="note-ref" href="#note13"><sup class="marker" data-value="13"></sup></a> Can such a godly focus apply in everything we do? Can performing even a menial task become an opportunity to demonstrate our love and devotion to Him? I believe it can and will.</p>
+<p data-aid="138351831" id="p19">We can make each item on our to-do list become a way to glorify Him. We can see each task as a privilege and opportunity to serve Him, even when we are in the midst of deadlines, duties, or dirty diapers.</p>
+<p data-aid="138351832" id="p20">As Ammon said, “Yea, I know that I am nothing; as to my strength I am weak; therefore I will not boast of myself, but I will boast of my God, for in his strength I can do all things.”<a class="note-ref" href="#note14"><sup class="marker" data-value="14"></sup></a></p>
+<p data-aid="138351833" id="p21">When serving our God becomes our main priority in life, we lose ourselves, and in due course, we find ourselves.<a class="note-ref" href="#note15"><sup class="marker" data-value="15"></sup></a></p>
+<p data-aid="138351834" id="p22">The Savior taught this principle so simply and directly: “Therefore let your light so shine before this people, that they may see your good works and <em>glorify your Father</em> who is in heaven.”<a class="note-ref" href="#note16"><sup class="marker" data-value="16"></sup></a></p>
+<p data-aid="138351835" id="p23">May I share with you some words of wisdom that were found on the wall of an orphanage in Calcutta, India: “If you are kind, people may accuse you of selfish, ulterior motives. Be kind anyway. What you spend years building, someone could destroy overnight. Build anyway. The good you do today, people will often forget tomorrow. Do good anyway. Give the world the best you have, and it may never be enough. Give the world the best you’ve got anyway. You see, in the final analysis, it is between you and your God … anyway.”<a class="note-ref" href="#note17"><sup class="marker" data-value="17"></sup></a></p>
+<p data-aid="138351836" id="p24">Sisters, it is always between us and the Lord. As President James E. Faust said: “‘What is the greatest need in the world?’ … ‘Is not the greatest need in all of the world for every person to have a personal, ongoing, daily, continuing relationship with the Savior?’ Having such a relationship can unchain the divinity within us, and nothing can make a greater difference in our lives as we come to know and understand our divine relationship with God.”<a class="note-ref" href="#note18"><sup class="marker" data-value="18"></sup></a></p>
+<p data-aid="138351837" id="p25">Similarly, Alma explained to his son, “Yea, let all thy doings be unto the Lord, and whithersoever thou goest let it be in the Lord; yea, let all thy thoughts be directed unto the Lord; yea, let the affections of thy heart be placed upon the Lord forever.”<a class="note-ref" href="#note19"><sup class="marker" data-value="19"></sup></a></p>
+<p data-aid="138351838" id="p26">And President Russell M. Nelson has likewise taught us, “When we comprehend His voluntary Atonement, any sense of sacrifice on our part becomes <span class="page-break" data-page="52"></span>completely overshadowed by a profound sense of gratitude for the privilege of serving Him.”<a class="note-ref" href="#note20"><sup class="marker" data-value="20"></sup></a></p>
+<p data-aid="138351839" id="p27">Sisters, I testify that when Jesus Christ, through the power of His Atonement, works <em>on</em> us and <em>in</em> us, He begins to work <em>through</em> us to bless others. We serve them, but we do so by loving and serving Him. We become what the scripture describes: “Every man [and woman] seeking the interest of his [or her] neighbor, and doing all things with an eye single to the glory of God.”<a class="note-ref" href="#note21"><sup class="marker" data-value="21"></sup></a></p>
+<p data-aid="138351840" id="p28">Maybe our bishop knew that was the lesson my husband and I would learn from those early and well-intentioned, yet not perfect, efforts to minister to God’s beloved sons and daughters. I bear my personal and sure witness of the goodness and love He shares with us even as we strive to serve for Him. In the sacred name of Jesus Christ, amen.</p>
+</div>
+<footer class="notes">
+<p class="title" data-aid="138351841" id="notetitle1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="138351842" id="note1_p1">Carl B. Cook, “<a class="cross-ref" href="/study/general-conference/2016/10/serve?lang=eng">Serve</a>,” <em>Ensign</em> or <em>Liahona,</em> Nov. 2016, 110.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="138351843" id="note2_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/mosiah/5?lang=eng&amp;id=p2#p2">Mosiah 5:2</a>.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="138351844" id="note3_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/59?lang=eng&amp;id=p5#p5">Doctrine and Covenants 59:5</a>; emphasis added.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="138351845" id="note4_p1"><a class="scripture-ref" href="/study/scriptures/bofm/mosiah/2?lang=eng&amp;id=p16#p16">Mosiah 2:16</a>; emphasis added.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="138351846" id="note5_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/1-ne/11?lang=eng&amp;id=p22#p22">1 Nephi 11:22</a>.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="138351847" id="note6_p1"><a class="scripture-ref" href="/study/scriptures/bofm/mosiah/2?lang=eng&amp;id=p17#p17">Mosiah 2:17</a>.</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="138351848" id="note7_p1"><a class="scripture-ref" href="/study/scriptures/nt/1-cor/12?lang=eng&amp;id=p31#p31">1 Corinthians 12:31</a>.</p>
+</li>
+<li data-marker="8." id="note8" data-full-marker="8.">
+<p data-aid="138351849" id="note8_p1">Russell M. Nelson, “<a class="cross-ref" href="/study/general-conference/2018/04/ministering?lang=eng">Ministering</a>,” <em>Ensign</em> or <em>Liahona,</em> May 2018, 100.</p>
+</li>
+<li data-marker="9." id="note9" data-full-marker="9.">
+<p data-aid="138351850" id="note9_p1">See <a class="scripture-ref" href="/study/scriptures/nt/matt/6?lang=eng&amp;id=p1-p4%2Cp33#p1">Matthew 6:1–4, 33</a>.</p>
+</li>
+<li data-marker="10." id="note10" data-full-marker="10.">
+<p data-aid="138351851" id="note10_p1">M. Russell Ballard, “<a class="cross-ref" href="/study/general-conference/2011/04/finding-joy-through-loving-service?lang=eng">Finding Joy through Loving Service</a>,” <em>Ensign</em> or <em>Liahona,</em> May 2011, 47.</p>
+</li>
+<li data-marker="11." id="note11" data-full-marker="11.">
+<p data-aid="138351852" id="note11_p1"><a class="scripture-ref" href="/study/scriptures/ot/ex/20?lang=eng&amp;id=p2-p3#p2">Exodus 20:2–3</a>.</p>
+</li>
+<li data-marker="12." id="note12" data-full-marker="12.">
+<p data-aid="138351853" id="note12_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/6?lang=eng&amp;id=p36#p36">Doctrine and Covenants 6:36</a>.</p>
+</li>
+<li data-marker="13." id="note13" data-full-marker="13.">
+<p data-aid="138351854" id="note13_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/20?lang=eng&amp;id=p77%2Cp79#p77">Doctrine and Covenants 20:77, 79</a>.</p>
+</li>
+<li data-marker="14." id="note14" data-full-marker="14.">
+<p data-aid="138351855" id="note14_p1"><a class="scripture-ref" href="/study/scriptures/bofm/alma/26?lang=eng&amp;id=p12#p12">Alma 26:12</a>.</p>
+</li>
+<li data-marker="15." id="note15" data-full-marker="15.">
+<p data-aid="138351856" id="note15_p1">See <a class="scripture-ref" href="/study/scriptures/nt/matt/16?lang=eng&amp;id=p24-p25#p24">Matthew 16:24–25</a>.</p>
+</li>
+<li data-marker="16." id="note16" data-full-marker="16.">
+<p data-aid="138351857" id="note16_p1"><a class="scripture-ref" href="/study/scriptures/bofm/3-ne/12?lang=eng&amp;id=p16#p16">3 Nephi 12:16</a>; emphasis added.</p>
+</li>
+<li data-marker="17." id="note17" data-full-marker="17.">
+<p data-aid="138351858" id="note17_p1">Often attributed to Mother Teresa; see Kent M. Keith, <em>The Paradoxical Commandments</em> (1968).</p>
+</li>
+<li data-marker="18." id="note18" data-full-marker="18.">
+<p data-aid="138351859" id="note18_p1">James E. Faust, “<a class="cross-ref" href="/study/general-conference/1976/10/a-personal-relationship-with-the-savior?lang=eng">A Personal Relationship with the Savior</a>,” <em>Ensign,</em> Nov. 1976, 58.</p>
+</li>
+<li data-marker="19." id="note19" data-full-marker="19.">
+<p data-aid="138351860" id="note19_p1"><a class="scripture-ref" href="/study/scriptures/bofm/alma/37?lang=eng&amp;id=p36#p36">Alma 37:36</a>.</p>
+</li>
+<li data-marker="20." id="note20" data-full-marker="20.">
+<p data-aid="138351861" id="note20_p1">Russell M. Nelson, “<a class="cross-ref" href="/study/general-conference/1996/10/the-atonement?lang=eng">The Atonement</a>,” <em>Ensign</em> or <em>Liahona,</em> Nov. 1996, 35.</p>
+</li>
+<li data-marker="21." id="note21" data-full-marker="21.">
+<p data-aid="138351862" id="note21_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/82?lang=eng&amp;id=p19#p19">Doctrine and Covenants 82:19</a>.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
+      <guid isPermaLink="false">/general-conference/2018/10/for-him</guid>
+      <enclosure url="https://assets.churchofjesuschrist.org/33b77e6432cd11ecb675eeeeac1e6a69e5bd6296-64k-en.mp3" length="5952573" type="audio/mpeg"/>
+      <pubDate>Sat, 29 Sep 2018 18:00:00 -0600</pubDate>
+      <itunes:author>Joy D. Jones</itunes:author>
+    </item>
+    <item>
+      <title>An Especially Noble Calling</title>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2020/04/14jones?lang=eng</link>
+      <description>Sister Jones draws on the example and teachings of Joseph Smith to encourage women in striving to fulfill their great spiritual potential.</description>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="15"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/9674E31D11AA85BB789DCA7C12339A325B4CC88C/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/9674E31D11AA85BB789DCA7C12339A325B4CC88C/full/%21192%2C/0/default" data-video-title="Hard to Be a Prophet?" data-video-description="President Russell M. Nelson and Sister Joy D. Jones visit with Primary children in the reconstructed Smith family home near Palmyra, New York, about the effort it takes to progress." data-video-id="6147253664001" data-ip="Download and Streaming                            " data-duration="114547" data-assetId="E32F0DAC4F35D3783B9C83FB62DDE5E18EB01886" data-ref-id="E32F0DAC4F35D3783B9C83FB62DDE5E18EB01886" data-asset-aliasId="e32f0dac4f35d3783b9c83fb62dde5e18eb01886" data-duration-string="1:54" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6147253664001.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="34355073"/><source src="https://assets.churchofjesuschrist.org/E32F0DAC4F35D3783B9C83FB62DDE5E18EB01886-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="6058090"/><source src="https://assets.churchofjesuschrist.org/E32F0DAC4F35D3783B9C83FB62DDE5E18EB01886-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="11651583"/><source src="https://assets.churchofjesuschrist.org/E32F0DAC4F35D3783B9C83FB62DDE5E18EB01886-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="34355073"/></video><h1 data-aid="143138443" id="title1">An Especially Noble Calling</h1>
+<div class="byline">
+<p class="author-name" data-aid="143138445" id="author1">By Joy D. Jones</p>
+<p class="author-role" data-aid="143138447" id="author2">Primary General President</p>
+</div>
+<p class="kicker" data-aid="143138449" id="kicker1">As women of faith, we can draw principles of truth from the Prophet Joseph’s experiences that provide insights for receiving our own revelation.</p>
+</header>
+<div class="body-block">
+<p data-aid="143138451" id="p1">I’m grateful to focus my remarks today on women’s continuing roles in the Restoration. It is clear that throughout history women have held a distinctive place in our Heavenly Father’s plan. President Russell M. Nelson taught, “It would be impossible to measure the influence that … women have, not only on families but also on the Lord’s Church, as wives, mothers, and grandmothers; as sisters and aunts; as teachers and leaders; and especially as exemplars and devout defenders of the faith.”<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a></p>
+<p data-aid="143138453" id="p2">In the early Relief Society in Nauvoo, 178 years ago, the Prophet Joseph Smith counseled the sisters to “live up to [their] privilege.”<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a> Their example teaches us today. They unitedly followed a prophet’s voice and lived with steadfast faith in Jesus Christ as they helped lay the foundation we now stand upon. Sisters, it is our turn. We have a divine errand from the Lord, and our faithful, unique contributions are vital.</p>
+<p data-aid="143138455" id="p3">President Spencer W. Kimball explained: “To be a righteous woman during the winding up scenes on this earth, before the second coming of our Savior, is an especially noble calling. The righteous woman’s strength and <span class="page-break" data-page="16"></span>influence today can be tenfold what it might be in more tranquil times.”<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a></p>
+<p data-aid="143138457" id="p4">President Nelson has likewise implored: “I plead with my sisters of [the] Church … to step forward! Take your rightful and needful place in your home, in your community, and in the kingdom of God﻿—more than you ever have before.”<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a></p>
+<p data-aid="143138459" id="p5">Recently, I was privileged, along with a group of Primary children, to meet with President Russell M. Nelson in the replica of the Smith family home in Palmyra, New York. Listen as our beloved prophet teaches the children what <em>they</em> can do to step forward.</p>
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/9674E31D11AA85BB789DCA7C12339A325B4CC88C/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/9674E31D11AA85BB789DCA7C12339A325B4CC88C/full/%21192%2C/0/default" data-video-title="Hard to Be a Prophet?" data-video-description="President Russell M. Nelson and Sister Joy D. Jones visit with Primary children in the reconstructed Smith family home near Palmyra, New York, about the effort it takes to progress." data-video-id="6147253664001" data-ip="Download and Streaming                            " data-duration="114547" data-assetId="E32F0DAC4F35D3783B9C83FB62DDE5E18EB01886" data-ref-id="E32F0DAC4F35D3783B9C83FB62DDE5E18EB01886" data-asset-aliasId="e32f0dac4f35d3783b9c83fb62dde5e18eb01886" data-duration-string="1:54" id="video3"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6147253664001.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="34355073"/><source src="https://assets.churchofjesuschrist.org/E32F0DAC4F35D3783B9C83FB62DDE5E18EB01886-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="6058090"/><source src="https://assets.churchofjesuschrist.org/E32F0DAC4F35D3783B9C83FB62DDE5E18EB01886-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="11651583"/><source src="https://assets.churchofjesuschrist.org/E32F0DAC4F35D3783B9C83FB62DDE5E18EB01886-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="34355073"/></video>
+<p data-aid="143138461" id="p26"><strong>Sister Jones:</strong> “I’m curious to know if you might have a question that you would like to ask President Nelson. You’re sitting here with the prophet. Is there anything that you’ve always wanted to ask a prophet? Yes, Pearl.”</p>
+<p data-aid="143138463" id="p27"><strong>Pearl:</strong> “Is it hard to be a prophet? Are you, like, really busy?”</p>
+<p data-aid="143138465" id="p28"><strong>President Nelson:</strong> “Of course it’s hard. Everything to do with becoming more like the Savior is difficult. For example, when God wanted to give the Ten Commandments to Moses, where did He tell Moses to go? Up on top of a mountain, on the top of Mount Sinai. So Moses had to walk all the way up to the top of that mountain to get the Ten Commandments. Now, Heavenly Father could have said, ‘Moses, you start there, and I’ll start here, and I’ll meet you halfway.’ No, the Lord loves effort, because effort brings rewards that can’t come without it. For example, did you ever take piano lessons?”</p>
+<p data-aid="143138468" id="p29"><strong>Children:</strong> “Yes.”</p>
+<p data-aid="143138469" id="p30"><strong>Pearl:</strong> “I take violin.”</p>
+<p data-aid="143138472" id="p31"><strong>President Nelson:</strong> “And do you practice?”</p>
+<p data-aid="143138476" id="p32"><strong>Children:</strong> “Yes.”</p>
+<p data-aid="143138477" id="p33"><strong>President Nelson:</strong> “What happens if you don’t practice?”</p>
+<p data-aid="143138480" id="p34"><strong>Pearl:</strong> “You forget.”</p>
+<p data-aid="143138485" id="p35"><strong>President Nelson:</strong> “Yes, you don’t progress, do you? So the answer is yes, Pearl. It takes effort, a lot of hard work, a lot of study, and there’s never an end. That’s good! That’s good, because we’re always progressing. Even in the next life we’re making progress.”</p>
+<p data-aid="143138488" id="p6">President Nelson’s response to these precious children extends to each one of us. The Lord loves effort, and effort brings rewards. We keep practicing. We are always progressing as long as we are striving to follow the Lord.<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a> He doesn’t expect perfection today. We keep climbing our personal Mount Sinai. As in times past, our journey does indeed take effort, hard work, and study, but our commitment to progress brings eternal rewards.<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a></p>
+<p data-aid="143138492" id="p7">What more do we learn from the Prophet Joseph Smith and the First Vision about effort, hard work, and study? The First Vision gives us direction in <em>our</em> unique, continuing roles. As women of faith, we can draw principles of truth from the Prophet Joseph’s experiences that provide insights for receiving our own revelation. For example:</p>
+<ul class="bullet">
+<li>
+<p data-aid="143138494" id="p8">We labor under difficulties.</p>
+</li>
+<li>
+<p data-aid="143138501" id="p9">We turn to the scriptures to receive wisdom to act.</p>
+</li>
+<li>
+<p data-aid="143138505" id="p10">We demonstrate our faith and trust in God.</p>
+</li>
+<li>
+<p data-aid="143138509" id="p11">We exert our power to plead with God to help us thwart the adversary’s influence.</p>
+</li>
+<li>
+<p data-aid="143138517" id="p12">We offer up the desires of our hearts to God.</p>
+</li>
+<li>
+<p data-aid="143138522" id="p13">We focus on His light guiding our life choices and resting upon us when we turn to Him.</p>
+</li>
+<li>
+<p data-aid="143138532" id="p14">We realize He knows each of us by name and has individual roles for us to fulfill.<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a></p>
+</li>
+</ul>
+<p data-aid="143138535" id="p15">In addition, Joseph Smith restored the knowledge that we have divine potential and eternal worth. Because of that relationship with our Heavenly Father, I believe He <em>expects</em> us to receive revelation from Him.</p>
+<p data-aid="143138542" id="p16">The Lord instructed Emma Smith to “receive the Holy Ghost,” learn much, “lay aside the things of this world, … seek for the things of a better,” and “cleave unto [her] covenants” with God.<a class="note-ref" href="#note8"><sup class="marker" data-value="8"></sup></a> Learning is integral to progression, especially as the constant companionship of the Holy Ghost teaches us what is needful for each of us to lay aside—meaning that which could <em>distract</em> us or <em>delay</em> our progression.</p>
+<p data-aid="143138551" id="p17">President Nelson said, “I plead with you to increase your spiritual capacity to receive revelation.”<a class="note-ref" href="#note9"><sup class="marker" data-value="9"></sup></a> Our prophet’s words are continually with me as I contemplate women’s ability to step forward. He pleads with us, which indicates priority. He is teaching us how to survive spiritually in a sin-sick world by receiving and acting on revelation.<a class="note-ref" href="#note10"><sup class="marker" data-value="10"></sup></a> As we do so, honoring and living the Lord’s commandments, we are promised, even as Emma Smith was, “a crown of righteousness.”<a class="note-ref" href="#note11"><sup class="marker" data-value="11"></sup></a> The Prophet Joseph taught of the importance of <em>knowing</em> that the path we are pursuing in this lifetime is approved of God. Without that knowledge, we “will grow weary in [our] minds, and faint.”<a class="note-ref" href="#note12"><sup class="marker" data-value="12"></sup></a></p>
+<p data-aid="143138554" id="p18">In this conference, we will hear truths that inspire us to change, improve, and purify our lives. Through <span class="page-break" data-page="17"></span>personal revelation, we can prevent what some call “general conference overwhelm”—when we leave so determined to do it <em>all</em> now. Women wear many hats, but it is impossible, and unnecessary, to wear them all at once. The Spirit helps us determine which work to focus on today.<a class="note-ref" href="#note13"><sup class="marker" data-value="13"></sup></a></p>
+<p data-aid="143138558" id="p19">The Lord’s loving influence through the Holy Ghost helps us know <em>His</em> priority for our progression. Heeding personal revelation leads to <em>personal</em> progression.<a class="note-ref" href="#note14"><sup class="marker" data-value="14"></sup></a> We listen and act.<a class="note-ref" href="#note15"><sup class="marker" data-value="15"></sup></a> The Lord said, “Ask the Father in my name in faith, believing that you shall receive, and you shall have the Holy Ghost, which manifesteth all things which are expedient.”<a class="note-ref" href="#note16"><sup class="marker" data-value="16"></sup></a> Our continuing role is to receive continuing revelation.</p>
+<p data-aid="143138564" id="p20">As we attain a greater degree of proficiency at doing so, we can receive more power in our individual roles to minister and accomplish the work of salvation and exaltation—to truly “lay aside the things of this world, and seek for the things of a better.”<a class="note-ref" href="#note17"><sup class="marker" data-value="17"></sup></a> We can then more effectively inspire our rising generation to do the same.</p>
+<p data-aid="143138569" id="p21">Brothers and sisters, we all seek God’s power in our lives.<a class="note-ref" href="#note18"><sup class="marker" data-value="18"></sup></a> There is beautiful unity between women and men in accomplishing God’s work today. We access the power of the priesthood through covenants, made first in the waters of baptism and then within the walls of holy temples.<a class="note-ref" href="#note19"><sup class="marker" data-value="19"></sup></a> President Nelson taught us, “Every woman and every man who makes covenants with God and keeps those covenants, and who participates worthily in priesthood ordinances, has direct access to the power of God.”<a class="note-ref" href="#note20"><sup class="marker" data-value="20"></sup></a></p>
+<p data-aid="143138574" id="p25">My personal admission today is that as a woman I didn’t realize, earlier in my life, that <em>I</em> had access, through my covenants, to the power of the priesthood.<a class="note-ref" href="#note21"><sup class="marker" data-value="21"></sup></a> Sisters, I pray that we will recognize and cherish priesthood power as we “cleave unto [our] covenants,”<a class="note-ref" href="#note22"><sup class="marker" data-value="22"></sup></a> embrace the truths of the scriptures, and heed the words of our living prophets.</p>
+<p data-aid="143138580" id="p22">Let us boldly declare our devotion to our Heavenly Father and our Savior, “with unshaken faith in him, relying wholly upon the merits of him who is mighty to save.”<a class="note-ref" href="#note23"><sup class="marker" data-value="23"></sup></a> Let us joyfully continue this journey toward our highest spiritual potential and help those around us to do the same through love, service, leadership, and compassion.</p>
+<p data-aid="143138586" id="p23">Elder James E. Talmage tenderly reminded us, “The world’s greatest champion of woman and womanhood is Jesus the Christ.”<a class="note-ref" href="#note24"><sup class="marker" data-value="24"></sup></a> In the final analysis of women’s continuing roles in the Restoration, and for us all, what role is preeminent? I testify that it is to <em>hear</em> Him,<a class="note-ref" href="#note25"><sup class="marker" data-value="25"></sup></a> to follow Him,<a class="note-ref" href="#note26"><sup class="marker" data-value="26"></sup></a> to trust Him,<a class="note-ref" href="#note27"><sup class="marker" data-value="27"></sup></a> and to become an extension of His love.<a class="note-ref" href="#note28"><sup class="marker" data-value="28"></sup></a> I know He lives.<a class="note-ref" href="#note29"><sup class="marker" data-value="29"></sup></a> In the sacred name of Jesus Christ, amen.</p>
+</div>
+<footer class="notes">
+<p class="title" data-aid="143138592" id="note_title1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="143138597" id="note1_p1">Russell M. Nelson, “<a class="cross-ref" href="/study/liahona/2015/11/sunday-morning-session/a-plea-to-my-sisters?lang=eng">A Plea to My Sisters</a>,” <cite>Ensign</cite> or <cite>Liahona,</cite> Nov. 2015, 95–96.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="143138602" id="note2_p1">Joseph Smith, in “<a href="https://www.josephsmithpapers.org/paper-summary/nauvoo-relief-society-minute-book/61">Nauvoo Relief Society Minute Book</a>,” 38, josephsmithpapers.org.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="143138607" id="note3_p1"><cite><a class="cross-ref" href="/study/manual/teachings-spencer-w-kimball/chapter-20?lang=eng&amp;id=p14#p14">Teachings of Presidents of the Church: Spencer W. Kimball</a></cite> (2006), 217.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="143138613" id="note4_p1">Russell M. Nelson, “<a class="cross-ref" href="/study/liahona/2015/11/sunday-morning-session/a-plea-to-my-sisters?lang=eng">A Plea to My Sisters</a>,” 97.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="143138619" id="note5_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/58?lang=eng&amp;id=p26-p28#p26">Doctrine and Covenants 58:26–28</a>.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="143138625" id="note6_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/6?lang=eng&amp;id=p33#p33">Doctrine and Covenants 6:33</a>.</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="143138633" id="note7_p1">See <a class="scripture-ref" href="/study/scriptures/pgp/js-h/1?lang=eng&amp;id=p11-p17#p11">Joseph Smith—History 1:11–17</a>.</p>
+</li>
+<li data-marker="8." id="note8" data-full-marker="8.">
+<p data-aid="143138642" id="note8_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/25?lang=eng&amp;id=p8%2Cp10%2Cp13#p8">Doctrine and Covenants 25:8, 10, 13</a>.</p>
+</li>
+<li data-marker="9." id="note9" data-full-marker="9.">
+<p data-aid="143138647" id="note9_p1">Russell M. Nelson, “<a class="cross-ref" href="/study/liahona/2018/05/sunday-morning-session/revelation-for-the-church-revelation-for-our-lives?lang=eng">Revelation for the Church, Revelation for Our Lives</a>,” <cite>Ensign</cite> or <cite>Liahona,</cite> May 2018, 96.</p>
+</li>
+<li data-marker="10." id="note10" data-full-marker="10.">
+<p data-aid="143138656" id="note10_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/2-ne/9?lang=eng&amp;id=p39#p39">2 Nephi 9:39</a>.</p>
+</li>
+<li data-marker="11." id="note11" data-full-marker="11.">
+<p data-aid="143138660" id="note11_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/25?lang=eng&amp;id=p15#p15">Doctrine and Covenants 25:15</a>.</p>
+</li>
+<li data-marker="12." id="note12" data-full-marker="12.">
+<p data-aid="143138665" id="note12_p1"><cite>Lectures on Faith</cite> (1985), 68.</p>
+</li>
+<li data-marker="13." id="note13" data-full-marker="13.">
+<p data-aid="143139680" id="note13_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/42?lang=eng&amp;id=p61#p61">Doctrine and Covenants 42:61</a>.</p>
+</li>
+<li data-marker="14." id="note14" data-full-marker="14.">
+<p data-aid="143139686" id="note14_p1">President Henry B. Eyring said:</p>
+<p data-aid="143139692" id="note14_p2">“Now, if you and I were visiting alone (I wish we could be), where you felt free to ask whatever you wanted to ask, I can imagine your saying something like this: ‘Oh, Brother Eyring, I’ve felt some of the things you have described. The Holy Ghost has touched my heart and mind from time to time. But I will need it consistently if I am not to be overcome or deceived. Is that possible? Is it possible, and, if it is, what will it take to receive that blessing?’</p>
+<p data-aid="143139700" id="note14_p4">“Well, let’s start with the first part of your question. Yes, it is possible. Whenever I need that reassurance—and I need it from time to time too—I remember two brothers. Nephi and Lehi, and the other servants of the Lord laboring with them, faced fierce opposition. They were serving in an increasingly wicked world. They had to deal with terrible deceptions. So I take courage—and so can you—from the words in this one verse of Helaman. The reassurance is tucked into the account of all that happened in an entire year, almost as if to the writer it was not surprising. Listen:</p>
+<p data-aid="143139702" id="note14_p6">“‘And in the seventy and ninth year there began to be much strife. But it came to pass that Nephi and Lehi, and many of their brethren who knew concerning the true points of doctrine, having many revelations daily, therefore they did preach unto the people, insomuch that they did put an end to their strife in that same year.’ [<a class="scripture-ref" href="/study/scriptures/bofm/hel/11?lang=eng&amp;id=p23#p23">Helaman 11:23</a>]</p>
+<p data-aid="143139715" id="note14_p8">“They had ‘many revelations daily.’ So, for you and for me, that answers your first question. Yes, it is possible to have the companionship of the Holy Ghost sufficiently to have many revelations daily. It will not be easy. But it is possible. What it will require will be different for each person because we start from where we are in our unique set of experiences in life” (“<a href="https://speeches.byu.edu/talks/henry-b-eyring/gifts-spirit-hard-times">Gifts of the Spirit for Hard Times</a>” [Brigham Young University fireside, Sept. 10, 2006], 3–4, speeches.byu.edu).</p>
+</li>
+<li data-marker="15." id="note15" data-full-marker="15.">
+<p data-aid="143139721" id="note15_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/2-ne/2?lang=eng&amp;id=p16#p16">2 Nephi 2:16</a>.</p>
+</li>
+<li data-marker="16." id="note16" data-full-marker="16.">
+<p data-aid="143139724" id="note16_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/18?lang=eng&amp;id=p18#p18">Doctrine and Covenants 18:18</a>.</p>
+</li>
+<li data-marker="17." id="note17" data-full-marker="17.">
+<p data-aid="143139727" id="note17_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/25?lang=eng&amp;id=p10#p10">Doctrine and Covenants 25:10</a>.</p>
+</li>
+<li data-marker="18." id="note18" data-full-marker="18.">
+<p data-aid="143139734" id="note18_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/121?lang=eng&amp;id=p26%2Cp33%2Cp41%2Cp45-p46#p26">Doctrine and Covenants 121:26, 33, 41, 45–46</a>.</p>
+</li>
+<li data-marker="19." id="note19" data-full-marker="19.">
+<p data-aid="143139741" id="note19_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/84?lang=eng&amp;id=p19-p21#p19">Doctrine and Covenants 84:19–21</a>.</p>
+</li>
+<li data-marker="20." id="note20" data-full-marker="20.">
+<p data-aid="143139752" id="note20_p1">Russell M. Nelson, “<a class="cross-ref" href="/study/general-conference/2019/10/36nelson?lang=eng">Spiritual Treasures</a>,” <cite>Ensign</cite> or <cite>Liahona,</cite> Nov. 2019, 77.</p>
+</li>
+<li data-marker="21." id="note21" data-full-marker="21.">
+<p data-aid="143139760" id="note21_p1">See Russell M. Nelson, “<a class="cross-ref" href="/study/general-conference/2019/10/36nelson?lang=eng">Spiritual Treasures</a>,” 76–79; Dallin H. Oaks, “<a class="cross-ref" href="/study/general-conference/2014/04/the-keys-and-authority-of-the-priesthood?lang=eng">The Keys and Authority of the Priesthood</a>,” <cite>Ensign</cite> or <cite>Liahona,</cite> May 2014, 49–52; Henry B. Eyring, “<a class="cross-ref" href="/study/general-conference/2018/10/women-and-gospel-learning-in-the-home?lang=eng">Women and Gospel Learning in the Home</a>,” <cite>Ensign</cite> or <cite>Liahona,</cite> Nov. 2018, 58–60.</p>
+</li>
+<li data-marker="22." id="note22" data-full-marker="22.">
+<p data-aid="143139767" id="note22_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/25?lang=eng&amp;id=p13#p13">Doctrine and Covenants 25:13</a>.</p>
+</li>
+<li data-marker="23." id="note23" data-full-marker="23.">
+<p data-aid="143139776" id="note23_p1"><a class="scripture-ref" href="/study/scriptures/bofm/2-ne/31?lang=eng&amp;id=p19#p19">2 Nephi 31:19</a>.</p>
+</li>
+<li data-marker="24." id="note24" data-full-marker="24.">
+<p data-aid="143139782" id="note24_p1">James E. Talmage, <cite>Jesus the Christ,</cite> 3rd ed. (1916), 475.</p>
+</li>
+<li data-marker="25." id="note25" data-full-marker="25.">
+<p data-aid="143139789" id="note25_p1">See <a class="scripture-ref" href="/study/scriptures/pgp/js-h/1?lang=eng&amp;id=p17#p17">Joseph Smith—History 1:17</a>.</p>
+</li>
+<li data-marker="26." id="note26" data-full-marker="26.">
+<p data-aid="143139796" id="note26_p1">See <a class="scripture-ref" href="/study/scriptures/nt/matt/4?lang=eng&amp;id=p19-p20#p19">Matthew 4:19–20</a>.</p>
+</li>
+<li data-marker="27." id="note27" data-full-marker="27.">
+<p data-aid="143139803" id="note27_p1">See <a class="scripture-ref" href="/study/scriptures/ot/prov/3?lang=eng&amp;id=p5-p6#p5">Proverbs 3:5–6</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/11?lang=eng&amp;id=p12#p12">Doctrine and Covenants 11:12</a>.</p>
+</li>
+<li data-marker="28." id="note28" data-full-marker="28.">
+<p data-aid="143139809" id="note28_p1">See <a class="scripture-ref" href="/study/scriptures/nt/john/13?lang=eng&amp;id=p34#p34">John 13:34</a>; <a class="scripture-ref" href="/study/scriptures/bofm/moro/7?lang=eng&amp;id=p47#p47">Moroni 7:47</a>.</p>
+</li>
+<li data-marker="29." id="note29" data-full-marker="29.">
+<p data-aid="143139816" id="note29_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/2-ne/33?lang=eng&amp;id=p6#p6">2 Nephi 33:6</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/76?lang=eng&amp;id=p22#p22">Doctrine and Covenants 76:22</a>.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
+      <guid isPermaLink="false">/general-conference/2020/04/14jones</guid>
+      <enclosure url="https://assets.churchofjesuschrist.org/4fe7801a0b5111ec99c6eeeeac1e03b29e418fef-64k-en.mp3" length="5689774" type="audio/mpeg"/>
+      <pubDate>Sat, 04 Apr 2020 10:00:00 -0600</pubDate>
+      <itunes:author>Joy D. Jones</itunes:author>
+    </item>
+    <item>
+      <title>Essential Conversations</title>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2021/04/13jones?lang=eng</link>
+      <description>Sister Jones reiterates the importance of teaching the gospel of Jesus Christ to our children.</description>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="12"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/73c460fdefcd2c897732920eab1b40999efe7eea/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/73c460fdefcd2c897732920eab1b40999efe7eea/full/%21192%2C/0/default" data-video-title="Essential Conversations" data-video-description="Sister Jones reiterates the importance of teaching the gospel of Jesus Christ to our children." data-video-id="6246437643001" data-ip="Download and Streaming                            " data-duration="684000" data-assetId="F087A3F4C905F53FFF518480540996292EDF23D1" data-ref-id="F087A3F4C905F53FFF518480540996292EDF23D1" data-asset-aliasId="f087a3f4c905f53fff518480540996292edf23d1" data-duration-string="11:24" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6246437643001.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="186228570"/><source src="https://assets.churchofjesuschrist.org/F087A3F4C905F53FFF518480540996292EDF23D1-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="38467781"/><source src="https://assets.churchofjesuschrist.org/F087A3F4C905F53FFF518480540996292EDF23D1-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="83497732"/><source src="https://assets.churchofjesuschrist.org/F087A3F4C905F53FFF518480540996292EDF23D1-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="186228570"/></video><h1 data-aid="146038277" id="title1">Essential Conversations</h1>
+<div class="byline">
+<p class="author-name" data-aid="146038278" id="author1">By Joy D. Jones</p>
+<p class="author-role" data-aid="146038279" id="author2">Recently Released Primary General President</p>
+</div>
+<p class="kicker" data-aid="146038280" id="kicker1">We cannot wait for conversion to simply happen to our children. Accidental conversion is not a principle of the gospel of Jesus Christ.</p>
+</header>
+<div class="body-block">
+<p data-aid="146038281" id="p1">Have you ever wondered why we call Primary “Primary”? While the name refers to spiritual learning children receive in their earliest years, to me it is also a reminder of a powerful truth. To our Heavenly Father, children have <em>never</em> been secondary—they have <em>always </em>been “primary.”<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a></p>
+<p data-aid="146038282" id="p2">He trusts us to value, respect, and protect them as children of God. That means we never harm them physically, verbally, or emotionally in any way, even when tensions and pressures run high. Instead we <em>value</em> children, and we do all we can to combat the evils of abuse. Their care is primary to us—as it is to Him.<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a></p>
+<p data-aid="146038283" id="p3">One young mother and father sat at their kitchen table reviewing their day. From down the hall, they heard a thud. The mother asked, “What was that?”</p>
+<p data-aid="146038284" id="p4">Then they heard a soft cry coming from their four-year-old son’s bedroom. They rushed down the hall. There he was, lying on the floor next to his bed. The mother picked up the little boy and asked him what had happened.</p>
+<p data-aid="146038285" id="p5">He said, “I fell out of bed.”</p>
+<p data-aid="146038286" id="p6">She said, “Why did you fall out of bed?”</p>
+<p data-aid="146038287" id="p7">He shrugged and said, “I don’t know. I guess I just didn’t get far enough in.”</p>
+<p data-aid="146038288" id="p8">It is about this “getting far enough in” that I would like to speak this morning. It is our privilege and responsibility to help children “get far enough in” to the gospel of Jesus Christ. And we cannot begin too soon.</p>
+<p data-aid="146038289" id="p9">There is a uniquely special time in children’s lives when they are protected from Satan’s influence. It is a time when they are innocent and sin free.<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a> It is a sacred time for parent and child. Children are to be taught, by word and example, before and after they have “arrived unto the years of accountability before God.”<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a></p>
+<p data-aid="146038290" id="p10">President Henry B. Eyring taught: “We have the greatest opportunity with the young. The best time to teach is early, while children are still immune to the temptations of [the] mortal enemy, and long before the words of truth may be harder for them to hear in the noise of their personal struggles.”<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a> Such teaching will help them realize their divine identity, their purpose, and the rich blessings that await them as they make sacred covenants and receive ordinances along the covenant path.</p>
+<p data-aid="146038291" id="p11">We cannot wait for conversion to simply happen to our children. Accidental conversion is <em>not</em> a principle of the gospel of Jesus Christ. Becoming like our Savior will not happen randomly. Being intentional in loving, teaching, and testifying can help children begin at a young age to feel the influence of the Holy Ghost. <span class="page-break" data-page="13"></span>The Holy Ghost is essential to our children’s testimony of and conversion to Jesus Christ; we desire them to “always remember him, that they may have his Spirit to be with them.”<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a></p>
+<img alt="Family conversation" id="img1" src="https://www.churchofjesuschrist.org/imgs/0571e71f1b96679727a261aef0484077d067f842/full/%21500%2C/0/default" data-assetId="0571e71f1b96679727a261aef0484077d067f842" srcset="https://www.churchofjesuschrist.org/imgs/0571e71f1b96679727a261aef0484077d067f842/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/0571e71f1b96679727a261aef0484077d067f842/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/0571e71f1b96679727a261aef0484077d067f842/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/0571e71f1b96679727a261aef0484077d067f842/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/0571e71f1b96679727a261aef0484077d067f842/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/0571e71f1b96679727a261aef0484077d067f842/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/0571e71f1b96679727a261aef0484077d067f842/full/%21640%2C/0/default 640w" data-img-id="0571e71f1b96679727a261aef0484077d067f842" data-missing-asset="false" data-width="500" data-height="322" data-aspect-ratio="1.5527950310559007" data-public-title="Democratic Republic of the Congo: Studying" data-public-description="A family reads the Liahona together."/>
+<p data-aid="146038292" id="p12">Consider the value of family conversations about the gospel of Jesus Christ, <em>essential</em> conversations, that can invite the Spirit. When we have such conversations with our children, we help them create a foundation, “which is a sure foundation, a foundation whereon if [they] build they cannot fall.”<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a> When we strengthen a child, we strengthen the family.</p>
+<p data-aid="146038293" id="p13">These vital discussions can lead children to:</p>
+<ul class="bullet">
+<li>
+<p data-aid="146038294" id="p14">Understand the doctrine of repentance.</p>
+</li>
+<li>
+<p data-aid="146038295" id="p15">Have faith in Christ, the Son of the living God.</p>
+</li>
+<li>
+<p data-aid="146038296" id="p16">Choose baptism and the gift of the Holy Ghost when eight years old.<a class="note-ref" href="#note8"><sup class="marker" data-value="8"></sup></a></p>
+</li>
+<li>
+<p data-aid="146038297" id="p17">And pray and “walk uprightly before the Lord.”<a class="note-ref" href="#note9"><sup class="marker" data-value="9"></sup></a></p>
+</li>
+</ul>
+<p data-aid="146038298" id="p18">The Savior urged, “Therefore I give unto you a commandment, to teach these things <em>freely</em> unto your children.”<a class="note-ref" href="#note10"><sup class="marker" data-value="10"></sup></a> And what did He want us to teach so freely?</p>
+<ol class="decimal" start="1">
+<li data-marker="1.">
+<p data-aid="146038299" id="p19">The Fall of Adam</p>
+</li>
+<li data-marker="2.">
+<p data-aid="146038300" id="p20">The Atonement of Jesus Christ</p>
+</li>
+<li data-marker="3.">
+<p data-aid="146038301" id="p21">The importance of being born again<a class="note-ref" href="#note11"><sup class="marker" data-value="11"></sup></a></p>
+</li>
+</ol>
+<p data-aid="146038302" id="p22">Elder D. Todd Christofferson said, “Certainly the adversary is pleased when parents neglect to teach and train their children to have faith in Christ and be spiritually born again.”<a class="note-ref" href="#note12"><sup class="marker" data-value="12"></sup></a></p>
+<p data-aid="146038303" id="p23">In contrast, the Savior would have us help children “put [their] trust in that Spirit which leadeth to do good.”<a class="note-ref" href="#note13"><sup class="marker" data-value="13"></sup></a> To do so, we can assist children in recognizing when they are feeling the Spirit and in discerning what actions cause the Spirit to leave. Thus they learn to repent and return to the light through the Atonement of Jesus Christ. This helps encourage spiritual resilience.</p>
+<p data-aid="146038304" id="p24">We can have fun helping our children build spiritual resilience at any age. It doesn’t have to be complicated or time intensive. Simple, caring conversations can lead children to know not only <em>what</em> they believe, but most important, <em>why</em> they believe it. Caring conversations, happening naturally and consistently, can lead to better understanding and answers. Let’s not allow the convenience of electronic devices to keep us from teaching and listening to our children and looking into their eyes.</p>
+<img alt="Mother-and-daughter conversation" id="img2" src="https://www.churchofjesuschrist.org/imgs/d77991bf17961a301ac04bd28bf68b4129b8e4c2/full/%21500%2C/0/default" data-assetId="d77991bf17961a301ac04bd28bf68b4129b8e4c2" srcset="https://www.churchofjesuschrist.org/imgs/d77991bf17961a301ac04bd28bf68b4129b8e4c2/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/d77991bf17961a301ac04bd28bf68b4129b8e4c2/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/d77991bf17961a301ac04bd28bf68b4129b8e4c2/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/d77991bf17961a301ac04bd28bf68b4129b8e4c2/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/d77991bf17961a301ac04bd28bf68b4129b8e4c2/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/d77991bf17961a301ac04bd28bf68b4129b8e4c2/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/d77991bf17961a301ac04bd28bf68b4129b8e4c2/full/%21640%2C/0/default 640w" data-img-id="d77991bf17961a301ac04bd28bf68b4129b8e4c2" data-missing-asset="false" data-width="500" data-height="322" data-aspect-ratio="1.5527950310559007" data-public-title="Family Life" data-public-description="A mother and her daughter are sitting at a picnic table outside, smiling, and looking at each other. The are happy as they share this moment together."/>
+<p data-aid="146038305" id="p25">Additional opportunities for essential conversations can occur through role-playing. Family members can act out situations of being tempted or pressured to make a bad choice. Such an exercise can fortify children to be prepared in a challenging setting. For example, we can act it out and then talk it out as we ask children what they would do:</p>
+<ul class="bullet">
+<li>
+<p data-aid="146038306" id="p26">If they are tempted to break the Word of Wisdom.</p>
+</li>
+<li>
+<p data-aid="146038308" id="p27">If they are exposed to pornography.</p>
+</li>
+<li>
+<p data-aid="146038310" id="p28">If they are tempted to lie, steal, or cheat.</p>
+</li>
+<li>
+<p data-aid="146038312" id="p29">If they hear something from a friend or teacher at school that disputes their beliefs or values.</p>
+</li>
+</ul>
+<span class="page-break" data-page="14"></span>
+<p data-aid="146038314" id="p30">As they act it out and then talk it out, rather than being caught unprepared in a hostile peer group setting, children can be armed with “the shield of faith wherewith [they] shall be able to quench <em>all</em> the fiery darts of the wicked.”<a class="note-ref" href="#note14"><sup class="marker" data-value="14"></sup></a></p>
+<p data-aid="146038316" id="p31">A close personal friend learned this crucial lesson as an 18-year-old. He enlisted in the United States military during the conflict between the United States and Vietnam. He was assigned to basic training in the infantry to become a foot soldier. He explained that the training was grueling. He described his drill instructor as cruel and inhumane.</p>
+<p data-aid="146038318" id="p32">One particular day his squad was dressed in full battle gear, hiking in sweltering heat. The drill instructor suddenly shouted orders to drop to the ground and not move. The instructor was watching for even the <em>slightest</em> motion. Any movement would result in serious consequences later on. The squad suffered for more than two hours in the heat with growing anger and resentment toward their leader.</p>
+<p data-aid="146038320" id="p33">Many months later our friend found himself leading his squad through the jungles of Vietnam. This was real, not just training. Shots began to ring from high in the surrounding trees. The entire squad immediately dropped to the ground.</p>
+<p data-aid="146038322" id="p34">What was the enemy looking for? Movement. Any motion at all would draw fire. My friend said that as he lay sweating and motionless on the jungle floor, waiting for dark for several long hours, his thoughts reflected back on basic training. He remembered his intense dislike for his drill instructor. Now he felt intense gratitude—for what he had taught him and how he had prepared him for this critical situation. The drill instructor had wisely equipped our friend and his squad with the ability to know what to do when the battle was raging. He had, in effect, saved our friend’s life.</p>
+<p data-aid="146038324" id="p35">How can we do the same for our children spiritually? Long before they enter the battlefield of life, how can we more fully strive to teach, fortify, and prepare them?<a class="note-ref" href="#note15"><sup class="marker" data-value="15"></sup></a> How can we invite them to “get far enough in”? Wouldn’t we rather have them “sweat” in the safe learning environment of the home than <em>bleed on the battlefields of life</em>?</p>
+<p data-aid="146038326" id="p36">As I look back, there were times when my husband and I felt like drill instructors in our earnestness to help our children live the gospel of Jesus Christ. The prophet Jacob seemed to voice these same feelings when he said: “I am desirous for the welfare of your souls. Yea, mine anxiety is great for you; and ye yourselves know that it ever has been.”<a class="note-ref" href="#note16"><sup class="marker" data-value="16"></sup></a></p>
+<p data-aid="146038328" id="p37">As children learn and progress, their beliefs will be challenged. But as they are properly equipped, they can grow in faith, courage, and confidence, even in the midst of strong opposition.</p>
+<span class="page-break" data-page="15"></span>
+<p data-aid="146038330" id="p38">Alma taught us to “prepare the minds of [the] children.”<a class="note-ref" href="#note17"><sup class="marker" data-value="17"></sup></a> We are preparing the rising generation to be the future defenders of the faith, to understand “that [they] are free to act for [themselves]—to choose the way of everlasting death or the way of eternal life.”<a class="note-ref" href="#note18"><sup class="marker" data-value="18"></sup></a> Children deserve to understand this great truth: eternity is the wrong thing to be wrong about.</p>
+<p data-aid="146038397" id="p39">May our simple yet essential conversations with our children help them to “enjoy the <em>words</em> of eternal life” now so that they may enjoy “eternal life in the world to come, even immortal glory.”<a class="note-ref" href="#note19"><sup class="marker" data-value="19"></sup></a></p>
+<p data-aid="146038401" id="p40">As we nurture and prepare our children, we allow for their agency, we love them with all our heart, we teach them God’s commandments and His gift of repentance, and we never, <em>ever</em>, give up on them. After all, isn’t this the Lord’s way with each of us?</p>
+<p data-aid="146038404" id="p41">Let us “press forward with a steadfastness in Christ,” knowing that we can have “a perfect brightness of hope”<a class="note-ref" href="#note20"><sup class="marker" data-value="20"></sup></a> through our loving Savior.</p>
+<p data-aid="146038410" id="p42">I testify that He is always the answer. In the sacred name of Jesus Christ, amen.</p>
+</div>
+<footer class="notes">
+<p class="title" data-aid="146038414" id="note_title1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="146038418" id="note1_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/3-ne/17?lang=eng&amp;id=p23-p24#p23">3 Nephi 17:23–24</a>.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="146038422" id="note2_p1">See Michaelene P. Grassli, “<a class="cross-ref" href="/study/general-conference/1992/10/behold-your-little-ones?lang=eng&amp;id=p13#p13">Behold Your Little Ones</a>,” <cite>Ensign</cite>, Nov. 1992, 93: “To me, the word <em>behold</em> is significant. It implies more than just ‘look and see.’ When the Lord instructed the Nephites to <em>behold</em> their little ones, I believe he told them to give attention to their children, to contemplate them, to look beyond the present and see their eternal possibilities.”</p>
+<p data-aid="146038426" id="note2_p2">See also Russell M. Nelson, “<a class="cross-ref" href="/study/general-conference/1991/04/listen-to-learn?lang=eng&amp;id=p6#p6">Listen to Learn</a>,” <cite>Ensign</cite>, May 1991, 22: “To rule children by force is the technique of Satan, not of the Savior. No, we don’t own our children. Our parental privilege is to love them, to lead them, and to let them go.”</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="146038430" id="note3_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/29?lang=eng&amp;id=p46-p47#p46">Doctrine and Covenants 29:46–47</a>.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="146038434" id="note4_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/20?lang=eng&amp;id=p71#p71">Doctrine and Covenants 20:71</a>.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="146038438" id="note5_p1">Henry B. Eyring, “<a class="cross-ref" href="/study/general-conference/1999/04/the-power-of-teaching-doctrine?lang=eng&amp;id=p24#p24">The Power of Teaching Doctrine</a>,” <cite>Ensign</cite>, May 1999, 74;  <cite>Liahona</cite>, July 1999, 87.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="146038441" id="note6_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/20?lang=eng&amp;id=p79#p79">Doctrine and Covenants 20:79</a>.</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="146038445" id="note7_p1"><a class="scripture-ref" href="/study/scriptures/bofm/hel/5?lang=eng&amp;id=p12#p12">Helaman 5:12</a>.</p>
+</li>
+<li data-marker="8." id="note8" data-full-marker="8.">
+<p data-aid="146038449" id="note8_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/68?lang=eng&amp;id=p25#p25">Doctrine and Covenants 68:25</a>; see also <a class="scripture-ref" href="/study/scriptures/pgp/a-of-f/1?lang=eng&amp;id=p4#p4">Articles of Faith 1:4</a>.</p>
+</li>
+<li data-marker="9." id="note9" data-full-marker="9.">
+<p data-aid="146038454" id="note9_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/68?lang=eng&amp;id=p28#p28">Doctrine and Covenants 68:28</a>.</p>
+</li>
+<li data-marker="10." id="note10" data-full-marker="10.">
+<p data-aid="146038459" id="note10_p1"><a class="scripture-ref" href="/study/scriptures/pgp/moses/6?lang=eng&amp;id=p58#p58">Moses 6:58</a>; emphasis added.</p>
+</li>
+<li data-marker="11." id="note11" data-full-marker="11.">
+<p data-aid="146038463" id="note11_p1">See <a class="scripture-ref" href="/study/scriptures/pgp/moses/6?lang=eng&amp;id=p59#p59">Moses 6:59</a>; see also <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/20?lang=eng&amp;id=p29-p31#p29">Doctrine and Covenants 20:29–31</a>.</p>
+</li>
+<li data-marker="12." id="note12" data-full-marker="12.">
+<p data-aid="146039468" id="note12_p1">D. Todd Christofferson, “<a class="cross-ref" href="/study/general-conference/2015/04/why-marriage-why-family?lang=eng&amp;id=p22#p22">Why Marriage, Why Family?</a>,” <cite>Ensign</cite> or <cite>Liahona</cite>, May 2015, 52.</p>
+</li>
+<li data-marker="13." id="note13" data-full-marker="13.">
+<p data-aid="146039473" id="note13_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/11?lang=eng&amp;id=p12-p13#p12">Doctrine and Covenants 11:12–13</a>; see also <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/93?lang=eng">Doctrine and Covenants 93</a>.</p>
+</li>
+<li data-marker="14." id="note14" data-full-marker="14.">
+<p data-aid="146039478" id="note14_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/27?lang=eng&amp;id=p17#p17">Doctrine and Covenants 27:17</a>; emphasis added; see also Marion G. Romney, “Home Teaching and Family Home Evening,” <cite>Improvement Era</cite>, June 1969, 97: “Satan, our enemy, is making an all-out assault upon righteousness. His well-marshaled forces are legion. Our children and youth are the targets of his main thrust. They are everywhere subjected to wicked and vicious propaganda. Every place they turn, they are buffeted with evil, cunningly devised to deceive and to destroy every sacred thing and every righteous principle. … If our children are to be sufficiently strengthened to stand against this satanic onslaught, they must be taught and trained in the home, as the Lord has directed.”</p>
+</li>
+<li data-marker="15." id="note15" data-full-marker="15.">
+<p data-aid="146039480" id="note15_p1">See Russell M. Nelson, “<a class="cross-ref" href="/study/general-conference/1995/04/children-of-the-covenant?lang=eng&amp;id=p10#p10">Children of the Covenant</a>,” <cite>Ensign</cite>, May 1995, 32:</p>
+<p data-aid="146039485" id="note15_p3">“Years ago as a young medical student I saw many patients afflicted with diseases that are now preventable. Today it is possible to immunize individuals against conditions that once were disabling—even deadly. One medical method by which acquired immunity is conferred is inoculation. The term <em>inoculate</em> is fascinating. It comes from two Latin roots: <em>in</em>, meaning ‘within’; and <em>oculus</em>, meaning ‘an eye.’ The verb <em>to inoculate</em>, therefore, literally means ‘to put an eye within’—to monitor against harm.</p>
+<p data-aid="146039490" id="note15_p2">“An affliction like polio can cripple or destroy the body. An affliction like sin can cripple or destroy the spirit. The ravages of polio can now be prevented by immunization, but the ravages of sin require other means of prevention. Doctors cannot immunize against iniquity. Spiritual protection comes only from the Lord—and in his own way. Jesus chooses not to inoculate, but to indoctrinate. His method employs no vaccine; it utilizes the teaching of divine doctrine—a governing ‘eye within’—to protect the eternal spirits of his children.”</p>
+</li>
+<li data-marker="16." id="note16" data-full-marker="16.">
+<p data-aid="146039495" id="note16_p1"><a class="scripture-ref" href="/study/scriptures/bofm/2-ne/6?lang=eng&amp;id=p3#p3">2 Nephi 6:3</a>.</p>
+</li>
+<li data-marker="17." id="note17" data-full-marker="17.">
+<p data-aid="146039500" id="note17_p1"><a class="scripture-ref" href="/study/scriptures/bofm/alma/39?lang=eng&amp;id=p16#p16">Alma 39:16</a>.</p>
+</li>
+<li data-marker="18." id="note18" data-full-marker="18.">
+<p data-aid="146039505" id="note18_p1"><a class="scripture-ref" href="/study/scriptures/bofm/2-ne/10?lang=eng&amp;id=p23#p23">2 Nephi 10:23</a>.</p>
+</li>
+<li data-marker="19." id="note19" data-full-marker="19.">
+<p data-aid="146039510" id="note19_p1"><a class="scripture-ref" href="/study/scriptures/pgp/moses/6?lang=eng&amp;id=p59#p59">Moses 6:59</a>; emphasis added.</p>
+</li>
+<li data-marker="20." id="note20" data-full-marker="20.">
+<p data-aid="146039515" id="note20_p1"><a class="scripture-ref" href="/study/scriptures/bofm/2-ne/31?lang=eng&amp;id=p20#p20">2 Nephi 31:20</a>.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
+      <guid isPermaLink="false">/general-conference/2021/04/13jones</guid>
+      <enclosure url="https://assets.churchofjesuschrist.org/fli39ivhcisvf1pk6o6ytn761rts5xc1tzm4uwvj-32k-en.m4a" length="2659409" type="audio/mpeg"/>
+      <pubDate>Sat, 03 Apr 2021 10:00:00 -0600</pubDate>
+      <itunes:author>Joy D. Jones</itunes:author>
     </item>
   </channel>
 </rss>

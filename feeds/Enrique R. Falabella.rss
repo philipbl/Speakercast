@@ -1,172 +1,239 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Talks By Enrique R. Falabella</title>
-    <link>http://philip.lundrigan.org/Speakercast/</link>
+    <link>https://philip.lundrigan.org/Speakercast/</link>
     <description>General Conference talks by Enrique R. Falabella.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Speakercast</generator>
     <image>
-      <url>http://philip.lundrigan.org/Speakercast/covers/Enrique%20R.%20Falabella.jpg</url>
+      <url>https://philip.lundrigan.org/Speakercast/covers/Enrique%20R.%20Falabella.jpg</url>
       <title>General Conference talks by Enrique R. Falabella.</title>
-      <link>http://philip.lundrigan.org/Speakercast/</link>
+      <link>https://philip.lundrigan.org/Speakercast/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 06 Oct 2007 10:00:00 -0700</lastBuildDate>
-    <pubDate>Sat, 06 Oct 2007 10:00:00 -0700</pubDate>
+    <lastBuildDate>Sun, 07 Apr 2013 14:00:00 -0600</lastBuildDate>
+    <pubDate>Sun, 07 Apr 2013 14:00:00 -0600</pubDate>
+    <itunes:author>Enrique R. Falabella</itunes:author>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
+    <itunes:image href="https://philip.lundrigan.org/Speakercast/covers/Enrique%20R.%20Falabella.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>General Conference talks by Enrique R. Falabella.</itunes:summary>
     <item>
       <title>Why Are We Members of the Only True Church?</title>
-      <link>http://www.lds.org/general-conference/2007/10/why-are-we-members-of-the-only-true-church?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2007/10/why-are-we-members-of-the-only-true-church?lang=eng</link>
       <description>The most valuable power we can possess is the treasure of a personal testimony of our Lord Jesus Christ.</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/2007/10/why-are-we-members-of-the-only-true-church" dup-conf="false" dup-mag="false" schema-version="1" doc-id="general-conference_PD00008332_000_006" doc-version="2" hash="4yVqkg"><div class="heading" uri="/general-conference/2007/10/why-are-we-members-of-the-only-true-church.head1"><h1 class="title" pid="3gFn0Ts55Uaz13q-drfPyw" hash="cDCjsA">Why Are We Members of the Only True Church?</h1><p class="authorName" guid="eb7e6ba3-0aec-486c-985a-722ed6eecad2" pid="oXvO2PmOK0-9WjweXLZQPg" hash="vQ2g1w">Enrique R. Falabella</p><p class="kicker" pid="IMCbN4Guhk6NCy4EH7Ev-Q" hash="X6cqvw">The most valuable power we can possess is the treasure of a personal testimony of our Lord Jesus Christ.</p></div><div class="bodyBlock" guid="dde97754-d8c1-434b-a33a-6eee70661979">
-    <div class="topic" uri="/general-conference/2007/10/why-are-we-members-of-the-only-true-church.t1">
-      <img src="https://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/FalabellaER_07.jpg" alt="Elder Enrique R. Falabella" guid="1381ea08-066c-499f-b11d-0f325faab16d" pid="9jUnkUJ-OkC3d6CaUGfQ1g" hash="fKipVA" />
-      <p class="para" uri="/general-conference/2007/10/why-are-we-members-of-the-only-true-church.p" pid="OlvFXj_HbUe296kuXKihNA" hash="6EOUtw">
-        <span class="pageBreak" page-number="14"></span>Why are we members of the only true Church? Even though I cannot answer this question for all 13 million members of the Church, I would like to express from my heart some answers that probably will fit with your own answers.</p>
-      <div class="topic" uri="/general-conference/2007/10/why-are-we-members-of-the-only-true-church.t2" guid="2834817f-519b-4540-b9fe-4772261f369e">
-        <h3 class="title" guid="df7e8073-4f95-4aae-8c38-7a2c7922da82" pid="aSwkVzgE6Eyvz8ZDVdnk3Q" hash="2pQ1hQ">The Riches of Eternity</h3>
-        <p class="para" uri="/general-conference/2007/10/why-are-we-members-of-the-only-true-church.p" pid="jk05Ms18XE-5M2Zbcyw44w" hash="tHmt8w">“Behold, he that hath eternal life is rich” (<a href="/scriptures/dc-testament/dc/6.7" class="scriptureRef">D&amp;C 6:7</a>).</p>
-        <p class="para" uri="/general-conference/2007/10/why-are-we-members-of-the-only-true-church.p" pid="_eTKpzVyNEmus1zco829tw" hash="pz3ngA">Riches were not a part of my childhood. We were a family of five: my father and four siblings. My mother had passed away when I was five years old. My father’s meager income was used to buy our food; the purchase of clothing was put off as long as possible.</p>
-        <p class="para" uri="/general-conference/2007/10/why-are-we-members-of-the-only-true-church.p" pid="lSFZaBTwy0CzuhlTcPFt5g" hash="OBMeiQ">One day, somewhat bothered, I came up to my father and said, “Daddy, why don’t you buy me some shoes? Look at these; they’re worn out, and you can see my big toe through the hole in the shoe.”</p>
-        <p class="para" uri="/general-conference/2007/10/why-are-we-members-of-the-only-true-church.p" pid="KIwd6lDxmUyjP2Cok-OqQw" hash="3xuy1g">“We’ll fix that up,” he replied and, with some black polish, gave a shine to my shoes. Later on he told me, “Son, it’s fixed up.”</p>
-        <p class="para" uri="/general-conference/2007/10/why-are-we-members-of-the-only-true-church.p" pid="PrlGv_Pn9EydJyuoxGxOmQ" hash="96hzig">“No,” I answered, “you can still see my big toe.”</p>
-        <p class="para" uri="/general-conference/2007/10/why-are-we-members-of-the-only-true-church.p" pid="FXN5RhpMWUiIJ9nPPUwCCA" hash="rCh7Ug">“That can also be fixed,” he told me. He again took the polish and put some on my toe, and before long it shined like my shoes. So it was early on in life I learned that happiness does not depend on money.</p>
-        <p class="para" uri="/general-conference/2007/10/why-are-we-members-of-the-only-true-church.p" pid="SraST80ceEGDmO4dvMtH2w" hash="obuv4Q">As time went by, a pair of missionaries taught us the <span class="emphasis">riches</span> of the restored gospel, of the doctrine of the plan of salvation, and of eternal families. We were baptized, and when my father began his calling as district president, his first objective was to journey to the temple and receive the blessings which would come because of that sacrifice. It was a 15-day journey covering 4,800 miles (7,725 km)—a journey filled with difficulties and setbacks, highways in poor condition, uncomfortable buses, not even knowing the route, but with great hope in the ordinances we would participate in.</p>
-        <p class="para" uri="/general-conference/2007/10/why-are-we-members-of-the-only-true-church.p" pid="z3ISr11KIUyBh-UaTlhGGg" hash="Xr7nJg">Upon arriving in the city of Mesa, Arizona, we headed down an avenue at the end of which we could see the house of the Lord, gleaming and beautiful. I remember the joy which filled our hearts; we all broke out in songs and praising, and tears ran down the cheeks of many Saints.</p>
-        <p class="para" uri="/general-conference/2007/10/why-are-we-members-of-the-only-true-church.p" pid="DHcppwu9lESjs9paonYIcQ" hash="WKHhkw">Later in the temple, we knelt as a family to hear the beautiful promises about an eternal family, with the certainty that our mother, though absent, was now our mother forever, and we felt the peace which comes from knowing that we are an eternal family.</p>
-        <p class="para" uri="/general-conference/2007/10/why-are-we-members-of-the-only-true-church.p" pid="lslkkDwnX0yopQ2ASMaEMg" hash="XQzWGQ">The promise of life eternal thus gave us the riches of eternity! “Behold, he that hath eternal life is rich” (<a href="/scriptures/dc-testament/dc/6.7" class="scriptureRef">D&amp;C 6:7</a>).</p>
-      </div>
-      <div class="topic" uri="/general-conference/2007/10/why-are-we-members-of-the-only-true-church.t3" guid="f9d419e6-3f7a-4246-b5bb-496cc187d2af">
-        <h3 class="title" guid="f7a6c4fc-2157-4f65-a024-aaa0a49e5c14" pid="nbIuH021tkWbjKq95XTDxw" hash="kdnAAQ">The Restored Priesthood</h3>
-        <p class="para" uri="/general-conference/2007/10/why-are-we-members-of-the-only-true-church.p" pid="zTqUvLVxzU6ar-H8R9uaEA" hash="4i1lMQ">The Church of Jesus Christ is a church of priests, “a royal priesthood, an holy nation” (<a href="/scriptures/nt/1-pet/2.9" class="scriptureRef">1 Peter 2:9</a>).</p>
-        <p class="para" uri="/general-conference/2007/10/why-are-we-members-of-the-only-true-church.p" pid="Ww-0rIeGVkS5BnIjydtPog" hash="HzG8yw">The restored Church gives to each home a priesthood holder with the power of God to bless. How many times I have been able to hear the soft, sweet voice of a little child at home say, “Daddy, could you give me a blessing?” and put my hands upon his or her head in moments of pain and difficulty and pronounce blessings of comfort and healing and see the power of the priesthood exercise its influence and the next day hear that little voice say, “Thanks, Daddy, I slept just fine last night.” We don’t need to go out looking for someone having that power—it is among us! What a blessing to be able to teach this principle to our children! This is the only church upon the earth which offers such a blessing to families.</p>
-        <p class="para" uri="/general-conference/2007/10/why-are-we-members-of-the-only-true-church.p" pid="obCeaFmK8EK93Yf-7vaUqg" hash="-Hb_zQ">
-          <span class="pageBreak" page-number="15"></span>Through this power, I was able to ordain each of my sons to the priesthood and thus give them the power of God to administer His ordinances.</p>
-        <p class="para" uri="/general-conference/2007/10/why-are-we-members-of-the-only-true-church.p" pid="n7BUYjKvm0aV8DpGEE4dLw" hash="BhJpcg">So then this is also why I am a member of this Church: because the power of the priesthood is again upon the earth and has reached even unto our homes.</p>
-      </div>
-      <div class="topic" uri="/general-conference/2007/10/why-are-we-members-of-the-only-true-church.t4" guid="31624dfa-95fa-43f5-84b7-22233c74f782">
-        <h3 class="title" guid="51b015b7-85a6-4a78-89b6-c1e56f1abece" pid="I_dKX1zk4UuvzDidqrDT-A" hash="lmiebA">Our Personal Testimonies</h3>
-        <p class="para" uri="/general-conference/2007/10/why-are-we-members-of-the-only-true-church.p" pid="fRmWAAqOC02ZHuGKBVQdHQ" hash="JrnQSw">The most valuable power we can possess is the treasure of a personal testimony of our Lord Jesus Christ and His atoning power.</p>
-        <p class="para" uri="/general-conference/2007/10/why-are-we-members-of-the-only-true-church.p" pid="auOpBH67Jki82smO2Vmd4Q" hash="s8gqWA">A testimony comes to us as we live a worthy life and seek it in prayer. “And the Spirit shall be given unto you by the prayer of faith” (<a href="/scriptures/dc-testament/dc/42.14" class="scriptureRef">D&amp;C 42:14</a>), our Lord counseled through the Prophet Joseph.</p>
-        <p class="para" uri="/general-conference/2007/10/why-are-we-members-of-the-only-true-church.p" pid="ryIJX-EBj0GEX2OtGuw5nQ" hash="tvw52Q">When my son Daniel was six years old, he saw that I was worried because I had to attend a stake conference. I was unsure about what to teach the Saints. He came up to me and said, “Daddy, that’s really easy.” That’s how children see everything.</p>
-        <p class="para" uri="/general-conference/2007/10/why-are-we-members-of-the-only-true-church.p" pid="qDb2WyWQX0GW_-VRd5WZmQ" hash="LmIr2g">“Let’s see, Son,” I told him. “Since it’s easy, tell me what I can talk to them about.”</p>
-        <p class="para" uri="/general-conference/2007/10/why-are-we-members-of-the-only-true-church.p" pid="2Ss6HVL_sUWqVDigz0CAKw" hash="p_WW1w">“Talk to them about prayer,” he told me.</p>
-        <p class="para" uri="/general-conference/2007/10/why-are-we-members-of-the-only-true-church.p" pid="WrJotBICZUmtbEXC-lOUVg" hash="lu_DhA">“That’s a good subject,” I told him, “but they’ve heard a lot of talk about prayer; what could I tell them that’s new?”</p>
-        <p class="para" uri="/general-conference/2007/10/why-are-we-members-of-the-only-true-church.p" pid="dHA6IBCFmEW3H-UlFhHNcg" hash="uRYGuQ">“That’s easy too, Daddy. First tell them, ‘Before you start to talk to Heavenly Father, think about the things you want to tell Him.’”</p>
-        <p class="para" uri="/general-conference/2007/10/why-are-we-members-of-the-only-true-church.p" pid="qHKvSZFU7EKwnnDjUL99_Q" hash="NqoEyQ">“That sounds like a magnificent idea,” I replied. “And then?”</p>
-        <p class="para" uri="/general-conference/2007/10/why-are-we-members-of-the-only-true-church.p" pid="hMFf254lO0Wqr3UbVgqECQ" hash="ZQpUfQ">“Well, once you’ve thought of it, tell it to Him! When you finish, wait and see if He has something to tell you.”</p>
-        <p class="para" uri="/general-conference/2007/10/why-are-we-members-of-the-only-true-church.p" pid="zRN5xNFiUUCmjn5jL0_ZXA" hash="KxrvGQ">So, through our prayers, the Spirit speaks to our spirit and testifies to us of the reality of our Savior.</p>
-        <p class="para" uri="/general-conference/2007/10/why-are-we-members-of-the-only-true-church.p" pid="6KXWvXz8b0qc4Ed2R8Gxaw" hash="oRld4w">I am filled with wonder at the love my Savior Jesus Christ showed by descending from the heavenly mansions and coming to a world where the majority rejected His message, and even though they did not have the power to take His life, they condemned Him to death. Christ paid for my sins, for my illnesses, afflictions, and sorrows. His pain was indescribable; Luke only makes mention that “his sweat was as it were great drops of blood” (<a href="/scriptures/nt/luke/22.44" class="scriptureRef">Luke 22:44</a>).</p>
-        <p class="para" uri="/general-conference/2007/10/why-are-we-members-of-the-only-true-church.p" pid="85KMquALakSLWN3bAhE_8w" hash="W1YdHA">Above all else, this is the reason for my membership in the Church: because the Holy Spirit has penetrated my heart and has made it known to me that Christ lives, that He is my Savior, that He paid for my sins, and that He has prepared the way so that if I live according to His precepts, I can enjoy all other promised blessings.</p>
-        <p class="para" uri="/general-conference/2007/10/why-are-we-members-of-the-only-true-church.p" pid="8uhO88PuB0qJu-pdTIST2Q" hash="RFrTBQ">A few weeks ago, my father also passed away, and now more than ever I feel thankfulness to my God for the richness and beauty of His doctrine.</p>
-        <p class="para" uri="/general-conference/2007/10/why-are-we-members-of-the-only-true-church.p" pid="uJYKDwy2Xkaa0P-lNuiOqA" hash="ImrN0Q">Because family life can continue beyond the thresholds of death. Because the royal priesthood has been restored upon the earth. And because the Spirit has spoken to my spirit, giving me a testimony that my Savior Jesus Christ lives and that through His intercession I shall be able, in accordance to my faithfulness, to live with Him. For these reasons and others still, I am a member of the only true Church upon the face of the earth, and I shall be eternally grateful for this. In the name of Jesus Christ, amen.</p>
-      </div>
-    </div>
-  </div><div class="resources">
-    <img src="https://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/FalabellaER_07.jpg" alt="Elder Enrique R. Falabella" guid="1381ea08-066c-499f-b11d-0f325faab16d" pid="N7CQkr3V1Uem9fSWI3CQAQ" hash="fKipVA1" />
-    <unknown name="digitalAssets" guid="">
-      <unknown name="assetGroup" guid="">
-        <unknown name="path" guid="1381ea08-066c-499f-b11d-0f325faab16d"></unknown>
-      </unknown>
-    </unknown>
-  </div></div>]]></content:encoded>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="14"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/f48e86034fc167751ee81a450cfd9ddd40af43a9/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/f48e86034fc167751ee81a450cfd9ddd40af43a9/full/%21192%2C/0/default" data-video-title="Why Are We Members of the Only True Church?" data-video-description="The most valuable power we can possess is the treasure of a personal testimony of our Lord Jesus Christ." data-video-id="2235950712001" data-ip="Download and Streaming                            " data-duration="494393" data-assetId="dde382da74cddd860688909008fb836c51efa4f6" data-ref-id="dde382da74cddd860688909008fb836c51efa4f6" data-duration-string="8:14" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/2235950712001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="133675885"/><source src="https://assets.churchofjesuschrist.org/dde382da74cddd860688909008fb836c51efa4f6-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="21687783"/><source src="https://assets.churchofjesuschrist.org/dde382da74cddd860688909008fb836c51efa4f6-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="43586726"/><source src="https://assets.churchofjesuschrist.org/dde382da74cddd860688909008fb836c51efa4f6-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="133675885"/></video><h1 data-aid="28838413" id="title1">Why Are We Members of the Only True Church?</h1>
+<div class="byline">
+<p class="author-name" data-aid="28838414" id="p1">By Elder Enrique R. Falabella</p>
+<p class="author-role" data-aid="28838415" id="p2">Of the Seventy</p>
+<div class="image-cropper"><img alt="Elder Enrique R. Falabella" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/ggyoouqfwklegfzbhn3bnedomxgttyfxvmq1h33b/full/%21100%2C/0/default" data-assetId="ggyoouqfwklegfzbhn3bnedomxgttyfxvmq1h33b" srcset="https://www.churchofjesuschrist.org/imgs/ggyoouqfwklegfzbhn3bnedomxgttyfxvmq1h33b/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/ggyoouqfwklegfzbhn3bnedomxgttyfxvmq1h33b/full/%21100%2C/0/default 100w" data-img-id="ggyoouqfwklegfzbhn3bnedomxgttyfxvmq1h33b" data-missing-asset="false" data-width="100" data-height="124" data-aspect-ratio="0.8064516129032258" data-public-title="Enrique R. Falabella" data-public-description="Enrique R. Falabella"/></div>
+</div>
+<p class="kicker" data-aid="28838416" id="kicker1">The most valuable power we can possess is the treasure of a personal testimony of our Lord Jesus Christ.</p>
+</header>
+<div class="body-block">
+<p data-aid="28838417" id="p3">Why are we members of the only true Church? Even though I cannot answer this question for all 13 million members of the Church, I would like to express from my heart some answers that probably will fit with your own answers.</p>
+<section>
+<header>
+<h2 data-aid="28838418" id="title2">The Riches of Eternity</h2>
+</header>
+<p data-aid="28838419" id="p4">“Behold, he that hath eternal life is rich” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/6?lang=eng&amp;id=p7#p7">D&amp;C 6:7</a>).</p>
+<p data-aid="28838420" id="p5">Riches were not a part of my childhood. We were a family of five: my father and four siblings. My mother had passed away when I was five years old. My father’s meager income was used to buy our food; the purchase of clothing was put off as long as possible.</p>
+<p data-aid="28838421" id="p6">One day, somewhat bothered, I came up to my father and said, “Daddy, why don’t you buy me some shoes? Look at these; they’re worn out, and you can see my big toe through the hole in the shoe.”</p>
+<p data-aid="28838422" id="p7">“We’ll fix that up,” he replied and, with some black polish, gave a shine to my shoes. Later on he told me, “Son, it’s fixed up.”</p>
+<p data-aid="28838423" id="p8">“No,” I answered, “you can still see my big toe.”</p>
+<p data-aid="28838424" id="p9">“That can also be fixed,” he told me. He again took the polish and put some on my toe, and before long it shined like my shoes. So it was early on in life I learned that happiness does not depend on money.</p>
+<p data-aid="28838425" id="p10">As time went by, a pair of missionaries taught us the <em>riches</em> of the restored gospel, of the doctrine of the plan of salvation, and of eternal families. We were baptized, and when my father began his calling as district president, his first objective was to journey to the temple and receive the blessings which would come because of that sacrifice. It was a 15-day journey covering 4,800 miles (7,725 km)—a journey filled with difficulties and setbacks, highways in poor condition, uncomfortable buses, not even knowing the route, but with great hope in the ordinances we would participate in.</p>
+<p data-aid="28838426" id="p11">Upon arriving in the city of Mesa, Arizona, we headed down an avenue at the end of which we could see the house of the Lord, gleaming and beautiful. I remember the joy which filled our hearts; we all broke out in songs and praising, and tears ran down the cheeks of many Saints.</p>
+<p data-aid="28838427" id="p12">Later in the temple we knelt as a family to hear the beautiful promises about an eternal family, with the certainty that our mother, though absent, was now our mother forever, and we felt the peace which comes from knowing that we are an eternal family.</p>
+<p data-aid="28838428" id="p13">The promise of life eternal thus gave us the riches of eternity! “Behold, he that hath eternal life is rich” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/6?lang=eng&amp;id=p7#p7">D&amp;C 6:7</a>).</p>
+</section>
+<section>
+<header>
+<h2 data-aid="28838429" id="title3">The Restored Priesthood</h2>
+</header>
+<p data-aid="28838430" id="p14">The Church of Jesus Christ is a church of priests, “a royal priesthood, an holy nation” (<a class="scripture-ref" href="/study/scriptures/nt/1-pet/2?lang=eng&amp;id=p9#p9">1 Peter 2:9</a>).</p>
+<p data-aid="28838431" id="p15">The restored Church gives to each home a priesthood holder with the power of God to bless. How many times I have been able to hear the soft, sweet voice of a little child at home say, “Daddy, could you give me a blessing?” and put my hands upon his or her head in moments of pain and difficulty and pronounce blessings of comfort and healing and see the power of the priesthood exercise its influence and the next day hear that little voice say, “Thanks, Daddy, I slept just fine last night.” We don’t need to go out looking for someone having that power—it is among us! What a blessing to be able to teach this principle to our children! This is the only church upon the earth which offers such a blessing to families.</p>
+<span class="page-break" data-page="15"></span>
+<p data-aid="28838432" id="p16">Through this power I was able to ordain each of my sons to the priesthood and thus give them the power of God to administer His ordinances.</p>
+<p data-aid="28838433" id="p17">So then this is also why I am a member of this Church: because the power of the priesthood is again upon the earth and has reached even unto our homes.</p>
+</section>
+<section>
+<header>
+<h2 data-aid="28838434" id="title4">Our Personal Testimonies</h2>
+</header>
+<p data-aid="28838435" id="p18">The most valuable power we can possess is the treasure of a personal testimony of our Lord Jesus Christ and His atoning power.</p>
+<p data-aid="28838436" id="p19">A testimony comes to us as we live a worthy life and seek it in prayer. “And the Spirit shall be given unto you by the prayer of faith” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/42?lang=eng&amp;id=p14#p14">D&amp;C 42:14</a>), our Lord counseled through the Prophet Joseph.</p>
+<p data-aid="28838437" id="p20">When my son Daniel was six years old, he saw that I was worried because I had to attend a stake conference. I was unsure about what to teach the Saints. He came up to me and said, “Daddy, that’s really easy.” That’s how children see everything.</p>
+<p data-aid="28838438" id="p21">“Let’s see, Son,” I told him. “Since it’s easy, tell me what I can talk to them about.”</p>
+<p data-aid="28838439" id="p22">“Talk to them about prayer,” he told me.</p>
+<p data-aid="28838440" id="p23">“That’s a good subject,” I told him, “but they’ve heard a lot of talk about prayer; what could I tell them that’s new?”</p>
+<p data-aid="28838441" id="p24">“That’s easy too, Daddy. First tell them, ‘Before you start to talk to Heavenly Father, think about the things you want to tell Him.’”</p>
+<p data-aid="28838442" id="p25">“That sounds like a magnificent idea,” I replied. “And then?”</p>
+<p data-aid="28838443" id="p26">“Well, once you’ve thought of it, tell it to Him! When you finish, wait and see if He has something to tell you.”</p>
+<p data-aid="28838444" id="p27">So, through our prayers, the Spirit speaks to our spirit and testifies to us of the reality of our Savior.</p>
+<p data-aid="28838445" id="p28">I am filled with wonder at the love my Savior Jesus Christ showed by descending from the heavenly mansions and coming to a world where the majority rejected His message, and even though they did not have the power to take His life, they condemned Him to death. Christ paid for my sins, for my illnesses, afflictions, and sorrows. His pain was indescribable; Luke only makes mention that “his sweat was as it were great drops of blood” (<a class="scripture-ref" href="/study/scriptures/nt/luke/22?lang=eng&amp;id=p44#p44">Luke 22:44</a>).</p>
+<p data-aid="28838446" id="p29">Above all else, this is the reason for my membership in the Church: because the Holy Spirit has penetrated my heart and has made it known to me that Christ lives, that He is my Savior, that He paid for my sins, and that He has prepared the way so that if I live according to His precepts, I can enjoy all other promised blessings.</p>
+<p data-aid="28838447" id="p30">A few weeks ago my father also passed away, and now more than ever I feel thankfulness to my God for the richness and beauty of His doctrine.</p>
+<p data-aid="28838448" id="p31">Because family life can continue beyond the thresholds of death. Because the royal priesthood has been restored upon the earth. And because the Spirit has spoken to my spirit, giving me a testimony that my Savior Jesus Christ lives and that through His intercession I shall be able, in accordance to my faithfulness, to live with Him. For these reasons and others still, I am a member of the only true Church upon the face of the earth, and I shall be eternally grateful for this. In the name of Jesus Christ, amen.</p>
+</section>
+</div>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/2007/10/why-are-we-members-of-the-only-true-church</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/october-2007-general-conference/2007-10-1050-elder-enrique-r-falabella-64k-eng.mp3" length="3940167" type="audio/mpeg"/>
-      <pubDate>Sat, 06 Oct 2007 10:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/5c63843d32e611ecb675eeeeac1e6a6932aff97f-64k-en.mp3" length="4254118" type="audio/mpeg"/>
+      <pubDate>Sat, 06 Oct 2007 10:00:00 -0600</pubDate>
+      <itunes:author>Enrique R. Falabella</itunes:author>
     </item>
     <item>
       <title>The Home: The School of Life</title>
-      <link>http://www.lds.org/general-conference/2013/04/the-home-the-school-of-life?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2013/04/the-home-the-school-of-life?lang=eng</link>
       <description>Lessons are learned in a home—the place that can become a piece of heaven here on earth.</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/2013/04/the-home-the-school-of-life" dup-conf="false" dup-mag="false" schema-version="1" doc-id="general-conference_10785_000_54falabella" doc-version="2" hash="TFVHQQ"><div class="heading" uri="/general-conference/2013/04/the-home-the-school-of-life.head1"><h1 class="title" pid="pqLMxdjowkGAQjR2nPQJKA" hash="5ELlRQ">The Home: The School of Life</h1><p class="authorName" pid="DLEeJw4lQEOQcPoWmzWJeg" hash="apRxYg">By Elder Enrique R. Falabella</p><p class="kicker" pid="lDQupZTeAEiPqqxe78_blw" hash="_wTjag">Lessons are learned in a home—the place that can become a piece of heaven here on earth.</p></div><div class="bodyBlock">
-				<p class="para" uri="/general-conference/2013/04/the-home-the-school-of-life.p5" pid="Wpma_6LSa0-Rg_xZCp6AEQ" hash="T4-6EA"><span class="pageBreak" page-number="102"></span>Some parents excuse themselves for mistakes they have made at home, stating that the reason for this is that there is not a school for parenting.</p>
-				<p class="para" uri="/general-conference/2013/04/the-home-the-school-of-life.p6" pid="NUbhitbt306rdFn4FC0GMg" hash="KGfmrw">In reality, such a school does exist and it can be the best of all. This school is called <span class="emphasis">home.</span></p>
-				<p class="para" uri="/general-conference/2013/04/the-home-the-school-of-life.p7" pid="7rDioiQM7UedfxjxguJX5g" hash="8Yz2ZA">As I travel back to the past on the wings of my memory, I recall cherished moments I have experienced with my wife. As I share these memories with you, you may recall experiences of your own—both happy and sad; we learn from them all.</p>
-				<div class="topic" uri="/general-conference/2013/04/the-home-the-school-of-life.t1" pid="Ax57eUIrsUqb8tdT1T3lMg" hash="0CxnIg">
-					<h2 class="title" pid="8fmRxmQtS0O3aZAzC2WckA" hash="RkWzFQ">1. The Temple Is the Place</h2>
-					<span class="story">
-						<p class="para" uri="/general-conference/2013/04/the-home-the-school-of-life.p9" pid="rxuzvXLq0EKctGURxryTyw" hash="gx9QoQ">When I returned from my mission, I met a beautiful young woman with long black hair down to her waist. She had beautiful, big honey eyes and a contagious smile. She captivated me from the first moment I saw her.</p>
-						<p class="para" uri="/general-conference/2013/04/the-home-the-school-of-life.p10" pid="BEoEEmiC7UuNkMObRx08uQ" hash="gNZhww">My wife had set the goal to get married in the temple, although back then the nearest temple required a trip of over 4,000 miles (6,400 km).</p>
-						<p class="para" uri="/general-conference/2013/04/the-home-the-school-of-life.p11" pid="MXAImJqUvEKybbH6fNdpvQ" hash="bIItwA">Our civil marriage ceremony was both happy and sad, for we were married with an expiration date. The officer pronounced the words “And now I declare you husband and wife,” but immediately after, he said, “until death do you part.”</p>
-						<p class="para" uri="/general-conference/2013/04/the-home-the-school-of-life.p12" pid="T_3UY61faU2OysO4kDn70w" hash="keRV3A">So with sacrifice we set out to purchase a one-way ticket to the Mesa Arizona Temple.</p>
-						<p class="para" uri="/general-conference/2013/04/the-home-the-school-of-life.p13" pid="zjUzrj2fhUWP26jVULaifw" hash="XuQnmQ">In the temple, as we were kneeling down at the altar, an authorized servant pronounced the words I longed for, which declared us husband and wife for time and for all eternity.</p>
-						<p class="para" uri="/general-conference/2013/04/the-home-the-school-of-life.p14" pid="_v745-FapUyi0uaZLFMtew" hash="xFNxHw">A friend took us to Sunday School. During the meeting he stood up and introduced us to the class. As the meeting came to a close, a brother approached me and shook my hand, leaving a 20-dollar bill in it. Soon after, another brother reached out to me as well, and to my surprise, he also left a bill in my hand. I quickly looked for my wife, who was across the room, and shouted, “Blanquy, shake hands with everyone!”</p>
-						<p class="para" uri="/general-conference/2013/04/the-home-the-school-of-life.p15" pid="JgVcHIDNCk6Hehjg2pby-w" hash="AAF0hw">Soon we had gathered enough money to return to Guatemala.</p>
-					</span>
-					<p class="para" uri="/general-conference/2013/04/the-home-the-school-of-life.p16" pid="-UBypRRAPkyvOJpLfr6HhQ" hash="_hQ37w">“In the celestial glory there are three heavens or degrees;</p>
-					<p class="para" uri="/general-conference/2013/04/the-home-the-school-of-life.p17" pid="uARtp-mF00Wx5smc_K1MCQ" hash="wWLr6w">“And in order to obtain the highest, a man must enter into this order of the priesthood.”<span class="noteMarker" ref="f_1">1</span></p>
-				</div>
-				<div class="topic" uri="/general-conference/2013/04/the-home-the-school-of-life.t2">
-					<h2 class="title" pid="F6niVR_MV0mc7tIo1JD_Qg" hash="LiuB3Q">2. To Contend, You Need Two People</h2>
-					<p class="para" uri="/general-conference/2013/04/the-home-the-school-of-life.p19" pid="PLnIErqy1Ua0Y8Iq9_14Ag" hash="pB89FA">One of my wife’s mottoes has been “In order to contend, you need two people, and I will never be one of them.”</p>
-					<p class="para" uri="/general-conference/2013/04/the-home-the-school-of-life.p20" pid="nzExOFkW5U227casrWDYRg" hash="1iGzAw">The Lord has clearly described the attributes which should guide our dealings with other people. These are persuasion, long-suffering, gentleness, meekness, and love unfeigned.<span class="noteMarker" ref="f_2">2</span></p>
-					<p class="para" uri="/general-conference/2013/04/the-home-the-school-of-life.p21" pid="EwB9iX0kE0i6C_efwuHzZA" hash="Kkn4vg">Physical abuse in the family is a practice that is occurring less often in certain societies, and we rejoice in that. However, we are still far from eliminating emotional abuse. The harm caused by this form of abuse dwells in our memory, it wounds our personality, it sows hatred in our hearts, it lowers our self-esteem, and it fills us with fear.</p>
-					<p class="para" uri="/general-conference/2013/04/the-home-the-school-of-life.p22" pid="w95yv3bvm0mw09mQOo8xIA" hash="evb8cw">Participating in the ceremony of celestial marriage is not enough. We also have to live a celestial life.</p>
-				</div>
-				<div class="topic" uri="/general-conference/2013/04/the-home-the-school-of-life.t3">
-					<h2 class="title" pid="f7sMtC0_F0WGOoeYY3ejWg" hash="kcQhcA">3. A Child Who Sings Is a Happy Child</h2>
-					<p class="para" uri="/general-conference/2013/04/the-home-the-school-of-life.p24" pid="r6j5V2WPvUOEgs4XF62YvQ" hash="FD6-Wg">This is another motto my wife mentions frequently.</p>
-					<p class="para" uri="/general-conference/2013/04/the-home-the-school-of-life.p25" pid="Ml-7Gi73fUmENI7aQEJHNg" hash="Ysh6Ng">The Savior understood the importance of sacred music. After He observed Passover with His disciples, the scriptures relate, “And when they had sung an hymn, they went out into the mount of Olives.”<span class="noteMarker" ref="f_3">3</span></p>
-					<p class="para" uri="/general-conference/2013/04/the-home-the-school-of-life.p26" pid="NMSjzmv_qECt_JndIMiEeA" hash="GJiO2w">And speaking through the Prophet Joseph, He said, “For my soul delighteth in the song of the heart; yea, the song of the righteous is a prayer unto me, and it shall be answered with a blessing upon their heads.”<span class="noteMarker" ref="f_4">4</span></p>
-					<p class="para" uri="/general-conference/2013/04/the-home-the-school-of-life.p27" pid="NXV7rECxOk61ymyU6N62gQ" hash="iXQrVg">How touching it is to hear the song of a little one who has been taught by his or her parents to sing, “I am a child of God.”<span class="noteMarker" ref="f_5">5</span></p>
-				</div>
-				<div class="topic" uri="/general-conference/2013/04/the-home-the-school-of-life.t4">
-					<h2 class="title" pid="-kasarraAkO_npHifXmqLg" hash="rUGPcg">4. I Need You to Hug Me</h2>
-					<p class="para" uri="/general-conference/2013/04/the-home-the-school-of-life.p29" pid="a13Y6WmVXkm7pW8RFu5zGQ" hash="3Rqxhg">The words “I love you,” “Thank you very much,” and “Forgive me” are like a balm for the soul. They transform <span class="pageBreak" page-number="103"></span>tears into happiness. They provide comfort to the weighed-down soul, and they confirm the tender feelings of our heart. Just as plants wither with the lack of precious water, our love languishes and dies as we put to rest the words and acts of love.</p>
-					<p class="para" uri="/general-conference/2013/04/the-home-the-school-of-life.p30" pid="gma-rJdKaEWOH_R0QrnuBg" hash="XclpxQ">I remember the days when we used to send love letters through standard post or how we collected a few coins to call our loved ones from a phone booth or how we would draw and write love poems on plain paper.</p>
-					<p class="para" uri="/general-conference/2013/04/the-home-the-school-of-life.p31" pid="1IWQQ9XqaEeZM39EDVlvhA" hash="LBZWpg">Today all of this sounds like museum material!</p>
-					<p class="para" uri="/general-conference/2013/04/the-home-the-school-of-life.p32" pid="__7UGQa7M0ehrv_GZ9BEPg" hash="MARaPg">Technology in this day and age allows us to do wonders. How easy it is to send a text message of love and gratitude! Youth do it all the time. I wonder if this and other beautiful practices continue once our home is established. One of the recent text messages I received from my wife reads like this: “A hug like heaven, a kiss like the sun, and an evening like the moon. Happy day, I love you.”</p>
-					<p class="para" uri="/general-conference/2013/04/the-home-the-school-of-life.p33" pid="bJS8ZtqS9UmgjBmlootwuA" hash="CyG9ew">I cannot resist feeling like I am in heaven when I get a message like this.</p>
-					<p class="para" uri="/general-conference/2013/04/the-home-the-school-of-life.p34" pid="oCkTH_E3DE-898HO7dpgog" hash="sd1gyw">Our Father in Heaven is a perfect example of expressing love. As He presented His Son, He used the words “This is my beloved Son, in whom I am well pleased.”<span class="noteMarker" ref="f_6">6</span></p>
-				</div>
-				<div class="topic" uri="/general-conference/2013/04/the-home-the-school-of-life.t5" pid="zh79JO8tZEWSZFS7KkpEHA" hash="qONAjA">
-					<h2 class="title" pid="dUPqfpAUTUi79FkIC_Zfww" hash="-aeZpQ">5. I Love the Book of Mormon and My Savior, Jesus Christ</h2>
-					<p class="para" uri="/general-conference/2013/04/the-home-the-school-of-life.p36" pid="Va-D82J1MUyms2h4fUAHKg" hash="Qb82oQ">I am filled with emotion when I see my wife read the Book of Mormon every day. As she does so, I can feel her testimony just by seeing the joy in her countenance as she reads over the passages that testify of the mission of the Savior.</p>
-					<p class="para" uri="/general-conference/2013/04/the-home-the-school-of-life.p37" pid="2_1dlLZmd0KqanVZjL2YYQ" hash="Dyt6xw">How wise are the words of our Savior: “Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me.”<span class="noteMarker" ref="f_7">7</span></p>
-					<span class="story">
-						<p class="para" uri="/general-conference/2013/04/the-home-the-school-of-life.p38" pid="EEHAsOqkrkmIXUbDhsiQDA" hash="OXng6g">Inspired by this, I asked my grandchild Raquel, who had recently learned how to read, “What would you say about setting a goal to read the Book of Mormon?”</p>
-						<p class="para" uri="/general-conference/2013/04/the-home-the-school-of-life.p39" pid="Ae56ylCVTk2_tM5Z13PiTA" hash="0vRwlQ">Her answer was “But, Grandpa, it’s so hard. It’s a big book.”</p>
-						<p class="para" uri="/general-conference/2013/04/the-home-the-school-of-life.p40" pid="5s1lbZKEJU6D-EUGBe7Swg" hash="WttZRg">Then I asked her to read me a page. I took out a stopwatch and timed her. I said, “You took only three minutes, and the Spanish version of the Book of Mormon has 642 pages, so you need 1,926 minutes.”</p>
-						<p class="para" uri="/general-conference/2013/04/the-home-the-school-of-life.p41" pid="VaRWI1f0NkOOsEEgio64Uw" hash="r4qgtQ">This could have scared her even more, so I divided that number by 60 minutes and told her she would need only 32 hours to read it—less than a day and a half!</p>
-						<p class="para" uri="/general-conference/2013/04/the-home-the-school-of-life.p42" pid="5P5tl4MwvkCEczwlAZ0YZA" hash="i6XLMw">Then she said to me, “That’s so easy, Grandpa.”</p>
-						<p class="para" uri="/general-conference/2013/04/the-home-the-school-of-life.p43" pid="YQLzJZbpOEun5oxqyFDK5Q" hash="GwBKnQ">In the end, Raquel, her brother, Esteban, and our other grandchildren took more time than this because this is a book which needs to be read with a spirit of prayer and meditation.</p>
-					</span>
-					<p class="para" uri="/general-conference/2013/04/the-home-the-school-of-life.p44" pid="X2Xtu9iFLUmOV4WwZBNp9Q" hash="jQtGvA">With time, as we learn to delight in the scriptures, we shall exclaim as the Psalmist: “How sweet are thy words unto my taste! yea, sweeter than honey to my mouth!”<span class="noteMarker" ref="f_8">8</span></p>
-				</div>
-				<div class="topic" uri="/general-conference/2013/04/the-home-the-school-of-life.t6">
-					<h2 class="title" pid="G5ullZ1fukeWSM4ZzZeZpA" hash="8OvA7g">6. It Is Not Enough to Know the Scriptures; We Have to Live Them</h2>
-					<p class="para" uri="/general-conference/2013/04/the-home-the-school-of-life.p46" pid="t2KcGLFeVkaUBN_k4qlwFQ" hash="KBu27Q">I remember when I was a returned missionary, and having searched the scriptures diligently, I thought I knew it all. During our courtship, Blanquy and I would study the scriptures together. I used many of my notes and references to share my knowledge of the gospel with her. After we married <span class="pageBreak" page-number="104"></span>I came to a serious realization as I learned a great lesson from her: I may have tried to <span class="emphasis">teach</span> her the gospel, but she taught me how to <span class="emphasis">live</span> it.</p>
-					<p class="para" uri="/general-conference/2013/04/the-home-the-school-of-life.p47" pid="0brhSMyQFEOUORuzs712WQ" hash="7Pu08w">When the Savior concluded the Sermon on the Mount, He gave this wise counsel: “Therefore whosoever heareth these sayings of mine, and doeth them, I will liken him unto a wise man, which built his house upon a rock.”<span class="noteMarker" ref="f_9">9</span></p>
-					<p class="para" uri="/general-conference/2013/04/the-home-the-school-of-life.p48" pid="SKxatImYKkyYke8VjQKBZg" hash="aZueJQ">Those who live the celestial principles found in the scriptures give comfort to those who suffer. They bring joy to those who are depressed, direction to those who are lost, peace to those who are distressed, and a sure guidance to those who seek the truth.</p>
-				</div>
-				<p class="para" uri="/general-conference/2013/04/the-home-the-school-of-life.p49" pid="tI2sO0jgCUmtDsQzNC6-ow" hash="jVXs0A">In summary:</p>
-				<div class="figure" uri="/general-conference/2013/04/the-home-the-school-of-life.f1"><ol class="number" guid=""><li pid="NJwOg8BYxk61DHWhZOx2nQ" hash="RkWzFQ1">
-						<span class="label">1.</span>
-						<p pid="lg3QsJL9OEC0Ue2fmcYeRQ" hash="ONr6RQ">The temple is the place.</p>
-					</li><li pid="rdnPgb2gU0CVLOj3lTPHNA" hash="1Ili3g">
-						<span class="label">2.</span>
-						<p pid="RdJ3qU9RJkeHEA-h90UvAQ" hash="ZoCwHA">To contend, you need two people, and I will never be one of them.</p>
-					</li><li pid="oik7G22v0EeIJFjc65fAIg" hash="kcQhcA1">
-						<span class="label">3.</span>
-						<p pid="xAO5n0Wvnk-PlVwK61ch4w" hash="-y7EFA">A child who sings is a happy child.</p>
-					</li><li pid="RjL710WfNUulZkSWLu8wbA" hash="rUGPcg1">
-						<span class="label">4.</span>
-						<p pid="LSEDIdaMsUqciKNhrYdvTg" hash="p-VZeA">I need you to hug me.</p>
-					</li><li pid="ilztZSaBMUSToPJSscDBfw" hash="-aeZpQ1">
-						<span class="label">5.</span>
-						<p pid="avz8Vyj6QkGvxSppxh_Qxg" hash="yZK6QQ">I love the Book of Mormon and my Savior, Jesus Christ.</p>
-					</li><li pid="kSWymuiHHEO7OoDYGzrcYw" hash="8OvA7g1">
-						<span class="label">6.</span>
-						<p pid="2mw-OryoD025NvNwMWlo5w" hash="Nxnb8w">It is not enough to know the scriptures; we have to live them.</p>
-					</li></ol></div>
-				<p class="para" uri="/general-conference/2013/04/the-home-the-school-of-life.p56" pid="aRCy8WO5tU28cQZRW8zPaw" hash="SXjxeA">These and many other lessons are learned in a home—the place that can become a piece of heaven here on earth.<span class="noteMarker" ref="f_10">10</span> I testify that the gospel of Jesus Christ and the plan of our Heavenly Father provide a sure direction in this life and the promise of eternal life, in the name of Jesus Christ, amen.</p>
-			</div></div>]]></content:encoded>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="102"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/248921bb24b88b30c1dbe8cce20f7d7fed339537/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/248921bb24b88b30c1dbe8cce20f7d7fed339537/full/%21192%2C/0/default" data-video-title="The Home: The School of Life" data-video-description="Lessons are learned in a home—the place that can become a piece of heaven here on earth." data-video-id="2285598610001" data-ip="Download and Streaming                            " data-duration="652233" data-assetId="b127ccd46ba085d5c1e980816a6f41f28c3e945a" data-ref-id="b127ccd46ba085d5c1e980816a6f41f28c3e945a" data-duration-string="10:52" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/2285598610001.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="192629441"/><source src="https://assets.churchofjesuschrist.org/b127ccd46ba085d5c1e980816a6f41f28c3e945a-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="41974945"/><source src="https://assets.churchofjesuschrist.org/b127ccd46ba085d5c1e980816a6f41f28c3e945a-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="75371215"/><source src="https://assets.churchofjesuschrist.org/b127ccd46ba085d5c1e980816a6f41f28c3e945a-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="192629441"/></video><h1 data-aid="28857883" id="title1">The Home: The School of Life</h1>
+<div class="byline">
+<p class="author-name" data-aid="28857884" id="p1">By Elder Enrique R. Falabella</p>
+<p class="author-role" data-aid="28857885" id="p2">Of the Seventy</p>
+<div class="image-cropper"><img alt="Elder Enrique R. Falabella" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/ggyoouqfwklegfzbhn3bnedomxgttyfxvmq1h33b/full/%21100%2C/0/default" data-assetId="ggyoouqfwklegfzbhn3bnedomxgttyfxvmq1h33b" srcset="https://www.churchofjesuschrist.org/imgs/ggyoouqfwklegfzbhn3bnedomxgttyfxvmq1h33b/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/ggyoouqfwklegfzbhn3bnedomxgttyfxvmq1h33b/full/%21100%2C/0/default 100w" data-img-id="ggyoouqfwklegfzbhn3bnedomxgttyfxvmq1h33b" data-missing-asset="false" data-width="100" data-height="124" data-aspect-ratio="0.8064516129032258" data-public-title="Enrique R. Falabella" data-public-description="Enrique R. Falabella"/></div>
+</div>
+<p class="kicker" data-aid="28857886" id="kicker1">Lessons are learned in a home—the place that can become a piece of heaven here on earth.</p>
+</header>
+<div class="body-block">
+<p data-aid="28857887" id="p3">Some parents excuse themselves for mistakes they have made at home, stating that the reason for this is that there is not a school for parenting.</p>
+<p data-aid="28857888" id="p4">In reality, such a school does exist and it can be the best of all. This school is called <em>home.</em></p>
+<p data-aid="28857889" id="p5">As I travel back to the past on the wings of my memory, I recall cherished moments I have experienced with my wife. As I share these memories with you, you may recall experiences of your own—both happy and sad; we learn from them all.</p>
+<section>
+<header>
+<h2 data-aid="28857890" id="title2">1. The Temple Is the Place</h2>
+</header>
+<p data-aid="28857891" id="p6">When I returned from my mission, I met a beautiful young woman with long black hair down to her waist. She had beautiful, big honey eyes and a contagious smile. She captivated me from the first moment I saw her.</p>
+<p data-aid="28857892" id="p7">My wife had set the goal to get married in the temple, although back then the nearest temple required a trip of over 4,000 miles (6,400 km).</p>
+<p data-aid="28857893" id="p8">Our civil marriage ceremony was both happy and sad, for we were married with an expiration date. The officer pronounced the words “And now I declare you husband and wife,” but immediately after, he said, “until death do you part.”</p>
+<p data-aid="28857894" id="p9">So with sacrifice we set out to purchase a one-way ticket to the Mesa Arizona Temple.</p>
+<p data-aid="28857895" id="p10">In the temple, as we were kneeling down at the altar, an authorized servant pronounced the words I longed for, which declared us husband and wife for time and for all eternity.</p>
+<p data-aid="28857896" id="p11">A friend took us to Sunday School. During the meeting he stood up and introduced us to the class. As the meeting came to a close, a brother approached me and shook my hand, leaving a 20-dollar bill in it. Soon after, another brother reached out to me as well, and to my surprise, he also left a bill in my hand. I quickly looked for my wife, who was across the room, and shouted, “Blanquy, shake hands with everyone!”</p>
+<p data-aid="28857897" id="p12">Soon we had gathered enough money to return to Guatemala.</p>
+<p data-aid="28857898" id="p13">“In the celestial glory there are three heavens or degrees;</p>
+<p data-aid="28857899" id="p14">“And in order to obtain the highest, a man must enter into this order of the priesthood.”<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a></p>
+</section>
+<section>
+<header>
+<h2 data-aid="28857900" id="title3">2. To Contend, You Need Two People</h2>
+</header>
+<p data-aid="28857901" id="p15">One of my wife’s mottoes has been “In order to contend, you need two people, and I will never be one of them.”</p>
+<p data-aid="28857902" id="p16">The Lord has clearly described the attributes which should guide our dealings with other people. These are persuasion, long-suffering, gentleness, meekness, and love unfeigned.<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a></p>
+<p data-aid="28857903" id="p17">Physical abuse in the family is a practice that is occurring less often in certain societies, and we rejoice in that. However, we are still far from eliminating emotional abuse. The harm caused by this form of abuse dwells in our memory, it wounds our personality, it sows hatred in our hearts, it lowers our self-esteem, and it fills us with fear.</p>
+<p data-aid="28857904" id="p18">Participating in the ceremony of celestial marriage is not enough. We also have to live a celestial life.</p>
+</section>
+<section>
+<header>
+<h2 data-aid="28857905" id="title4">3. A Child Who Sings Is a Happy Child</h2>
+</header>
+<p data-aid="28857906" id="p19">This is another motto my wife mentions frequently.</p>
+<p data-aid="28857907" id="p20">The Savior understood the importance of sacred music. After He observed Passover with His disciples, the scriptures relate, “And when they had sung an hymn, they went out into the mount of Olives.”<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a></p>
+<p data-aid="28857908" id="p21">And speaking through the Prophet Joseph, He said, “For my soul delighteth in the song of the heart; yea, the song of the righteous is a prayer unto me, and it shall be answered with a blessing upon their heads.”<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a></p>
+<p data-aid="28857909" id="p22">How touching it is to hear the song of a little one who has been taught by his or her parents to sing, “I am a child of God.”<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a></p>
+</section>
+<section>
+<header>
+<h2 data-aid="28857910" id="title5">4. I Need You to Hug Me</h2>
+</header>
+<p data-aid="28857911" id="p23">The words “I love you,” “Thank you very much,” and “Forgive me” are like a balm for the soul. They transform <span class="page-break" data-page="103"></span>tears into happiness. They provide comfort to the weighed-down soul, and they confirm the tender feelings of our heart. Just as plants wither with the lack of precious water, our love languishes and dies as we put to rest the words and acts of love.</p>
+<p data-aid="28857912" id="p24">I remember the days when we used to send love letters through standard post or how we collected a few coins to call our loved ones from a phone booth or how we would draw and write love poems on plain paper.</p>
+<p data-aid="28857913" id="p25">Today all of this sounds like museum material!</p>
+<p data-aid="28857914" id="p26">Technology in this day and age allows us to do wonders. How easy it is to send a text message of love and gratitude! Youth do it all the time. I wonder if this and other beautiful practices continue once our home is established. One of the recent text messages I received from my wife reads like this: “A hug like heaven, a kiss like the sun, and an evening like the moon. Happy day, I love you.”</p>
+<p data-aid="28857915" id="p27">I cannot resist feeling like I am in heaven when I get a message like this.</p>
+<p data-aid="28857916" id="p28">Our Father in Heaven is a perfect example of expressing love. As He presented His Son, He used the words “This is my beloved Son, in whom I am well pleased.”<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a></p>
+</section>
+<section>
+<header>
+<h2 data-aid="28857917" id="title6">5. I Love the Book of Mormon and My Savior, Jesus Christ</h2>
+</header>
+<p data-aid="28857918" id="p29">I am filled with emotion when I see my wife read the Book of Mormon every day. As she does so, I can feel her testimony just by seeing the joy in her countenance as she reads over the passages that testify of the mission of the Savior.</p>
+<p data-aid="28857919" id="p30">How wise are the words of our Savior: “Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me.”<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a></p>
+<p data-aid="28857920" id="p31">Inspired by this, I asked my grandchild Raquel, who had recently learned how to read, “What would you say about setting a goal to read the Book of Mormon?”</p>
+<p data-aid="28857921" id="p32">Her answer was “But, Grandpa, it’s so hard. It’s a big book.”</p>
+<p data-aid="28857922" id="p33">Then I asked her to read me a page. I took out a stopwatch and timed her. I said, “You took only three minutes, and the Spanish version of the Book of Mormon has 642 pages, so you need 1,926 minutes.”</p>
+<p data-aid="28857923" id="p34">This could have scared her even more, so I divided that number by 60 minutes and told her she would need only 32 hours to read it—less than a day and a half!</p>
+<p data-aid="28857924" id="p35">Then she said to me, “That’s so easy, Grandpa.”</p>
+<p data-aid="28857925" id="p36">In the end, Raquel, her brother, Esteban, and our other grandchildren took more time than this because this is a book which needs to be read with a spirit of prayer and meditation.</p>
+<p data-aid="28857926" id="p37">With time, as we learn to delight in the scriptures, we shall exclaim as the Psalmist: “How sweet are thy words unto my taste! yea, sweeter than honey to my mouth!”<a class="note-ref" href="#note8"><sup class="marker" data-value="8"></sup></a></p>
+</section>
+<section>
+<header>
+<h2 data-aid="28857927" id="title7">6. It Is Not Enough to Know the Scriptures; We Have to Live Them</h2>
+</header>
+<p data-aid="28857928" id="p38">I remember when I was a returned missionary, and having searched the scriptures diligently, I thought I knew it all. During our courtship, Blanquy and I would study the scriptures together. I used many of my notes and references to share my knowledge of the gospel with her. After we married <span class="page-break" data-page="104"></span>I came to a serious realization as I learned a great lesson from her: I may have tried to <em>teach</em> her the gospel, but she taught me how to <em>live</em> it.</p>
+<p data-aid="28857929" id="p39">When the Savior concluded the Sermon on the Mount, He gave this wise counsel: “Therefore whosoever heareth these sayings of mine, and doeth them, I will liken him unto a wise man, which built his house upon a rock.”<a class="note-ref" href="#note9"><sup class="marker" data-value="9"></sup></a></p>
+<p data-aid="28857930" id="p40">Those who live the celestial principles found in the scriptures give comfort to those who suffer. They bring joy to those who are depressed, direction to those who are lost, peace to those who are distressed, and a sure guidance to those who seek the truth.</p>
+</section>
+<p data-aid="28857931" id="p41">In summary:</p>
+<ol class="decimal" start="1">
+<li data-marker="1.">
+<p data-aid="28857932" id="p42">The temple is the place.</p>
+</li>
+<li data-marker="2.">
+<p data-aid="28857933" id="p43">To contend, you need two people, and I will never be one of them.</p>
+</li>
+<li data-marker="3.">
+<p data-aid="28857934" id="p44">A child who sings is a happy child.</p>
+</li>
+<li data-marker="4.">
+<p data-aid="28857935" id="p45">I need you to hug me.</p>
+</li>
+<li data-marker="5.">
+<p data-aid="28857936" id="p46">I love the Book of Mormon and my Savior, Jesus Christ.</p>
+</li>
+<li data-marker="6.">
+<p data-aid="28857937" id="p47">It is not enough to know the scriptures; we have to live them.</p>
+</li>
+</ol>
+<p data-aid="28857938" id="p48">These and many other lessons are learned in a home—the place that can become a piece of heaven here on earth.<a class="note-ref" href="#note10"><sup class="marker" data-value="10"></sup></a> I testify that the gospel of Jesus Christ and the plan of our Heavenly Father provide a sure direction in this life and the promise of eternal life, in the name of Jesus Christ, amen.</p>
+</div>
+<footer class="notes">
+<p class="title" data-aid="28857939" id="notetitle1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="28857940" id="note1_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/131?lang=eng&amp;id=p1-p2#p1">Doctrine and Covenants 131:1–2</a>.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="28857941" id="note2_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/121?lang=eng&amp;id=p41#p41">Doctrine and Covenants 121:41</a>.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="28857942" id="note3_p1"><a class="scripture-ref" href="/study/scriptures/nt/mark/14?lang=eng&amp;id=p26#p26">Mark 14:26</a>.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="28857943" id="note4_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/25?lang=eng&amp;id=p12#p12">Doctrine and Covenants 25:12</a>.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="28857944" id="note5_p1">“I Am a Child of God,” <em>Hymns,</em> no. 301.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="28857945" id="note6_p1"><a class="scripture-ref" href="/study/scriptures/nt/matt/3?lang=eng&amp;id=p17#p17">Matthew 3:17</a>; see also <a class="scripture-ref" href="/study/scriptures/nt/mark/1?lang=eng&amp;id=p11#p11">Mark 1:11</a>; <a class="scripture-ref" href="/study/scriptures/bofm/3-ne/11?lang=eng&amp;id=p7#p7">3 Nephi 11:7</a>.</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="28857946" id="note7_p1"><a class="scripture-ref" href="/study/scriptures/nt/john/5?lang=eng&amp;id=p39#p39">John 5:39</a>.</p>
+</li>
+<li data-marker="8." id="note8" data-full-marker="8.">
+<p data-aid="28857947" id="note8_p1"><a class="scripture-ref" href="/study/scriptures/ot/ps/119?lang=eng&amp;id=p103#p103">Psalm 119:103</a>.</p>
+</li>
+<li data-marker="9." id="note9" data-full-marker="9.">
+<p data-aid="28857948" id="note9_p1"><a class="scripture-ref" href="/study/scriptures/nt/matt/7?lang=eng&amp;id=p24#p24">Matthew 7:24</a>.</p>
+</li>
+<li data-marker="10." id="note10" data-full-marker="10.">
+<p data-aid="28857949" id="note10_p1">See <em>Teachings of Presidents of the Church: David O. McKay</em> (2003), 43, 150.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/2013/04/the-home-the-school-of-life</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/april-2013-general-conference/2013-04-5040-elder-enrique-r-falabella-64k-eng.mp3" length="5201481" type="audio/mpeg"/>
-      <pubDate>Sun, 07 Apr 2013 14:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/c3104e9232e611ec89b6eeeeac1e02ba78416b1c-64k-en.mp3" length="5501989" type="audio/mpeg"/>
+      <pubDate>Sun, 07 Apr 2013 14:00:00 -0600</pubDate>
+      <itunes:author>Enrique R. Falabella</itunes:author>
     </item>
   </channel>
 </rss>

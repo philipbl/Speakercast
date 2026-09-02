@@ -1,184 +1,166 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Talks By Stephen B. Oveson</title>
-    <link>http://philip.lundrigan.org/Speakercast/</link>
+    <link>https://philip.lundrigan.org/Speakercast/</link>
     <description>General Conference talks by Stephen B. Oveson.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Speakercast</generator>
     <image>
-      <url>http://philip.lundrigan.org/Speakercast/covers/Stephen%20B.%20Oveson.jpg</url>
+      <url>https://philip.lundrigan.org/Speakercast/covers/Stephen%20B.%20Oveson.jpg</url>
       <title>General Conference talks by Stephen B. Oveson.</title>
-      <link>http://philip.lundrigan.org/Speakercast/</link>
+      <link>https://philip.lundrigan.org/Speakercast/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 02 Oct 1999 14:00:00 -0700</lastBuildDate>
-    <pubDate>Sat, 02 Oct 1999 14:00:00 -0700</pubDate>
+    <lastBuildDate>Sun, 03 Apr 2005 14:00:00 -0600</lastBuildDate>
+    <pubDate>Sun, 03 Apr 2005 14:00:00 -0600</pubDate>
+    <itunes:author>Stephen B. Oveson</itunes:author>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
+    <itunes:image href="https://philip.lundrigan.org/Speakercast/covers/Stephen%20B.%20Oveson.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>General Conference talks by Stephen B. Oveson.</itunes:summary>
     <item>
       <title>Our Legacy</title>
-      <link>http://www.lds.org/general-conference/1999/10/our-legacy?lang=eng</link>
-      <description>What are we doing to ensure that [our] legacy is being passed to our beloved children and to our grandchildren?</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/1999/10/our-legacy" schema-version="1" doc-id="general-conference_99265_000_014" doc-version="2" hash="G02gIw">
-  
-  <div class="heading" uri="/general-conference/1999/10/our-legacy.head">
-    <h1 class="title" pid="5JaMZnKW5U-Ve_tBUsXkvQ" hash="3_IaaQ">Our Legacy</h1>
-    <p class="authorName" pid="jAdN4Z5AIUWR_KpYNtEulw" hash="VmlJ8g">Stephen B. Oveson</p>
-    <p class="kicker" pid="FFZC0QlcbUK9dBxqkGBGnA" hash="k_zMSw">What are we doing to ensure that [our] legacy is being passed to our beloved children and to our grandchildren?</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/1999/10/our-legacy.t1">
-      <img src="ensignlp.nfo-o-ed.jpg" alt="Elder Stephen B. Oveson" pid="NFzoADPpQkuwwL2NrheqhQ" hash="62cMsg" />
-      <p class="para" uri="/general-conference/1999/10/our-legacy.p1" pid="KKdc7an-c06l6iqXwqxcBQ" hash="5WY6sA">My brothers and sisters, how grateful I am to be here with you in this historic Tabernacle today. Seventy-four years ago, my grandfather Lars Peter Oveson stood at this pulpit and bore his testimony as an invited stake president from Emery County, Utah.</p>
-      <p class="para" uri="/general-conference/1999/10/our-legacy.p2" pid="uWICBMBDIUGcaezzMlG4MA" hash="xcEcZg">Although he died when I was just a boy, my grandfather has always been one of my heroes. I have studied his journal, which recounts over and over again his willingness to answer the calls that came to him throughout his lifetime. He and his parents converted to the gospel in Denmark, immigrated to this country, and came across the plains to join the Saints in Utah. One of the calls that came to him required leaving his new, young wife for six months to work on the building of the St. George Temple. He left her and their young family again to serve a two-year mission in his native Denmark. Later, the calls of bishop and stake president necessitated their relocating and rebuilding their home and farm on three different occasions. Through all of these upheavals, he remained grateful, cheerful, and faithful to the principles of the gospel, leaving a great legacy of faith to those of us who bear his name.</p>
-      <p class="para" uri="/general-conference/1999/10/our-legacy.p3" pid="SmN5pDSrIk6GSrgqMKa3wQ" hash="L4ce9w">This legacy was passed to me by my father, Merrill M. Oveson, the youngest in the family of 13 children. He and my mother, Mal Berg Oveson, also from a faithful lineage, were sealed in the Salt Lake Temple, boarded a train, and went to Oregon to further my father’s education. They remained for more than 40 years, during many of which they lived in a very small farming community where we were the only members of the Church.</p>
-      <p class="para" uri="/general-conference/1999/10/our-legacy.p4" pid="Dbirkj9RO0WnW2TtNDpD8w" hash="zQIHpA">I have often thought how easy it would have been for my parents simply to change their faith and join their many friends in the community’s Christian church. This action would have simplified life for them, especially during the World War II years, when rationing of gasoline and tires made it impossible for them to travel the 40 miles to the nearest organized branch of the LDS Church. Instead, they received authorization to have a home Sunday School, which they faithfully held weekly during all those years. There we shared the sacrament as a family. There my brother and sisters and I learned the principles of the gospel and listened to Bible and Book of Mormon stories literally at the feet of our parents.</p>
-      <p class="para" uri="/general-conference/1999/10/our-legacy.p5" pid="lamRuedEg06oSNc63k1bCQ" hash="BXiNjQ">My father, another one of my heroes, passed away several years ago, but my mother, now in her 96th year, still attends her ward faithfully every week and is an inspiration to all who know her.</p>
-      <p class="para" uri="/general-conference/1999/10/our-legacy.p6" pid="jYRzf7AthE-dNe4a24AVHg" hash="K8Qw2A">My wife has a similar legacy in her background. How grateful we are for this. We know that we have been entrusted with this current calling partly because of the faithful actions of those who have gone before us. The question is, what are <span class="emphasis">we</span> doing to ensure that this legacy is being passed to our beloved children and to our grandchildren?</p>
-      <div class="figure" uri="/general-conference/1999/10/our-legacy.f2">
-	<p pid="NZksPtZUtUyS7iZzqSqcqw" hash="wLXtrQ">Whether we descend from generations in the Church or are the first link in the generational chain, we have a responsibility to convey to our posterity a heritage of faith, manifest through our daily actions. Those who are newly converted members have a particularly great opportunity to become the pioneers for their ancestors and for their posterity. In order to fulfill this obligation, all of us need to ask ourselves some pointed questions:</p>
-	<ul class="bullet">
-	  <li pid="8X1EXDaZUUaqxguzMkuwzg" hash="mKr9_g">
-          <span class="label">•</span>
-          <p pid="o8ZaPa_a8UCh2wHMmEcw1A" hash="g5tF8w">Are we building lives of honesty and integrity?</p>
-        </li>
-	  <li pid="VuJh9EmOcE2gXaD3mo5_TQ" hash="FwRCSw">
-          <span class="label">•</span>
-          <p pid="yanWH9hLnEKokFjYmvaWgg" hash="RboFzw">Are we following the counsel of our prophets, past and present?</p>
-        </li>
-	  <li pid="lW8Y41urf0-IVmucyPjCrg" hash="0dgiFQ">
-          <span class="label">•</span>
-          <p pid="rfu1x7v2JEazV0n5tLzmjw" hash="ESpjrA">Are we covenant keepers?</p>
-        </li>
-	  <li pid="JhJ6MFMFsEeyBnCmTdhTKQ" hash="8CbRtQ">
-          <span class="label">•</span>
-          <p pid="52hpZ6SnwU2lfnfz5LL13Q" hash="T_7oRQ">Do we hold our family home evenings and study the scriptures, trying to live the precepts we gain from them?</p>
-        </li>
-	  <li pid="57zDW5OXmEGrBrWuZNdg3g" hash="uCJwxg">
-          <span class="label">•</span>
-          <p pid="JxeN3kuudkGYD7sc81K96w" hash="k1ywOw">Do we obey the Word of Wisdom?</p>
-        </li>
-	  <li pid="jiRHDATkjUSsguw_VJB6Lw" hash="QSq23w">
-          <span class="label">•</span>
-          <p pid="C6ZnfP1rdkayAXBLVjw1jg" hash="_WpuIQ">Are we generous in our tithes and offerings?</p>
-        </li>
-	  <li pid="UspnHATiFUWrJUbibYPKPQ" hash="6ZMuVQ">
-          <span class="label">•</span>
-          <p pid="jSK2mDAG-UelEhhrPJf6Cg" hash="cxSKqQ">Do we fast and pray regularly and with sincere hearts?</p>
-        </li>
-	  <li pid="yckYXXSUhEOROn_fOWBtPA" hash="Ec1FGQ">
-          <span class="label">•</span>
-          <p pid="a41SYvtcL0iwKTpq2V306A" hash="ssUEhg">Do we listen for the answers to our prayers and try to follow the promptings of the Spirit?</p>
-        </li>
-	  <li pid="_uPfergO7UC4sex5QSfwow" hash="3IlX9A">
-          <span class="label">•</span>
-          <p pid="X6KCUUJOfEWzjUH6Jgsb9Q" hash="8qC4gw">Are we good neighbors and loyal friends?</p>
-        </li>
-	  <li pid="E-4Tm6jevkujtCf1HBxOnQ" hash="s5L4cA">
-          <span class="label">•</span>
-          <p pid="G2NS6hrlukmy4QLxi3JhKA" hash="69_WCQ">Do we help to build the kingdom by honoring the priesthood, magnifying our callings, and sharing the gospel with others?</p>
-        </li>
-	  <li pid="yB4S19Ak5EqtpetZNB597A" hash="mgrjOw">
-          <span class="label">•</span>
-          <p pid="0LAxKolDOEOAAdl3Jqm63A" hash="Z55E5A">Are we slow to anger and quick to forgive?</p>
-        </li>
-	  <li pid="0JG_NHAsqU62iq8o-D01NQ" hash="nwUpew">
-          <span class="label">•</span>
-          <p pid="l8X0MhAco0G4XrV1IECn7A" hash="MCQY1g">Can we honestly say that we not only repent of our mistakes but learn from them?</p>
-        </li>
-	  <li pid="o2Ya9rDWDE2xVzM8BLuqQA" hash="sxL-VA">
-          <span class="label">•</span>
-          <p pid="ZfPNuZ2GsUqb070rcs4Aeg" hash="mF7sSw">Are we putting the Savior and His gospel first in our lives? Or, as someone once said, “If we were accused in a court of law of being Latter-day Saints, would there be enough evidence to convict us?”</p>
-        </li>
-	</ul>
-      </div>
-      <p class="para" uri="/general-conference/1999/10/our-legacy.p7" pid="NxtxJyyzp069MrDosiTpJg" hash="H6PRvg">Brothers and sisters, if we aren’t comfortable with the answers to these kinds of questions, we need to begin today to build a more exemplary life so that those dearest to us will “see [our] good works, and glorify [our] Father which is in heaven” (<a href="/scriptures/nt/matt/5.16" class="scriptureRef">Matt. 5:16</a>).</p>
-      <p class="para" uri="/general-conference/1999/10/our-legacy.p8" pid="vdHVzb0CMU-MHwGgDcQrfw" hash="G2KMdQ">I must confess that whenever my life has failed to measure up to the standards of my forebears, it is because I have allowed worldly priorities to take precedence over my spiritual ones. But I have learned that it is possible to redirect our goals and to put our sights on eternal values.</p>
-      <p class="para" uri="/general-conference/1999/10/our-legacy.p9" pid="DGHSfnx5VEeBvpI9O5rymg" hash="6y4IaA">My wife and I have watched many converts to the Church make the necessary changes to become gospel-centered souls. We have seen hundreds of young full-time missionaries in Buenos Aires, Argentina, make the sacrifices to become truly consecrated servants of the Lord. All it takes is desire, obedience, dedication, and endurance. The Lord will do the rest!</p>
-      <p class="para" uri="/general-conference/1999/10/our-legacy.p10" pid="RyjTyYKpOEqGa5ZZRaOduQ" hash="d01GDQ">We are His children. He loves us and knows each one of us by name. He wants us to return to His presence and live with Him eternally. This is the great legacy of the gospel of Jesus Christ. Because of the atoning sacrifice of our Savior, we have an assurance of life hereafter and the possibility of inheriting all that the Father has. With this knowledge and legacy, we must “press forward with a steadfastness in Christ, having a perfect brightness of hope” (<a href="/scriptures/bofm/2-ne/31.20" class="scriptureRef">2 Ne. 31:20</a>).</p>
-      <p class="para" uri="/general-conference/1999/10/our-legacy.p11" pid="d5rZ_1M7QEu7_ZUkgse7DA" hash="HNEwOg">We must follow the lead of our beloved prophet, President Hinckley, who recently told the students at Ricks College: “To you I say with all of the energy of which I am capable, do not become a weak link in the chain of your generations. You come to the world with a marvelous inheritance. You come of great men and women. … Never let them down. Never do anything which would weaken the chain of which you are a fundamental part” (<span class="emphasis">Scroll,</span> 14 Sept. 1999, 20). To me that means that we must do all in our power to ensure that we instill within our loved ones the great legacy of an abiding testimony of the gospel of Jesus Christ.</p>
-      <p class="para" uri="/general-conference/1999/10/our-legacy.p12" pid="5lRvKt5s90-o2v-k5a2N9A" hash="Slx1cA">As my grandfather so eloquently stated 74 years ago: “I rejoice to bear my testimony to the truthfulness of this work of the Lord to the world, for I know it is true; I know it is for the uplift and the advancement of the children of God, and I pray that the Lord will help … us that we may remain faithful and true, that we may be found valiant workers in the cause of righteousness and help to build up his kingdom upon the earth” (Lars Oveson, in Conference Report, Apr. 1925, 127). To these truths I add my own witness in the name of Jesus Christ, amen.</p>
-    </div>
-  </div>
-</div>]]></content:encoded>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/1999/10/our-legacy?lang=eng</link>
+      <description><![CDATA[<header>
+<span class="page-break" data-page="29"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/02a314c4c888a7c4b3ea9100a2d45945affd9bd5/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/02a314c4c888a7c4b3ea9100a2d45945affd9bd5/full/%21192%2C/0/default" data-video-title="Our Legacy" data-video-description="What are we doing to ensure that [our] legacy is being passed to our beloved children and to our grandchildren?" data-video-id="6389323972112" data-ip="Download &amp; Streaming" data-duration="508207" data-assetId="15c6f4f60ac0c828ebc14c1f16d76aca450d9216" data-ref-id="15c6f4f60ac0c828ebc14c1f16d76aca450d9216" data-duration-string="8:28" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6389323972112.m3u8" type="application/vnd.apple.mpegurl" data-width="640" data-height="360" data-file-size="20373063"/><source src="https://assets.churchofjesuschrist.org/15c6f4f60ac0c828ebc14c1f16d76aca450d9216-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="20373063"/></video><h1 data-aid="28810892" id="title1">Our Legacy</h1>
+<div class="byline">
+<p class="author-name" data-aid="28810893" id="p1">By Elder Stephen B. Oveson</p>
+<p class="author-role" data-aid="28810894" id="p2">Of the Seventy</p>
+<div class="image-cropper"><img alt="Elder Stephen B. Oveson" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/99e3614a2fce0440895976206f77aeb309e9529a/full/%21100%2C/0/default" data-assetId="99e3614a2fce0440895976206f77aeb309e9529a" srcset="https://www.churchofjesuschrist.org/imgs/99e3614a2fce0440895976206f77aeb309e9529a/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/99e3614a2fce0440895976206f77aeb309e9529a/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/99e3614a2fce0440895976206f77aeb309e9529a/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/99e3614a2fce0440895976206f77aeb309e9529a/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/99e3614a2fce0440895976206f77aeb309e9529a/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/99e3614a2fce0440895976206f77aeb309e9529a/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/99e3614a2fce0440895976206f77aeb309e9529a/full/%21640%2C/0/default 640w" data-img-id="99e3614a2fce0440895976206f77aeb309e9529a" data-missing-asset="false" data-width="100" data-height="123" data-aspect-ratio="0.8130081300813008" data-public-title="Oveson, Stephen B." data-public-description="Former official portrait of Elder Stephen B. Oveson of the Second Quorum of the Seventy, 1999.  Called as president of the Newport Beach California Temple effective November 1, 2005.  Released at October 2005 general conference."/></div>
+</div>
+<p class="kicker" data-aid="28810895" id="kicker1">What are we doing to ensure that [our] legacy is being passed to our beloved children and to our grandchildren?</p>
+</header>
+<div class="body-block">
+<p data-aid="28810896" id="p3">My brothers and sisters, how grateful I am to be here with you in this historic Tabernacle today. Seventy-four years ago, my grandfather Lars Peter Oveson stood at this pulpit and bore his testimony as an invited stake president from Emery County, Utah.</p>
+<p data-aid="28810897" id="p4">Although he died when I was just a boy, my grandfather has always been one of my heroes. I have studied his journal, which recounts over and over again his willingness to answer the calls that came to him throughout his lifetime. He and his parents converted to the gospel in Denmark, immigrated to this country, and came across the plains to join the Saints in Utah. One of the calls that came to him required leaving his new, young wife for six months to work on the building of the St. George Temple. He left her and their young family again to serve a two-year mission in his native Denmark. Later the calls of bishop and stake president necessitated their relocating and rebuilding their home and farm on three different occasions. Through all of these upheavals, he remained grateful, cheerful, and faithful to the principles of the gospel, leaving a great legacy of faith to those of us who bear his name.</p>
+<p data-aid="28810898" id="p5">This legacy was passed to me by my father, Merrill M. Oveson, the youngest in the family of 13 children. He and my mother, Mal Berg Oveson, also from a faithful lineage, were sealed in the Salt Lake Temple, boarded a train, and went to Oregon to further my father’s education. They remained for more than 40 years, during many of which they lived in a very small farming community where we were the only members of the Church.</p>
+<p data-aid="28810899" id="p6">I have often thought how easy it would have been for my parents simply to change their faith and join their many friends in the community’s Christian church. This action would have simplified life for them, especially during the World War II years, when rationing of gasoline and tires made it impossible for them to travel the 40 miles to the nearest organized branch of the LDS Church. Instead, they received authorization to have a home Sunday School, which they faithfully held weekly during all those years. There we shared the sacrament as a family. There my brother and sisters and I learned the principles of the gospel and listened <span class="page-break" data-page="30"></span>to Bible and Book of Mormon stories literally at the feet of our parents.</p>
+<p data-aid="28810900" id="p7">My father, another one of my heroes, passed away several years ago, but my mother, now in her 96th year, still attends her ward faithfully every week and is an inspiration to all who know her.</p>
+<p data-aid="28810901" id="p8">My wife has a similar legacy in her background. How grateful we are for this. We know that we have been entrusted with this current calling partly because of the faithful actions of those who have gone before us. The question is, What are <em>we</em> doing to ensure that this legacy is being passed to our beloved children and to our grandchildren?</p>
+<p data-aid="28810902" id="p9">Whether we descend from generations in the Church or are the first link in the generational chain, we have a responsibility to convey to our posterity a heritage of faith, manifest through our daily actions. Those who are newly converted members have a particularly great opportunity to become the pioneers for their ancestors <em>and</em> for their posterity. In order to fulfill this obligation, all of us need to ask ourselves some pointed questions:</p>
+<ul class="bullet">
+<li>
+<p data-aid="28810903" id="p10">Are we building lives of honesty and integrity?</p>
+</li>
+<li>
+<p data-aid="28810904" id="p11">Are we following the counsel of our prophets, past and present?</p>
+</li>
+<li>
+<p data-aid="28810905" id="p12">Are we covenant keepers?</p>
+</li>
+<li>
+<p data-aid="28810906" id="p13">Do we hold our family home evenings and study the scriptures, trying to live the precepts we gain from them?</p>
+</li>
+<li>
+<p data-aid="28810907" id="p14">Do we obey the Word of Wisdom?</p>
+</li>
+<li>
+<p data-aid="28810908" id="p15">Are we generous in our tithes and offerings?</p>
+</li>
+<li>
+<p data-aid="28810909" id="p16">Do we fast and pray regularly and with sincere hearts?</p>
+</li>
+<li>
+<p data-aid="28810910" id="p17">Do we listen for the answers to our prayers and try to follow the promptings of the Spirit?</p>
+</li>
+<li>
+<p data-aid="28810911" id="p18">Are we good neighbors and loyal friends?</p>
+</li>
+<li>
+<p data-aid="28810912" id="p19">Do we help to build the kingdom by honoring the priesthood, magnifying our callings, and sharing the gospel with others?</p>
+</li>
+<li>
+<p data-aid="28810913" id="p20">Are we slow to anger and quick to forgive?</p>
+</li>
+<li>
+<p data-aid="28810914" id="p21">Can we honestly say that we not only repent of our mistakes but learn from them?</p>
+</li>
+<li>
+<p data-aid="28810915" id="p22">Are we putting the Savior and His gospel first in our lives? Or, as someone once said, “If we were accused in a court of law of being Latter-day Saints, would there be enough evidence to convict us?”</p>
+</li>
+</ul>
+<p data-aid="28810916" id="p23">Brothers and sisters, if we aren’t comfortable with the answers to these kinds of questions, we need to begin today to build a more exemplary life so that those dearest to us will “see [our] good works, and glorify [our] Father which is in heaven” (<a class="scripture-ref" href="/study/scriptures/nt/matt/5?lang=eng&amp;id=p16#p16">Matt. 5:16</a>).</p>
+<p data-aid="28810917" id="p24">I must confess that whenever my life has failed to measure up to the standards of my forebears, it is because I have allowed worldly priorities to take precedence over my spiritual ones. But I have learned that it is possible to redirect our goals and to put our sights on eternal values.</p>
+<p data-aid="28810918" id="p25">My wife and I have watched many converts to the Church make the necessary changes to become gospel-centered souls. We have seen hundreds of young full-time missionaries in Buenos Aires, Argentina, make the sacrifices to become truly consecrated servants of the Lord. All it takes is desire, obedience, dedication, and endurance. The Lord will do the rest!</p>
+<p data-aid="28810919" id="p26">We are His children. He loves us and knows each one of us by name. He wants us to return to His presence and live with Him eternally. This is the great legacy of the gospel of Jesus Christ. Because of the atoning sacrifice of our Savior, we have an assurance of life hereafter and the possibility of inheriting all that the Father has. With this knowledge and legacy, we must “press forward with a steadfastness in Christ, having a perfect brightness of hope” (<a class="scripture-ref" href="/study/scriptures/bofm/2-ne/31?lang=eng&amp;id=p20#p20">2 Ne. 31:20</a>).</p>
+<p data-aid="28810920" id="p27">We must follow the lead of our beloved prophet, President Hinckley, who recently told the students at Ricks College: “To you I say with all of the energy of which I am capable, do not become a weak link in the chain of your generations. You come to the world with a marvelous inheritance. You come of great men and women. … Never let them down. Never do anything which would weaken the chain of which you are a fundamental part” (<em>Scroll,</em> 14 Sept. 1999, 20). To me that means that we must do all in our power to ensure that we instill within our loved ones the great legacy of an abiding testimony of the gospel of Jesus Christ.</p>
+<p data-aid="28810921" id="p28">As my grandfather so eloquently stated 74 years ago: “I rejoice to bear my testimony to the truthfulness of this work of the Lord to the world, for I know it is true; I know it is for the uplift and the advancement of the children of God, and I pray that the Lord will help … us that we may remain faithful and true, that we may be found valiant workers in the cause of righteousness and help to build up his kingdom upon the earth” (Lars Oveson, in Conference Report, Apr. 1925, 127). To these truths I add my own witness in the name of Jesus Christ, amen.</p>
+</div>]]></description>
       <guid isPermaLink="false">/general-conference/1999/10/our-legacy</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/october-1999-general-conference/1999-10-2050-elder-stephen-b-oveson-64k-eng.mp3" length="4077018" type="audio/mpeg"/>
-      <pubDate>Sat, 02 Oct 1999 14:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/8a6f1fcc32e011ec8aafeeeeac1e5e36978a3171-64k-en.mp3" length="4214584" type="audio/mpeg"/>
+      <pubDate>Sat, 02 Oct 1999 14:00:00 -0600</pubDate>
+      <itunes:author>Stephen B. Oveson</itunes:author>
     </item>
     <item>
       <title>Appreciating the Counsel of Those Who Are Bowed in Years</title>
-      <link>http://www.lds.org/general-conference/2005/04/appreciating-the-counsel-of-those-who-are-bowed-in-years?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2005/04/appreciating-the-counsel-of-those-who-are-bowed-in-years?lang=eng</link>
       <description>May we have added insights into and greater appreciation for the power of testimony, especially as it is borne by those [who are bowed in years].</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/2005/04/appreciating-the-counsel-of-those-who-are-bowed-in-years" schema-version="1" doc-id="general-conference_PD10032029_000_034" doc-version="2" hash="WibbQA">
-  
-  <div class="heading" uri="/general-conference/2005/04/appreciating-the-counsel-of-those-who-are-bowed-in-years.head">
-    <h1 class="title" pid="bBe1-ROOLkmW77Xs5L1pww" hash="HKHelw">Appreciating the Counsel of Those Who Are Bowed in Years</h1>
-    <p class="authorName" pid="1vQog6h1CEmSzPBacW-a2A" hash="VmlJ8g">Stephen B. Oveson</p>
-    <p class="kicker" pid="-6u1kbKLYkWrV8c_BuBJYw" hash="3zHJpg">May we have added insights into and greater appreciation for the power of testimony, especially as it is borne by those [who are bowed in years].</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/2005/04/appreciating-the-counsel-of-those-who-are-bowed-in-years.t1">
-      <img src="ensignlp.nfo-o-ed.jpg" alt="Elder Stephen B. Oveson" pid="rBvarlcVZUipgMqjtVzw1g" hash="62cMsg" />
-      <p class="para" uri="/general-conference/2005/04/appreciating-the-counsel-of-those-who-are-bowed-in-years.p1" pid="qogP9vYla0KpQmXDfb0x0A" hash="twoVXQ">My dear brothers and sisters, as we prepare to listen to President Gordon B. Hinckley’s closing remarks at the end of this marvelous general conference, I fervently hope that each of us will feel how blessed we are to have received from prophets and apostles of the Lord the collective wisdom and exhortation that, if heeded and followed, will help us steer our course ever closer to our Savior. We ought to be particularly grateful to live in a time when our Church leaders, though many are advanced in years, continue to receive the revelation and inspiration that moves the kingdom forward from day to day.</p>
-      <p class="para" uri="/general-conference/2005/04/appreciating-the-counsel-of-those-who-are-bowed-in-years.p2" pid="2gXcv_InLUeMaXY8enI71w" hash="L9im7Q">As a young man, I was given a very strong written admonition to prove myself a faithful and obedient son so that as I grew older and whenever I needed counsel and advice, I should go to my parents, though they be “bowed in years,” to receive from them wisdom, comfort, and guidance. My father passed away over 20 years ago, having been a great and exemplary source of wisdom for me all the days of my life, and we just laid my 101-year-old mother to rest beside her eternal companion last Monday. In her 100th year, she affirmed her lifelong testimony in these words: “The gospel is a way of life; it is part of the plan to help us avoid bitterness. More than ever, I believe that this life is good but that the next life is better” (“Growing Old Graciously: Lessons from a Centenarian,” <span class="emphasis">Religious Educator</span> 5, no. 1 [2004]: 11).</p>
-      <p class="para" uri="/general-conference/2005/04/appreciating-the-counsel-of-those-who-are-bowed-in-years.p3" pid="J6xXUo7z1ku7TxSBOfiPZg" hash="bvRvBQ">My mother often told me that she prayed for me and for our family every day. As she came closer and closer to the veil, her prayers were especially fervent and meaningful to me. Both of my parents, as well as my dear parents-in-law, endured or are enduring to the end in righteous paths, leaving a legacy of faithful dedication for all their posterity to follow.</p>
-      <p class="para" uri="/general-conference/2005/04/appreciating-the-counsel-of-those-who-are-bowed-in-years.p4" pid="K8GEWuUnMkyFa4NQ8jWyJA" hash="4MBP-A">President Ezra Taft Benson, in the November 1989 <span class="emphasis">Ensign,</span> is quoted as follows: “The Lord knows and loves the elderly among His people. It has always been so, and upon them He has bestowed many of His greatest responsibilities. In various dispensations He has guided His people through prophets who were in their advancing years. He has needed the wisdom and experience of age, the inspired direction from those with long years of proven faithfulness to His gospel” (“To the Elderly in the Church,” 4).</p>
-      <p class="para" uri="/general-conference/2005/04/appreciating-the-counsel-of-those-who-are-bowed-in-years.p5" pid="2VSaHPyrdkOU1q4No-snVg" hash="PV7a6Q">These thoughts have caused me to reflect on the great sermons, blessings, testimonies, and admonitions that prophets and apostles throughout the ages have left, especially as they felt themselves waxing old or preparing to go down to the dust. Some of these parting passages are among our most noteworthy and quoted scriptures. For instance: in <a href="/scriptures/pgp/moses/6.57" class="scriptureRef">Moses 6:57</a>, Enoch states unequivocally, “Wherefore teach it unto your children, that all men, everywhere, must repent, or they can in nowise inherit the kingdom of God, for no unclean thing can dwell … in his presence.” These basic principles of the gospel were being taught from the time of Adam and Eve, passed down from generation to generation, as the scriptures attest, time and time again.</p>
-      <p class="para" uri="/general-conference/2005/04/appreciating-the-counsel-of-those-who-are-bowed-in-years.p6" pid="UYaP72E_i0C5ThCqXobTtw" hash="fOEgxw">Joseph who was sold into Egypt left these words of counsel with the people of Israel: “I die: and God will surely visit you, and bring you out of this land unto the land which he sware to Abraham, to Isaac, and to Jacob” (<a href="/scriptures/ot/gen/50.24" class="scriptureRef">Gen. 50:24</a>).</p>
-      <p class="para" uri="/general-conference/2005/04/appreciating-the-counsel-of-those-who-are-bowed-in-years.p7" pid="oJ5pk7KMJ0eQ8ZGcjI4fGw" hash="xXl5SQ">Generations later, as fulfillment of Joseph’s prophecy was about to be realized, Moses left his blessings with all the tribes of Israel and passed the mantle of leadership to Joshua, who led the people back into the promised land. As he was approaching his final days, Joshua left the immortal words to “choose you this day whom ye will serve; … but as for me and my house, we will serve the Lord” (<a href="/scriptures/ot/josh/24.15" class="scriptureRef">Josh. 24:15</a>).</p>
-      <p class="para" uri="/general-conference/2005/04/appreciating-the-counsel-of-those-who-are-bowed-in-years.p8" pid="vpJo3O2Q7EGA067s1T8v2g" hash="YS0GNA">Later prophets, such as Jeremiah, Isaiah, and Malachi, left equally indelible testimonies throughout their ministries, prophesying of the coming Messiah and His infinite Atonement.</p>
-      <p class="para" uri="/general-conference/2005/04/appreciating-the-counsel-of-those-who-are-bowed-in-years.p9" pid="S6b4TSiOu0aSt2dD1g9ZCw" hash="gfuQMw">We find a similar pattern throughout the Book of Mormon in the emphasis given to the final addresses of Nephi, Jacob, and King Benjamin—whose mighty discourse changed the hearts of an entire nation—not to mention the masterful words of Abinadi, who boldly spoke knowing full well that his days were numbered: “Teach them that redemption cometh through Christ the Lord, who is the very Eternal Father” (<a href="/scriptures/bofm/mosiah/16.15" class="scriptureRef">Mosiah 16:15</a>). The list continues with Alma and his son, Alma; also Helaman, the son of Helaman, who gave such priceless advice to his sons: “And now, my sons, remember, remember that it is upon the rock of our Redeemer, who is Christ, the Son of God, that ye must build your foundation … , which is a sure foundation, a foundation whereon if men build they cannot fall” (<a href="/scriptures/bofm/hel/5.12" class="scriptureRef">Hel. 5:12</a>).</p>
-      <p class="para" uri="/general-conference/2005/04/appreciating-the-counsel-of-those-who-are-bowed-in-years.p10" pid="MS90o6ADXEeeZjTCr_nZRg" hash="vmI5WA">These and other Book of Mormon prophets, including Mormon himself, wrote for our day, knowing that we would need their knowledge and wisdom to aid us in these perilous times. The Book of Mormon itself ends with the incomparable charge of Moroni, the son of Mormon, as he tells us, “Yea, come unto Christ, and be perfected in him, and deny yourselves of all ungodliness; and if ye shall deny yourselves of all ungodliness, and love God with all your might, mind and strength, then is his grace sufficient for you” (<a href="/scriptures/bofm/moro/10.32" class="scriptureRef">Moro. 10:32</a>).</p>
-      <p class="para" uri="/general-conference/2005/04/appreciating-the-counsel-of-those-who-are-bowed-in-years.p11" pid="dTbNAOQdX0qEHjx-BNdLdQ" hash="CZ8FFA">We have similar “last testimonies” in the New Testament, such as Paul’s grand statement: “I have fought a good fight, I have finished my course, I have kept the faith” (<a href="/scriptures/nt/2-tim/4.7" class="scriptureRef">2 Tim. 4:7</a>), attesting to his having endured to the end.</p>
-      <p class="para" uri="/general-conference/2005/04/appreciating-the-counsel-of-those-who-are-bowed-in-years.p12" pid="P6ujB6hQKEOQos-AgwtBNg" hash="-l_i5A">We gain great insight into the growth of the mighty senior Apostle, Peter, in his statement: “And be clothed with humility: for God resisteth the proud, and giveth grace to the humble. Humble yourselves therefore under the mighty hand of God, that he may exalt you in due time” (<a href="/scriptures/nt/1-pet/5.5-6" class="scriptureRef">1 Pet. 5:5–6</a>).</p>
-      <p class="para" uri="/general-conference/2005/04/appreciating-the-counsel-of-those-who-are-bowed-in-years.p13" pid="-g605Wvryk6s_Zj2ziITQg" hash="gx_lDQ">And certainly the greatest personage of all time to learn from is the risen Lord Himself, as He charged His Apostles and followers to “go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world” (<a href="/scriptures/nt/matt/28.19-20" class="scriptureRef">Matt. 28:19–20</a>).</p>
-      <div class="figure" uri="/general-conference/2005/04/appreciating-the-counsel-of-those-who-are-bowed-in-years.f2">
-	<p pid="moHPiLnjIE27N8W2Jcs1ZQ" hash="doywqg">What a wealth of conviction and knowledge these collective scriptures give us. Can we find common inspirational threads running through each of them? I believe they are easily recognizable:</p>
-	<ul class="bullet">
-	  <li pid="PGwCjYBIV0mBmRyIa_gVRA" hash="AJ4RPg">
-          <span class="label">•</span>
-          <p pid="rSKJ6q5b7EGHGnc68eke1w" hash="Wi4llg">That Christ, the Son of God, lives and is our Redeemer and Savior</p>
-        </li>
-	  <li pid="66eIMEsKT0uJERGwr7u2Vw" hash="NoejAA">
-          <span class="label">•</span>
-          <p pid="TgnHD_L_00SiYmpA6pQw5Q" hash="oBsfcw">That we should follow Him and show our love for Him by remembering Him and humbly keeping His commandments</p>
-        </li>
-	  <li pid="MkGnE8fK00CvegNevZT3Uw" hash="SsOBSg">
-          <span class="label">•</span>
-          <p pid="vMZ3m-ahuEqLD-gq7ddZPw" hash="Pk98Xw">That through His Atonement, we are able to repent and be cleansed</p>
-        </li>
-	  <li pid="Wd9cPGYa2kG6QGvrRAsJ_w" hash="RXrZVA">
-          <span class="label">•</span>
-          <p pid="wl6zdcvgYUqJPwEb9YfKYg" hash="nFarrA">That we are His covenant people and should always keep the covenants that we have entered into</p>
-        </li>
-	  <li pid="kvollCN6gketDsDEU1lsWg" hash="BCbNdw">
-          <span class="label">•</span>
-          <p pid="Xo9PCC5QKkyA7aU8TybtCA" hash="XCe6Xg">That we need to spread His gospel throughout the world</p>
-        </li>
-	  <li pid="xo1u3s_v9UeSa3unyHQYeA" hash="o2PmcA">
-          <span class="label">•</span>
-          <p pid="iz7Wh5wARUClv7Bv1YP4yw" hash="a2-DSg">That we should have faith, repent, be baptized, receive the Holy Ghost, and endure to the end</p>
-        </li>
-	</ul>
-      </div>
-      <p class="para" uri="/general-conference/2005/04/appreciating-the-counsel-of-those-who-are-bowed-in-years.p14" pid="nHUooZz0dUu2bcaB1KS5Zw" hash="mCKzZw">In our dispensation, modern-day prophets of the Restoration reiterate time and again these same principles. In the teachings of President John Taylor we learn that “as the Son of Man, He endured all that it was possible for flesh and blood to endure; as the Son of God He triumphed over all, and forever ascended to the right hand of God” (<span class="emphasis">Teachings of Presidents of the Church: John Taylor</span> [2001], 44).</p>
-      <p class="para" uri="/general-conference/2005/04/appreciating-the-counsel-of-those-who-are-bowed-in-years.p15" pid="RmbvlKknlU-goTvUTxsuJw" hash="HZb2Bw">One of my favorites, from President Spencer W. Kimball:</p>
-      <p class="para" uri="/general-conference/2005/04/appreciating-the-counsel-of-those-who-are-bowed-in-years.p16" pid="sKWmRnD0NEuC2xqJpPM1Fg" hash="joPxRQ">“To the testimonies of these mighty men and apostles of old—our brethren in the ministry of the same Master—I add my own testimony. I know that Jesus Christ is the Son of the living God and that he was crucified for the sins of the world.</p>
-      <p class="para" uri="/general-conference/2005/04/appreciating-the-counsel-of-those-who-are-bowed-in-years.p17" pid="jn4UGsPdvkqktTe4xOpdTw" hash="mcnffA">“He is my friend, my Savior, my Lord, my God.</p>
-      <p class="para" uri="/general-conference/2005/04/appreciating-the-counsel-of-those-who-are-bowed-in-years.p18" pid="Lsiv17Yh9USsqjwdbIAOrg" hash="M-8p9g">“With all my heart I pray that the Saints may … gain an eternal inheritance with him in celestial glory” (“An Eternal Hope in Christ,” <span class="emphasis">Ensign,</span> Nov. 1978, 73).</p>
-      <p class="para" uri="/general-conference/2005/04/appreciating-the-counsel-of-those-who-are-bowed-in-years.p19" pid="UOknWI_kYkiXxvwSxmZSMQ" hash="I7Niyw">Our prophet today, President Gordon B. Hinckley, continues to lead us with his powerful convictions, as he declared in a recent stake conference address: “I have a testimony, real, burning, and vital, of the truth of this work. I know that God our Eternal Father lives and that Jesus is the Christ, my Savior and my Redeemer. It is He who stands at the head of this Church. All I desire is that I go forward with this work as He would have it go forward” (“Inspirational Thoughts,” <span class="emphasis">Liahona</span> and <span class="emphasis">Ensign,</span> Oct. 2003, 5).</p>
-      <p class="para" uri="/general-conference/2005/04/appreciating-the-counsel-of-those-who-are-bowed-in-years.p20" pid="bl-RV9poEEemjB7YTIiobQ" hash="PwUPfQ">Summarizing the testimonies of all the ancient and modern-day apostles and prophets are the immortal words of the Prophet Joseph Smith, who declared:</p>
-      <p class="para" uri="/general-conference/2005/04/appreciating-the-counsel-of-those-who-are-bowed-in-years.p21" pid="zAqlHr4DtUS83BYCL_D1RQ" hash="DkHgJQ">“And now, after the many testimonies which have been given of him, this is the testimony, last of all, which we give of him: That he lives!</p>
-      <p class="para" uri="/general-conference/2005/04/appreciating-the-counsel-of-those-who-are-bowed-in-years.p22" pid="-grpasNoG0OFFtihZb9WeQ" hash="K0e2xw">“For we saw him, even on the right hand of God; and we heard the voice bearing record that he is the Only Begotten of the Father” (<a href="/scriptures/dc-testament/dc/76.22-23" class="scriptureRef">D&amp;C 76:22–23</a>).</p>
-      <p class="para" uri="/general-conference/2005/04/appreciating-the-counsel-of-those-who-are-bowed-in-years.p23" pid="gjRI00LEB02wd0iLS44uvw" hash="q7yf_w">I wish to add my own humble affirmation of the truthfulness of the aforementioned testimonies. I know that our Heavenly Father is literally the Father of our spirits and that Jesus Christ is our Savior, our Redeemer, our Lord, and as we obey His commandments, our friend (see <a href="/scriptures/nt/john/15.14" class="scriptureRef">John 15:14</a>). As we study the scriptures, may we have added insights into and greater appreciation for the power of testimony, especially as it is borne by those of great wisdom and advanced age, is my prayer, in the name of Jesus Christ, amen.</p>
-    </div>
-  </div>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="96"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/9912f952f3ef0f792896c6e7a1f96ee99ab195c0/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/9912f952f3ef0f792896c6e7a1f96ee99ab195c0/full/%21192%2C/0/default" data-video-title="Appreciating the Counsel of Those Who Are Bowed in Years" data-video-description="May we have added insights into and greater appreciation for the power of testimony, especially as it is borne by those [who are bowed in years]." data-video-id="6389372423112" data-ip="Download &amp; Streaming" data-duration="658024" data-assetId="8864adbd1a6211ed9cf5eeeeac1e5a7ddae4d374" data-ref-id="8864adbd1a6211ed9cf5eeeeac1e5a7ddae4d374" data-duration-string="10:58" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6389372423112.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="182178466"/><source src="https://assets.churchofjesuschrist.org/8864adbd1a6211ed9cf5eeeeac1e5a7ddae4d374-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="28074311"/><source src="https://assets.churchofjesuschrist.org/8864adbd1a6211ed9cf5eeeeac1e5a7ddae4d374-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="55877905"/><source src="https://assets.churchofjesuschrist.org/8864adbd1a6211ed9cf5eeeeac1e5a7ddae4d374-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="182178466"/></video><h1 data-aid="28828296" id="title1">Appreciating the Counsel of Those Who Are Bowed in Years</h1>
+<div class="byline">
+<p class="author-name" data-aid="28828297" id="p1">By Elder Stephen B. Oveson</p>
+<p class="author-role" data-aid="28828298" id="p2">Of the Seventy</p>
+<div class="image-cropper"><img alt="Elder Stephen B. Oveson" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/76843b04078111ec99c6eeeeac1e03b2c1e5baac/full/%21100%2C/0/default" data-assetId="76843b04078111ec99c6eeeeac1e03b2c1e5baac" srcset="https://www.churchofjesuschrist.org/imgs/76843b04078111ec99c6eeeeac1e03b2c1e5baac/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/76843b04078111ec99c6eeeeac1e03b2c1e5baac/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/76843b04078111ec99c6eeeeac1e03b2c1e5baac/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/76843b04078111ec99c6eeeeac1e03b2c1e5baac/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/76843b04078111ec99c6eeeeac1e03b2c1e5baac/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/76843b04078111ec99c6eeeeac1e03b2c1e5baac/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/76843b04078111ec99c6eeeeac1e03b2c1e5baac/full/%21640%2C/0/default 640w" data-img-id="76843b04078111ec99c6eeeeac1e03b2c1e5baac" data-missing-asset="false" data-width="100" data-height="126" data-aspect-ratio="0.7936507936507936" data-public-title="Oveson, Stephen B." data-public-description="Former official portrait of Elder Stephen B. Oveson of the Second Quorum of the Seventy, 1999.  Called as president of the Newport Beach California Temple effective November 1, 2005.Released at October 2005 general conference."/></div>
+</div>
+<p class="kicker" data-aid="28828299" id="kicker1">May we have added insights into and greater appreciation for the power of testimony, especially as it is borne by those [who are bowed in years].</p>
+</header>
+<div class="body-block">
+<p data-aid="28828300" id="p3">My dear brothers and sisters, as we prepare to listen to President Gordon B. Hinckley’s closing remarks at the end of this marvelous general conference, I fervently hope that each of us will feel how blessed we are to have received from prophets and apostles of the Lord the collective wisdom and exhortation that, if heeded and followed, will help us steer our course ever closer to our Savior. We ought to be particularly grateful to live in a time when our Church leaders, though many are advanced in years, continue to receive the revelation and inspiration that moves the kingdom forward from day to day.</p>
+<p data-aid="28828301" id="p4">As a young man I was given a very strong written admonition to prove myself a faithful and obedient son so that as I grew older and whenever I needed counsel and advice, I should go to my parents, though they be “bowed in years,” to receive from them wisdom, comfort, and guidance. My father passed away over 20 years ago, having been a great and exemplary source of wisdom for me all the days of my life, and we just laid my 101-year-old mother to rest beside her eternal companion last Monday. In her 100th year, she affirmed her lifelong testimony in these words: “The gospel is a way of life; it is part of the plan to help us avoid bitterness. More than ever, I believe that this life is good but <span class="page-break" data-page="97"></span>that the next life is better” (in “Growing Old Graciously: Lessons from a Centenarian,” <em>Religious Educator</em> 5, no. 1 [2004], 11).</p>
+<p data-aid="28828302" id="p5">My mother often told me that she prayed for me and for our family every day. As she came closer and closer to the veil, her prayers were especially fervent and meaningful to me. Both of my parents, as well as my dear parents-in-law, endured or are enduring to the end in righteous paths, leaving a legacy of faithful dedication for all their posterity to follow.</p>
+<p data-aid="28828303" id="p6">President Ezra Taft Benson, in the November 1989 <em>Ensign,</em> is quoted as follows: “The Lord knows and loves the elderly among His people. It has always been so, and upon them He has bestowed many of His greatest responsibilities. In various dispensations He has guided His people through prophets who were in their advancing years. He has needed the wisdom and experience of age, the inspired direction from those with long years of proven faithfulness to His gospel” (in Conference Report, Oct. 1989, <a class="cross-ref" href="/study/general-conference/1989/10/to-the-elderly-in-the-church?lang=eng&amp;id=p8#p8">3</a>; or <em>Ensign,</em> Nov. 1989, 4).</p>
+<p data-aid="28828304" id="p7">These thoughts have caused me to reflect on the great sermons, blessings, testimonies, and admonitions that prophets and apostles throughout the ages have left, especially as they felt themselves waxing old or preparing to go down to the dust. Some of these parting passages are among our most noteworthy and quoted scriptures. For instance, in <a class="scripture-ref" href="/study/scriptures/pgp/moses/6?lang=eng&amp;id=p57#p57">Moses 6:57</a>, Enoch states unequivocally, “Wherefore teach it unto your children, that all men, everywhere, must repent, or they can in nowise inherit the kingdom of God, for no unclean thing can dwell … in his presence.” These basic principles of the gospel were being taught from the time of Adam and Eve, passed down from generation to generation, as the scriptures attest, time and time again.</p>
+<p data-aid="28828305" id="p8">Joseph who was sold into Egypt left these words of counsel with the people of Israel: “I die: and God will surely visit you, and bring you out of this land unto the land which he sware to Abraham, to Isaac, and to Jacob” (<a class="scripture-ref" href="/study/scriptures/ot/gen/50?lang=eng&amp;id=p24#p24">Genesis 50:24</a>).</p>
+<p data-aid="28828306" id="p9">Generations later, as fulfillment of Joseph’s prophecy was about to be realized, Moses left his blessings with all the tribes of Israel and passed the mantle of leadership to Joshua, who led the people back into the promised land. As he was approaching his final days, Joshua left the immortal words to “choose you this day whom ye will serve; … but as for me and my house, we will serve the Lord” (<a class="scripture-ref" href="/study/scriptures/ot/josh/24?lang=eng&amp;id=p15#p15">Joshua 24:15</a>).</p>
+<p data-aid="28828307" id="p10">Later prophets, such as Jeremiah, Isaiah, and Malachi, left equally indelible testimonies throughout their ministries, prophesying of the coming Messiah and His infinite Atonement.</p>
+<p data-aid="28828308" id="p11">We find a similar pattern throughout the Book of Mormon in the emphasis given to the final addresses of Nephi, Jacob, and King Benjamin—whose mighty discourse changed the hearts of an entire nation—not to mention the masterful words of Abinadi, who boldly spoke knowing full well that his days were numbered: “Teach them that redemption cometh through Christ the Lord, who is the very Eternal Father” (<a class="scripture-ref" href="/study/scriptures/bofm/mosiah/16?lang=eng&amp;id=p15#p15">Mosiah 16:15</a>). The list continues with Alma and his son Alma; also Helaman, the son of Helaman, who gave such priceless advice to his sons: “And now, my sons, remember, remember that it is upon the rock of our Redeemer, who is Christ, the Son of God, that ye must build your foundation … , which is a sure foundation, a foundation whereon if men build they cannot fall” (<a class="scripture-ref" href="/study/scriptures/bofm/hel/5?lang=eng&amp;id=p12#p12">Helaman 5:12</a>).</p>
+<p data-aid="28828309" id="p12">These and other Book of Mormon prophets, including Mormon himself, wrote for our day, knowing that we <span class="page-break" data-page="98"></span>would need their knowledge and wisdom to aid us in these perilous times. The Book of Mormon itself ends with the incomparable charge of Moroni, the son of Mormon, as he tells us, “Yea, come unto Christ, and be perfected in him, and deny yourselves of all ungodliness; and if ye shall deny yourselves of all ungodliness, and love God with all your might, mind and strength, then is his grace sufficient for you” (<a class="scripture-ref" href="/study/scriptures/bofm/moro/10?lang=eng&amp;id=p32#p32">Moroni 10:32</a>).</p>
+<p data-aid="28828310" id="p13">We have similar “last testimonies” in the New Testament, such as Paul’s grand statement: “I have fought a good fight, I have finished my course, I have kept the faith” (<a class="scripture-ref" href="/study/scriptures/nt/2-tim/4?lang=eng&amp;id=p7#p7">2 Timothy 4:7</a>), attesting to his having endured to the end.</p>
+<p data-aid="28828311" id="p14">We gain great insight into the growth of the mighty senior Apostle, Peter, in his statement: “And be clothed with humility: for God resisteth the proud, and giveth grace to the humble. Humble yourselves therefore under the mighty hand of God, that he may exalt you in due time” (<a class="scripture-ref" href="/study/scriptures/nt/1-pet/5?lang=eng&amp;id=p5-p6#p5">1 Peter 5:5–6</a>).</p>
+<p data-aid="28828312" id="p15">And certainly the greatest personage of all time to learn from is the risen Lord Himself, as He charged His Apostles and followers to “go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world” (<a class="scripture-ref" href="/study/scriptures/nt/matt/28?lang=eng&amp;id=p19-p20#p19">Matthew 28:19–20</a>).</p>
+<p data-aid="28828313" id="p16">What a wealth of conviction and knowledge these collective scriptures give us. Can we find common inspirational threads running through each of them? I believe they are easily recognizable:</p>
+<ul class="bullet">
+<li>
+<p data-aid="28828314" id="p17">That Christ, the Son of God, lives and is our Redeemer and Savior</p>
+</li>
+<li>
+<p data-aid="28828315" id="p18">That we should follow Him and show our love for Him by remembering Him and humbly keeping His commandments</p>
+</li>
+<li>
+<p data-aid="28828316" id="p19">That through His Atonement we are able to repent and be cleansed</p>
+</li>
+<li>
+<p data-aid="28828317" id="p20">That we are His covenant people and should always keep the covenants that we have entered into</p>
+</li>
+<li>
+<p data-aid="28828318" id="p21">That we need to spread His gospel throughout the world</p>
+</li>
+<li>
+<p data-aid="28828319" id="p22">That we should have faith, repent, be baptized, receive the Holy Ghost, and endure to the end</p>
+</li>
+</ul>
+<p data-aid="28828320" id="p23">In our dispensation, modern-day prophets of the Restoration reiterate time and again these same principles. In the teachings of President John Taylor we learn that “as the Son of Man, He endured all that it was possible for flesh and blood to endure; as the Son of God He triumphed over all, and forever ascended to the right hand of God” (<em>The Mediation and Atonement</em> [1882], 151).</p>
+<p data-aid="28828321" id="p24">One of my favorites, from President Spencer W. Kimball:</p>
+<p data-aid="28828322" id="p25">“To the testimonies of these mighty men and apostles of old—our brethren in the ministry of the same Master—I add my own testimony. I know that Jesus Christ is the Son of the living God and that he was crucified for the sins of the world.</p>
+<p data-aid="28828323" id="p26">“He is my friend, my Savior, my Lord, my God.</p>
+<p data-aid="28828324" id="p27">“With all my heart I pray that the Saints may … gain an eternal inheritance with him in celestial glory” (in Conference Report, Oct. 1978, <a class="cross-ref" href="/study/general-conference/1978/10/an-eternal-hope-in-christ?lang=eng&amp;id=p61-p63#p63">110</a>; or <em>Ensign,</em> Nov. 1978, 73).</p>
+<p data-aid="28828325" id="p28">Our prophet today, President Gordon B. Hinckley, continues to lead us with his powerful convictions, as he declared in a recent stake conference address: “I have a testimony, real, burning, and vital, of the truth of this work. I know that God our Eternal Father lives and that Jesus is the Christ, my Savior and my Redeemer. It is He who stands at the head of this Church. All I desire is that I go forward with this work as He would have it go forward” (“Inspirational Thoughts,” <em>Liahona</em> and <em>Ensign,</em> Oct. 2003, 5).</p>
+<p data-aid="28828326" id="p29">Summarizing the testimonies of all the ancient and modern-day apostles and prophets are the immortal words of the Prophet Joseph Smith, who declared:</p>
+<p data-aid="28828327" id="p30">“And now, after the many testimonies which have been given of him, this is the testimony, last of all, which we give of him: That he lives!</p>
+<p data-aid="28828328" id="p31">“For we saw him, even on the right hand of God; and we heard the voice bearing record that he is the Only Begotten of the Father” (<a class="scripture-ref" href="/study/scriptures/dc-testament/dc/76?lang=eng&amp;id=p22-p23#p22">D&amp;C 76:22–23</a>).</p>
+<p data-aid="28828329" id="p32">I wish to add my own humble affirmation of the truthfulness of the aforementioned testimonies. I know that our Heavenly Father is literally the Father of our spirits and that Jesus Christ is our Savior, our Redeemer, our Lord, and, as we obey His commandments, our friend (see <a class="scripture-ref" href="/study/scriptures/nt/john/15?lang=eng&amp;id=p14#p14">John 15:14</a>). As we study the scriptures, may we have added insights into and greater appreciation for the power of testimony, especially as it is borne by those of great wisdom and advanced age, is my prayer, in the name of Jesus Christ, amen.</p>
 </div>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/2005/04/appreciating-the-counsel-of-those-who-are-bowed-in-years</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/april-2005-general-conference/2005-04-5050-elder-stephen-b-oveson-64k-eng.mp3" length="5275306" type="audio/mpeg"/>
-      <pubDate>Sun, 03 Apr 2005 14:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/619fa221caf611ec8a16eeeeac1e0ed737407633-32k-en.mp3" length="2883024" type="audio/mpeg"/>
+      <pubDate>Sun, 03 Apr 2005 14:00:00 -0600</pubDate>
+      <itunes:author>Stephen B. Oveson</itunes:author>
     </item>
   </channel>
 </rss>

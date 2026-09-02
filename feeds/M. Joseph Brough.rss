@@ -1,84 +1,244 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Talks By M. Joseph Brough</title>
-    <link>http://philip.lundrigan.org/Speakercast/</link>
+    <link>https://philip.lundrigan.org/Speakercast/</link>
     <description>General Conference talks by M. Joseph Brough.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Speakercast</generator>
     <image>
-      <url>http://philip.lundrigan.org/Speakercast/covers/M.%20Joseph%20Brough.jpg</url>
+      <url>https://philip.lundrigan.org/Speakercast/covers/M.%20Joseph%20Brough.jpg</url>
       <title>General Conference talks by M. Joseph Brough.</title>
-      <link>http://philip.lundrigan.org/Speakercast/</link>
+      <link>https://philip.lundrigan.org/Speakercast/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Apr 2017 10:00:00 -0700</lastBuildDate>
-    <pubDate>Sat, 01 Apr 2017 10:00:00 -0700</pubDate>
+    <lastBuildDate>Sat, 06 Oct 2018 10:00:00 -0600</lastBuildDate>
+    <pubDate>Sat, 06 Oct 2018 10:00:00 -0600</pubDate>
+    <itunes:author>M. Joseph Brough</itunes:author>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
+    <itunes:image href="https://philip.lundrigan.org/Speakercast/covers/M.%20Joseph%20Brough.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>General Conference talks by M. Joseph Brough.</itunes:summary>
     <item>
       <title>His Daily Guiding Hand</title>
-      <link>http://www.lds.org/general-conference/2017/04/his-daily-guiding-hand?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2017/04/his-daily-guiding-hand?lang=eng</link>
       <description>Brother Brough teaches that Heavenly Father knows our needs and has provided each of us with a spiritual care package to help us return to Him.</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/2017/04/his-daily-guiding-hand" dup-conf="false" dup-mag="false" schema-version="1" doc-id="general-conference_PD60003501_000_22brough" doc-version="1" hash="wKfPNw">
-		
-		<div class="heading" uri="/general-conference/2017/04/his-daily-guiding-hand.head1">
-			<h1 class="title" pid="BIikF89c_EaCHe6AJp1RHQ" hash="xmvb1A">His Daily Guiding Hand</h1>
-			<div class="byline">
-				<p class="para" uri="/general-conference/2017/04/his-daily-guiding-hand.p2" pid="Sk_mPKIkYUqwniIOuwaDfQ" hash="bKfJmw1">By M. Joseph Brough</p>
-				<p class="para" uri="/general-conference/2017/04/his-daily-guiding-hand.p3" pid="sZKrlUgWPU63gYf_xu-zPg" hash="X2tzfQ">Second Counselor in the Young Men General Presidency</p>
-			</div>
-			<p class="kicker" pid="mGYTaNkHyky342JejCX99A" hash="4SJyCg">Heavenly Father knows what you and I need better than anyone else.</p>
-		<p class="authorName" pid="qCJeLy5T1kC9vGkTE-2Cbg" hash="bKfJmw">By M. Joseph Brough</p></div>
-		<div class="bodyBlock">
-			<p class="para" uri="/general-conference/2017/04/his-daily-guiding-hand.p5" pid="P6tdvinZqEaOgamoWwlskg" hash="p0g5WQ">One of Heavenly Father’s most beloved tools in guiding His children is righteous grandparents. My father’s mother was such a woman. On an occasion that took place when I was too young to remember, my father was disciplining me. Observing this correction, my grandmother said, “Monte, I believe you are correcting him too harshly.”</p>
-			<p class="para" uri="/general-conference/2017/04/his-daily-guiding-hand.p6" pid="32KYKl7qgEWZnrzZOxVFeA" hash="41-2OA">My father replied, “Mother, I will correct my children as I want.”</p>
-			<p class="para" uri="/general-conference/2017/04/his-daily-guiding-hand.p7" pid="tRNA-W2njEGsLCzGPXTUvQ" hash="8qYQ5Q">And my wise grandmother softly stated, “And so will I.”</p>
-			<p class="para" uri="/general-conference/2017/04/his-daily-guiding-hand.p8" pid="nH-t2vGE20GQiA3R_jCGkQ" hash="mLFWig">I’m pretty sure my father heard the wise guidance of his mother that day.</p>
-			<p class="para" uri="/general-conference/2017/04/his-daily-guiding-hand.p9" pid="jqW6gnxLsUSiZm7tCJ5_Uw" hash="YU2t7Q">When thinking of guidance, we might think of a hymn we all know and love—“I Am a Child of God.” In the chorus we find the words “Lead me, guide me, walk beside me, help me find the way.”<span class="noteMarker" ref="f_1">1</span></p>
-			<p class="para" uri="/general-conference/2017/04/his-daily-guiding-hand.p10" pid="EDxfWmlPoUCl0ROdFFpqpg" hash="f6c0tg">Until recently, I understood that chorus to be divine direction to parents. While pondering these words, I realized that while they contain that direction, there exists a far greater meaning. Individually, we each plead daily that Heavenly Father will guide us, lead us, and walk beside us.</p>
-			<p class="para" uri="/general-conference/2017/04/his-daily-guiding-hand.p11" pid="Pk4p5PmBDEitB0AfpfekcQ" hash="oE2cMw">President Dieter F. Uchtdorf explained: “Our Father in Heaven knows His children’s needs better than anyone else. It is His work and glory to help us at every turn, giving us marvelous temporal and spiritual resources to help us on our path to return to Him.”<span class="noteMarker" ref="f_2">2</span></p>
-			<p class="para" uri="/general-conference/2017/04/his-daily-guiding-hand.p12" pid="B9eTz-z1u0u0I4PUicF9oQ" hash="uoa6uA">Listen to those words: Heavenly Father knows what you and I need better than anyone else. As a result, He has developed a personal care package suited to each one of us. It has many components. It includes His Son and the Atonement, the Holy Ghost, commandments, scriptures, prayer, prophets, apostles, parents, grandparents, local Church leaders, and many others—all to help us return to live with Him someday.</p>
-			<p class="para" uri="/general-conference/2017/04/his-daily-guiding-hand.p13" pid="j0hi9TjGUEiF6ThZf3OGgw" hash="AopbzA">May I share today just a few of the components of the care package that have made me recognize that a loving Father is leading, guiding, and walking beside me and my family? My prayer is that each of you will recognize in your experiences that Heavenly Father is leading, guiding, and walking beside you and, with that knowledge, you will proceed with confidence, knowing you are never really alone.</p>
-			<p class="para" uri="/general-conference/2017/04/his-daily-guiding-hand.p14" pid="v374x1KUYk-HMoofe9yXEg" hash="Kk5uDw">Heavenly Father’s commandments are key components of the care package. Alma declared, “Wickedness never was happiness.”<span class="noteMarker" ref="f_3">3</span> Tolerating improper behavior without loving correction is false compassion and reinforces the common notion that wickedness might in fact be happiness. Samuel the Lamanite clearly countered this notion: “Ye have sought for happiness in doing iniquity, which thing is contrary to the nature of that righteousness which is in our great and Eternal Head.”<span class="noteMarker" ref="f_4">4</span></p>
-			<p class="para" uri="/general-conference/2017/04/his-daily-guiding-hand.p15" pid="pyiYYm0R-UumsmqqdvzwnQ" hash="vNXPpA">Through His prophets, Heavenly Father constantly reminds us that righteousness is happiness. King Benjamin, for example, taught that Heavenly Father “doth require that ye should do as he hath commanded you; for which if ye do, he doth immediately bless you.”<span class="noteMarker" ref="f_5">5</span> From another hymn comes the similar reminder:</p>
-			<div class="poetry">
-				<div class="stanza">
-					<p class="line" uri="/general-conference/2017/04/his-daily-guiding-hand.p16" pid="AInLDxqWVEiSC1A-bYgBRw" hash="27w_fA">Keep the commandments; keep the commandments!</p>
-					<p class="line" uri="/general-conference/2017/04/his-daily-guiding-hand.p17" pid="E8_POsw0okmOtsQrMwzf6A" hash="qzX73w">In this there is safety; in this there is peace.</p>
-					<p class="line" uri="/general-conference/2017/04/his-daily-guiding-hand.p18" pid="7F5FqWsXikyle86smrYYHw" hash="9ochgg">He will send blessings.<span class="noteMarker" ref="f_6">6</span></p>
-				</div>
-			</div>
-			<p class="para" uri="/general-conference/2017/04/his-daily-guiding-hand.p19" pid="IMdIDmXc_E6oOft7ctIIWg" hash="hNWfxg">Around my 14th birthday, I learned about some of these blessings. I noticed different behavior on the part of my parents. Considering what I observed, I asked, “Are we going on a mission?” The shock on my mother’s face confirmed my suspicion. Later, in a family council, my siblings and I learned that our parents had been called to preside over a mission.</p>
-			<p class="para" uri="/general-conference/2017/04/his-daily-guiding-hand.p20" pid="7c-DmByiFU-Uyx_YF5i9QA" hash="Iu8K7Q">We lived on a beautiful ranch in Wyoming. From my perspective, life was perfect. I could come home from school, complete my chores, and be off hunting, fishing, or exploring with my dog.</p>
-			<p class="para" uri="/general-conference/2017/04/his-daily-guiding-hand.p21" pid="VqSuEC9Z0UOuFCArlQMuLA" hash="AnrhvA">Shortly after learning of the calling, I realized that I would have to give up my dog, Blue. I confronted my father, asking what I should do with Blue. I wanted to emphasize the unfairness of what God was requiring. I will never forget this response. He said, “I’m not sure. He probably cannot go with us, so you had better ask Heavenly Father.” That was not the response I had anticipated.</p>
-			<p class="para" uri="/general-conference/2017/04/his-daily-guiding-hand.p22" pid="j_WTjpRJV0GcWQF3Pdr0Nw" hash="uHl2gA">I began reading the Book of Mormon. I earnestly prayed to know if I had to give my dog away. My answer did not come in a moment; rather, a specific thought kept penetrating my mind: “Don’t be a burden to your parents. Don’t be a burden. I have called your parents.”</p>
-			<p class="para" uri="/general-conference/2017/04/his-daily-guiding-hand.p23" pid="JpChuVVsN0uXt6F7TLhQdg" hash="pv1hRA">I knew what Heavenly Father required. That knowledge did not reduce the pain of giving my dog away. However, through that small sacrifice, my heart softened and I found peace in seeking Heavenly Father’s will.</p>
-			<p class="para" uri="/general-conference/2017/04/his-daily-guiding-hand.p24" pid="zQ_DtxnlGE2i-g-Z5TQ9fg" hash="bS98Aw">I thank my Heavenly Father for the blessings and happiness I found through the scriptures, prayer, the Holy Ghost, and a worthy earthly father who embraced his role as the principal gospel teacher of his children. They were leading me, guiding me, and even walking beside me to help me find the way—especially when I had to do something difficult.</p>
-			<p class="para" uri="/general-conference/2017/04/his-daily-guiding-hand.p25" pid="SWH-hhc6q0CBPcWgs4S6Wg" hash="vA12Mg">In addition to having the care package components I’ve mentioned, we are each blessed with a priesthood leader to lead and guide us.</p>
-			<p class="para" uri="/general-conference/2017/04/his-daily-guiding-hand.p26" pid="q_GvPW_aq0KyWQIwIqKW7w" hash="h9ClQg">President Boyd K. Packer said: “Bishops are inspired! Each of us has agency to accept or reject counsel from our leaders, but never disregard the counsel of your bishop, whether given over the pulpit or individually.”<span class="noteMarker" ref="f_7">7</span></p>
-			<p class="para" uri="/general-conference/2017/04/his-daily-guiding-hand.p27" pid="u1KiVnISVUSFBsES6EEfeg" hash="3kKVcw">These men strive to represent the Lord. Whether we are old or young, when Satan wants us to think all is lost, bishops are there to guide us. When speaking with bishops, I have found a common theme regarding confessions of disobedience or the innocent suffering from terrible wrongs. Bishops instantly want to express Heavenly Father’s love for the individual and a desire to walk beside him or her as he or she finds the way home.</p>
-			<p class="para" uri="/general-conference/2017/04/his-daily-guiding-hand.p28" pid="lF6Jujr7hkqyO_MoDxwtuA" hash="IBSncQ">Perhaps Heavenly Father’s greatest care package component is described in these words: “For God so loved the world, that he gave his only begotten Son.”<span class="noteMarker" ref="f_8">8</span></p>
-			<p class="para" uri="/general-conference/2017/04/his-daily-guiding-hand.p29" pid="SU2KiZ-ueke0uT5lWiUFiw" hash="zmRB-g">To teach us all that we must do, Jesus Christ led the way by giving the perfect example that we must try to emulate. He pleads with us with arms outstretched to come, follow Him.<span class="noteMarker" ref="f_9">9</span> And when we fail, which we all do, He reminds us, “For behold, I, God, have suffered these things for all, that they might not suffer if they would repent.”<span class="noteMarker" ref="f_10">10</span></p>
-			<p class="para" uri="/general-conference/2017/04/his-daily-guiding-hand.p30" pid="tDkfbG8tD0a2oiGfjexahw" hash="O4VDDQ">What a wonderful gift! Repentance is not a punishment; it is a privilege. It is a privilege that leads and guides us. No wonder the scriptures declare that we should teach nothing save repentance.<span class="noteMarker" ref="f_11">11</span></p>
-			<p class="para" uri="/general-conference/2017/04/his-daily-guiding-hand.p31" pid="xNmCI8eDxEyDR9d9w6wmgA" hash="XZ_MYQ">Heavenly Father has many resources, but often He uses another person to assist Him. Daily He gives us opportunities to lead, guide, and walk beside one in need. We must follow the example of the Savior. We too must be about Heavenly Father’s work.</p>
-			<p class="para" uri="/general-conference/2017/04/his-daily-guiding-hand.p32" pid="LE2ZhmOWfESCoconMm5n8w" hash="7_wZuA">As the Young Men General Presidency, we know that youth are blessed when they have parents and leaders who act for Heavenly Father in leading, guiding, and walking beside them. Three principles<span class="noteMarker" ref="f_12">12</span> that will help us become part of Heavenly Father’s care package for others are:</p>
-			<p class="para" uri="/general-conference/2017/04/his-daily-guiding-hand.p33" pid="0Hz0-NfmB0OzIMPypWUegA" hash="Ic7nSA">First, be with the youth. President Henry B. Eyring emphasized this point: “There are some things we can do that could matter most. Even more powerful than using words in our teaching the doctrine will be our examples of living the doctrine.”<span class="noteMarker" ref="f_13">13</span> To lead youth requires being with them. Devoted time is an expression of love that allows us to teach by word and example.</p>
-			<p class="para" uri="/general-conference/2017/04/his-daily-guiding-hand.p34" pid="lpvNgMtLSESKLSBLdZJwKg" hash="XnWdPw">Second, to truly guide youth, we must connect them with heaven. The time always comes when each must stand alone. Only Heavenly Father can be there to guide at all times and in all places. Our youth must know how to seek Heavenly Father’s guidance.</p>
-			<p class="para" uri="/general-conference/2017/04/his-daily-guiding-hand.p35" pid="D7-G-x9xHkWbu9Z4SYeOMg" hash="K9pz0w">Third, we must let youth lead. Like the loving parent who holds the hand of a toddler learning to walk, we must let go in order for youth to progress. Letting youth lead requires patience and love. It is harder and takes more time than doing it ourselves. They may stumble along the way, but we walk beside them.</p>
-			<p class="para" uri="/general-conference/2017/04/his-daily-guiding-hand.p36" pid="B-ZiCRQ1eUGgZsLXh7eVNA" hash="q2uE6Q">Brothers and sisters, there will be times in our lives when the blessings of guidance seem distant or lacking. For such times of distress, Elder D. Todd Christofferson promised: “Let your covenants be paramount and let your obedience be exact. Then you can ask in faith, nothing wavering, according to your need, and God will answer. He will sustain you as you work and watch. In His own time and way He will stretch forth His hand to you, saying, ‘Here am I.’”<span class="noteMarker" ref="f_14">14</span></p>
-			<p class="para" uri="/general-conference/2017/04/his-daily-guiding-hand.p37" pid="bOZ6Sb_gSkyfHooLZEyTLw" hash="gtLcVQ">At one such time, I sought Heavenly Father’s counsel through constant and heartfelt prayer for more than a year to find the solution to a difficult situation. I knew logically that Heavenly Father answers all sincere prayers. Yet I reached such desperation one day that I attended the temple with one question: “Heavenly Father, do You really care?”</p>
-			<p class="para" uri="/general-conference/2017/04/his-daily-guiding-hand.p38" pid="FC2FadjnBU2vJbE9dxCJpw" hash="pHdzFw">I was sitting near the back of the Logan Utah Temple waiting room when, to my surprise, entering the room that day was the temple president, Vaughn J. Featherstone, a close family friend. He stood at the front of the congregation and welcomed all of us. When he noticed me among the temple patrons, he stopped speaking, looked me in the eyes, and then said, “Brother Brough, it is good to see you in the temple today.”</p>
-			<p class="para" uri="/general-conference/2017/04/his-daily-guiding-hand.p39" pid="feC34m6aBEyBC-RNQ8r-8g" hash="NpGu-g">I will never forget the feeling of that simple moment. It was as if—in that greeting—Heavenly Father was stretching forth His hand and saying, “Here am I.”</p>
-			<p class="para" uri="/general-conference/2017/04/his-daily-guiding-hand.p40" pid="QNnSZxIFik2u8mtJ8CsecA" hash="TKQuJA">Heavenly Father really does care and listen to and answer every child’s prayer.<span class="noteMarker" ref="f_15">15</span> As one of His children, I know the answer to my prayers came in the Lord’s time. And through that experience, I understood more than ever that we are children of God and that He has sent us here so that we can feel His presence now and return to live with Him someday.</p>
-			<p class="para" uri="/general-conference/2017/04/his-daily-guiding-hand.p41" pid="HR5DiCXhAUyfttYs1tT64Q" hash="iVwEsQ">I testify that Heavenly Father does lead us, guide us, and walk beside us. As we follow His Son and give heed to His servants, the apostles and prophets, we will find the way to eternal life. In the name of Jesus Christ, amen.</p>
-		</div>
-		
-	</div>]]></content:encoded>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="23"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/275bdc98161e8141a037fc88fbef16d77b495a16/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/275bdc98161e8141a037fc88fbef16d77b495a16/full/%21192%2C/0/default" data-video-title="His Daily Guiding Hand" data-video-description="Brother Brough teaches that Heavenly Father knows our needs and has provided each of us with a spiritual care package to help us return to Him." data-video-id="5382182200001" data-ip="Download and Streaming                            " data-duration="645000" data-assetId="5b5249d40de6dc1ed5b00605471d447ff73466e5" data-ref-id="5b5249d40de6dc1ed5b00605471d447ff73466e5" data-duration-string="10:45" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/5382182200001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="183115121"/><source src="https://assets.churchofjesuschrist.org/5b5249d40de6dc1ed5b00605471d447ff73466e5-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="40864419"/><source src="https://assets.churchofjesuschrist.org/5b5249d40de6dc1ed5b00605471d447ff73466e5-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="80995594"/><source src="https://assets.churchofjesuschrist.org/5b5249d40de6dc1ed5b00605471d447ff73466e5-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="183115121"/></video><h1 data-aid="133346986" id="title1">His Daily Guiding Hand</h1>
+<div class="byline">
+<p class="author-name" data-aid="133346987" id="p1">By M. Joseph Brough</p>
+<p class="author-role" data-aid="133346988" id="p2">Second Counselor in the Young Men General Presidency</p>
+<div class="image-cropper"><img alt="M. Joseph Brough" class="headshot" data-deprecate-web-url="joseph-brough-young-men-presidency_1456690.jpg" id="img1" src="https://www.churchofjesuschrist.org/imgs/524e66bb4c7141be022f864ae961310259541810/full/%21100%2C/0/default" data-assetId="524e66bb4c7141be022f864ae961310259541810" srcset="https://www.churchofjesuschrist.org/imgs/524e66bb4c7141be022f864ae961310259541810/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/524e66bb4c7141be022f864ae961310259541810/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/524e66bb4c7141be022f864ae961310259541810/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/524e66bb4c7141be022f864ae961310259541810/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/524e66bb4c7141be022f864ae961310259541810/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/524e66bb4c7141be022f864ae961310259541810/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/524e66bb4c7141be022f864ae961310259541810/full/%21640%2C/0/default 640w" data-img-id="524e66bb4c7141be022f864ae961310259541810" data-missing-asset="false" data-width="100" data-height="139" data-aspect-ratio="0.7194244604316546" data-public-title="Brough, M. Joseph" data-public-description="Former Official Portrait of Monte Joseph Brough, second counselor in the Young Men general presidency, April 2015.  Replaced April 2018." data-credit-line="© 2015 by Intellectual Reserve, Inc.  All rights reserved."/></div>
+</div>
+<p class="kicker" data-aid="133346989" id="kicker1">Heavenly Father knows what you and I need better than anyone else.</p>
+</header>
+<div class="body-block">
+<p data-aid="133346990" id="p3">One of Heavenly Father’s most beloved tools in guiding His children is righteous grandparents. My father’s mother was such a woman. On an occasion that took place when I was too young to remember, my father was disciplining me. Observing this correction, my grandmother said, “Monte, I believe you are correcting him too harshly.”</p>
+<p data-aid="133346991" id="p4">My father replied, “Mother, I will correct my children as I want.”</p>
+<p data-aid="133346992" id="p5">And my wise grandmother softly stated, “And so will I.”</p>
+<p data-aid="133346993" id="p6">I’m pretty sure my father heard the wise guidance of his mother that day.</p>
+<p data-aid="133346994" id="p7">When thinking of guidance, we might think of a hymn we all know and love—“I Am a Child of God.” In the chorus we find the words “Lead me, guide me, walk beside me, help me find the way.”<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a></p>
+<p data-aid="133346995" id="p8">Until recently, I understood that chorus to be divine direction to parents. While pondering these words, I realized that while they contain that direction, there exists a far greater meaning. Individually, we each plead daily that Heavenly Father will guide us, lead us, and walk beside us.</p>
+<p data-aid="133346996" id="p9">President Dieter F. Uchtdorf explained: “Our Father in Heaven knows His children’s needs better than anyone else. It is His work and glory to help us at every turn, giving us marvelous temporal and spiritual resources to help us on our path to return to Him.”<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a></p>
+<p data-aid="133346997" id="p10">Listen to those words: Heavenly Father knows what you and I need better than anyone else. As a result, He has developed a personal care package suited to each one of us. It has many components. It includes His Son and the Atonement, the Holy Ghost, commandments, scriptures, prayer, prophets, apostles, parents, grandparents, local Church leaders, and many others—all to help us return to live with Him someday.</p>
+<p data-aid="133346998" id="p11">May I share today just a few of the components of the care package that have made me recognize that a loving Father is leading, guiding, and walking beside me and my family? My prayer is that each of you will recognize in your experiences that Heavenly Father is leading, guiding, and walking beside you and, with that knowledge, you will proceed with confidence, knowing you are never really alone.</p>
+<p data-aid="133346999" id="p12">Heavenly Father’s commandments are key components of the care package. Alma declared, “Wickedness never was happiness.”<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a> Tolerating improper behavior without loving correction is false compassion and reinforces the common notion that wickedness might in fact be happiness. Samuel the Lamanite clearly countered this notion: “Ye have sought for happiness in doing iniquity, which thing is contrary to the nature of that righteousness which is in our great and Eternal Head.”<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a></p>
+<p data-aid="133347000" id="p13">Through His prophets, Heavenly Father constantly reminds us that righteousness is happiness. King Benjamin, for example, taught that Heavenly Father “doth require that ye should do as he hath commanded you; for which <span class="page-break" data-page="24"></span>if ye do, he doth immediately bless you.”<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a> From another hymn comes the similar reminder:</p>
+<div class="poetry">
+<div class="stanza">
+<p class="line" data-aid="133347001" id="p14">Keep the commandments; keep the commandments!</p>
+<p class="line" data-aid="133347002" id="p15">In this there is safety; in this there is peace.</p>
+<p class="line" data-aid="133347003" id="p16">He will send blessings.<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a></p>
+</div>
+</div>
+<p data-aid="133347004" id="p17">Around my 14th birthday, I learned about some of these blessings. I noticed different behavior on the part of my parents. Considering what I observed, I asked, “Are we going on a mission?” The shock on my mother’s face confirmed my suspicion. Later, in a family council, my siblings and I learned that our parents had been called to preside over a mission.</p>
+<p data-aid="133347005" id="p18">We lived on a beautiful ranch in Wyoming. From my perspective, life was perfect. I could come home from school, complete my chores, and be off hunting, fishing, or exploring with my dog.</p>
+<p data-aid="133347006" id="p19">Shortly after learning of the calling, I realized that I would have to give up my dog, Blue. I confronted my father, asking what I should do with Blue. I wanted to emphasize the unfairness of what God was requiring. I will never forget this response. He said, “I’m not sure. He probably cannot go with us, so you had better ask Heavenly Father.” That was not the response I had anticipated.</p>
+<p data-aid="133347007" id="p20">I began reading the Book of Mormon. I earnestly prayed to know if I had to give my dog away. My answer did not come in a moment; rather, a specific thought kept penetrating my mind: “Don’t be a burden to your parents. Don’t be a burden. I have called your parents.”</p>
+<p data-aid="133347008" id="p21">I knew what Heavenly Father required. That knowledge did not reduce the pain of giving my dog away. However, through that small sacrifice, my heart softened and I found peace in seeking Heavenly Father’s will.</p>
+<p data-aid="133347009" id="p22">I thank my Heavenly Father for the blessings and happiness I found through the scriptures, prayer, the Holy Ghost, and a worthy earthly father who embraced his role as the principal gospel teacher of his children. They were leading me, guiding me, and even walking beside me to help me find the way—especially when I had to do something difficult.</p>
+<p data-aid="133347010" id="p23">In addition to having the care package components I’ve mentioned, we are each blessed with a priesthood leader to lead and guide us.</p>
+<p data-aid="133347011" id="p24">President Boyd K. Packer said: “Bishops are inspired! Each of us has agency to accept or reject counsel from our leaders, but never disregard the counsel of your bishop, whether given over the pulpit or individually.”<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a></p>
+<p data-aid="133347012" id="p25">These men strive to represent the Lord. Whether we are old or young, when Satan wants us to think all is lost, bishops are there to guide us. When speaking with bishops, I have found a common theme regarding confessions of disobedience or the innocent suffering from terrible wrongs. Bishops instantly want to express Heavenly Father’s love for the individual and a desire to walk beside him or her as he or she finds the way home.</p>
+<p data-aid="133347013" id="p26">Perhaps Heavenly Father’s greatest care package component is described in these words: “For God so loved the world, that he gave his only begotten Son.”<a class="note-ref" href="#note8"><sup class="marker" data-value="8"></sup></a></p>
+<p data-aid="133347014" id="p27">To teach us all that we must do, Jesus Christ led the way by giving the perfect example that we must try to emulate. He pleads with us with arms outstretched to come, follow Him.<a class="note-ref" href="#note9"><sup class="marker" data-value="9"></sup></a> And when we fail, which we all do, He reminds us, “For behold, I, God, have suffered these things for all, that they might not suffer if they would repent.”<a class="note-ref" href="#note10"><sup class="marker" data-value="10"></sup></a></p>
+<span class="page-break" data-page="25"></span>
+<p data-aid="133347015" id="p28">What a wonderful gift! Repentance is not a punishment; it is a privilege. It is a privilege that leads and guides us. No wonder the scriptures declare that we should teach nothing save repentance.<a class="note-ref" href="#note11"><sup class="marker" data-value="11"></sup></a></p>
+<p data-aid="133347016" id="p29">Heavenly Father has many resources, but often He uses another person to assist Him. Daily He gives us opportunities to lead, guide, and walk beside one in need. We must follow the example of the Savior. We too must be about Heavenly Father’s work.</p>
+<p data-aid="133347017" id="p30">As the Young Men General Presidency, we know that youth are blessed when they have parents and leaders who act for Heavenly Father in leading, guiding, and walking beside them. Three principles<a class="note-ref" href="#note12"><sup class="marker" data-value="12"></sup></a> that will help us become part of Heavenly Father’s care package for others are:</p>
+<p data-aid="133347018" id="p31">First, be with the youth. President Henry B. Eyring emphasized this point: “There are some things we can do that could matter most. Even more powerful than using words in our teaching the doctrine will be our examples of living the doctrine.”<a class="note-ref" href="#note13"><sup class="marker" data-value="13"></sup></a> To lead youth requires being with them. Devoted time is an expression of love that allows us to teach by word and example.</p>
+<p data-aid="133347019" id="p32">Second, to truly guide youth, we must connect them with heaven. The time always comes when each must stand alone. Only Heavenly Father can be there to guide at all times and in all places. Our youth must know how to seek Heavenly Father’s guidance.</p>
+<p data-aid="133347020" id="p33">Third, we must let youth lead. Like the loving parent who holds the hand of a toddler learning to walk, we must let go in order for youth to progress. Letting youth lead requires patience and love. It is harder and takes more time than doing it ourselves. They may stumble along the way, but we walk beside them.</p>
+<p data-aid="133347021" id="p34">Brothers and sisters, there will be times in our lives when the blessings of guidance seem distant or lacking. For such times of distress, Elder D. Todd Christofferson promised: “Let your covenants be paramount and let your obedience be exact. Then you can ask in faith, nothing wavering, according to your need, and God will answer. He will sustain you as you work and watch. In His own time and way He will stretch forth His hand to you, saying, ‘Here am I.’”<a class="note-ref" href="#note14"><sup class="marker" data-value="14"></sup></a></p>
+<p data-aid="133347022" id="p35">At one such time, I sought Heavenly Father’s counsel through constant and heartfelt prayer for more than a year to find the solution to a difficult situation. I knew logically that Heavenly Father answers all sincere prayers. Yet I reached such desperation one day that I attended the temple with one question: “Heavenly Father, do You really care?”</p>
+<p data-aid="133347023" id="p36">I was sitting near the back of the Logan Utah Temple waiting room when, to my surprise, entering the room that day was the temple president, Vaughn J. Featherstone, a close family friend. He stood at the front of the congregation and welcomed all of <span class="page-break" data-page="26"></span>us. When he noticed me among the temple patrons, he stopped speaking, looked me in the eyes, and then said, “Brother Brough, it is good to see you in the temple today.”</p>
+<p data-aid="133347024" id="p37">I will never forget the feeling of that simple moment. It was as if—in that greeting—Heavenly Father was stretching forth His hand and saying, “Here am I.”</p>
+<p data-aid="133347025" id="p38">Heavenly Father really does care and listen to and answer every child’s prayer.<a class="note-ref" href="#note15"><sup class="marker" data-value="15"></sup></a> As one of His children, I know the answer to my prayers came in the Lord’s time. And through that experience, I understood more than ever that we are children of God and that He has sent us here so that we can feel His presence now and return to live with Him someday.</p>
+<p data-aid="133347026" id="p39">I testify that Heavenly Father does lead us, guide us, and walk beside us. As we follow His Son and give heed to His servants, the apostles and prophets, we will find the way to eternal life. In the name of Jesus Christ, amen.</p>
+</div>
+<footer class="notes">
+<p class="title" data-aid="133347027" id="notetitle1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="133347028" id="note1_p1">“I Am a Child of God,” <em>Hymns,</em> no. 301.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="133347029" id="note2_p1">Dieter F. Uchtdorf, “<a class="cross-ref" href="/study/liahona/2016/06/our-father-our-mentor?lang=eng">Our Father, Our Mentor</a>,” <em>Ensign</em> or <em>Liahona,</em> June 2016, 5.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="133347030" id="note3_p1"><a class="scripture-ref" href="/study/scriptures/bofm/alma/41?lang=eng&amp;id=p10#p10">Alma 41:10</a>.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="133348031" id="note4_p1"><a class="scripture-ref" href="/study/scriptures/bofm/hel/13?lang=eng&amp;id=p38#p38">Helaman 13:38</a>.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="133348032" id="note5_p1"><a class="scripture-ref" href="/study/scriptures/bofm/mosiah/2?lang=eng&amp;id=p24#p24">Mosiah 2:24</a>.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="133348033" id="note6_p1">“Keep the Commandments,” <em>Hymns,</em> no. 303.</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="133348034" id="note7_p1">Boyd K. Packer, “<a class="cross-ref" href="/study/general-conference/1999/04/the-bishop-and-his-counselors?lang=eng">The Bishop and His Counselors</a>,” <em>Ensign,</em> May 1999, 58; <em>Liahona,</em> July 1999, 72.</p>
+</li>
+<li data-marker="8." id="note8" data-full-marker="8.">
+<p data-aid="133348035" id="note8_p1"><a class="scripture-ref" href="/study/scriptures/nt/john/3?lang=eng&amp;id=p16#p16">John 3:16</a>.</p>
+</li>
+<li data-marker="9." id="note9" data-full-marker="9.">
+<p data-aid="133348036" id="note9_p1">See <a class="scripture-ref" href="/study/scriptures/nt/luke/18?lang=eng&amp;id=p22#p22">Luke 18:22</a>.</p>
+</li>
+<li data-marker="10." id="note10" data-full-marker="10.">
+<p data-aid="133348037" id="note10_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/19?lang=eng&amp;id=p16#p16">Doctrine and Covenants 19:16</a>.</p>
+</li>
+<li data-marker="11." id="note11" data-full-marker="11.">
+<p data-aid="133348038" id="note11_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/mosiah/18?lang=eng&amp;id=p20#p20">Mosiah 18:20</a>.</p>
+</li>
+<li data-marker="12." id="note12" data-full-marker="12.">
+<p data-aid="133348039" id="note12_p1">See “<a href="https://www.lds.org/callings/aaronic-priesthood/auxiliary-training">Young Men Auxiliary Training</a>,” lds.org/callings/aaronic-priesthood/auxiliary-training.</p>
+</li>
+<li data-marker="13." id="note13" data-full-marker="13.">
+<p data-aid="133348040" id="note13_p1">Henry B. Eyring, “<a class="cross-ref" href="/study/general-conference/2014/10/the-preparatory-priesthood?lang=eng">The Preparatory Priesthood</a>,” <em>Ensign</em> or <em>Liahona,</em> Nov. 2014, 61.</p>
+</li>
+<li data-marker="14." id="note14" data-full-marker="14.">
+<p data-aid="133348041" id="note14_p1">D. Todd Christofferson, “<a class="cross-ref" href="/study/general-conference/2009/04/the-power-of-covenants?lang=eng">The Power of Covenants</a>,” <em>Ensign</em> or <em>Liahona,</em> May 2009, 22.</p>
+</li>
+<li data-marker="15." id="note15" data-full-marker="15.">
+<p data-aid="133348042" id="note15_p1">See “A Child’s Prayer,” <em>Children’s Songbook,</em> 12–13.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/2017/04/his-daily-guiding-hand</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/april-2017-general-conference/2017-04-1020-m-joseph-brough-64k-eng.mp3" length="5183408" type="audio/mpeg"/>
-      <pubDate>Sat, 01 Apr 2017 10:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/5846b68b0cd611ecbf70eeeeac1e58e7b7e92ea6-64k-en.mp3" length="5430128" type="audio/mpeg"/>
+      <pubDate>Sat, 01 Apr 2017 10:00:00 -0600</pubDate>
+      <itunes:author>M. Joseph Brough</itunes:author>
+    </item>
+    <item>
+      <title>Lift Up Your Head and Rejoice</title>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2018/10/lift-up-your-head-and-rejoice?lang=eng</link>
+      <description>Brother Brough teaches that we can find joy even amid trials as we face hard things in the Lord’s way.</description>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="12"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/854c3479c7f2faf7870509875beb7ad13702280f/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/854c3479c7f2faf7870509875beb7ad13702280f/full/%21192%2C/0/default" data-video-title="Lift Up Your Head and Rejoice" data-video-description="Brother Brough teaches that we can find joy even amid trials as we face hard things in the Lord’s way." data-video-id="5846039891001" data-ip="Download and Streaming                            " data-duration="591724" data-assetId="255C3A6761EFD5AE5408D2A78C5D8FB7FF34EB32" data-ref-id="255C3A6761EFD5AE5408D2A78C5D8FB7FF34EB32" data-asset-aliasId="255c3a6761efd5ae5408d2a78c5d8fb7ff34eb32" data-duration-string="9:51" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/5846039891001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="156153521"/><source src="https://assets.churchofjesuschrist.org/255C3A6761EFD5AE5408D2A78C5D8FB7FF34EB32-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="32442424"/><source src="https://assets.churchofjesuschrist.org/255C3A6761EFD5AE5408D2A78C5D8FB7FF34EB32-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="60123711"/><source src="https://assets.churchofjesuschrist.org/255C3A6761EFD5AE5408D2A78C5D8FB7FF34EB32-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="156153521"/></video><h1 data-aid="138351056" id="title1">Lift Up Your Head and Rejoice</h1>
+<div class="byline">
+<p class="author-name" data-aid="138351057" id="p1">By M. Joseph Brough</p>
+<p class="author-role" data-aid="138351058" id="p2">Second Counselor in the Young Men General Presidency</p>
+<div class="image-cropper"><img alt="M. Joseph Brough" class="headshot" data-deprecate-web-url="joseph-brough-young-men-presidency_2071644.jpg" id="img1" src="https://www.churchofjesuschrist.org/imgs/2c33e7f112aba4b9b6de8c32434ae8691b192082/full/%21100%2C/0/default" data-assetId="2c33e7f112aba4b9b6de8c32434ae8691b192082" srcset="https://www.churchofjesuschrist.org/imgs/2c33e7f112aba4b9b6de8c32434ae8691b192082/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/2c33e7f112aba4b9b6de8c32434ae8691b192082/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/2c33e7f112aba4b9b6de8c32434ae8691b192082/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/2c33e7f112aba4b9b6de8c32434ae8691b192082/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/2c33e7f112aba4b9b6de8c32434ae8691b192082/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/2c33e7f112aba4b9b6de8c32434ae8691b192082/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/2c33e7f112aba4b9b6de8c32434ae8691b192082/full/%21640%2C/0/default 640w" data-img-id="2c33e7f112aba4b9b6de8c32434ae8691b192082" data-missing-asset="false" data-width="100" data-height="139" data-aspect-ratio="0.7194244604316546" data-public-title="M. Joseph Brough" data-public-description="Brother M. Joseph Brough, Young Men General Presidency Second Counselor. Official Portrait 2018."/></div>
+</div>
+<p class="kicker" data-aid="138351059" id="kicker1">As we face hard things in the Lord’s way, may we lift up our heads and rejoice.</p>
+</header>
+<div class="body-block">
+<p data-aid="138351060" id="p3">In 1981, my father, two close friends, and I went on an adventure in Alaska. We were to land on a remote lake and climb to some beautiful high country. In order to reduce the load we would have to personally carry, we wrapped our supplies in boxes, covered them with foam, attached large colored streamers, and threw them out the window of our bush plane at our intended destination.</p>
+<p data-aid="138351061" id="p4">After arriving, we searched and searched, but to our dismay, we could not find any of the boxes. Eventually we found one. It contained a small gas stove, a tarp, some candy, and a couple packages of Hamburger Helper—but no hamburger. We had no way to communicate with the outside world, and our scheduled pickup was a week later.</p>
+<p data-aid="138351062" id="p5">I learned two valuable lessons from this experience: One, do not throw your food out the window. Two, sometimes we have to face hard things.</p>
+<p data-aid="138351063" id="p6">Frequently, our first reaction to hard things is “Why me?” Asking why, however, never takes away the hard thing. The Lord requires that we overcome challenges, and He has indicated “that all these things shall give <span class="page-break" data-page="13"></span>[us] experience, and shall be for [our] good.”<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a></p>
+<p data-aid="138351064" id="p7">Sometimes the Lord asks us to do a hard thing, and sometimes our challenges are created by our own or others’ use of agency. Nephi experienced both of these situations. When Lehi invited his sons to return to get the plates from Laban, he said, “Behold thy brothers murmur, saying it is a hard thing which I have required of them; but behold I have not required it of them, but it is a commandment of the Lord.”<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a> On another occasion, Nephi’s brothers used their agency to limit his: “They did lay their hands upon me, for behold, they were exceedingly wroth, and they did bind me with cords, for they sought to take away my life.”<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a></p>
+<p data-aid="138351065" id="p8">Joseph Smith confronted a hard thing in Liberty Jail. With no relief in sight and in despair, Joseph cried out, “O God, where art thou?”<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a> No doubt some of us have felt as Joseph did.</p>
+<p data-aid="138351066" id="p9">Everyone faces hard things: the death of a loved one, divorce, a wayward child, illness, trials of faith, a lost job, or any other difficulty.</p>
+<p data-aid="138351067" id="p10">I was forever changed upon hearing these words from Elder Neal A. Maxwell of the Quorum of the Twelve, spoken in the midst of his struggle with leukemia. He said, “I was doing some pensive pondering and these 13 instructive and reassuring words came into my mind: ‘I have given you leukemia that you might teach my people with authenticity.’” He then went on to express how this experience had blessed him with “perspective about the great realities of eternity. … Such glimpses of eternity can help us to travel the next 100 yards, which may be very difficult.”<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a></p>
+<p data-aid="138351068" id="p11">To help us travel and triumph over our hard times with such glimpses of eternity, may I suggest two things. We must face hard things, first, by forgiving others and, second, by giving ourselves to Heavenly Father.</p>
+<p data-aid="138351069" id="p12">Forgiving those who may have caused our hard thing and reconciling “[our]selves to the will of God”<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a> can be very difficult. It can hurt most when our hard thing is caused by a family member, a close friend, or even ourselves.</p>
+<p data-aid="138351070" id="p13">As a young bishop, I learned of forgiveness when my stake president, Bruce M. Cook, shared the following story. He explained:</p>
+<p data-aid="138351071" id="p14">“During the late 1970s, some associates and I started a business. Although we did nothing illegal, some poor decisions, combined with the challenging economic times, resulted in our failure.</p>
+<p data-aid="138351072" id="p15">“Some investors filed a lawsuit to recover their losses. Their attorney happened to be a counselor in my family’s bishopric. It was very difficult to sustain the man who seemed to be seeking to destroy me. I developed some real animosity toward him and considered him my enemy. After five years of legal battles, we lost everything we owned, including our home.</p>
+<p data-aid="138351073" id="p16">“In 2002, my wife and I learned that the stake presidency in which I served as a counselor was being reorganized. As we traveled on a short vacation prior to the release, she asked me whom I would choose as my counselors if I were called as the new stake president. I did not want to speak about it, but she persisted. Eventually, one name came to my mind. She then mentioned the name of the attorney we considered to have been at the center of our difficulties 20 years earlier. As she spoke, the Spirit confirmed that he should be the other counselor. Could I forgive the man?</p>
+<p data-aid="138351074" id="p17">“When Elder David E. Sorensen extended to me the call to serve as stake president, he gave me an hour to select counselors. Through tears, I indicated that the Lord had already provided that revelation. As I spoke the name of the man I had considered my enemy, the anger, animosity, and hate I had harbored disappeared. In that moment, I learned of the peace that comes with forgiveness through the Atonement of Christ.”</p>
+<p data-aid="138351075" id="p18">In other words, my stake president did “frankly forgive” him, like Nephi of old.<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a> I knew President Cook and his counselor as two righteous priesthood leaders who loved one another. I determined to be like them.</p>
+<p data-aid="138351076" id="p19">Years before, during our misadventure in Alaska, I had quickly learned that blaming our circumstances on <span class="page-break" data-page="14"></span>others—the pilot launching the food out in fading light—was not a solution. However, as we experienced physical exhaustion, lack of food, sickness, and sleeping on the ground during a major storm with only a tarp to cover us, I learned that “with God nothing shall be impossible.”<a class="note-ref" href="#note8"><sup class="marker" data-value="8"></sup></a></p>
+<p data-aid="138351077" id="p20">Young people, God requires hard things of you. One 14-year-old young woman participated in competitive basketball. She dreamed of playing high school basketball like her older sister. She then learned that her parents had been called to preside over a mission in Guatemala.</p>
+<p data-aid="138351078" id="p21">Upon arrival, she discovered that a couple of her classes would be in Spanish, a language she did not yet speak. There was not a single girls’ sports team at her school. She lived on the 14th floor of a building with tight security. And to top it all off, she could not go outside alone for safety reasons.</p>
+<p data-aid="138351079" id="p22">Her parents listened to her cry herself to sleep every night for months. This broke their hearts! They finally decided they would send her home to her grandmother for high school.</p>
+<p data-aid="138351080" id="p23">When my wife entered our daughter’s room to tell her our decision, she saw our daughter kneeling in prayer with the Book of Mormon open on the bed. The Spirit whispered to my wife, “She will be OK,” and my wife quietly left the room.</p>
+<p data-aid="138351081" id="p24">We never heard her cry herself to sleep again. With determination and the Lord’s help, she faced those three years valiantly.</p>
+<p data-aid="138351082" id="p25">At the conclusion of our mission, I asked my daughter if she was going to serve a full-time mission. Her answer was “No, Dad, I have already served.”</p>
+<p data-aid="138351083" id="p26">I was just fine with that! But about six months later, the Spirit awoke me in the night with this thought: “I have called your daughter to serve a mission.”</p>
+<p data-aid="138351084" id="p27">My reaction was “Heavenly Father, she has given so much.” I was quickly corrected by the Spirit and came to understand that her missionary service was required of the Lord.</p>
+<p data-aid="138351085" id="p28">I soon took my daughter to lunch. From across the table, I said, “Ganzie, do you know why we are here?”</p>
+<p data-aid="138351086" id="p29">She said, “Yes, Dad. You know I have to serve a mission. I do not want to go, but I am going.”</p>
+<p data-aid="138351087" id="p30">Because she gave her will to Heavenly Father, she served Him with all of her heart, might, mind, and strength. She has taught her father how to do a hard thing.</p>
+<p data-aid="138351088" id="p31">In President Russell M. Nelson’s worldwide devotional for youth, he requested some hard things of the youth. President Nelson said: “My fifth invitation is for you to stand out; be different from the world. … The Lord needs you to look like, sound like, act like, and dress like a true disciple of Jesus Christ.”<a class="note-ref" href="#note9"><sup class="marker" data-value="9"></sup></a> That can be a hard thing, yet I know you can do it—with joy.</p>
+<p data-aid="138351089" id="p32">Remember that “men are, that they might have joy.”<a class="note-ref" href="#note10"><sup class="marker" data-value="10"></sup></a> With all that Lehi faced, he still found joy. Remember when Alma was “weighed down with sorrow”<a class="note-ref" href="#note11"><sup class="marker" data-value="11"></sup></a> because of the people of Ammonihah? The angel told him, “Blessed art thou, Alma; therefore, lift up thy head and rejoice, … for thou hast been faithful in keeping the commandments of God.”<a class="note-ref" href="#note12"><sup class="marker" data-value="12"></sup></a> Alma learned a great truth: we can always rejoice when we keep the commandments. Remember that during the wars and challenges faced during the time of Captain Moroni, “there never was a happier time among the people of Nephi.”<a class="note-ref" href="#note13"><sup class="marker" data-value="13"></sup></a> We can and should find joy when we face hard things.</p>
+<p data-aid="138351090" id="p33">The Savior faced hard things: “The world … shall judge him to be a thing of naught; wherefore they scourge him, and he suffereth it; and they smite him, and he suffereth it. Yea, they spit upon him, and he suffereth it, because of his loving kindness and his long-suffering towards the children of men.”<a class="note-ref" href="#note14"><sup class="marker" data-value="14"></sup></a></p>
+<p data-aid="138351091" id="p34">Because of that loving-kindness, Jesus Christ suffered the Atonement. As a result, He says to each one of us, “In the world ye shall have tribulation: but be of good cheer; I have overcome the world.”<a class="note-ref" href="#note15"><sup class="marker" data-value="15"></sup></a> Because of Christ, we too can overcome the world.</p>
+<p data-aid="138351092" id="p35">As we face hard things in the Lord’s way, may we lift up our heads and rejoice. At this sacred opportunity to testify to the world, I proclaim that our Savior lives and guides His Church. In the name of Jesus Christ, amen.</p>
+</div>
+<footer class="notes">
+<p class="title" data-aid="138351093" id="notetitle1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="138351094" id="note1_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/122?lang=eng&amp;id=p7#p7">Doctrine and Covenants 122:7</a>.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="138351095" id="note2_p1"><a class="scripture-ref" href="/study/scriptures/bofm/1-ne/3?lang=eng&amp;id=p5#p5">1 Nephi 3:5</a>.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="138351096" id="note3_p1"><a class="scripture-ref" href="/study/scriptures/bofm/1-ne/7?lang=eng&amp;id=p16#p16">1 Nephi 7:16</a>.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="138351097" id="note4_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/121?lang=eng&amp;id=p1#p1">Doctrine and Covenants 121:1</a>.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="138351098" id="note5_p1">Neal A. Maxwell, “Revelation,” <em>First Worldwide Leadership Training Meeting,</em> Jan. 11, 2003, 6.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="138351099" id="note6_p1"><a class="scripture-ref" href="/study/scriptures/bofm/2-ne/10?lang=eng&amp;id=p24#p24">2 Nephi 10:24</a>.</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="138351100" id="note7_p1"><a class="scripture-ref" href="/study/scriptures/bofm/1-ne/7?lang=eng&amp;id=p21#p21">1 Nephi 7:21</a>.</p>
+</li>
+<li data-marker="8." id="note8" data-full-marker="8.">
+<p data-aid="138351101" id="note8_p1"><a class="scripture-ref" href="/study/scriptures/nt/luke/1?lang=eng&amp;id=p37#p37">Luke 1:37</a>.</p>
+</li>
+<li data-marker="9." id="note9" data-full-marker="9.">
+<p data-aid="138351102" id="note9_p1">Russell M. Nelson, “<a href="https://www.lds.org/languages/eng/content/broadcasts/worldwide-devotional-for-young-adults/2018/06/hope-of-israel">Hope of Israel</a>” (worldwide youth devotional, June 3, 2018), HopeofIsrael.lds.org.</p>
+</li>
+<li data-marker="10." id="note10" data-full-marker="10.">
+<p data-aid="138351103" id="note10_p1"><a class="scripture-ref" href="/study/scriptures/bofm/2-ne/2?lang=eng&amp;id=p25#p25">2 Nephi 2:25</a>.</p>
+</li>
+<li data-marker="11." id="note11" data-full-marker="11.">
+<p data-aid="138351104" id="note11_p1"><a class="scripture-ref" href="/study/scriptures/bofm/alma/8?lang=eng&amp;id=p14#p14">Alma 8:14</a>.</p>
+</li>
+<li data-marker="12." id="note12" data-full-marker="12.">
+<p data-aid="138351105" id="note12_p1"><a class="scripture-ref" href="/study/scriptures/bofm/alma/8?lang=eng&amp;id=p15#p15">Alma 8:15</a>.</p>
+</li>
+<li data-marker="13." id="note13" data-full-marker="13.">
+<p data-aid="138351106" id="note13_p1"><a class="scripture-ref" href="/study/scriptures/bofm/alma/50?lang=eng&amp;id=p23#p23">Alma 50:23</a>.</p>
+</li>
+<li data-marker="14." id="note14" data-full-marker="14.">
+<p data-aid="138351107" id="note14_p1"><a class="scripture-ref" href="/study/scriptures/bofm/1-ne/19?lang=eng&amp;id=p9#p9">1 Nephi 19:9</a>.</p>
+</li>
+<li data-marker="15." id="note15" data-full-marker="15.">
+<p data-aid="138351108" id="note15_p1"><a class="scripture-ref" href="/study/scriptures/nt/john/16?lang=eng&amp;id=p33#p33">John 16:33</a>.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
+      <guid isPermaLink="false">/general-conference/2018/10/lift-up-your-head-and-rejoice</guid>
+      <enclosure url="https://assets.churchofjesuschrist.org/fa63597e32ca11ecb675eeeeac1e6a6954842097-64k-en.mp3" length="4993671" type="audio/mpeg"/>
+      <pubDate>Sat, 06 Oct 2018 10:00:00 -0600</pubDate>
+      <itunes:author>M. Joseph Brough</itunes:author>
     </item>
   </channel>
 </rss>

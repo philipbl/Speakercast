@@ -1,46 +1,50 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Talks By Kirstin Boyer</title>
-    <link>http://philip.lundrigan.org/Speakercast/</link>
+    <link>https://philip.lundrigan.org/Speakercast/</link>
     <description>General Conference talks by Kirstin Boyer.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Speakercast</generator>
     <image>
-      <url>http://philip.lundrigan.org/Speakercast/covers/Kirstin%20Boyer.jpg</url>
+      <url>https://philip.lundrigan.org/Speakercast/covers/Kirstin%20Boyer.jpg</url>
       <title>General Conference talks by Kirstin Boyer.</title>
-      <link>http://philip.lundrigan.org/Speakercast/</link>
+      <link>https://philip.lundrigan.org/Speakercast/</link>
     </image>
     <language>en</language>
     <lastBuildDate>Sat, 30 Mar 1996 18:00:00 -0700</lastBuildDate>
     <pubDate>Sat, 30 Mar 1996 18:00:00 -0700</pubDate>
+    <itunes:author>Kirstin Boyer</itunes:author>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
+    <itunes:image href="https://philip.lundrigan.org/Speakercast/covers/Kirstin%20Boyer.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>General Conference talks by Kirstin Boyer.</itunes:summary>
     <item>
       <title>My Prayers Were Answered</title>
-      <link>http://www.lds.org/general-conference/1996/04/my-prayers-were-answered?lang=eng</link>
-      <description>When I was a small child, I remember coming into my mother’s room and seeing her cry as she read a book. I had never seen her do this, and I asked what she was reading. She said it was a book about a man named Spencer W. Kimball, a prophet of God. Sh</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/1996/04/my-prayers-were-answered" schema-version="1" doc-id="general-conference_96905_000_037" doc-version="2" hash="z6GgMA">
-  
-  <div class="heading" uri="/general-conference/1996/04/my-prayers-were-answered.head">
-    <h1 class="title" pid="mdofj6vjLUq2ukcs5eqWKA" hash="mbvJaA">My Prayers Were Answered</h1>
-    <p class="authorName" pid="O00GBVevf0CnOTUSwsEbiQ" hash="3nM2Rw">Kirstin Boyer</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/1996/04/my-prayers-were-answered.t1">
-      <p class="para" uri="/general-conference/1996/04/my-prayers-were-answered.p1" pid="559c8SYJv0OZjXDVemCN8w" hash="-XIESA">When I was a small child, I remember coming into my mother’s room and seeing her cry as she read a book. I had never seen her do this, and I asked what she was reading. She said it was a book about a man named Spencer W. Kimball, a prophet of God. She told me many wonderful things about what he had done with his life. From that moment on, I felt that a prophet was someone I could trust and love, especially if my mother felt that way. So when my Young Women leaders asked me to find a message in President Gordon B. Hinckley’s talk, I knew there would be one for me.</p>
-      <p class="para" uri="/general-conference/1996/04/my-prayers-were-answered.p2" pid="U5NXbDOW-kaZf5awnWQGDg" hash="u0ayng">As I listened and read through the prophet’s talk, the personal message I found was that I needed to work on reading the scriptures and pondering and praying about them.</p>
-      <p class="para" uri="/general-conference/1996/04/my-prayers-were-answered.p3" pid="wBsFdfxnPE2xjhdXe_0nFg" hash="JD6sgw">Every night, before I went to bed, I would read the scriptures. I would ponder and pray, asking my Father in Heaven if they were true. As I finished and climbed into bed, I felt a warm, tingly sensation through me. I knew my prayers were being answered. Through the week I found I was happier and more helpful. I did better in school. I found the time to study and remembered what I was taught. Usually my mother and I argue about things, but that week I found the patience to listen and understand her point of view, which is something that isn’t easy for me. I felt better about myself than I had in ages. I also noticed the Lord made more time for me to continue my scripture studies.</p>
-      <p class="para" uri="/general-conference/1996/04/my-prayers-were-answered.p4" pid="DB4-BktjQEuDHJoI1uLhsA" hash="RDuJ4w">My testimony was strengthened. I felt worthier—all from reading the scriptures every night before going to bed.</p>
-      <p class="para" uri="/general-conference/1996/04/my-prayers-were-answered.p5" pid="KxsN7rD3X0KlihnMrB2-wQ" hash="YGZFUg">I want to keep those same feelings for the rest of my life. I want to keep on getting those many blessings. And all these blessings had come to me from listening to President Hinckley. I want to have such a wonderful change come over me and become as close to Jesus and Heavenly Father as I do when I read my scriptures.</p>
-      <p class="para" uri="/general-conference/1996/04/my-prayers-were-answered.p6" pid="zhOjt2hebE6Xdo1BpSTI4Q" hash="kQb6IA">Young women all over the world, I <span class="emphasis">challenge</span> each of you to listen to the prophet and find something you can improve on, so you can receive the blessings when you follow his advice. I know it works. It is definitely worth it, because you receive so much more than you give. We will always be in debt to Heavenly Father. I know you will draw closer to our Father in Heaven and his Son, Jesus Christ, as you listen to the words of the prophet. In the name of Jesus Christ, amen.</p>
-    </div>
-  </div>
-</div>]]></content:encoded>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/1996/04/my-prayers-were-answered?lang=eng</link>
+      <description><![CDATA[<header>
+<span class="page-break" data-page="88"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/21446f68bb3025e2b498ce56821c49d6e5d971a3/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/21446f68bb3025e2b498ce56821c49d6e5d971a3/full/%21192%2C/0/default" data-video-title="My Prayers Were Answered" data-video-description="Kirstin Boyer delivers a message titled &quot;My Prayers Were Answered.&quot;" data-video-id="6389257937112" data-ip="Download &amp; Streaming" data-duration="134000" data-assetId="7a561731468df59b5b09d489ab0709e1aaad5615" data-ref-id="7a561731468df59b5b09d489ab0709e1aaad5615" data-duration-string="2:14" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6389257937112.m3u8" type="application/vnd.apple.mpegurl" data-width="480" data-height="360" data-file-size="7468945"/><source src="https://assets.churchofjesuschrist.org/7a561731468df59b5b09d489ab0709e1aaad5615-360p-en.mp4" type="video/mp4" data-width="480" data-height="360" data-file-size="7468945"/></video><h1 data-aid="28799434" id="title1">My Prayers Were Answered</h1>
+<div class="byline">
+<p class="author-name" data-aid="28799435" id="p1">By Kirstin Boyer</p>
+<p class="author-role" data-aid="150154458" id="author2">Springville Seventh Ward, Springville Utah Stake</p>
+</div>
+</header>
+<div class="body-block">
+<p data-aid="28799436" id="p2">When I was a small child, I remember coming into my mother’s room and seeing her cry as she read a book. I had never seen her do this, and I asked what she was reading. She said it was a book about a man named Spencer W. Kimball, a prophet of God. She told me many wonderful things about what he had done with his life. From that moment on, I felt that a prophet was someone I could trust and love, especially if my mother felt that way. So when my Young Women leaders asked me to find a message in President Gordon B. Hinckley’s talk, I knew there would be one for me.</p>
+<p data-aid="28799437" id="p3">As I listened and read through the prophet’s talk, the personal message I found was that I needed to work on reading the scriptures and pondering and praying about them.</p>
+<p data-aid="28799438" id="p4">Every night, before I went to bed, I would read the scriptures. I would ponder and pray, asking my Father in Heaven if they were true. As I finished and climbed into bed, I felt a warm, tingly sensation through me. I knew my prayers were being answered. Through the week I found I was happier and more helpful. I did better in school. I found the time to study and remembered what I was taught. Usually my mother and I argue about things, but that week I found the patience to listen and understand her point of view, which is something that isn’t easy for me. I felt better about myself than I had in ages. I also noticed the Lord made more time for me to continue my scripture studies.</p>
+<p data-aid="28799439" id="p5">My testimony was strengthened. I felt worthier—all from reading the scriptures every night before going to bed.</p>
+<p data-aid="28799440" id="p6">I want to keep those same feelings for the rest of my life. I want to keep on getting those many blessings. And all these blessings had come to me from listening to President Hinckley. I want to have such a wonderful change come over me and become as close to Jesus and Heavenly Father as I do when I read my scriptures.</p>
+<p data-aid="28799441" id="p7">Young women all over the world, I <em>challenge</em> each of you to listen to the prophet and find something you can improve on, so you can receive the blessings when you follow his advice. I know it works. It is definitely worth it, because you receive so much more than you give. We will always be in debt to Heavenly Father. I know you will draw closer to our Father in Heaven and his Son, Jesus Christ, as you listen to the words of the prophet. In the name of Jesus Christ, amen.</p>
+</div>]]></description>
       <guid isPermaLink="false">/general-conference/1996/04/my-prayers-were-answered</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-young-women-meeting/1996-general-young-women-meeting/1996-03-0040-kirstin-boyer-64k-eng.mp3" length="1097182" type="audio/mpeg"/>
+      <enclosure url="https://assets.churchofjesuschrist.org/16d7202e32ea11ec83ebeeeeac1e20b3bc8c523a-64k-en.mp3" length="1314861" type="audio/mpeg"/>
       <pubDate>Sat, 30 Mar 1996 18:00:00 -0700</pubDate>
+      <itunes:author>Kirstin Boyer</itunes:author>
     </item>
   </channel>
 </rss>

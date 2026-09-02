@@ -1,69 +1,122 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Talks By Keith R. Edwards</title>
-    <link>http://philip.lundrigan.org/Speakercast/</link>
+    <link>https://philip.lundrigan.org/Speakercast/</link>
     <description>General Conference talks by Keith R. Edwards.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Speakercast</generator>
     <image>
-      <url>http://philip.lundrigan.org/Speakercast/covers/Keith%20R.%20Edwards.jpg</url>
+      <url>https://philip.lundrigan.org/Speakercast/covers/Keith%20R.%20Edwards.jpg</url>
       <title>General Conference talks by Keith R. Edwards.</title>
-      <link>http://philip.lundrigan.org/Speakercast/</link>
+      <link>https://philip.lundrigan.org/Speakercast/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Oct 2006 14:00:00 -0700</lastBuildDate>
-    <pubDate>Sun, 01 Oct 2006 14:00:00 -0700</pubDate>
+    <lastBuildDate>Sun, 01 Oct 2006 14:00:00 -0600</lastBuildDate>
+    <pubDate>Sun, 01 Oct 2006 14:00:00 -0600</pubDate>
+    <itunes:author>Keith R. Edwards</itunes:author>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
+    <itunes:image href="https://philip.lundrigan.org/Speakercast/covers/Keith%20R.%20Edwards.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>General Conference talks by Keith R. Edwards.</itunes:summary>
     <item>
       <title>That They Might Know Thee</title>
-      <link>http://www.lds.org/general-conference/2006/10/that-they-might-know-thee?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2006/10/that-they-might-know-thee?lang=eng</link>
       <description>We can learn spiritual lessons if we can approach suffering, sorrow, or grief with a focus on Christ.</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/2006/10/that-they-might-know-thee" schema-version="1" doc-id="general-conference_PD00006562_000_038" doc-version="2" hash="z0BlWg">
-  
-  <div class="heading" uri="/general-conference/2006/10/that-they-might-know-thee.head">
-    <h1 class="title" pid="hmdYYn5uUkqzoef7zR2Ymw" hash="wL1hbQ">That They Might Know Thee</h1>
-    <p class="authorName" pid="rmRO8KemFUuW6CrRSVQGdQ" hash="TeuE0g">Keith R. Edwards</p>
-    <p class="kicker" pid="7TRCOW_PtE6q2SeTEU-lbw" hash="ja9J2Q">We can learn spiritual lessons if we can approach suffering, sorrow, or grief with a focus on Christ.</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/2006/10/that-they-might-know-thee.t1">
-      <img src="https://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/EdwardsKR_06.jpg" alt="Elder Keith R. Edwards" pid="KA4qfvh4sU27XlKWxLfcKA" hash="oXC39w" />
-      <p class="para" uri="/general-conference/2006/10/that-they-might-know-thee.p1" pid="ExGi9JmwaEOfVoawv32Utw" hash="gKno-g">
-        <span class="pageBreak" page-number="99"></span>The Choir has sung “Jesus, the Very Thought of Thee.”<span class="noteMarker" ref="f_1">1</span> In the Book of Mormon, Nephi, speaking messianically, prophesies:</p>
-      <p class="para" uri="/general-conference/2006/10/that-they-might-know-thee.p2" pid="kiO7HrvYJU2v3X-Nnpzn-Q" hash="3Pr8tg">“And the world, because of their iniquity, shall judge him to be a thing of naught; wherefore they scourge him, and he suffereth it; and they smite him, and he suffereth it. Yea, they spit upon him, and he suffereth it, because of his loving kindness and his long-suffering towards the children of men.”<span class="noteMarker" ref="f_2">2</span></p>
-      <p class="para" uri="/general-conference/2006/10/that-they-might-know-thee.p3" pid="c1NkP7IuDkCYTA46_niEug" hash="-tV8hA">The great and exquisite suffering of the Savior was for us, to keep us from having to suffer as He suffered.<span class="noteMarker" ref="f_3">3</span> However, suffering is a part of life, and few will escape its grasp. Since it is something that each of us has gone through, is going through, or will go through, there is scriptural suggestion that we can learn spiritual lessons if we can approach suffering, sorrow, or grief with a focus on Christ. Anciently Paul wrote that our suffering may give us an opportunity to know the Savior better. Paul wrote to the Romans:</p>
-      <p class="para" uri="/general-conference/2006/10/that-they-might-know-thee.p4" pid="B4N2KfnnREG8zARialGLJQ" hash="xRdF-g">“The Spirit itself beareth witness with our spirit, that we are the children of God:</p>
-      <p class="para" uri="/general-conference/2006/10/that-they-might-know-thee.p5" pid="zPs9mR0w302UBZvP8E4IbA" hash="Zdv5wA">“And if children, then heirs; heirs of God, and joint-heirs with Christ; if so be that we suffer with him, that we may be also glorified together.”<span class="noteMarker" ref="f_4">4</span></p>
-      <p class="para" uri="/general-conference/2006/10/that-they-might-know-thee.p6" pid="viK-2S8o-0KuK-l-KKV8QQ" hash="bRHwfg">Now, lest anyone go looking for hardship and suffering, that is not what is taught. Rather, it is the attitude with which we approach our hardships and trials that allows us to know the Savior better. Experience teaches us that suffering is one of life’s experiences that will come without seeking it. If I may use a personal example:</p>
-      <p class="para" uri="/general-conference/2006/10/that-they-might-know-thee.p7" pid="GCDL7x2xsEqyAee8ww7dwQ" hash="d6VJ0g">Some years ago when our first son was about a year old, I was the source of some seemingly unnecessary suffering. We were attending college, and one evening I had been playing with my boy on the floor. I left the room to study, and as I closed the door behind me he apparently reached for me, raising his hand up behind his head, and his finger went into the hinged <span class="pageBreak" page-number="100"></span>side of the door. When I closed the door he suffered a rather severe injury to his finger.</p>
-      <p class="para" uri="/general-conference/2006/10/that-they-might-know-thee.p8" pid="Pek-lyk7tkSrAqZoEdVQXg" hash="ZxKOQg">We rushed him to the emergency room at the hospital, he was given a local anesthetic, and a doctor came in; he assured us that it could be repaired. Almost paradoxically, at that point the only thing my one-year-old wanted was to be held by his dad. As long as he could see me he resisted any efforts to bind him for the delicate surgery. When I left the room he calmed down, and the doctor was able to proceed.</p>
-      <p class="para" uri="/general-conference/2006/10/that-they-might-know-thee.p9" pid="jtGLZgZwbEOliC1l1XgS9w" hash="xHPUcQ">During the process I was anxious and would draw close to the open door and look around the corner to see how things were proceeding. Perhaps by some unseen sense, as I would peek noiselessly around the corner, which was located behind him and to the side, his head would come up and he would strain to see if I was there.</p>
-      <p class="para" uri="/general-conference/2006/10/that-they-might-know-thee.p10" pid="sO0cMQm8xk-LHsnJqEapUg" hash="_-kxyA">On one of those occasions, as I saw him with his arm pinned out from his side—his head arched, searching for his father—the thought came to my mind of another Son, His arms stretched out, nailed to a cross, searching for His Father, and to my mind came the words, “My God, my God, why hast thou forsaken me?”<span class="noteMarker" ref="f_5">5</span> What was a very traumatic moment in my life suddenly became very sacred.</p>
-      <p class="para" uri="/general-conference/2006/10/that-they-might-know-thee.p11" pid="8AsWjfC4pESmBVNurio-qw" hash="vea9iw">There is throughout the scriptures a line of men and women who always seemed to keep their focus on Christ—people who, no matter what injury or injustice life dealt them, remained faithful and willing to endure. I speak of Abraham, dispossessed of the land of his inheritance and commanded to sacrifice Isaac; of Joseph, who was sold into slavery by his brothers, imprisoned for honoring virtue and chastity, and left to linger in jail because of a thoughtless servant; of Ruth, widowed young and left destitute, yet constant and loyal to her mother-in-law; of all three Nephis, both Almas, and of course the Prophet Joseph.</p>
-      <p class="para" uri="/general-conference/2006/10/that-they-might-know-thee.p12" pid="b6aZxC7f6U6ZhFcRT-gTIQ" hash="U5C7CA">Particularly notable to me is Nephi’s endurance. Continually receiving the wrath of his brothers, he was bound for four days on the boat coming to the promised land. He could not move, and on the fourth day, when it appeared that they were about to be swallowed up by the ocean, the brothers, fearing that they might perish, “loosed the bands which were upon [his] wrists, and behold they had swollen exceedingly; and also [his] ankles were much swollen, and great was the soreness thereof.</p>
-      <p class="para" uri="/general-conference/2006/10/that-they-might-know-thee.p13" pid="A0eiKgpWQUOthTz0L5WDUg" hash="y6BxGQ">“Nevertheless, [he] did look unto [his] God, and [he] did praise him all the day long; and [he] did not murmur.”<span class="noteMarker" ref="f_6">6</span></p>
-      <p class="para" uri="/general-conference/2006/10/that-they-might-know-thee.p14" pid="j8Y6Kjr5GkmzOTB7Caa_dA" hash="Qg8iWg">Remember, though, that it was Nephi who recorded: “They scourge him, and he suffereth it; and they smite him, and he suffereth it. Yea, they spit upon him, and he suffereth it.”<span class="noteMarker" ref="f_7">7</span> Nephi understood.</p>
-      <p class="para" uri="/general-conference/2006/10/that-they-might-know-thee.p15" pid="F-oOeu5FQU6Mkv_jZaFUQg" hash="JKRoXg">Although the purpose of the suffering is not always apparent at the time, the Prophet Joseph had a singularly spiritual experience as he lingered in Liberty Jail. The Lord comforted him:</p>
-      <p class="para" uri="/general-conference/2006/10/that-they-might-know-thee.p16" pid="MyivUQ33ZUi9seKs-3_LAg" hash="j14rSQ">“My son, peace be unto thy soul; thine adversity and thine afflictions shall be but a small moment;</p>
-      <p class="para" uri="/general-conference/2006/10/that-they-might-know-thee.p17" pid="E09n1qMD-UGmcq0NdJ-Fzg" hash="IuwQfg">“And then, if thou endure it well, God shall exalt thee on high; thou shalt triumph over all thy foes.”<span class="noteMarker" ref="f_8">8</span></p>
-      <p class="para" uri="/general-conference/2006/10/that-they-might-know-thee.p18" pid="cp2nBSrFh0yhYVNymJIG0A" hash="CtXLqQ">“Know thou, my son, that all these things shall give thee experience, and shall be for thy good.</p>
-      <p class="para" uri="/general-conference/2006/10/that-they-might-know-thee.p19" pid="aWyXpFAl6EK93f5qQjlVlw" hash="h6antg">“The Son of Man hath descended below them all. Art thou greater than he?”<span class="noteMarker" ref="f_9">9</span></p>
-      <p class="para" uri="/general-conference/2006/10/that-they-might-know-thee.p20" pid="Gydnt_iqX0GChwmwu80PYw" hash="vodSiA">As we are called upon to endure suffering, sometimes inflicted upon us intentionally or negligently, we are put in a unique position—if we choose, we may be allowed to have new awareness of the suffering of the Son of God. While Alma tells us that Christ suffered all that any of us will ever have to suffer that He might know how to succor us,<span class="noteMarker" ref="f_10">10</span> the reverse may also be true: that our suffering may allow us insight into the depth and magnitude of His atoning sacrifice.</p>
-      <p class="para" uri="/general-conference/2006/10/that-they-might-know-thee.p21" pid="7mWbc6ETY0-D6ELaAfyGpQ" hash="BDTNhw">As I have pondered that event with my own son so many years ago, it has provided new insights and perhaps <span class="pageBreak" page-number="101"></span>even deeper understanding of the magnitude and magnificence of the Atonement. I have a deeper appreciation of what a Father was willing to allow His Son to go through for me and for each of us. I had a new personal insight into the depth and breadth of the Atonement. I could not imagine that I would willingly have let my son suffer even in this small way; and our Father “so loved the world, that he gave his only begotten Son.”<span class="noteMarker" ref="f_11">11</span></p>
-      <p class="para" uri="/general-conference/2006/10/that-they-might-know-thee.p22" pid="39vgB_Y88k-Cs3uBukk9Vw" hash="yLRN8A">Although we have never discussed it, my son, too, would have the op-portunity to appreciate the passage where the Savior explains, “Behold, I have graven thee upon the palms of my hands; thy walls are continually before me.”<span class="noteMarker" ref="f_12">12</span></p>
-      <p class="para" uri="/general-conference/2006/10/that-they-might-know-thee.p23" pid="izd3KfMzRkuEzcedGQ_btQ" hash="Mj05fQ">Although I would not suggest that anything here can approach the holy Atonement, the scar on my son’s hand is continually before him, and he has the opportunity, if he chooses to take it, to use his scar as a reminder of scars in the palms of the Savior—suffered for our sins. He has the opportunity to understand in his own way the love the Savior has for us in willingly being scarred, bruised, broken, and torn for us.</p>
-      <p class="para" uri="/general-conference/2006/10/that-they-might-know-thee.p24" pid="GcuJkXOfBU-zt1qf-l-o1Q" hash="2GsqAA">Although suffering may provide insight, we must be careful not to compare but rather to appreciate. There will always be infinite differences between us and our Savior. His comment to Pilate, “Thou couldest have no power at all against me, except it were given thee,”<span class="noteMarker" ref="f_13">13</span> reminds us again of the willing and voluntary nature of His sacrifice. We can never endure the depth, the exquisite nature, or the magnitude of His suffering, “which suffering caused myself, even God, the greatest of all, to tremble because of pain, and to bleed at every pore, and to suffer both body and spirit.”<span class="noteMarker" ref="f_14">14</span> But like Nephi, we can have a greater appreciation for that which He did, and we can feel His spirit succoring us, and we can know the Savior in a very real sense, “and this is life eternal, that [we] might know” Him.<span class="noteMarker" ref="f_15">15</span></p>
-      <p class="para" uri="/general-conference/2006/10/that-they-might-know-thee.p25" pid="QyT0kyo6LEeeb3AVHcUZJA" hash="z7rjIQ">I bear testimony that Jesus Christ is the Savior of the world, that through His suffering and Atonement we can receive a remission of our sins and can gain eternal life. I bear witness of His gentle and loving kindness. He is the Only Begotten of the Father and in all things did the will of His Father, in the name of Jesus Christ, amen.</p>
-    </div>
-  </div>
-  
-</div>]]></content:encoded>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="99"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/cf093269973284920c162c84773aa713b8ed2ee8/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/cf093269973284920c162c84773aa713b8ed2ee8/full/%21192%2C/0/default" data-video-title="That They Might Know Thee" data-video-description="We can learn spiritual lessons if we can approach suffering, sorrow, or grief with a focus on Christ." data-video-id="2235984426001" data-ip="Download and Streaming                            " data-duration="615000" data-assetId="3d2d71589d1a88930ce04325f16546cf41b4ce15" data-ref-id="3d2d71589d1a88930ce04325f16546cf41b4ce15" data-duration-string="10:15" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/2235984426001.m3u8" type="application/vnd.apple.mpegurl" data-width="1280" data-height="720" data-file-size="49622745"/><source src="https://assets.churchofjesuschrist.org/3d2d71589d1a88930ce04325f16546cf41b4ce15-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="26564086"/><source src="https://assets.churchofjesuschrist.org/3d2d71589d1a88930ce04325f16546cf41b4ce15-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="49622745"/></video><h1 data-aid="28834190" id="title1">That They Might Know Thee</h1>
+<div class="byline">
+<p class="author-name" data-aid="28834191" id="p1">By Elder Keith R. Edwards</p>
+<p class="author-role" data-aid="28834192" id="p2">Of the Seventy</p>
+<div class="image-cropper"><img alt="Elder Keith R. Edwards" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/0f2b61dcdec3d17180d4a2cb0654823d9c3d3edc/full/%21100%2C/0/default" data-assetId="0f2b61dcdec3d17180d4a2cb0654823d9c3d3edc" srcset="https://www.churchofjesuschrist.org/imgs/0f2b61dcdec3d17180d4a2cb0654823d9c3d3edc/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/0f2b61dcdec3d17180d4a2cb0654823d9c3d3edc/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/0f2b61dcdec3d17180d4a2cb0654823d9c3d3edc/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/0f2b61dcdec3d17180d4a2cb0654823d9c3d3edc/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/0f2b61dcdec3d17180d4a2cb0654823d9c3d3edc/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/0f2b61dcdec3d17180d4a2cb0654823d9c3d3edc/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/0f2b61dcdec3d17180d4a2cb0654823d9c3d3edc/full/%21640%2C/0/default 640w" data-img-id="0f2b61dcdec3d17180d4a2cb0654823d9c3d3edc" data-missing-asset="false" data-width="100" data-height="125" data-aspect-ratio="0.8" data-public-title="Edwards, Keith R." data-public-description="Final official portrait of Elder Keith R. Edwards of the Second Quorum of the Seventy, 2006. Released at the October 2012 general conference."/></div>
+</div>
+<p class="kicker" data-aid="28834193" id="kicker1">We can learn spiritual lessons if we can approach suffering, sorrow, or grief with a focus on Christ.</p>
+</header>
+<div class="body-block">
+<p data-aid="28834194" id="p3">The Choir has sung “Jesus, the Very Thought of Thee.”<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a> In the Book of Mormon, Nephi, speaking messianically, prophesies:</p>
+<p data-aid="28834195" id="p4">“And the world, because of their iniquity, shall judge him to be a thing of naught; wherefore they scourge him, and he suffereth it; and they smite him, and he suffereth it. Yea, they spit upon him, and he suffereth it, because of his loving kindness and his long-suffering towards the children of men.”<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a></p>
+<p data-aid="28834196" id="p5">The great and exquisite suffering of the Savior was for us, to keep us from having to suffer as He suffered.<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a> However, suffering is a part of life, and few will escape its grasp. Since it is something that each of us has gone through, is going through, or will go through, there is scriptural suggestion that we can learn spiritual lessons if we can approach suffering, sorrow, or grief with a focus on Christ. Anciently Paul wrote that our suffering may give us an opportunity to know the Savior better. Paul wrote to the Romans:</p>
+<p data-aid="28834197" id="p6">“The Spirit itself beareth witness with our spirit, that we are the children of God:</p>
+<p data-aid="28834198" id="p7">“And if children, then heirs; heirs of God, and joint-heirs with Christ; if so be that we suffer with him, that we may be also glorified together.”<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a></p>
+<p data-aid="28834199" id="p8">Now, lest anyone go looking for hardship and suffering, that is not what is taught. Rather, it is the attitude with which we approach our hardships and trials that allows us to know the Savior better. Experience teaches us that suffering is one of life’s experiences that will come without seeking it. If I may use a personal example:</p>
+<p data-aid="28834200" id="p9">Some years ago when our first son was about a year old, I was the source of some seemingly unnecessary suffering. We were attending college, and one evening I had been playing with my boy on the floor. I left the room to study, and as I closed the door behind me he apparently reached for me, raising his hand up behind his head, and his finger went into the hinged <span class="page-break" data-page="100"></span>side of the door. When I closed the door he suffered a rather severe injury to his finger.</p>
+<p data-aid="28834201" id="p10">We rushed him to the emergency room at the hospital, he was given a local anesthetic, and a doctor came in; he assured us that it could be repaired. Almost paradoxically, at that point the only thing my one-year-old wanted was to be held by his dad. As long as he could see me he resisted any efforts to bind him for the delicate surgery. When I left the room he calmed down, and the doctor was able to proceed.</p>
+<p data-aid="28834202" id="p11">During the process I was anxious and would draw close to the open door and look around the corner to see how things were proceeding. Perhaps by some unseen sense, as I would peek noiselessly around the corner, which was located behind him and to the side, his head would come up and he would strain to see if I was there.</p>
+<p data-aid="28834203" id="p12">On one of those occasions, as I saw him with his arm pinned out from his side—his head arched, searching for his father—the thought came to my mind of another Son, His arms stretched out, nailed to a cross, searching for His Father, and to my mind came the words, “My God, my God, why hast thou forsaken me?”<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a> What was a very traumatic moment in my life suddenly became very sacred.</p>
+<p data-aid="28834204" id="p13">There is throughout the scriptures a line of men and women who always seemed to keep their focus on Christ—people who, no matter what injury or injustice life dealt them, remained faithful and willing to endure. I speak of Abraham, dispossessed of the land of his inheritance and commanded to sacrifice Isaac; of Joseph, who was sold into slavery by his brothers, imprisoned for honoring virtue and chastity, and left to linger in jail because of a thoughtless servant; of Ruth, widowed young and left destitute, yet constant and loyal to her mother-in-law; of all three Nephis, both Almas, and of course the Prophet Joseph.</p>
+<p data-aid="28834205" id="p14">Particularly notable to me is Nephi’s endurance. Continually receiving the wrath of his brothers, he was bound for four days on the boat coming to the promised land. He could not move, and on the fourth day, when it appeared that they were about to be swallowed up by the ocean, the brothers, fearing that they might perish, “loosed the bands which were upon [his] wrists, and behold they had swollen exceedingly; and also [his] ankles were much swollen, and great was the soreness thereof.</p>
+<p data-aid="28834206" id="p15">“Nevertheless, [he] did look unto [his] God, and [he] did praise him all the day long; and [he] did not murmur.”<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a></p>
+<p data-aid="28834207" id="p16">Remember, though, that it was Nephi who recorded: “They scourge him, and he suffereth it; and they smite him, and he suffereth it. Yea, they spit upon him, and he suffereth it.”<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a> Nephi understood.</p>
+<p data-aid="28834208" id="p17">Although the purpose of the suffering is not always apparent at the time, the Prophet Joseph had a singularly spiritual experience as he lingered in Liberty Jail. The Lord comforted him:</p>
+<p data-aid="28834209" id="p18">“My son, peace be unto thy soul; thine adversity and thine afflictions shall be but a small moment;</p>
+<p data-aid="28834210" id="p19">“And then, if thou endure it well, God shall exalt thee on high; thou shalt triumph over all thy foes.”<a class="note-ref" href="#note8"><sup class="marker" data-value="8"></sup></a></p>
+<p data-aid="28834211" id="p20">“Know thou, my son, that all these things shall give thee experience, and shall be for thy good.</p>
+<p data-aid="28834212" id="p21">“The Son of Man hath descended below them all. Art thou greater than he?”<a class="note-ref" href="#note9"><sup class="marker" data-value="9"></sup></a></p>
+<p data-aid="28834213" id="p22">As we are called upon to endure suffering, sometimes inflicted upon us intentionally or negligently, we are put in a unique position—if we choose, we may be allowed to have new awareness of the suffering of the Son of God. While Alma tells us that Christ suffered all that any of us will ever have to suffer that He might know how to succor us,<a class="note-ref" href="#note10"><sup class="marker" data-value="10"></sup></a> the reverse may also be true: that our suffering may allow us insight into the depth and magnitude of His atoning sacrifice.</p>
+<p data-aid="28834214" id="p23">As I have pondered that event with my own son so many years ago, it has provided new insights and perhaps <span class="page-break" data-page="101"></span>even deeper understanding of the magnitude and magnificence of the Atonement. I have a deeper appreciation of what a Father was willing to allow His Son to go through for me and for each of us. I had a new personal insight into the depth and breadth of the Atonement. I could not imagine that I would willingly have let my son suffer even in this small way; and our Father “so loved the world, that he gave his only begotten Son.”<a class="note-ref" href="#note11"><sup class="marker" data-value="11"></sup></a></p>
+<p data-aid="28834215" id="p24">Although we have never discussed it, my son, too, would have the opportunity to appreciate the passage where the Savior explains, “Behold, I have graven thee upon the palms of my hands; thy walls are continually before me.”<a class="note-ref" href="#note12"><sup class="marker" data-value="12"></sup></a></p>
+<p data-aid="28834216" id="p25">Although I would not suggest that anything here can approach the holy Atonement, the scar on my son’s hand is continually before him, and he has the opportunity, if he chooses to take it, to use his scar as a reminder of scars in the palms of the Savior—suffered for our sins. He has the opportunity to understand in his own way the love the Savior has for us in willingly being scarred, bruised, broken, and torn for us.</p>
+<p data-aid="28834217" id="p26">Although suffering may provide insight, we must be careful not to compare but rather to appreciate. There will always be infinite differences between us and our Savior. His comment to Pilate, “Thou couldest have no power at all against me, except it were given thee,”<a class="note-ref" href="#note13"><sup class="marker" data-value="13"></sup></a> reminds us again of the willing and voluntary nature of His sacrifice. We can never endure the depth, the exquisite nature, or the magnitude of His suffering, “which suffering caused myself, even God, the greatest of all, to tremble because of pain, and to bleed at every pore, and to suffer both body and spirit.”<a class="note-ref" href="#note14"><sup class="marker" data-value="14"></sup></a> But like Nephi, we can have a greater appreciation for that which He did, and we can feel His Spirit succoring us, and we can know the Savior in a very real sense, “and this is life eternal, that [we] might know” Him.<a class="note-ref" href="#note15"><sup class="marker" data-value="15"></sup></a></p>
+<p data-aid="28834218" id="p27">I bear testimony that Jesus Christ is the Savior of the world, that through His suffering and Atonement we can receive a remission of our sins and can gain eternal life. I bear witness of His gentle and loving kindness. He is the Only Begotten of the Father and in all things did the will of His Father, in the name of Jesus Christ, amen.</p>
+</div>
+<footer class="notes">
+<p class="title" data-aid="150470503" id="notetitle1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="28834219" id="note1_p1"><em>Hymns,</em> no. 141.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="28834220" id="note2_p1"><a class="scripture-ref" href="/study/scriptures/bofm/1-ne/19?lang=eng&amp;id=p9#p9">1 Nephi 19:9</a>.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="28834221" id="note3_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/19?lang=eng&amp;id=p16-p19#p16">D&amp;C 19:16–19</a>.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="28834222" id="note4_p1"><a class="scripture-ref" href="/study/scriptures/nt/rom/8?lang=eng&amp;id=p16-p17#p16">Romans 8:16–17</a>.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="28834223" id="note5_p1"><a class="scripture-ref" href="/study/scriptures/nt/matt/27?lang=eng&amp;id=p46#p46">Matthew 27:46</a>.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="28834224" id="note6_p1"><a class="scripture-ref" href="/study/scriptures/bofm/1-ne/18?lang=eng&amp;id=p15-p16#p15">1 Nephi 18:15–16</a>.</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="28834225" id="note7_p1"><a class="scripture-ref" href="/study/scriptures/bofm/1-ne/19?lang=eng&amp;id=p9#p9">1 Nephi 19:9</a>.</p>
+</li>
+<li data-marker="8." id="note8" data-full-marker="8.">
+<p data-aid="28834226" id="note8_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/121?lang=eng&amp;id=p7-p8#p7">D&amp;C 121:7–8</a>.</p>
+</li>
+<li data-marker="9." id="note9" data-full-marker="9.">
+<p data-aid="28834227" id="note9_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/122?lang=eng&amp;id=p7-p8#p7">D&amp;C 122:7–8</a>.</p>
+</li>
+<li data-marker="10." id="note10" data-full-marker="10.">
+<p data-aid="28834228" id="note10_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/alma/7?lang=eng&amp;id=p11-p12#p11">Alma 7:11–12</a>.</p>
+</li>
+<li data-marker="11." id="note11" data-full-marker="11.">
+<p data-aid="28834229" id="note11_p1"><a class="scripture-ref" href="/study/scriptures/nt/john/3?lang=eng&amp;id=p16#p16">John 3:16</a>.</p>
+</li>
+<li data-marker="12." id="note12" data-full-marker="12.">
+<p data-aid="28834230" id="note12_p1"><a class="scripture-ref" href="/study/scriptures/ot/isa/49?lang=eng&amp;id=p16#p16">Isaiah 49:16</a>.</p>
+</li>
+<li data-marker="13." id="note13" data-full-marker="13.">
+<p data-aid="28834231" id="note13_p1"><a class="scripture-ref" href="/study/scriptures/nt/john/19?lang=eng&amp;id=p11#p11">John 19:11</a>.</p>
+</li>
+<li data-marker="14." id="note14" data-full-marker="14.">
+<p data-aid="28834232" id="note14_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/19?lang=eng&amp;id=p18#p18">D&amp;C 19:18</a>.</p>
+</li>
+<li data-marker="15." id="note15" data-full-marker="15.">
+<p data-aid="28834233" id="note15_p1"><a class="scripture-ref" href="/study/scriptures/nt/john/17?lang=eng&amp;id=p3#p3">John 17:3</a>.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/2006/10/that-they-might-know-thee</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/october-2006-general-conference/2006-10-5060-elder-keith-r-edwards-64k-eng.mp3" length="4907303" type="audio/mpeg"/>
-      <pubDate>Sun, 01 Oct 2006 14:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/b2a1e99e32df11ecb675eeeeac1e6a6902c4d270-128k-en.mp3" length="10134111" type="audio/mpeg"/>
+      <pubDate>Sun, 01 Oct 2006 14:00:00 -0600</pubDate>
+      <itunes:author>Keith R. Edwards</itunes:author>
     </item>
   </channel>
 </rss>

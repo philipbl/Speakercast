@@ -1,116 +1,173 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Talks By Douglas L. Callister</title>
-    <link>http://philip.lundrigan.org/Speakercast/</link>
+    <link>https://philip.lundrigan.org/Speakercast/</link>
     <description>General Conference talks by Douglas L. Callister.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Speakercast</generator>
     <image>
-      <url>http://philip.lundrigan.org/Speakercast/covers/Douglas%20L.%20Callister.jpg</url>
+      <url>https://philip.lundrigan.org/Speakercast/covers/Douglas%20L.%20Callister.jpg</url>
       <title>General Conference talks by Douglas L. Callister.</title>
-      <link>http://philip.lundrigan.org/Speakercast/</link>
+      <link>https://philip.lundrigan.org/Speakercast/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 30 Sep 2000 14:00:00 -0700</lastBuildDate>
-    <pubDate>Sat, 30 Sep 2000 14:00:00 -0700</pubDate>
+    <lastBuildDate>Sun, 07 Oct 2007 14:00:00 -0600</lastBuildDate>
+    <pubDate>Sun, 07 Oct 2007 14:00:00 -0600</pubDate>
+    <itunes:author>Douglas L. Callister</itunes:author>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
+    <itunes:image href="https://philip.lundrigan.org/Speakercast/covers/Douglas%20L.%20Callister.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>General Conference talks by Douglas L. Callister.</itunes:summary>
     <item>
       <title>Seeking the Spirit of God</title>
-      <link>http://www.lds.org/general-conference/2000/10/seeking-the-spirit-of-god?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2000/10/seeking-the-spirit-of-god?lang=eng</link>
       <description>As we become more conversant with the Holy Spirit, our lives become refined. The sordid and base have no attraction.</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/2000/10/seeking-the-spirit-of-god" schema-version="1" doc-id="general-conference_PD10028166_000_016" doc-version="2" hash="guyDgw">
-  
-  <div class="heading" uri="/general-conference/2000/10/seeking-the-spirit-of-god.head">
-    <h1 class="title" pid="ghEWkYUNqUiDnHnXtNDvBg" hash="giFMFQ">Seeking the Spirit of God</h1>
-    <p class="authorName" pid="9zxjh3KRr0CHuo1odt8H1A" hash="Ot1zSQ">Douglas L. Callister</p>
-    <p class="kicker" pid="J36SV0tffUO7HQW8bw_4ng" hash="4b5LXQ">As we become more conversant with the Holy Spirit, our lives become refined. The sordid and base have no attraction.</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/2000/10/seeking-the-spirit-of-god.t1">
-      <img src="ensignlp.nfo-o-639.jpg" alt="Elder Douglas L. Callister" pid="uivlLCSX40mMvg-_Fmk8-Q" hash="MjG_mQ" />
-      <p class="para" uri="/general-conference/2000/10/seeking-the-spirit-of-god.p1" pid="MIZP1ydSD0GLacggzhpi1A" hash="KvZTqA">In Italy there is a majestic sculpture of Moses with a crack on one of the knees. A tour guide may say that Michelangelo, viewing the masterpiece, hurled a chisel at the sculpture and exclaimed in disdain, “Why doesn’t it speak?”</p>
-      <p class="para" uri="/general-conference/2000/10/seeking-the-spirit-of-god.p2" pid="vWgN8Hp2HUWCVvtHdMsM4A" hash="zw_9Rg">Unlike the inanimate stone, the true Church of Jesus Christ is filled with life. The voice, Spirit, and power of God are found in our worship services, or whenever the ordinances of the holy priesthood are administered.</p>
-      <p class="para" uri="/general-conference/2000/10/seeking-the-spirit-of-god.p3" pid="eATwR_5tlUuVxZvlY_CFgg" hash="xpjZxg">Elijah inquired of Elisha, “Ask what I shall do for thee.” Elisha said, “I pray thee, let a double portion of thy spirit be upon me.”<span class="noteMarker" ref="f_1">1</span> He could not have asked for anything greater.</p>
-      <p class="para" uri="/general-conference/2000/10/seeking-the-spirit-of-god.p4" pid="6OYi700XaEqIac2v-ZIkrg" hash="UwKKig">Elder Joseph Fielding Smith has written: “The Spirit of God speaking to the spirit of man has power to impart truth. … Through the Holy Ghost the truth is woven into the very fibre and sinews of the body so that it cannot be forgotten.”<span class="noteMarker" ref="f_2">2</span></p>
-      <p class="para" uri="/general-conference/2000/10/seeking-the-spirit-of-god.p5" pid="CXNwPLBXD0-98WO0ONKYRw" hash="v3RbMQ">With our confirmation as Church members, the door is opened for us to pursue this heavenly endowment. This should be an urgent and lifelong quest.</p>
-      <p class="para" uri="/general-conference/2000/10/seeking-the-spirit-of-god.p6" pid="rree0CmJ3Eq6-Hd89kCNlg" hash="rPl8Xg">As we become more conversant with the Holy Spirit, our lives become refined. The sordid and base have no attraction. It is developed spirituality which separates us from the secular world.</p>
-      <p class="para" uri="/general-conference/2000/10/seeking-the-spirit-of-god.p7" pid="kF0ROHnO0EK5fuqySKYbRA" hash="Dla0Zw">A spiritual-minded man is observant of the beauty in the world around him. As the earth was organized, the Lord saw that “it was good.” Then, “It was very good.”<span class="noteMarker" ref="f_3">3</span> It pleases our Father in Heaven when we, also, pause to note the beauty of our environment, which we will naturally do as we become more spiritually sensitive. Our awareness of grand music, literature, and sublime art is often a natural product of spiritual maturity. In poetic allusion to the theophany of Moses and the burning bush, Elizabeth Barrett Browning wrote, “Earth’s crammed with heaven, And every common bush afire with God; And only he who sees takes off his shoes.”<span class="noteMarker" ref="f_4">4</span></p>
-      <p class="para" uri="/general-conference/2000/10/seeking-the-spirit-of-god.p8" pid="no4sia86XES8GzpHIAXnAA" hash="5nJeMg">As we seek the Spirit, our scripture reading becomes more reflective. We rediscover the virtue of slow reading. There is more reading aloud as, perhaps, the scriptures were meant to be read. Brigham Young said: “All I have to do is … keep my spirit, feelings and conscience like a sheet of blank paper, and let the spirit and power of God write upon it what he pleases. When he writes, I will read; but if I read before he writes, I am very likely to be wrong.”<span class="noteMarker" ref="f_5">5</span></p>
-      <p class="para" uri="/general-conference/2000/10/seeking-the-spirit-of-god.p9" pid="inlAVptHnkqZJjXZiXJjlA" hash="gj0FGA">As an evidence of increased spirituality we become more selective in what we read. J. Reuben Clark said, “My rule now is, never read anything that is not worth remembering.”<span class="noteMarker" ref="f_6">6</span> Thomas Jefferson always read something ennobling just before he retired, “whereon to ruminate in the intervals of sleep.”<span class="noteMarker" ref="f_7">7</span></p>
-      <p class="para" uri="/general-conference/2000/10/seeking-the-spirit-of-god.p10" pid="VZuws7IUQkqeZYUq9Rf7VQ" hash="Cwq5Hg">Another fruit of spiritual maturity is improved prayer. More than 30 years ago, President Kimball called me to serve as a stake president. At the conclusion of a long conference weekend, I inquired if he had counsel for me. He replied: “Go teach the Latter-day Saints how to pray. As a people we must not forget how to commune with our Heavenly Father. That is all.” Most of the profound and important teachings in the Church are simple.</p>
-      <p class="para" uri="/general-conference/2000/10/seeking-the-spirit-of-god.p11" pid="PGDOz9npR020-ewX2_5auA" hash="xrXovQ">Those who have made it their quest to realize the constant companionship of the Holy Spirit will awaken in the next life as spiritual giants, in contrast to the infancy of others who have lived without God in this world.</p>
-      <p class="para" uri="/general-conference/2000/10/seeking-the-spirit-of-god.p12" pid="PtXoJW8VyUCnU3_iissdaQ" hash="Fr7o4w">One of the spiritually advanced was President Joseph F. Smith. A member of the Twelve said of him: “Spiritually, he was the most high-minded of any man I ever met. I visited the Tabernacle where President Smith blessed the Latter-day Saints. For 20 minutes he blessed them. For 20 minutes there was not a dry eye in the Tabernacle.”<span class="noteMarker" ref="f_8">8</span></p>
-      <p class="para" uri="/general-conference/2000/10/seeking-the-spirit-of-god.p13" pid="pdObSQtaoEeEf9lXE31PXQ" hash="D7YrUQ">Bishop Charles W. Nibley said at the passing of Joseph F. Smith: “Never was man more moral and chaste and virtuous to the last fiber of his being than he. Against all forms or thoughts of licentiousness, he was set, and immovable as a mountain. … As a preacher of righteousness who could compare with him? He was the greatest that I ever heard—strong, powerful, clear, appealing. It was marvelous how the words of living light and fire flowed from him. … [When] the heart of President Smith was attuned to the Celestial melodies—he could hear, and [he] did hear.”<span class="noteMarker" ref="f_9">9</span></p>
-      <p class="para" uri="/general-conference/2000/10/seeking-the-spirit-of-god.p14" pid="346TT13lo06Pdagcn-heIQ" hash="Sf0a3Q">Another who developed this great talent of spirituality was President David O. McKay, causing Elder Bryant S. Hinckley to write, “David O. McKay has done many good things and said many beautiful things but somehow he is finer than anything he has ever said or done.”<span class="noteMarker" ref="f_10">10</span></p>
-      <p class="para" uri="/general-conference/2000/10/seeking-the-spirit-of-god.p15" pid="6cupHjPKqU2Asju4yMTB9w" hash="c5AWHg">The great battle of our premortal estate was a struggle for individual souls. It is the same battle we wage here, which is to become supremely spiritual beings. President McKay said, “Spirituality is the consciousness of victory over self.”<span class="noteMarker" ref="f_11">11</span> It is the sure knowledge that we are winning the struggle for the soul. Sensuality is the realm of self-indulgence. Spirituality is the realm of self-victory.</p>
-      <p class="para" uri="/general-conference/2000/10/seeking-the-spirit-of-god.p16" pid="3jxB7hOk1U-jM280YBI-yg" hash="oho8wQ">I attended a church class in which the instructor asked what counsel we would give our children in the closing moments of life. I answered: “First, keep your covenants. God keeps His. It will mean much to stand before your Father in Heaven and report: ‘I am home. I am clean. I have done all I covenanted to do.’”</p>
-      <p class="para" uri="/general-conference/2000/10/seeking-the-spirit-of-god.p17" pid="_cWIgTxl10q5PjJ3vu2Sdg" hash="X0G0Ug">Second, seek the Spirit of God. The scriptures plead: “Quench not the Spirit.”<span class="noteMarker" ref="f_12">12</span> “Grieve not the … Spirit.”<span class="noteMarker" ref="f_13">13</span> It will not come to impure hearts or minds. It comes quietly and without drama. A listening ear can hear the faint rustle of a wing. If we do not listen, it will leave.</p>
-      <p class="para" uri="/general-conference/2000/10/seeking-the-spirit-of-god.p18" pid="YaFk4L7vUEOm0-GlQw-r0g" hash="_WX_qA">I testify that the workings of the Spirit are real and are found in this Church. I also testify of Christ, the Redeemer, and the work He has instituted in this dispensation. In the name of Jesus Christ, amen.</p>
-    </div>
-  </div>
-  
-</div>]]></content:encoded>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="30"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/cbf75199514318993ec52a92da77de085177199b/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/cbf75199514318993ec52a92da77de085177199b/full/%21192%2C/0/default" data-video-title="Seeking the Spirit of God" data-video-description="As we become more conversant with the Holy Spirit, our lives become refined. The sordid and base have no attraction." data-video-id="6389400089112" data-ip="Download &amp; Streaming" data-duration="433000" data-assetId="b2700ade3a33e3f003f06bc35bfafca8d7e9c3f6" data-ref-id="b2700ade3a33e3f003f06bc35bfafca8d7e9c3f6" data-duration-string="7:13" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6389400089112.m3u8" type="application/vnd.apple.mpegurl" data-width="1280" data-height="720" data-file-size="22319914"/><source src="https://assets.churchofjesuschrist.org/b2700ade3a33e3f003f06bc35bfafca8d7e9c3f6-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="13785051"/><source src="https://assets.churchofjesuschrist.org/b2700ade3a33e3f003f06bc35bfafca8d7e9c3f6-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="22319914"/></video><h1 data-aid="28813876" id="title1">Seeking the Spirit of God</h1>
+<div class="byline">
+<p class="author-name" data-aid="28813877" id="p1">By Elder Douglas L. Callister</p>
+<p class="author-role" data-aid="28813878" id="p2">Of the Seventy</p>
+<div class="image-cropper"><img alt="Elder Douglas L. Callister" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/0e274153feb7025ae1b0b3e5b659bca58d2bdc05/full/%21100%2C/0/default" data-assetId="0e274153feb7025ae1b0b3e5b659bca58d2bdc05" srcset="https://www.churchofjesuschrist.org/imgs/0e274153feb7025ae1b0b3e5b659bca58d2bdc05/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/0e274153feb7025ae1b0b3e5b659bca58d2bdc05/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/0e274153feb7025ae1b0b3e5b659bca58d2bdc05/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/0e274153feb7025ae1b0b3e5b659bca58d2bdc05/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/0e274153feb7025ae1b0b3e5b659bca58d2bdc05/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/0e274153feb7025ae1b0b3e5b659bca58d2bdc05/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/0e274153feb7025ae1b0b3e5b659bca58d2bdc05/full/%21640%2C/0/default 640w" data-img-id="0e274153feb7025ae1b0b3e5b659bca58d2bdc05" data-missing-asset="false" data-width="100" data-height="125" data-aspect-ratio="0.8" data-public-title="Callister, Douglas L." data-public-description="Final portrait of Elder Douglas L. Callister of the Second Quorum of the Seventy, July 2009.  Replaces previous portrait from 2000.    Called as Bountiful Utah Temple president, May 2009.  Released from Second Quorum of the Seventy October 3, 2009 at general conference."/></div>
+</div>
+<p class="kicker" data-aid="28813879" id="kicker1">As we become more conversant with the Holy Spirit, our lives become refined. The sordid and base have no attraction.</p>
+</header>
+<div class="body-block">
+<p data-aid="28813880" id="p3">In Italy there is a majestic sculpture of Moses with a crack on one of the knees. A tour guide may say that Michelangelo, viewing the masterpiece, hurled a chisel at the sculpture and exclaimed in disdain, “Why doesn’t it speak?”</p>
+<p data-aid="28813881" id="p4">Unlike the inanimate stone, the true Church of Jesus Christ is filled with life. The voice, Spirit, and power of God are found in our worship services or whenever the ordinances of the holy priesthood are administered.</p>
+<p data-aid="28813882" id="p5">Elijah inquired of Elisha, “Ask what I shall do for thee.” Elisha said, “I pray thee, let a double portion of thy spirit be upon me.”<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a> He could not have asked for anything greater.</p>
+<p data-aid="28813883" id="p6">Elder Joseph Fielding Smith has written: “The Spirit of God speaking to the spirit of man has power to impart truth. … Through the Holy Ghost the truth is woven into the very fibre and sinews of the body so that it cannot be forgotten.”<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a></p>
+<p data-aid="28813884" id="p7">With our confirmation as Church members, the door is opened for us to pursue this heavenly endowment. This should be an urgent and lifelong quest.</p>
+<p data-aid="28813885" id="p8">As we become more conversant with the Holy Spirit, our lives become refined. The sordid and base have no attraction. It is developed spirituality which separates us from the secular world.</p>
+<p data-aid="28813886" id="p9">A spiritual-minded man is observant of the beauty in the world around him. As the earth was organized, the Lord saw that “it was good.” Then, “It was very good.”<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a> It pleases our Father in Heaven when we, also, pause to note the beauty of our environment, which we will naturally do as we become more spiritually sensitive. Our awareness of grand music, literature, and sublime art is often a natural product of spiritual maturity. In poetic allusion to the theophany of Moses and the burning bush, Elizabeth Barrett Browning wrote, “Earth’s crammed with heaven, / And every common bush afire with God; / And only he who sees takes off his shoes.”<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a></p>
+<p data-aid="28813887" id="p10">As we seek the Spirit, our scripture reading becomes more reflective. <span class="page-break" data-page="31"></span>We rediscover the virtue of slow reading. There is more reading aloud, as perhaps the scriptures were meant to be read. Brigham Young said: “All I have to do is … keep my spirit, feelings and conscience like a sheet of blank paper, and let the spirit and power of God write upon it what he pleases. When he writes, I will read; but if I read before he writes, I am very likely to be wrong.”<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a></p>
+<p data-aid="28813888" id="p11">As an evidence of increased spirituality, we become more selective in what we read. J. Reuben Clark said, “My rule now is, never read anything that is not worth remembering.”<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a> Thomas Jefferson always read something ennobling just before he retired, “whereon to ruminate in the intervals of sleep.”<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a></p>
+<p data-aid="28813889" id="p12">Another fruit of spiritual maturity is improved prayer. More than 30 years ago, President Kimball called me to serve as a stake president. At the conclusion of a long conference weekend, I inquired if he had counsel for me. He replied: “Go teach the Latter-day Saints how to pray. As a people we must not forget how to commune with our Heavenly Father. That is all.” Most of the profound and important teachings in the Church are simple.</p>
+<p data-aid="28813890" id="p13">Those who have made it their quest to realize the constant companionship of the Holy Spirit will awaken in the next life as spiritual giants, in contrast to the infancy of others who have lived without God in this world.</p>
+<p data-aid="28813891" id="p14">One of the spiritually advanced was President Joseph F. Smith. A member of the Twelve said of him: “Spiritually, he was the most high-minded of any man I ever met. I visited the Tabernacle where President Smith blessed the Latter-day Saints. For 20 minutes he blessed them. For 20 minutes there was not a dry eye in the Tabernacle.”<a class="note-ref" href="#note8"><sup class="marker" data-value="8"></sup></a></p>
+<p data-aid="28813892" id="p15">Bishop Charles W. Nibley said at the passing of Joseph F. Smith: “Never was man more moral and chaste and virtuous to the last fiber of his being than he. Against all forms or thoughts of licentiousness, he was set, and as immovable as a mountain.”<a class="note-ref" href="#note9"><sup class="marker" data-value="9"></sup></a></p>
+<p data-aid="164857794" id="p21">“As a preacher of righteousness, who could compare with him? He was the greatest that I ever heard—strong, powerful, clear, appealing. It was marvelous how the words of living light and fire flowed from him. … [When] the heart of President Smith was attuned to the Celestial melodies—he could hear, and [he] did hear.”<a class="note-ref" href="#note10"><sup class="marker" data-value="10"></sup></a></p>
+<p data-aid="28813893" id="p16">Another who developed this great talent of spirituality was President David O. McKay, causing Elder Bryant S. Hinckley to write, “David O. McKay has done many good things and said many beautiful things but somehow he is finer than anything he has ever said or done.”<a class="note-ref" href="#note11"><sup class="marker" data-value="11"></sup></a></p>
+<p data-aid="28813894" id="p17">The great battle of our premortal estate was a struggle for individual souls. It is the same battle we wage here, which is to become supremely spiritual beings. President McKay said, “Spirituality is the consciousness of victory over self.”<a class="note-ref" href="#note12"><sup class="marker" data-value="12"></sup></a> It is the sure knowledge that we are winning the struggle for the soul. Sensuality is the realm of self-indulgence. Spirituality is the realm of self-victory.</p>
+<p data-aid="28813895" id="p18">I attended a Church class in which the instructor asked what counsel we would give our children in the closing moments of life. I answered: “First, keep your covenants. God keeps His. It will mean much to stand before your Father in Heaven and report: ‘I am home. I am clean. I have done all I covenanted to do.’”</p>
+<p data-aid="28813896" id="p19">Second, seek the Spirit of God. The scriptures plead: “Quench not the Spirit.”<a class="note-ref" href="#note13"><sup class="marker" data-value="13"></sup></a> “Grieve not the … Spirit.”<a class="note-ref" href="#note14"><sup class="marker" data-value="14"></sup></a> It will not come to impure hearts or minds. It comes quietly and without drama. A listening ear can hear the faint rustle of a wing. If we do not listen, it will leave.</p>
+<p data-aid="28813897" id="p20">I testify that the workings of the Spirit are real and are found in this Church. I also testify of Christ, the Redeemer, and the work He has instituted in this dispensation. In the name of Jesus Christ, amen.</p>
+</div>
+<footer class="notes">
+<p class="title" data-aid="150294494" id="notetitle1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="28813898" id="note1_p1"><a class="scripture-ref" href="/study/scriptures/ot/2-kgs/2?lang=eng&amp;id=p9#p9">2 Kgs. 2:9</a>.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="28813899" id="note2_p1">“The Sin against the Holy Ghost,” <em>Instructor,</em> Oct. 1935, 431.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="28813900" id="note3_p1"><a class="scripture-ref" href="/study/scriptures/ot/gen/1?lang=eng&amp;id=p4%2Cp31#p4">Gen. 1:4, 31</a>.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="28813901" id="note4_p1"><em>Aurora Leigh,</em> 7:821–23.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="28813902" id="note5_p1"><em>Deseret News Weekly,</em> 19 Apr. 1871, 125.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="28813903" id="note6_p1">Quoted by Joseph L. Wirthlin, in Conference Report, Apr. 1947, 85.</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="28813904" id="note7_p1"><em>The Best Letters of Thomas Jefferson,</em> sel. J. G. de Roulhac Hamilton (1926), 227.</p>
+</li>
+<li data-marker="8." id="note8" data-full-marker="8.">
+<p data-aid="28813905" id="note8_p1">Personal conversation with Elder LeGrand Richards on 1 July 1978.</p>
+</li>
+<li data-marker="9." id="note9" data-full-marker="9.">
+<p data-aid="28813906" id="note9_p1">Quoted in Joseph F. Smith, <em>Gospel Doctrine,</em> 5th ed. (1939), 524–25.</p>
+</li>
+<li data-marker="10." id="note10" data-full-marker="10.">
+<p data-aid="28813907" id="note10_p1"><em>Gospel Doctrine,</em> 522.</p>
+</li>
+<li data-marker="11." id="note11" data-full-marker="11.">
+<p data-aid="164857796" id="note11_p1">“Greatness in Men—David O. McKay,” <em>Improvement Era,</em> May 1932, 446.</p>
+</li>
+<li data-marker="12." id="note12" data-full-marker="12.">
+<p data-aid="28813908" id="note12_p1"><em>Gospel Ideals</em> (1953), 390.</p>
+</li>
+<li data-marker="13." id="note13" data-full-marker="13.">
+<p data-aid="28813909" id="note13_p1"><a class="scripture-ref" href="/study/scriptures/nt/1-thes/5?lang=eng&amp;id=p19#p19">1 Thes. 5:19</a>.</p>
+</li>
+<li data-marker="14." id="note14" data-full-marker="14.">
+<p data-aid="28813910" id="note14_p1"><a class="scripture-ref" href="/study/scriptures/nt/eph/4?lang=eng&amp;id=p30#p30">Eph. 4:30</a>.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/2000/10/seeking-the-spirit-of-god</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/october-2000-general-conference/2000-10-2060-elder-douglas-l-callister-64k-eng.mp3" length="3465180" type="audio/mpeg"/>
-      <pubDate>Sat, 30 Sep 2000 14:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/a485492832e011eca29deeeeac1e03f9b328cce9-64k-en.mp3" length="3543598" type="audio/mpeg"/>
+      <pubDate>Sat, 30 Sep 2000 14:00:00 -0600</pubDate>
+      <itunes:author>Douglas L. Callister</itunes:author>
     </item>
     <item>
       <title>Knowing That We Know</title>
-      <link>http://www.lds.org/general-conference/2007/10/knowing-that-we-know?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2007/10/knowing-that-we-know?lang=eng</link>
       <description>The testimony of others may initiate and nourish the desire for faith and testimony, but eventually every individual must find out for himself.</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/2007/10/knowing-that-we-know" dup-conf="false" dup-mag="false" schema-version="1" doc-id="general-conference_PD00008332_000_037" doc-version="2" hash="Q06nXQ"><div class="heading" uri="/general-conference/2007/10/knowing-that-we-know.head1"><h1 class="title" pid="tXJ8l-wQ0kGfKigxkIViuQ" hash="EAu66A">Knowing That We Know</h1><p class="authorName" guid="0ccd8ee9-8c35-4f8d-bebf-68c4a71cf0d4" pid="Cy5tLUMq70qniV_XDyrelg" hash="Ot1zSQ">Douglas L. Callister</p><p class="kicker" pid="tmq-5BgKp0KoQ0NBkLiN3w" hash="sfY87A">The testimony of others may initiate and nourish the desire for faith and testimony, but eventually every individual must find out for himself.</p></div><div class="bodyBlock" guid="eec246a3-9316-44e4-98f2-b47f7dd48c47">
-    <div class="topic" uri="/general-conference/2007/10/knowing-that-we-know.t1">
-      <img src="CallisterDL_all.ob.jpg" alt="Elder Douglas L. Callister" guid="dc2362b9-fd71-44a5-8073-8a123f541812" pid="VHU9SI6mgkCtXt_sBWfrdQ" hash="WrvUmQ" />
-      <p class="para" uri="/general-conference/2007/10/knowing-that-we-know.p" pid="2SawgsKLtECmQYYg-LFjRw" hash="Sny3ag">
-        <span class="pageBreak" page-number="100"></span>Years ago a man was accused of a serious crime. The prosecution presented three witnesses, each of whom saw the man commit the crime. The defense then presented three witnesses, none of whom had seen its commission. The simple jury was confused. Based on the number of witnesses, the evidence seemed to the jury equally divided. The man was acquitted. It was irrelevant, of course, that untold millions had never seen the crime. There needed to be only one witness.</p>
-      <p class="para" uri="/general-conference/2007/10/knowing-that-we-know.p" pid="nw79RLCA50mYvyFbVdy_MQ" hash="uoC1QQ">In the genius of the gospel plan, there ultimately only has to be one witness, but that witness must be you. The testimony of others may initiate and nourish the desire for faith and testimony, but eventually every individual must find out for himself. None can permanently endure on borrowed light.</p>
-      <p class="para" uri="/general-conference/2007/10/knowing-that-we-know.p" pid="QFPd365ID0Sti93ZpHPtpw" hash="-HtcUA">The restored gospel is not truer today than when a solitary boy walked out of the Sacred Grove in 1820. Truth has never been dependent on the number who embrace it. When Joseph left the grove, there was only one man on earth who knew the truth about God the Father and His Son, Jesus Christ. It is necessary, however, that each find out for himself and carry that burning testimony into the next life.</p>
-      <p class="para" uri="/general-conference/2007/10/knowing-that-we-know.p" pid="GHOr2mTuv0CbsulK7X5JHw" hash="EWwFJA">When the 23-year-old Heber J. Grant was installed as president of the Tooele Stake, he told the Saints he believed the gospel was true. President Joseph F. Smith, a counselor in the First Presidency, inquired, “Heber, you said you believe the gospel with all your heart, … but you did not bear your testimony that you know it is true. Don’t you know absolutely that this gospel is true?”</p>
-      <p class="para" uri="/general-conference/2007/10/knowing-that-we-know.p" pid="3pgh7qcyiUWbUqMfXMM9YA" hash="FIxGtQ">Heber answered, “I do not.” Joseph F. Smith then turned to John Taylor, the President of the Church, and said, “I am in favor of undoing this afternoon what we did this morning. I do not think any man should preside over a stake who has not a perfect and abiding knowledge of the divinity of this work.”</p>
-      <p class="para" uri="/general-conference/2007/10/knowing-that-we-know.p" pid="PJcf18GcZ0-cc2keux9TVg" hash="afmYeA">President Taylor replied, “Joseph, Joseph, Joseph, [Heber] knows it just as well as you do. The only thing that he does not know is that he does know it.”</p>
-      <p class="para" uri="/general-conference/2007/10/knowing-that-we-know.p" pid="-z0UqHtWkEaCFrkVqin7Wg" hash="gkQnGw">Within a few weeks that testimony was realized, and young Heber J. Grant shed tears of gratitude for the perfect, abiding, and absolute testimony that came into his life.<span class="noteMarker" ref="f_1">1</span></p>
-      <p class="para" uri="/general-conference/2007/10/knowing-that-we-know.p" pid="4gRF1AtDkk62EAYYR15CpQ" hash="YZWDDQ">It is a grand thing to know—and to know that you know and that the light has not been borrowed from another.</p>
-      <p class="para" uri="/general-conference/2007/10/knowing-that-we-know.p" pid="idk_IP6O2UuL2YKvtSB10w" hash="AySitA">Years ago I presided over a mission headquartered in the Midwest. One day, with a handful of our missionaries, I spoke with an esteemed representative of another Christian faith. This gentle soul spoke of his own religion’s history and doctrine, eventually repeating the familiar words: “By grace ye are saved. Every man and woman must exercise faith in Christ in order to become a saved being.”</p>
-      <p class="para" uri="/general-conference/2007/10/knowing-that-we-know.p" pid="RGVjIj3QrES9usmo4BMABw" hash="7Dc4LQ">Among those present was a new missionary. He was altogether unfamiliar with other religions. He had to ask the question, “But, sir, what happens to the little baby who dies before he is old enough to understand and exercise faith in Christ?” The learned man bowed his head, looked at the floor, and said, “There ought to be an exception. There ought to be a loophole. There ought to be a way, but there isn’t.”</p>
-      <p class="para" uri="/general-conference/2007/10/knowing-that-we-know.p" pid="fnFnJooiK0-iYbkN_2xNXA" hash="aP_K5w">The missionary looked at me and, with tears in his eyes, said, “Goodness, President, we do have the truth, don’t we!”</p>
-      <p class="para" uri="/general-conference/2007/10/knowing-that-we-know.p" pid="JGdTAXQPVEao4lwnhMceUg" hash="q0C0TQ">The moment of testimony realization—when you know that you know—is sweet and sublime. That testimony, if nurtured, will rest upon you as a mantle. When we see light, we are engulfed by it. Lights of understanding turn on within.</p>
-      <p class="para" uri="/general-conference/2007/10/knowing-that-we-know.p" pid="yvgX6LkdLk2V0LVF413jMA" hash="vmXuxQ">I once conversed with a fine <span class="pageBreak" page-number="101"></span>young man who was not of our faith, although he had attended most of our worship services for more than a year. I asked why he had not joined the Church. He replied, “Because I do not know whether it is true. I think it may well be true, but I cannot stand and testify, as you do, ‘I actually know it is true.’”</p>
-      <p class="para" uri="/general-conference/2007/10/knowing-that-we-know.p" pid="63HBNr9JiUa9Tm9COLUfTg" hash="RTF22A">I inquired, “Have you read the Book of Mormon?” He answered that he had read in the book.</p>
-      <p class="para" uri="/general-conference/2007/10/knowing-that-we-know.p" pid="bb-nzyWwJUCTHLT0if8raQ" hash="A3YVpw">I asked whether he had prayed about the book. He answered, “I have mentioned it in my prayers.”</p>
-      <p class="para" uri="/general-conference/2007/10/knowing-that-we-know.p" pid="PIwxVCXUvUyvfZPEThBHMw" hash="zgrQaQ">I told my friend that as long as he casually read and prayed, he never would find out, worlds without end. But when he set aside a period for fasting and pleading, the truth would be burned into his heart, and he would know that he knew. He said nothing more to me but told his wife the next morning that he would be fasting. The following Saturday he was baptized.</p>
-      <p class="para" uri="/general-conference/2007/10/knowing-that-we-know.p" pid="Ewxrqt80zkGAyfTxrtSgqw" hash="yjPRuQ">If you want to know that you know that you know, a price must be paid. And you alone must pay that price. There are proxies for ordinances, but none for the acquisition of a testimony.</p>
-      <p class="para" uri="/general-conference/2007/10/knowing-that-we-know.p" pid="Nnng3xz6D0aKbTJjZa9Uvg" hash="vq9GtQ">Alma spoke of his conversion in these beautiful words: “I have fasted and prayed many days that I might know these things of myself. And now I do know of myself that they are true; for the Lord God hath made them manifest unto me” (<a href="/scriptures/bofm/alma/5.46" class="scriptureRef">Alma 5:46</a>).</p>
-      <p class="para" uri="/general-conference/2007/10/knowing-that-we-know.p" pid="VgveNQ1gM0-40NY_mLz9xA" hash="6CITXA">When a testimony has been realized, there is a burning urge on the part of the possessor to bear that testimony to others. When Brigham Young left the waters of baptism, he said: “The spirit of the Lord was upon me, and I felt as though my bones would consume within me unless I spoke to the people. … The first discourse I ever delivered I occupied over an hour. I opened my mouth and the Lord filled it.”<span class="noteMarker" ref="f_2">2</span> As a fire will not burn, except the flame be revealed, a testimony cannot abide except it be expressed.</p>
-      <p class="para" uri="/general-conference/2007/10/knowing-that-we-know.p" pid="eRT-D5ePAEW0vcCeBKPyaA" hash="yNp5DQ">Brigham Young later said of Orson Pratt, “If Brother Orson [were] chopped up in inch pieces, each piece would cry out, ‘Mormonism [is] true.’”<span class="noteMarker" ref="f_3">3</span> Father Lehi eulogized his noble son Nephi in these words: “But behold, it was not he, but it was the Spirit of the Lord which was in him, which opened his mouth to utterance that he could not shut it” (<a href="/scriptures/bofm/2-ne/1.27" class="scriptureRef">2 Nephi 1:27</a>).</p>
-      <p class="para" uri="/general-conference/2007/10/knowing-that-we-know.p" pid="vp_NRm0gr0e7jC1panStUg" hash="yYGFgg">The opportunity and responsibility for testimony bearing exist first in the family setting. Our children should be able to remember the light in our eyes, the ring of our testimonies in their ears, and the feeling in their hearts as we bear witness to our most precious audience that Jesus was truly God’s own Son and Joseph was His prophet. Our posterity must know that we know, because we oft tell them.</p>
-      <p class="para" uri="/general-conference/2007/10/knowing-that-we-know.p" pid="Htj8LA0u90mkQLiPWi6OFg" hash="5bv6Mg">Early Church leaders paid a great price to establish this dispensation. Perhaps we will meet them in the next life and listen to their witness. When we are called upon to testify, what will we say? There will be spiritual infants and spiritual giants in the next life. Eternity is a long time to live without light, especially if our spouses and our descendants also live in darkness because there was no light within us, and others, therefore, could not light their lamps.</p>
-      <p class="para" uri="/general-conference/2007/10/knowing-that-we-know.p" pid="v2fQ-M_z5EeEAcWIEpBCfQ" hash="BAtSlw">We should be on our knees every morning and night pleading with the Lord that we never lose our faith, our testimony, or our virtue. There only has to be one witness, but it must be yourself.</p>
-      <p class="para" uri="/general-conference/2007/10/knowing-that-we-know.p" pid="-qlhY-YpUkycpmxCoC8wwQ" hash="kpPcuw">I have a testimony. It urges to be expressed. I bear witness that the power of the living God is in this Church. I know what I know, and my witness is true. In the name of Jesus Christ, amen.</p>
-    </div>
-  </div><div class="resources">
-    <div class="figure" uri="/general-conference/2007/10/knowing-that-we-know.f1"><title>Notes</title><ol class="number" guid=""><li guid="afde5c12-117b-4ef2-a3a1-2caa41f1cb96" pid="VlfK8S4fZ0y6A9u2SeOFBQ" hash="9GmulQ1">
-        <span class="label">1.</span>
-        <p guid="47e19801-f31c-45ed-b9cd-b3e1c038584b" pid="imAD3AnsX0ucSJa_FtyXFQ" hash="0Se2tA">See Heber J. Grant, <span class="emphasis">Gospel Standards,</span> comp. G. Homer Durham (1941), 191–93.</p>
-      </li><li guid="794e4e17-6e67-4349-aa6d-7a9d2ac9963d" pid="f4JS8IpcMUmDq_4F7pDvCA" hash="-hogfA1">
-        <span class="label">2.</span>
-        <p guid="f1a800ae-28d7-44e1-a083-8052f984559c" pid="_Z_bvis2a0KWXT8CLrbmwA" hash="tkslQQ">In <span class="emphasis">Deseret News,</span> Aug. 3, 1870, 306.</p>
-      </li><li guid="aa2217bf-f20e-4c3a-830b-ce500c413da3" pid="eQ35UrKcz0KCt5QCff98dQ" hash="NH5kCA1">
-        <span class="label">3.</span>
-        <p guid="f88ce71c-447d-418c-b322-f935ba39716a" pid="vQPFQn6iNk6lSC5RcNiM-Q" hash="Y2Zd-Q">President Brigham Young’s Office Journal, Oct. 1, 1860, Brigham Young Office Files, Church Archives, The Church of Jesus Christ of Latter-day Saints; punctuation and capitalization modernized.</p>
-      </li></ol></div>
-    <img src="CallisterDL_all.ob.jpg" alt="Elder Douglas L. Callister" guid="dc2362b9-fd71-44a5-8073-8a123f541812" pid="KZ4esXsMgEW1B_x_ouFzMA" hash="WrvUmQ1" />
-    <unknown name="digitalAssets" guid="">
-      <unknown name="assetGroup" guid="">
-        <unknown name="path" guid="dc2362b9-fd71-44a5-8073-8a123f541812"></unknown>
-      </unknown>
-    </unknown>
-  </div></div>]]></content:encoded>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="100"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/319a1d50f8e11a77cb0914abd3129bdd348bb72b/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/319a1d50f8e11a77cb0914abd3129bdd348bb72b/full/%21192%2C/0/default" data-video-title="Knowing That We Know" data-video-description="The testimony of others may initiate and nourish the desire for faith and testimony, but eventually every individual must find out for himself." data-video-id="2235974331001" data-ip="Download and Streaming                            " data-duration="546000" data-assetId="243cf13196b8af35f9f47066c65f6fc0f0a87273" data-ref-id="243cf13196b8af35f9f47066c65f6fc0f0a87273" data-duration-string="9:06" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/2235974331001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="162070130"/><source src="https://assets.churchofjesuschrist.org/243cf13196b8af35f9f47066c65f6fc0f0a87273-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="22365575"/><source src="https://assets.churchofjesuschrist.org/243cf13196b8af35f9f47066c65f6fc0f0a87273-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="40590672"/><source src="https://assets.churchofjesuschrist.org/243cf13196b8af35f9f47066c65f6fc0f0a87273-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="162070130"/></video><h1 data-aid="28837215" id="title1">Knowing That We Know</h1>
+<div class="byline">
+<p class="author-name" data-aid="28837216" id="p1">By Elder Douglas L. Callister</p>
+<p class="author-role" data-aid="28837217" id="p2">Of the Seventy</p>
+<div class="image-cropper"><img alt="Elder Douglas L. Callister" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/0e274153feb7025ae1b0b3e5b659bca58d2bdc05/full/%21100%2C/0/default" data-assetId="0e274153feb7025ae1b0b3e5b659bca58d2bdc05" srcset="https://www.churchofjesuschrist.org/imgs/0e274153feb7025ae1b0b3e5b659bca58d2bdc05/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/0e274153feb7025ae1b0b3e5b659bca58d2bdc05/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/0e274153feb7025ae1b0b3e5b659bca58d2bdc05/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/0e274153feb7025ae1b0b3e5b659bca58d2bdc05/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/0e274153feb7025ae1b0b3e5b659bca58d2bdc05/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/0e274153feb7025ae1b0b3e5b659bca58d2bdc05/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/0e274153feb7025ae1b0b3e5b659bca58d2bdc05/full/%21640%2C/0/default 640w" data-img-id="0e274153feb7025ae1b0b3e5b659bca58d2bdc05" data-missing-asset="false" data-width="100" data-height="125" data-aspect-ratio="0.8" data-public-title="Callister, Douglas L." data-public-description="Final portrait of Elder Douglas L. Callister of the Second Quorum of the Seventy, July 2009.  Replaces previous portrait from 2000.    Called as Bountiful Utah Temple president, May 2009.  Released from Second Quorum of the Seventy October 3, 2009 at general conference."/></div>
+</div>
+<p class="kicker" data-aid="28837218" id="kicker1">The testimony of others may initiate and nourish the desire for faith and testimony, but eventually every individual must find out for himself.</p>
+</header>
+<div class="body-block">
+<p data-aid="28837219" id="p3">Years ago a man was accused of a serious crime. The prosecution presented three witnesses, each of whom saw the man commit the crime. The defense then presented three witnesses, none of whom had seen its commission. The simple jury was confused. Based on the number of witnesses, the evidence seemed to the jury equally divided. The man was acquitted. It was irrelevant, of course, that untold millions had never seen the crime. There needed to be only one witness.</p>
+<p data-aid="28837220" id="p4">In the genius of the gospel plan, there ultimately only has to be one witness, but that witness must be you. The testimony of others may initiate and nourish the desire for faith and testimony, but eventually every individual must find out for himself. None can permanently endure on borrowed light.</p>
+<p data-aid="28837221" id="p5">The restored gospel is not truer today than when a solitary boy walked out of the Sacred Grove in 1820. Truth has never been dependent on the number who embrace it. When Joseph left the grove, there was only one person on earth who knew the truth about God the Father and His Son, Jesus Christ. It is necessary, however, that each find out for himself and carry that burning testimony into the next life.</p>
+<p data-aid="28837222" id="p6">When the 23-year-old Heber J. Grant was installed as president of the Tooele Stake, he told the Saints that he believed the gospel was true. President Joseph F. Smith, a counselor in the First Presidency, inquired, “Heber, you said you believe the gospel with all your heart, … but you did not bear your testimony that you know it is true. Don’t you know absolutely that this gospel is true?”</p>
+<p data-aid="28837223" id="p7">Heber answered, “I do not.” Joseph F. Smith then turned to John Taylor, the President of the Church, and said, “I am in favor of undoing this afternoon what we did this morning. I do not think any man should preside over a stake who has not a perfect and abiding knowledge of the divinity of this work.”</p>
+<p data-aid="28837224" id="p8">President Taylor replied, “Joseph, Joseph, Joseph, [Heber] knows it just as well as you do. The only thing that he does not know is that he does know it.”</p>
+<p data-aid="28837225" id="p9">Within a few weeks that testimony was realized, and young Heber J. Grant shed tears of gratitude for the perfect, abiding, and absolute testimony that came into his life.<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a></p>
+<p data-aid="28837226" id="p10">It is a grand thing to know—and to know that you know and that the light has not been borrowed from another.</p>
+<p data-aid="28837227" id="p11">Years ago I presided over a mission headquartered in the Midwest. One day, with a handful of our missionaries, I spoke with an esteemed representative of another Christian faith. This gentle soul spoke of his own religion’s history and doctrine, eventually repeating the familiar words: “By grace ye are saved. Every man and woman must exercise faith in Christ in order to become a saved being.”</p>
+<p data-aid="28837228" id="p12">Among those present was a new missionary. He was altogether unfamiliar with other religions. He had to ask the question, “But, sir, what happens to the little baby who dies before he is old enough to understand and exercise faith in Christ?” The learned man bowed his head, looked at the floor, and said, “There ought to be an exception. There ought to be a loophole. There ought to be a way, but there isn’t.”</p>
+<p data-aid="28837229" id="p13">The missionary looked at me and, with tears in his eyes, said, “Goodness, President, we do have the truth, don’t we!”</p>
+<p data-aid="28837230" id="p14">The moment of testimony realization—when you know that you know—is sweet and sublime. That testimony, if nurtured, will rest upon you as a mantle. When we see light, we are engulfed by it. Lights of understanding turn on within.</p>
+<p data-aid="28837231" id="p15">I once conversed with a fine <span class="page-break" data-page="101"></span>young man who was not of our faith, although he had attended most of our worship services for more than a year. I asked why he had not joined the Church. He replied, “Because I do not know whether it is true. I think it may well be true, but I cannot stand and testify, as you do, ‘I actually know it is true.’”</p>
+<p data-aid="28837232" id="p16">I inquired, “Have you read the Book of Mormon?” He answered that he had read in the book.</p>
+<p data-aid="28837233" id="p17">I asked whether he had prayed about the book. He answered, “I have mentioned it in my prayers.”</p>
+<p data-aid="28837234" id="p18">I told my friend that as long as he casually read and prayed, he never would find out, worlds without end. But when he set aside a period for fasting and pleading, the truth would be burned into his heart, and he would know that he knew. He said nothing more to me but told his wife the next morning that he would be fasting. The following Saturday he was baptized.</p>
+<p data-aid="28837235" id="p19">If you want to know that you know that you know, a price must be paid. And you alone must pay that price. There are proxies for ordinances but none for the acquisition of a testimony.</p>
+<p data-aid="28837236" id="p20">Alma spoke of his conversion in these beautiful words: “I have fasted and prayed many days that I might know these things of myself. And now I do know of myself that they are true; for the Lord God hath made them manifest unto me” (<a class="scripture-ref" href="/study/scriptures/bofm/alma/5?lang=eng&amp;id=p46#p46">Alma 5:46</a>).</p>
+<p data-aid="28837237" id="p21">When a testimony has been realized, there is a burning urge on the part of the possessor to bear that testimony to others. When Brigham Young left the waters of baptism, he said: “The spirit of the Lord was upon me, and I felt as though my bones would consume within me unless I spoke to the people. … The first discourse I ever delivered I occupied over an hour. I opened my mouth and the Lord filled it.”<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a> As a fire will not burn except the flame be revealed, a testimony cannot abide except it be expressed.</p>
+<p data-aid="28837238" id="p22">Brigham Young later said of Orson Pratt, “If Brother Orson [were] chopped up in inch pieces, each piece would cry out, ‘Mormonism [is] true.’”<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a> Father Lehi eulogized his noble son Nephi in these words: “But behold, it was not he, but it was the Spirit of the Lord which was in him, which opened his mouth to utterance that he could not shut it” (<a class="scripture-ref" href="/study/scriptures/bofm/2-ne/1?lang=eng&amp;id=p27#p27">2 Nephi 1:27</a>).</p>
+<p data-aid="28837239" id="p23">The opportunity and responsibility for testimony bearing exist first in the family setting. Our children should be able to remember the light in our eyes, the ring of our testimonies in their ears, and the feeling in their hearts as we bear witness to our most precious audience that Jesus was truly God’s own Son and Joseph was His prophet. Our posterity must know that we know, because we oft tell them.</p>
+<p data-aid="28837240" id="p24">Early Church leaders paid a great price to establish this dispensation. Perhaps we will meet them in the next life and listen to their witness. When we are called upon to testify, what will we say? There will be spiritual infants and spiritual giants in the next life. Eternity is a long time to live without light, especially if our spouses and our descendants also live in darkness because there was no light within us, and others, therefore, could not light their lamps.</p>
+<p data-aid="28837241" id="p25">We should be on our knees every morning and night pleading with the Lord that we never lose our faith, our testimony, or our virtue. There only has to be one witness, but it must be yourself.</p>
+<p data-aid="28837242" id="p26">I have a testimony. It urges to be expressed. I bear witness that the power of the living God is in this Church. I know what I know, and my witness is true. In the name of Jesus Christ, amen.</p>
+</div>
+<footer class="notes">
+<p class="title" data-aid="28837243" id="notetitle1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="28837244" id="note1_p1">See Heber J. Grant, <em>Gospel Standards,</em> comp. G. Homer Durham (1941), 191–93.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="28837245" id="note2_p1">In <em>Deseret News,</em> Aug. 3, 1870, 306.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="28837246" id="note3_p1">President Brigham Young’s Office Journal, Oct. 1, 1860, Brigham Young Office Files, Church Archives, The Church of Jesus Christ of Latter-day Saints; punctuation and capitalization modernized.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/2007/10/knowing-that-we-know</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/october-2007-general-conference/2007-10-5060-elder-douglas-l-callister-64k-eng.mp3" length="4351821" type="audio/mpeg"/>
-      <pubDate>Sun, 07 Oct 2007 14:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/2cbe327732d711ecbcf7eeeeac1e744e5d383e36-32k-en.mp3" length="2409702" type="audio/mpeg"/>
+      <pubDate>Sun, 07 Oct 2007 14:00:00 -0600</pubDate>
+      <itunes:author>Douglas L. Callister</itunes:author>
     </item>
   </channel>
 </rss>

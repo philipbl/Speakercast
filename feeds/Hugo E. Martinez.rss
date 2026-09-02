@@ -1,80 +1,181 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Talks By Hugo E. Martinez</title>
-    <link>http://philip.lundrigan.org/Speakercast/</link>
+    <link>https://philip.lundrigan.org/Speakercast/</link>
     <description>General Conference talks by Hugo E. Martinez.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Speakercast</generator>
     <image>
-      <url>http://philip.lundrigan.org/Speakercast/covers/Hugo%20E.%20Martinez.jpg</url>
+      <url>https://philip.lundrigan.org/Speakercast/covers/Hugo%20E.%20Martinez.jpg</url>
       <title>General Conference talks by Hugo E. Martinez.</title>
-      <link>http://philip.lundrigan.org/Speakercast/</link>
+      <link>https://philip.lundrigan.org/Speakercast/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 05 Oct 2014 14:00:00 -0700</lastBuildDate>
-    <pubDate>Sun, 05 Oct 2014 14:00:00 -0700</pubDate>
+    <lastBuildDate>Sun, 03 Apr 2022 10:00:00 -0600</lastBuildDate>
+    <pubDate>Sun, 03 Apr 2022 10:00:00 -0600</pubDate>
+    <itunes:author>Hugo E. Martinez</itunes:author>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
+    <itunes:image href="https://philip.lundrigan.org/Speakercast/covers/Hugo%20E.%20Martinez.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>General Conference talks by Hugo E. Martinez.</itunes:summary>
     <item>
       <title>Our Personal Ministries</title>
-      <link>http://www.lds.org/general-conference/2014/10/our-personal-ministries?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2014/10/our-personal-ministries?lang=eng</link>
       <description>Elder Hugo E. Martinez teaches that our personal ministries begin when we turn to Jesus Christ as our guide to knowing who and how to serve.</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/2014/10/our-personal-ministries" dup-conf="false" dup-mag="false" schema-version="1" doc-id="general-conference_10991_000_55martinez" doc-version="5" hash="r7r-wQ">
-			
-			<div class="heading" uri="/general-conference/2014/10/our-personal-ministries.head1">
-				<h1 class="title" pid="1qYS5OmGNkmqsG5o6RfE1A" hash="GC_00Q">Our Personal Ministries</h1>
-				<div class="byline">
-					<p class="para" uri="/general-conference/2014/10/our-personal-ministries.p2" pid="VBgmFuanQ0CWxQhiSVV66g" hash="5bC8_g">By Elder Hugo E. Martinez</p>
-					<p class="para" uri="/general-conference/2014/10/our-personal-ministries.p3" pid="EO_YHXxO_0ev7tuw-d6P-w" hash="sSmk3g">Of the Seventy</p>
-					<a href="gl://image/?pid=XqFkOQBnF0yWsLZYU0KMxg"><img xmlns="" src="https://edge.ldscdn.org/mobile/images/1255550/d885c013f0e84467b9f78385c66930ea/100x139.jpg" data-multi-src="true" data-src-50x69="https://edge.ldscdn.org/mobile/images/1255550/d885c013f0e84467b9f78385c66930ea/50x69.jpg" data-src-100x139="https://edge.ldscdn.org/mobile/images/1255550/d885c013f0e84467b9f78385c66930ea/100x139.jpg" data-src-200x278="https://edge.ldscdn.org/mobile/images/1255550/d885c013f0e84467b9f78385c66930ea/200x278.jpg" data-src-320x446="https://edge.ldscdn.org/mobile/images/1255550/d885c013f0e84467b9f78385c66930ea/320x446.jpg" data-src-460x641="https://edge.ldscdn.org/mobile/images/1255550/d885c013f0e84467b9f78385c66930ea/460x641.jpg" data-src-640x892="https://edge.ldscdn.org/mobile/images/1255550/d885c013f0e84467b9f78385c66930ea/640x892.jpg" data-src-1024x1427="https://edge.ldscdn.org/mobile/images/1255550/d885c013f0e84467b9f78385c66930ea/1024x1427.jpg" data-src-2048x2855="https://edge.ldscdn.org/mobile/images/1255550/d885c013f0e84467b9f78385c66930ea/2048x2855.jpg" data-src-3920x5465="https://edge.ldscdn.org/mobile/images/1255550/d885c013f0e84467b9f78385c66930ea/3920x5465.jpg" altText="Elder Hugo E. Martinez" pid="XqFkOQBnF0yWsLZYU0KMxg" hash="pBjlLA"></img></a>
-				</div>
-				<p class="kicker" pid="zydK95AD80eb0Ys7Bpx84g" hash="HU_8Dg">The love of Jesus Christ must be our guide if we are to become aware of the needs of those we can help in some way.</p>
-			<p class="authorName" pid="fcJ_XPr1zUW4EPx8-fUa_w" hash="5bC8_g1">By Elder Hugo E. Martinez</p></div>
-			<div class="bodyBlock" pid="WK5dBy-90UGJojIL47RZCA" hash="nffC4A">
-				<p class="para" uri="/general-conference/2014/10/our-personal-ministries.p5" pid="85tOOlAkdUap8EJxGLtt0A" hash="Xvr4gQ">In The Church of Jesus Christ of Latter-day Saints, we are given the opportunity and personal blessing to serve. For as long as I have been a member, I have served in many ways. Like Brother Udine Falabella, father of Elder Enrique R. Falabella, used to say, “He who serves in some thing is good for something; he who serves in no thing is good for nothing.” These are words that we need to keep in our minds and in our hearts.</p>
-				<p class="para" uri="/general-conference/2014/10/our-personal-ministries.p6" pid="ws_hpDtc2USypW9cap7OhQ" hash="zjhvNg">As I have sought guidance during my service, I have found comfort in remembering that the Savior focuses on the individual and the family. His love and tender attention to the individual have taught me that He recognizes the great worth of each of Heavenly Father’s children and that it is essential for us to ensure that each individual is ministered to and strengthened by the gospel of Jesus Christ.</p>
-				<p class="para" uri="/general-conference/2014/10/our-personal-ministries.p7" pid="MoNPHN0ydEyZSXAmQeXDHQ" hash="lQ0qlQ">In the scriptures we read:</p>
-				<p class="para" uri="/general-conference/2014/10/our-personal-ministries.p8" pid="xEmFXpeTqkirYMbAHIuIvg" hash="KlhHaA">“Remember the worth of souls is great in the sight of God. …</p>
-				<p class="para" uri="/general-conference/2014/10/our-personal-ministries.p9" pid="ivPbjbRySEqCNvOPzSZ49g" hash="m6AoSA">“And if it so be that you should labor <span class="emphasis">all</span> your days … and bring, <span class="emphasis">save it be one</span> soul unto me, how great shall be your joy with him in the kingdom of my Father!”<span class="noteMarker" ref="f_1">1</span></p>
-				<p class="para" uri="/general-conference/2014/10/our-personal-ministries.p10" pid="dCehw0fldke6-tGGdLr0HA" hash="naOA-Q">Every soul is of great worth to God, for we are His children and we have the potential to become as He is.<span class="noteMarker" ref="f_2">2</span></p>
-				<p class="para" uri="/general-conference/2014/10/our-personal-ministries.p11" pid="D8J-bZiXS0q4R8RrQEY2nA" hash="xeypuA">The love of Jesus Christ must be our guide if we are to become aware of the needs of those we can help in some way. The teachings of our Lord, Jesus Christ, show us the way. And that is how our personal ministry begins: discovering needs, then tending to them. As Sister Linda K. Burton, Relief Society general president, said, “First observe, then serve.”<span class="noteMarker" ref="f_3">3</span></p>
-				<span class="story">
-					<p class="para" uri="/general-conference/2014/10/our-personal-ministries.p12" pid="Cvn3tTPQpU-pHFUk8S26ww" hash="q6X34g">President Thomas S. Monson is a great example of this principle. In January of 2005, he was presiding over a priesthood leadership conference in Puerto Rico when he demonstrated how the Savior and His servants render service through personal ministry. At the conclusion of that wonderful meeting, President Monson began to greet all the priesthood leaders in attendance. Suddenly, he noticed that one of them was watching everything from afar, off by himself.</p>
-					<p class="para" uri="/general-conference/2014/10/our-personal-ministries.p13" pid="abLaEkz4IkanOY47cLQoOg" hash="nZZ8kA">President Monson walked away from the group, toward that brother, and spoke to him. With emotion, José R. Zayas told him it was a miracle that he had approached him and an answer to the prayers that he and his wife, Yolanda, had offered before the meeting. He told President Monson that his daughter was in very poor health and that he had with him a letter from his wife that she wanted delivered to President Monson. Brother Zayas had told his wife that it would be impossible since President Monson would be too busy. President Monson listened to the story and asked for the letter, which he read silently. Then he put it in his suit pocket and told Brother Zayas that he would take care of their request.</p>
-				</span>
-				<p class="para" uri="/general-conference/2014/10/our-personal-ministries.p14" pid="CJu3I2Z0aUubaHDnO1TqBA" hash="utKjoA">In this way, that family was touched by our Lord, Jesus Christ, through His servant. I believe the words of the Savior in the parable of the good Samaritan apply to us: “Go, and do thou likewise.”<span class="noteMarker" ref="f_4">4</span></p>
-				<span class="story">
-					<p class="para" uri="/general-conference/2014/10/our-personal-ministries.p15" pid="heFyATBNL0mSEgbdVKy81A" hash="tb8TzQ">On September 21, 1998, Hurricane Georges hit Puerto Rico, causing extensive damage. Sister Martinez, our five children, and I managed to survive that great storm and its hurricane-force winds by staying in our home. However, we went two weeks without running water and without power.</p>
-					<p class="para" uri="/general-conference/2014/10/our-personal-ministries.p16" pid="6DOyjMOg2UCOCbeIpG36tQ" hash="v6YDbQ">When our supply of water ran out, obtaining more was difficult. I will never forget the brethren who ministered to us by providing that precious liquid, nor will I forget the loving way the sisters also served us.</p>
-					<p class="para" uri="/general-conference/2014/10/our-personal-ministries.p17" pid="nBn_HGL-SkKh3idYyFaoLQ" hash="6ZErlg">Germán Colón came to our house with a large plastic water container in a pickup truck. He told us he was doing it because, in his words, “I know you have little children who need water.” A couple of days later, Brothers Noel Muñoz and Herminio Gómez loaded three large water tanks onto a flatbed truck. They showed up at our house unexpectedly and filled every available water bottle with drinking water, also inviting our neighbors to fill theirs.</p>
-					<p class="para" uri="/general-conference/2014/10/our-personal-ministries.p18" pid="S-YkDD54wUejILhWhHGPkg" hash="5CZePg">Our prayers were answered by their personal ministries. The faces of those three brethren reflected the love that Jesus Christ has for us, and their service—in other words, their personal ministry—brought much more than drinking water into our lives. To every son or daughter of God, knowing that people are interested in and watching out for his or her welfare is essential.</p>
-				</span>
-				<p class="para" uri="/general-conference/2014/10/our-personal-ministries.p19" pid="V2Oo4SfVxUuBQYkLksZ5Og" hash="I26icg">I testify to you that Heavenly Father and our Lord, Jesus Christ, know us individually and personally. For that reason, They provide what we need so we will have the opportunity to reach our divine potential. Along the road, They place people who will help us. Then, as we become instruments in Their hands, we are able to serve and help those They show to us by revelation.</p>
-				<p class="para" uri="/general-conference/2014/10/our-personal-ministries.p20" pid="pFpjFO8QoU-CRPinoGOkfw" hash="NiFAcQ">In this way, the Lord Jesus Christ will reach all of Heavenly Father’s children. The Good Shepherd will gather all His sheep. He will do so one by one as they make good use of their moral agency—after hearing the voice of His servants and receiving their ministrations. Then they will recognize His voice, and they will follow Him. Such personal ministry is integral to keeping our baptismal covenants.</p>
-				<p class="para" uri="/general-conference/2014/10/our-personal-ministries.p21" pid="5F-nr6eNwU2g2wTS53M1Pg" hash="J2dORQ">Likewise, being a good example of a disciple of Jesus Christ is our best letter of introduction to those with whom we can share His gospel. As we open our mouths and share the restored gospel of Jesus Christ, we become “His undershepherds, charged with nourishing the sheep of His pasture and the lambs of His fold”<span class="noteMarker" ref="f_5">5</span>; we become “the weak and the simple”<span class="noteMarker" ref="f_6">6</span> “fishers of men.”<span class="noteMarker" ref="f_7">7</span></p>
-				<p class="para" uri="/general-conference/2014/10/our-personal-ministries.p22" pid="0esgSj9GrU64_zJJosQ0hQ" hash="UYIeKg">Our service and personal ministry are not limited to the living on this earth. We can also do work for the dead—for those who live in the spirit world and who, during their mortal life, did not have the opportunity to receive the saving ordinances of the gospel of Jesus Christ. We can also keep a journal and write our family histories to turn the hearts of the living toward the living—as well as the hearts of the living toward their ancestors. It is all about linking our family, generation by generation, in eternal bonds. As we do so, we become “saviours … on mount Zion.”<span class="noteMarker" ref="f_8">8</span></p>
-				<p class="para" uri="/general-conference/2014/10/our-personal-ministries.p23" pid="AwJwJLzNTkaSS5w140WA5w" hash="4CDsDQ">We have the special opportunity to be instruments in His hands. We can be so in our marriages, in our families, with our friends, and with our fellowman. That is our personal ministry as true disciples of Jesus Christ.</p>
-				<p class="para" uri="/general-conference/2014/10/our-personal-ministries.p24" pid="jFSdiQpC9EGFm_6xxzqCnw" hash="x6QdLg">“And before him shall be gathered all nations: and he shall separate them one from another, as a shepherd divideth his sheep from the goats:</p>
-				<p class="para" uri="/general-conference/2014/10/our-personal-ministries.p25" pid="df29-IkrO0qLNfajzlcRog" hash="6qTcFg">“And he shall set the sheep on his right hand, but the goats on the left.</p>
-				<p class="para" uri="/general-conference/2014/10/our-personal-ministries.p26" pid="mUFVaIwDL0Co6OfuzHB4Cg" hash="k4mbmA">“Then shall the King say unto them on his right hand, Come, ye blessed of my Father, inherit the kingdom prepared for you from the foundation of the world:</p>
-				<p class="para" uri="/general-conference/2014/10/our-personal-ministries.p27" pid="WdYtjIsLQ06PJ1PvjlA1Vg" hash="ad-a6Q">“For I was an hungred, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in:</p>
-				<p class="para" uri="/general-conference/2014/10/our-personal-ministries.p28" pid="CLz96fhZR0avdozCu5TP8w" hash="mRXS5w">“Naked, and ye clothed me: I was sick, and ye visited me: I was in prison, and ye came unto me.</p>
-				<p class="para" uri="/general-conference/2014/10/our-personal-ministries.p29" pid="TVnov3CyS0m7S116sgxWaA" hash="GAP1IA">“Then shall the righteous answer him, saying, Lord, when saw we thee an hungred, and fed thee? or thirsty, and gave thee drink?</p>
-				<p class="para" uri="/general-conference/2014/10/our-personal-ministries.p30" pid="Vsh--v09VkuwmP8mOlAdUg" hash="3nEFVQ">“When saw we thee a stranger, and took thee in? or naked, and clothed thee?</p>
-				<p class="para" uri="/general-conference/2014/10/our-personal-ministries.p31" pid="qY3HpROBtUGfJu0-mzmwDg" hash="8EgWfQ">“Or when saw we thee sick, or in prison, and came unto thee?</p>
-				<p class="para" uri="/general-conference/2014/10/our-personal-ministries.p32" pid="zyvDJkDff0miQs9EPqy8og" hash="x44MAA">“And the King shall answer and say unto them, Verily I say unto you, Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me.”<span class="noteMarker" ref="f_9">9</span></p>
-				<p class="para" uri="/general-conference/2014/10/our-personal-ministries.p33" pid="Pvy-McpbWky61XodDglWng" hash="8Iud-g">That we may do so is my prayer in the name of Jesus Christ, amen.</p>
-				
-					<p class="para" uri="/general-conference/2014/10/our-personal-ministries.p34" pid="3Q4LOdNCjkyLNeMaYQHEtA" hash="_FIBnA">This address was delivered in Spanish.</p>
-				
-			</div>
-			
-		</div>]]></content:encoded>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="102"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/d650803da86d5f7b71b8b3bc9543b24a9c9b2fc6/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/d650803da86d5f7b71b8b3bc9543b24a9c9b2fc6/full/%21192%2C/0/default" data-video-title="Our Personal Ministries" data-video-description="Elder Hugo E. Martinez's address at the October 2014 General Conference." data-video-id="3823394855001" data-ip="Download and Streaming                            " data-duration="623000" data-assetId="9d124b53f8f15c66e107ed18564ab7039499843f" data-ref-id="9d124b53f8f15c66e107ed18564ab7039499843f" data-duration-string="10:23" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/3823394855001.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="226045438"/><source src="https://assets.churchofjesuschrist.org/9d124b53f8f15c66e107ed18564ab7039499843f-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="36097995"/><source src="https://assets.churchofjesuschrist.org/9d124b53f8f15c66e107ed18564ab7039499843f-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="72729144"/><source src="https://assets.churchofjesuschrist.org/9d124b53f8f15c66e107ed18564ab7039499843f-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="226045438"/></video><h1 data-aid="28863444" id="title1">Our Personal Ministries</h1>
+<div class="byline">
+<p class="author-name" data-aid="28863445" id="p1">By Elder Hugo E. Martinez</p>
+<p class="author-role" data-aid="28863446" id="p2">Of the Seventy</p>
+<div class="image-cropper"><img alt="Elder Hugo E. Martinez" class="headshot" data-deprecate-web-url="hugo-e-martinez-second-quorum-seventy_1255550_inl.jpg" id="img1" src="https://www.churchofjesuschrist.org/imgs/75954bd6cf9566ba1538dbcc9d5ff8d565b5314e/full/%21100%2C/0/default" data-assetId="75954bd6cf9566ba1538dbcc9d5ff8d565b5314e" srcset="https://www.churchofjesuschrist.org/imgs/75954bd6cf9566ba1538dbcc9d5ff8d565b5314e/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/75954bd6cf9566ba1538dbcc9d5ff8d565b5314e/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/75954bd6cf9566ba1538dbcc9d5ff8d565b5314e/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/75954bd6cf9566ba1538dbcc9d5ff8d565b5314e/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/75954bd6cf9566ba1538dbcc9d5ff8d565b5314e/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/75954bd6cf9566ba1538dbcc9d5ff8d565b5314e/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/75954bd6cf9566ba1538dbcc9d5ff8d565b5314e/full/%21640%2C/0/default 640w" data-img-id="75954bd6cf9566ba1538dbcc9d5ff8d565b5314e" data-missing-asset="false" data-width="100" data-height="139" data-aspect-ratio="0.7194244604316546" data-public-title="Martinez, Hugo E." data-public-description="Official portrait of Elder Hugo E. Martinez, Second Quorum of the Seventy, 2014.  Sustained 5 April 2014."/></div>
+</div>
+<p class="kicker" data-aid="28863447" id="kicker1">The love of Jesus Christ must be our guide if we are to become aware of the needs of those we can help in some way.</p>
+</header>
+<div class="body-block">
+<p data-aid="28863448" id="p3">In The Church of Jesus Christ of Latter-day Saints, we are given the opportunity and personal blessing to serve. For as long as I have been a member, I have served in many ways. Like Brother Udine Falabella, father of Elder Enrique R. Falabella, used to say, “He who serves in some thing is good for something; he who serves in no thing is good for nothing.” These are words that we need to keep in our minds and in our hearts.</p>
+<p data-aid="28863449" id="p4">As I have sought guidance during my service, I have found comfort in remembering that the Savior focuses on the individual and the family. His love and tender attention to the individual have taught me that He recognizes the great worth of each of Heavenly Father’s children and that it is essential for us to ensure that each individual is ministered to and strengthened by the gospel of Jesus Christ.</p>
+<p data-aid="28863450" id="p5">In the scriptures we read:</p>
+<p data-aid="28863451" id="p6">“Remember the worth of souls is great in the sight of God. …</p>
+<p data-aid="28863452" id="p7">“And if it so be that you should labor <em>all</em> your days … and bring, <em>save it be one</em> soul unto me, how great shall be your joy with him in the kingdom of my Father!”<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a></p>
+<p data-aid="28863453" id="p8">Every soul is of great worth to God, for we are His children and we have the potential to become as He is.<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a></p>
+<p data-aid="28863454" id="p9">The love of Jesus Christ must be our guide if we are to become aware of the needs of those we can help in some way. The teachings of our Lord, Jesus Christ, show us the way. And that is how our personal ministry begins: discovering needs, then tending to them. As Sister Linda K. Burton, Relief Society general president, said, “First observe, then serve.”<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a></p>
+<p data-aid="28863455" id="p10">President Thomas S. Monson is a great example of this principle. In January of 2005, he was presiding over a priesthood leadership conference in Puerto Rico when he demonstrated how the Savior and His servants render service through personal ministry. At the conclusion of that wonderful meeting, President Monson began to greet all the priesthood leaders in attendance. Suddenly, he noticed that one of them was watching everything from afar, off by himself.</p>
+<p data-aid="28863456" id="p11">President Monson walked away from the group, toward that brother, and spoke to him. With emotion, José R. Zayas told him it was a miracle that he had approached him and an answer to the prayers that he and his wife, Yolanda, had offered before the meeting. He told President Monson that his daughter was in very poor health and that he had with him a letter from his wife that she wanted <span class="page-break" data-page="103"></span>delivered to President Monson. Brother Zayas had told his wife that it would be impossible since President Monson would be too busy. President Monson listened to the story and asked for the letter, which he read silently. Then he put it in his suit pocket and told Brother Zayas that he would take care of their request.</p>
+<p data-aid="28863457" id="p12">In this way, that family was touched by our Lord, Jesus Christ, through His servant. I believe the words of the Savior in the parable of the good Samaritan apply to us: “Go, and do thou likewise.”<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a></p>
+<p data-aid="28863458" id="p13">On September 21, 1998, Hurricane Georges hit Puerto Rico, causing extensive damage. Sister Martinez, our five children, and I managed to survive that great storm and its hurricane-force winds by staying in our home. However, we went two weeks without running water and without power.</p>
+<p data-aid="28863459" id="p14">When our supply of water ran out, obtaining more was difficult. I will never forget the brethren who ministered to us by providing that precious liquid, nor will I forget the loving way the sisters also served us.</p>
+<p data-aid="28863460" id="p15">Germán Colón came to our house with a large plastic water container in a pickup truck. He told us he was doing it because, in his words, “I know you have little children who need water.” A couple of days later, Brothers Noel Muñoz and Herminio Gómez loaded three large water tanks onto a flatbed truck. They showed up at our house unexpectedly and filled every available water bottle with drinking water, also inviting our neighbors to fill theirs.</p>
+<p data-aid="28863461" id="p16">Our prayers were answered by their personal ministries. The faces of those three brethren reflected the love that Jesus Christ has for us, and their service—in other words, their personal ministry—brought much more than drinking water into our lives. To every son or daughter of God, knowing that people are interested in and watching out for his or her welfare is essential.</p>
+<p data-aid="28863462" id="p17">I testify to you that Heavenly Father and our Lord, Jesus Christ, know us individually and personally. For that reason, They provide what we need so we will have the opportunity to reach our divine potential. Along the road, They place people who will help us. Then, as we become instruments in Their hands, we are able to serve and help those They show to us by revelation.</p>
+<p data-aid="28863463" id="p18">In this way, the Lord Jesus Christ will reach all of Heavenly Father’s children. The Good Shepherd will gather all His sheep. He will do so one by one as they make good use of their moral agency—after hearing the voice of His servants and receiving their ministrations. Then they will recognize His voice, and they will follow Him. Such personal ministry is integral to keeping our baptismal covenants.</p>
+<p data-aid="28863464" id="p19">Likewise, being a good example of a disciple of Jesus Christ is our best letter of introduction to those with whom we can share His gospel. As we open our mouths and share the restored gospel of Jesus Christ, we become “His undershepherds, charged with nourishing the sheep of His pasture and the lambs of His fold”<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a>; we become “the weak and the simple”<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a> “fishers of men.”<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a></p>
+<p data-aid="28863465" id="p20">Our service and personal ministry are not limited to the living on this earth. We can also do work for the dead—for those who live in the spirit world and who, during their mortal life, did not have the opportunity to receive the saving ordinances of the gospel of Jesus Christ. We can also keep a journal and write our family histories to turn the hearts of the living toward the living—as well as the hearts of the living toward their ancestors. It is all about linking our family, generation by generation, in eternal bonds. As we do so, we become “saviours … on mount Zion.”<a class="note-ref" href="#note8"><sup class="marker" data-value="8"></sup></a></p>
+<p data-aid="28863466" id="p21">We have the special opportunity to be instruments in His hands. We can be so in our marriages, in our families, with our friends, and with our <span class="page-break" data-page="104"></span>fellowman. That is our personal ministry as true disciples of Jesus Christ.</p>
+<p data-aid="28863467" id="p22">“And before him shall be gathered all nations: and he shall separate them one from another, as a shepherd divideth his sheep from the goats:</p>
+<p data-aid="28863468" id="p23">“And he shall set the sheep on his right hand, but the goats on the left.</p>
+<p data-aid="28863469" id="p24">“Then shall the King say unto them on his right hand, Come, ye blessed of my Father, inherit the kingdom prepared for you from the foundation of the world:</p>
+<p data-aid="28863470" id="p25">“For I was an hungred, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in:</p>
+<p data-aid="28863471" id="p26">“Naked, and ye clothed me: I was sick, and ye visited me: I was in prison, and ye came unto me.</p>
+<p data-aid="28863472" id="p27">“Then shall the righteous answer him, saying, Lord, when saw we thee an hungred, and fed thee? or thirsty, and gave thee drink?</p>
+<p data-aid="28863473" id="p28">“When saw we thee a stranger, and took thee in? or naked, and clothed thee?</p>
+<p data-aid="28863474" id="p29">“Or when saw we thee sick, or in prison, and came unto thee?</p>
+<p data-aid="28863475" id="p30">“And the King shall answer and say unto them, Verily I say unto you, Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me.”<a class="note-ref" href="#note9"><sup class="marker" data-value="9"></sup></a></p>
+<p data-aid="28863476" id="p31">That we may do so is my prayer in the name of Jesus Christ, amen.</p>
+<aside class="annotation" id="aside1">
+<p data-aid="28863477" id="p32">This address was delivered in Spanish.</p>
+</aside>
+</div>
+<footer class="notes">
+<p class="title" data-aid="28863478" id="notetitle1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="28863479" id="note1_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/18?lang=eng&amp;id=p10%2Cp15#p10">Doctrine and Covenants 18:10, 15</a>; emphasis added.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="28863480" id="note2_p1">See Guide to the Scriptures, “<a class="scripture-ref" href="/study/scriptures/gs/soul?lang=eng">Soul</a>”; scriptures.lds.org.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="28863481" id="note3_p1">Linda K. Burton, “First Observe, Then Serve,” <em>Ensign</em> or <em>Liahona,</em> Nov. 2012, 78.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="28863482" id="note4_p1"><a class="scripture-ref" href="/study/scriptures/nt/luke/10?lang=eng&amp;id=p37#p37">Luke 10:37</a>.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="28863483" id="note5_p1">Alexander B. Morrison, “Nourish the Flock of Christ,” <em>Ensign,</em> May 1992, 13.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="28863484" id="note6_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/1?lang=eng&amp;id=p23#p23">Doctrine and Covenants 1:23</a>.</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="28863485" id="note7_p1"><a class="scripture-ref" href="/study/scriptures/nt/matt/4?lang=eng&amp;id=p19#p19">Matthew 4:19</a>.</p>
+</li>
+<li data-marker="8." id="note8" data-full-marker="8.">
+<p data-aid="28863486" id="note8_p1"><a class="scripture-ref" href="/study/scriptures/ot/obad/1?lang=eng&amp;id=p21#p21">Obadiah 1:21</a>.</p>
+</li>
+<li data-marker="9." id="note9" data-full-marker="9.">
+<p data-aid="28863487" id="note9_p1"><a class="scripture-ref" href="/study/scriptures/nt/matt/25?lang=eng&amp;id=p32-p40#p32">Matthew 25:32–40</a>.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/2014/10/our-personal-ministries</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5050-elder-hugo-e-martinez-64k-eng.mp3" length="5004048" type="audio/mpeg"/>
-      <pubDate>Sun, 05 Oct 2014 14:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/cb3d6b8f32e411ec8868eeeeac1e3d38ffb47f39-64k-en.mp3" length="5201255" type="audio/mpeg"/>
+      <pubDate>Sun, 05 Oct 2014 14:00:00 -0600</pubDate>
+      <itunes:author>Hugo E. Martinez</itunes:author>
+    </item>
+    <item>
+      <title>Teaching Self-Reliance to Children and Youth</title>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2022/04/46martinez?lang=eng</link>
+      <description>Elder Martinez explains blessings that come from living principles of self-reliance and participating in the Children and Youth program.</description>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="94"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/2d73558bc878c9848249c5fd3278ce13d820fe0f/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/2d73558bc878c9848249c5fd3278ce13d820fe0f/full/%21192%2C/0/default" data-video-title="Teaching Self-Reliance to Children and Youth" data-video-description="Elder Martinez explains blessings that come from living principles of self-reliance and participating in the Children and Youth program." data-video-id="6302777198001" data-ip="Download and Streaming                            " data-duration="610000" data-assetId="8f94a1dcb37911ecb993eeeeac1e8be210b0b025" data-ref-id="51846D4C2611D9FA6C4D8D79A6993BDF2036C710" data-duration-string="10:10" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6302777198001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="139030250"/><source src="https://assets.churchofjesuschrist.org/8f94a1dcb37911ecb993eeeeac1e8be210b0b025-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="34604330"/><source src="https://assets.churchofjesuschrist.org/8f94a1dcb37911ecb993eeeeac1e8be210b0b025-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="60449994"/><source src="https://assets.churchofjesuschrist.org/8f94a1dcb37911ecb993eeeeac1e8be210b0b025-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="139030250"/></video><h1 data-aid="149807579" id="title1">Teaching Self-Reliance to Children and Youth</h1>
+<div class="byline">
+<p class="author-name" data-aid="149807588" id="author1">By Elder Hugo E. Martinez</p>
+<p class="author-role" data-aid="149807597" id="author2">Of the Seventy</p>
+</div>
+<p class="kicker" data-aid="149807606" id="kicker1">Let us follow our Savior, Jesus Christ, and His gospel by becoming self-reliant throughout our lives and teaching this to our children and youth.</p>
+</header>
+<div class="body-block">
+<p data-aid="149807615" id="p1">I will speak about self-reliance and how it can be taught to children and to youth. Self-reliance may be perceived as being subject matter for adults. I’ve come to know that adults can best be on the path toward self-reliance when they have been taught the gospel of Jesus Christ and have practiced its doctrine and principles since childhood and as youth in the home.</p>
+<p data-aid="149807624" id="p2">The best illustration is a great real-life example. Wilfried Vanie, his seven siblings, and his mother joined the Church in Abidjan, Ivory Coast, when he was six years old. He was baptized at eight. His father, the main provider in the family, died when Wilfried was eleven.</p>
+<p data-aid="149807633" id="p21">Though saddened by the family situation, Wilfried decided to continue in school, with his mother’s encouragement and with Church support. He graduated from secondary school and served a full-time mission in the Ghana Cape Coast Mission, where he learned English. After his mission, he went on to the university and obtained a diploma in accounting and finance. Though it was hard to obtain employment in this field, he found work in the tourism and hospitality industry.</p>
+<p data-aid="149807642" id="p22">He started as a waiter in a five-star hotel, but his passion to improve pushed him to learn more until he became a bilingual receptionist there. When a new hotel opened, he was hired as the night auditor. Later, he enrolled in BYU–Pathway Worldwide and is currently studying a course to obtain a certificate in hospitality and tourism management. His desire is <span class="page-break" data-page="95"></span>to one day become the manager of a high-end hotel. Wilfried can provide for his eternal companion and two children, as well as help his mother and his siblings. He currently serves in the Church as a member of the stake high council.</p>
+<p data-aid="149807650" id="p3">Self-reliance is defined as “the ability, commitment, and effort to provide the spiritual and temporal necessities of life for self and family.”<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a> Striving to be self-reliant is part of our work along the covenant path that leads us back to Heavenly Father and to His Son, Jesus Christ. It will strengthen our faith in Jesus Christ and joyfully bind us to Him through the covenants and ordinances of salvation and exaltation. Self-reliance is a doctrine of the gospel of Jesus Christ, not a program. It is a process that lasts a lifetime, not an event.</p>
+<p data-aid="149807658" id="p4">We become self-reliant throughout our lives by growing in spiritual strength, improving our physical and emotional health, pursuing our education and employment, and being temporally prepared.<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a> Is this task ever finished during our lives? <em>No</em>, it is a lifelong process of learning, growth, and work. It never ends; it is a continuous, daily process.</p>
+<p data-aid="149807667" id="p5">How can we teach the doctrine and principles of self-reliance to our children and youth? One important way is to regularly apply the principles of the Children and Youth program. Parents and children learn the gospel of Jesus Christ, participate in service and activities, and work together in four areas of personal development that are unique for each child. It is no longer the same prescribed program for all.</p>
+<p data-aid="149807675" id="p23">The <cite>Children’s Guidebook</cite> says: “When Jesus was your age, He learned and grew. You are learning and growing too. The scriptures say: ‘Jesus increased in wisdom and stature, and in favour with God and man’ (<a class="scripture-ref" href="/study/scriptures/nt/luke/2?lang=eng&amp;id=p52#p52">Luke 2:52</a>).”<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a> This scripture refers to growth and learning in the spiritual aspect, favor with God; the social aspect, favor with man; the physical aspect, stature; and the intellectual aspect, wisdom. These developmental areas apply to all of us, no matter our age. When do we teach them? In <a class="scripture-ref" href="/study/scriptures/ot/deut/6?lang=eng&amp;id=p6-p7#p6">Deuteronomy 6:6–7</a> we read:</p>
+<p data-aid="149807683" id="p6">“And these words, which I command thee this day, shall be in thine heart:</p>
+<p data-aid="149807691" id="p7">“And thou shalt teach them diligently unto thy children, and shalt talk of them when thou sittest in thine house, and when thou walkest by the way, and when thou liest down, and when thou risest up.”</p>
+<p data-aid="149807699" id="p8">We teach these things to children by our good example, by working and serving with them, studying the scriptures, and following the teachings of Jesus Christ as taught by prophets.</p>
+<p data-aid="149807707" id="p9">I’ve mentioned that in the Children and Youth program, children choose different goals in each one of the four areas of development. It is important that they create their own goals in each area. Parents and leaders can teach, counsel, and support.</p>
+<p data-aid="149807715" id="p24">For example, our granddaughter Miranda is very motivated to grow spiritually by participating in daily early-morning seminary classes. She became interested by hearing positive comments from other seminary students in her ward. Her mother does not have to wake her up for class. On her own, she is up and connected by videoconference at the appointed time of 6:20 in the morning because she has developed good habits that help her to do so. My own parents told me recently that Miranda now talks more when she visits them, as she has grown in self-confidence. These are lessons for life and growth with noticeable outcomes.</p>
+<p data-aid="149807722" id="p10">Parents, grandparents, leaders, and friends assist in the growth and development of the children. Fully engaged ministering brothers and sisters, together with priesthood and organization leaders of the ward, provide support. “<a class="cross-ref" href="/study/scriptures/the-family-a-proclamation-to-the-world/the-family-a-proclamation-to-the-world?lang=eng">The Family: A Proclamation to the World</a>” says: “By divine design, fathers are to preside over their families in love and righteousness and are responsible to provide the necessities of life and protection for their families. Mothers <span class="page-break" data-page="96"></span>are primarily responsible for the nurture of their children. In these sacred responsibilities, fathers and mothers are obligated to help one another as equal partners. … Extended families should lend support when needed.”<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a> That last line refers to grandparents, among others.</p>
+<p data-aid="149807729" id="p11">As we serve in West Africa, my wife, Nuria, has done a remarkable job ministering to and remaining connected with our family and grandchildren across the ocean. She does this by using technology. She reads books to the younger grandchildren. She teaches the older granddaughters topics like the story of our family, science, the history of Puerto Rico, the Articles of Faith, and the gospel of Jesus Christ. Distances nowadays do not limit connecting, belonging, and ministering to and teaching the rising generation of our families. I also join in with Nuria when I can to teach our precious grandchildren, to love them, and to spoil them and make them laugh.</p>
+<p data-aid="149807736" id="p12">You should notice the inspired similarities between the Children and Youth program and building self-reliance. The four areas of development in each are very similar. Spiritual strength in self-reliance relates to the spiritual in Children and Youth. Physical and emotional health in self-reliance connect with the physical and social in Children and Youth. Education, employment, and temporal preparedness in self-reliance are akin to the intellectual in the Children and Youth program.</p>
+<p data-aid="149807743" id="p13">In closing, let us follow our Savior, Jesus Christ, and His gospel by becoming self-reliant throughout our lives and teaching this to our children and youth. We can do this best by</p>
+<ol class="decimal" start="1">
+<li data-marker="1.">
+<p data-aid="149807750" id="p14">being good examples of service to others,</p>
+</li>
+<li data-marker="2.">
+<p data-aid="149807757" id="p15">living and teaching the doctrine and principles of self-reliance, and</p>
+</li>
+<li data-marker="3.">
+<p data-aid="149807764" id="p16">obeying the commandment to build self-reliance as part of the gospel of Jesus Christ.</p>
+</li>
+</ol>
+<p data-aid="149807771" id="p17"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/104?lang=eng&amp;id=p15-p16#p15">Doctrine and Covenants 104:15–16</a> says:</p>
+<p data-aid="149807778" id="p18">“It is my purpose to provide for my saints, for all things are mine.</p>
+<p data-aid="149807785" id="p19">“But it must needs be done in mine own way; and behold this is the way that I, the Lord, have decreed to provide for my saints, that the poor shall be exalted, in that the rich are made low.”</p>
+<p data-aid="149807792" id="p20">This is the Church of Jesus Christ. His gospel blesses families here on earth and throughout the eternities. It guides us in our lives as we strive to become eternal families. I know this is true. In the name of Jesus Christ, amen.</p>
+</div>
+<footer class="notes">
+<p class="title" data-aid="149807799" id="note_title1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="149807806" id="note1_p1"><cite>General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints</cite>, <a class="cross-ref" href="/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng">22.0</a>, ChurchofJesusChrist.org.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="149807813" id="note2_p1">See <cite>General Handbook</cite>, <a class="cross-ref" href="/study/manual/general-handbook/22-providing-for-temporal-needs?lang=eng&amp;id=title_number2#title_number2">22.1</a>.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="149807820" id="note3_p1"><a class="cross-ref" href="/study/manual/personal-development-childrens-guidebook/how-can-you-follow-jesus?lang=eng&amp;id=p1#p1"><cite>Personal Development: Children’s Guidebook</cite></a> (2019), 4.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="149807827" id="note4_p1">“<a class="cross-ref" href="/study/scriptures/the-family-a-proclamation-to-the-world/the-family-a-proclamation-to-the-world?lang=eng&amp;id=title1#title1">The Family: A Proclamation to the World</a>,” ChurchofJesusChrist.org.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
+      <guid isPermaLink="false">/general-conference/2022/04/46martinez</guid>
+      <enclosure url="https://assets.churchofjesuschrist.org/ab9b4115b38a11ec850ceeeeac1e93db69852c88-32k-en.mp3" length="2703906" type="audio/mpeg"/>
+      <pubDate>Sun, 03 Apr 2022 10:00:00 -0600</pubDate>
+      <itunes:author>Hugo E. Martinez</itunes:author>
     </item>
   </channel>
 </rss>

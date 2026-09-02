@@ -1,135 +1,379 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Talks By Joseph W. Sitati</title>
-    <link>http://philip.lundrigan.org/Speakercast/</link>
+    <link>https://philip.lundrigan.org/Speakercast/</link>
     <description>General Conference talks by Joseph W. Sitati.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Speakercast</generator>
     <image>
-      <url>http://philip.lundrigan.org/Speakercast/covers/Joseph%20W.%20Sitati.jpg</url>
+      <url>https://philip.lundrigan.org/Speakercast/covers/Joseph%20W.%20Sitati.jpg</url>
       <title>General Conference talks by Joseph W. Sitati.</title>
-      <link>http://philip.lundrigan.org/Speakercast/</link>
+      <link>https://philip.lundrigan.org/Speakercast/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Oct 2009 14:00:00 -0700</lastBuildDate>
-    <pubDate>Sun, 04 Oct 2009 14:00:00 -0700</pubDate>
+    <lastBuildDate>Sun, 02 Oct 2022 10:00:00 -0600</lastBuildDate>
+    <pubDate>Sun, 02 Oct 2022 10:00:00 -0600</pubDate>
+    <itunes:author>Joseph W. Sitati</itunes:author>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
+    <itunes:image href="https://philip.lundrigan.org/Speakercast/covers/Joseph%20W.%20Sitati.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>General Conference talks by Joseph W. Sitati.</itunes:summary>
     <item>
       <title>Blessings of the Gospel Available to All</title>
-      <link>http://www.lds.org/general-conference/2009/10/blessings-of-the-gospel-available-to-all?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2009/10/blessings-of-the-gospel-available-to-all?lang=eng</link>
       <description>God’s children on the earth today have the opportunity to understand His plan of happiness for them more fully than at any other time.</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/2009/10/blessings-of-the-gospel-available-to-all" schema-version="1" doc-id="general-conference_PD50019113_000_035" doc-version="2" hash="2vFgtQ">
-  
-  <div class="heading" uri="/general-conference/2009/10/blessings-of-the-gospel-available-to-all.head">
-    <h1 class="title" pid="UbZQbKv1oE-Yz4yosyrI1A" hash="ZwYTZQ">Blessings of the Gospel Available to All</h1>
-    <p class="authorName" pid="2cFwL-qsdU-Rw7GdFX13AA" hash="bB1Haw">Joseph W. Sitati</p>
-    <p class="kicker" pid="Ulx09YMpqEeUWZX1LRRUQQ" hash="KTOkWQ">God’s children on the earth today have the opportunity to understand His plan of happiness for them more fully than at any other time.</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/2009/10/blessings-of-the-gospel-available-to-all.t1">
-      <p class="para" uri="/general-conference/2009/10/blessings-of-the-gospel-available-to-all.p1" pid="TAPNbf0fHUGzk3OIAuH_9w" hash="bQpUvA">
-        <span class="pageBreak" page-number="103"></span>A few weeks ago Elder Melvin R. Perkins, who is an Area Seventy serving in Alaska, and I stood at the pulpit in front of the congregation of the Vancouver British Columbia Stake in Canada. In a moving voice he invited the Saints to consider the image before them: a descendant of Mormon handcart pioneers and a pioneer convert of the Church from a faraway African nation serving the Lord side by side.</p>
-      <p class="para" uri="/general-conference/2009/10/blessings-of-the-gospel-available-to-all.p2" pid="VlUnIZBCMke7HVwDjqc5tQ" hash="IsfMbQ">From humble beginnings in Fayette, New York, nearly 180 years ago, The Church of Jesus Christ of Latter-day Saints has become a global faith. I stand here as a witness of this marvelous work. I pray that the Spirit of the Lord will be with you and with me as I share some thoughts this afternoon.</p>
-      <p class="para" uri="/general-conference/2009/10/blessings-of-the-gospel-available-to-all.p3" pid="q9bOVkujxUa1iTJEAtUrrQ" hash="mtwLEg">I am grateful for the keys of revelation in this last dispensation. Through the exercise of those keys by living prophets since the Restoration, God’s children on the earth today have the opportunity to understand His plan of happiness for them more fully than at any other time.</p>
-      <p class="para" uri="/general-conference/2009/10/blessings-of-the-gospel-available-to-all.p4" pid="P6ZTbz6SMUaqDZocMOGucQ" hash="qCvPEA">The love of our Father in Heaven has been evident as the way has been opened for all living and dead of every nation, now and in the future, to receive exaltation in His presence, according to the exercise of their agency. The standard is the same, and the blessing is the same for all. God has reaffirmed that He is no respecter of persons.</p>
-      <p class="para" uri="/general-conference/2009/10/blessings-of-the-gospel-available-to-all.p5" pid="xv4wBTEUwku7EbFiQLpfSw" hash="PIf2qg">The gospel has gone forth on the earth in a pattern that ensures that God’s purposes to bring to pass the immortality and eternal life of man are fulfilled.</p>
-      <p class="para" uri="/general-conference/2009/10/blessings-of-the-gospel-available-to-all.p6" pid="7jtJ7aCeMUCx5aBYvbGpcQ" hash="zRASfA">After the Fall our first parents, Adam and Eve, made an eternal covenant with God for their salvation.<span class="noteMarker" ref="f_1">1</span> As Adam’s children multiplied, two groups emerged.</p>
-      <p class="para" uri="/general-conference/2009/10/blessings-of-the-gospel-available-to-all.p7" pid="6imumt3SHUWEgym_mOb7rA" hash="Kt4cxQ">One group, led by Enoch, kept the covenant so well that they could no longer be retained on the earth. So the Lord gathered them unto Himself.<span class="noteMarker" ref="f_2">2</span></p>
-      <p class="para" uri="/general-conference/2009/10/blessings-of-the-gospel-available-to-all.p8" pid="51pWB-9grESQlPNXqZ4OKw" hash="RS3iyA">The second group was overcome in wickedness so great that they suffered the judgments of God. The Flood swallowed them up, leaving only the family of Noah,<span class="noteMarker" ref="f_3">3</span> a righteous descendant of Enoch.<span class="noteMarker" ref="f_4">4</span></p>
-      <p class="para" uri="/general-conference/2009/10/blessings-of-the-gospel-available-to-all.p9" pid="dxHOq6fvGEOhd-mtUSD8MQ" hash="8yQHJg">God put Noah under covenant, with the additional promise that life on earth would no longer be destroyed by floods.<span class="noteMarker" ref="f_5">5</span></p>
-      <p class="para" uri="/general-conference/2009/10/blessings-of-the-gospel-available-to-all.p10" pid="77rSmgfYrkOAIillaYG8yA" hash="F4HNkQ">As Noah’s family multiplied once more, many were taken up in wickedness. Driven by pride, they built the Tower of Babel. God allowed the judgments of heaven to fall upon them. Their language was confounded, and they were scattered abroad. Only a few who were obedient were preserved.<span class="noteMarker" ref="f_6">6</span></p>
-      <p class="para" uri="/general-conference/2009/10/blessings-of-the-gospel-available-to-all.p11" pid="IawhJjhz90aVHjWnPYce1w" hash="smbEUQ">Among those preserved was the brother of Jared, a man of great faith, who pleaded with the Lord on behalf of the righteous Jaredites. The Lord led them to the American continent, with the promise that if they served Him, they would “be free from bondage, and from captivity, and from all other nations under heaven.”<span class="noteMarker" ref="f_7">7</span> The Nephites were also led to the same continent later. In the end both the Jaredite and the Nephite civilizations were destroyed, as they did not prove faithful.</p>
-      <p class="para" uri="/general-conference/2009/10/blessings-of-the-gospel-available-to-all.p12" pid="bMCwImg5BUGCKPuxF8keYA" hash="vqaYqA">Another preserved man of great faith was Abraham, a descendant of Noah, who was led to Canaan. God put Abraham under covenant, with additional promises that his posterity would increase as the stars in the heavens<span class="noteMarker" ref="f_8">8</span> and that in his seed “shall all the nations of the earth be blessed.”<span class="noteMarker" ref="f_9">9</span> The nations in the promise were descendants of Noah scattered from the Tower of Babel, known as Gentiles in a general sense.</p>
-      <p class="para" uri="/general-conference/2009/10/blessings-of-the-gospel-available-to-all.p13" pid="KiVc3vrzVkeC_NAhzFAaVg" hash="ihJAgg">
-        <span class="pageBreak" page-number="104"></span>God renewed the covenant with Abraham’s son Isaac and grandson Jacob, who became Israel.</p>
-      <p class="para" uri="/general-conference/2009/10/blessings-of-the-gospel-available-to-all.p14" pid="uIaG13X85EGvbYh1HiFSNg" hash="yInapw">Because the descendants of Israel could not endure the conditions of the covenant, it was changed during the dispensation of Moses. A lesser covenant was introduced and continued among the children of Israel until Christ restored the fulness of the gospel during His mortal ministry.<span class="noteMarker" ref="f_10">10</span></p>
-      <p class="para" uri="/general-conference/2009/10/blessings-of-the-gospel-available-to-all.p15" pid="WYBacBR2W0eetLBq6UqR_A" hash="UQsd-A">After His Resurrection the Savior signaled that the time for the gospel to be taken to the Gentiles had come.<span class="noteMarker" ref="f_11">11</span> Earlier, in the parable of the laborers in the vineyard, He had revealed that the gentile nations would be visited and invited one after the other. However, the blessings would be the same irrespective of the order of invitation.<span class="noteMarker" ref="f_12">12</span></p>
-      <p class="para" uri="/general-conference/2009/10/blessings-of-the-gospel-available-to-all.p16" pid="YBlSA7XfcEWlYSPb7vMk2g" hash="bU7SiA">After the Savior’s Ascension, the presiding Apostle, Peter, a descendant of Israel, held the keys of the priesthood, by which he gave direction to the Church. It is significant that although the Savior had already given permission, Peter baptized the first Gentile, Cornelius, only after receiving specific revelation to do so.<span class="noteMarker" ref="f_13">13</span></p>
-      <p class="para" uri="/general-conference/2009/10/blessings-of-the-gospel-available-to-all.p17" pid="_q8nrW2FWEWf1ttHy9iz6w" hash="HUpddA">The ministry to the Gentiles was interrupted by the martyrdom of Peter<span class="noteMarker" ref="f_14">14</span> and the deaths of the other Apostles, after which the keys of the priesthood were taken from the earth. The long period of apostasy followed.</p>
-      <p class="para" uri="/general-conference/2009/10/blessings-of-the-gospel-available-to-all.p18" pid="ArptCiW6n0qf32TqoVoe5A" hash="9TCNZw">The keys were restored by the ancient Apostles Peter, James, and John in 1829 upon Joseph Smith just before the Church was organized. The gospel in its fulness was again coming to the earth and started to go forth among the nations of the Gentiles as the new and everlasting covenant.</p>
-      <p class="para" uri="/general-conference/2009/10/blessings-of-the-gospel-available-to-all.p19" pid="U9DdnZCSnEeL1-iivvucew" hash="bwLTGQ">Through the Prophet Joseph Smith, the Lord revealed that the determining criteria for the order in which the gentile nations are invited include the capacity to spiritually and temporally nourish the kingdom of God as it is established on the earth for the last time.<span class="noteMarker" ref="f_15">15</span></p>
-      <p class="para" uri="/general-conference/2009/10/blessings-of-the-gospel-available-to-all.p20" pid="mCIf3tF0S0Wtb2IcnwQijQ" hash="GVluwA">We see that as the restored Church began to be established on the earth, the living prophets sought and followed the will of God about how the gospel should go forth among the nations.</p>
-      <p class="para" uri="/general-conference/2009/10/blessings-of-the-gospel-available-to-all.p21" pid="S2MsJ3kwS06tSMBS3p4Npg" hash="76W0kw">I have lived to see the time foreseen by the prophet Zenos in the allegory of the olive tree, when the righteous from all nations of the earth would become partakers of the covenant of God with Israel.<span class="noteMarker" ref="f_16">16</span></p>
-      <p class="para" uri="/general-conference/2009/10/blessings-of-the-gospel-available-to-all.p22" pid="EaReYEoKX0GZAODZUI-xzQ" hash="COUL-Q">I have seen the good fruit of the gospel blossom in my home continent of Africa. After just 30 years, there are 300,000 Saints. In the doctrines and principles of the restored gospel, many are finding a sure anchor for <span class="pageBreak" page-number="105"></span>their faith. Families uprooted from their rural communities in search of a better future in the towns and cities have found a new way to hold on to the strong family traditions which have come progressively under attack in this era of globalization. The Spirit of the Lord is moving powerfully among the people.</p>
-      <p class="para" uri="/general-conference/2009/10/blessings-of-the-gospel-available-to-all.p23" pid="EM2-rfJg00K92AFiNaCn_g" hash="Xux6Kw">A new celestial culture is developing in homes, nurtured by the ready hearkening to the counsel of the living prophet to have daily prayer and scripture study and to meet once a week as a family in home evening. As a result, many are able to break free from the shackles of traditions that restrict the exercise of their agency.</p>
-      <p class="para" uri="/general-conference/2009/10/blessings-of-the-gospel-available-to-all.p24" pid="newwsR2NLEW3TwdvM87wGw" hash="o4NLHw">As an illustration from personal experience, three of our children were recently married in the temple without the encumbrance of dowry, a traditional practice that drives many young men and women to live together without any legal commitment to each other. The opportunity for a temple marriage in the three temples now established in Accra, Ghana; Aba, Nigeria; and Johannesburg, South Africa, is helping to instill a fresh hope in the sanctity of marriage.</p>
-      <p class="para" uri="/general-conference/2009/10/blessings-of-the-gospel-available-to-all.p25" pid="vRUjiDMKKUmDBxh4369a_Q" hash="AIjrHw">I testify of the Savior Jesus Christ, by whom we have the gospel and promise of exaltation. I testify of our living prophet, President Thomas S. Monson, through whom we have the assurance of the Savior’s direction for continuing to extend salvation to all. In the name of Jesus Christ, amen.</p>
-    </div>
-  </div>
-  
-</div>]]></content:encoded>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="103"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/4D3F219AC910DB260962717AA156641ABDDEA05F/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/4D3F219AC910DB260962717AA156641ABDDEA05F/full/%21192%2C/0/default" data-video-title="Blessings of the Gospel Available to All" data-video-description="God’s children on the earth today have the opportunity to understand His plan of happiness for them more fully than at any other time." data-video-id="6004165945001" data-ip="Download and Streaming                            " data-duration="560366" data-assetId="9554dd66d35b0bd6f984552d736ab0f3ea5ba0e7" data-ref-id="9554dd66d35b0bd6f984552d736ab0f3ea5ba0e7" data-duration-string="9:20" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/6004165945001.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="216423269"/><source src="https://assets.churchofjesuschrist.org/9554dd66d35b0bd6f984552d736ab0f3ea5ba0e7-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="28365691"/><source src="https://assets.churchofjesuschrist.org/9554dd66d35b0bd6f984552d736ab0f3ea5ba0e7-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="55313539"/><source src="https://assets.churchofjesuschrist.org/9554dd66d35b0bd6f984552d736ab0f3ea5ba0e7-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="216423269"/></video><h1 data-aid="28844152" id="title1">Blessings of the Gospel Available to All</h1>
+<div class="byline">
+<p class="author-name" data-aid="28844153" id="p1">By Elder Joseph W. Sitati</p>
+<p class="author-role" data-aid="28844154" id="p2">Of the Seventy</p>
+<div class="image-cropper"><img alt="Elder Joseph W. Sitati" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/b158922a086611ecb5d9eeeeac1ebcf28603d9b3/full/%21100%2C/0/default" data-assetId="b158922a086611ecb5d9eeeeac1ebcf28603d9b3" srcset="https://www.churchofjesuschrist.org/imgs/b158922a086611ecb5d9eeeeac1ebcf28603d9b3/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/b158922a086611ecb5d9eeeeac1ebcf28603d9b3/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/b158922a086611ecb5d9eeeeac1ebcf28603d9b3/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/b158922a086611ecb5d9eeeeac1ebcf28603d9b3/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/b158922a086611ecb5d9eeeeac1ebcf28603d9b3/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/b158922a086611ecb5d9eeeeac1ebcf28603d9b3/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/b158922a086611ecb5d9eeeeac1ebcf28603d9b3/full/%21640%2C/0/default 640w" data-img-id="b158922a086611ecb5d9eeeeac1ebcf28603d9b3" data-missing-asset="false" data-width="100" data-height="124" data-aspect-ratio="0.8064516129032258" data-public-title="Sitati, Joseph W." data-public-description="Former official portrait of Elder Joseph W. Sitati of the First Quorum of the Seventy, April 2009.  Replaced in July 2014."/></div>
+</div>
+<p class="kicker" data-aid="28844155" id="kicker1">God’s children on the earth today have the opportunity to understand His plan of happiness for them more fully than at any other time.</p>
+</header>
+<div class="body-block">
+<p data-aid="28844156" id="p3">A few weeks ago Elder Melvin R. Perkins, who is an Area Seventy serving in Alaska, and I stood at the pulpit in front of the congregation of the Vancouver British Columbia Stake in Canada. In a moving voice he invited the Saints to consider the image before them: a descendant of Mormon handcart pioneers and a pioneer convert of the Church from a faraway African nation serving the Lord side by side.</p>
+<p data-aid="28844157" id="p4">From humble beginnings in Fayette, New York, nearly 180 years ago, The Church of Jesus Christ of Latter-day Saints has become a global faith. I stand here as a witness of this marvelous work. I pray that the Spirit of the Lord will be with you and with me as I share some thoughts this afternoon.</p>
+<p data-aid="28844158" id="p5">I am grateful for the keys of revelation in this last dispensation. Through the exercise of those keys by living prophets since the Restoration, God’s children on the earth today have the opportunity to understand His plan of happiness for them more fully than at any other time.</p>
+<p data-aid="28844159" id="p6">The love of our Father in Heaven has been evident as the way has been opened for all living and dead of every nation, now and in the future, to receive exaltation in His presence, according to the exercise of their agency. The standard is the same, and the blessing is the same for all. God has reaffirmed that He is no respecter of persons.</p>
+<p data-aid="28844160" id="p7">The gospel has gone forth on the earth in a pattern that ensures that God’s purposes to bring to pass the immortality and eternal life of man are fulfilled.</p>
+<p data-aid="28844161" id="p8">After the Fall our first parents, Adam and Eve, made an eternal covenant with God for their salvation.<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a> As Adam’s children multiplied, two groups emerged.</p>
+<p data-aid="28844162" id="p9">One group, led by Enoch, kept the covenant so well that they could no longer be retained on the earth. So the Lord gathered them unto Himself.<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a></p>
+<p data-aid="28844163" id="p10">The second group was overcome in wickedness so great that they suffered the judgments of God. The Flood swallowed them up, leaving only the family of Noah,<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a> a righteous descendant of Enoch.<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a></p>
+<p data-aid="28844164" id="p11">God put Noah under covenant, with the additional promise that life on earth would no longer be destroyed by floods.<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a></p>
+<p data-aid="28844165" id="p12">As Noah’s family multiplied once more, many were taken up in wickedness. Driven by pride, they built the Tower of Babel. God allowed the judgments of heaven to fall upon them. Their language was confounded, and they were scattered abroad. Only a few who were obedient were preserved.<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a></p>
+<p data-aid="28844166" id="p13">Among those preserved was the brother of Jared, a man of great faith, who pleaded with the Lord on behalf of the righteous Jaredites. The Lord led them to the American continent, with the promise that if they served Him, they would “be free from bondage, and from captivity, and from all other nations under heaven.”<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a> The Nephites were also led to the same continent later. In the end both the Jaredite and the Nephite civilizations were destroyed, as they did not prove faithful.</p>
+<p data-aid="28844167" id="p14">Another preserved man of great faith was Abraham, a descendant of Noah, who was led to Canaan. God put Abraham under covenant, with additional promises that his posterity would increase as the stars in the heavens<a class="note-ref" href="#note8"><sup class="marker" data-value="8"></sup></a> and that in his seed “shall all the nations of the earth be blessed.”<a class="note-ref" href="#note9"><sup class="marker" data-value="9"></sup></a> The nations in the promise were descendants of Noah scattered from the Tower of Babel, known as Gentiles in a general sense.</p>
+<span class="page-break" data-page="104"></span>
+<p data-aid="28844168" id="p15">God renewed the covenant with Abraham’s son Isaac and grandson Jacob, who became Israel.</p>
+<p data-aid="28844169" id="p16">Because the descendants of Israel could not endure the conditions of the covenant, it was changed during the dispensation of Moses. A lesser covenant was introduced and continued among the children of Israel until Christ restored the fulness of the gospel during His mortal ministry.<a class="note-ref" href="#note10"><sup class="marker" data-value="10"></sup></a></p>
+<p data-aid="28844170" id="p17">After His Resurrection the Savior signaled that the time for the gospel to be taken to the Gentiles had come.<a class="note-ref" href="#note11"><sup class="marker" data-value="11"></sup></a> Earlier, in the parable of the laborers in the vineyard, He had revealed that the gentile nations would be visited and invited one after the other. However, the blessings would be the same irrespective of the order of invitation.<a class="note-ref" href="#note12"><sup class="marker" data-value="12"></sup></a></p>
+<p data-aid="28844171" id="p18">After the Savior’s Ascension, the presiding Apostle, Peter, a descendant of Israel, held the keys of the priesthood, by which he gave direction to the Church. It is significant that although the Savior had already given permission, Peter baptized the first Gentile, Cornelius, only after receiving specific revelation to do so.<a class="note-ref" href="#note13"><sup class="marker" data-value="13"></sup></a></p>
+<p data-aid="28844172" id="p19">The ministry to the Gentiles was interrupted by the martyrdom of Peter<a class="note-ref" href="#note14"><sup class="marker" data-value="14"></sup></a> and the deaths of the other Apostles, after which the keys of the priesthood were taken from the earth. The long period of apostasy followed.</p>
+<p data-aid="28844173" id="p20">The keys were restored by the ancient Apostles Peter, James, and John in 1829 upon Joseph Smith just before the Church was organized. The gospel in its fulness was again coming to the earth and started to go forth among the nations of the Gentiles as the new and everlasting covenant.</p>
+<p data-aid="28844174" id="p21">Through the Prophet Joseph Smith, the Lord revealed that the determining criteria for the order in which the gentile nations are invited include the capacity to spiritually and temporally nourish the kingdom of God as it is established on the earth for the last time.<a class="note-ref" href="#note15"><sup class="marker" data-value="15"></sup></a></p>
+<p data-aid="28844175" id="p22">We see that as the restored Church began to be established on the earth, the living prophets sought and followed the will of God about how the gospel should go forth among the nations.</p>
+<p data-aid="28844176" id="p23">I have lived to see the time foreseen by the prophet Zenos in the allegory of the olive tree, when the righteous from all nations of the earth would become partakers of the covenant of God with Israel.<a class="note-ref" href="#note16"><sup class="marker" data-value="16"></sup></a></p>
+<p data-aid="28844177" id="p24">I have seen the good fruit of the gospel blossom in my home continent of Africa. After just 30 years, there are 300,000 Saints. In the doctrines and principles of the restored gospel, many are finding a sure anchor for <span class="page-break" data-page="105"></span>their faith. Families uprooted from their rural communities in search of a better future in the towns and cities have found a new way to hold on to the strong family traditions which have come progressively under attack in this era of globalization. The Spirit of the Lord is moving powerfully among the people.</p>
+<p data-aid="28844178" id="p25">A new celestial culture is developing in homes, nurtured by the ready hearkening to the counsel of the living prophet to have daily prayer and scripture study and to meet once a week as a family in home evening. As a result, many are able to break free from the shackles of traditions that restrict the exercise of their agency.</p>
+<p data-aid="28844179" id="p26">As an illustration from personal experience, three of our children were recently married in the temple without the encumbrance of dowry, a traditional practice that drives many young men and women to live together without any legal commitment to each other. The opportunity for a temple marriage in the three temples now established in Accra, Ghana; Aba, Nigeria; and Johannesburg, South Africa, is helping to instill a fresh hope in the sanctity of marriage.</p>
+<p data-aid="28844180" id="p27">I testify of the Savior Jesus Christ, by whom we have the gospel and promise of exaltation. I testify of our living prophet, President Thomas S. Monson, through whom we have the assurance of the Savior’s direction for continuing to extend salvation to all. In the name of Jesus Christ, amen.</p>
+</div>
+<footer class="notes">
+<p class="title" data-aid="150471637" id="notetitle1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="28844181" id="note1_p1">See <a class="scripture-ref" href="/study/scriptures/pgp/moses/6?lang=eng&amp;id=p52%2Cp57%2Cp59#p52">Moses 6:52, 57, 59</a>.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="28844182" id="note2_p1">See <a class="scripture-ref" href="/study/scriptures/pgp/moses/7?lang=eng&amp;id=p19-p21#p19">Moses 7:19–21</a>.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="28844183" id="note3_p1">See <a class="scripture-ref" href="/study/scriptures/ot/gen/6?lang=eng&amp;id=p17-p22#p17">Genesis 6:17–22</a>; see also <a class="scripture-ref" href="/study/scriptures/pgp/moses/7?lang=eng">Moses 7–8</a>.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="28844184" id="note4_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/84?lang=eng&amp;id=p14-p15#p14">D&amp;C 84:14–15</a>.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="28844185" id="note5_p1">See <a class="scripture-ref" href="/study/scriptures/ot/gen/8?lang=eng&amp;id=p11-p21#p11">Genesis 8:11–21</a>; <a class="scripture-ref" href="/study/scriptures/ot/gen/9?lang=eng&amp;id=p8-p11#p8">9:8–11</a>.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="28844186" id="note6_p1">See <a class="scripture-ref" href="/study/scriptures/ot/gen/11?lang=eng&amp;id=p1-p8#p1">Genesis 11:1–8</a>.</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="28844187" id="note7_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/ether/2?lang=eng&amp;id=p8-p12#p8">Ether 2:8–12</a>; see also <a class="scripture-ref" href="/study/scriptures/bofm/ether/1?lang=eng&amp;id=p33-p43#p33">Ether 1:33–43</a>; <a class="scripture-ref" href="/study/scriptures/bofm/ether/4?lang=eng">4–6</a>.</p>
+</li>
+<li data-marker="8." id="note8" data-full-marker="8.">
+<p data-aid="28844188" id="note8_p1">See <a class="scripture-ref" href="/study/scriptures/ot/gen/12?lang=eng">Genesis 12–17</a>; <a class="scripture-ref" href="/study/scriptures/ot/gen/22?lang=eng">22</a>; see also <a class="scripture-ref" href="/study/scriptures/pgp/abr/1?lang=eng">Abraham 1–2</a>.</p>
+</li>
+<li data-marker="9." id="note9" data-full-marker="9.">
+<p data-aid="28844189" id="note9_p1"><a class="scripture-ref" href="/study/scriptures/ot/gen/22?lang=eng&amp;id=p18#p18">Genesis 22:18</a>.</p>
+</li>
+<li data-marker="10." id="note10" data-full-marker="10.">
+<p data-aid="28844190" id="note10_p1">See <a class="scripture-ref" href="/study/scriptures/nt/heb/7?lang=eng&amp;id=p11-p12%2Cp19-p22#p11">Hebrews 7:11–12, 19–22</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/84?lang=eng&amp;id=p24-p25#p24">D&amp;C 84:24–25</a>.</p>
+</li>
+<li data-marker="11." id="note11" data-full-marker="11.">
+<p data-aid="28844191" id="note11_p1">See <a class="scripture-ref" href="/study/scriptures/nt/matt/28?lang=eng&amp;id=p18-p20#p18">Matthew 28:18–20</a>.</p>
+</li>
+<li data-marker="12." id="note12" data-full-marker="12.">
+<p data-aid="28844192" id="note12_p1">See <a class="scripture-ref" href="/study/scriptures/nt/matt/20?lang=eng&amp;id=p1-p16#p1">Matthew 20:1–16</a>.</p>
+</li>
+<li data-marker="13." id="note13" data-full-marker="13.">
+<p data-aid="28844193" id="note13_p1">See <a class="scripture-ref" href="/study/scriptures/nt/acts/10?lang=eng">Acts 10</a>.</p>
+</li>
+<li data-marker="14." id="note14" data-full-marker="14.">
+<p data-aid="28844194" id="note14_p1">See Bible Dictionary, “<a class="scripture-ref" href="/study/scriptures/bd/peter?lang=eng">Peter</a>,” 749.</p>
+</li>
+<li data-marker="15." id="note15" data-full-marker="15.">
+<p data-aid="28844195" id="note15_p1">See <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/58?lang=eng&amp;id=p1-p12#p1">D&amp;C 58:1–12</a>.</p>
+</li>
+<li data-marker="16." id="note16" data-full-marker="16.">
+<p data-aid="28844196" id="note16_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/jacob/5?lang=eng&amp;id=p57-p68#p57">Jacob 5:57–68</a>.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/2009/10/blessings-of-the-gospel-available-to-all</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/october-2009-general-conference/2009-10-5060-elder-joseph-w-sitati-64k-eng.mp3" length="4510400" type="audio/mpeg"/>
-      <pubDate>Sun, 04 Oct 2009 14:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/64c8181632d111ecac35eeeeac1e7c594e848a57-64k-en.mp3" length="4819307" type="audio/mpeg"/>
+      <pubDate>Sun, 04 Oct 2009 14:00:00 -0600</pubDate>
+      <itunes:author>Joseph W. Sitati</itunes:author>
     </item>
     <item>
       <title>Be Fruitful, Multiply, and Subdue the Earth</title>
-      <link>http://www.lds.org/general-conference/2015/04/be-fruitful-multiply-and-subdue-the-earth?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2015/04/be-fruitful-multiply-and-subdue-the-earth?lang=eng</link>
       <description>Elder Sitati teaches about our roles in the plan of salvation and how fulfilling those roles will help us become like God.</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/2015/04/be-fruitful-multiply-and-subdue-the-earth" dup-conf="false" dup-mag="false" schema-version="1" doc-id="general-conference_12565_000_56sitati" doc-version="5" hash="He3jzA">
-	
-	<div class="heading" uri="/general-conference/2015/04/be-fruitful-multiply-and-subdue-the-earth.head1">
-		<h1 class="title" pid="R3IMFLU2wEa2ieVFYMS2PA" hash="AQ46UQ">Be Fruitful, Multiply, and Subdue the Earth</h1>
-		<div class="byline">
-			<p class="para" uri="/general-conference/2015/04/be-fruitful-multiply-and-subdue-the-earth.p2" pid="ks_W4p9VckmzQoYONnnvNw" hash="hxGn_w">By Elder Joseph W. Sitati</p>
-			<p class="para" uri="/general-conference/2015/04/be-fruitful-multiply-and-subdue-the-earth.p3" pid="v1_aJKw9zU2alyMLFVfREw" hash="sSmk3g">Of the Seventy</p>
-			<a href="gl://image/?pid=nUQJMdKOwUaCQDjpb2-zvg"><img xmlns="" type="jpg" uri="joseph-w-sitati-10.jpg" translate="no" src="https://edge.ldscdn.org/mobile/images/1255579/05f5a0fdfbc04ea4bad12933ff3ca9d1/100x136.jpg" data-multi-src="true" data-src-50x68="https://edge.ldscdn.org/mobile/images/1255579/05f5a0fdfbc04ea4bad12933ff3ca9d1/50x68.jpg" data-src-100x136="https://edge.ldscdn.org/mobile/images/1255579/05f5a0fdfbc04ea4bad12933ff3ca9d1/100x136.jpg" data-src-200x273="https://edge.ldscdn.org/mobile/images/1255579/05f5a0fdfbc04ea4bad12933ff3ca9d1/200x273.jpg" data-src-320x437="https://edge.ldscdn.org/mobile/images/1255579/05f5a0fdfbc04ea4bad12933ff3ca9d1/320x437.jpg" data-src-460x629="https://edge.ldscdn.org/mobile/images/1255579/05f5a0fdfbc04ea4bad12933ff3ca9d1/460x629.jpg" data-src-640x875="https://edge.ldscdn.org/mobile/images/1255579/05f5a0fdfbc04ea4bad12933ff3ca9d1/640x875.jpg" data-src-1024x1400="https://edge.ldscdn.org/mobile/images/1255579/05f5a0fdfbc04ea4bad12933ff3ca9d1/1024x1400.jpg" data-src-2048x2801="https://edge.ldscdn.org/mobile/images/1255579/05f5a0fdfbc04ea4bad12933ff3ca9d1/2048x2801.jpg" data-src-3772x5159="https://edge.ldscdn.org/mobile/images/1255579/05f5a0fdfbc04ea4bad12933ff3ca9d1/3772x5159.jpg" pid="nUQJMdKOwUaCQDjpb2-zvg" hash="iCbV2A"></img></a>
-		</div>
-		<p class="kicker" pid="XK0rY4Fnk0aqrck1y05dTQ" hash="YlNAow">Heavenly Father has charged and blessed us to be fruitful, to multiply, and to subdue the earth that we might become like Him.</p>
-		<p class="authorName" pid="WNE_O35CSkidecZp7C9nEw" hash="hxGn_w1">By Elder Joseph W. Sitati</p>
-	</div>
-	<div class="bodyBlock">
-		<p class="para" uri="/general-conference/2015/04/be-fruitful-multiply-and-subdue-the-earth.p5" pid="AH12BaZGv0KoQ6-tz92jOg" hash="lJlb6w">Thank you, Tabernacle Choir, for that sweet tribute to the Savior of the world.</p>
-		<p class="para" uri="/general-conference/2015/04/be-fruitful-multiply-and-subdue-the-earth.p6" pid="RxuL1yauqkWG_phQWyhy6A" hash="u5SXBw">In the day that God the Father called upon His Only Begotten Son to make man in Their image and likeness, He blessed His children, saying, “Be fruitful, and multiply, and replenish the earth, and subdue it, and have dominion … over every living thing that moveth upon the earth.”<span class="noteMarker" ref="f_1">1</span> Thus, our mortal journey began with both a divine charge and a blessing. A loving Father gave us the charge and the blessing to be fruitful and to multiply and to have dominion so that we can develop and become even as He is.</p>
-		<p class="para" uri="/general-conference/2015/04/be-fruitful-multiply-and-subdue-the-earth.p7" pid="rA6Vrc2ICUCnhL7AAbS-VA" hash="fqeizw">Brothers and sisters, this afternoon I invite your faith and prayers as I share some thoughts with you about three fundamental attributes of our divine nature. My prayer is that we might all more fully recognize and fulfill our sacred responsibility—our Father’s charge—to develop our divine nature so that we may navigate our journey more successfully and obtain our divine destiny.</p>
-		<div class="topic" uri="/general-conference/2015/04/be-fruitful-multiply-and-subdue-the-earth.t1">
-			<h2 pid="JwQ6j47pD0GTMbAKp9Rasw" hash="L_Sovg">First, God Charged Us to Be Fruitful</h2>
-			<p class="para" uri="/general-conference/2015/04/be-fruitful-multiply-and-subdue-the-earth.p9" pid="3ASdrVSI8ECEPj_U6hrD5g" hash="VrtCxg">An important part of being fruitful that is sometimes overlooked is that of bringing forth the kingdom of God upon the earth. The Savior taught:</p>
-			<p class="para" uri="/general-conference/2015/04/be-fruitful-multiply-and-subdue-the-earth.p10" pid="ntHdoJrUSkWMMtNQ0NehmQ" hash="grjdEw">“I am the vine, ye are the branches: He that abideth in me, and I in him, the same bringeth forth much fruit: for without me ye can do nothing. …</p>
-			<p class="para" uri="/general-conference/2015/04/be-fruitful-multiply-and-subdue-the-earth.p11" pid="F8qQ8v3f1E-849sTqwd2dQ" hash="s6hXMQ">“If ye abide in me, and my words abide in you, ye shall ask what ye will, and it shall be done unto you.</p>
-			<p class="para" uri="/general-conference/2015/04/be-fruitful-multiply-and-subdue-the-earth.p12" pid="EmDFwGtlMk2Cx5r_x1xulQ" hash="MPPcpg">“Herein is my Father glorified, that ye bear much fruit; so shall ye be my disciples.”<span class="noteMarker" ref="f_2">2</span></p>
-			<p class="para" uri="/general-conference/2015/04/be-fruitful-multiply-and-subdue-the-earth.p13" pid="Ep-2jXWcQ0CMeb104us3Iw" hash="eCtzvQ">We become fruitful as we abide in Christ and as we “take upon [ourselves His] name [and] … serve him to the end”<span class="noteMarker" ref="f_3">3</span> by helping others come unto Him.</p>
-			<p class="para" uri="/general-conference/2015/04/be-fruitful-multiply-and-subdue-the-earth.p14" pid="DCK-0IPspEmcJ0OzUAdXZQ" hash="KrvfEw">In our day, living prophets and apostles continue to lift their voices to invite each one of us to become fully engaged in the work of salvation according to our abilities and opportunities.</p>
-			<p class="para" uri="/general-conference/2015/04/be-fruitful-multiply-and-subdue-the-earth.p15" pid="bNvzC26ZRUiuC3dXDJIYsA" hash="t4eT8w">The starting point of a response that yields much fruit is to “be meek and lowly in heart.”<span class="noteMarker" ref="f_4">4</span> We can then more fully come unto Christ as we yield to the enticings of the Holy Spirit and keep all the covenants we have made.<span class="noteMarker" ref="f_5">5</span> We can seek and receive the gift of charity and have power to invite our own families, our ancestors, and our member and nonmember neighbors and friends to receive the gospel of Jesus Christ.</p>
-			<p class="para" uri="/general-conference/2015/04/be-fruitful-multiply-and-subdue-the-earth.p16" pid="bpMNa3um1UKacrzoyd4rHw" hash="HDxKxg">Laboring in the spirit of charity is not a duty but a joy. Challenges become opportunities to build faith. We become “witnesses of [the goodness of] God at all times and in all things, and in all places that [we] may be in, even until death.”<span class="noteMarker" ref="f_6">6</span></p>
-			<p class="para" uri="/general-conference/2015/04/be-fruitful-multiply-and-subdue-the-earth.p17" pid="UjvYJpcZOEu9-GpbTHgmwA" hash="-VnkjA">All of us can and should become fully engaged in the work of salvation. The Savior has given us the following responsibility with a promise: “I have chosen you, and ordained you, that ye should go and bring forth fruit, and that your fruit should remain: that whatsoever ye shall ask of the Father in my name, he may give it you.”<span class="noteMarker" ref="f_7">7</span></p>
-		</div>
-		<div class="topic" uri="/general-conference/2015/04/be-fruitful-multiply-and-subdue-the-earth.t2">
-			<h2 pid="kwdt_xahfEmPbGHSCaclXg" hash="6aQtew">Second, God Charged Us to Multiply</h2>
-			<p class="para" uri="/general-conference/2015/04/be-fruitful-multiply-and-subdue-the-earth.p19" pid="KVpP2A01NESMFWL3WWvbiA" hash="TNREdw">Our physical bodies are a blessing from God. We received them for the purposes of fulfilling Heavenly Father’s work “to bring to pass the immortality and eternal life of man.”<span class="noteMarker" ref="f_8">8</span> The body is the means by which we can attain our divine potential.</p>
-			<p class="para" uri="/general-conference/2015/04/be-fruitful-multiply-and-subdue-the-earth.p20" pid="d_1rBOj4gEGIGlRnF_Jaog" hash="i0Qlsg">The body enables Heavenly Father’s obedient spirit children to experience life on earth.<span class="noteMarker" ref="f_9">9</span> Bearing children gives other spirit children of God the opportunity to also enjoy life on earth. All who are born in mortality have the opportunity to progress and to be exalted if they obey God’s commandments.</p>
-			<p class="para" uri="/general-conference/2015/04/be-fruitful-multiply-and-subdue-the-earth.p21" pid="DV9vd5xguEC9PYBmgsHKWA" hash="ngHn8g">Marriage between a man and a woman is the institution that God ordained for the fulfillment of the charge to multiply. A same-gender relationship does not multiply.</p>
-			<p class="para" uri="/general-conference/2015/04/be-fruitful-multiply-and-subdue-the-earth.p22" pid="7ZMGAeTF8kGFq617v_twTQ" hash="91CipQ">A legal and lawful marriage sealed in the temple and in which the sealing covenants are honored gives parents and their children the opportunity for the best experience of love and preparation for a fruitful life. It offers them the ideal environment in which they can live their covenants made with God.</p>
-			<p class="para" uri="/general-conference/2015/04/be-fruitful-multiply-and-subdue-the-earth.p23" pid="6HN6DQYII021gvizTCtvOQ" hash="-IawvQ">Because of His love for us, Heavenly Father has provided that all His faithful children who do not or are not able to enjoy the blessings of a covenant marriage and children or a fulness of those blessings for reasons not of their making will, in the Lord’s appointed time, enjoy these blessings.<span class="noteMarker" ref="f_10">10</span></p>
-			<p class="para" uri="/general-conference/2015/04/be-fruitful-multiply-and-subdue-the-earth.p24" pid="_jh18c9gcUiXW0UNbyZpBA" hash="rLglmQ">Living prophets and apostles have counseled all who have the opportunity to enter into the covenant of eternal marriage to proceed in wisdom and faith. We should not put off the time of that sacred day because of worldly pursuits or hold our expectations of a suitable companion at a level that disqualifies every possible candidate.</p>
-			<p class="para" uri="/general-conference/2015/04/be-fruitful-multiply-and-subdue-the-earth.p25" pid="sZVxNQVkIEWCtnO6k1gUWQ" hash="2QS1BA">The promise to all who are sealed in the covenant of eternal marriage and who are fruitful through keeping their covenants is that the adversary will never have power to undermine the foundation of their eternal companionship.</p>
-		</div>
-		<div class="topic" uri="/general-conference/2015/04/be-fruitful-multiply-and-subdue-the-earth.t3" pid="FBX57WsMmE6_u8YbiG3OjQ" hash="pTvRuQ">
-			<h2 pid="0PC0lR1SK0OUJVcoZZKYiw" hash="PrsFbQ">Third, God Charged Us to Subdue the Earth</h2>
-			<p class="para" uri="/general-conference/2015/04/be-fruitful-multiply-and-subdue-the-earth.p27" pid="xCa8dejfnEmmdpYq5_Ig_A" hash="jcyKuw">To subdue the earth and have dominion over every living thing is to control these things so they fulfill the will of God<span class="noteMarker" ref="f_11">11</span> as they serve the purposes of His children. Subduing includes gaining mastery over our own bodies.<span class="noteMarker" ref="f_12">12</span> It does <span class="emphasis">not</span> include being helpless victims of these things or using them contrary to the will of God.<span class="noteMarker" ref="f_13">13</span></p>
-			<p class="para" uri="/general-conference/2015/04/be-fruitful-multiply-and-subdue-the-earth.p28" pid="o_nDaklmgUaVGYnzBy-ptA" hash="85gg_w">Developing the ability to subdue the things of the earth begins with humility to recognize our human weakness and the power available to us through Christ and His Atonement. For “Christ hath said: If ye will have faith in me ye shall have power to do whatsoever thing is expedient in me.”<span class="noteMarker" ref="f_14">14</span> This power becomes available to us as we choose to act in obedience to His commandments. We increase our ability by seeking the gifts of the Spirit and by developing our talents.</p>
-			<span class="story">
-				<p class="para" uri="/general-conference/2015/04/be-fruitful-multiply-and-subdue-the-earth.p29" pid="GJF6pW9Sxk-Oqgc_FhOkKw" hash="rRM1SA">I was born and raised in humble circumstances typical to many families in Africa. I gained the ability to lift myself from those circumstances by seeking and obtaining, with the caring help of my parents, a good education. Developing a vision of what I could become was essential to my progress. Later, as a young couple, my wife, Gladys, and I found the restored gospel, which continues to bless our lives with spiritual direction. Like every family, we have our trials and challenges. But as we look to the Lord for help, we have found answers that bring peace and comfort, and we do not feel overwhelmed by these things.</p>
-			</span>
-			<p class="para" uri="/general-conference/2015/04/be-fruitful-multiply-and-subdue-the-earth.p30" pid="FI66L9f_WE60qE12tpviSg" hash="Y1-zew">The challenges facing human society today, including immorality, pornography, armed conflict, pollution, substance abuse, and poverty, flourish because many in the world have turned themselves over by choice “to the will of the devil and the flesh”<span class="noteMarker" ref="f_15">15</span> rather than to the will of God. “They seek not the Lord to establish his righteousness, but every man walketh in his own way, and after the image of his own god, whose image is in the likeness of the world.”<span class="noteMarker" ref="f_16">16</span></p>
-			<p class="para" uri="/general-conference/2015/04/be-fruitful-multiply-and-subdue-the-earth.p31" pid="Yn2aek9WDEOpupMZ2RKwqw" hash="UGYJGQ">However, God invites <span class="emphasis">all</span> His children to obtain His help to overcome and endure the challenges of this life with these words:</p>
-			<p class="para" uri="/general-conference/2015/04/be-fruitful-multiply-and-subdue-the-earth.p32" pid="IowESzvLuUC2qF8_Au6w5Q" hash="v9DATw">“I am God; I made the world, and men before they were in the flesh.</p>
-			<p class="para" uri="/general-conference/2015/04/be-fruitful-multiply-and-subdue-the-earth.p33" pid="U9fvr0TswEC6Xy8aGccL-Q" hash="gkvYRQ">“… If thou wilt turn unto me, and hearken unto my voice, and believe, and repent of all thy transgressions, and be baptized, even in water, in the name of mine Only Begotten Son, … ye shall receive the gift of the Holy Ghost, asking all things in his name, and whatsoever ye shall ask, it shall be given you.”<span class="noteMarker" ref="f_17">17</span></p>
-			<p class="para" uri="/general-conference/2015/04/be-fruitful-multiply-and-subdue-the-earth.p34" pid="lu6xCQ7E4kmUU1dyeMzuLA" hash="b2hSdw">Faithful Latter-day Saints who understand their divine potential and rely wholeheartedly on the power available through the Atonement of the Lord Jesus Christ are strengthened in their natural weakness and “can do all things.”<span class="noteMarker" ref="f_18">18</span> They are enabled to overcome the enticings of evil that have put many under bondage to the adversary. Paul taught that:</p>
-			<p class="para" uri="/general-conference/2015/04/be-fruitful-multiply-and-subdue-the-earth.p35" pid="R0DH3G4_BkWX-mZ0jk3Frw" hash="Jfrxwg">“God is faithful, [and] will not suffer you to be tempted above that ye are able; but will with the temptation also make a way to escape, that ye may be able to bear it.”<span class="noteMarker" ref="f_19">19</span></p>
-			<p class="para" uri="/general-conference/2015/04/be-fruitful-multiply-and-subdue-the-earth.p36" pid="hzTnl31QmUKQC27prMzPew" hash="LaWqBg">“For in that he himself hath suffered being tempted, he is able to succour them that are tempted.”<span class="noteMarker" ref="f_20">20</span></p>
-			<p class="para" uri="/general-conference/2015/04/be-fruitful-multiply-and-subdue-the-earth.p37" pid="koO__9QK-USDrtOVfjxSVg" hash="Tzh2NA">Heavenly Father has charged and blessed us to be fruitful, to multiply, and to subdue the earth that we might become like Him. He has made help available that we may each, according to our individual choosing, actually grow to become like Him. I pray that we might all live our lives such that we will be guided by the vision of our divine nature, claim all our divine privileges, and fulfill our divine destiny.</p>
-			<p class="para" uri="/general-conference/2015/04/be-fruitful-multiply-and-subdue-the-earth.p38" pid="SNkTBRy0DE6cQNwxUQ22dw" hash="hxWILw">I testify of the living reality of God the Father and of His Beloved Son, our Savior Jesus Christ; of His glorious plan of happiness; and of the keys He has caused to be bestowed upon a living prophet on earth today, even Thomas S. Monson, whom we love and sustain. I pray that we may have power to enjoy the fulness of His blessings in the name of Jesus Christ, amen.</p>
-		</div>
-	</div>
-	
-</div>]]></content:encoded>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="126"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/f1a679451ece317885f825ebe3d36724aae099a9/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/f1a679451ece317885f825ebe3d36724aae099a9/full/%21192%2C/0/default" data-video-title="Be Fruitful, Multiply, and Subdue the Earth" data-video-description="Joseph W. Sitati teaches about our roles in the plan of salvation and how fulfilling those roles will help us become like God." data-video-id="4158598384001" data-ip="Download and Streaming                            " data-duration="620000" data-assetId="d0cdbd6f5c6c69645e1459d7f0e3269ff48667e9" data-ref-id="d0cdbd6f5c6c69645e1459d7f0e3269ff48667e9" data-duration-string="10:20" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/4158598384001/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="157134746"/><source src="https://assets.churchofjesuschrist.org/d0cdbd6f5c6c69645e1459d7f0e3269ff48667e9-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="31786653"/><source src="https://assets.churchofjesuschrist.org/d0cdbd6f5c6c69645e1459d7f0e3269ff48667e9-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="57682801"/><source src="https://assets.churchofjesuschrist.org/d0cdbd6f5c6c69645e1459d7f0e3269ff48667e9-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="157134746"/></video><h1 data-aid="28864435" id="title1">Be Fruitful, Multiply, and Subdue the Earth</h1>
+<div class="byline">
+<p class="author-name" data-aid="28864436" id="p1">By Elder Joseph W. Sitati</p>
+<p class="author-role" data-aid="28864437" id="p2">Of the Seventy</p>
+<div class="image-cropper"><img alt="Elder Joseph W. Sitati" class="headshot" data-deprecate-web-url="joseph-w-sitati-10.jpg" id="img1" src="https://www.churchofjesuschrist.org/imgs/07358f8db6212dc07b74b9c07c5923b0bff393c3/full/%21100%2C/0/default" data-assetId="07358f8db6212dc07b74b9c07c5923b0bff393c3" srcset="https://www.churchofjesuschrist.org/imgs/07358f8db6212dc07b74b9c07c5923b0bff393c3/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/07358f8db6212dc07b74b9c07c5923b0bff393c3/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/07358f8db6212dc07b74b9c07c5923b0bff393c3/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/07358f8db6212dc07b74b9c07c5923b0bff393c3/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/07358f8db6212dc07b74b9c07c5923b0bff393c3/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/07358f8db6212dc07b74b9c07c5923b0bff393c3/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/07358f8db6212dc07b74b9c07c5923b0bff393c3/full/%21640%2C/0/default 640w" data-img-id="07358f8db6212dc07b74b9c07c5923b0bff393c3" data-missing-asset="false" data-width="100" data-height="136" data-aspect-ratio="0.7352941176470589" data-public-title="Sitati, Joseph W." data-public-description="Official portrait of Elder Joseph W. Sitati of the First Quorum of the Seventy, April 2009."/></div>
+</div>
+<p class="kicker" data-aid="28864438" id="kicker1">Heavenly Father has charged and blessed us to be fruitful, to multiply, and to subdue the earth that we might become like Him.</p>
+</header>
+<div class="body-block">
+<p data-aid="28864439" id="p3">Thank you, Tabernacle Choir, for that sweet tribute to the Savior of the world.</p>
+<p data-aid="28864440" id="p4">In the day that God the Father called upon His Only Begotten Son to make man in Their image and likeness, He blessed His children, saying, “Be fruitful, and multiply, and replenish the earth, and subdue it, and have dominion … over every living thing that moveth upon the earth.”<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a> Thus, our mortal journey began with both a divine charge and a blessing. A loving Father gave us the charge and the blessing to be fruitful and to multiply and to have dominion so that we can develop and become even as He is.</p>
+<p data-aid="28864441" id="p5">Brothers and sisters, this afternoon I invite your faith and prayers as I share some thoughts with you about three fundamental attributes of our divine nature. My prayer is that we might all more fully recognize and fulfill our sacred responsibility—our Father’s charge—to develop our divine nature so that we may navigate our journey more successfully and obtain our divine destiny.</p>
+<section>
+<header>
+<h2 data-aid="28864442" id="title2">First, God Charged Us to Be Fruitful</h2>
+</header>
+<p data-aid="28864443" id="p6">An important part of being fruitful that is sometimes overlooked is that of bringing forth the kingdom of God upon the earth. The Savior taught:</p>
+<p data-aid="28864444" id="p7">“I am the vine, ye are the branches: He that abideth in me, and I in him, the same bringeth forth much fruit: for without me ye can do nothing. …</p>
+<p data-aid="28864445" id="p8">“If ye abide in me, and my words abide in you, ye shall ask what ye will, and it shall be done unto you.</p>
+<p data-aid="28864446" id="p9">“Herein is my Father glorified, that ye bear much fruit; so shall ye be my disciples.”<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a></p>
+<p data-aid="28864447" id="p10">We become fruitful as we abide in Christ and as we “take upon [ourselves His] name [and] … serve him to the end”<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a> by helping others come unto Him.</p>
+<p data-aid="28864448" id="p11">In our day, living prophets and apostles continue to lift their voices to invite each one of us to become fully engaged in the work of salvation according to our abilities and opportunities.</p>
+<p data-aid="28864449" id="p12">The starting point of a response that yields much fruit is to “be meek and <span class="page-break" data-page="127"></span>lowly in heart.”<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a> We can then more fully come unto Christ as we yield to the enticings of the Holy Spirit and keep all the covenants we have made.<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a> We can seek and receive the gift of charity and have power to invite our own families, our ancestors, and our member and nonmember neighbors and friends to receive the gospel of Jesus Christ.</p>
+<p data-aid="28864450" id="p13">Laboring in the spirit of charity is not a duty but a joy. Challenges become opportunities to build faith. We become “witnesses of [the goodness of] God at all times and in all things, and in all places that [we] may be in, even until death.”<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a></p>
+<p data-aid="28864451" id="p14">All of us can and should become fully engaged in the work of salvation. The Savior has given us the following responsibility with a promise: “I have chosen you, and ordained you, that ye should go and bring forth fruit, and that your fruit should remain: that whatsoever ye shall ask of the Father in my name, he may give it you.”<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a></p>
+</section>
+<section>
+<header>
+<h2 data-aid="28864452" id="title3">Second, God Charged Us to Multiply</h2>
+</header>
+<p data-aid="28864453" id="p15">Our physical bodies are a blessing from God. We received them for the purposes of fulfilling Heavenly Father’s work “to bring to pass the immortality and eternal life of man.”<a class="note-ref" href="#note8"><sup class="marker" data-value="8"></sup></a> The body is the means by which we can attain our divine potential.</p>
+<p data-aid="28864454" id="p16">The body enables Heavenly Father’s obedient spirit children to experience life on earth.<a class="note-ref" href="#note9"><sup class="marker" data-value="9"></sup></a> Bearing children gives other spirit children of God the opportunity to also enjoy life on earth. All who are born in mortality have the opportunity to progress and to be exalted if they obey God’s commandments.</p>
+<p data-aid="28864455" id="p17">Marriage between a man and a woman is the institution that God ordained for the fulfillment of the charge to multiply. A same-gender relationship does not multiply.</p>
+<p data-aid="28864456" id="p18">A legal and lawful marriage sealed in the temple and in which the sealing covenants are honored gives parents and their children the opportunity for the best experience of love and preparation for a fruitful life. It offers them the ideal environment in which they can live their covenants made with God.</p>
+<p data-aid="28864457" id="p19">Because of His love for us, Heavenly Father has provided that all His faithful children who do not or are not able to enjoy the blessings of a covenant marriage and children or a fulness of those blessings for reasons not of their making will, in the Lord’s appointed time, enjoy these blessings.<a class="note-ref" href="#note10"><sup class="marker" data-value="10"></sup></a></p>
+<p data-aid="28864458" id="p20">Living prophets and apostles have counseled all who have the opportunity to enter into the covenant of eternal marriage to proceed in wisdom and faith. We should not put off the time of that sacred day because of worldly pursuits or hold our expectations of a suitable companion at a level that disqualifies every possible candidate.</p>
+<p data-aid="28864459" id="p21">The promise to all who are sealed in the covenant of eternal marriage and who are fruitful through keeping their covenants is that the adversary will never have power to undermine the foundation of their eternal companionship.</p>
+</section>
+<section>
+<header>
+<h2 data-aid="28864460" id="title4">Third, God Charged Us to Subdue the Earth</h2>
+</header>
+<p data-aid="28864461" id="p22">To subdue the earth and have dominion over every living thing is <span class="page-break" data-page="128"></span>to control these things so they fulfill the will of God<a class="note-ref" href="#note11"><sup class="marker" data-value="11"></sup></a> as they serve the purposes of His children. Subduing includes gaining mastery over our own bodies.<a class="note-ref" href="#note12"><sup class="marker" data-value="12"></sup></a> It does <em>not</em> include being helpless victims of these things or using them contrary to the will of God.<a class="note-ref" href="#note13"><sup class="marker" data-value="13"></sup></a></p>
+<p data-aid="28864462" id="p23">Developing the ability to subdue the things of the earth begins with humility to recognize our human weakness and the power available to us through Christ and His Atonement. For “Christ hath said: If ye will have faith in me ye shall have power to do whatsoever thing is expedient in me.”<a class="note-ref" href="#note14"><sup class="marker" data-value="14"></sup></a> This power becomes available to us as we choose to act in obedience to His commandments. We increase our ability by seeking the gifts of the Spirit and by developing our talents.</p>
+<p data-aid="28864463" id="p24">I was born and raised in humble circumstances typical to many families in Africa. I gained the ability to lift myself from those circumstances by seeking and obtaining, with the caring help of my parents, a good education. Developing a vision of what I could become was essential to my progress. Later, as a young couple, my wife, Gladys, and I found the restored gospel, which continues to bless our lives with spiritual direction. Like every family, we have our trials and challenges. But as we look to the Lord for help, we have found answers that bring peace and comfort, and we do not feel overwhelmed by these things.</p>
+<p data-aid="28864464" id="p25">The challenges facing human society today, including immorality, pornography, armed conflict, pollution, substance abuse, and poverty, flourish because many in the world have turned themselves over by choice “to the will of the devil and the flesh”<a class="note-ref" href="#note15"><sup class="marker" data-value="15"></sup></a> rather than to the will of God. “They seek not the Lord to establish his righteousness, but every man walketh in his own way, and after the image of his own god, whose image is in the likeness of the world.”<a class="note-ref" href="#note16"><sup class="marker" data-value="16"></sup></a></p>
+<p data-aid="28864465" id="p26">However, God invites <em>all</em> His children to obtain His help to overcome and endure the challenges of this life with these words:</p>
+<p data-aid="28864466" id="p27">“I am God; I made the world, and men before they were in the flesh.</p>
+<p data-aid="28864467" id="p28">“… If thou wilt turn unto me, and hearken unto my voice, and believe, and repent of all thy transgressions, and be baptized, even in water, in the name of mine Only Begotten Son, … ye shall receive the gift of the Holy Ghost, asking all things in his name, and whatsoever ye shall ask, it shall be given you.”<a class="note-ref" href="#note17"><sup class="marker" data-value="17"></sup></a></p>
+<p data-aid="28864468" id="p29">Faithful Latter-day Saints who understand their divine potential and rely wholeheartedly on the power available through the Atonement of the Lord Jesus Christ are strengthened in their natural weakness and “can do all things.”<a class="note-ref" href="#note18"><sup class="marker" data-value="18"></sup></a> They are enabled to overcome the enticings of evil that have put many under bondage to the adversary. Paul taught that:</p>
+<p data-aid="28864469" id="p30">“God is faithful, [and] will not suffer you to be tempted above that ye are able; but will with the temptation also make a way to escape, that ye may be able to bear it.”<a class="note-ref" href="#note19"><sup class="marker" data-value="19"></sup></a></p>
+<span class="page-break" data-page="129"></span>
+<p data-aid="28864470" id="p31">“For in that he himself hath suffered being tempted, he is able to succour them that are tempted.”<a class="note-ref" href="#note20"><sup class="marker" data-value="20"></sup></a></p>
+<p data-aid="28864471" id="p32">Heavenly Father has charged and blessed us to be fruitful, to multiply, and to subdue the earth that we might become like Him. He has made help available that we may each, according to our individual choosing, actually grow to become like Him. I pray that we might all live our lives such that we will be guided by the vision of our divine nature, claim all our divine privileges, and fulfill our divine destiny.</p>
+<p data-aid="28864472" id="p33">I testify of the living reality of God the Father and of His Beloved Son, our Savior Jesus Christ; of His glorious plan of happiness; and of the keys He has caused to be bestowed upon a living prophet on earth today, even Thomas S. Monson, whom we love and sustain. I pray that we may have power to enjoy the fulness of His blessings in the name of Jesus Christ, amen.</p>
+</section>
+</div>
+<footer class="notes">
+<p class="title" data-aid="28864473" id="notetitle1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="28864474" id="note1_p1"><a class="scripture-ref" href="/study/scriptures/pgp/moses/2?lang=eng&amp;id=p28#p28">Moses 2:28</a>; see also <a class="scripture-ref" href="/study/scriptures/pgp/moses/2?lang=eng&amp;id=p26-p27#p26">Moses 2:26–27</a>; <a class="scripture-ref" href="/study/scriptures/ot/gen/1?lang=eng&amp;id=p26-p28#p26">Genesis 1:26–28</a>.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="28864475" id="note2_p1"><a class="scripture-ref" href="/study/scriptures/nt/john/15?lang=eng&amp;id=p5%2Cp7-p8#p5">John 15:5, 7–8</a>.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="28864476" id="note3_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/20?lang=eng&amp;id=p37#p37">Doctrine and Covenants 20:37</a>.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="28864477" id="note4_p1"><a class="scripture-ref" href="/study/scriptures/bofm/moro/7?lang=eng&amp;id=p44#p44">Moroni 7:44</a>.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="28864478" id="note5_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/mosiah/3?lang=eng&amp;id=p19#p19">Mosiah 3:19</a>.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="28864479" id="note6_p1"><a class="scripture-ref" href="/study/scriptures/bofm/mosiah/18?lang=eng&amp;id=p9#p9">Mosiah 18:9</a>.</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="28864480" id="note7_p1"><a class="scripture-ref" href="/study/scriptures/nt/john/15?lang=eng&amp;id=p16#p16">John 15:16</a>.</p>
+</li>
+<li data-marker="8." id="note8" data-full-marker="8.">
+<p data-aid="28864481" id="note8_p1"><a class="scripture-ref" href="/study/scriptures/pgp/moses/1?lang=eng&amp;id=p39#p39">Moses 1:39</a>.</p>
+</li>
+<li data-marker="9." id="note9" data-full-marker="9.">
+<p data-aid="28864482" id="note9_p1">See <a class="scripture-ref" href="/study/scriptures/pgp/moses/5?lang=eng&amp;id=p10-p11#p10">Moses 5:10–11</a>.</p>
+</li>
+<li data-marker="10." id="note10" data-full-marker="10.">
+<p data-aid="28864483" id="note10_p1">See <em>Handbook 2: Administering the Church</em> (2010), 1.3.3; Ezra Taft Benson, “To the Single Adult Sisters of the Church,” <em>Ensign,</em> Nov. 1988, 96–97.</p>
+</li>
+<li data-marker="11." id="note11" data-full-marker="11.">
+<p data-aid="28864484" id="note11_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/jacob/2?lang=eng&amp;id=p18-p19#p18">Jacob 2:18–19</a>.</p>
+</li>
+<li data-marker="12." id="note12" data-full-marker="12.">
+<p data-aid="28864485" id="note12_p1">See <a class="scripture-ref" href="/study/scriptures/nt/1-cor/6?lang=eng&amp;id=p19-p20#p19">1 Corinthians 6:19–20</a>; <a class="scripture-ref" href="/study/scriptures/nt/gal/5?lang=eng&amp;id=p16-p25#p16">Galatians 5:16–25</a>; <a class="scripture-ref" href="/study/scriptures/nt/1-thes/4?lang=eng&amp;id=p3-p7#p3">1 Thessalonians 4:3–7</a>; <a class="scripture-ref" href="/study/scriptures/nt/2-tim/2?lang=eng&amp;id=p22#p22">2 Timothy 2:22</a>.</p>
+</li>
+<li data-marker="13." id="note13" data-full-marker="13.">
+<p data-aid="28864486" id="note13_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/jacob/2?lang=eng&amp;id=p12-p16%2Cp20-p21#p12">Jacob 2:12–16, 20–21</a>.</p>
+</li>
+<li data-marker="14." id="note14" data-full-marker="14.">
+<p data-aid="28864487" id="note14_p1"><a class="scripture-ref" href="/study/scriptures/bofm/moro/7?lang=eng&amp;id=p33#p33">Moroni 7:33</a>.</p>
+</li>
+<li data-marker="15." id="note15" data-full-marker="15.">
+<p data-aid="28864488" id="note15_p1"><a class="scripture-ref" href="/study/scriptures/bofm/2-ne/10?lang=eng&amp;id=p24#p24">2 Nephi 10:24</a>.</p>
+</li>
+<li data-marker="16." id="note16" data-full-marker="16.">
+<p data-aid="28864489" id="note16_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/1?lang=eng&amp;id=p16#p16">Doctrine and Covenants 1:16</a>.</p>
+</li>
+<li data-marker="17." id="note17" data-full-marker="17.">
+<p data-aid="28864490" id="note17_p1"><a class="scripture-ref" href="/study/scriptures/pgp/moses/6?lang=eng&amp;id=p51-p52#p51">Moses 6:51–52</a>.</p>
+</li>
+<li data-marker="18." id="note18" data-full-marker="18.">
+<p data-aid="28864491" id="note18_p1"><a class="scripture-ref" href="/study/scriptures/bofm/alma/26?lang=eng&amp;id=p12#p12">Alma 26:12</a>.</p>
+</li>
+<li data-marker="19." id="note19" data-full-marker="19.">
+<p data-aid="28864492" id="note19_p1"><a class="scripture-ref" href="/study/scriptures/nt/1-cor/10?lang=eng&amp;id=p13#p13">1 Corinthians 10:13</a>.</p>
+</li>
+<li data-marker="20." id="note20" data-full-marker="20.">
+<p data-aid="28864493" id="note20_p1"><a class="scripture-ref" href="/study/scriptures/nt/heb/2?lang=eng&amp;id=p18#p18">Hebrews 2:18</a>.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/2015/04/be-fruitful-multiply-and-subdue-the-earth</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/april-2015-general-conference/2015-04-5060-elder-joseph-w-sitati-64k-eng.mp3" length="4960481" type="audio/mpeg"/>
-      <pubDate>Sun, 05 Apr 2015 14:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/3da8733832dd11eca0a3eeeeac1ed9039a343d66-64k-en.mp3" length="5158980" type="audio/mpeg"/>
+      <pubDate>Sun, 05 Apr 2015 14:00:00 -0600</pubDate>
+      <itunes:author>Joseph W. Sitati</itunes:author>
+    </item>
+    <item>
+      <title>Patterns of Discipleship</title>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2022/10/44sitati?lang=eng</link>
+      <description>Elder Sitati teaches how we can develop attributes that help us become better disciples of Christ.</description>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="86"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/7a108f449ce9fefbb2947edc41bb2cb6f59613c2/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/7a108f449ce9fefbb2947edc41bb2cb6f59613c2/full/%21192%2C/0/default" data-video-title="Patterns of Discipleship" data-video-description="Elder Sitati teaches how we can develop attributes that help us become better disciples of Christ." data-video-id="6313164643112" data-ip="Download and Streaming                            " data-duration="664530" data-assetId="3066d5df428611eda867eeeeac1e095100ec1d9e" data-ref-id="834714F8FFD94B947220CE6DF025CB80735F0D4B" data-duration-string="11:04" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/media-services/GA/type/6313164643112/hls.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="177519791"/><source src="https://assets.churchofjesuschrist.org/3066d5df428611eda867eeeeac1e095100ec1d9e-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="31808538"/><source src="https://assets.churchofjesuschrist.org/3066d5df428611eda867eeeeac1e095100ec1d9e-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="62396864"/><source src="https://assets.churchofjesuschrist.org/3066d5df428611eda867eeeeac1e095100ec1d9e-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="177519791"/></video><h1 data-aid="152798647" id="title1">Patterns of Discipleship</h1>
+<div class="byline">
+<p class="author-name" data-aid="152798652" id="author1">By Elder Joseph W. Sitati</p>
+<p class="author-role" data-aid="152798658" id="author2">Emeritus Member of the Seventy</p>
+</div>
+<p class="kicker" data-aid="152798663" id="kicker1">Learning about Christ and His ways leads us to know and to love Him.</p>
+</header>
+<div class="body-block">
+<section>
+<header>
+<h2 data-aid="152798671" id="title2">Pattern of Faith</h2>
+</header>
+<p data-aid="152798679" id="p1">This morning our two children and three grandchildren in North America, and about half of the world, saw the brightness of the sun rising majestically in the east. The other three children and seven grandchildren in Africa, and the other half of the world, saw darkness gradually creep upon them as the sun sank over the horizon in the west.</p>
+<p data-aid="152798687" id="p2">This timeless constancy of the onset of day and night is one daily reminder of realities that govern our lives that we cannot change. When we respect and align what we do with these eternal realities, we experience internal peace and harmony. When we don’t, we are unsettled, and things do not work as we expect.</p>
+<p data-aid="152798696" id="p3">Day and night is one example of patterns that God has given to everyone who has ever lived on the earth, of things as they really are. It is an absolute truth of our human existence that we cannot negotiate around according to our own desires and get away with it. I am reminded of this every time I take a flight from Africa to come to general conference, resetting the body clock backward by 10 hours in one day.</p>
+<p data-aid="152798705" id="p4">Whenever we care to notice, we see that Heavenly Father has given us sufficient witnesses of truth to govern our lives so we will know Him and have the blessings of peace and joy.</p>
+<p data-aid="152798714" id="p5">Through the Prophet Joseph Smith, the Spirit of the Lord affirms, “And again, I will give unto you a pattern in all things, that ye may not be deceived; for Satan is abroad in the land, and he goeth forth deceiving the nations.”<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a></p>
+<p data-aid="152798723" id="p6">Korihor the anti-Christ fell for such deception, disbelieving the existence of God and the coming of Christ. To him the prophet Alma testified, “All things denote there is a God; yea, even the earth, and all things that are upon the face of it, yea, and its motion, yea, and also all the planets which move in their regular form do witness that there is a Supreme Creator.”<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a></p>
+<p data-aid="152798732" id="p7">When Korihor insisted to be given a sign before he could believe, Alma caused him to be struck dumb. Humbled by his affliction, Korihor freely confessed to having been deceived by the devil.</p>
+<p data-aid="152798741" id="p8">We do not need to be deceived. The miracle of intelligent life constantly plays before us. And a brief gaze and reflection upon the wonders of the heavens arrayed with numberless stars and galaxies prompt the soul of the believing heart to proclaim, “My God, how great thou art!”<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a></p>
+<p data-aid="152798750" id="p9">Yes, God our Heavenly Father lives, and He manifests Himself to us all the time in multiple ways.</p>
+</section>
+<span class="page-break" data-page="87"></span>
+<section>
+<header>
+<h2 data-aid="152798759" id="title3">Pattern of Humility</h2>
+</header>
+<p data-aid="152798770" id="p10">But to acknowledge, believe, and continue in God, our hearts need to be receptive to the Spirit of truth. Alma taught that faith is preceded by humility.<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a> Mormon added that it is impossible for anyone who is not “meek and lowly in heart” to have faith and hope and to receive the Spirit of God.<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a> King Benjamin declared that anyone who prioritizes the glory of the world is “an enemy to God.”<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a></p>
+<p data-aid="152798780" id="p11">By submitting to baptism to fulfill all righteousness, even though He was righteous and holy, Jesus Christ demonstrated that humility before God is a foundational attribute of His disciples.<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a></p>
+<p data-aid="152798789" id="p12">All new disciples are required to demonstrate humility before God through the ordinance of baptism. Thus, “all those who humble themselves before God, and desire to be baptized, and come forth with broken hearts and contrite spirits … shall be received by baptism into his church.”<a class="note-ref" href="#note8"><sup class="marker" data-value="8"></sup></a></p>
+<p data-aid="152798798" id="p14">Humility inclines the heart of the disciple toward repentance and obedience. The Spirit of God is then able to bring truth to that heart, and it will find entry.<a class="note-ref" href="#note9"><sup class="marker" data-value="9"></sup></a></p>
+<p data-aid="152798807" id="p15">It is a lack of humility that contributes most to the fulfillment of the Apostle Paul’s prophecy in these last days:</p>
+<p data-aid="152798816" id="p16">“For men shall be lovers of their own selves, covetous, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy,</p>
+<p data-aid="152798825" id="p17">“Without natural affection, trucebreakers, false accusers, incontinent, fierce, despisers of those that are good.”<a class="note-ref" href="#note10"><sup class="marker" data-value="10"></sup></a></p>
+<p data-aid="152798834" id="p18">The invitation of the Savior to learn of Him is an invitation to turn away <span class="page-break" data-page="88"></span>from the enticings of worldliness and to become as He is—meek and lowly of heart, humble. We are then able to take up His yoke and discover that it is easy—that discipleship is not a burden but a joy, as President Russell M. Nelson has so eloquently and repeatedly taught us.</p>
+</section>
+<section>
+<header>
+<h2 data-aid="152798842" id="title4">Pattern of Love</h2>
+</header>
+<p data-aid="152798850" id="p19">Learning about Christ and His ways leads us to know and to love Him.</p>
+<p data-aid="152798858" id="p20">He showed by example that with an attitude of humility it is indeed possible to know and to love God the Father with all our being and to love others as we love ourselves, holding back nothing. His ministry on earth, during which He put both His will and His body on the altar, was a pattern for the application of these principles on which His gospel is founded. Both principles are outward looking and are about how we relate to others, not about seeking personal gratification or glory.</p>
+<p data-aid="152798865" id="p21">The miraculous irony of it is that when we focus our best efforts on loving God and others, we are enabled to discover our own true divine worth as sons and daughters of God, with the complete peace and joy that this experience brings.</p>
+<p data-aid="152798873" id="p22">We become one with God and with one another through love and service. Then we can receive the witness of the Holy Ghost of that pure love, the fruit which Lehi speaks about as “most sweet, above all that [he] ever before tasted.”<a class="note-ref" href="#note11"><sup class="marker" data-value="11"></sup></a></p>
+<p data-aid="152798881" id="p23">The crown that Christ received by giving and doing all in His ability to set the pattern of loving the Father and loving us was to receive all power, even all that the Father has, which is exaltation.<a class="note-ref" href="#note12"><sup class="marker" data-value="12"></sup></a></p>
+<p data-aid="152798890" id="p24">Our opportunity to nurture in our souls a lasting love of God and of our neighbor starts at home with the holy habits of connecting with the Father daily in personal and family prayer in the name of His Only Begotten Son, learning together of Them through individual and family scripture study, observing the Sabbath day together, and individually holding a current temple recommend, using it together as often as we are able.</p>
+<p data-aid="152798898" id="p25">As we each individually grow in our knowledge and love of the Father and the Son, we grow in appreciation and love for one another. Our ability to love and serve others outside the home is greatly enhanced.</p>
+<p data-aid="152798906" id="p26">What we do at home is the true crucible of enduring and joyful discipleship. The sweetest blessings of the restored gospel that my wife, Gladys, and I have enjoyed in our household have come from learning to know and to honor God at home and to share His love with our posterity.</p>
+</section>
+<section>
+<header>
+<h2 data-aid="152798916" id="title5">Pattern of Service</h2>
+</header>
+<p data-aid="152798924" id="p27">Love for God and service to one another nurtured at home and service to others outside the home in time grow into the attribute of charity.</p>
+<p data-aid="152798933" id="p28">This resonates with the pattern of consecrated service in the kingdom of God that is set before us by the Lord’s living prophets and apostles. We become one with them.</p>
+<p data-aid="152798940" id="p29">We are then enabled to look, through them, unto the Lord “in every thought,” so that we shall “doubt not” and “fear not.”<a class="note-ref" href="#note13"><sup class="marker" data-value="13"></sup></a></p>
+<p data-aid="152798948" id="p30">Like the Lord’s living prophets and apostles, we can go forth with “bowels … full of charity towards all men, and to the household of faith, [with] virtue [garnishing our] thoughts unceasingly; … [and our] confidence [waxing] strong in the presence of God; and the doctrine of the priesthood … [distilling] upon [our souls] as the dews from heaven.”</p>
+<p data-aid="152798956" id="p31">With the Lord’s living prophets and apostles, we too can join a virtuous circle of faith strengthened by consecrated service in which “the Holy Ghost [is our] constant companion, [our] scepter [is] an unchanging scepter of righteousness and truth; and [our] dominion [is] an everlasting dominion, and without compulsory means it [flows] unto [us] forever and ever.”<a class="note-ref" href="#note14"><sup class="marker" data-value="14"></sup></a> For this is the promise of the Father’s plan. In the name of Jesus Christ, amen.</p>
+</section>
+</div>
+<footer class="notes">
+<p class="title" data-aid="152798963" id="note_title1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="152798970" id="note1_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/52?lang=eng&amp;id=p14#p14">Doctrine and Covenants 52:14</a>.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="152798977" id="note2_p1"><a class="scripture-ref" href="/study/scriptures/bofm/alma/30?lang=eng&amp;id=p44#p44">Alma 30:44</a>.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="152798984" id="note3_p1">“How Great Thou Art,” <cite>Hymns</cite>, no 86.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="152798991" id="note4_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/alma/32?lang=eng&amp;id=p14-p21#p14">Alma 32:14–21</a>.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="152798998" id="note5_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/moro/7?lang=eng&amp;id=p42-p44#p42">Moroni 7:42–44</a>.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="152799005" id="note6_p1"><a class="scripture-ref" href="/study/scriptures/bofm/mosiah/3?lang=eng&amp;id=p19#p19">Mosiah 3:19</a>.</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="152799010" id="note7_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/2-ne/31?lang=eng&amp;id=p6-p7#p6">2 Nephi 31:6–7</a>.</p>
+</li>
+<li data-marker="8." id="note8" data-full-marker="8.">
+<p data-aid="152799018" id="note8_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/20?lang=eng&amp;id=p37#p37">Doctrine and Covenants 20:37</a>.</p>
+</li>
+<li data-marker="9." id="note9" data-full-marker="9.">
+<p data-aid="152799025" id="note9_p1">See <a class="scripture-ref" href="/study/scriptures/bofm/2-ne/33?lang=eng&amp;id=p1#p1">2 Nephi 33:1</a>.</p>
+</li>
+<li data-marker="10." id="note10" data-full-marker="10.">
+<p data-aid="152799032" id="note10_p1"><a class="scripture-ref" href="/study/scriptures/nt/2-tim/3?lang=eng&amp;id=p2-p3#p2">2 Timothy 3:2–3</a>.</p>
+</li>
+<li data-marker="11." id="note11" data-full-marker="11.">
+<p data-aid="152799039" id="note11_p1"><a class="scripture-ref" href="/study/scriptures/bofm/1-ne/8?lang=eng&amp;id=p11#p11">1 Nephi 8:11</a>.</p>
+</li>
+<li data-marker="12." id="note12" data-full-marker="12.">
+<p data-aid="152799046" id="note12_p1">See <a class="scripture-ref" href="/study/scriptures/nt/matt/28?lang=eng&amp;id=p18#p18">Matthew 28:18</a>; <a class="scripture-ref" href="/study/scriptures/dc-testament/dc/84?lang=eng&amp;id=p38#p38">Doctrine and Covenants 84:38</a>.</p>
+</li>
+<li data-marker="13." id="note13" data-full-marker="13.">
+<p data-aid="152799053" id="note13_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/6?lang=eng&amp;id=p36#p36">Doctrine and Covenants 6:36</a>.</p>
+</li>
+<li data-marker="14." id="note14" data-full-marker="14.">
+<p data-aid="152799060" id="note14_p1"><a class="scripture-ref" href="/study/scriptures/dc-testament/dc/121?lang=eng&amp;id=p45-p46#p45">Doctrine and Covenants 121:45–46</a>.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
+      <guid isPermaLink="false">/general-conference/2022/10/44sitati</guid>
+      <enclosure url="https://assets.churchofjesuschrist.org/f5ec9d6942b211edb250eeeeac1ee64413fdd18f-32k-en.mp3" length="2887757" type="audio/mpeg"/>
+      <pubDate>Sun, 02 Oct 2022 10:00:00 -0600</pubDate>
+      <itunes:author>Joseph W. Sitati</itunes:author>
     </item>
   </channel>
 </rss>

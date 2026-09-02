@@ -1,135 +1,169 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Talks By David S. Baxter</title>
-    <link>http://philip.lundrigan.org/Speakercast/</link>
+    <link>https://philip.lundrigan.org/Speakercast/</link>
     <description>General Conference talks by David S. Baxter.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Speakercast</generator>
     <image>
-      <url>http://philip.lundrigan.org/Speakercast/covers/David%20S.%20Baxter.jpg</url>
+      <url>https://philip.lundrigan.org/Speakercast/covers/David%20S.%20Baxter.jpg</url>
       <title>General Conference talks by David S. Baxter.</title>
-      <link>http://philip.lundrigan.org/Speakercast/</link>
+      <link>https://philip.lundrigan.org/Speakercast/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 30 Sep 2006 10:00:00 -0700</lastBuildDate>
-    <pubDate>Sat, 30 Sep 2006 10:00:00 -0700</pubDate>
+    <lastBuildDate>Sat, 31 Mar 2012 14:00:00 -0600</lastBuildDate>
+    <pubDate>Sat, 31 Mar 2012 14:00:00 -0600</pubDate>
+    <itunes:author>David S. Baxter</itunes:author>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
+    <itunes:image href="https://philip.lundrigan.org/Speakercast/covers/David%20S.%20Baxter.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>General Conference talks by David S. Baxter.</itunes:summary>
     <item>
       <title>Faith, Service, Constancy</title>
-      <link>http://www.lds.org/general-conference/2006/10/faith-service-constancy?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2006/10/faith-service-constancy?lang=eng</link>
       <description>As we cultivate our faith, grow through service, and stay constant and true come what may, so we feel the Savior’s love.</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/2006/10/faith-service-constancy" schema-version="1" doc-id="general-conference_PD00006562_000_007" doc-version="2" hash="kp1eCw">
-  
-  <div class="heading" uri="/general-conference/2006/10/faith-service-constancy.head">
-    <h1 class="title" pid="4U6GmX83o0ikZ9QnIcbUnQ" hash="3KI-hA">Faith, Service, Constancy</h1>
-    <p class="authorName" pid="-EQl252gvkigphyIYTLyEw" hash="i7jgbQ">David S. Baxter</p>
-    <p class="kicker" pid="8AA2eRGP40Wy6NUTiX8VwA" hash="IhYMOw">As we cultivate our faith, grow through service, and stay constant and true come what may, so we feel the Savior’s love.</p>
-  </div>
-  <div class="bodyBlock">
-    <div class="topic" uri="/general-conference/2006/10/faith-service-constancy.t1">
-      <img src="https://www.lds.org/bc/content/shared/content/images/gospel-library/magazine/BaxterDS_06.jpg" alt="Elder David S. Baxter" pid="Yo73vE1kLkSVXxKvbe9TYQ" hash="LQjIlQ" />
-      <p class="para" uri="/general-conference/2006/10/faith-service-constancy.p1" pid="LNhTbIaPCkWNusepa0WfSA" hash="eo9bsQ">
-        <span class="pageBreak" page-number="13"></span>Thirty-nine years ago two of the Lord’s missionaries knocked on my family’s door in Glasgow, Scotland. We were deeply touched by their brightness, their humility, and their faith. Whenever they were in our home, we felt love and peace. It was a feeling of sheer goodness.</p>
-      <p class="para" uri="/general-conference/2006/10/faith-service-constancy.p2" pid="B2xi9jDK4EO3-Z9PR1v_CQ" hash="B9K2iw">Their teaching was personal, sincere, familiar. We simply felt that it was true. A few weeks later we were baptized and confirmed and were immediately embraced with friendship and kindness from members and leaders in our new Church family.</p>
-      <p class="para" uri="/general-conference/2006/10/faith-service-constancy.p3" pid="4VnM75rBzkuXZavopp3XYg" hash="B_EIKQ">So began a gospel journey which has enriched and blessed every aspect of our lives, bringing a deep, abiding, calming sense of purpose and direction. In the hope that it may prove helpful to those new to Church membership, I will share today just three gospel fundamentals learned along the way.</p>
-      <p class="para" uri="/general-conference/2006/10/faith-service-constancy.p4" pid="cyXSnkBDvkOiAAJzYISwoA" hash="uT86gw">First is the motivating, transforming power of faith in Jesus Christ. Such faith is like spiritual oxygen. As we allow faith to freely flow within us, it awakens and enlivens our spiritual senses. It breathes life into our very souls.</p>
-      <p class="para" uri="/general-conference/2006/10/faith-service-constancy.p5" pid="DyamJXExDU63SmW0xDdDBQ" hash="d1BDIQ">As faith flows, we become sensitively attuned to the whisperings of the Spirit. Our minds are enlightened, our spiritual pulse quickens, our hearts are touched.</p>
-      <p class="para" uri="/general-conference/2006/10/faith-service-constancy.p6" pid="XLn2CNqZ60mchL2VW_CKXg" hash="An4VnA">Faith fuels hope. Our perspective changes; our vision becomes clearer. We begin to look for the best, not the worst, in life and in others. We gain a deeper sense of life’s purpose and meaning. Despair gives way to joy.</p>
-      <p class="para" uri="/general-conference/2006/10/faith-service-constancy.p7" pid="ni99i5L3F02e6fGFhTNmpw" hash="c4RUwQ">Faith such as this is a heavenly gift, but it can be sought and cultivated. As our Bible Dictionary suggests, often “faith is kindled by hearing the testimony of those who have faith.”<span class="noteMarker" ref="f_1">1</span> Faith is then nurtured as we allow ourselves to believe. Like all other virtues, faith is strengthened as we practice it, as we live and act as if our faith were already deep. Faith is the product of righteous <span class="pageBreak" page-number="14"></span>desire, belief, and obedience.</p>
-      <p class="para" uri="/general-conference/2006/10/faith-service-constancy.p8" pid="Vc4ahxg2REKUdV-IYk8FHA" hash="XiCh8w">Thus the Book of Mormon example of the father of King Lamoni, who heard the testimony of Aaron and was willing to believe and to act so that he was led to say in humble prayer, “If there is a God, and if thou art God, wilt thou make thyself known unto me, and I will give away all my sins to know thee.”<span class="noteMarker" ref="f_2">2</span></p>
-      <p class="para" uri="/general-conference/2006/10/faith-service-constancy.p9" pid="wOexXc6fGkGzyAcPvSVAEw" hash="HWLUhw">So it can be for us as we allow ourselves to be touched by the spirit of testimony, as we exercise belief, as we desire, ponder, seek—as we cultivate our faith.</p>
-      <p class="para" uri="/general-conference/2006/10/faith-service-constancy.p10" pid="12w5eERklEaVdxReyjCetg" hash="vSF9VA">Second, as we serve we grow. President George Albert Smith taught, “It is not what we receive that enriches our lives, it is what we give.”<span class="noteMarker" ref="f_3">3</span></p>
-      <p class="para" uri="/general-conference/2006/10/faith-service-constancy.p11" pid="m0Anro3Sw0GkNTs1l09lFQ" hash="VHvLpw">Selfless service is a wonderful antidote to the ills that flow from the worldwide epidemic of self-indulgence. Some grow bitter or anxious when it seems that not enough attention is being paid to them, when their lives would be so enriched if only they paid more attention to the needs of others.</p>
-      <p class="para" uri="/general-conference/2006/10/faith-service-constancy.p12" pid="9wxbKuaNfkCfMJNEfKuqrA" hash="xQVSPg">The answer lies in helping to solve the problems of those around us rather than worrying about our own, living to lift burdens even when we ourselves feel weighed down, putting our shoulder to the wheel instead of complaining that the wagons of life seem to be passing us by.</p>
-      <p class="para" uri="/general-conference/2006/10/faith-service-constancy.p13" pid="k69iAcqM9EWZN3K0arx4YA" hash="wiAH4w">Stretching our souls in service helps us to rise above our cares, concerns, and challenges. As we focus our energies on lifting the burdens of others, something miraculous happens. Our own burdens diminish. We become happier. There is more substance to our lives.</p>
-      <p class="para" uri="/general-conference/2006/10/faith-service-constancy.p14" pid="Tf88Xl3mmEifl3Euv0JeEA" hash="C1Q-Dg">Third, discipleship does not guarantee freedom from the storms of life. Even as we are wending our way carefully and faithfully along the strait and narrow path, we encounter obstacle and challenge. There are days, perhaps even months and years, when life is just hard. We experience our fair share of adversity, heartache, loneliness, pain, grief—sometimes, it seems, more than our fair share.</p>
-      <p class="para" uri="/general-conference/2006/10/faith-service-constancy.p15" pid="_2ppcU6MxUi6mxucce0C8Q" hash="gLHkTg">What to do when adversity strikes? There is only one thing to do. Stand steady and see it through. Stay steadfast, constant, and true. The real tragedy in the whirlwinds of life comes only when we allow them to blow us off our true course.</p>
-      <p class="para" uri="/general-conference/2006/10/faith-service-constancy.p16" pid="Orm2Edz_MkSAQn774QME6Q" hash="6nIc7g">At these moments of crisis and challenge, some choose to abandon faith just at the time when it most needs to be embraced. Prayer is ignored at the very hour when it needs to be intensified. Virtue is carelessly tossed aside when it needs to be cherished. God is forsaken in the all-too-human yet mistaken fear that He has forsaken us.</p>
-      <p class="para" uri="/general-conference/2006/10/faith-service-constancy.p17" pid="opZr94TXBUma0cvVwnr4Kg" hash="35bfYQ">The truth is that our only safety, our only security, our only hope is to hold fast to that which is good. As the mists of darkness gather around us, we are only lost if we choose to let go of the iron rod, which is the word of God.</p>
-      <p class="para" uri="/general-conference/2006/10/faith-service-constancy.p18" pid="imgCVlStT0KtuSDk_9S_PQ" hash="NDtyaQ">The Savior’s parable of the wise man who built his house upon a rock has power precisely because it illustrates that life’s challenges befell the wise man too. The rains fell, the winds blew, the floods rose up. Yet he survived it all because he had built upon a sure foundation and, crucially, he stayed there when the storm came.</p>
-      <p class="para" uri="/general-conference/2006/10/faith-service-constancy.p19" pid="--FniXJL-U2d_DKjDYggpw" hash="sBPB-g">
-        <span class="pageBreak" page-number="15"></span>In his description of a pilgrim’s, or disciple’s, progress, John Bunyan wrote:</p>
-      <div class="poetry" uri="/general-conference/2006/10/faith-service-constancy.f2">
-        <div class="stanza">
-          <p class="line" pid="XlQEQmCmEEWzYJ0GMlIUFQ" hash="iGAY7w">
-            <span class="emphasis">Who would true valour see,</span>
-          </p>
-          <p class="line" pid="3O_C7H4pfkKEZiXlhpqk8g" hash="yj4yDw">
-            <span class="emphasis">Let him come hither!</span>
-          </p>
-          <p class="line" pid="GYCJl7YDs0mMU7vHfCKcsw" hash="uZ9vlA">
-            <span class="emphasis">One here will constant be,</span>
-          </p>
-          <p class="line" pid="cBcgSg1Eyk-ikUugTBnLPg" hash="-JMjTQ">
-            <span class="emphasis">Come wind, come weather;</span>
-          </p>
-          <p class="line" pid="j2nmK27uP0a2Z1zFWUhQ4A" hash="x2eaWg">
-            <span class="emphasis">There’s no discouragement</span>
-          </p>
-          <p class="line" pid="Fkslj_QZuUuz_rD8F9GZTg" hash="qEODWw">
-            <span class="emphasis">Shall make him once relent</span>
-          </p>
-          <p class="line" pid="3qJL3zBZTUi27nSGCZughA" hash="FRa-hw">
-            <span class="emphasis">His first avowed intent</span>
-          </p>
-          <p class="line" pid="G2Jiq6OyPkmAN9Xop7_40A" hash="KcP2JQ">
-            <span class="emphasis">To be a pilgrim.</span>
-            <span class="noteMarker" ref="f_4">4</span>
-          </p>
-        </div>
-      </div>
-      <p class="para" uri="/general-conference/2006/10/faith-service-constancy.p20" pid="qVvX_P5D5kubAANP-k37ZA" hash="gwMe2A">The Apostle Paul urged the Colossians to “continue in the faith grounded and settled, and be not moved away from the hope of the gospel, which ye have heard.”<span class="noteMarker" ref="f_5">5</span></p>
-      <p class="para" uri="/general-conference/2006/10/faith-service-constancy.p21" pid="8dOg9kekYEqOKqHkrNBLJw" hash="llIKDQ">To the people of Corinth came this powerful testimony:</p>
-      <p class="para" uri="/general-conference/2006/10/faith-service-constancy.p22" pid="WBlVfkwRAkud0fvp0h25mg" hash="58bIYw">“We are troubled on every side, yet not distressed; we are perplexed, but not in despair;</p>
-      <p class="para" uri="/general-conference/2006/10/faith-service-constancy.p23" pid="foxs81y35UGx6OamRcy_lQ" hash="zF0Q2g">“Persecuted, but not forsaken; cast down, but not destroyed.”<span class="noteMarker" ref="f_6">6</span></p>
-      <p class="para" uri="/general-conference/2006/10/faith-service-constancy.p24" pid="PZtdlzXqiE28n0C53Di2xg" hash="9VhBCw">What made such a perspective possible? Paul gave the reason: “For God, who commanded the light to shine out of darkness, hath shined in our hearts, to give the light of the knowledge of the glory of God in the face of Jesus Christ.”<span class="noteMarker" ref="f_7">7</span></p>
-      <p class="para" uri="/general-conference/2006/10/faith-service-constancy.p25" pid="NnQzZw33q0Ocw7JIoVkEmQ" hash="8U4cVg">It is my witness that as we cultivate our faith, grow through service, and stay constant and true come what may, so we feel the Savior’s love. We place ourselves in the position where we can access the breadth and depth of the blessings of the Atonement. Our membership is transformed into discipleship. We are strengthened, cleansed, refreshed, spiritually and emotionally healed.</p>
-      <p class="para" uri="/general-conference/2006/10/faith-service-constancy.p26" pid="5iKmUgV46U2UY4qxbSnazw" hash="MmE3gw">Of this I testify in the name of Jesus Christ, amen.</p>
-    </div>
-  </div>
-  
-</div>]]></content:encoded>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="13"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/E26CBAE550B3D5BFE402B0C60F6FF8E506C58547/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/E26CBAE550B3D5BFE402B0C60F6FF8E506C58547/full/%21192%2C/0/default" data-video-title="Faith, Service, Constancy" data-video-description="As we cultivate our faith, grow through service, and stay constant and true come what may, so we feel the Savior’s love." data-video-id="2235984389001" data-ip="Download and Streaming                            " data-duration="535902" data-assetId="bfe97debab51dfbbf5a2e8d829fb52c338e73e05" data-ref-id="bfe97debab51dfbbf5a2e8d829fb52c338e73e05" data-duration-string="8:55" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/2235984389001.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="133063972"/><source src="https://assets.churchofjesuschrist.org/bfe97debab51dfbbf5a2e8d829fb52c338e73e05-360p-en.mp4" type="video/mp4" data-width="640" data-height="360" data-file-size="22153992"/><source src="https://assets.churchofjesuschrist.org/bfe97debab51dfbbf5a2e8d829fb52c338e73e05-720p-en.mp4" type="video/mp4" data-width="1280" data-height="720" data-file-size="40862688"/><source src="https://assets.churchofjesuschrist.org/bfe97debab51dfbbf5a2e8d829fb52c338e73e05-1080p-en.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="133063972"/></video><h1 data-aid="28833475" id="title1">Faith, Service, Constancy</h1>
+<div class="byline">
+<p class="author-name" data-aid="28833476" id="p1">By Elder David S. Baxter</p>
+<p class="author-role" data-aid="150471498" id="author2">Of the Seventy</p>
+<div class="image-cropper"><img alt="Elder David S. Baxter" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/0073407df85a11eb8be4eeeeac1ecdeb8d2dbd06/full/%21100%2C/0/default" data-assetId="0073407df85a11eb8be4eeeeac1ecdeb8d2dbd06" srcset="https://www.churchofjesuschrist.org/imgs/0073407df85a11eb8be4eeeeac1ecdeb8d2dbd06/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/0073407df85a11eb8be4eeeeac1ecdeb8d2dbd06/full/%21100%2C/0/default 100w,https://www.churchofjesuschrist.org/imgs/0073407df85a11eb8be4eeeeac1ecdeb8d2dbd06/full/%21200%2C/0/default 200w,https://www.churchofjesuschrist.org/imgs/0073407df85a11eb8be4eeeeac1ecdeb8d2dbd06/full/%21250%2C/0/default 250w,https://www.churchofjesuschrist.org/imgs/0073407df85a11eb8be4eeeeac1ecdeb8d2dbd06/full/%21320%2C/0/default 320w,https://www.churchofjesuschrist.org/imgs/0073407df85a11eb8be4eeeeac1ecdeb8d2dbd06/full/%21500%2C/0/default 500w,https://www.churchofjesuschrist.org/imgs/0073407df85a11eb8be4eeeeac1ecdeb8d2dbd06/full/%21640%2C/0/default 640w" data-img-id="0073407df85a11eb8be4eeeeac1ecdeb8d2dbd06" data-missing-asset="false" data-width="100" data-height="125" data-aspect-ratio="0.8" data-public-title="Baxter, David S." data-public-description="Former official portrait of Elder David S. Baxter of the First Quorum of the Seventy, 2006.  Replaced December 2009."/></div>
+</div>
+<p class="kicker" data-aid="28833477" id="kicker1">As we cultivate our faith, grow through service, and stay constant and true come what may, so we feel the Savior’s love.</p>
+</header>
+<div class="body-block">
+<p data-aid="28833478" id="p2">Thirty-nine years ago two of the Lord’s missionaries knocked on my family’s door in Glasgow, Scotland. We were deeply touched by their brightness, their humility, and their faith. Whenever they were in our home, we felt love and peace. It was a feeling of sheer goodness.</p>
+<p data-aid="28833479" id="p3">Their teaching was personal, sincere, familiar. We simply felt that it was true. A few weeks later we were baptized and confirmed and were immediately embraced with friendship and kindness from members and leaders in our new Church family.</p>
+<p data-aid="28833480" id="p4">So began a gospel journey which has enriched and blessed every aspect of our lives, bringing a deep, abiding, calming sense of purpose and direction. In the hope that it may prove helpful to those new to Church membership, I will share today just three gospel fundamentals learned along the way.</p>
+<p data-aid="28833481" id="p5">First is the motivating, transforming power of faith in Jesus Christ. Such faith is like spiritual oxygen. As we allow faith to freely flow within us, it awakens and enlivens our spiritual senses. It breathes life into our very souls.</p>
+<p data-aid="28833482" id="p6">As faith flows, we become sensitively attuned to the whisperings of the Spirit. Our minds are enlightened, our spiritual pulse quickens, our hearts are touched.</p>
+<p data-aid="28833483" id="p7">Faith fuels hope. Our perspective changes; our vision becomes clearer. We begin to look for the best, not the worst, in life and in others. We gain a deeper sense of life’s purpose and meaning. Despair gives way to joy.</p>
+<p data-aid="28833484" id="p8">Faith such as this is a heavenly gift, but it can be sought and cultivated. As our Bible Dictionary suggests, often “faith is kindled by hearing the testimony of those who have faith.”<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a> Faith is then nurtured as we allow ourselves to believe. Like all other virtues, faith is strengthened as we practice it, as we live and act as if our faith were already deep. Faith is the product of righteous <span class="page-break" data-page="14"></span>desire, belief, and obedience.</p>
+<p data-aid="28833485" id="p9">Thus the Book of Mormon example of the father of King Lamoni, who heard the testimony of Aaron and was willing to believe and to act so that he was led to say in humble prayer, “If there is a God, and if thou art God, wilt thou make thyself known unto me, and I will give away all my sins to know thee.”<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a></p>
+<p data-aid="28833486" id="p10">So it can be for us as we allow ourselves to be touched by the spirit of testimony, as we exercise belief, as we desire, ponder, seek—as we cultivate our faith.</p>
+<p data-aid="28833487" id="p11">Second, as we serve we grow. President George Albert Smith taught, “It is not what we receive that enriches our lives, it is what we give.”<a class="note-ref" href="#note3"><sup class="marker" data-value="3"></sup></a></p>
+<p data-aid="28833488" id="p12">Selfless service is a wonderful antidote to the ills that flow from the worldwide epidemic of self-indulgence. Some grow bitter or anxious when it seems that not enough attention is being paid to them, when their lives would be so enriched if only they paid more attention to the needs of others.</p>
+<p data-aid="28833489" id="p13">The answer lies in helping to solve the problems of those around us rather than worrying about our own, living to lift burdens even when we ourselves feel weighed down, putting our shoulder to the wheel instead of complaining that the wagons of life seem to be passing us by.</p>
+<p data-aid="28833490" id="p14">Stretching our souls in service helps us to rise above our cares, concerns, and challenges. As we focus our energies on lifting the burdens of others, something miraculous happens. Our own burdens diminish. We become happier. There is more substance to our lives.</p>
+<p data-aid="28833491" id="p15">Third, discipleship does not guarantee freedom from the storms of life. Even as we are wending our way carefully and faithfully along the strait and narrow path, we encounter obstacle and challenge. There are days, perhaps even months and years, when life is just hard. We experience our fair share of adversity, heartache, loneliness, pain, grief—sometimes, it seems, more than our fair share.</p>
+<p data-aid="28833492" id="p16">What to do when adversity strikes? There is only one thing to do. Stand steady and see it through. Stay steadfast, constant, and true. The real tragedy in the whirlwinds of life comes only when we allow them to blow us off our true course.</p>
+<p data-aid="28833493" id="p17">At these moments of crisis and challenge, some choose to abandon faith just at the time when it most needs to be embraced. Prayer is ignored at the very hour when it needs to be intensified. Virtue is carelessly tossed aside when it needs to be cherished. God is forsaken in the all-too-human yet mistaken fear that He has forsaken us.</p>
+<p data-aid="28833494" id="p18">The truth is that our only safety, our only security, our only hope is to hold fast to that which is good. As the mists of darkness gather around us, we are only lost if we choose to let go of the iron rod, which is the word of God.</p>
+<p data-aid="28833495" id="p19">The Savior’s parable of the wise man who built his house upon a rock has power precisely because it illustrates that life’s challenges befell the wise man too. The rains fell, the winds blew, the floods rose up. Yet he survived it all because he had built upon a sure foundation and, crucially, he stayed there when the storm came.</p>
+<span class="page-break" data-page="15"></span>
+<p data-aid="28833496" id="p20">In his description of a pilgrim’s, or disciple’s, progress, John Bunyan wrote:</p>
+<div class="poetry">
+<div class="stanza">
+<p class="line" data-aid="28833497" id="p21">Who would true valour see,</p>
+<p class="line" data-aid="28833498" id="p22">Let him come hither!</p>
+<p class="line" data-aid="28833499" id="p23">One here will constant be,</p>
+<p class="line" data-aid="28833500" id="p24">Come wind, come weather;</p>
+<p class="line" data-aid="28833501" id="p25">There’s no discouragement</p>
+<p class="line" data-aid="28833502" id="p26">Shall make him once relent</p>
+<p class="line" data-aid="28833503" id="p27">His first avowed intent</p>
+<p class="line" data-aid="28833504" id="p28">To be a pilgrim.<a class="note-ref" href="#note4"><sup class="marker" data-value="4"></sup></a></p>
+</div>
+</div>
+<p data-aid="28833505" id="p29">The Apostle Paul urged the Colossians to “continue in the faith grounded and settled, and be not moved away from the hope of the gospel, which ye have heard.”<a class="note-ref" href="#note5"><sup class="marker" data-value="5"></sup></a></p>
+<p data-aid="28833506" id="p30">To the people of Corinth came this powerful testimony:</p>
+<p data-aid="28833507" id="p31">“We are troubled on every side, yet not distressed; we are perplexed, but not in despair;</p>
+<p data-aid="28833508" id="p32">“Persecuted, but not forsaken; cast down, but not destroyed.”<a class="note-ref" href="#note6"><sup class="marker" data-value="6"></sup></a></p>
+<p data-aid="28833509" id="p33">What made such a perspective possible? Paul gave the reason: “For God, who commanded the light to shine out of darkness, hath shined in our hearts, to give the light of the knowledge of the glory of God in the face of Jesus Christ.”<a class="note-ref" href="#note7"><sup class="marker" data-value="7"></sup></a></p>
+<p data-aid="28833510" id="p34">It is my witness that as we cultivate our faith, grow through service, and stay constant and true come what may, so we feel the Savior’s love. We place ourselves in the position where we can access the breadth and depth of the blessings of the Atonement. Our membership is transformed into discipleship. We are strengthened, cleansed, refreshed, spiritually and emotionally healed.</p>
+<p data-aid="28833511" id="p35">Of this I testify in the name of Jesus Christ, amen.</p>
+</div>
+<footer class="notes">
+<p class="title" data-aid="150471499" id="notetitle1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="28833512" id="note1_p1">Bible Dictionary, “<a class="scripture-ref" href="/study/scriptures/bd/faith?lang=eng&amp;id=p1#p1">Faith</a>,” 669.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="28833513" id="note2_p1"><a class="scripture-ref" href="/study/scriptures/bofm/alma/22?lang=eng&amp;id=p18#p18">Alma 22:18</a>.</p>
+</li>
+<li data-marker="3." id="note3" data-full-marker="3.">
+<p data-aid="28833514" id="note3_p1">In Conference Report, Apr. 1935, 46.</p>
+</li>
+<li data-marker="4." id="note4" data-full-marker="4.">
+<p data-aid="28833515" id="note4_p1"><em>The Pilgrim’s Progress</em> (1997), 295.</p>
+</li>
+<li data-marker="5." id="note5" data-full-marker="5.">
+<p data-aid="28833516" id="note5_p1"><a class="scripture-ref" href="/study/scriptures/nt/col/1?lang=eng&amp;id=p23#p23">Colossians 1:23</a>.</p>
+</li>
+<li data-marker="6." id="note6" data-full-marker="6.">
+<p data-aid="28833517" id="note6_p1"><a class="scripture-ref" href="/study/scriptures/nt/2-cor/4?lang=eng&amp;id=p8-p9#p8">2 Corinthians 4:8–9</a>.</p>
+</li>
+<li data-marker="7." id="note7" data-full-marker="7.">
+<p data-aid="28833518" id="note7_p1"><a class="scripture-ref" href="/study/scriptures/nt/2-cor/4?lang=eng&amp;id=p6#p6">2 Corinthians 4:6</a>.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/2006/10/faith-service-constancy</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/october-2006-general-conference/2006-10-1050-elder-david-s-baxter-64k-eng.mp3" length="4265434" type="audio/mpeg"/>
-      <pubDate>Sat, 30 Sep 2006 10:00:00 -0700</pubDate>
+      <enclosure url="https://assets.churchofjesuschrist.org/280e6e9432e911ecac35eeeeac1e7c59e5d61341-128k-en.mp3" length="8821305" type="audio/mpeg"/>
+      <pubDate>Sat, 30 Sep 2006 10:00:00 -0600</pubDate>
+      <itunes:author>David S. Baxter</itunes:author>
     </item>
     <item>
       <title>Faith, Fortitude, Fulfillment: A Message to Single Parents</title>
-      <link>http://www.lds.org/general-conference/2012/04/faith-fortitude-fulfillment-a-message-to-single-parents?lang=eng</link>
+      <link>https://www.churchofjesuschrist.org/study/general-conference/2012/04/faith-fortitude-fulfillment-a-message-to-single-parents?lang=eng</link>
       <description>You are striving to raise your children in righteousness and truth, knowing that while you cannot change the past, you can shape the future.</description>
-      <content:encoded><![CDATA[<div type="article" uri="/general-conference/2012/04/faith-fortitude-fulfillment-a-message-to-single-parents" dup-conf="false" dup-mag="false" schema-version="1" doc-id="general-conference_10485_000_27baxte" doc-version="2" hash="HMgY5A"><div class="heading" uri="/general-conference/2012/04/faith-fortitude-fulfillment-a-message-to-single-parents.head1"><h1 class="title" pid="cmerHmLf0ki3yUoxkffAqw" hash="xYP88g">Faith, Fortitude, Fulfillment: A Message to Single Parents</h1><p class="authorName" pid="mbOWHXbRYE6ByW-kmcERzA" hash="opppow">By Elder David S. Baxter</p><p class="kicker" pid="wksrtxXHgU-dMR0EfTGdWg" hash="WrgqnQ">You are striving to raise your children in righteousness and truth, knowing that while you cannot change the past, you can shape the future.</p></div><div class="bodyBlock">
-    <p class="para" uri="/general-conference/2012/04/faith-fortitude-fulfillment-a-message-to-single-parents.p5" pid="c07IjSKR-UK4g1VS8uiSxA" hash="TsoIIw">
-      <span class="pageBreak" page-number="37"></span>My message is for the single parents in the Church, the majority of whom are single mothers—you valiant women who, through the varying circumstances of life, find yourselves raising children and running a home on your own. Perhaps you have been widowed or divorced. You may be coping with the challenges of single parenthood as a result of having taken a wrong turn outside of marriage, but you are now living within the framework of the gospel, having turned your life around. Bless you for avoiding the type of companionship that would come at the expense of virtue and discipleship. That would be far too high a price to pay.</p>
-    <p class="para" uri="/general-conference/2012/04/faith-fortitude-fulfillment-a-message-to-single-parents.p6" pid="YOf9OsjUUkSSbz18SXodUw" hash="2kpnQQ">Although you may at times have asked, why me? it is through the hardships of life that we grow toward godhood as our character is shaped in the crucible of affliction, as the events of life take place while God respects the agency of man. As Elder Neal A. Maxwell commented, we cannot do all the sums or make it all add up because “we do not have all the numbers.”<span class="noteMarker" ref="f_1">1</span></p>
-    <p class="para" uri="/general-conference/2012/04/faith-fortitude-fulfillment-a-message-to-single-parents.p7" pid="PY4v1BUMuECXua7t8RBEHg" hash="dH-LOw">Whatever your circumstances or the reasons for them, how wonderful you are. Day to day you face the struggles of life, doing the work that was always meant for two but doing it largely alone. You have to be father as well as mother. You run your household, watch over your family, sometimes struggle to make ends meet, and miraculously you even find the wherewithal to serve in the Church in significant ways. You nurture your children. You cry and pray with them and for them. You want the very best for them but fret every night that your best may never be good enough.</p>
-    <p class="para" uri="/general-conference/2012/04/faith-fortitude-fulfillment-a-message-to-single-parents.p8" pid="HTs4hCGsmU6Q2uOpdMnPpQ" hash="OJK8tw">Whilst reluctant to be overly personal, I am the product of such a home. For most of my childhood and teenage years, my mother raised us on her own in poor circumstances. Money was carefully rationed. She coped with an inner loneliness, desperate at times for support and companionship. Yet despite all of this, there was a dignity about my mother, a tremendous source of determination and sheer Scottish grit.</p>
-    <p class="para" uri="/general-conference/2012/04/faith-fortitude-fulfillment-a-message-to-single-parents.p9" pid="mXlAPIvQRkiSw7eynH5DCA" hash="tiyvoQ">Thankfully, her later years were more blessed than the beginning. She married a new convert, a widower; they were sealed in the London England Temple and later briefly served there as ordinance workers. They were together for almost a quarter of a century—happy, content, and fulfilled until overtaken by mortality.</p>
-    <p class="para" uri="/general-conference/2012/04/faith-fortitude-fulfillment-a-message-to-single-parents.p10" pid="2z5UNc0JcE2xhBq1m9w-tQ" hash="1kYzfQ">There are many of you good women in the Church across the world who face similar circumstances and who demonstrate the same resilience year after year.</p>
-    <p class="para" uri="/general-conference/2012/04/faith-fortitude-fulfillment-a-message-to-single-parents.p11" pid="pLe3YfICAUe60A8EI9Uu0A" hash="A4K3zg">This is not exactly what you hoped or planned, prayed for or expected, when you started out years ago. Your journey through life has had bumps, detours, twists, and turns, mostly as the result of life in a fallen world that is meant to be a place of proving and testing.</p>
-    <p class="para" uri="/general-conference/2012/04/faith-fortitude-fulfillment-a-message-to-single-parents.p12" pid="G0jo84Yk1UadE-iktmkeiA" hash="3GzwBQ">Meanwhile, you are striving to raise your children in righteousness and truth, knowing that while you cannot change the past, you can shape the future. Along the way you will obtain compensatory blessings, even if they are not immediately apparent.</p>
-    <p class="para" uri="/general-conference/2012/04/faith-fortitude-fulfillment-a-message-to-single-parents.p13" pid="nFg6bnpPe0OfmvGMSPNPZA" hash="hNpJYA">With God’s help, you need not fear for the future. Your children will grow up and call you blessed, and every single one of their many achievements will stand as a tribute to you.</p>
-    <p class="para" uri="/general-conference/2012/04/faith-fortitude-fulfillment-a-message-to-single-parents.p14" pid="dJLbu7iaXU20fZFy-18QfQ" hash="W0AhZg">Please never feel that you are in some kind of second-tier subcategory of Church membership, somehow less entitled to the Lord’s blessings than others. In the kingdom of God there are no second-class citizens.</p>
-    <p class="para" uri="/general-conference/2012/04/faith-fortitude-fulfillment-a-message-to-single-parents.p15" pid="fm2Og9z5PUCAbnC7c_19NQ" hash="vmn15A">We hope that when you attend meetings and see seemingly complete <span class="pageBreak" page-number="38"></span>and happy families or hear someone speak of family ideals, you will feel glad to be part of a church that does focus on families and teaches of their central role in Heavenly Father’s plan for the happiness of His children; that in the midst of world calamity and moral decay, we have the doctrine, authority, ordinances, and covenants that do hold out the best hope for the world, including for the future happiness of your children and the families they will create.</p>
-    <p class="para" uri="/general-conference/2012/04/faith-fortitude-fulfillment-a-message-to-single-parents.p16" pid="-nxodHkDEEeAE3TEiCiFHw" hash="QAd-kQ">In the general Relief Society meeting of September 2006, President Gordon B. Hinckley related an experience shared by a divorced single mother of seven children then ranging in ages from 7 to 16. She had gone across the street to deliver something to a neighbor. She said:</p>
-    <p class="para" uri="/general-conference/2012/04/faith-fortitude-fulfillment-a-message-to-single-parents.p17" pid="NWUIlJUxkkyPQ0gPeZVMtg" hash="D_-6hg">“As I turned around to walk back home, I could see my house lighted up. I could hear echoes of my children as I had walked out of the door a few minutes earlier. They were saying: ‘Mom, what are we going to have for dinner?’ ‘Can you take me to the library?’ ‘I have to get some poster paper tonight.’ Tired and weary, I looked at that house and saw the light on in each of the rooms. I thought of all of those children who were home waiting for me to come and meet their needs. My burdens felt heavier than I could bear.</p>
-    <p class="para" uri="/general-conference/2012/04/faith-fortitude-fulfillment-a-message-to-single-parents.p18" pid="pLFwzNqWZU-m1A-z58pn0w" hash="a52LQQ">“I remember looking through tears toward the sky, and I said, ‘Dear Father, I just can’t do it tonight. I’m too tired. I can’t face it. I can’t go home and take care of all those children alone. Could I just come to You and stay with You for just one night? …’</p>
-    <p class="para" uri="/general-conference/2012/04/faith-fortitude-fulfillment-a-message-to-single-parents.p19" pid="Wc96b3jYjUWlwHCq8Sassg" hash="I1-Vsw">“I didn’t really hear the words of reply, but I heard them in my mind. The answer was: ‘No, little one, you can’t come to me now. … But I can come to you.’”<span class="noteMarker" ref="f_2">2</span></p>
-    <p class="para" uri="/general-conference/2012/04/faith-fortitude-fulfillment-a-message-to-single-parents.p20" pid="Q2wYtS92OUqjowhkUOcQ1g" hash="d63E8w">Thank you, sisters, for all that you are doing to raise your family and maintain a loving home where there is goodness, peace, and opportunity.</p>
-    <p class="para" uri="/general-conference/2012/04/faith-fortitude-fulfillment-a-message-to-single-parents.p21" pid="BO2RQM6lbUerBojobbzcAw" hash="JeAwew">Although you often feel alone, in truth you are never <span class="emphasis">totally</span> on your own. As you move forward in patience and in faith, Providence will move with you; heaven will bestow its needful blessings.</p>
-    <p class="para" uri="/general-conference/2012/04/faith-fortitude-fulfillment-a-message-to-single-parents.p22" pid="dhj3KU91wUO4AJW6J_Kjng" hash="P_G6hg">Your perspective and view of life will change when, rather than being cast down, you look up.</p>
-    <p class="para" uri="/general-conference/2012/04/faith-fortitude-fulfillment-a-message-to-single-parents.p23" pid="m4fpgRH3p0mrmnCciQlHkA" hash="nQTQfg">Many of you have already discovered the great, transforming truth that when you live to lift the burdens of others, your own burdens become lighter. Although circumstances may not have changed, your attitude has. <span class="pageBreak" page-number="39"></span>You are able to face your own trials with greater acceptance, a more understanding heart, and deeper gratitude for what you have, rather than pining for what you yet lack.</p>
-    <p class="para" uri="/general-conference/2012/04/faith-fortitude-fulfillment-a-message-to-single-parents.p24" pid="Vahydk9nTUuraMQHwn3lMw" hash="hiEYAA">You have discovered that when we extend lines of hopeful credit to those whose life accounts seem empty, our own coffers of consolation are enriched and made full; our cup truly “runneth over” (<a href="/scriptures/ot/ps/23.5" class="scriptureRef">Psalm 23:5</a>).</p>
-    <p class="para" uri="/general-conference/2012/04/faith-fortitude-fulfillment-a-message-to-single-parents.p25" pid="d6Hxz3gudkOdTDC0sHvOkg" hash="wBkhsA">Through righteous living, you and your children may one day enjoy the blessings of being part of a complete, eternal family.</p>
-    <p class="para" uri="/general-conference/2012/04/faith-fortitude-fulfillment-a-message-to-single-parents.p26" pid="FgtqVhQ2_0KwCHgtJ2t2ZA" hash="3EVNaA">Members and leaders, is there more that you could do to support single-parent families without passing judgment or casting aspersions? Might you mentor young people in these families, especially providing for young men examples of what good men do and how good men live? In the absence of fathers, are you providing role models worthy of emulation?</p>
-    <p class="para" uri="/general-conference/2012/04/faith-fortitude-fulfillment-a-message-to-single-parents.p27" pid="qKE051wuM0u9dgnu0cp4MA" hash="zntESw">Now, there are, of course, some single families where it is the father who is the single parent. Brethren, we also pray for you and pay tribute to you. This message is also for you.</p>
-    <p class="para" uri="/general-conference/2012/04/faith-fortitude-fulfillment-a-message-to-single-parents.p28" pid="n1YUVP8uHEutZe9ZgABj2Q" hash="Qi4YkA">Single parents, I testify that as you do your very best in the most difficult of human challenges, heaven will smile upon you. Truly you are not alone. Let the redemptive, loving power of Jesus Christ brighten your life now and fill you with the hope of eternal promise. Take courage. Have faith and hope. Consider the present with fortitude and look to the future with confidence. In the name of Jesus Christ, amen.</p>
-  </div></div>]]></content:encoded>
+      <content:encoded><![CDATA[<header>
+<span class="page-break" data-page="37"></span>
+
+<video preload="none" controls="controls" poster="https://www.churchofjesuschrist.org/imgs/1ngum6yt89groou5du777rdx7sqb2pa3socncdq8/full/%21768%2C/0/default" thumbnail="https://www.churchofjesuschrist.org/imgs/1ngum6yt89groou5du777rdx7sqb2pa3socncdq8/full/%21192%2C/0/default" data-video-title="Faith, Fortitude, Fulfillment: A Message to Single Parents" data-video-description="You are striving to raise your children in righteousness and truth, knowing that while you cannot change the past, you can shape the future." data-video-id="1543916448001" data-ip="Download and Streaming                            " data-duration="516210" data-assetId="b0b65abf59c15157b47397352b9c5aacf166e286" data-ref-id="b0b65abf59c15157b47397352b9c5aacf166e286" data-duration-string="8:36" id="video2"><source src="https://mediasrv.churchofjesuschrist.org/vod/stream/1241706627001/1543916448001.m3u8" type="application/vnd.apple.mpegurl" data-width="1920" data-height="1080" data-file-size="530741722"/><source src="https://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-2060-elder-david-s-baxter-1080p-eng.mp4" type="video/mp4" data-width="1920" data-height="1080" data-file-size="530741722"/></video><h1 data-aid="28853334" id="title1">Faith, Fortitude, Fulfillment: A Message to Single Parents</h1>
+<div class="byline">
+<p class="author-name" data-aid="28853335" id="p1">By Elder David S. Baxter</p>
+<p class="author-role" data-aid="28853336" id="p2">Of the Seventy</p>
+<div class="image-cropper"><img alt="Elder David S. Baxter" class="headshot" id="img1" src="https://www.churchofjesuschrist.org/imgs/863c7464ed87fe29dfcef3d644ccb2b4999677fa/full/%21100%2C/0/default" data-assetId="863c7464ed87fe29dfcef3d644ccb2b4999677fa" srcset="https://www.churchofjesuschrist.org/imgs/863c7464ed87fe29dfcef3d644ccb2b4999677fa/full/%2160%2C/0/default 60w,https://www.churchofjesuschrist.org/imgs/863c7464ed87fe29dfcef3d644ccb2b4999677fa/full/%21100%2C/0/default 100w" data-img-id="863c7464ed87fe29dfcef3d644ccb2b4999677fa" data-missing-asset="false" data-width="100" data-height="124" data-aspect-ratio="0.8064516129032258" data-public-title="Baxter, David S." data-public-description="Former Official portrait of Elder David S. Baxter.  Replaced March 2017."/></div>
+</div>
+<p class="kicker" data-aid="28853337" id="kicker1">You are striving to raise your children in righteousness and truth, knowing that while you cannot change the past, you can shape the future.</p>
+</header>
+<div class="body-block">
+<p data-aid="28853338" id="p3">My message is for the single parents in the Church, the majority of whom are single mothers—you valiant women who, through the varying circumstances of life, find yourselves raising children and running a home on your own. Perhaps you have been widowed or divorced. You may be coping with the challenges of single parenthood as a result of having taken a wrong turn outside of marriage, but you are now living within the framework of the gospel, having turned your life around. Bless you for avoiding the type of companionship that would come at the expense of virtue and discipleship. That would be far too high a price to pay.</p>
+<p data-aid="28853339" id="p4">Although you may at times have asked, “Why me?” it is through the hardships of life that we grow toward godhood as our character is shaped in the crucible of affliction, as the events of life take place while God respects the agency of man. As Elder Neal A. Maxwell commented, we cannot do all the sums or make it all add up because “we do not have all the numbers.”<a class="note-ref" href="#note1"><sup class="marker" data-value="1"></sup></a></p>
+<p data-aid="28853340" id="p5">Whatever your circumstances or the reasons for them, how wonderful you are. Day to day you face the struggles of life, doing the work that was always meant for two but doing it largely alone. You have to be father as well as mother. You run your household, watch over your family, sometimes struggle to make ends meet, and miraculously even find the wherewithal to serve in the Church in significant ways. You nurture your children. You cry and pray with them and for them. You want the very best for them but fret every night that your best may never be good enough.</p>
+<p data-aid="28853341" id="p6">Whilst reluctant to be overly personal, I am the product of such a home. For most of my childhood and teenage years, my mother raised us on her own in poor circumstances. Money was carefully rationed. She coped with an inner loneliness, desperate at times for support and companionship. Yet despite all of this, there was a dignity about my mother, a tremendous source of determination and sheer Scottish grit.</p>
+<p data-aid="28853342" id="p7">Thankfully, her later years were more blessed than the beginning. She married a new convert, a widower; they were sealed in the London England Temple and later briefly served there as ordinance workers. They were together for almost a quarter of a century—happy, content, and fulfilled until overtaken by mortality.</p>
+<p data-aid="28853343" id="p8">There are many of you good women in the Church across the world who face similar circumstances and who demonstrate the same resilience year after year.</p>
+<p data-aid="28853344" id="p9">This is not exactly what you hoped or planned, prayed for or expected, when you started out years ago. Your journey through life has had bumps, detours, twists, and turns, mostly as the result of life in a fallen world that is meant to be a place of proving and testing.</p>
+<p data-aid="28853345" id="p10">Meanwhile, you are striving to raise your children in righteousness and truth, knowing that while you cannot change the past, you can shape the future. Along the way you will obtain compensatory blessings, even if they are not immediately apparent.</p>
+<p data-aid="28853346" id="p11">With God’s help, you need not fear for the future. Your children will grow up and call you blessed, and every single one of their many achievements will stand as a tribute to you.</p>
+<p data-aid="28853347" id="p12">Please never feel that you are in some kind of second-tier subcategory of Church membership, somehow less entitled to the Lord’s blessings than others. In the kingdom of God there are no second-class citizens.</p>
+<p data-aid="28853348" id="p13">We hope that when you attend meetings and see seemingly complete <span class="page-break" data-page="38"></span>and happy families or hear someone speak of family ideals, you will feel glad to be part of a church that does focus on families and teaches of their central role in Heavenly Father’s plan for the happiness of His children; that in the midst of world calamity and moral decay, we have the doctrine, authority, ordinances, and covenants that do hold out the best hope for the world, including for the future happiness of your children and the families they will create.</p>
+<p data-aid="28853349" id="p14">In the general Relief Society meeting of September 2006, President Gordon B. Hinckley related an experience shared by a divorced single mother of seven children then ranging in ages from 7 to 16. She had gone across the street to deliver something to a neighbor. She said:</p>
+<p data-aid="28853350" id="p15">“As I turned around to walk back home, I could see my house lighted up. I could hear echoes of my children as I had walked out of the door a few minutes earlier. They were saying: ‘Mom, what are we going to have for dinner?’ ‘Can you take me to the library?’ ‘I have to get some poster paper tonight.’ Tired and weary, I looked at that house and saw the light on in each of the rooms. I thought of all of those children who were home waiting for me to come and meet their needs. My burdens felt heavier than I could bear.</p>
+<p data-aid="28853351" id="p16">“I remember looking through tears toward the sky, and I said, ‘Dear Father, I just can’t do it tonight. I’m too tired. I can’t face it. I can’t go home and take care of all those children alone. Could I just come to You and stay with You for just one night? …’</p>
+<p data-aid="28853352" id="p17">“I didn’t really hear the words of reply, but I heard them in my mind. The answer was: ‘No, little one, you can’t come to me now. … But I can come to you.’”<a class="note-ref" href="#note2"><sup class="marker" data-value="2"></sup></a></p>
+<p data-aid="28853353" id="p18">Thank you, sisters, for all that you are doing to raise your family and maintain a loving home where there is goodness, peace, and opportunity.</p>
+<p data-aid="28853354" id="p19">Although you often feel alone, in truth you are never <em>totally</em> on your own. As you move forward in patience and in faith, Providence will move with you; heaven will bestow its needful blessings.</p>
+<p data-aid="28853355" id="p20">Your perspective and view of life will change when, rather than being cast down, you look up.</p>
+<p data-aid="28853356" id="p21">Many of you have already discovered the great, transforming truth that when you live to lift the burdens of others, your own burdens become lighter. Although circumstances may not have changed, your attitude has. <span class="page-break" data-page="39"></span>You are able to face your own trials with greater acceptance, a more understanding heart, and deeper gratitude for what you have, rather than pining for what you yet lack.</p>
+<p data-aid="28853357" id="p22">You have discovered that when we extend lines of hopeful credit to those whose life accounts seem empty, our own coffers of consolation are enriched and made full; our cup truly “runneth over” (<a class="scripture-ref" href="/study/scriptures/ot/ps/23?lang=eng&amp;id=p5#p5">Psalm 23:5</a>).</p>
+<p data-aid="28853358" id="p23">Through righteous living, you and your children may one day enjoy the blessings of being part of a complete, eternal family.</p>
+<p data-aid="28853359" id="p24">Members and leaders, is there more that you could do to support single-parent families without passing judgment or casting aspersions? Might you mentor young people in these families, especially providing for young men examples of what good men do and how good men live? In the absence of fathers, are you providing role models worthy of emulation?</p>
+<p data-aid="28853360" id="p25">Now, there are, of course, some single families where it is the father who is the single parent. Brethren, we also pray for you and pay tribute to you. This message is also for you.</p>
+<p data-aid="28853361" id="p26">Single parents, I testify that as you do your very best in the most difficult of human challenges, heaven will smile upon you. Truly you are not alone. Let the redemptive, loving power of Jesus Christ brighten your life now and fill you with the hope of eternal promise. Take courage. Have faith and hope. Consider the present with fortitude and look to the future with confidence. In the name of Jesus Christ, amen.</p>
+</div>
+<footer class="notes">
+<p class="title" data-aid="28853362" id="notetitle1">Notes</p>
+<ol class="decimal" data-type="marker" start="1">
+<li data-marker="1." id="note1" data-full-marker="1.">
+<p data-aid="28853363" id="note1_p1">Neal A. Maxwell, <em>Notwithstanding My Weakness</em> (1981), 68.</p>
+</li>
+<li data-marker="2." id="note2" data-full-marker="2.">
+<p data-aid="28853364" id="note2_p1">In Gordon B. Hinckley, “In the Arms of His Love,” <em>Liahona</em> and <em>Ensign,</em> Nov. 2006, 117.</p>
+</li>
+</ol>
+</footer>]]></content:encoded>
       <guid isPermaLink="false">/general-conference/2012/04/faith-fortitude-fulfillment-a-message-to-single-parents</guid>
-      <enclosure url="http://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-2060-elder-david-s-baxter-64k-eng.mp3" length="4108084" type="audio/mpeg"/>
-      <pubDate>Sat, 31 Mar 2012 14:00:00 -0700</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-2060-elder-david-s-baxter-64k-eng.mp3" length="4108084" type="audio/mpeg"/>
+      <pubDate>Sat, 31 Mar 2012 14:00:00 -0600</pubDate>
+      <itunes:author>David S. Baxter</itunes:author>
     </item>
   </channel>
 </rss>
