@@ -19,7 +19,9 @@ One request returns a conference's table of contents — sessions, speakers, tit
 per talk returns its audio URL and article body. Everything is grouped by speaker into an RSS feed
 under `feeds/`, with a generated cover image under `covers/`.
 
-Feeds and covers are committed to `main`, which GitHub Pages serves directly.
+Feeds and covers are **not committed**. They are generated in CI and published straight to GitHub
+Pages, so `feeds/` and `covers/` exist only in your working copy and in the deployed site. See
+[Why the output isn't committed](#why-the-output-isnt-committed).
 
 ## Running it
 
@@ -28,6 +30,13 @@ Requires Python 3.11+. With [uv](https://docs.astral.sh/uv/):
 ```bash
 uv sync
 uv run speakercast
+```
+
+A fresh clone has no `feeds/`, `covers/` or `assets/data.json` — they are generated. Run the
+command above once (about four minutes cold) before serving the site locally:
+
+```bash
+python3 -m http.server 8000
 ```
 
 Useful flags:
@@ -44,7 +53,7 @@ seconds, which is why normal operation is always a full run.
 
 `--start` / `--end` exist for development against a small slice of history. A bounded run only
 knows about the speakers in that range, so it rewrites those speakers' feeds with just the in-range
-talks and skips pruning entirely. Don't commit the output of one.
+talks and skips pruning entirely. Never deploy the output of one.
 
 ## Tests
 
@@ -62,11 +71,30 @@ likely to break this project is the Church changing its endpoints or page markup
 | --- | --- | --- |
 | `ci.yml` | push, PR | Lint and run the offline tests on Python 3.11–3.13 |
 | `ci.yml` (`api-contract`) | weekly | Check the live study API still behaves |
-| `update-feeds.yml` | daily, 1st–16th of April and October | Regenerate feeds and commit anything new |
+| `deploy.yml` | push to `main`, plus daily 1st–16th of April and October | Regenerate feeds and covers and deploy them to Pages |
 
 General conference is the first weekend of April and October, and audio lands over the following
-days, so the update workflow runs daily through the first half of those months and commits only
-when something actually changed. It can also be run by hand from the Actions tab.
+days, so the deploy workflow runs daily through the first half of those months. It can also be run
+by hand from the Actions tab, with an option to ignore the cache.
+
+Before publishing, the workflow checks that `data.json`, `feeds/` and `covers/` all agree on the
+speaker count and that it is at least 500 — a partial build would otherwise unpublish feeds people
+subscribe to.
+
+## Why the output isn't committed
+
+Feeds and covers used to be committed alongside the source. Regenerating them rewrites every
+affected speaker's whole feed, so each conference added about **23 MB of permanent git history** —
+roughly 46 MB a year, which is how `.git` reached ~500 MB. Around 80% of those bytes were the full
+article text embedded in each feed's `<content:encoded>`.
+
+Publishing to Pages from CI instead keeps the repository to its actual source, stops history
+growing, and still ships complete show notes. GitHub Pages retains the last successful deployment,
+so a failed build leaves the previous site serving rather than taking it down.
+
+This only stops *future* growth. The ~500 MB already in history stays until someone rewrites it
+(`git filter-repo`), which changes every commit hash — worth doing only if clone time becomes a
+real problem.
 
 ## Maintenance
 

@@ -1,0 +1,100 @@
+name: Deploy site
+
+# Feeds and covers are generated here and published straight to GitHub Pages.
+# They are deliberately not committed — regenerating every feed twice a year
+# added ~23 MB of permanent git history each time.
+on:
+  push:
+    branches: [main]
+  schedule:
+    # General conference is the first weekend of April and October, and audio
+    # lands over the following days. Check daily through the first half.
+    - cron: "0 15 1-16 4,10 *"
+  workflow_dispatch:
+    inputs:
+      refresh:
+        description: "Ignore the cache and refetch every conference"
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Never run two deploys at once, and never cancel one midway — a half-written
+# site would be published.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    name: Build site
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: astral-sh/setup-uv@v7
+        with:
+          enable-cache: true
+          python-version: "3.13"
+
+      - name: Install
+        run: uv sync
+
+      # Past conferences never change, and covers are deterministic, so a warm
+      # cache turns a full rebuild into a handful of requests.
+      - name: Restore talk and cover cache
+        uses: actions/cache@v4
+        with:
+          path: |
+            .cache
+            covers
+          key: speakercast-${{ github.run_id }}
+          restore-keys: speakercast-
+
+      - name: Generate feeds and covers
+        run: uv run speakercast --workers 12 ${{ inputs.refresh && '--refresh' || '' }}
+
+      - name: Assemble site
+        run: |
+          mkdir -p _site
+          cp -R index.html assets feeds covers _site/
+          echo "feeds=$(ls _site/feeds | wc -l)" >> "$GITHUB_ENV"
+          echo "covers=$(ls _site/covers | wc -l)" >> "$GITHUB_ENV"
+
+      - name: Check the site looks complete
+        # A partial build would silently unpublish feeds people subscribe to.
+        run: |
+          test -f _site/index.html
+          test -f _site/assets/data.json
+          speakers=$(python3 -c "import json;print(len(json.load(open('_site/assets/data.json'))))")
+          echo "data.json lists $speakers speakers; $feeds feeds, $covers covers on disk"
+          test "$speakers" -eq "$feeds"
+          test "$speakers" -eq "$covers"
+          test "$speakers" -ge 500
+
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+
+      - name: Summarize
+        run: |
+          {
+            echo "### Speakercast"
+            echo ""
+            echo "- Speakers: $feeds"
+          } >> "$GITHUB_STEP_SUMMARY"
+
+  deploy:
+    name: Deploy to Pages
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
