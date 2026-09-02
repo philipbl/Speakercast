@@ -1,0 +1,74 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  schedule:
+    # Weekly: catch the study API changing out from under us.
+    - cron: "0 14 * * 1"
+  workflow_dispatch:
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  test:
+    name: Lint and test (Python ${{ matrix.python-version }})
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        python-version: ["3.11", "3.12", "3.13"]
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: astral-sh/setup-uv@v7
+        with:
+          enable-cache: true
+          python-version: ${{ matrix.python-version }}
+
+      - name: Install
+        run: uv sync --all-extras
+
+      - name: Lint
+        run: |
+          uv run ruff check .
+          uv run ruff format --check .
+
+      - name: Test
+        run: uv run pytest
+
+      - name: Check feed filenames are NFC
+        # NFD filenames come from macOS and 404 on GitHub Pages.
+        run: |
+          uv run python - <<'EOF'
+          import subprocess, sys, unicodedata
+          paths = subprocess.run(["git", "ls-files", "-z"], capture_output=True,
+                                 check=True).stdout.decode().split("\0")
+          bad = [p for p in paths if p and unicodedata.normalize("NFC", p) != p]
+          if bad:
+              print("Not NFC:", *bad, sep="\n  ")
+              sys.exit(1)
+          print(f"All {len(paths)} tracked paths are NFC.")
+          EOF
+
+  api-contract:
+    name: Live API contract
+    # The endpoints, not our code. Only worth paying for on a schedule.
+    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: astral-sh/setup-uv@v7
+        with:
+          enable-cache: true
+          python-version: "3.13"
+
+      - name: Install
+        run: uv sync --all-extras
+
+      - name: Check the study API still behaves
+        run: uv run pytest -m network --override-ini "addopts=-q"
